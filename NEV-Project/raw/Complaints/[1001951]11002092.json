@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "06/29/2017",
+        "dateOfIncident": "06/29/2017",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11002092,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "COROLLA",
+                "productYear": "2008",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "STEERING COLUMN DAMAGED AIRBAG WIRING, CAUSING SRS LIGHT TO ILLUMINATE DURING NORMAL DRIVING.",
+        "vin": "2T1BR32E48C"
+    }
+]

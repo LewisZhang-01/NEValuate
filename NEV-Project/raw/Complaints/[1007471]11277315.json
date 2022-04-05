@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "10/31/2019",
+        "dateOfIncident": "10/21/2019",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11277315,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "JETTA",
+                "productYear": "2011",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2011 VOLKSWAGEN JETTA. THE CONTACT RECEIVED A RECALL NOTIFICATION IN THE MAIL PER NHTSA CAMPAIGN NUMBER: 19V615000 (ELECTRICAL SYSTEM, STEERING). THE DEALER AND MANUFACTURER WERE NOT CONTACTED. UPON CALLING NHTSA, THE CONTACT WAS INFORMED THAT THE PARTS WERE NOT AVAILABLE. THE CONTACT HAD NOT EXPERIENCED A FAILURE. VIN TOOL CONFIRMS PARTS NOT AVAILABLE.",
+        "vin": "3VWDX7AJ2BM"
+    }
+]

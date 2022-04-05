@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "01/27/2022",
+        "dateOfIncident": "01/13/2022",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11449115,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "GRAND CARAVAN",
+                "productYear": "2017",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Door lock actuator and latch failed rendering sliding doors in operable. In the even of a crash this can result in fatalities from not being able to exit the vehicle.",
+        "vin": "2C4RDGEG4HR"
+    }
+]

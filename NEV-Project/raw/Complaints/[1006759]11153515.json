@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "11/24/2018",
+        "dateOfIncident": "11/23/2018",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11153515,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "G6",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ELECTRONIC POWER STEERING PUMP IS GOING OUT. WHEN BACKING OUT FROM A PARKED POSITION THE STEERING IS TIGHT. RANDOMLY WHILE DRIVING ON THE HIGHWAY THE STEERING IS SO LOOSE THAT I CAN HARDLY CONTROL THE VEHICLE.",
+        "vin": "1G2ZH558564"
+    }
+]

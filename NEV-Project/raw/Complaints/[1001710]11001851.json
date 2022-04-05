@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN,ELECTRICAL SYSTEM,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "06/28/2017",
+        "dateOfIncident": "06/28/2017",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11001851,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "200",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "MY CAR IS HAVING AN INTERMITTENT LOSS OF POWER TO ELECTRICAL COMPONENTS COULD CAUSE A VEHICLE TO STALL WITHOUT WARNING. THIS HAS HAPPENED ON SEVERAL OCCASIONS, WHEREBY MY VEHICLE WAS ON THE ROAD AND SIMPLY LOSS POWER.",
+        "vin": "1C3CCCABXFN"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "12/14/2021",
+        "dateOfIncident": "12/06/2021",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11443815,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "LEXUS",
+                "productModel": "ES350",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Car was vandalized on 12/7/21 and alarms did not go off. Car alarm doesn\u2019t work, hasn\u2019t worked.",
+        "vin": "JTHBK1GG3E2"
+    }
+]

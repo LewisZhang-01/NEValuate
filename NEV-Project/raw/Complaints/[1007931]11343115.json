@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "08/04/2020",
+        "dateOfIncident": "02/10/2020",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11343115,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "DURANGO",
+                "productYear": "2011",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE STALLS AND WILL NOT START AT TIMES.",
+        "vin": "1D4SE4GT1BC"
+    }
+]

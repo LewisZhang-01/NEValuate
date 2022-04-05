@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN,VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "12/03/2020",
+        "dateOfIncident": "11/26/2020",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11377615,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "2012",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I AM EXPERIENCING ERRATIC SHIFTING AND MY TRANSMISSION ON MULTIPLE OCCASIONS HAS SHIFTED FROM 5TH GEAR DOWN TO FIRST GEAR WHILE TRAVELING HIGH RATES OF SPEED RESULTING IN MY WHEELS LOCKING UP.",
+        "vin": "1FTFW1ETXCF"
+    }
+]

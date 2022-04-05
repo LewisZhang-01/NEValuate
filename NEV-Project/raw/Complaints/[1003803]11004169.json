@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "07/10/2017",
+        "dateOfIncident": "07/07/2017",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11004169,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "ALTIMA",
+                "productYear": "2012",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AFTER DRIVING VEHICLE FOR 1 HOUR OR MORE, VEHICLE GOES INTO FAIL-SAFE MODE, MEANING THE RPMS WILL NOT GO OVER 2500. SO, IF ONE IS ON THE HIGHWAY GOING 70 MPH, THEN ARRIVES AT A HILL, THEN THE VEHICLE SPEED COULD DECREASE TO 40 MPH.  ACCORDING TO MECHANIC, THIS IS A KNOWN ISSUE AND NISSAN HAS A SERVICE KIT FOR THIS EXACT ISSUE.  I AM NOT SURE WHY IT IS NOT A RECALL...",
+        "vin": "1N4AL2AP2CN"
+    }
+]

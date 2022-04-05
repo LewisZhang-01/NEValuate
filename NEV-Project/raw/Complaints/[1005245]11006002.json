@@ -1,0 +1,24 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER,ELECTRONIC STABILITY CONTROL,SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "07/17/2017",
+        "dateOfIncident": "07/15/2017",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11006002,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "GRAND CHEROKEE",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "GETTING INDICATIONS THAT ELECT- BRAKE PROBLEM INDICATIONS, SKID CONTROL INDICATIONS, AND AIR CONDITIONER NOT WORKING.",
+        "vin": "1J8HR58N95C"
+    }
+]

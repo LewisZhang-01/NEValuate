@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FORWARD COLLISION AVOIDANCE",
+        "crash": false,
+        "dateComplaintFiled": "03/02/2022",
+        "dateOfIncident": "10/09/2018",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11454815,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "CR-V",
+                "productYear": "2018",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "will automatically brake at some point on highway, I notice at some part of the highway exact point the brake will automatically trigger.",
+        "vin": "2hkrw2h51jh"
+    }
+]

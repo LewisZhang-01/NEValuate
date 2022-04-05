@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "06/25/2021",
+        "dateOfIncident": "06/23/2021",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11422315,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "MKX",
+                "productYear": "2011",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact owns a 2011 Lincoln MKX. The contact stated while the vehicle was turned off, the driver\u2019s side turn signal and parking lights remained illuminated with the other lights in the vehicle being inoperable. The vehicle was not diagnosed nor repaired. Upon investigation, the contact associated the failure with NHTSA Campaign Number: 10V659000 (Structure) however, the Vin was not included. The manufacturer was informed of the failure and informed the contact that the vehicle was not under recall. There was no additional assistance provided. The contact was referred to the NHTSA for assistance. The failure mileage was approximately 111,000. Consumer stated left turn signals remain on (even with ignition off) will not flash. Passenger side will not activate at all.",
+        "vin": "2LMDJ8JK4BB"
+    }
+]

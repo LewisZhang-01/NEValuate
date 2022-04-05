@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "06/25/2017",
+        "dateOfIncident": "05/02/2016",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11001259,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2009",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "POWER SLIDING DOOR MECHANISMS FAIL AND DOOR IS UNABLE TO BE OPENED MANUALLY OR ELECTRICALLY , FROM INSIDE OR OUTSIDE THE CAR.  IF THERE IS AN ACCIDENT THERE IS NO WAY TO OPEN THE DOOR. THIS IS VERY DANGEROUS.",
+        "vin": "5TDZK23C49S"
+    }
+]

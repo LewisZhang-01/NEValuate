@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "07/13/2017",
+        "dateOfIncident": "07/13/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11005026,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FUSION",
+                "productYear": "2009",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AFTER ABS ENGAGED, LOSS OF BRAKE FEEL AND AN INCREASE IN STOPPING DISTANCE.  THE TOP INCH OF PEDAL TRAVEL FELT NORMAL FOLLOWED BY SEVERAL INCHES OF NO BRAKE \"FEEL\" UNTIL NEAR THE BOTTOM OF PEDAL TRAVEL WHERE BRAKING RESUMED.  THIS OCCURS ONLY AFTER THE ABS ENGAGES AND LASTS FOR SEVERAL MINUTES TO SEVERAL DAYS AFTER.  BRAKE LOSS RESULTED IN A NEAR COLLISION.  ABS ENGAGING AFTER EVENT IS NOT AS EFFECTIVE AS INITIAL ABS EVENT RESULTING IN INCREASED STOPPING DISTANCE WHILE ABS IS ENGAGING.  THIS HAS OCCURED MULTIPLE TIMES WITH THE MOST RECENT EVENT HAPPENING ON 7/13/2017.  ISSUE USUALLY RESOLVES A DAY OR TWO AFTER OCCURIMG BUT WILL REOCCUR IF ABS IS ENGAGED AGAIN.",
+        "vin": "3FAHP07Z89R"
+    }
+]

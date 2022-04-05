@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "06/30/2017",
+        "dateOfIncident": "06/30/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11002502,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EDGE",
+                "productYear": "2011",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THROTTLE BODY SUSPECTED: 2011 FORD 3.5L EDGE DECELERATING AND STALLING AT RANDOM.  VEHICLE STRANDED IN MIDDLE OF ROADWAY UNTIL PUSHED TO SIDE OF THE ROAD.  TURNING VEHICLE OFF THEN BACK ON CORRECTS ISSUE UNTIL THE NEXT RANDOM EVENT.  THIS HAS HAPPENED 4 TIMES WITH THIS VEHICLE.",
+        "vin": "2FMDK3GC1BB"
+    }
+]

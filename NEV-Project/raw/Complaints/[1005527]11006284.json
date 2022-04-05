@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "07/19/2017",
+        "dateOfIncident": "12/14/2016",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11006284,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EDGE",
+                "productYear": "2008",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WITHOUT ANY WARNING - NO HIGH TEMP LIGHT OR ANY ENGINE LIGHT - THE WATER PUMP FAILED CAUSING SEVERE DAMAGE TO THE ENGINE BECAUSE IT CAUSED THE TIMING CHAIN TO GO SLACK AND ALLOWING COOLANT TO GET INTO THE ENGINE. THIS SEEMS TO BE A KNOWN ISSUE WITH THIS ENGINE. I RAN DIAGNOSIS THE SAME MORNING WITH PERFECT RESULTS BEFORE FAILURE. I WAS TURNING ONTO MY STREET WHEN VEHICLE LOST POWER AND WOULD NOT START AGAIN.",
+        "vin": "2FMDK38C68B"
+    }
+]

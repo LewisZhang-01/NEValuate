@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "08/07/2018",
+        "dateOfIncident": "08/04/2018",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11118415,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "MKX",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DOOR AJAR SENSOR FAULT. VEHICLE SENSOR READS DOOR AS OPEN WHEN CLOSED, DRAINS BATTERY.",
+        "vin": ""
+    }
+]

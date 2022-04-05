@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,ELECTRONIC STABILITY CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "07/13/2017",
+        "dateOfIncident": "07/12/2017",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11005205,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CORVETTE",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BEGAN TO NOTICE A SENSED VEHICLE SELF STEERING SENSATION ON 7/12/17. THE VEHICLE FEELS LIKE THE REAR WHEELS ARE SLIDING AROUND WITH NO TRACTION OR AS IF THE REAR WHEELS ARE STEERING THEMSELVES. IT IS OCCURRING AT ALL SPEEDS, EVEN WHILE DRIVING UP AN INCLINED DRIVEWAY.",
+        "vin": "1G1YY26U765"
+    }
+]

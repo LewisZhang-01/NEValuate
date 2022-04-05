@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS,SEAT BELTS",
+        "crash": true,
+        "dateComplaintFiled": "12/30/2019",
+        "dateOfIncident": "11/14/2019",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11290515,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "TUNDRA",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2016 TOYOTA TUNDRA. CONSUMER STATES THAT AIR BAGS DID NOT DEPLOY AND SEAT BELTS DID NOT LOCK DURING COLLISION. *LD  *JS",
+        "vin": "5TFHW5F10GX"
+    }
+]

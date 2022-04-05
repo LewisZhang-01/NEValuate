@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "07/06/2017",
+        "dateOfIncident": "07/03/2017",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11003220,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "SEBRING",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TAKATA RECALL AIR BAG LIGHT COMES ON WHICH MAY DISABLE AIRBAGS IS ON WHEN STATIONARY AND MOVING",
+        "vin": "1C3EL56R05N"
+    }
+]

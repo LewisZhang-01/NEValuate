@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "03/29/2022",
+        "dateOfIncident": "02/15/2022",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11458815,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "CHEROKEE",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact owns a 2016 Jeep Cherokee. The contact stated that the check engine warning light was illuminated on the instrument panel. The contact initially called the dealer and was informed that the VIN was not under recall. The contact then took the vehicle to an independent mechanic where it was discovered that the thermostat sensor was defective. The contact was provided an estimate and the vehicle was repaired. The manufacturer was not notified of the failure. The failure mileage was 20,053.",
+        "vin": "1c4pjmcb4gw"
+    }
+]

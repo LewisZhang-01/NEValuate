@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "06/21/2017",
+        "dateOfIncident": "06/20/2017",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11000386,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "VOLT",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "RADIATOR FAILURE/LEAKING AT 67000 MILES. UNKNOWN CAUSE. CAUSED CAR TO OVERHEAT AND HAD TO BE SHUT DOWN TO AVOID FURTHER DAMAGE TO ELECTRICAL/BATTERY COMPONENTS.  COST TO REPAIR EXCEEDS $1500.",
+        "vin": "1G1RD6E4XUD"
+    }
+]

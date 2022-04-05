@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "09/14/2017",
+        "dateOfIncident": "09/14/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11023515,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "2011",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "MY VEHICLE NO LONGER WILL ASSIST WITH THE POWER STEERING. THE WHEEL FEELS LIKE IT'S STICKY AND WON'T RETURN TO CENTER. IF MAKING A TURN THE STEERING WHEEL JUST STAYS IN PLACE.",
+        "vin": ""
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "07/17/2017",
+        "dateOfIncident": "07/10/2017",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11005625,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CORVETTE",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SERVICE COLUMN LOCK DID NOT DISENGAGE WHEN CAR STARTED AND WAS ABLE TO PULL OUT OF PARKING SPOT BEFORE REALIZING I COULD NOT STEER MY VEHICLE! LUCKILY I DID NOT HIT ANYTHING.",
+        "vin": "1G1YY12G5X5"
+    }
+]

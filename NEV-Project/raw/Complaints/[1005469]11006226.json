@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "07/18/2017",
+        "dateOfIncident": "07/14/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11006226,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FUSION",
+                "productYear": "2010",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "POWER STEERING ASSIST RANDOMLY CUTS OUT WHILE DRIVING.  IF YOU TURN THE CAR OFF AND RESTART IT WILL RESET.  HAPPENS WHILE CAR IS IN MOTION INCLUDING REVERSE AND FORWARD.  HAS HAPPENED MOSTLY AT LOW SPEED IN DRIVEWAY, PARKING LOT AND CITY STREETS.  FIRST OCCURRENCE 7/14/17.  HAS HAPPENED 3 OTHER TIMES SINCE.",
+        "vin": "3FAHP0HA1AR"
+    }
+]

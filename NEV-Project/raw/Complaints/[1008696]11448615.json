@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN,ENGINE,FORWARD COLLISION AVOIDANCE",
+        "crash": false,
+        "dateComplaintFiled": "01/24/2022",
+        "dateOfIncident": "12/21/2021",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11448615,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "CHEROKEE",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "In December 2021 the \"AWD not available\" warning message came on. During a trip, the cruise control did not work. Took car to dealer on January 4, 2022. Diagnostics revealed the following: oil leak in the engine, repaired under the warranty. Body controller module and body wiring failed, replaced under warranty. Power transfer unit failed, power transfer unit replaced under warranty. Car returned to me repaired on January 14, 2022.",
+        "vin": "1c4pjmlb3ld"
+    }
+]

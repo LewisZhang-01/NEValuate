@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "12/16/2019",
+        "dateOfIncident": "12/31/2015",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11289315,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "CIVIC",
+                "productYear": "2012",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "HIGH OIL CONSUMPTION.",
+        "vin": "2HGFG4A59CH"
+    }
+]

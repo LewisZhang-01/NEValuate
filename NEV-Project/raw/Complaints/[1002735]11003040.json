@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "07/05/2017",
+        "dateOfIncident": "07/03/2017",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11003040,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "SONATA",
+                "productYear": "2011",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AIRBAG LIGHT IS ON AND WON'T GO OFF",
+        "vin": "5NPEB4ACXBH"
+    }
+]

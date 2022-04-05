@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "06/24/2017",
+        "dateOfIncident": "03/01/2017",
+        "fire": false,
+        "manufacturer": "SMART USA DISTRIBUTOR LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11001181,
+        "products": [
+            {
+                "manufacturer": "SMART USA DISTRIBUTOR LLC",
+                "productMake": "SMART",
+                "productModel": "FORTWO",
+                "productYear": "2008",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BOTH DRIVER AND PASSENGER SEAT BELTS DO NOT RETRACT",
+        "vin": "WMEEJ31X78K"
+    }
+]

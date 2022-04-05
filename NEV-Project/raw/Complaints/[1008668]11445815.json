@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "01/01/2022",
+        "dateOfIncident": "12/19/2021",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11445815,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "productYear": "2018",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I bought the vehicle used in December of 2021.  It has been out of warranty since July of 2021. At highway speeds, the vehicle wanders side to side and seems to pull to the right.  It does it on interstates as well as local roads and it is more noticeable at speeds over 30MPH.  FCA knows about the problem and has fixes available for vehicles still under warranty.  I feel this is a dangerous situation, since I am unable to steer the vehicle in a straight line, and steering requires constant small adjustments just to stay in my lane.",
+        "vin": "1C4HJXFGXJW"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "07/06/2017",
+        "dateOfIncident": "07/05/2017",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 11003302,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "CR-V",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TAKATA RECALL- FRONT END HIGHWAY BUMPER TO BUMPER COLLISION AT APPROX 40 MPH- AIRBAG DID NOT DEPLOY  CAR HAD THE TAKATA RECALL AIRBAG REPLACED A FEW MONTHS AGO AT A LICENSED HONDA DEALER BUT THE NEWLY REPLACED AIRBAG DID NOT DEPLOY",
+        "vin": "JHLRD78945C"
+    }
+]

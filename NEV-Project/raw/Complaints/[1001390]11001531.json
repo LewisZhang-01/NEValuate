@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "06/26/2017",
+        "dateOfIncident": "06/22/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11001531,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "UPON STARTUP NO POWER STEERING, MAKING STEERING EXTREMELY DIFFICULT. DASHBOARD MESSAGE STATING \"ELECTRONIC STEERING ASSIST FAULT NEEDS SERVICE NOW\" DIAGNOSIS CAME BACK STEERING GEAR IS BAD. CLASS ACTION HAS BEEN FILED FOR 2012-14 FORD FOCUS AS WELL AS 2010-2014 FORD FUSION SO IT IS A KNOWN ISSUE BUT STILL NO ASSISTANCE BY FORD.",
+        "vin": "1FADP3K22EL"
+    }
+]

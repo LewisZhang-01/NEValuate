@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "07/11/2017",
+        "dateOfIncident": "05/11/2017",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11004320,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO 1500",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2002 CHEVROLET SILVERADO 1500. UPON INSPECTION, THE CONTACT NOTICED SEVERE CORROSION OF THE VEHICLE'S FRAME. THE DEALER AND MANUFACTURER WERE NOT CONTACTED. THE FAILURE MILEAGE WAS APPROXIMATELY 108,000.",
+        "vin": "1GCEK14W42Z"
+    }
+]

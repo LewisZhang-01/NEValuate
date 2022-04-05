@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "07/06/2017",
+        "dateOfIncident": "06/01/2017",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11003421,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO 1500",
+                "productYear": "2008",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVER SIDE REAR DOOR LOCK- UNLOCK NO LONGER WORKS. STUCK IN LOCKED POSITION THOUGH LOCKING MECHANISM POPS UP AND DOWN.",
+        "vin": "2GCEK13M081"
+    }
+]

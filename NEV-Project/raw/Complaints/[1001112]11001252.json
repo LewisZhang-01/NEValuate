@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "06/25/2017",
+        "dateOfIncident": "01/02/2017",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11001252,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO 1500",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "A/C COMPRESSOR HAS FAILED DUE TO MANUFACTURING/INSTALLATION DEFECT.",
+        "vin": ""
+    }
+]

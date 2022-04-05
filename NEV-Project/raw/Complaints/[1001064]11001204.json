@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "06/25/2017",
+        "dateOfIncident": "06/21/2017",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11001204,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "COLORADO",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TRANSMISSION FAILS TO DOWNSHIFT PROPERLY AND SHUTTERS WHEN COMING BACK UNDER ACCELERATION AFTER SLOWING (TO YIELD FOR EXAMPLE) AND SOMETIMES SHUTTERS WHEN COMING TO A STOP. IF I TAP THE ACCELERATOR TO FORCE IT TO DOWNSHIFT, IT VIOLENTLY SHIFTS TO A TOO-LOW GEAR AND THE ENGINE REVS TOO HIGH.",
+        "vin": "1GCHSBE39G1"
+    }
+]

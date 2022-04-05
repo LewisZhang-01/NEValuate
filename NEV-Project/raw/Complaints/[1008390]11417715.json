@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "05/19/2021",
+        "dateOfIncident": "05/18/2021",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11417715,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Transmission jumps out of gear while driving.  It happens both in tow/Haul mode hauling my camper and in regular mode driving",
+        "vin": "1FT8X3BT4EE"
+    }
+]

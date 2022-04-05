@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "06/19/2017",
+        "dateOfIncident": "05/08/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11000070,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "WINDSTAR",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ANTI-LOCK BRAKING SYSTEM CONTROL MODULE FAILURE AT 102,000 MILES.  APPEARS TO BE A CONTINUING TREND WITH VARIOUS FORD MODELS, AND REPAIR IS EXPENSIVE; APPROXIMATELY $2,000.  IF ABS CONTROL MODULE IS FAILING, ABS NO LONGER WORKS.  DOUBT ACCURACY OF ABS WARNING LIGHT TO PROVIDE ADEQUATE WARNING.",
+        "vin": "2FMZA51443B"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "07/11/2017",
+        "dateOfIncident": "07/11/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11004669,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FUSION",
+                "productYear": "2008",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ABS ENGAGES WHEN BRAKING GOING OVER GRAVEL, OR OTHER SMALL BUMPS IN THE ROAD AND DOES NOT RETURN TO NORMAL.  BRAKE PEDAL GOES TO FLOOR, RESULTING IN ALMOST COMPLETE LOSS OF BRAKES. BRAKES DO NOT RETURN TO NORMAL UNTIL THE CAR IS RESTARTED. THIS HAS HAPPENED CONSISTENTLY WHENEVER THE ABS ENGAGES.",
+        "vin": "3FAHP07Z88R"
+    }
+]

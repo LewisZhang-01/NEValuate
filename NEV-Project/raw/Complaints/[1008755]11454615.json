@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "03/01/2022",
+        "dateOfIncident": "03/01/2022",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11454615,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO 1500",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Service trailer brake system repeatedly shows up blocking information screen and distracting me from driving with its chime and message",
+        "vin": "3GCPCREC3EG"
+    }
+]

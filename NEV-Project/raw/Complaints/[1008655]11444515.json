@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "12/20/2021",
+        "dateOfIncident": "10/01/2021",
+        "fire": false,
+        "manufacturer": "Volvo Car USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11444515,
+        "products": [
+            {
+                "manufacturer": "Volvo Car USA, LLC",
+                "productMake": "VOLVO",
+                "productModel": "XC60",
+                "productYear": "2017",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The fuel pump regulator failed causing the fuel pump to fail way to early (car has less than 60K miles). In addition, the floats in the fuel tank itself stick making the fuel gauge unreliable. We have had to replace the fuel pump regulator, fuel pump and also have an unreliable gas gauge now unfortunately.  The car failed while we were driving through the canyon in southern CA which was terrifying and very dangerous. We are fortunate we were able to steer off the road and get out of the way.",
+        "vin": "YV449MRU5H2"
+    }
+]

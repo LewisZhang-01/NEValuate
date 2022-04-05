@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "05/24/2019",
+        "dateOfIncident": "05/23/2019",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11209615,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO 1500",
+                "productYear": "2011",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I WAS INVOLVED IN A FRONT END COLLISION WITH ANOTHER VEHICLE WHILE TRAVELING AT 45MPH ON A 4 LANE ROAD. ANOTHER VEHICLE DID NOT YIELD AND I STRUCK THE VEHICLE IN THE SIDE WHILE HE WAS STATIONARY. DURING IMPACT THE AIRBAGS DID NOT DEPLOY.",
+        "vin": "3GCPCSE08BG"
+    }
+]

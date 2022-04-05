@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "09/26/2019",
+        "dateOfIncident": "09/23/2019",
+        "fire": false,
+        "manufacturer": "Tesla, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11258415,
+        "products": [
+            {
+                "manufacturer": "Tesla, Inc.",
+                "productMake": "TESLA",
+                "productModel": "MODEL S",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE HOME CHARGING UNIT WAS OVERHEATING CAUSING A FAILURE OF THE MAIN CIRCUIT BREAKER FOR MY HOUSE. THE WEAR ON THE MAIN CIRCUIT BREAKER WAS SEVERE ENOUGH THAT THE BREAKER HAD TO BE REPLACED OR WOULD HAVE BEEN A FIRE HAZARD FOR THE HOUSE. THE CAR WAS NOT MOVING AND IN THE GARAGE AT THE TIME.",
+        "vin": "5YJSA1E29FF"
+    }
+]

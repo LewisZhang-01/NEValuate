@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "06/22/2017",
+        "dateOfIncident": "06/19/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11000605,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TAURUS",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2014 FORD TAURUS RECALL: MY CAR WOULDN'T START AFTER BEING PARKED, I REPLACED THE BATTERY, AND IT STILL WOULD NOT START. NO CHECK ENGINE LIGHTS OR WARNINGS CAME ON. I  WAS CHECKING ONLINE AND FOUND THAT THERE IS A RECALL OUT FOR MY MAKE MODEL & YEAR OF CAR FOR A FUEL PUMP CONTROL MODULE MALFUNCTION BUT DIDN'T INCLUDE MY VIN. I GOT IT TOWED TO A LOCAL AUTO SHOP AND DIAGNOSED AND THIS WAS SPECIFICALLY THE ISSUE. I HAD TO PAY OUT OF POCKET BECAUSE MY VIN# HADN'T BEEN INCLUSIVE OF THIS RECALL. I NEED TO GET MY VIN ADDED, MY CAR HAD THE SAME PROBLEM AS THE ONES COVERED, SO I CAN GET REIMBURSED.",
+        "vin": "1FAHP2F89EG"
+    }
+]

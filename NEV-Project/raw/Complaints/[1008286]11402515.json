@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "03/11/2021",
+        "dateOfIncident": "02/05/2021",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11402515,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "COBALT",
+                "productYear": "2010",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUEL IS LEAKING NEAR LEFT REAR TIRE -STEERING WHEEL MAKES CRACKLING NOISE WHEN TURNING",
+        "vin": "1G1AD5F51A7"
+    }
+]

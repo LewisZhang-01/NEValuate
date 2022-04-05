@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "07/05/2017",
+        "dateOfIncident": "07/03/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11003051,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "ESCAPE",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SHOCK MOUNT BROKE AND SHAFT ON SHOCK PUNCHED THRU WHEEL WELL.",
+        "vin": "1FMCU9H9XDU"
+    }
+]

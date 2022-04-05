@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "11/03/2017",
+        "dateOfIncident": "09/17/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11042915,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENGINE LIGHT FLASHING AT 7,996 MILES. ON HIGHWAY TRAVELING 70MPH ENGINE BEGAN RUNNING VERY ROUGH AND BEGAN TO DECELERATE. ENGINE LIGHT BEGAN TO FLASH. DEALERSHIP AUTHORIZES LONG BLOCK ENGINE CHANGE. SERVICE: 172077D P0306 6049/42. TSB 17-0007 AND 17-2077.",
+        "vin": "1FTEW1EP4GK"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRONIC STABILITY CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "07/15/2018",
+        "dateOfIncident": "06/01/2018",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11111415,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE \"DRIVER DOOR AJAR' WARNING LIGHT STAYS ON WHEN ENTERING OR EXITING THE VEHICLE EVEN WHEN THE DOOR IS CLOSED.  I HAVE TO SLAM IT SEVERAL TIME TO GET THE LIGHT TO GO OFF.",
+        "vin": "1FM5K7D85EG"
+    }
+]

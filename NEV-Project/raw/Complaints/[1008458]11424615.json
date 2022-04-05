@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "07/13/2021",
+        "dateOfIncident": "07/10/2021",
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11424615,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "XG750",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "My Street 750 has 11,800 miles. While riding at 65 mph, sudden loss of drive. Pulled over to notice the motorcycle's belt missing and debris on the belt guide and the back wheel. The bolt holding the front sprocket was out of place and made a hole in the cover. The front sprocket was out of place. I was able to walk back my path and found the belt shredded.",
+        "vin": "1HD4NBB13FC"
+    }
+]

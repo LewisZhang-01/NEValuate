@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "07/14/2017",
+        "dateOfIncident": "07/14/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11005279,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TRANSIT CONNECT",
+                "productYear": "2010",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE POWER DOOR ACTUATOR STOPS WORKING OR WORKS BUT HAS A STRANGE GRINDING SOUND.    THE POWER DOOR LOCK WILL REMAIN LOCKED, CANNOT BE UNLOCKED MANUALLY, AND REQUIRES THE KEY FOB UNLOCK TO EXIT THE VEHICLE.",
+        "vin": "BN9AT024634"
+    }
+]

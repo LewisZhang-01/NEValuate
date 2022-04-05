@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "06/29/2021",
+        "dateOfIncident": "06/20/2021",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11422715,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "RAM",
+                "productModel": "1500",
+                "productYear": "2021",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I turned left from the center lane into the driveway of my bank.  After crossing the driveway apron, the truck engine died leaving me rolling through the parking lot.  The vehicle sounded an alarm stating that it needed to be placed into Park to start the engine.  The engine restarted after I came to a stop, placed the vehicle in park and pressed the ignition button.  This failure could have happened at any time leaving me stranded in traffic, potentially at high speed where it could have caused a severe accident injuring myself or others around me.  The vehicle has not been inspected yet by the dealer but will be when it's brought in for the pending recall related to the backup camera.  I did inspect the Power Distribution module under the hood when I returned home and found that several of the relays were not fully seated in their sockets, with some of the relays physically tilted to the side.  I then proceeded to properly seat all the relays.  I also found that at least 75% of the fuses in the module were not fully seated in their sockets.  There are numerous reports online of others that have experienced these same failures.",
+        "vin": "1C6RREFT7MN"
+    }
+]

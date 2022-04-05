@@ -1,0 +1,24 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER,SERVICE BRAKES,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "07/13/2017",
+        "dateOfIncident": "07/12/2017",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11005156,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "TOWN AND COUNTRY",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE SUDDENLY TURNS OFF WHILE DRIVING WITH NO CONTROL OF THE GAS OR BREAKS.",
+        "vin": "1C4GP54R6VB"
+    }
+]

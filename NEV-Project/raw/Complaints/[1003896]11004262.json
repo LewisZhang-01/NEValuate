@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "07/11/2017",
+        "dateOfIncident": "06/29/2017",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11004262,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "RAM 1500",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BLOWER MOTOR QUITS WORKING WHEN HOT....BLOWER MOTOR WIRING",
+        "vin": "1D7HA18N74S"
+    }
+]

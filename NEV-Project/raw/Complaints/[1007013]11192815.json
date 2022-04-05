@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "03/31/2019",
+        "dateOfIncident": "03/17/2019",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11192815,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "IMPALA",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BLIND SPOT DETECTION HAS FAILED AGAIN. SERVICE SIDE DETECTION ERROR IN DASH DISPLAY THE SYSTEM FAILED UNDER WARRANT IT HAS FAILED AGAIN OUT OF WARRANTY.  THIS IS A SAFETY CONCERN CHEVY NEEDS TO FIX.",
+        "vin": "2G1165S39F9"
+    }
+]

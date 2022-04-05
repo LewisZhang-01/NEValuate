@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "06/27/2017",
+        "dateOfIncident": "04/12/2015",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11001810,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "MINI",
+                "productModel": "COOPER S",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE RECALLED 2015 FOR FRONT PASSENGER SENSOR MAT (RECALL 15V205) STILL NOT REPAIRED. LOCAL MINI DEALER HAS SERVICED THE CAR SO THEY HAVE CONTACT INFORMATION.",
+        "vin": "WMHRH33586T"
+    }
+]

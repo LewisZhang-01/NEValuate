@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "01/21/2019",
+        "dateOfIncident": "10/01/2018",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11171115,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE ACCELERATING THE VEHICLE DOESN'T KNOW WHEN TO SHIFT INTO GEARS CAUSING THE VEHICLE TO SHUDDER AND MAKE A RATTLING NOISE. RECEIVED A CODE SAYING 'TRANSMISSION FAULT, SERVICE NOW.' WHILE HITTING BUMPS THE VEHICLE MAKES A CRUNCHING NOISE.",
+        "vin": "1FADP3K24FL"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "06/27/2017",
+        "dateOfIncident": "06/27/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11001634,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EDGE",
+                "productYear": "2011",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DOOR AJAR LIGHT ALWAYS ON EVEN WHILE DOOR IS CLEARLY SHUT.  DOORS WILL NOT LOCK WHILE DRIVING AND DOME LIGHTS STAY ON DRAINING BATTERY.",
+        "vin": "2FMDK3JC2BB"
+    }
+]

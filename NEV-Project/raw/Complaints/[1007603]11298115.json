@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,TIRES,SERVICE BRAKES,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "01/09/2020",
+        "dateOfIncident": "08/10/2019",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11298115,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-650 SD",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVER FEELS UNSAFE, BRAKES FEEL LIKE THEY ARE DRAGGING, DO NOT RELEASE ALL THE WAY.  BRAKE SYSTEM REPAIRED FOR $5,079.44 *DT*DT*JB*DT*JB",
+        "vin": "1FDNF6DC2GD"
+    }
+]

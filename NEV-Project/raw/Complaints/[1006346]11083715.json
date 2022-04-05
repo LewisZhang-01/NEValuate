@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "04/06/2018",
+        "dateOfIncident": "04/06/2018",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11083715,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "WINDSTAR",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THIS VAN WAS RECALLED FOR KNOWN ISSUES WITH THE REAR AXLE CORRODING. THIS RECALL INVOLVED INSTALLING SUPPORT BRACKETS ON THE AXLE. THE AXLE HAS NOW CRACKED ALMOST ALL THE WAY THROUGH NEXT TO THE BRACKET. THIS HAPPENED WHILE GOING OVER A SPEED BUMP SLOWLY. FROM MY RESEARCH ONLINE, THIS SEEMS TO BE A COMMON ISSUE WITH THE REPAIR THAT WAS ISSUED IN THIS RECALL.",
+        "vin": "2FMZA534X1B"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "04/02/2019",
+        "dateOfIncident": "03/23/2019",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11193315,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "2012",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2012 FORD F-150. WHILE REVERSING, THE BRAKE PEDAL WAS DIFFICULT TO DEPRESS AND THE VEHICLE ROLLED. THERE WERE NO WARNING INDICATORS ILLUMINATED. THE DEALER AND MANUFACTURER WERE NOT CONTACTED. THE VEHICLE WAS NOT DIAGNOSED OR REPAIRED. THE FAILURE MILEAGE WAS 79,770.",
+        "vin": "1FTFW1ET2CK"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "06/27/2017",
+        "dateOfIncident": "06/18/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11001818,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EDGE",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN CAR IS STARTED AND PUT IN DRIVE, \"ENGINE ON\" WARNING COMES ON, FOLLOWED BY, \"DRIVER DOOR AJAR\" WARNING. NEXT MESSAGE IS TO PUT CAR IN PARK.  DOOR IS NOT AJAR, BUT OPENING AND SLAMMING DOOR SOLVES THE PROBLEM.  INTERMITTENTLY, THE CAR WILL NOT LOCK OR UNLOCK WITHOUT THE KEY BEING USED ON THE DRIVERS SIDE. PASSENGER DOOR IS UNAFFECTED.",
+        "vin": "2FMDK4KC5DB"
+    }
+]

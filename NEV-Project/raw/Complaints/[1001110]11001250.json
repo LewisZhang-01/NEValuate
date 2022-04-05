@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "06/25/2017",
+        "dateOfIncident": "06/17/2017",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11001250,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "CAMRY",
+                "productYear": "2007",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "HIGH OIL CONSUMPTION AND EXCESSIVE OIL BURNING. LAST OIL CHANGE, THE TECH STATED CHECK OIL REGUARLY (EVERY 2 WEEKS) CAR IS BURNING OIL. THERE ARE NO OIL LEAKS.",
+        "vin": "4T1BE46K57U"
+    }
+]

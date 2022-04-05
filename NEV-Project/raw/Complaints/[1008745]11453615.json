@@ -1,0 +1,31 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "02/23/2022",
+        "dateOfIncident": "02/22/2022",
+        "fire": false,
+        "manufacturer": "Mazda Motor Corp.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11453615,
+        "products": [
+            {
+                "manufacturer": "Mazda Motor Corp.",
+                "productMake": "MAZDA",
+                "productModel": "CX-5",
+                "productYear": "2019",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "MARKETEX BRAKE SYSTEM",
+                "productMake": "MARKETEX BRAKE SYSTEM",
+                "productModel": "MARKETEX BRAKE SYSTEM",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "Service engine soon brake lines out ball joints otters brakes , electrical flashing lights , rust all in engine, on roof rack , by tires",
+        "vin": "JM3KFACM8K0"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION,SERVICE BRAKES",
+        "crash": true,
+        "dateComplaintFiled": "07/20/2017",
+        "dateOfIncident": "07/19/2017",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11006492,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "HUMMER",
+                "productModel": "H3",
+                "productYear": "2007",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ABS FAULT , TRACTION FAILED, STAB SYSTEM MY CAR STARTED DRIVING FUNNY AND I ALMOST LOST CONTROL",
+        "vin": "5GTDN13E478"
+    }
+]

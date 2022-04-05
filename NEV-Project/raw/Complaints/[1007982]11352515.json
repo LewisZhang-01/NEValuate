@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,ELECTRICAL SYSTEM,ELECTRONIC STABILITY CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "09/01/2020",
+        "dateOfIncident": "08/26/2020",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11352515,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA 1500",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVING ON HIGHWAY AND ALSO AT LOW SPEED, TRUCK COMPLETELY SHUTS DOWN ELECTRICALLY.  STEERING FAILS, INSTRUMENTATION FAILS, DOORS LOCK, COMPLETE POWER FAILURE.  THIS HAS OCCURRED BACKING OUT OF DRIVEWAYS, TURNING INTO INTERSECTIONS.  BROUGHT TRUCK TO DEALER,THEY CAN'T FIND ANYTHING, BUT G218 GROUND ISSUE APPEARS TO BE OBVIOUS YET, THEY REFUSE TO FIX UNLESS ISSUE IS PRESENT.",
+        "vin": "3GTU2UEC4EG"
+    }
+]

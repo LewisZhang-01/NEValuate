@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION,UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "03/27/2022",
+        "dateOfIncident": "03/26/2022",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11458515,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-250",
+                "productYear": "2017",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Death wobble",
+        "vin": "1FT7W2B61HE"
+    }
+]

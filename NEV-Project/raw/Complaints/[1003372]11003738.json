@@ -1,0 +1,31 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "07/07/2017",
+        "dateOfIncident": "07/15/2016",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11003738,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FUSION",
+                "productYear": "2011",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Takata (TK Global, LLC)",
+                "productMake": "TAKATA",
+                "productModel": "AIR BAG INFLATOR",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "2011 FORD FUSION PASSENGER AIRBAG REPLACEMENT DELAY.  FORD HAS HAD OVER A YEAR TO REPLACE THE PASSENGER SIDE AIRBAG THEY SAID COULD KILL SOMEONE. WHY HAS THIS NOT BEEN CORRECTED YET????  MY VIN IS = [XXX]  [XXX]       INFORMATION REDACTED PURSUANT TO THE FREEDOM OF INFORMATION ACT (FOIA), 5 U.S.C. 552(B)(6).  *TR",
+        "vin": "3FAHP0HA3BR"
+    }
+]

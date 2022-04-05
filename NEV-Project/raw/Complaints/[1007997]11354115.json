@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "09/10/2020",
+        "dateOfIncident": "09/02/2020",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11354115,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "SONATA",
+                "productYear": "2011",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "STEERING MAKES A LOUD \"CLUNK\" WHEN TURNING RIGHT OR LEFT. IT IS NOTICEABLE WHEN STATIONARY, BUT QUITE LOUD WHEN MOVING. I AM AFRAID TO DRIVE THE CAR.",
+        "vin": "KMHEC4A43BA"
+    }
+]

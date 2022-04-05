@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "06/25/2017",
+        "dateOfIncident": "06/25/2017",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11001292,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAMARO",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "C025E  AN ISSUE HAS BEEN DETECTED IN THE TRACTION CONTROL SYSTEM.",
+        "vin": "1G1FB1RXXG0"
+    }
+]

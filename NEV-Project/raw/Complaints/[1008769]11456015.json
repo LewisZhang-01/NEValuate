@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "03/10/2022",
+        "dateOfIncident": "10/01/2021",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11456015,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "GRAND CHEROKEE",
+                "productYear": "2021",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact owns a 2021 Jeep Grand Cherokee.  The contact stated while performing a routine maintenance on the vehicle,  she was informed that the vehicle was emitting  an abnormal sound.  The vehicle was taken to the local dealer where it was diagnosed that failure was associated with the transmission. The vehicle was not repaired. The manufacturer was not made aware of the failure. The approximate failure mileage was 28,000.",
+        "vin": "1C4RJEAG6MC"
+    }
+]

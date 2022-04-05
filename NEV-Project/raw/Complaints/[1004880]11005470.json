@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "07/15/2017",
+        "dateOfIncident": "07/15/2017",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11005470,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA 1500",
+                "productYear": "2011",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE SERVICE AIRBAG LIGHT COMES ON AND OFF AND OUT SIDE AIR TEMPERATURE SAYS 55 AND ITS 92 OUTSIDE WHEN MPVEING OR STILL",
+        "vin": "3GTP2VE3XBG"
+    }
+]

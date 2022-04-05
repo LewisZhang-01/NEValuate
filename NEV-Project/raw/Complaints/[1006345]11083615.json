@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "04/06/2018",
+        "dateOfIncident": "04/05/2018",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11083615,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2009",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "OCCASIONALLY, WITHOUT WARNING OR PREDICTION, WHEN I APPLY THE BRAKES TO SLOW DOWN, MY BRAKE PEDAL WILL TRAVEL NEARLY TO THE FLOOR WHICH REDUCES BRAKING TIME AND ABILITY. BRAKING TYPICALLY RETURNS TO NORMAL AFTER EACH INCIDENT. AT NO POINT DOES AN ABS OR BRAKE SYSTEM LIGHT COME ON. THIS HAPPENS AT LEAST 1 OR 2 TIMES DURING MY COMMUTE EACH WAY TO WORK, WHICH IS APPROXIMATELY 18 MILES AWAY OR A 1 HOUR DRIVE TIME WITH TRAFFIC.",
+        "vin": "1FAHP36N99W"
+    }
+]

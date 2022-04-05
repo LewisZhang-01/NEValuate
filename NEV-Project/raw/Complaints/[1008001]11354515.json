@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "09/11/2020",
+        "dateOfIncident": "09/10/2020",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11354515,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "CHEROKEE",
+                "productYear": "2017",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SHIFTER SERVICE WARNING LIGHTS, JEEP DOESN'T KNOW WHAT THIS MEANS.  MESSAGES ALL OVER INTERNET WITH SAME PROBLEM.",
+        "vin": "1C4PJMCS0HW"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "06/28/2017",
+        "dateOfIncident": "06/01/2016",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11002064,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EDGE",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVER DOOR LATCH PROBLEM. THE DOOR SHUTS BUT THE WARNING SAYS THAT THE DOOR IS STILL OPEN AND THE CABIN LIGHTS AND EXTERIOR LIGHTS REMAIN ON. THIS DRAINS THE BATTERY AND MAKES IT DIFFICULT TO SEE WHEN DRIVING OR BACKING UP AT NIGHT.",
+        "vin": "2FMDK4JC3DB"
+    }
+]

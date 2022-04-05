@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "09/18/2021",
+        "dateOfIncident": "09/10/2021",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11433415,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "AUDI",
+                "productModel": "Q7",
+                "productYear": "2021",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Upper dashboard display (MMI) loses power,  upon reboot,  audio volume comes on full power momentarily.  This loud noise is both startling and distracting to the driver.   The failure is sporadic and Audi has been unsuccessful in resolving the issue.",
+        "vin": "WA1LXAF77MD"
+    }
+]

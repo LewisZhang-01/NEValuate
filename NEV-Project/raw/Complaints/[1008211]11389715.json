@@ -1,0 +1,24 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "01/25/2021",
+        "dateOfIncident": "01/23/2021",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11389715,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "CHEROKEE",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE SHUTS OFF, UNEXPECTEDLY, WHILE DRIVING DOWN A MAJOR INTERSECTION, THEN MESSAGE TO SWITCH CAR TO PARK AND RESTART.. TAKES A FEW TRIES TO RESTART",
+        "vin": "1C4PJLCB0EW"
+    }
+]

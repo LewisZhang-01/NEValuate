@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "10/25/2017",
+        "dateOfIncident": "06/01/2016",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11039715,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "MUSTANG",
+                "productYear": "2007",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TAKATA RECALL. FORD DEALERSHIP HAS BEEN UNABLE TO GET THE PARTS NECESSARY TO COMPLETE THE REPAIRS.",
+        "vin": "1ZVFT82H675"
+    }
+]

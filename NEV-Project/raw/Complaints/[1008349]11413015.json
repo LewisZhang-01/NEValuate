@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VEHICLE SPEED CONTROL,FORWARD COLLISION AVOIDANCE",
+        "crash": false,
+        "dateComplaintFiled": "04/20/2021",
+        "dateOfIncident": "04/20/2021",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11413015,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "ELANTRA",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN CRUISE CONTROL IS ACTIVATED, THE ENGINE RPM AUTOMATICALLY INCREASES BY ABOUT 700 RPM. AT 75 MPH, THE ENGINE RPM IS 2300. WHEN CONTROL IS ACTIVATED, ENGINE RPM INCREASES TO 3000 RPM AND REMAINS THERE. THIS DECREASES GAS MILESGE AND INCREASES WEAR ON ENGINE.",
+        "vin": "5NPD84LF3LH"
+    }
+]

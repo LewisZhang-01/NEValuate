@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "06/21/2021",
+        "dateOfIncident": "01/01/2021",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11421715,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "REGAL",
+                "productYear": "2012",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact owns a 2012 Buick Regal. The contact received a notification for NHTSA Campaign Number: 20V764000 (Suspension); however, the parts for the repair were unavailable. The dealer had been notified about the recall; however, the contact was informed that the parts were not yet available. The manufacturer had been notified of the recall. The contact stated that the manufacturer had exceeded a reasonable amount of time for the repair. The contact had not experienced a failure. Vin tool confirms parts not available.",
+        "vin": "2g4gr5ek2c9"
+    }
+]

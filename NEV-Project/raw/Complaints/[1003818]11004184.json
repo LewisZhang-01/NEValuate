@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "07/10/2017",
+        "dateOfIncident": "07/08/2017",
+        "fire": false,
+        "manufacturer": "Subaru of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11004184,
+        "products": [
+            {
+                "manufacturer": "Subaru of America, Inc.",
+                "productMake": "SUBARU",
+                "productModel": "OUTBACK",
+                "productYear": "2011",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Bridgestone Americas Tire Operations",
+                "productMake": "FIRESTONE",
+                "productModel": "AFFINITY TOURING",
+                "productYear": "9999",
+                "size": "P185/65R14",
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE FRONT PASSENGER SIDE TIRE STARTED TO DEFLATE, WHETHER IN MOTION OR WHEN PARKED. THIS WAS A SLOW LEAK. THE TIRES HAD 6/32 TREAD REMAINING. THE PROBLEMATIC TIRE WOULD HOLD PRESSURE FOR ABOUT 40 MILES OF HIGHWAY DRIVING, OR SEVERAL HOURS WHEN PARKED, BEFORE THE LOW TIRE PRESSURE SENSOR LIGHT WOULD COME ONE. THE TIRE WAS REPEATEDLY FILLED WITH AIR DURING THE COURSE OF THE ROAD TRIP. UPON ARRIVAL AN APPOINTMENT WAS MADE FOR IT TO BE CHECKED AND REPAIRED AT A LOCAL SHOP. TURNS OUT THE BELT WAS PARTIALLY SEPARATED. GIVEN THE CAR IS ALL WHEEL DRIVE I NEEDED TO REPLACE ALL FOUR TIRES.",
+        "vin": "4S4BRCKC6B3"
+    }
+]

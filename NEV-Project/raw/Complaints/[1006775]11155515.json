@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "12/02/2018",
+        "dateOfIncident": "10/30/2018",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11155515,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA 1500",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING AT LOW SPEEDS, ABOUT 20 MPH OR LOWER, THE BRAKE PEDAL FADES TO THE FLOOR. THERE ARE NO LIGHTS OR CODES AND BRAKE FLUID AT THE PROPER LEVEL. THIS HAPPENS QUITE FREQUENTLY AND ANYWHERE.",
+        "vin": "2GTEC13Z461"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "06/26/2017",
+        "dateOfIncident": "06/21/2017",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11001402,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "ALTIMA",
+                "productYear": "2012",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TRANSMISSION STOPPED WORKING. CAR STOPPED MOVING.",
+        "vin": "1N4AL2AP0CN"
+    }
+]

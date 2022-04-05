@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "07/15/2017",
+        "dateOfIncident": "08/29/2016",
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11005473,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING AT 55MPH, RECEIVED A \"LOW FUEL PRESSURE\" WARNING.  SECONDS LATER, A FIRE BROKE OUT IN THE ENGINE COMPARTMENT WHICH COULD NOT BE CONTROLLED.  RESULT WAS A TOTAL LOSS OF THE TRUCK AND THE FIFTH WHEEL TRAILER THAT WAS BEING TOWED.  A FUEL FILTER HAD BEEN CHANGED TWO WEEKS PRIOR TO THE FIRE AND SUSPICION IS THAT THE FUEL LINE WAS NOT PROPERLY REATTACHED.  THE ORIGIN OF THE FIRE WAS IN THE AREA OF THE UPPER FUEL FILTER WHICH HELPS CONFIRM THIS SUSPICION.  PROPER REMOVAL AND REINSTALLATION OF THE FUEL LINES IN THIS VEHICLE ARE KEY SAFETY ITEMS.  FORD SHOULD RECONSIDER THE METHOD BY WHICH FUEL FILTERS ARE CHANGED IN ORDER TO ELIMINATE THE NEED TO REMOVE AND REINSTALL FUEL LINES.",
+        "vin": "1FT8W3BTXDE"
+    }
+]

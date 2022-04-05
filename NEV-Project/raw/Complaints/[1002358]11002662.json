@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "07/01/2017",
+        "dateOfIncident": "06/15/2017",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11002662,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "MINI",
+                "productModel": "COOPER",
+                "productYear": "2008",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CVT TRANSMISSION STICKING IN 2ND GEAR.",
+        "vin": "WMWRF33508T"
+    }
+]

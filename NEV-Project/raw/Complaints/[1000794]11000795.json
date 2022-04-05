@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN,ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "06/23/2017",
+        "dateOfIncident": "06/01/2017",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11000795,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CRUZE",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NO CRANK OR START 13 BODY CONTROL MODULE CODES,CONTROL MODULE BAD OR WIRING SHORT.",
+        "vin": "1G1PC5SBXE7"
+    }
+]

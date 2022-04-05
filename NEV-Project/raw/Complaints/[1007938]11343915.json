@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "08/07/2020",
+        "dateOfIncident": "06/14/2017",
+        "fire": false,
+        "manufacturer": "Tesla, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11343915,
+        "products": [
+            {
+                "manufacturer": "Tesla, Inc.",
+                "productMake": "TESLA",
+                "productModel": "MODEL S",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CENTER CONSOLE (MCU) FAILED AFTER UPDATING SOFTWARE. BLACK SCREEN.  UNABLE TO USE, CANNOT CHARGE.  CANNOT CONTROL ANYTHING.   THIS SEEMS EXTREMELY DANGEROUS , AS ALL THE VEHICLE CONTROLS ARE THROUGH THE CENTER CONSOLE.  HAD TO GET IT TOWED TO TESLA SERVICE.  TESLA SAID IT WAS INFAMOUS EMMC FAILURE AND HAD TO REPLACE THE MCU OUT OF POCKET, TOTALING $2,738.67.  THEY REPLACED IT WITH THE SAME EXACT VERSION, BASICALLY SAYING ITS A KNOWN ISSUE AND THAT THIS WILL FAIL AGAIN EVENTUALLY.  THIS ALSO ENCOURAGES PEOPLE *NOT* TO UPDATE THEIR SOFTWARE ANYMORE, AS ANY WRITES TO THAT EMMC MODULE IS JUST ONE STEP CLOSER TO FAILURE AGAIN.",
+        "vin": "5YJSA1DP3DF"
+    }
+]

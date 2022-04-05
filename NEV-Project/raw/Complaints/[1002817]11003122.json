@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "07/05/2017",
+        "dateOfIncident": "10/14/2016",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11003122,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EDGE",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVER DOOR LATCH READS DOOR AJAR ALARM,SHIFT INTO PARK,AN DOORS WANT LOCK AUTOMATICALLY AN LIGHTS WILL NOT GO OFF SOME TIMES FOR FORTY FIVE MINUTES OR LONGER.",
+        "vin": "2FMDK3KCXDB"
+    }
+]

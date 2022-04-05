@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "09/25/2018",
+        "dateOfIncident": "09/19/2018",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11131115,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "MINI",
+                "productModel": "COOPER S COUNTRYMAN",
+                "productYear": "2012",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WATER PUMP FAILED AT 84,000 MILES CAUSING ENGINE TO STALL ON THE HIGHWAY.",
+        "vin": "WMWZC5C52CW"
+    }
+]

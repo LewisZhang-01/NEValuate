@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,SUSPENSION,WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "06/22/2018",
+        "dateOfIncident": "06/22/2018",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11103415,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "FJ CRUISER",
+                "productYear": "2012",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SPEEDS ABOVE 55 MPH CAUSE THE STEERING WHEEL TO CONSTANTLY SHAKE. IT SEEMS TO BE A CONSISTENT ISSUE REGARDLESS OF THE TYPES OF TIRES AND BALANCING THAT IS USED.",
+        "vin": ""
+    }
+]

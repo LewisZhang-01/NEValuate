@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "12/15/2021",
+        "dateOfIncident": "12/14/2021",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11443915,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "EQUINOX",
+                "productYear": "2011",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact owns a 2011 Chevrolet Equinox. The contact stated that while his wife was driving in a parking lot, the steering became difficult to turn. The driver was able to restart the vehicle and the steering wheel started to operate as designed. The contact was concerned about driving the vehicle.  The contact called the local dealer however, the vehicle was not diagnosed or repaired. The manufacturer was not contacted. The contact stated the failure was related to NHTSA Action Number: PE20009 (Steering). The failure mileage was approximately 114,000.",
+        "vin": "2CNFLGE57B6"
+    }
+]

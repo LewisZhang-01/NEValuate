@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS,SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "06/23/2017",
+        "dateOfIncident": "06/22/2017",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11000768,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "ACCORD",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "YOUR BRAKES FAILED AND AIR BAGS TOO",
+        "vin": "1HGCR2F37GA"
+    }
+]

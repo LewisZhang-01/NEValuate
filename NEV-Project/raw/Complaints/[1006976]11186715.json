@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "03/14/2019",
+        "dateOfIncident": "03/02/2019",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11186715,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "MALIBU",
+                "productYear": "2012",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "MY POWER STEERING IS NOT WORKING PROPERLY. I HAVE TO TURN THE CAR ON AND OFF FOR THE POWER STEERING TO WORK. THE STEERING WHEEL SHAKES AND THE ESC IS ON.",
+        "vin": "1G1ZC5EU4CF"
+    }
+]

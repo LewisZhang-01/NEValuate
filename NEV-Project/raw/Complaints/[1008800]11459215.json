@@ -1,0 +1,24 @@
+[
+    {
+        "components": "LANE DEPARTURE",
+        "crash": false,
+        "dateComplaintFiled": "04/01/2022",
+        "dateOfIncident": "04/01/2022",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11459215,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "IMPALA",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I received an error Service \"Side Detection System\".  Dealer says it needs to replace the Side Blind Zone Alert Modules (part #84648920) due to water intrusion on the module.  They say it can affect the entire dashboard, causing it to fail.  The Chevy Impala forums have many mentions of this issue with this car. There have been reports of smoke coming from these modules.  GM had issued a Special Coverage N172097060 in 2019 but only covers cars 6 years old or less and less than 80,000 miles.  Due to the widespread occurrence of this issue, it should be recalled.",
+        "vin": "1G1165S38FU"
+    }
+]

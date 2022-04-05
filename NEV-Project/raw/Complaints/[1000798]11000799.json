@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "06/23/2017",
+        "dateOfIncident": "09/20/2016",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11000799,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FUSION",
+                "productYear": "2012",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE INTERIOR DOOR HANDLE AFTER NORMAL USE CAN BREAK, LEAVING OCCUPANT STUCK IN VEHICLE IF UNABLE TO CLIMB TO ANOTHER SEAT OR ROLL WINDOW DOWN TO OPEN DOOR WITH OUTSIDE HANDLE.",
+        "vin": "3FAHP0HA5CR"
+    }
+]

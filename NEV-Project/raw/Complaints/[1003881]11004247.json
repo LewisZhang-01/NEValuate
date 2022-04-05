@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "07/11/2017",
+        "dateOfIncident": "07/10/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11004247,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FUSION",
+                "productYear": "2009",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DURING ROUTINE BRAKING EVENT FROM APPROX. 25 MPH, THE ABS SYSTEM UNEXPECTEDLY AND UNNECESSARILY ENGAGED. UPON ABS ACTIVATION THE BRAKE PEDAL LOST ALL PRESSURE AND SANK TO THE FLOOR AND ALL BRAKING POWER WAS LOST. BRAKING POWER WAS EVENTUALLY REGAINED AFTER REPEATED PUMPING OF THE BRAKE PEDAL BUT STOPPING DISTANCE EXTENDED WELL BEYOND NORMAL EVEN WITH BRAKE PEDAL PUSHED TO THE FLOOR.  I BELIEVE THIS TO BE RELATED TO NHTSA # PE16017",
+        "vin": ""
+    }
+]

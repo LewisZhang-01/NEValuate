@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VEHICLE SPEED CONTROL,ELECTRONIC STABILITY CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "06/25/2017",
+        "dateOfIncident": "06/24/2017",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11001206,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "200",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SERVICE ELEC THROTTLE CONTROL. VEHICLE WAS STATIONARY AND MOVING, AS WERE WE RETURNING HOME VIA THE HIGHWAY. CAR KEEP JERKING. WOULD NOT SHIFT DOWN FROM \"7TH\" GEAR.",
+        "vin": "1C3CCCBB7FN"
+    }
+]

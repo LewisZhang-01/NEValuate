@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "11/22/2018",
+        "dateOfIncident": "11/21/2018",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11153215,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "POWER STEERING ASSIST FAILED FOR SEVERAL MINUTES. STEERING EFFORT WAS EXTREMELY HIGH DURING THIS PERIOD (FAR HIGHER THAN OLD MANUAL STEERING CARS). POWER ASSIST RECOVERED AFTER STOPPING THE CAR AND RE-STARTING.",
+        "vin": "1FADP3L95DL"
+    }
+]

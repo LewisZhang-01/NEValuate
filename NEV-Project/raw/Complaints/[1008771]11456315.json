@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "03/11/2022",
+        "dateOfIncident": "03/11/2022",
+        "fire": false,
+        "manufacturer": "Subaru of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11456315,
+        "products": [
+            {
+                "manufacturer": "Subaru of America, Inc.",
+                "productMake": "SUBARU",
+                "productModel": "FORESTER",
+                "productYear": "2018",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Battery continues to drain when car is parked/off causing a required jump start and then recharging of the battery. Dealer replaced battery one time in 2019 (with expense to owner) and recommended driving car every couple of days to ensure it does not draw down. This is not normal. Battery continues to drain down. Owner purchased aftermarket AGM battery (May 2021) of higher voltage/capacity to attempt to reduce number of issues yet vehicle continues to exhibit parasitic drain and battery dies after 3-4 days (faster when it's cold). Dealer has looked at car two more times and claims this is normal and need to not leave car for multiple days without starting. There are multiple class action lawsuits claiming this issue so I am registering this VIN as an affected vehicle.",
+        "vin": "JF2SJALC1JH"
+    }
+]

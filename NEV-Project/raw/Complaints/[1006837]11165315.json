@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,EXTERIOR LIGHTING,ELECTRONIC STABILITY CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "01/05/2019",
+        "dateOfIncident": "01/05/2019",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11165315,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CRUZE",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN THE VEHICLE COMES TO A STOP THE HEADLIGHTS START TO GLITCH, THE RADIO GOES OFF AND A WARNING FOR THE STABILITRAK COMES ON AS WELL AS A POWER STEERING WARNING. ONCE THE CAR COMES TO A STOP INTERMITTENTLY IT WILL GO COMPLETELY DEAD AND THE NEGATIVE BATTERY CABLE IF TAPPED ON WILL CAUSE THE VEHICLE TO COME BACK ON WITH NO ISSUE. BATTERY HAS BEEN REPLACED AS NEW BUT ISSUE STILL OCCURS",
+        "vin": "1G1PC5SB7E7"
+    }
+]

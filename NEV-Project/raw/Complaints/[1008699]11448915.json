@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "01/25/2022",
+        "dateOfIncident": "01/25/2022",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11448915,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "RAM",
+                "productModel": "2500",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "My truck will shift in to gear without the key being in or the truck being on. I found a recall (T79) listed but my vin does not seem to be listed under this recall.",
+        "vin": "3c6ur5hl7gg"
+    }
+]

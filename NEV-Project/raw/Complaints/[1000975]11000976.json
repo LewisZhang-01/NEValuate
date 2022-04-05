@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "06/24/2017",
+        "dateOfIncident": "06/24/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11000976,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "LOW BRAKE FLUID LIGHT CAME ON WHILE DRIVING ON HIGHWAY.  COMPLETE LOSS OF BRAKES UNABLE TO SLOW DOWN OR STOP.  USED EMERGENCY BRAKE TO AVOID CRASH",
+        "vin": "1FTFW1ET0EK"
+    }
+]

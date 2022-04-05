@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "06/22/2017",
+        "dateOfIncident": "06/21/2017",
+        "fire": false,
+        "manufacturer": "Kia Motors America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11000636,
+        "products": [
+            {
+                "manufacturer": "Kia Motors America",
+                "productMake": "KIA",
+                "productModel": "OPTIMA",
+                "productYear": "2009",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE ENGINE STARTED KNOCKING TWO MONTHS AGO AND YESTERDAY THE CHECK ENGINE LIGHT CAME ON WHILE DRIVING ON THE HIGHWAY RESULTING IN THE CAR SHUTTING OFF WITH NO WARNING.",
+        "vin": "KNAGE228495"
+    }
+]

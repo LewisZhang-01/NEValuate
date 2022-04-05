@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/25/2017",
+        "dateOfIncident": "06/23/2017",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11001220,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "LEXUS",
+                "productModel": "NX200T",
+                "productYear": "2017",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Yokohama Tire Corporation",
+                "productMake": "YOKOHAMA",
+                "productModel": "GEOLANDAR",
+                "productYear": "9999",
+                "size": "P245/75R16",
+                "type": "Tire"
+            }
+        ],
+        "summary": "PURCHASED A NEW 2017 LEXUS NX ON MAY 28, 2017. ON JUNE 23, 2017 WHILE WASHING CAR FOR FIRST TIME, I SAW A CRACK/SPLIT IN TIRE SIDEWALL ABOUT 3-4\" LONG. ADVISED DEALER IT WAS DEFECT. DEALER ARGUES IT COULD HAVE BEEN DUE TO HITTING A CURB. THERE HAS NOT BEEN ANY ACCIDENTS, RUNNING OVER NAILS OR SCREWS OR HITTING ANYTHING WITH THE TIRE/CAR. THIS TIRE IS DRIVER REAR SIDE AND I FEAR A BLOWOUT COULD OCCUR. THE CRACK HAS MOST LIKELY BEEN PRESENT SINCE CAR WAS PURCHASED. THERE ARE NO SCUFFS, MARKS, ETC. ON TIRE. I HAVE PHOTOS BUT NO PLACE TO ATTACH THEM HERE.",
+        "vin": "JTJYARBZ8H2"
+    }
+]

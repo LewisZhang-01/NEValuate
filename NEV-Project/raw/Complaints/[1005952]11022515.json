@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN,VEHICLE SPEED CONTROL,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "09/10/2017",
+        "dateOfIncident": "09/01/2016",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11022515,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "ENCLAVE",
+                "productYear": "2009",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CAR SHUDDERS AND HAS PROBLEMS ACCELERATING WHEN GEARS SHIFTS. DIAGNOSIS=REPLACE BANK 1 CAMSHAFT ACTUATOR WORN TIMING CHAINS, REPLACE ALL SPARK PLUGS AND 3 IGNITION COILS AGAIN. (PERFORMED PFI SYSTEM DIA TEST. CODES FIRED P0017 AND P0300 STORED. CORRELATION AND MISFIRE COES).",
+        "vin": "5GAER23D89J"
+    }
+]

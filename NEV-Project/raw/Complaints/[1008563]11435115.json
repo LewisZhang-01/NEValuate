@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "10/01/2021",
+        "dateOfIncident": "10/01/2019",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11435115,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact owns a 1997 Ford F-150. The contact stated that the rear passenger\u2019s side subframe near the axle of the vehicle was severely corroded. The dealer and the manufacturer were not notified of the failure.  The vehicle was not diagnosed nor repaired. The approximate failure mileage was 134,788.",
+        "vin": "1FTDX18W6VN"
+    }
+]

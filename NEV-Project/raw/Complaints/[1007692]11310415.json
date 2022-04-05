@@ -1,0 +1,24 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "02/20/2020",
+        "dateOfIncident": "02/18/2020",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11310415,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "CHEROKEE",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "GEAR SHIFTER SERVICE WARNING",
+        "vin": "1C4PJLCS1GW"
+    }
+]

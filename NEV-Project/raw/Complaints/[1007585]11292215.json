@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "12/31/2019",
+        "dateOfIncident": "07/01/2018",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11292215,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "TOWN AND COUNTRY",
+                "productYear": "2012",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AFTER RECEIVING MULTIPLE CHECK ENGINE NOTIFICATIONS FOR \"ENGINE MISFIRE\", THE DEALERSHIP DETERMINED THAT ALL THE LIFTERS NEEDED TO BE REPLACED.  WE HAD THE WORK DONE, AND 1 YEAR LATER THE SAME CODES HAVE RETURNED.",
+        "vin": "2C4RC1BG0CR"
+    }
+]

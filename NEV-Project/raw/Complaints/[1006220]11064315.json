@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "01/23/2018",
+        "dateOfIncident": "11/11/2016",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11064315,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "COROLLA",
+                "productYear": "2009",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AIRBAG RECALL",
+        "vin": "1NXBU40E09Z"
+    }
+]

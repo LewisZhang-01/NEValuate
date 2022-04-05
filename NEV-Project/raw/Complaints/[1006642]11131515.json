@@ -1,0 +1,32 @@
+[
+    {
+        "components": "AIR BAGS,TIRES",
+        "crash": false,
+        "dateComplaintFiled": "09/25/2018",
+        "dateOfIncident": "09/24/2018",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11131515,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "HHR",
+                "productYear": "2009",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Cooper Tire & Rubber Co.",
+                "productMake": "COOPER",
+                "productModel": "COOPER",
+                "productYear": "1990",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2009 CHEVROLET HHR EQUIPPED WITH COOPER ULTRA TOURING HT TIRES (NA). WHILE DRIVING APPROXIMATELY 60 MPH, THE REAR DRIVER'S SIDE TIRE BLEW OUT. THE CONTACT STATED THAT THE AIR BAG INDICATOR ILLUMINATED AND THE TIRE PRESSURE MONITORING SYSTEM INDICATED THAT THE TIRE PRESSURE WAS DECREASING. IN ADDITION, THERE WAS A RECURRING FAILURE OF TREAD SEPARATION WITH THE REPLACEMENT TIRES OVER THE COURSE OF TWO MONTHS. A DEALER WAS NOT MADE AWARE OF THE FAILURES. THE MANUFACTURER WAS MADE AWARE OF THE FAILURES THROUGH SEVERAL VOICE MESSAGES BY THE CONTACT. THE TIRE SIZE, DOT NUMBER, VIN, AND TIRE FAILURE MILEAGE WERE UNKNOWN. THE VEHICLE FAILURE MILEAGE WAS APPROXIMATELY 108,000.",
+        "vin": ""
+    }
+]

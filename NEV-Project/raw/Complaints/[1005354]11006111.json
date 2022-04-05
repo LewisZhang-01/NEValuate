@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "07/18/2017",
+        "dateOfIncident": "06/01/2016",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11006111,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "2007",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TAKATA RECALL AFTER NUMEROUS CALLS TO DEALERS AND FORD CUSTOMER SERVICE OVER THE PAST YEAR, NO RESOLUTION HAS BEEN PROVIDED.",
+        "vin": "1FTYR10D67P"
+    }
+]

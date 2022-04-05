@@ -1,0 +1,24 @@
+[
+    {
+        "components": "WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "07/05/2017",
+        "dateOfIncident": "07/05/2017",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11003213,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "ACCENT",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "RIM RUSTED THROUGH CAUSING TIRE TO GO FLAT.",
+        "vin": "CONSUMERAFF"
+    }
+]

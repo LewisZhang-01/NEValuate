@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "06/27/2017",
+        "dateOfIncident": "06/26/2017",
+        "fire": false,
+        "manufacturer": "Kia Motors America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11001619,
+        "products": [
+            {
+                "manufacturer": "Kia Motors America",
+                "productMake": "KIA",
+                "productModel": "SORENTO",
+                "productYear": "2012",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AUTOMATIC TRANSMISSION.  VEHICLE IS LOCKED IN 4TH GEAR WHILE IN DRIVE.  CAN NOT MANUALLY SHIFT UP OR DOWN.",
+        "vin": "5XYKTDA61CG"
+    }
+]

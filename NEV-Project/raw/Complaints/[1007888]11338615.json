@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN,VEHICLE SPEED CONTROL,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "07/10/2020",
+        "dateOfIncident": "07/09/2020",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11338615,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "INFINITI",
+                "productModel": "QX60",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING MY CAR LOSSES NORMAL SPEED AND  STOPS RESPONDING TO ME TRYING TO ACCELERATE EVEN AFTER I HIT THE PEDAL ALL THE WAY TO THE FLOOR, CAR KEEPS SLOWLY MOVING BUT  DOESN'T PICK UP THE SPEED. SOMETIMES ITS JERKING ON ITS OWN AND DO NOT RESPOND TO MY PRESSURE ON THE GAS PEDAL.     SEESM TO BE REALATED TO SIMILAR ISSUE THAT THEY HAVE WITH Q50 CARS \"ENGINE CONTROL MODULE (ECM) MAY TEMPORARILY LOSE A SIGNAL FROM ONE OF THE ENGINE MANAGEMENT SYSTEM'S THROTTLE POSITION SENSORS (TPS). IF THIS OCCURS, LOSS OF POWER FOLLOWED BY SUDDEN UNINTENDED ACCELERATION CAN OCCUR. DUE TO A SOFTWARE MALFUNCTION, THE ENGINE MAY SUDDENLY LOSE THEN REGAIN POWER, CAUSING UNINTENDED ACCELERATION.",
+        "vin": "5N1CL0MM7EC"
+    }
+]

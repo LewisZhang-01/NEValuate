@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,STRUCTURE,SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "11/27/2020",
+        "dateOfIncident": "09/10/2020",
+        "fire": false,
+        "manufacturer": "Tesla, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11376715,
+        "products": [
+            {
+                "manufacturer": "Tesla, Inc.",
+                "productMake": "TESLA",
+                "productModel": "MODEL X",
+                "productYear": "2017",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN THE CAR IS PARKED THEN PUT IN REVERSE, THE CAR MAKES A LOUD CRACKING NOISE. I WAS TOLD IT WAS BRAKES THAT WERE CLEANED UP BUT STILL MAKE A LOUD NOISE.",
+        "vin": "5YJXCDE28HF"
+    }
+]

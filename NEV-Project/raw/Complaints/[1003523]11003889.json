@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "07/09/2017",
+        "dateOfIncident": "07/07/2017",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11003889,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "LIBERTY",
+                "productYear": "2012",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AIR BAG WARNING LIGHT COMES ON. SOMETIMES FLASHES.",
+        "vin": "1C4PJMAK8CW"
+    }
+]

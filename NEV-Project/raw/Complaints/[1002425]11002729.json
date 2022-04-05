@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "07/02/2017",
+        "dateOfIncident": "06/25/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11002729,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "C-MAX HYBRID",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING, GOT MESSAGE INDICATING A STEERING ISSUE.  TRIED RESTARTING THE CAR AND THERE WAS NO POWER STEERING.  HAD TO HAVE THE VEHICLE TOWED TO A DEALERSHIP.  WAS TOLD IT IS A STEERING GEAR THAT FAILED AND THAT THE WHOLE COMPONENT OF WHICH THE STEERING GEAR IS A PART OF NEEDS TO BE REPLACED.",
+        "vin": "1FADP5BUXFL"
+    }
+]

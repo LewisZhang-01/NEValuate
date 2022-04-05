@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "06/19/2017",
+        "dateOfIncident": "06/01/2015",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11000013,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "MARK LT",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE FAIL SAFE ENGINE LIGHT COMES ON WHEN DRIVING AT ANY SPEED OR WHEN THE FUEL GAGE GETS LOW. I HAVE TO TURN MY TRUCK OFF, WAIT A FEW MINUTES , THEN TURN IT BACK ON FOR IT TO COOPERATE  CORRECTLY. WHILE THE LIGHT IS ON IT DRIVES SLUGGISHLY.",
+        "vin": "5LTPW18516F"
+    }
+]

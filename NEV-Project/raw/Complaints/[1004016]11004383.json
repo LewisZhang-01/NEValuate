@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "07/11/2017",
+        "dateOfIncident": "07/08/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11004383,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "2012",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE BRAKES GAVE OUT AND ALL OF THE BRAKE FLUID LEAKED OUT. THE BRAKE WENT STRAIGHT TO THE FLOOR. THERE ARE NO INJURIES INVOLVED, BUT COULD HAVE BEEN FATAL IF ON A HIGHWAY AT SPEED VS IN A PARKING LOT.",
+        "vin": ""
+    }
+]

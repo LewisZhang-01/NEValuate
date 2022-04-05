@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "05/02/2018",
+        "dateOfIncident": "04/01/2018",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11091315,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "G5",
+                "productYear": "2007",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "110,000 MILES, WHEEL STARTING TO GET HARD TO TURN AT SLOW SPEEDS. IF MAKING A TURN, THE TURNS NEEDS MORE EFFORT TO COMPLETE THE TURN. WHEN STATIONARY THE WHEEL WAS VERY HARD TO TURN.",
+        "vin": "1G2AL15F877"
+    }
+]

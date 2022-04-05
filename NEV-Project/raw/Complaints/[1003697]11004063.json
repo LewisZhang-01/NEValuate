@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "07/10/2017",
+        "dateOfIncident": "07/08/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11004063,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKE MASTER CYLINDER FAILURE, CAUSING BRAKE FLUID LEAKAGE INTO THE BRAKE BOOSTER.  INTERESTINGLY, THERE IS A RECALL FOR THIS EXACT ISSUE IN CERTAIN 2013-2014 F-150'S (SUBMISSION DATE : MAY 23, 2016      NHTSA RECALL NO. : 16V-345      MANUFACTURER RECALL NO. : 16S24).  MY VIN HAPPENS TO NOT BE INCLUDED IN THE RECALL.  IT LOOKS LIKE FORD MAY HAVE FORGOTTEN TO ADD SOME TRUCKS TO THE RECALL.  IF YOU ASK ME, IT'S NO COINCIDENCE THAT MY TRUCK WAS PURCHASED WITHIN THE YEARS OF THE RECALL, AND HAD THE EXACT SAME FAILURE AS THE RECALL.  UNFORTUNATELY, TOMORROW (JULY 11, 2017) I WILL PAY ~$1050 TO GET THIS FIXED, WHEN IT SHOULD HAVE BEEN INCLUDED IN THE RECALL.",
+        "vin": "1FTFW1CT9DK"
+    }
+]

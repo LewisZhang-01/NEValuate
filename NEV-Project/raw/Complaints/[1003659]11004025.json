@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "07/10/2017",
+        "dateOfIncident": "05/01/2017",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11004025,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "RAM",
+                "productModel": "1500",
+                "productYear": "2012",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENGINE IS MISSING ON ACCELERATION AT HIGH SPEED OR CLIMBING A HILL - CHECK ENGINE LIGHT IS ON (ERROR CODE IS \"CYLINDER 3 MISFIRE\"). DEALER SAYS IT NEEDS A NEW ENGINE HEAD DUE TO DAMAGED VALVE SPRINGS. THIS SHOULD NOT HAPPEN AT 112K MILES.",
+        "vin": "1C6RD7PTXCS"
+    }
+]

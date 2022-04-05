@@ -1,0 +1,24 @@
+[
+    {
+        "components": "WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "07/04/2017",
+        "dateOfIncident": "06/21/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11002935,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EDGE",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "LOW TIRE PRESSURE SENSOR LIGHT REMAINS ON AT ALL TIMES, EVEN THOUGH IT APPEARS TIRES ARE INFLATED TO PROPER PRESSURE.  DIFFICULT TO DETERMINE IF THERE IS A VALID PROBLEM WITH TIRE PRESSURE - IF I IGNORE THE WARNING LIGHT AND THE TIRES REALLY ARE NOT AT CORRECT PRESSURE, I TAKE THE RISK OF HAVING A BLOW-OUT TRAVELLING AT HIGHWAY SPEEDS.",
+        "vin": "2FMDK4JC3DB"
+    }
+]

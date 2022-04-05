@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "07/07/2017",
+        "dateOfIncident": "06/17/2017",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11003745,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "CHALLENGER",
+                "productYear": "2012",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SMART WINDOWS GO UP AND DOWN ON THEIR OWN RUNNING THE BATTERY DOWN.",
+        "vin": "2C3CDYBT6CH"
+    }
+]

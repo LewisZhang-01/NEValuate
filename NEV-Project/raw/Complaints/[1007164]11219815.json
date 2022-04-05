@@ -1,0 +1,24 @@
+[
+    {
+        "components": "EXTERIOR LIGHTING",
+        "crash": false,
+        "dateComplaintFiled": "06/13/2019",
+        "dateOfIncident": "06/10/2019",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11219815,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKE LAMP BULB FAULT, REPLACE BOTH BRAKE LAMP BULBS WITH NEW ONES, THEY BOTH WORK BUT EVERY TIME THE CAR IS STARTED SAME MESSAGE COMES UP",
+        "vin": "1FADP3J28DL"
+    }
+]

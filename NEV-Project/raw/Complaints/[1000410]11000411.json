@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS,SEATS",
+        "crash": false,
+        "dateComplaintFiled": "06/21/2017",
+        "dateOfIncident": "05/11/2017",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11000411,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "ENTOURAGE",
+                "productYear": "2008",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FRONT PASSENGER SEAT WEIGHT SENSOR MALFUNCTION.  THERE WAS NO INCIDENT/ACCIDENT.  AIRBAG SERVICE LIGHT CAME ON, REGULAR GARAGES COULDN'T DIAGNOSE PROBLEM, ONLY A HYUNDAI DEALER CAN READ THE CODE; ONCE IT WAS DETERMINED THAT WEIGHT SENSOR WAS NOT WORKING, APPARENTLY THE ONLY SOLUTION IS TO REPLACE THE ENTIRE PASSENGER SEAT ASSEMBLY, CANNOT REPLACE JUST THE SENSOR.",
+        "vin": "KNDMC233686"
+    }
+]

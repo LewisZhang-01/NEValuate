@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "06/27/2017",
+        "dateOfIncident": "04/20/2017",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11001809,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO 1500",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AC NOT COOLING AC NOT COOLING AC CONDENSER AC CONDENSER IS LEAKING AT SEAM.",
+        "vin": "1GCRCREC8FZ"
+    }
+]

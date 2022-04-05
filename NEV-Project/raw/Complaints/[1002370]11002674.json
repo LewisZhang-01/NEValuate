@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "07/01/2017",
+        "dateOfIncident": "06/01/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11002674,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE IN MOTION AND ACCELERATING ABOVE 2500 RPM, EXHAUST FUMES FILL THE CABIN. WE TOOK IT INTO A DEALERSHIP WHERE THEY TRIED TO FIX THE ISSUE USING A TECHNICAL BULLETIN FORD ISSUED. THE PROBLEM PERSISTS.",
+        "vin": "1FM5K8D83GG"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "07/13/2017",
+        "dateOfIncident": "07/06/2017",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11005075,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CADILLAC",
+                "productModel": "STS",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TAKATA RECALL: SERVICE AIRBAG WARNING APPEARED ON THE INSTRUMENT PANEL. AUTO IS CURRENTLY IN THE SHOP FOR ANALYSIS. THE 2006 CTS HAS THE SAME AIRBAG SYSTEM. AND IT HAS BEEN RECALLED. THE STS HAS NOT. WHY?",
+        "vin": "1G6DW677460"
+    }
+]

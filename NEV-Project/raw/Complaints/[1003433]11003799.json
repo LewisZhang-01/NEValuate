@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,ENGINE,FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "07/08/2017",
+        "dateOfIncident": "07/07/2017",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11003799,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "GRAND CARAVAN",
+                "productYear": "2012",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN THE VEHICLE IS IN DRIVE BUT IS STATIONARY, EVERYTHING WILL TURN OFF.  THE ELECTRICAL SYSTEM GOES DOWN AND THE ENGINE SHUTS OFF.  AFTER A BRIEF MOMENT (APPROXIMATELY ONE TO TWO SECONDS), THE ELECTRICAL SYSTEM WILL COME BACK UP AND ALL ELECTRONIC COMPONENTS COME BACK ON, BUT THE CLOCK ON THE RADIO IS RESET TO 12:00.  AT THIS POINT, WE CAN PUT THE VEHICLE IN PARK AND RESTART IT.  THIS HAS OCCURRED SEVERAL TIMES IN THE PAST SEVERAL WEEKS.  THE MOST RECENT OCCURRENCE WAS 2017.07.07 AND IT DID IT TWICE WITHIN FIFTEEN MINUTES.  WE DO NOT KNOW FOR SURE WHAT IS CAUSING THIS TO OCCUR, BUT IT SEEMS TO BE CONNECTED TO THE MAIN COMPUTER AND/OR THE ANTI-THEFT SYSTEM, AS THIS IS A COMPLETE SYSTEM SHUTDOWN.",
+        "vin": "2C4RDGCG3CR"
+    }
+]

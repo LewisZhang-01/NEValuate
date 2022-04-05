@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "07/07/2017",
+        "dateOfIncident": "02/05/2016",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11003652,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "MATRIX",
+                "productYear": "2008",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "SUMITOMO CORP OF AMERICA",
+                "productMake": "SUMITOMO",
+                "productModel": "SUMITOMO",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "DANGEROUS, POOR TRACTION ON WET PAVEMENT  SUMITOMO TOUR PLUS LS-H    WHEN ON A STEEP ROAD IN SAN FRANCISCO, MY TIRES SKIDDED RATHER THAN GRAB THE ROAD ON A RAINY DAY IN THE WINTER OF 2016.  THIS ALSO HAPPENED DURING THE WINTER OF 2017.  IT IS DANGEROUS.  I NEED TO CHANGE THE TIRES BEFORE SELLING MY CAR TO ANOTHER PERSON.",
+        "vin": "2T1KR32E98C"
+    }
+]

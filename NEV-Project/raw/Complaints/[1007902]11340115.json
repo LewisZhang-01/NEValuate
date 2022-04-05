@@ -1,0 +1,24 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "07/18/2020",
+        "dateOfIncident": "07/17/2020",
+        "fire": false,
+        "manufacturer": "Tesla, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11340115,
+        "products": [
+            {
+                "manufacturer": "Tesla, Inc.",
+                "productMake": "TESLA",
+                "productModel": "MODEL X",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE INSTRUMENT CLUSTER DOES NOT SHOW A VALID SPEED. SPEED IS SHOWN AS '0' EVEN WHEN VEHICLES IS TRAVELING AND EVEN WHEN CRUISE CONTROL OR 'AUTO PILOT' IS DRIVING.",
+        "vin": "5YJXCBE45LF"
+    }
+]

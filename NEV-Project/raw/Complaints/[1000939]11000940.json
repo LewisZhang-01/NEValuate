@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "06/23/2017",
+        "dateOfIncident": "06/01/2017",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11000940,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "EQUINOX",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TEMPERATURE BLEND DOOR  CAN CAUSE ACCIDENT CAUSE IT WON'T DEFROST WINDOWS",
+        "vin": "2CNDL13F566"
+    }
+]

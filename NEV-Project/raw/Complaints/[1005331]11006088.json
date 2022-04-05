@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,SUSPENSION,ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "07/18/2017",
+        "dateOfIncident": "06/06/2017",
+        "fire": false,
+        "manufacturer": "Mazda Motor Corp.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11006088,
+        "products": [
+            {
+                "manufacturer": "Mazda Motor Corp.",
+                "productMake": "MAZDA",
+                "productModel": "TRIBUTE",
+                "productYear": "2008",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "IGNITION SWITCH NOT WORKING. TRANSMISSION 2ND AND 5TH GEAR NOT WORKING AND CONTROL ARMS FOR ALL 4 WHEELS SEEM TO BE GOING BAD",
+        "vin": "4F2CZ96118K"
+    }
+]

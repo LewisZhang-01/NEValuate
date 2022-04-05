@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "11/13/2019",
+        "dateOfIncident": "09/15/2019",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11279915,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "GRAND CHEROKEE",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "RIGHT FRONT \"ACTIVE\" HEADREST, WHICH IS PART OF THE SUPPLEMENT RESTRAIN SYSTEM, FAILED AT 59,000 MILES FOR NO REASON. THE PLASTIC LATCH JUST BROKE; APPEARS TO BE TOO SMALL. CAR WAS NOT BEING DRIVEN AT THE TIME THE HEADREST FAILED. REPLACEMENT COST $900.",
+        "vin": "1C4RJEAG1DC"
+    }
+]

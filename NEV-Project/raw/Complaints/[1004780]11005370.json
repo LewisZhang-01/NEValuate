@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "07/14/2017",
+        "dateOfIncident": "07/07/2017",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11005370,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "RAINIER",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "LOW BEAM LIGHTS GO OUT WHEN RIGHT TURN SIGNAL IS APPLIED AND RETURNS TO CENTER POSITION.  A/C COOLING FAN DOES NOT COOL COMPRESSOR ENOUGH TO RUN A/C AT LOW SPEEDS CAUSING PRESSURE TO BUILD UP IN FERON RECEIVER. CAR IS AT IDLE OR LOW SPEED.",
+        "vin": "5GAES13PXX4"
+    }
+]

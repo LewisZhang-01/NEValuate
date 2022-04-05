@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "07/14/2017",
+        "dateOfIncident": "05/15/2017",
+        "fire": false,
+        "manufacturer": "Mazda Motor Corp.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11005336,
+        "products": [
+            {
+                "manufacturer": "Mazda Motor Corp.",
+                "productMake": "MAZDA",
+                "productModel": "TRIBUTE",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "RUSTED THROUGH BODY BACK RIGHT WHEEL CAUSING SHOCK TO PUSH THROUGH INSIDE OF CAR.",
+        "vin": "4F2CZ94185K"
+    }
+]

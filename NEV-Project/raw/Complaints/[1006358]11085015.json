@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS,SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "04/14/2018",
+        "dateOfIncident": "04/13/2018",
+        "fire": false,
+        "manufacturer": "Mitsubishi Motors North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11085015,
+        "products": [
+            {
+                "manufacturer": "Mitsubishi Motors North America, Inc.",
+                "productMake": "MITSUBISHI",
+                "productModel": "MIRAGE",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "HAD A RECALL ON AIRBAGS AND AFTER THE RECALL THE SAFETY BELT SENSOR FOR THE PASSENGER SIDE DOES NOT WORK.",
+        "vin": "ML32A3HJ2FH"
+    }
+]

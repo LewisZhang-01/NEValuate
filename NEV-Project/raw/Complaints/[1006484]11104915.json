@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "06/30/2018",
+        "dateOfIncident": "06/01/2016",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11104915,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "TOWN AND COUNTRY",
+                "productYear": "2012",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AT ABOUT 100K MILES, THE VAN BEGAN TO MAKE A TICKING SOUND. IT WASN'T UNTIL I PASSED 150K I HAD AN ISSUE WITH A MISFIRE ON CYLINDER 2... TURNS OUT, THEY HAD AN ISSUE WITH THE PENTSTAR V6",
+        "vin": "2C4RC1BG9CR"
+    }
+]

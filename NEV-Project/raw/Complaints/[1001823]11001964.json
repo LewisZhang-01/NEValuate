@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": true,
+        "dateComplaintFiled": "06/28/2017",
+        "dateOfIncident": "06/23/2017",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11001964,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "RAM",
+                "productModel": "1500",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE WAS RUNNING AND LEFT IN PARK. WENT IN REVERSE AND CRASHED INTO A COLUMN.",
+        "vin": "1C6RR7GT2FS"
+    }
+]

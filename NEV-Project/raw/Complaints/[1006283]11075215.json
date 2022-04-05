@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN,UNKNOWN OR OTHER,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "02/27/2018",
+        "dateOfIncident": "02/01/2017",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11075215,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO 1500",
+                "productYear": "2017",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TRUCK EXHIBITS A ROUGH IDLE AFTER TRUCK IS DRIVEN AND WARM.  IDLE CAUSES TEH TRUCK TO SHAKE AND FEELS LIKE IT WILL DIE AT STOPS.  RPM DROPS BELOW 300 RPM THEN GOES BACK TO 490 RPM. IN ADDITION THE TRUCK WILL START TO SHAKE AND VIBRATE AT HIGHWAY SPEEDS OF 75-80 MPH.  GMC SERVICE PERFORMED TSB CHANGING OUR ENGINE MOUNTS BUT THAT HAS NOT FIXED THE ISSUE.  THIS IS A KNOWN ISSUE ON SILVERADOS AND NO FIX IN SITE.  CONCERNED WITH SEAT VIBRATION THIS IS A SAFETY ISSUE DUE TO POTENTIAL DRIVE TRAIN PART FAILURE.",
+        "vin": "3GCUKREC1HG"
+    }
+]

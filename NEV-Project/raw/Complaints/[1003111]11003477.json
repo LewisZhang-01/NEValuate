@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "07/06/2017",
+        "dateOfIncident": "08/31/2015",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11003477,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "TRAVERSE",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "PASSENGER AIRBAG IS ENABLED WHEN A MINOR WEIGHT (SUCH AS A SMALL BACKPACK, OR LAPTOP) IS PLACED IN THE PASSENGER SEAT. I FIRST REPORTED THIS WHEN THE VEHICLE WAS UNDER WARRANTY AND THE DEALER REFUSED TO ADDRESS IT, SAYING THAT THERE IS NO WEIGH UNDER WHICH THE AIRBAG SHOULD BE DEACTIVATED. I BELIEVE THAT THIS IS NOT THE CASE, AND THAT A LIGHT WEIGHT ACTIVATING THE AIRBAG IS A SIGNIFICANT SAFETY ISSUE.",
+        "vin": "1GNKVFED0DJ"
+    }
+]

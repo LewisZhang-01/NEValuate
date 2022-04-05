@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS,SEATS",
+        "crash": false,
+        "dateComplaintFiled": "07/11/2017",
+        "dateOfIncident": "06/29/2016",
+        "fire": false,
+        "manufacturer": "Kia Motors America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11004241,
+        "products": [
+            {
+                "manufacturer": "Kia Motors America",
+                "productMake": "KIA",
+                "productModel": "SPECTRA5",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AIRBAG LIGHT ON DUE TO FAULTY PASSENGER SIDE SEAT SENSOR. EXORBITANT COST TO REPLACE. CAN'T AFFORD.",
+        "vin": "KNAFE161665"
+    }
+]

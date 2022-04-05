@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "07/08/2017",
+        "dateOfIncident": "06/01/2017",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11003759,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "HR-V",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NOTICEABLE CLUNKING NOISE DURING BRAKING OVER BUMP(S)",
+        "vin": "3CZRU6H55GM"
+    }
+]

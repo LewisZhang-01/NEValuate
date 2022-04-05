@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "01/01/2019",
+        "dateOfIncident": "10/12/2018",
+        "fire": true,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 11164415,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "X3",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "HEATED SEAT MALFUNCTIONS CAUSING \"HOT SPOT\" THAT BURNS SKIN ON REAR UPPER LEG.",
+        "vin": "WBXPA93496W"
+    }
+]

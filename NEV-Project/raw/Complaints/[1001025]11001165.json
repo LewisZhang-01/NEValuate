@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE,SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "06/24/2017",
+        "dateOfIncident": "05/12/2016",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11001165,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CADILLAC",
+                "productModel": "CTS",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKES FAULT ON SLOW SPED LOCK TO HAVE BAD ABS MODULE",
+        "vin": "1G8DP577760"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "06/21/2017",
+        "dateOfIncident": "06/16/2017",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11000433,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "TIGUAN",
+                "productYear": "2011",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CARBON BUILDUP IN ENGINE AT 65K MILES, VEHICLE WAS MAINTAINED AS RECOMMENDED BY VW.  PCV VALVE COMPLETE FAILURE AT 88K MILES WHICH RESULTED IN FAILURE OF THE REAR MAIN SEAL WHICH REQUIRES REMOVAL OF TRANSMISSION (ROUGHLY $2,000 OF REPAIRS).  THIS IS A KNOWN ISSUE BY DEALERS AND SERVICE CENTERS DUE TO INSUFFICIENT OR IMPROPER APPLICATION OF SEALANT.",
+        "vin": "WVGBV7AX5BW"
+    }
+]

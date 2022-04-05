@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "07/07/2017",
+        "dateOfIncident": "05/21/2017",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11003593,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "CC",
+                "productYear": "2010",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "STEERING COLUMN LOCK DEFECTIVE - MESSAGE IS DISPLAYED AFTER STARTING THE CAR, THEN THE CAR IMMEDIATELY SHUTS OFF. MECHANIC CHECKED FOR FAULT CODES AND SEES 02823 REQUIREMENTS FOR LOCKING STEERING COLUMN NOT MET, AND 02861 ELECTRONIC STEERING COLUMN LOCK CHECK SUM ERROR. THERE HAS BEEN A RECALL OF OTHER 2010 VW CCS OVER THIS ISSUE, BUT IT DOES NOT INCLUDE MY VIN NUMBER. THE SYMPTOMS OF THE ISSUE SEEM TO BE EXACTLY THE SAME. THIS WAS HAPPENING INTERMITTENTLY EARLIER IN THE YEAR, BUT NOW IT HAPPENS NEARLY EVERY TIME I START THE CAR IN THE MORNING.",
+        "vin": "WVWHL7AN1AE"
+    }
+]

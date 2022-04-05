@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FORWARD COLLISION AVOIDANCE",
+        "crash": false,
+        "dateComplaintFiled": "02/17/2022",
+        "dateOfIncident": "02/17/2022",
+        "fire": false,
+        "manufacturer": "Tesla, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11452615,
+        "products": [
+            {
+                "manufacturer": "Tesla, Inc.",
+                "productMake": "TESLA",
+                "productModel": "MODEL 3",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The car braked from 65 mph to 35 mph with no obstructing traffic, the car has done similar things on many occasions however.  On the occasion of the most recent occurrence, I noticed that the car indicated a change in the posted maximum speed for that location from 65 mph (normal highway speed) to 35 mph, at which time it began slowing to the erroneous 35 mph limit.  There was no reason for the change in speed, as there was no posting, construction or traffic.",
+        "vin": "5YJ3E1EA7LF"
+    }
+]

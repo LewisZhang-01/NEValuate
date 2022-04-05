@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION,POWER TRAIN,STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "05/20/2021",
+        "dateOfIncident": "05/06/2021",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11417915,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "TUNDRA",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The frame has several holes in it. Toyota said they did the corrosion prevension on it and said the repair is out of warranty. The sway bar has broken free of the frame and there are several hole and flaking spots on the frame.",
+        "vin": "5TBDT44175S"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "06/24/2017",
+        "dateOfIncident": "03/14/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11000958,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FUSION",
+                "productYear": "2008",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKE PEDAL EXCESSIVE TRAVEL AND ON A FEW OCCASIONS WENT TO THE FLOOR WHEN HARD BRAKING ON HIGHWAY NEARLY CAUSING AN ACCIDENT.",
+        "vin": "3FAHP08Z78R"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VEHICLE SPEED CONTROL,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "06/30/2017",
+        "dateOfIncident": "06/30/2017",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11002524,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "ALTIMA",
+                "productYear": "2009",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING DOWN THE INTERSTATE ONCE THE ENGINE GETS HOT THE CAR LOSES ALL POWER.  NO WARNING LIGHTS COME ON AND ONCE YOU STOP THE CAR AND LET THE ENGINE COOL DOWN IT RUNS FINE",
+        "vin": "1N4AL21E29N"
+    }
+]

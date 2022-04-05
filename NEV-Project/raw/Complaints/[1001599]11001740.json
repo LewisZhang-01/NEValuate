@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "06/27/2017",
+        "dateOfIncident": "06/15/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11001740,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EDGE",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DEFECTIVE DOOR LATCH - THE DEFECT IS NOT COVERED IN OTHER RECALL FOR FORD MODELS FOR THE SAME PROBLEM.  IT IS  SAFETY CONCERN AND FORD CUSTOMER SERVICE WILL NOT REPAIR THE VEHICLE.",
+        "vin": "2FMDK4KC7DB"
+    }
+]

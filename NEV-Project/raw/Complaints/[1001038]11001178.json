@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "06/24/2017",
+        "dateOfIncident": "10/04/2016",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11001178,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "CHARGER",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VALVE SEAT DROPPED IN THE #6 CYLINDER DESTROYING THE ENGINE. NEEDS TO BE COMPLETELY OVERHAULED. AFTER DOING SOME RESEARCH ON THE MATTER, I FOUND THAT IT'S A COMMON PROBLEM.",
+        "vin": "2B3KA53H76H"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,AIR BAGS,SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "07/01/2017",
+        "dateOfIncident": "09/13/2016",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11002606,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "COMPASS",
+                "productYear": "2012",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "RECALL WAS ISSUED IN SEPTEMBER OF 2016 AND MANUFACTURER HAS YET TO MAKE A PART AVAILABLE TO RESOLVE THIS SAFETY ISSUE.",
+        "vin": "1C4NJCBA5CD"
+    }
+]

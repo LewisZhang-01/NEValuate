@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "03/05/2019",
+        "dateOfIncident": "03/01/2019",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11184415,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "ESCAPE",
+                "productYear": "2007",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2007 FORD ESCAPE. AFTER THE VEHICLE WAS ENGAGED IN PARK, THE STEERING WHEEL SHOOK WITHOUT WARNING. THE VEHICLE WAS TAKEN TO KRIEGERS FORD (3205 NORTH HWY 61, MUSCATINE, IA 52761) WHERE IT WAS DIAGNOSED THAT THE TORQUE SENSOR FAILED AND NEEDED REPLACEMENT. THE MANUFACTURER WAS NOT NOTIFIED OF THE FAILURE. THE VEHICLE WAS NOT REPAIRED. THE APPROXIMATE FAILURE MILEAGE WAS 129,165.",
+        "vin": "1FMCU03188K"
+    }
+]

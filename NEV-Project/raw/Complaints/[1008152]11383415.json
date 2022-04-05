@@ -1,0 +1,24 @@
+[
+    {
+        "components": "LANE DEPARTURE,BACK OVER PREVENTION",
+        "crash": false,
+        "dateComplaintFiled": "12/14/2020",
+        "dateOfIncident": "12/07/2020",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11383415,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "RAV4",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CAMERA NOT WORKING PROPERLY",
+        "vin": "JTMJFREV2GD"
+    }
+]

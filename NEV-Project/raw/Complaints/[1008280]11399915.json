@@ -1,0 +1,24 @@
+[
+    {
+        "components": "LATCHES/LOCKS/LINKAGES",
+        "crash": false,
+        "dateComplaintFiled": "03/09/2021",
+        "dateOfIncident": "03/08/2021",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11399915,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FUSION",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING OR STATIONARY, THE VEHICLE'S TRUNK LID OPENS ON ITS OWN.  DRIVING CONDITIONS, SPEED, ETC. DO NOT SEEM TO PERTAIN TO THE ISSUE.",
+        "vin": "1FA6P0H79E5"
+    }
+]

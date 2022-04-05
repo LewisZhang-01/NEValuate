@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,UNKNOWN OR OTHER,SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "08/20/2020",
+        "dateOfIncident": "08/16/2020",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11350515,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "ACADIA",
+                "productYear": "2017",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ALTHOUGH IN PARK, THE DASH ALERTS THE FOLLOWING MESSAGE : 'SHIFT TO PARK' THIS ALERT DOES NOT ALLOW THE VEHICLE TO BE SHUT OFF FULLY AS THE RADIO STILL PLAYS, LIGHTS REMAIN IN AND THE DASH REMAINS LIT. HAVE TRIED TO RESTART AND SHIFT INTO DIFFERENT GEARS THEN RETURN TO PARK AS WELL AS ENGAGE THE EMERGENCY BREAK. NOTHING WORKS TO FIX THIS.",
+        "vin": "1GKKNRLA4HZ"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,ELECTRONIC STABILITY CONTROL,SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "07/12/2017",
+        "dateOfIncident": "06/26/2017",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11004713,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "CHALLENGER",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "LOST POWER STEERING, LOST STABILITY CONTROL AND ABS BRAKES DRIVING ON INTERSTATE 695.  SYSTEMS CYCLED ON AND OFF EVENTUALLY REMAINED OFF.  CAR DIFFICULT TO DRIVE.",
+        "vin": "2C3CDZFJ3GH"
+    }
+]

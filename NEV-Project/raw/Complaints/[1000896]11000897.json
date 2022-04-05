@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/23/2017",
+        "dateOfIncident": "06/01/2017",
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11000897,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "FLHTCU",
+                "productYear": "2016",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Yokohama Tire Corporation",
+                "productMake": "SHINKO",
+                "productModel": "SHINKO E705",
+                "productYear": "9999",
+                "size": "110/90/19",
+                "type": "Tire"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2016 HARLEY-DAVIDSON ROAD GLIDE FLHTCU EQUIPPED WITH SHINKO 77HD (NA) TIRES, SIZE: 180/65/B16 (NA). WHILE DRIVING BETWEEN 70-80 MPH, THE REAR TIRE SUDDENLY EXPERIENCED SEVERE VIBRATION AND WOBBLING. THE MANUFACTURER WAS NOTIFIED OF THE FAILURE AND THE CONTACT WAS INFORMED THAT THE COMPANY WAS AWARE OF THE ISSUE WITH THE TIRES. THE DEALER WAS NOT CONTACTED. THE CONTACT WAS ADVISED TO RETURN ALL REMAINING INVENTORY TO THE MANUFACTURER. THE CONTACT INDICATED THAT THE FAILURE ONLY OCCURRED ON TIRES WITH THE SAFETY SIDEWALLS. THE VIN AND FAILURE MILEAGES WERE UNKNOWN.",
+        "vin": ""
+    }
+]

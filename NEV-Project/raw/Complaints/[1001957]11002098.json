@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "06/29/2017",
+        "dateOfIncident": "06/01/2017",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11002098,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO 1500",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ABS ACTIVATES SPORADICALLY WHEN BRAKING AT LOW SPEEDS, BOTH IN FORWARD AND BACKWARD MOTION.  THIS INCREASES STOPPING DISTANCE DRAMATICALLY.  PREVIOUS RECALLS WERE ISSUED IN 2006 (CLEAN SENSORS) AND 2009 (REPLACE SENSORS).  APPARENTLY THIS IS A KNOW SAFETY ISSUE!  LOCAL DEALER REFUSES TO ADDRESS THIS WITHOUT CHARGE AND REFERS ME TO GM.",
+        "vin": "1GCEC14W71Z"
+    }
+]

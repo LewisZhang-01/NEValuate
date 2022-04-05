@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "05/23/2018",
+        "dateOfIncident": "10/06/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11097615,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "2012",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "EXHAUST MANIFOLD STUDS. DESIGN FLAW OF THE EXHAUST MANIFOLDS ON THE F-150 ECOBOOST CAUSING MANIFOLD BOLTS TO SNAP/SHEER, WHICH IN TURN CAUSES THE MANIFOLDS TO WARP. THIS IS CAUSING NOISE, AND POSSIBLY EXHAUST GASES TO ENTER THE PASSENGER COMPARTMENT.    FORD IS OFFERING A FIX UNDER PROGRAM CODE: 17M05 FOR THE F450/F550, BUT IS EXCLUDING THE OTHER \"F SERIES\" TRUCKS WHICH SUFFER FROM THE SAME/SIMILAR ISSUE. THE ISSUE WAS NOTICED IMMEDIATELY AFTER AN ENGINE MISFIRE BEGAN OCCURRING (WHICH IS ALSO A KNOWN ISSUE). THE DEALERSHIP HAS QUOTED $1,400 TO REPLACE THE MANIFOLDS AND STUDS.",
+        "vin": "1FTFW1ET1CF"
+    }
+]

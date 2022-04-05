@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "06/26/2017",
+        "dateOfIncident": "02/01/2017",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11001305,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "MALIBU",
+                "productYear": "2009",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BOTH REAR DOOR LOCKS DO NOT OPERATE WITH THE REMOTE. SAFETY HAZARD!",
+        "vin": "1G1ZG57B094"
+    }
+]

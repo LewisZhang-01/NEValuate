@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "07/12/2017",
+        "dateOfIncident": "06/28/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11004827,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2012",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "POWER STEERING CUTS OUT WHILE VEHICLE IS ON. STEERING BECOMES ALMOST IMPOSSIBLE. SO FAR, IT HAS ONLY HAPPENED WHILE STOPPED. CONCERNED IT COULD HAPPEN WHILE MOVING.",
+        "vin": "1FAHP3H21CL"
+    }
+]

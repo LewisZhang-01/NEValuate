@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "10/05/2021",
+        "dateOfIncident": "08/01/2021",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11435615,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact owns a 2019 Ford Explorer. The contact stated while driving 60 MPH, the driver\u2019s side roof rail detached from the body of the vehicle. The vehicle was taken to a local dealer where it was diagnosed but not repaired. Upon investigation, the contact associated the failure with NHTSA Campaign Number: 21V316000 (Structure) however, the VIN was not included. The manufacturer was informed of the failure and referred the contact to NHTSA. The failure mileage was approximately 55,000.",
+        "vin": "1FM5K7B83KG"
+    }
+]

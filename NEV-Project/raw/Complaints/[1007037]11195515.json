@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "04/10/2019",
+        "dateOfIncident": "04/01/2019",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11195515,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "328XI",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SYSTEM RESTRAINTS PASSENGER SIDE. WILL NOT RESET. CONTINUES TO ILLUMINATE RESTRAINT ERRORS. HAPPENED WHILE DRIVING, AND STAYS ON WHEN PARKED.",
+        "vin": "WBAKF5C54DE"
+    }
+]

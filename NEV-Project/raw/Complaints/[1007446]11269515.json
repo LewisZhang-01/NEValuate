@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "10/19/2019",
+        "dateOfIncident": "10/10/2019",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11269515,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "LEXUS",
+                "productModel": "ES",
+                "productYear": "2008",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN DRIVING AT 60MPH, AFTER REMOVING FOOT FROM GAS PEDAL, VEHICLE WILL CONTINUE TO MAINTAIN A SPEED OF 40MPH.  HAVE TO APPLY BRAKES TO SLOW CAR DOWN.",
+        "vin": "JTHBJ46G182"
+    }
+]

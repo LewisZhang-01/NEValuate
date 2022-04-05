@@ -1,0 +1,24 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": true,
+        "dateComplaintFiled": "08/16/2021",
+        "dateOfIncident": "08/13/2021",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11429215,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Driving normal on highway and truck turned off. No power steering. No brakes. No power. Almost crashed with 18 wheelers. Was going 65 on third lane on a 6 lane highway.",
+        "vin": "1ftfw1r68df"
+    }
+]

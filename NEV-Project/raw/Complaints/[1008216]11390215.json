@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS,SEAT BELTS,STRUCTURE",
+        "crash": true,
+        "dateComplaintFiled": "01/27/2021",
+        "dateOfIncident": "01/25/2021",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 11390215,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "CAMRY",
+                "productYear": "2017",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I HYDROPLANED ON THE INTERSTATE GOING 60 AND HIT A GUARDRAIL TWICE. THE AIRBAGS NEVER WENT OFF, THE SEAT BELT RETRACTED BACK INTO PLACE AFTER TAKING IT OFF. IT SHOULD HAVE BEEN FLOPPY IF IT WAS EFFECTIVE.",
+        "vin": "4T1BF1FK8HU"
+    }
+]

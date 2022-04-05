@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "07/17/2017",
+        "dateOfIncident": "03/01/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11006051,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FLEX",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FRONT PASSENGER DOOR AJAR SENSOR NOT WORKING.  DOOR REPORTS BEING OPEN WHEN IT'S NOT.  INTERIOR LIGHTS STAY ON, DRAINING BATTERY,  INTERFERING WITH DRIVING.  HAPPENS WHEN 1ST GETTING INTO CAR, BUT ALSO DURING OPERATION.   HAPPENING NEARLY ALL THE TIME NOW.",
+        "vin": "2FMHK6C83DB"
+    }
+]

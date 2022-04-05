@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "03/15/2018",
+        "dateOfIncident": "02/21/2018",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11079515,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EDGE",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVER SIDE DOOR AJAR ALARM REMAINS ON AFTER DOOR IS CLOSED. CONSTANT ALARMS WHEN STOPPING TO PLACE VEHICLE IN PARK. DOORS WILL NOT LOCK AND LIGHTING REMAINS ON IN CAR.",
+        "vin": "2FMDK4JC5DB"
+    }
+]

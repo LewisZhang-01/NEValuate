@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "07/11/2017",
+        "dateOfIncident": "07/22/2016",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11004231,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "2010",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TAKATA RECALL - OVER 1 YEAR OLD WITH NO ACTION - THE PASSENGER FRONTAL AIRBAG INFLATOR COULD RUPTURE IF THE VEHICLE IS INVOLVED IN A CRASH WHERE THE SUPPLEMENTAL FRONTAL AIRBAGS ARE DESIGNED TO DEPLOY. THIS DEFECT REPORT IS IN RESPONSE TO TAKATA DIRS 16E-042, 16E-043, 16E-044.",
+        "vin": "1FTKR1ED9AP"
+    }
+]

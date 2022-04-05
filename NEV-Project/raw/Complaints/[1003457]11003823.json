@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "07/08/2017",
+        "dateOfIncident": "07/08/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11003823,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EDGE",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE DOOR AJAR WARNING CONTINUOUSLY COMES ON EVEN WHEN THE DOOR IS CLOSED AND LOCKED.  THIS CAUSES THE BATTERY TO DRAIN AND THE ALARM TO GO OFF AT RANDOM TIMES.  THE ONLY WAY TO DEACTIVATE IS BY SLAMMING THE DOOR SHUT MULTIPLE TIMES.",
+        "vin": "2FMDK4KCXDB"
+    }
+]

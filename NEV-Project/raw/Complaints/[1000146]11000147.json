@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "06/20/2017",
+        "dateOfIncident": "06/17/2017",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11000147,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "ENVOY",
+                "productYear": "2009",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "HEADLIGHT DRIVE MODULE (HDM) CONTROLS BOTH LOW BEAM HEADLIGHTS. THIS RELAY HAS FAILED ON ME TWICE IN LESS THAN A YEAR, AT NIGHT RESULTING IN GOING DOWN THE ROAD WITH NO LIGHTS AND UNABLE TO SEE. VEHICLE WAS IN MOTION ON A HIGHWAY GOING 55 MPH AT NIGHT",
+        "vin": "1GKET53M992"
+    }
+]

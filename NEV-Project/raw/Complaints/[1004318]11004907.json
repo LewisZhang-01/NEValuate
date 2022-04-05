@@ -1,0 +1,24 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "07/12/2017",
+        "dateOfIncident": "08/18/2016",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11004907,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO 1500",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE OPERATOR HAS RADIO SHUT OFF. WHEN VEHICLE IS USED AGAIN THE RADIO COMES ON UNWANTED SHORTLY AFTER START. IF VEHICLE HAS STARTED MOVING THIS PUTS THE OPERATOR IN A  DISTRACTED DRIVING SITUATION. THIS HAPPENS EVERY OTHER STARTUP. ( IF STARTS ARE MORE THAN A FEW MINUETS APART.)",
+        "vin": "1GCNKREC4GZ"
+    }
+]

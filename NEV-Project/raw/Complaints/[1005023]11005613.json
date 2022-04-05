@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS,SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "07/17/2017",
+        "dateOfIncident": "07/10/2017",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11005613,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "200",
+                "productYear": "2012",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "RECALL WAS ISSUED IN SEPTEMBER 2016, FOR;    \"VEHICLES MAY EXPERIENCE LOSS OF AIR BAG AND SEAT BELT PRETENSIONER DEPLOYMENT CAPABILITY IN CERTAIN CRASH EVENTS DUE TO A SHORTING CONDITION RESULTING IN A NEGATIVE VOLTAGE TRANSIENT THAT TRAVELS TO THE OCCUPANT RESTRAINT CONTROLLER VIA THE FRONT IMPACT SENSOR WIRES.\"    IT IS NOW JULY 2017, WITHOUT AN ESTIMATED REPAIR TIME NOR WHEN OR HOW THE SITUATION COULD BE FIXED.",
+        "vin": "1C3CCBHG1CN"
+    }
+]

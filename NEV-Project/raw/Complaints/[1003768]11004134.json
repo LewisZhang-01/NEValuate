@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "07/10/2017",
+        "dateOfIncident": "06/17/2017",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11004134,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "MURANO",
+                "productYear": "2015",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Continental Tire the Americas, LLC",
+                "productMake": "CONTINENTAL",
+                "productModel": "CONTINENTAL SPORT LT/SUV",
+                "productYear": "9999",
+                "size": "P275/60R17",
+                "type": "Tire"
+            }
+        ],
+        "summary": "TIRES ARE LOSING PARTICLES OF THE RUBBER.   THE TIRES ARE DETERIORATING IN THE MIDDLE MOSTLY",
+        "vin": "5N1AZ2MG2FN"
+    }
+]

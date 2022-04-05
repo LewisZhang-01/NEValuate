@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "02/16/2022",
+        "dateOfIncident": "02/16/2022",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11452315,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "GRAND CARAVAN",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Right sliding door will not lock/unlock using remote or manual application.",
+        "vin": "2C4RDGBG1KR"
+    }
+]

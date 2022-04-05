@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "04/24/2019",
+        "dateOfIncident": "04/24/2019",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11203515,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "TACOMA",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FRAME IS VERY BAD SHAPE DUE TO RUST PROBLEM AND BROKEN",
+        "vin": "4TAPM62N8WZ"
+    }
+]

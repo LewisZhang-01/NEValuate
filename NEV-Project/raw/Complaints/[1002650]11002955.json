@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "07/04/2017",
+        "dateOfIncident": "07/02/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11002955,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "PUT THE TRUCK IN DRIVE AND THE BRAKE BOOSTER FAILED.",
+        "vin": "1FTFW1CT4DK"
+    }
+]

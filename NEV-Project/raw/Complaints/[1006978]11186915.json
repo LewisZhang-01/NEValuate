@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "03/14/2019",
+        "dateOfIncident": "02/26/2019",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11186915,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "328XI",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE CAR HAD RECENTLY HAD ITS 8 SPEED AUTOMATIC TRANSMISSION FLUID CHANGED. THE TRANSMISSION WAS NOT REFILLED TO THE CORRECT CAPACITY AND WAS LOW. THE CAR BEGAN EXHIBITING DRIVETRAIN ERRORS AND WENT INTO LIMP MODE. THE PROBLEM IS THAT THE COMPUTER AUTOMATICALLY SHIFTED THE CAR INTO PARK WHILE I WAS DRIVING IT. AS I APPROACHED A STOPLIGHT AND SLOW DOWN TO AROUND 6 MILES AN HOUR THE COMPUTER AUTOMATICALLY PUT THE CAR IN PARK CAUSING SIGNIFICANT GRINDING OF THE SHARK LOCKING GEAR.  THERE IS A BUG IN THE CONTROL SOFTWARE DID NOT RECOGNIZE THE CAR WAS ROLLING AT A RELATIVELY HIGH SPEED WHEN IT DECIDED TO PUT THE CAR IN PARK. THE COMPUTER SHOULD NOT PUT THE CAR IN PARK IF THE CAR IS FULLY UNDERWAY.",
+        "vin": "WBA3B5G52DN"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "02/19/2021",
+        "dateOfIncident": "02/19/2021",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11396915,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "QUEST",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CRANK POSITION SENSOR WON'T START AFTER SITTING STATIONARY AFTER IT RAN AND STOPPED ITS INTERMEDIATE.",
+        "vin": "5N1BV28U16N"
+    }
+]

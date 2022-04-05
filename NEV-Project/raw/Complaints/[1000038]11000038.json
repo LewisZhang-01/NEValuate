@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "06/19/2017",
+        "dateOfIncident": "06/19/2017",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11000038,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "M3",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TAKATA RECALL: YOUR SITE IMPROPERLY SHOWS NO RECALLS WHEN VIN USED, AND CONFUSES 2006 M3 (E46) WITH THE 2006 3 SERIES SUCCESSOR (E90?), EVEN THOUGH THE RECALL NOTICE RCRIT-14V428-8638 SHOWS \"MODEL YEAR 2000-2006 BMW 3 SERIES (E46) - INCL-M\"",
+        "vin": "WBSBL93496P"
+    }
+]

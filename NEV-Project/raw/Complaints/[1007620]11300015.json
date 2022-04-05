@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "01/17/2020",
+        "dateOfIncident": "12/21/2018",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11300015,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "328I",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TIMING CHAIN BROKE WHILE DRIVING UNDER NORMAL CONDITION. HAD TO REPLACE ENTIRE ENGINE WITH USED ENGINE",
+        "vin": "WBA3B5C58DF"
+    }
+]

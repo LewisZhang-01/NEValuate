@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,SERVICE BRAKES,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "06/21/2017",
+        "dateOfIncident": "06/21/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11000552,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "2017",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENGINE STALLS AT STOP (AFTER LETTING UP ON BRAKE AND AUTO START STOP RE-STARTS THE ENGINE) FOLLOWED BY \"HILL START ASSIST NOT AVAILABLE\" ERROR FLASHES ALONG WITH OTHER BRAKE RELATED ERRORS; VEHICLE ENGINE WON'T TURN OVER/START UNLESS TRANSMISSION IS PUT BACK INTO PARK.  UPON RESTARTING ALL ENGINE ERROR/FAULT MESSAGES ARE CLEARED AND THINGS SEEM BACK TO NORMAL.  TODAY WAS THE SECOND TIME THIS HAS HAPPENED.  THE FIRST TIME WAS ABOUT 7 DAYS AGO.  THIS IS DANGEROUS SHOULD IT HAPPEN ENTERING AN INTERSECTION.  I REPORTED THE PROBLEM TO LIVERMORE FORD AND THEY SAID THAT SINCE IT IS INTERMITTENT WITHOUT A CHECK ENGINE LIGHT ON THEY CANNOT DIAGNOSE IT.",
+        "vin": "1FTEW1EP0HK"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "10/28/2019",
+        "dateOfIncident": "09/26/2019",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11271715,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "LIBERTY",
+                "productYear": "2012",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CLUSTER BACKLIGHTING RANDOM INSTRUMENT BACKLIGHT GOES OFF OR FLICKERS",
+        "vin": "1C4PJMAKXCW"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "03/27/2018",
+        "dateOfIncident": "10/16/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11081515,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FORD HAS NOT ADDRESSED THE FOLLOWING SAFETY RECALL NOTICE, WHICH THEY RELEASED ON 16 OCT 2017. ACCORDING TO A LOCAL FORD DEALERSHIP, FORD HAS NOT DISTRIBUTED THE APPROPRIATE PARTS TO MAKE THE NECESSARY REPAIRS..... A FROZEN DOOR LATCH OR A BENT OR KINKED ACTUATION CABLE MAY RESULT IN A DOOR THAT WILL NOT OPEN OR WILL NOT CLOSE CONDITION. SHOULD A CUSTOMER BE ABLE TO OPEN AND CLOSE THE DOOR WITH THESE CONDITIONS, THE DOOR MAY APPEAR CLOSED, BUT THE LATCH MAY NOT FULLY ENGAGE THE DOOR STRIKER AND THERE IS A POTENTIAL THE DOOR COULD OPEN WHILE DRIVING.",
+        "vin": "1FTEW1EF7FK"
+    }
+]

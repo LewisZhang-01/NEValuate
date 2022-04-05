@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN,ENGINE,FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "08/01/2019",
+        "dateOfIncident": "07/31/2019",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11241115,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "MALIBU",
+                "productYear": "2018",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "23000 MILES ON A USED VEHICLE. ACCELERATION/LOW POWER, THE VEHICLE DOES NOT RECEIVE ANY POWER UNTIL 4000 RPMS, GAS PEDAL CAN BE PUSHED DOWN AND STILL TAKES IT TIME TO ACCELERATE. MPG IS CURRENTLY AVERAGING 18 MPG ADVERTISED AS 27-37 MPG",
+        "vin": "1G1ZD5ST9JF"
+    }
+]

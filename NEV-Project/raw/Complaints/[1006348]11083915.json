@@ -1,0 +1,31 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "04/09/2018",
+        "dateOfIncident": "04/01/2018",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11083915,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FLEX",
+                "productYear": "2014",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "SERVICE FUEL TANK",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "CHECK ENGINE LIGHT CAME ON AFTER THE CHECK FUEL FILL INLET LIGHT HAD BEEN ON. WHEN TAKEN TO THE FORD DEALER THEY SAID THE LEGAL CANISTER FAILED INTERNALLY. NOW FORD IS SAYING THEY WON'T COVER IT BECAUSE IT NOT PART OF THE EMISSIONS SYSTEM. MY VEHICLE IS 2014 FORD FLEX DEL.",
+        "vin": "2FMGK5C86EB"
+    }
+]

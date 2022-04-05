@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN,ENGINE,FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "10/27/2021",
+        "dateOfIncident": "10/27/2021",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11438415,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "After driving at highway speed for approx 1 hour, came to stop at red light. Vehicle idles rough, dropping to 250-300 rpm, then stalled in traffic, requiring restart. Third time this issue has occurred, all at stop signs or red lights.",
+        "vin": "1FTEW1EF2GF"
+    }
+]

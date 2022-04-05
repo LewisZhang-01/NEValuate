@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "09/05/2019",
+        "dateOfIncident": "09/05/2019",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11253415,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "TOWN AND COUNTRY",
+                "productYear": "2010",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE STARTED FINE, WAS DRIVEN FOR 25 MINUTES. SAT FOR ABOUT 20 MINUTES THEN WOULD NOT CRANK WHEN TRYING TO START. EVERYTHING HAD POWER, NO DIMMING OF LIGHTS WHEN TURNING KEY IN IGNITION. THE STARTER SIMPLY MADE NO SOUND/ATTEMPT AT ALL. THESE SYMPTOMS ARE CONSISTENT WITH L25 RECALL IN OTHER 2010 CHRYSLER TOWN AND COUNTRIES.",
+        "vin": "2A4RR8D17AR"
+    }
+]

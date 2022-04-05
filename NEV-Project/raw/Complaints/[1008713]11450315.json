@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "02/03/2022",
+        "dateOfIncident": "01/27/2022",
+        "fire": false,
+        "manufacturer": "Volvo Car USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11450315,
+        "products": [
+            {
+                "manufacturer": "Volvo Car USA, LLC",
+                "productMake": "VOLVO",
+                "productModel": "XC60",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "electrical Emergency break do not function in steep slope, project message \u201cthe emergency break can hold vehicule weight\u201d    seriously that scare me",
+        "vin": "YV4BK0DP8N1"
+    }
+]

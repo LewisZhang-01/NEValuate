@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "07/11/2017",
+        "dateOfIncident": "07/05/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11004266,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE LOST POWER WHILE DRIVING AT 75 MPH ON I-25 IN NEW MEXICO. IT WAS VERY SCARY TRYING TO PULL TO THE RIGHT SHOULDER IN TRAFFIC WILL NO ENGINE POWER APPARENTLY AVAILABLE. THIS OCCURRED ON TWO MORE OCCASIONS BEFORE THE DEALER COULD SEE THE VEHICLE. SUBSEQUENTLY LEARNED THAT WHAT THE PU DID WAS ENTER THE \"LIMP HOME\" MODE. WHEN THE DEALER FINALLY LOOKED AT THE ERROR CODES IN THE TRUCKS MEMORY, THE CAUSE WAS A DEFECTIVE ELECTRONIC THROTTLE BODY (ETB). IT'S REPLACEMENT HAS RESOLVED THE ISSUE AT LEAST FOR NOW.",
+        "vin": "1FTFW1ET0EF"
+    }
+]

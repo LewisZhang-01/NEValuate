@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "07/05/2017",
+        "dateOfIncident": "06/16/2017",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11003045,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "CHEROKEE",
+                "productYear": "2017",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "IRREGULAR TRANSMISSION SHIFTING",
+        "vin": "1C4PJMBS4HW"
+    }
+]

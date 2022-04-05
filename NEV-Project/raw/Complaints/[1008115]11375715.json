@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "11/21/2020",
+        "dateOfIncident": "11/11/2020",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11375715,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "STEERING FAILS WHEN MOVING AND REFUSES TO TURN ON ANY STREET. WE HAVE TO STOP, TURN THE IGNITION OFF AND RESTART THE VEHICLE TO RESUME DRIVING!",
+        "vin": "1FM5K7D81FG"
+    }
+]

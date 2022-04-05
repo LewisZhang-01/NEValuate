@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "05/24/2019",
+        "dateOfIncident": "05/24/2019",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11209815,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2012",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I WAS DRIVING MY CAR IN A RURAL AREA GOING ABOUT 45 MPH WHEN THE CAR STARTED JERKING AND REVING NEAR 6 RPM. THE CAR WILL NO LONGER DRIVE IN REVERSE AND IS UNDRIVABLE.",
+        "vin": "1FAHP3F26CL"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "06/21/2017",
+        "dateOfIncident": "06/13/2017",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11000367,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "MALIBU",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "IGNITION SWITCH SOMETIMES WILL NOT START CAR IN PARK (AN OCCASIONAL PROBLEM ON THIS VEHICLE IS FAILURE OF THE IGNITION LOCK CYLINDER.FAILURE OF THE IGNITION LOCK CYLINDER MAY PREVENT THE VEHICLE FROM STARTING )",
+        "vin": "1G1ZT54815F"
+    }
+]

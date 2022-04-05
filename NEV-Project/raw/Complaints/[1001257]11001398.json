@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "06/26/2017",
+        "dateOfIncident": "09/27/2013",
+        "fire": false,
+        "manufacturer": "Volvo Car USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11001398,
+        "products": [
+            {
+                "manufacturer": "Volvo Car USA, LLC",
+                "productMake": "VOLVO",
+                "productModel": "XC90",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TAKATA RECALL.",
+        "vin": "YV4952CZ4E1"
+    }
+]

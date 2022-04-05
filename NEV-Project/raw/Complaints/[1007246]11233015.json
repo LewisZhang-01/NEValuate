@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "07/18/2019",
+        "dateOfIncident": "07/16/2019",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11233015,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "PATHFINDER",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FAULTY BREAK RELAY SWITCH. IT PREVENTS ACCELERATION. VEHICLE WAS IN MOTION ON HIGHWAY.  THIS HAS ALMOST CAUSED SOME ONE TO REAR END ME.",
+        "vin": "5N1AR2MMOEC"
+    }
+]

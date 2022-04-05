@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,UNKNOWN OR OTHER,BACK OVER PREVENTION",
+        "crash": false,
+        "dateComplaintFiled": "01/03/2022",
+        "dateOfIncident": "12/04/2021",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11446015,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "TERRAIN",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The Back Up Camera System is not working properly. When Vehicle is put into reverse a blue screen appears. This can be dangerous as one could back up into someone or something. This is a 2019 vehicle and the NHTSA made them mandatory in May of 2018. This has been confirmed by a dealership. Many others have posted this online as an issue and GM has put out this service bulletin: https://static.nhtsa.gov/odi/tsbs/2019/MC-10160418-9999.pdf",
+        "vin": "3GKALXEX7KL"
+    }
+]

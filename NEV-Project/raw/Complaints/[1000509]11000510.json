@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,SUSPENSION,ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "06/21/2017",
+        "dateOfIncident": "06/17/2017",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11000510,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA 1500",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "POWER STEERING LIGHT AND STABILITRACK LIGHT COMING ON WHEN COMING TO A SLOW STOP. LIGHTS WILL NOT STAY ON LONG ENOUGH TO THROW A CODE TO READ. A/C, RADIO, DASH ALL SHUTS DOWN WHEN THESE CODES THROW.",
+        "vin": "3GTU2UEC4EG"
+    }
+]

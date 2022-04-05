@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/27/2017",
+        "dateOfIncident": "06/21/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11001709,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXCURSION",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Unicorn Tire Corporation",
+                "productMake": "SUNFULL",
+                "productModel": "MONT-PRO HT781",
+                "productYear": "9999",
+                "size": "LT265/75/16",
+                "type": "Tire"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2002 FORD EXCURSION EQUIPPED WITH SUNFULL MONT-PRO HT781 TIRES, SIZE: LT265/75/16. WHILE DRIVING 65 MPH, THE VEHICLE VIBRATED ABNORMALLY. THE VEHICLE WAS TAKEN TO AN INDEPENDENT MECHANIC TO BE DIAGNOSED. THE CONTACT WAS INFORMED THAT THE REAR PASSENGER SIDE TIRE TREAD SEPARATED, WHICH CAUSED A BUBBLE IN THE TIRE. WITHIN LESS THAN A THOUSAND MILES LATER, THE FRONT DRIVER'S TIRE ALSO EXPERIENCED THE FAILURE. THE RETAIL FACILITY WHERE THE TIRES WERE SOLD AND INSTALLED WAS NOT CONTACTED. THE TIRE MANUFACTURER WAS NOT NOTIFIED OF THE FAILURE. THE VIN WAS UNKNOWN. THE APPROXIMATE VEHICLE FAILURE MILEAGE WAS 166,000 AND THE TIRE FAILURE MILEAGE WAS APPROXIMATELY 4,999.",
+        "vin": ""
+    }
+]

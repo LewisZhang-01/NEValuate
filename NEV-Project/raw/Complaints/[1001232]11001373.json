@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "06/26/2017",
+        "dateOfIncident": "07/21/2007",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11001373,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FUSION",
+                "productYear": "2007",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN IN MOTION, THE BRAKES HAVE TO DEPRESSED FURTHER TO THE FLOOR THAN WHEN NEW. THE MASTER CYLINDER WAS CHANGED OUT UNDER WARRANTY BUT THE PROBLEM WAS STILL THERE.",
+        "vin": "3FAHP07187R"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "06/22/2017",
+        "dateOfIncident": "06/21/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11000586,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FUSION HYBRID",
+                "productYear": "2011",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVING AND THE TRS LIGHT CAME ON WE CAME TO A STOP AND THE POWER STEERING SWITCHED OVER TO MANUAL.",
+        "vin": "3FADP0L37BR"
+    }
+]

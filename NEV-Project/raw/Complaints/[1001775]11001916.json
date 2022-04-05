@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "06/28/2017",
+        "dateOfIncident": "06/13/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11001916,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FUSION HYBRID",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "06/13/2017 - VEHICLE SUDDENLY DECELERATED IN HIGH TRAFFIC SITUATION WHEN EXITING HIGHWAY 101 IN LOS ANGELES.  \"CHECK POWERTRAIN\" WARNING AND WRENCH LIGHT ILLUMINATED.  UNABLE TO ACCELERATE TO SAFE DRIVING SPEED EVEN WITH ACCELERATOR PEDAL PUSHED ALL THE WAY TO THE FLOOR.  VEHICLE WENT INTO \"LIMP MODE\".  WAS ABLE TO GET VEHICLE TO NEARBY FORD DEALER.  SERVICE TECHNICIAN REPORTED THAT THE THROTTLE BODY ASSEMPLY FAILED.  FORD REPLACED THE ELECTRONIC THROTTLE BODY (ETB) PER TSB.  NO PRIOR NOTICE OR WARNING FROM FORD WAS EVER PROVIDED THAT THIS IS A COMMON, AND POTENTIALLY DANGEROUS, ISSUE WITH THE VEHICLE, AND SERVICING FORD DEALER MADE NO COMMENT TO THAT FACT AS WELL.",
+        "vin": "3FA6P0LU1GR"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "02/18/2019",
+        "dateOfIncident": "01/03/2019",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11180915,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENGINE OVERHEATED AT 56478 MILES WITH NO WARNING   1.0 LITER THREE CYLINDER.   DRIVING 70 MPH AND TEMP GAGES WENT INTO RED WITHOUT ANY ADVANCED WARNING PULLED OVER.",
+        "vin": ""
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN,VEHICLE SPEED CONTROL,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "09/01/2018",
+        "dateOfIncident": "08/31/2018",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11123915,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAPTIVA",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CAPTIVA WILL STUTTER AND STALL UP CURVED HILLS AT 2000RPM IN DANGEROUS UNEXPECTED PLACES. WILL NOT THROW A CODE!!! IN ECO MODE AND AUTOMATIC DURING THE INCIDENTS. TOOK OUT OF ECO MODE AND RAISED TO 3000RPM TO PULL UP THE HILL. GAUGES FLAT LINED SEVERAL TIMES DURING THE INCIDENTS.",
+        "vin": "3GNAL4EK1FS"
+    }
+]

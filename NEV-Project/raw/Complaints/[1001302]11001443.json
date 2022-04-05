@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "06/26/2017",
+        "dateOfIncident": "04/18/2017",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11001443,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "ARMADA",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUEL GAUGE ON INSTRUMENT PANEL NEVER READS BELOW A QUARTER OF A TANK. HAS CAUSED ME TO RUN OUT OF GAS ON SEVERAL OCCASIONS ON HIGHWAY AND BACK ROADS",
+        "vin": "5N1AA08B95N"
+    }
+]

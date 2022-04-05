@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "07/17/2017",
+        "dateOfIncident": "07/02/2017",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11005810,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "DURANGO",
+                "productYear": "2011",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FACTORY WIRED TOW PACKAGE NOT SETUP CORRECTLY.      BUILT-IN BRAKE CONTROL WIRING HARNESS NOT RECEIVING VOLTAGE WHEN BRAKES APPLIED/NO VOLTAGE RECEIVED FROM STOP LIGHT SWITCH TO PORT/WIRING HARNESS.",
+        "vin": "1D4SE4GT8BC"
+    }
+]

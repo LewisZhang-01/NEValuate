@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "03/18/2021",
+        "dateOfIncident": "03/18/2021",
+        "fire": false,
+        "manufacturer": "Kia Motors America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11403715,
+        "products": [
+            {
+                "manufacturer": "Kia Motors America",
+                "productMake": "KIA",
+                "productModel": "SOUL",
+                "productYear": "2012",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "STEERING WHEEL INITIALLY STARTING STICKING WHEN TRYING TO CHANGE LANES OR TURN. NOW THE WHEEL CLICKS WHEN TURNED IN EITHER DIRECTION",
+        "vin": "KNDJT2A52C7"
+    }
+]

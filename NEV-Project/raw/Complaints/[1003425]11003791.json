@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "07/08/2017",
+        "dateOfIncident": "07/08/2017",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11003791,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "ACCORD",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE ENGINE STARTED EXCESSIVELY CONSUMING OIL ONCE IT PASSED 60,000 MILES ON THE ODOMETER.  IT APPEARS TO BE BURNING OIL AT A RATE OF 1/2 QUART PER 1,000 MILES.",
+        "vin": "1HGCR2F8XDA"
+    }
+]

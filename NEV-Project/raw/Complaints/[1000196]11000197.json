@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "06/20/2017",
+        "dateOfIncident": "02/02/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11000197,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FLEX",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE DRIVER'S DOOR LATCH DOES NOT READ THE DOOR IS SHUT, KEEPING THE DOORS FROM BEING LOCKED WHILE THE CAR IS DRIVEN. ALSO MAKES LIGHTS STAY ON SO IT KILLS THE BATTERY.",
+        "vin": "2FMGK5C84DB"
+    }
+]

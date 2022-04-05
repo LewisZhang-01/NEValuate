@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "06/21/2017",
+        "dateOfIncident": "05/12/2017",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11000383,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "VELOSTER",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE CAR AS I WOULD DESCRIBE IT STALLS RANDOMLY WHILE DRIVING UNDER 40 MPH, THE ENGINE DOESN'T SHUT OFF BUT I LOSE DRIVE POWER AND THE RPM SHOOT UP.  THE DEALERSHIP HAS NOT BEEN ABLE TO REPRODUCE THE ISSUE AND NO ENGINE LIGHTS COME ON WHEN THE PROBLEM HAPPENS. I FEAR THIS WILL END UP CAUSING ME TO GET REAR ENDED.",
+        "vin": "KMHTC6AD6EU"
+    }
+]

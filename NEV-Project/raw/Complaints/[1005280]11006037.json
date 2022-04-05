@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "07/17/2017",
+        "dateOfIncident": "07/16/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11006037,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "MUSTANG",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE SPARK PLUGS HAVE A TENDENCY TO BLOW OUT.   AN EXPLOSION MAKES THE PLUG STRIP THE THREADS AND DO DAMAGE TO THE HEAD.   THERE IS ALSO POTENTIAL FOR FIRE AS FUEL VAPOR IS THEN RELEASE DIRECTLY INTO THE ENGINE COMPARTMENT.",
+        "vin": "1FAFP42X84F"
+    }
+]

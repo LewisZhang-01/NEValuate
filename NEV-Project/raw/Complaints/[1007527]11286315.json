@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "12/02/2019",
+        "dateOfIncident": "12/01/2019",
+        "fire": false,
+        "manufacturer": "Highland Ridge RV",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11286315,
+        "products": [
+            {
+                "manufacturer": "Highland Ridge RV",
+                "productMake": "OPEN RANGE",
+                "productModel": "3X",
+                "productYear": "2018",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Foreign Tire Sales, Inc.",
+                "productMake": "FTS",
+                "productModel": "WESTLAKE",
+                "productYear": "9999",
+                "size": "LT235/75R15",
+                "type": "Tire"
+            }
+        ],
+        "summary": "TRIED SEPARATION/BLOW OUT",
+        "vin": "58TBH0BT8J3"
+    }
+]

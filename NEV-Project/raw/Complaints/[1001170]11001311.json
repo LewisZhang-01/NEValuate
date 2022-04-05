@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "06/26/2017",
+        "dateOfIncident": "06/23/2017",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11001311,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "CAMRY",
+                "productYear": "2007",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE DASHBOARD IS STARTING TO MELT. WHEN THE OUTSIDE TEMPERATURE GETS WARM, 80 DEGREES PLUS, THE DASHBOARD IS SO STICKY YOU CAN NOT PUT YOUR HANDS ON IT.",
+        "vin": "4T1BE46K77U"
+    }
+]

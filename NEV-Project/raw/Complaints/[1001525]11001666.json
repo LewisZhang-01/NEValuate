@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "06/27/2017",
+        "dateOfIncident": "05/18/2017",
+        "fire": false,
+        "manufacturer": "Mazda Motor Corp.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11001666,
+        "products": [
+            {
+                "manufacturer": "Mazda Motor Corp.",
+                "productMake": "MAZDA",
+                "productModel": "CX-9",
+                "productYear": "2008",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE TRANSFER CASE IS GOING OUT AND IT IS DUE TO A KNOWN MANUFACTURER ERROR FROM PARTS USED.",
+        "vin": "JM3TB38VX80"
+    }
+]

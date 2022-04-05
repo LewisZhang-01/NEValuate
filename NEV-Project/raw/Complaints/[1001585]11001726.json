@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "06/27/2017",
+        "dateOfIncident": "06/15/2017",
+        "fire": false,
+        "manufacturer": "Kia Motors America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11001726,
+        "products": [
+            {
+                "manufacturer": "Kia Motors America",
+                "productMake": "KIA",
+                "productModel": "SORENTO",
+                "productYear": "2017",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CRUSE CONTROL SET AT 70 AND WHILE DESCENDING WILL DROP TO 3500RPM AND THEN SUDDENTLY DROP 5000RPM.  TOOK TO THE DEALER AND THEY COULD NOT FIND A CAUSE OR PROBLEM",
+        "vin": "5XYPG4A37HG"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "06/29/2017",
+        "dateOfIncident": "06/11/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11002333,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FIESTA",
+                "productYear": "2011",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "RIGHT REAR DOOR LATCH FAILED. I WAS PARKED AND WARNING LIGHT ALERTED ME TO IT WHEN I ATTEMPTED TO DRIVE AGAIN. HAD TO PAY TO HAVE IT REPLACED AT DEALER.",
+        "vin": ""
+    }
+]

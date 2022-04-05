@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS,VEHICLE SPEED CONTROL,ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "06/19/2017",
+        "dateOfIncident": "01/19/2017",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11000003,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "STRATUS",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2003 DODGE STRATUS. THE CONTACT STATED THAT THE VEHICLE'S HORN HAD NO FUNCTIONALITY AND THE VEHICLE SPEED CONTROL DID NOT FUNCTION. IN ADDITION, THE AIR BAG WARNING INDICATOR ILLUMINATED. THE VEHICLE WAS NOT DIAGNOSED OR REPAIRED. THE MANUFACTURER AND THE DEALER WERE NOT NOTIFIED OF THE FAILURES. THE FAILURE MILEAGE WAS APPROXIMATELY 178,000. THE VIN WAS NOT PROVIDED.",
+        "vin": ""
+    }
+]

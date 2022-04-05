@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "06/27/2017",
+        "dateOfIncident": "07/01/2016",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11001606,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FUSION",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TAKATA RECALL.  SAFETY RECALL NOTICE 16S26 / NHTSA RECALL 16V-384",
+        "vin": "3FAFP07Z76R"
+    }
+]

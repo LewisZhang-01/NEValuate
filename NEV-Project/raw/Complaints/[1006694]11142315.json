@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "10/24/2018",
+        "dateOfIncident": "08/28/2018",
+        "fire": false,
+        "manufacturer": "Mazda Motor Corp.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11142315,
+        "products": [
+            {
+                "manufacturer": "Mazda Motor Corp.",
+                "productMake": "MAZDA",
+                "productModel": "CX-7",
+                "productYear": "2007",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AIRBAG LIGHT STAYS ON AND ONLY GOES OFF WHEN CAR IS SHUT OFF.",
+        "vin": "JM3ER293970"
+    }
+]

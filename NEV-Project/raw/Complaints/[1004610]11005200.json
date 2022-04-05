@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "07/13/2017",
+        "dateOfIncident": "06/16/2017",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11005200,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "LEXUS",
+                "productModel": "RX350",
+                "productYear": "2017",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN ATTEMPTING TO START THE VEHICLE AN ERROR MESSAGE DISPLAYS THAT BRAKING POWER IS LOW. IT STATES STOP IN A SAFE PLACE. DEALER HAS ADVISED THIS CONDITION IS \"NORMAL\" AND NO REPAIRS RECOMMENDED. THE VEHICLE IS STATIONARY AND CAN NOT BE STARTED.",
+        "vin": "2T2BZMCA2HC"
+    }
+]

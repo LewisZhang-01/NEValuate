@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VEHICLE SPEED CONTROL,SERVICE BRAKES,FORWARD COLLISION AVOIDANCE",
+        "crash": false,
+        "dateComplaintFiled": "03/06/2022",
+        "dateOfIncident": "06/01/2018",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11455415,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "CIVIC",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "My 2016 Honda Civic Touring is equipped with automatic emergency braking. In more than one instance, my Civic has applied the brakes unnecessarily when there was no apparent danger. Traveling on the highway at 65 mph, I have been 'cut-off' by a driver and the brakes were applied hard. There was no way to override the braking and the car commanded itself to a complete stop. The drivers immediately behind me had to brake hard and if they hadn't maintained control there would have been a pile-up. This took place in Cobb County, GA during rush hour on 75S in the 'Northwest Corridor' area. This is a high traffic density area.",
+        "vin": "19XFC1F96GE"
+    }
+]

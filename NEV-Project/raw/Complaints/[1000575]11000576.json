@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,ELECTRICAL SYSTEM,ELECTRONIC STABILITY CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "06/22/2017",
+        "dateOfIncident": "06/22/2017",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11000576,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO 1500",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "STEERING ASSIST ERROR, SERVICE STABILITRAC ERROR,- STEERING WHEEL JERKED OUT OF HAND WHILE TURNING  , LOSS OF STEERING. ELECTRICAL LOSS- ALL GAUGES AND LIGHTING BLANK WHILE DRIVING ON HIGHWAY",
+        "vin": "3GCUKREC8EG"
+    }
+]

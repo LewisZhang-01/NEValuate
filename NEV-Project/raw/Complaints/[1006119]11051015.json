@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "11/28/2017",
+        "dateOfIncident": "11/02/2017",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11051015,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "G6",
+                "productYear": "2008",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AIRBAG LIGHT CAME ON WITHOUT INCIDENT AND WONT COME OFF",
+        "vin": "1G2ZF57B684"
+    }
+]

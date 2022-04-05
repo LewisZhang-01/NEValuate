@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "07/15/2017",
+        "dateOfIncident": "07/14/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11005485,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DECELERATING TO MAKE A TURN, THE BRAKE PEDAL STARTED CHATTERING AND BRAKING EFFECTIVENESS DECREASED TO ALMOST ZERO.  THE VEHICLE ULTIMATELY STOPPED BEYOND THE TURN.  THIS WAS ON A PAVED DRY SURFACE WITH NORMAL BRAKING PRESSURE.  IT NOW HAS HAPPENED AT LEAST TWICE.",
+        "vin": "1FTFW1ETXDF"
+    }
+]

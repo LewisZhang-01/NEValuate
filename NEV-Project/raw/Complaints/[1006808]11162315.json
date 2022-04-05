@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "12/18/2018",
+        "dateOfIncident": "12/10/2018",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11162315,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "RAM",
+                "productModel": "1500",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "EXHAUST MANIFOLD BOLTS BROKE CAUSING AN EXHAUST LEAK AND A TICKING NOISE.  THE TICKING NOISE WAS HEARD AT START UP.  THIS IS A KNOWN PROBLEM ON THE HEMI ENGINES.",
+        "vin": "1C6RR7LT5DS"
+    }
+]

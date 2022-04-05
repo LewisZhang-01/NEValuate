@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "07/04/2017",
+        "dateOfIncident": "06/30/2017",
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11002966,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "FLTRXS",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AFTER SITTING STATIONARY IN RAIN OVER NIGHT, NO GAGES WERE WORKING (SPEEDOMETER, CRUISE CONTROL, DIMMER SWITCH, TACHOMETER, FUEL GAGE, NOR AMP METER).  DIAGNOSED AS SPEEDOMETER SHORTED OUT.  WHEN SPEEDOMETER REPLACED, ALL OTHER GAGES WARE OPERATIONAL.",
+        "vin": "1HD1KTM12FB"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN,ELECTRICAL SYSTEM,FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "06/27/2017",
+        "dateOfIncident": "06/23/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11001799,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "MKX",
+                "productYear": "2008",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TAKATA RECALL, SHIFTING MISFIRE, FAULTY BATTERY AND LOW GAS MILEAGE",
+        "vin": "2LMDU68C28B"
+    }
+]

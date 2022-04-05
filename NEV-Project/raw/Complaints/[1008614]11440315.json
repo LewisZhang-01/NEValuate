@@ -1,0 +1,24 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "11/13/2021",
+        "dateOfIncident": "10/20/2021",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11440315,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "328I",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Passenger side door lock stopped working at the mileage of 71,269. The door lock tab is in down position while door is unlocked. One can open the door while the car is unlocked. Security alarm does not get kicked in. I originally reported the problem of locks sticking when lock/unlock the car at the mileage of 45775 (under warranty). Dealer said that although they are sticking but still work. They are now charging $839 to have one replaced. My online research shows that this problem is very prevalent. It becomes a safety issue when one can break in the car without setting off alarm.",
+        "vin": "WBA3B5G5XFN"
+    }
+]

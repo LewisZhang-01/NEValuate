@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "06/17/2021",
+        "dateOfIncident": "06/15/2021",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11421315,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FUSION",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact owns a 2013 Ford Fusion. The contact stated while driving at 50 mph, the vehicle would shake when the brake pedal was depressed. The contact stated no warning light was illuminated. The vehicle was taken to an independent mechanic where it was diagnosed with nothing needing to be replaced. The vehicle was not repaired. The manufacturer had been informed of the failure and referred the contact to the NHTSA. The failure mileage was approximately 127,550.",
+        "vin": "3FA6P0H71DR"
+    }
+]

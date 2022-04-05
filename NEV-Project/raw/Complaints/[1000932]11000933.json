@@ -1,0 +1,24 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "06/23/2017",
+        "dateOfIncident": "06/01/2012",
+        "fire": false,
+        "manufacturer": "Land Rover",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11000933,
+        "products": [
+            {
+                "manufacturer": "Land Rover",
+                "productMake": "LAND ROVER",
+                "productModel": "LR2",
+                "productYear": "2008",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENGINE FAN STOPPED WORKING.",
+        "vin": "SALFT24N58H"
+    }
+]

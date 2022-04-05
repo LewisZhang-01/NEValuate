@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "06/23/2017",
+        "dateOfIncident": "06/21/2017",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11000771,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "GRAND CHEROKEE",
+                "productYear": "2012",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "180 AMP ALTERNATOR BURNED OUT NEARLY CAUSING ENGINE FIRE. REQUIRED REPLACEMENT OF ALTERNATOR, BATTERY AND PCU. SITUATION ADDRESSED BY RECALL NHTSA 14V-634 WHICH FCA SAYS NOT APPLY TO MY VEHICLE BECAUSE OF LARGER ALTERNATOR. VEHICLE WAS IN MOTION WHEN BATTERY LIGHT ILLUMINATED. NO OTHER INDICATION OF DANGER UNTIL STOPPED. SMOKE WAS CLEARLY EMANATING FROM ALTERNATOR WHEN HOOD RAISED.",
+        "vin": "1C4RJECGXCC"
+    }
+]

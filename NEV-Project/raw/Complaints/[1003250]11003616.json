@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "07/07/2017",
+        "dateOfIncident": "05/10/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11003616,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DOOR AJAR WARNING DURING CLOSED DOORS. AFTER RESEARCH ON INTERNET  FOR A SOLUTION, SEEMS, THAT THIS IS ON GOING ISSUE WITH FORD DOOR LATCH LOCKS.",
+        "vin": "1FM5K7D94DG"
+    }
+]

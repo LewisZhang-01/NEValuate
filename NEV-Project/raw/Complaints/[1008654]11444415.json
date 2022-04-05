@@ -1,0 +1,24 @@
+[
+    {
+        "components": "EXTERIOR LIGHTING",
+        "crash": false,
+        "dateComplaintFiled": "12/20/2021",
+        "dateOfIncident": "12/20/2021",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11444415,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CADILLAC",
+                "productModel": "SRX",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Headlights are too dim.  Known issue in this car.",
+        "vin": "3GYFNBE33GS"
+    }
+]

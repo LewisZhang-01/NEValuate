@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "01/04/2018",
+        "dateOfIncident": "03/17/2017",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11058615,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "PRIUS",
+                "productYear": "2010",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "LEAK OF NITROGEN IS RELEASED INTO THE BRAKE FLUID, THE BRAKE PEDAL MAY HAVE REDUCED HYDRAULIC PRESSURE. UNDER CERTAIN CIRCUMSTANCES, THIS CONDITION COULD AFFECT STOPPING DISTANCE AND INCREASE THE RISK OF A CRASH.",
+        "vin": "JTDKN3DU2A0"
+    }
+]

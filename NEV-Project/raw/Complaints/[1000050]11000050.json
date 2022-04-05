@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRONIC STABILITY CONTROL,SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "06/19/2017",
+        "dateOfIncident": "05/22/2017",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11000050,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "TUNDRA",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VSC TRAC, VSC OFF, BRAKE, ABS LIGHTS... ALL ON, ALL AT ONCE.",
+        "vin": "5TBDT48195S"
+    }
+]

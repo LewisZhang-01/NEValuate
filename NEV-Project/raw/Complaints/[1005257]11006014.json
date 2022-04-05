@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "07/17/2017",
+        "dateOfIncident": "07/16/2017",
+        "fire": false,
+        "manufacturer": "Porsche Cars North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11006014,
+        "products": [
+            {
+                "manufacturer": "Porsche Cars North America, Inc.",
+                "productMake": "PORSCHE",
+                "productModel": "PANAMERA",
+                "productYear": "2011",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2011 PORSCHE PANAMERA. WHILE DRIVING 70 MPH, THE VEHICLE STALLED AND THE CAM INDICATOR ILLUMINATED. THE VEHICLE WAS NOT ABLE TO RESTART. THE VEHICLE WAS TOWED TO A LOCAL DEALER (WALTERS PORSCHE 8423 INDIANA AVENUE, RIVERSIDE, CA 92504) WHERE A DIAGNOSTIC TEST WAS PERFORMED. THE VEHICLE WAS NOT REPAIRED. THE VIN TOOL WAS UNABLE TO CONFIRM IF THE VIN WAS INCLUDED IN NHTSA CAMPAIGN NUMBER: 17V368000 (ENGINE). THE MANUFACTURER WAS NOT NOTIFIED OF THE FAILURE. THE FAILURE MILEAGE WAS APPROXIMATELY 57,800.",
+        "vin": "WP0AB2A77BL"
+    }
+]

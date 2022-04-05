@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "08/28/2020",
+        "dateOfIncident": "08/28/2020",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11351815,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-250",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN TRAVELLING DOWN THE HIGHWAY AT 70 MPH, AS BRAKES ARE APPLIED THE FRONT END BEGINS TO WOBBLE AND SHAKE AS SPEED PASSES FROM 65 TO ABOUT 55 MPH.  THIS CAUSES IT TO BE DIFFICULT TO KEEP CONTROL OF THE VEHICLE.",
+        "vin": "1FT7W2BT4KE"
+    }
+]

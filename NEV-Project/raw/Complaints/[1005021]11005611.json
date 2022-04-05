@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "07/17/2017",
+        "dateOfIncident": "07/16/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11005611,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-250",
+                "productYear": "2012",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVING TRUCK IT TOLD ME TO PULL OVER AND SHUT ENGINE OFF. I WAS STRANDED ON THE SIDE OF THE ROAD AND IT WOULD NOT RESTART, HAD TO GET A TOW HOME. I DID SOME RESEARCH AND FOUND THIS IS EXACTLY WHAT MY TRUCK DID AS FOLLOWS. WHEN THE EGT SENSOR GOES ON THE BLINK, THE POWERTRAIN CONTROL MODULE THINKS THERE IS AN EXHAUST SYSTEM OVERHEATING SITUATION. THE VEHICLE THEN GOES INTO A 'CONTROLLED POWER REDUCTION MODE' WHILE FIVE WARNING CHIMES ARE RINGING AWAY. THIS ENDS WITH THE ENGINE SHUTTING DOWN COMPLETELY AS SOON AS THE TRUCK SLOWS TO FOUR MPH, WITH NO ENGINE RESTART IMMEDIATELY AVAILABLE.",
+        "vin": "1FT7W2BT8CE"
+    }
+]

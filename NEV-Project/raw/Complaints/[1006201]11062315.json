@@ -1,0 +1,24 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": true,
+        "dateComplaintFiled": "01/12/2018",
+        "dateOfIncident": "11/28/2017",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11062315,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "YUKON",
+                "productYear": "2012",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DASHBOARD HAS MULTIPLE CRACKS.",
+        "vin": "1GKS1EEF2CR"
+    }
+]

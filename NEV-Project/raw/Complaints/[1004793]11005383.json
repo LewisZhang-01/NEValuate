@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN,ELECTRICAL SYSTEM,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "07/14/2017",
+        "dateOfIncident": "07/07/2017",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11005383,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "JOURNEY",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN IN MOTION GOING AT VARIETY SPEEDS THE CAR STALLS MID MOVEMENT AND POWER STEERING STOPS. IT HAS HAPPENED AT STOPS AS WELL AS IN MOTION.",
+        "vin": "3C4PDCBB1FT"
+    }
+]

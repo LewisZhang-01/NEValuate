@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "11/12/2020",
+        "dateOfIncident": "11/01/2018",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11374315,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "TAHOE",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE EXTERIOR PAINT STARTING FADING, CLEAR COAT NOT HOLDING UP",
+        "vin": "1GNSCAKC2GR"
+    }
+]

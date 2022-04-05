@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "07/13/2017",
+        "dateOfIncident": "07/12/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11005215,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FUSION",
+                "productYear": "2010",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "STEERING COLUMN MAKES A RUBBING NOISE WHEN TURNING AT SLOW SPEEDS (<5 MPH). SOUND IS LESS AT HIGHER SPEEDS. FORD DEALER SAYS TO REPLACE STEERING UNIT DUE TO POSSIBLE POWER STEERING ASSIST FAILURE ($1600) AND A POWER STEERING ASSIST FAIL COULD RESULT IN LOSS OF STEERING AND A CRASH. THIS SOUNDS LIKE IT SHOULD FALL UNDER THE POWER STEERING ASSIST RECALL FOR THE 2011+ FUSIONS.",
+        "vin": "3FAHP0HA0AR"
+    }
+]

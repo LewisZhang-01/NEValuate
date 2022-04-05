@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,EXTERIOR LIGHTING,UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "12/06/2019",
+        "dateOfIncident": "11/20/2019",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11287515,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "IMPALA",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE COLLISION WARNING SYSTEM  ACTIVATES WHILE DRIVING,  ELECTRICAL FAILURES CAUSE COMPONENTS TO NOT WORK AND FLICKER OF TURN SIGNALS IN PASSENGER MIRROR  .",
+        "vin": "2G1125S31F9"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN,SERVICE BRAKES",
+        "crash": true,
+        "dateComplaintFiled": "07/05/2017",
+        "dateOfIncident": "11/15/2014",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11003135,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "PRIUS",
+                "productYear": "2012",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I RECEIVED THE WARNING,  PLEASE CHECK HYBRID SYSTEM. AFTER CHECKING THE DTC THE FOLLOWING CODE APPEARED ON THE COMPUTER: P0A08:DC/DC CONVERTER CIRCUIT STATUS WHICH INDICATES AN INVERTER  PROBLEM. LOOKING AT THE RECALL WEBSITE USING VIN NUMBER, SHOWED NO RECALL CONCERNING THIS. THE PROBLEM HAPPENED MANY TIMES WHILE DRIVING ON A CITY OR A HIGHWAY",
+        "vin": "JTDKN3DU5C5"
+    }
+]

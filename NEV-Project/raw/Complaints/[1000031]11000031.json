@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "06/19/2017",
+        "dateOfIncident": "05/24/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11000031,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "CROWN VICTORIA",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "LOSS OF ACCELERATION AT WIDE OPEN THROTTLE, TRANSMISSION SEEMS TO \"SLIP\" WHEN TRYING TO PASS OR ACCELERATE HARD AT HIGHWAY SPEED HAS HAPPENED ON MULTIPLE OCCASIONS",
+        "vin": "2FAHP71W85X"
+    }
+]

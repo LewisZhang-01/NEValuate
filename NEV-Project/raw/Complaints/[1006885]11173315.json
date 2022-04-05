@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,ELECTRICAL SYSTEM,ELECTRONIC STABILITY CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "01/31/2019",
+        "dateOfIncident": "01/11/2019",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11173315,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO 1500",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": ": THE POWER STEERING SYSTEM TEMPORARILY FAIL WITHOUT WARNING DURING OPERATION, CAUSING THE AMOUNT OF EFFORT NEEDED TO TURN THE WHEEL TO FLUCTUATE DRAMATICALLY DURING THE MANEUVER AS THE POWER STEERING SYSTEM CYCLES ON AND OFF. THE ISSUE IS ESPECIALLY PREVALENT DURING LOW-SPEED MANEUVERS AND CAN BE ACCOMPANIED BY THE FAILURE OF OTHER SYSTEMS SUCH AS THE RADIO, STABILITY CONTROL, DOOR-LOCK CYCLING, AIR CONDITION OR CRUISE CONTROL. THIS HAPPENS RANDOMLY, WHEN I'M PARKING OR MAKING A TURN. I ALMOST CRASHED INTO A VEHICLE IN MID TURN AS I LOST POWER STEERING AND THE VEHICLE SHUT OFF. I PUT IT IN PARK AND RESTARTED THE TRUCK.",
+        "vin": "1GCVKREH0EZ"
+    }
+]

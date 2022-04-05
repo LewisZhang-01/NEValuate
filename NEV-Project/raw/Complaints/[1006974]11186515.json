@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "03/13/2019",
+        "dateOfIncident": "01/02/2019",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11186515,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAMARO",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "\"SERVICE AIRBAG\" WARNING LIGHT RANDOMLY COMES ON AND OFF WHEN PASSENGER SEAT IS OCCUPIED AND AIRBAG SYSTEM TURNS OFF",
+        "vin": "2G1FL1EP6E9"
+    }
+]

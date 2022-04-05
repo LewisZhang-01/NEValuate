@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN,ELECTRICAL SYSTEM,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "11/24/2020",
+        "dateOfIncident": "02/10/2019",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11376215,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "ACADIA",
+                "productYear": "2017",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "GEAR SHIFT WOULD GO INTO PARK BUT WOULD NOT TURN OFF ENGINE, LOCK DOORS, TURN OFF LIGHTS. WARNING LIGHT READ TO \"PLACE IN PARK.\"",
+        "vin": "1GKKNULS1HZ"
+    }
+]

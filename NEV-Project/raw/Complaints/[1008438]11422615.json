@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "06/28/2021",
+        "dateOfIncident": "06/15/2021",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11422615,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "CAMRY",
+                "productYear": "2009",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact owns a 2009 Toyota Camry. The contact stated the vehicle was consuming an abnormal amount of engine oil. The contact stated there was no warning light illuminated. The vehicle was not diagnosed nor repaired. The manufacturer was informed of the failure and the contact was awaiting a response. The failure mileage was approximately 108,000.",
+        "vin": "4T1BE46K39U"
+    }
+]

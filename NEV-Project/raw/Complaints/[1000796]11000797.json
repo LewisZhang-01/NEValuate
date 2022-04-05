@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "06/23/2017",
+        "dateOfIncident": "06/05/2017",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11000797,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "ELANTRA",
+                "productYear": "2011",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN CAR IS IDLING OR WHILE DRIVING STRAIGHT THERE IS A CLUNKING NOISE IN THE STEERING WHEEL AND WHEEL MOVES SLIGHTLY. THIS IS NOT NOTICEABLE WHEN TURNING.",
+        "vin": "KMHDH4AE9BU"
+    }
+]

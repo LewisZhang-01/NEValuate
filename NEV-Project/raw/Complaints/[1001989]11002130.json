@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "06/29/2017",
+        "dateOfIncident": "06/01/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11002130,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "ESCAPE",
+                "productYear": "2009",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING ABS, STABILITY CONTROL AND BRAKE SYSTEM LIGHTS COME ON AND STAY ON. STEERING FEELS ODD. HARD/EASY",
+        "vin": "1FMCU04G29K"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "01/23/2022",
+        "dateOfIncident": "01/06/2022",
+        "fire": false,
+        "manufacturer": "KTM North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11448515,
+        "products": [
+            {
+                "manufacturer": "KTM North America, Inc.",
+                "productMake": "KTM",
+                "productModel": "790 ADVENTURE R",
+                "productYear": "2021",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The motorcycle's instrument cluster (TFT Display) often becomes obscured by internal condensation (fogging), sometimes remaining obscured for extended periods of time (i.e., 30 minutes). When this occurs, it is impossible to see critical operation/safety information such vehicle speed, traction, and ABS settings. It is also impossible to operate the menu to control these same settings. The resulting conditions make vehicle operation unsafe--especially when fogging occurs while operating the vehicle.   Based on extensive forum searches, this issue is a design flaw that is well-known, but largely unaddressed by the manufacturer (KTM). Many owners of the same vehicle model experience this safety issue. My local dealership has \"warrantied\" (replaced) one display for this condensation issue, but refuses to further remedy the issue, even though the replacement display has the same problem.",
+        "vin": "VBKTS6400MM"
+    }
+]

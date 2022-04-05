@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "11/27/2021",
+        "dateOfIncident": "11/22/2021",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11441815,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "AVALANCHE 1500",
+                "productYear": "2004",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Cooper Tire & Rubber Co.",
+                "productMake": "COOPER",
+                "productModel": "DISCOVERER STT",
+                "productYear": "9999",
+                "size": "33X12.50R20 LT",
+                "type": "Tire"
+            }
+        ],
+        "summary": "Tire brand and size is cooper Discoverer stt 33\u00d712.50R20LT. I was coming home on my lunch break and it blew out I didnt hit anything in the road or anything I have another tire the same brand and it started to separate on sidewall also but I felt a vibration so I took the tire off and put my other spare on and the vibration stopped.",
+        "vin": "3GNEK12T04G"
+    }
+]

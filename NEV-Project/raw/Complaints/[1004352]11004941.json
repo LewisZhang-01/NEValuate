@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "07/12/2017",
+        "dateOfIncident": "05/31/2017",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11004941,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "328I",
+                "productYear": "2010",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVING CAR ON FREEWAY, TRAFFIC SLOWED DOWN AND ENGINE STOPPED WITHOUT ANY PRIOR WARNING. CAR WOULD NOT RESTART. POSSIBLE ENGINE FAILURE. CAR HAS ABOUT 70,000 MILES. POSSIBLE RECALL # IS 14V176000.",
+        "vin": "WBAPH5G58AN"
+    }
+]

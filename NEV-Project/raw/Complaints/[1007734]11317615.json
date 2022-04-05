@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,ELECTRICAL SYSTEM,ELECTRONIC STABILITY CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "03/11/2020",
+        "dateOfIncident": "01/18/2020",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11317615,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FUSION",
+                "productYear": "2011",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHENEVER I MAKE A CERTAIN TURN MY WHEEL LOCKS UP AND I CAN NO LONGER TURN WITHOUT WRESTLING MY WHEEL TO TURN. MY DASHBOARD STARTS TO GO OFF AND I GET A MESSAGE 'POWER ASSIST AT FAULT'. I WOULD HAVE TO TURN MY CAR OFF AND ON A COUPLE TIMES FOR ME TO BE ABLE TO DRIVE AGAIN WITHOUT ANY ISSUES. IT GETS WORSE WHEN I'M ABOUT TO PULL OUT FROM A PARKING SPOT, THAT'S WHEN IT MAINLY STARTS.",
+        "vin": "3FAHP0HA6BR"
+    }
+]

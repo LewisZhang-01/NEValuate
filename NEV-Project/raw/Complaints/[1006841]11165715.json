@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "01/03/2019",
+        "dateOfIncident": "12/23/2018",
+        "fire": true,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11165715,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "RAM",
+                "productModel": "1500",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "MY TRUCK CAUGHT FIRE WHILE DRIVING AT 65 MPH ON THE INTERSTATE  ON DEC 23 2018. ALL GAUGES SUGGESTED NORMAL OPERATING PARAMETERS. THE TRUCK HAS 120K MILES. IT'S A TOTAL LOSS. *DT  *TR",
+        "vin": "1C6RR7LM2FS"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "07/21/2020",
+        "dateOfIncident": "07/20/2020",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11340615,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN THE 3RD ROW SEATS ARE MOVED BY THE POWER BUTTON, THE AIR BAG LIGHT ON THE DASH COMES ON.  THERE IS AN ELECTRICAL SHORT.",
+        "vin": "1FM5K8GT1FG"
+    }
+]

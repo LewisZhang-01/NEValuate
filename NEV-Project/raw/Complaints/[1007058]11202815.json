@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "04/22/2019",
+        "dateOfIncident": "02/04/2019",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11202815,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "X5",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DURING COLD TEMPERATURES, THE STEERING HAS A TWITCH WHICH CAUSES SMALL MOVEMENTS LEFT AND RIGHT WITHOUT ANY MANUAL INPUT.  IT HAS THE FEEL THAT IT IS RECEIVING INPUTS FROM A SENSOR OR OTHER SYSTEM, WHICH REQUIRES OVERRIDE BY THE DRIVER.  IT CREATES A DANGEROUS SITUATION.",
+        "vin": "5UXCR6C55KL"
+    }
+]

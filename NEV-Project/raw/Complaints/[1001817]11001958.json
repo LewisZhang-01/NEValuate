@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "06/28/2017",
+        "dateOfIncident": "06/26/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11001958,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "2011",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING THE ELECTRONIC POWER STEERING WILL SUDDENLY ALERT AND FAIL AND THE VEHICLE IS NEARLY IMPOSSIBLE TO STEER.",
+        "vin": "1FTFX1CF0BF"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "07/04/2017",
+        "dateOfIncident": "05/01/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11002942,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EDGE",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVERS DOOR AJAR WARNING WILL NOT GO OFF. FOUND OUT THERE IS A PROBLEM WITH THE LATCH AND I REPLACED THE LATCH. AFTER RESEARCHING THIS I FOUND THIS IS A PREVALENT PROBLEM THAT FORD WON'T ACKNOWLEDGE.",
+        "vin": "2FMDK4JC4DB"
+    }
+]

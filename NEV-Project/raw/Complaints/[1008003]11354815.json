@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "09/13/2020",
+        "dateOfIncident": "08/04/2020",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11354815,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CADILLAC",
+                "productModel": "CTS",
+                "productYear": "2008",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE AIR BAG LIGHT STAYS ON, BUT CADILLAC HAS NOT DONE A RECALL",
+        "vin": "1G6DT57V080"
+    }
+]

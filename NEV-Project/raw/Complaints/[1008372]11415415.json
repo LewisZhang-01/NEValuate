@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "05/06/2021",
+        "dateOfIncident": "12/01/2020",
+        "fire": false,
+        "manufacturer": "Tesla, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11415415,
+        "products": [
+            {
+                "manufacturer": "Tesla, Inc.",
+                "productMake": "TESLA",
+                "productModel": "MODEL S",
+                "productYear": "2016",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Continental Tire the Americas, LLC",
+                "productMake": "GENERAL TIRE",
+                "productModel": "ALTIMAX RT43",
+                "productYear": "9999",
+                "size": "175/65R14 82T",
+                "type": "Tire"
+            }
+        ],
+        "summary": "PREMATURE TIRE FAILURE",
+        "vin": ""
+    }
+]

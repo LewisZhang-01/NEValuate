@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN,VEHICLE SPEED CONTROL,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "07/09/2021",
+        "dateOfIncident": "07/08/2021",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11424115,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "ALTIMA",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Stopped propelling the car. Might be a transmission problem.",
+        "vin": "1N4AL3AP5GC"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS,SEATS",
+        "crash": false,
+        "dateComplaintFiled": "07/19/2017",
+        "dateOfIncident": "07/19/2017",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11006332,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "X5",
+                "productYear": "2009",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FRONT PASSENGER OCCUPANCY SENSOR HAS PERMANENT FAILURE. \"PASSENGER AIRBAG DISABLED\" LIGHT CONTINUOUSLY ILLUMINATED AT ALL TIMES, WITH AUDIBLE NOISE NOTIFYING THAT A PASSENGER IS PRESENT AND MUST SECURE SEAT BELT. OCCURS WHEN NO PASSENGER IS PRESENT. IN ORDER TO DRIVE THE VEHICLE WITH DRIVER ONLY, THE PASSENGER SEAT BELT MUST BE FALSELY DEPLOYED/SECURED.    REFERENCE: NHTSA CAMPAIGN NUMBER: 13V564000",
+        "vin": "5UXFF03579L"
+    }
+]

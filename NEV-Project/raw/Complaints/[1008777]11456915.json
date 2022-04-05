@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "03/16/2022",
+        "dateOfIncident": "09/29/2021",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11456915,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EDGE",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Brake pedal intermittently goes to the floor when attempting to stop. The brake booster was replaced by dealership under wgat they called a recall but received vehicle back with the same issue. Dealership is now stating Hydraulic Control Unit is the issue noting repair cost 1,700.",
+        "vin": "2FMDK3KC8DB"
+    }
+]

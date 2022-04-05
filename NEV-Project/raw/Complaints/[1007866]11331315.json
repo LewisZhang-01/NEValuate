@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "06/28/2020",
+        "dateOfIncident": "06/27/2020",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11331315,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "DURANGO",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "HEAD RESTRAINT ON DRIVER SIDE DEPLOYED WHILE IN DRIVEWAY. PLASTIC RETAINER FAILED ALLOWING THE RESTRAINT TO ACTIVATE.",
+        "vin": "1C4RDHDG6EC"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "07/06/2020",
+        "dateOfIncident": "01/01/2019",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11337715,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "2018",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENGINE TAPPING NOISE WHEN HOT.",
+        "vin": "1FTEW1C5XJK"
+    }
+]

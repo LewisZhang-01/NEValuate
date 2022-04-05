@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "07/06/2017",
+        "dateOfIncident": "07/05/2017",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11003392,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "LIBERTY",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ALL DOOR LOCKS STOPPED WORKING",
+        "vin": "1J4GL48K64W"
+    }
+]

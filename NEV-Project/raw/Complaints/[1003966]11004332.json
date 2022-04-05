@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,VEHICLE SPEED CONTROL,SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "07/11/2017",
+        "dateOfIncident": "03/01/2017",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11004332,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "CAMRY",
+                "productYear": "2007",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I HAVE A 2007 TOYOTA CAMRY THAT HAS INTERMITTENT INSTRUMENT CLUSTER PROBLEMS. ODOMETER DOES NOT INCREMENT MILES TRAVELED.   THE SPEEDOMETER AND TACHOMETER WILL CEASE TO INDICATE PROPER READINGS AND DROP TO ZERO. THE TACHOMETER WILL THEN BOUNCE BETWEEN ZERO AND WHAT I CAN ONLY ASSUME IS A CLOSE APPROXIMATION OF THE ACTUAL ENGINE RPM. AT THE SAME TIME, THE ABS AND PARKING BRAKE WARNING LIGHTS ILLUMINATE AND STAY ON FOR THE DURATION OF THE \"EPISODE\".",
+        "vin": "4T1BE46K37U"
+    }
+]

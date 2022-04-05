@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS,SEAT BELTS",
+        "crash": true,
+        "dateComplaintFiled": "07/19/2017",
+        "dateOfIncident": "04/20/2017",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 5,
+        "odiNumber": 11006304,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "CR-V",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE WAS STOPPED AT A LIGHT, AND RECEIVED FRONT CRASH FROM INCOMING VEHICLE. AIR BAGS DID NOT WORK, AND SEATBELT BROKE. PASSENGER RECEIVED SIGNIFICANT BODILY INJURY",
+        "vin": "5J6RM3H98GL"
+    }
+]

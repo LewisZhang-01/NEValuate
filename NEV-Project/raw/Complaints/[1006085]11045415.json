@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "11/12/2017",
+        "dateOfIncident": "11/03/2017",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11045415,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "MAJOR OIL LEAK AT OIL FILTER HOUSING. POOLING OF OIL ON ENGINE BLOCK AND LEAKING DOWN THE BACK OF ENGINE ON EXHAUST PIPE AND THE TRANSMISSION HOUSING. LEAKING OCCURS WHEN IN MOTION AND SITTING. THIS IS A KNOWN PROBLEM AND FIRE HAZARD.",
+        "vin": "1C4BJWEG0EL"
+    }
+]

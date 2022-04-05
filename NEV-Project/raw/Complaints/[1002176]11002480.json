@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "06/30/2017",
+        "dateOfIncident": "06/29/2017",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11002480,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "FIAT",
+                "productModel": "500",
+                "productYear": "2012",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "PASSSENGER AIR BAGS CONSTANTLY WARNING ERROR AND DISABLING.",
+        "vin": "3C3CFFDR2CT"
+    }
+]

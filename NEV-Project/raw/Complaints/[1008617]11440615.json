@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "11/16/2021",
+        "dateOfIncident": "11/04/2021",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11440615,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "GRAND CARAVAN",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Passenger sliding door will only lock/unlock manually, does not lock or unlock with the electric door locks or with FOB. This was only discovered after someone was able to open the door with the vehicle locked. The vehicle was taken to an auto repair shop. It was explained that the actuator in the door is bad and because of limited software release can only be repaired at dealership. The vehicle is owned and used by a non-profit for client services, and this creates not only safety issues for staff and clients, but undue hardship for cost of repairs.",
+        "vin": "2C4RDGCG5KR"
+    }
+]

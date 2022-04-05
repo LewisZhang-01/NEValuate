@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "07/07/2017",
+        "dateOfIncident": "07/07/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11003626,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FUSION",
+                "productYear": "2008",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ABS CONTROL VALVE STICKS WHEN BRAKE IS USED HARD. AFTER THAT, LOSES BRAKE PEDAL. APPARENTLY THIS IS A COMMON ISSUE FOR YEARS 07-09.",
+        "vin": ""
+    }
+]

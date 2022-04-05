@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "06/29/2020",
+        "dateOfIncident": "06/04/2019",
+        "fire": false,
+        "manufacturer": "Tesla, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11331615,
+        "products": [
+            {
+                "manufacturer": "Tesla, Inc.",
+                "productMake": "TESLA",
+                "productModel": "MODEL S",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE MCU DOES NOT HAVE ENOUGH STORAGE CAPABILITY THIS CAUSING IT TO FAIL AND NEED REPLACEMENT MULTIPLE TIMES THROUGH THE LIFE OF THE VEHICLE. THIS IS A KNOWN DEFECT IN THE VEHICLE AND FAILS AT RANDOM TIMES MAKING THE VEHICLE INOPERABLE.",
+        "vin": "5YJSA1CP8DF"
+    }
+]

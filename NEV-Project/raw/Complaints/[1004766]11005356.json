@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "07/14/2017",
+        "dateOfIncident": "07/07/2017",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11005356,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "TOWN AND COUNTRY",
+                "productYear": "2008",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FRONT BLOWER FAN CUTS ON AND OFF. HAD BLOWER FAN, HEAD CONTROL UNIT, AND BLOWER FAN RESISTOR CHANGED YET STILL DOESN'T WORK. FRONT BLOWER FAN SHOULD BE WIRED LIKE REAR BLOWER FAN AND NOT GO THROUGH TIPM",
+        "vin": ""
+    }
+]

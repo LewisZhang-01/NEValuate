@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "02/20/2022",
+        "dateOfIncident": "02/18/2022",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11453115,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "ALTIMA",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Lower control arm on rear left broke as I was driving 35mph and lost control. Highly unsafe.",
+        "vin": "1n4al3ap5ec"
+    }
+]

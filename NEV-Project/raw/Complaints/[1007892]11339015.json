@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "07/13/2020",
+        "dateOfIncident": "07/08/2020",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11339015,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EDGE",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE ENGINE IS LEAKING COOLANT INTO CYLINDER #3. THIS CAUSES THE ENGINE TO OVERHEAT AND WHITE SMOKE TO COME OUT OF THE EXHAUST.",
+        "vin": "2FMPK4K92GB"
+    }
+]

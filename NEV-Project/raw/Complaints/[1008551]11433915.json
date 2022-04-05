@@ -1,0 +1,24 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "09/21/2021",
+        "dateOfIncident": "09/01/2021",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11433915,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "ESCAPE",
+                "productYear": "2009",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "When I put my key into the ignition it will not start the vehicle.  I\u2019ve searched this on the internet and found it is a very common problem with this model vehicle",
+        "vin": "1FMCU04G69K"
+    }
+]

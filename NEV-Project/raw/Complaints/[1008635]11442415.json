@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,VEHICLE SPEED CONTROL,FORWARD COLLISION AVOIDANCE",
+        "crash": false,
+        "dateComplaintFiled": "12/02/2021",
+        "dateOfIncident": "12/01/2021",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11442415,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "CIVIC",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Cruise control (either in Adaptive Cruise Control or regular) disengages randomly and if you attempt to restart the cruise, the cruise control will not work. The cruise control icon will appear on the center display and beep, with the words \"Cruise Control Off\", to get this working again, the only way I've found is to stop the car and either put it in park and/or shut off the car or turn it back on. The problem seems to happen at random, and so the dealership at this point can not help me. This does not seem to be an isolated incident as others have been posting online about the exact same issue. ( See the following forum posts on https://www.civic11forum.com/threads/anybody-having-cruise-control-issues.963/ ).   Perhaps this is a software issue with the cruise on the new models... Hopefully Honda can get an update out fast! Disappointing that such a dangerous issue exists at launch of the new model...",
+        "vin": "2HGFE2F26NH"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN,VEHICLE SPEED CONTROL,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "11/04/2021",
+        "dateOfIncident": "10/25/2021",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11439415,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "TOWN AND COUNTRY",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "While driving in traffic my transmission failed due to a pump failure in the transmission (diagnosed by a mechanic after the incident and having to be towed to a shop).  The car stalled in the middle of an active intersection.   My make and model and manufacture year was involved in a recall for this exact problem but for unknown reasons my VIN is not included.   The car has been meticulously maintained and has less than 50,000 miles.  The check engine light appeared immediately prior to the car losing power.",
+        "vin": "2C4RC1BG2GR"
+    }
+]

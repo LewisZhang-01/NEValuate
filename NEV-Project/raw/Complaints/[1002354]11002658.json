@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "07/01/2017",
+        "dateOfIncident": "03/03/2017",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11002658,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "GRAND CHEROKEE",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DASH INDICATOR LIGHTS AND WIPERS COME ON RANDOMLY WHILE DRIVING. VEHICLE WON'T START ON MULTIPLE OCCASIONS AFTER SHUTTING OFF. TACHOMETER AND ANALOG TEMP GAUGE ARE APPROX. 90 DEGREES OFF.",
+        "vin": "1C4RJECT2DC"
+    }
+]

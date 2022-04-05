@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,UNKNOWN OR OTHER,SERVICE BRAKES",
+        "crash": true,
+        "dateComplaintFiled": "08/07/2018",
+        "dateOfIncident": "07/01/2018",
+        "fire": false,
+        "manufacturer": "Tesla, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11118315,
+        "products": [
+            {
+                "manufacturer": "Tesla, Inc.",
+                "productMake": "TESLA",
+                "productModel": "MODEL X",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE CAR AUTO ACCELERATED ON A SURFACE STREET AND CRASHED",
+        "vin": "5YJXCBE23GF"
+    }
+]

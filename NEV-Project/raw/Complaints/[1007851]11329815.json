@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS,SEATS",
+        "crash": false,
+        "dateComplaintFiled": "06/20/2020",
+        "dateOfIncident": "06/20/2020",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11329815,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "GRAND CHEROKEE",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVERS SIDE HEADREST SAFETY FEATURE DEPLOYED WHILE VEHICLE WAS STATIONARY AND UNOCCUPIED.  *TR",
+        "vin": "1C4RJEAG5EC"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "01/29/2021",
+        "dateOfIncident": "01/01/2018",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11390715,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "LEXUS",
+                "productModel": "LS",
+                "productYear": "2007",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE BRAKE ACTUATOR ON THIS VEHICLE FAILS AND DISABLES THE ABS SYSTEM. THIS IS A COSTLY FIX FOR COMSUMERS.",
+        "vin": "JTHBL46F975"
+    }
+]

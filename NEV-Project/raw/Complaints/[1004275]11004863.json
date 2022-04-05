@@ -1,0 +1,24 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "07/12/2017",
+        "dateOfIncident": "07/11/2017",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11004863,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "CAMRY",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CAR HESITATES BEFORE ACCELERATING AFTER A STOP OR FOLLOWING A TURN, THEN ACTS NORMALLY WHEN ACCELERATOR IS RELEASED",
+        "vin": "4T1BF1FK4GU"
+    }
+]

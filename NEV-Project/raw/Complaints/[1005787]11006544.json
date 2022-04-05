@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,EXTERIOR LIGHTING,SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "07/20/2017",
+        "dateOfIncident": "02/08/2017",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11006544,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "SONATA",
+                "productYear": "2011",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "INTERIOR LIGHT COMES ON WITHOUT OPENING DOORS CLICKING IN THE STEERING COLLAR MOTOR HAS A WINNING SOUND AND THE BRAKE LIGHT SOME TIMES JUST BLINK OFF",
+        "vin": "5NPEB4AC6BH"
+    }
+]

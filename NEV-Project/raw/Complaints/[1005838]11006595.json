@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "07/20/2017",
+        "dateOfIncident": "07/20/2017",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11006595,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "DART",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "\"ENGAGE PARKING BRAKE TO PREVENT ROLLING\" ALERT COMES ON AFTER ABOUT 10-15 MINUTES OF DRIVING AND COMING TO A COMPLETE STOP. THE ALERT SUBSEQUENTLY COMES ON EVERY TIME THE CAR STOPS AFTER THIS INITIAL PHASE. ON OCCASIONAL, WHEN THE CAR COMES TO A COMPLETE STOP AND IS PUT INTO \"PARK\" AND THE ALERT COMES ON, IT WILL NOT SHIFT INTO ANY OTHER GEAR. TO CORRECT THIS ISSUE THE CAR MUST BE TURNED OFF AND ALLOWED TO SIT FOR AT LEAST 10-15 SECONDS, RESTARTED, AND WILL THEN ALLOW YOU TO SHIFT TO ANOTHER GEAR. THE ALERT WILL THEN AGAIN COME ON WHENEVER THE CAR IS BROUGHT TO A COMPLETE STOP.",
+        "vin": "1C3CDFBH3DD"
+    }
+]

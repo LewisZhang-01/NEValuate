@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN,SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "12/30/2019",
+        "dateOfIncident": "12/26/2019",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11292115,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "VOLT",
+                "productYear": "2012",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "RADIATOR LEAK",
+        "vin": "1G1RD6E44CU"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "11/12/2019",
+        "dateOfIncident": "11/11/2019",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11279615,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "ODYSSEY",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WITH VEHICLE IN PARK, THE DRIVERS SIDE REAR SLIDING DOOR OPENED NORMALLY AND THEN WOULD NOT CLOSE ALL THE WAY. IT WOULD START TO CLOSE AND THEN STOP AND RETRACT AGAIN. ALL METHODS FOR CLOSING THE DOOR, BOTH ELECTRICALLY AND MANUALLY, WERE UNSUCCESSFUL. ATTEMPTS WERE ALSO MADE TO CLOSE THE DOOR WITH THE ENGINE ON AND OFF.",
+        "vin": "5FNRL5H95FB"
+    }
+]

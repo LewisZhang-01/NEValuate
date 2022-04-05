@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "07/03/2017",
+        "dateOfIncident": "11/05/2016",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11002795,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA 1500",
+                "productYear": "2009",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FAULTY IGNITION SWITCH. CAN PULL IGNITION KEY OUT AFTER STARTING IGNITION AND WITH IT RUNNING.",
+        "vin": "3GTEK13C49G"
+    }
+]

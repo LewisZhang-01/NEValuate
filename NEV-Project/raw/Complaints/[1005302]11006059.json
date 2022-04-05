@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,ELECTRONIC STABILITY CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "07/18/2017",
+        "dateOfIncident": "05/01/2015",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11006059,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FUSION",
+                "productYear": "2011",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE POWER STEERING QUIT WITHOUT WARNING WHILE DRIVING AND ALSO DISABLED THE ELECTRONIC STABILITY CONTROL",
+        "vin": "3FAHP0HA9BR"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,VEHICLE SPEED CONTROL,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "06/28/2017",
+        "dateOfIncident": "06/21/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11002062,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERCURY",
+                "productModel": "GRAND MARQUIS",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE AT TIMES WITH MY FOOT ON THE BRAKE PEDAL,JUST STARTS TO ACCELERATE FOR NO REASON WHEN I STOP A LIGHT OR IN TRAFFIC.",
+        "vin": "2MEHM75W15X"
+    }
+]

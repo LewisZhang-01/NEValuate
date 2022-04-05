@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "06/22/2017",
+        "dateOfIncident": "05/01/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11000590,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-250",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SEAT BELTS IN REAR SEATS HAVE FAILED (3X). THE SEAT BELT BUCKLES DO NOT LATCH OR THE BUCKLES RELEASE BUTTON FALLS OUT.",
+        "vin": "1FT7W2B63EE"
+    }
+]

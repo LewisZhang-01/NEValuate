@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "05/01/2019",
+        "dateOfIncident": "05/01/2019",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11204915,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "ELANTRA",
+                "productYear": "2011",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CAR RANDOMLY WOULDN'T START THIS MORNING.",
+        "vin": "5NPDH4AE7BH"
+    }
+]

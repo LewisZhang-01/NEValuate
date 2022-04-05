@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "07/19/2017",
+        "dateOfIncident": "06/01/2017",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11006294,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "325",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "MY 1986 325ES BMW OVER HEAT. CHANGE THE FLUIDS, PERFORM SEVERAL CHECKS AND IT IS STILL OVER HEATING. HAS THERE BEEN ANY RECALL ON THE HEATING OR COOLING SYSTEM.",
+        "vin": "WBAAB6405G1"
+    }
+]

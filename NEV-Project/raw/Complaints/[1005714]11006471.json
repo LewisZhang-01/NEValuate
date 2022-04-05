@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "07/19/2017",
+        "dateOfIncident": "07/19/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11006471,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FUSION",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "STEERING LOCKED UP WHILE DRIVING.  WARNING LIGHT INDICATES STEERING ASSIST FAULT.",
+        "vin": "3FA6P0K91DR"
+    }
+]

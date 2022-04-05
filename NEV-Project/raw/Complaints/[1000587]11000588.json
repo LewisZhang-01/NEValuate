@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "06/22/2017",
+        "dateOfIncident": "11/11/2016",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11000588,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "HR-V",
+                "productYear": "2017",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "UPON EXITING VEHICLE, DRIVER'S DOOR DOES NOT CONSISTENTLY LATCH COMPLETELY.",
+        "vin": "3CZRU6H30HM"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "07/15/2017",
+        "dateOfIncident": "06/02/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11005512,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TRANSMISSION SURGES AT LOW SPEEDS",
+        "vin": "1FADP3N20FL"
+    }
+]

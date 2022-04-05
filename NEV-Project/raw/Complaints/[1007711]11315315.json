@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": true,
+        "dateComplaintFiled": "03/03/2020",
+        "dateOfIncident": "08/28/2019",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11315315,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "ESCAPE",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2015 FORD ESCAPE. CONSUMER WRITES IN REGARDS TO ENGINE STALLING. *LD    THE CONSUMER STATED ON THE VEHICLE WOULD STALL, THEN LOSE BRAKES AND POWER STEERING, RESULTING IN A CRASH. *JS",
+        "vin": "1FMCU0F76FU"
+    }
+]

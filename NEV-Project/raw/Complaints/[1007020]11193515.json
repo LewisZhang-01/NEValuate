@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "04/03/2019",
+        "dateOfIncident": "04/01/2019",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11193515,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "X5 DIESEL SAV",
+                "productYear": "2011",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CHECK ENGINE LIGHT TRIGGERED . TWO ISSUES:    - THE DEALER DIAGNOSED A PROBLEM WITH THE SENSOR IN THE DIESEL-EXHAUST-FLUID PASSIVE TANK. THE SENSOR IS BUILT INTO THE TANK, SO THE ENTIRE TANK NEEDS TO BE REPLACED. THE VEHICLE IS NO LONGER UNDER THE ORIGINAL WARRANTY AND THERE IS NO WARRANTY EXTENSION ON THIS PART.    - THE EGR COOLER, WHICH IS SPECIFIC TO DIESEL ENGINE POWERED BMWS HAS A CRACK. THIS COOLER IS NEEDED TO COOL THE TEMPERATURE OF THE AIR MOVING THROUGH THE EGR VALVE. THIS PART IS NOT CONSIDERED PART OF THE EMISSIONS SYSTEM, SO NOT COVERED. THERE IS NO WARRANTY EXTENSION EITHER ON THIS PART.",
+        "vin": "5UXZW0C58BL"
+    }
+]

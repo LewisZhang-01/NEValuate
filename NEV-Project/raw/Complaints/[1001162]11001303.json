@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "06/26/2017",
+        "dateOfIncident": "06/21/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11001303,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EDGE",
+                "productYear": "2011",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE DRIVERS SIDE DOOR SWITCH THAT SENSES WHEN THE DOOR IS OPEN IS STUCK IN THE OPEN POSITION. THEREFORE THE COMPUTER THINKS THE DOOR IS OPEN AT ALL TIMES. THIS CAUSES THE OVERHEAD LIGHTS TO STAY ON WHEN THE CAR IS IN DRIVE, AND ALSO PREVENTS THE DOORS FROM BEING LOCKED WHILE THE ENGINE IS RUNNING. ONLINE SEARCHES INDICATE THIS IS A COMMON PROBLEM THAT'S NOT BEING ADDRESSED BY THE MANUFACTURER. THE DESIGN OF THE DOOR SWITCH SEEMS FAULTY, AS IT REQUIRES SIGNIFICANT LABOR TO DISASSEMBLE THE DOOR AND REPLACEMENT OF THE ENTIRE ASSEMBLY. THIS OCCURS WHILE CAR IS PARKED AS WELL AS WHEN IT IS IN MOTION.",
+        "vin": "2FMDK4KC2BB"
+    }
+]

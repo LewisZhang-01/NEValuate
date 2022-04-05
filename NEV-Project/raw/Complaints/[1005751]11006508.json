@@ -1,0 +1,24 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "07/20/2017",
+        "dateOfIncident": "06/15/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11006508,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EDGE",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DOOR AJAR SENSOR WON'T TURN OFF AFTER DOOR IS CLOSED.  REPEATED SLAMMING OF DOOR DOESN'T RELEASE DOOR AJAR SENSOR.  DOOR AJAR WILL COME ON DURING OPERATION OF VEHICLE.  INTERIOR LIGHT REMAIN ON EVEN WHEN DOOR IS CLOSED.",
+        "vin": "2FMDK3JC6DB"
+    }
+]

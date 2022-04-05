@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS,SEAT BELTS",
+        "crash": true,
+        "dateComplaintFiled": "08/26/2018",
+        "dateOfIncident": "08/25/2018",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 11122415,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "CAMRY",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVER AIRBAG DID NOT WORK IN FRONT END AND DRIVER SIDE COLLISION.",
+        "vin": "4T4BF1FK8ER"
+    }
+]

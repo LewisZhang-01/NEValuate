@@ -1,0 +1,24 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "07/07/2017",
+        "dateOfIncident": "07/07/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11003578,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EDGE",
+                "productYear": "2012",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE DOOR AJAR LIGHT WILL TURN ON AND WILL NOT BE ABLE TO TURN OFF UNLESS THE DOOR IS SHUT MULTIPLE TIMES. IT MAY ALSO TURN ON WHEN DRIVING AS WELL.",
+        "vin": ""
+    }
+]

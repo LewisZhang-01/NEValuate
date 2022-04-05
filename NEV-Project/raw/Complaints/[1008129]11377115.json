@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "11/30/2020",
+        "dateOfIncident": "11/30/2020",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11377115,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "COMPASS",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE STALLS OUT AND LEAVES MOTORISTS STRANDED. ENGINE STALLS AND HAS THE POTENTIAL TO RESUME NORMAL POWER BUT HAS A SERIOUS LAG BETWEEN POWER GIVEN AND POWER ACCEPTED BY ENGINE (2-5 SECS). POSSIBILITY FOR COLLISION IS GREAT AND POSSIBILITY FOR BEING LEFT STRANDED IS GREAT. BATTERY AND NORMAL MAINTENANCE HAS BEEN PERFORMED.",
+        "vin": "1C4NJCBA3GD"
+    }
+]

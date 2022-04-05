@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "07/20/2017",
+        "dateOfIncident": "07/16/2017",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11006523,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "BONNEVILLE",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AIRBAG LIGHT CAME ON WHILE DRIVING; REPAIR SHOP SAYS SENSOR NEEDS TO BE REPLACED",
+        "vin": "1G2HX52K85U"
+    }
+]

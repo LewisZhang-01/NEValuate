@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "10/14/2020",
+        "dateOfIncident": "10/01/2020",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11364315,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE STATIONARY OR AT SLOW SPEEDS, WHEN TURNING THE STEERING WHEEL NEAR THE MAX, THE RIGHT FRONT STRUT MOUNT GIVES A CLANGING SOUND. THIS IS DUE TO A LOOSE STRUT MOUNT THAT COULD BE DANGEROUS. THIS OCCURS ON CITY ROADS WHERE SPEEDS ARE LOW ENOUGH TO ALONG NEAR MAXIMUM TURNING RADIUS.",
+        "vin": "1FM5K8D89DG"
+    }
+]

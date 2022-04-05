@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "07/08/2021",
+        "dateOfIncident": "07/04/2021",
+        "fire": false,
+        "manufacturer": "Porsche Cars North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11424015,
+        "products": [
+            {
+                "manufacturer": "Porsche Cars North America, Inc.",
+                "productMake": "PORSCHE",
+                "productModel": "TAYCAN",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Sudden and unexpected complete loss of power while vehicle was at highway speed. Could not accelerate. Red warning light appeared stating Engine Control Error. Car glided to a complete stop and I attempted to pull over to the shoulder of the highway. Brought the vehicle to the dealer and they stated there was a recent service bulletin to update software.",
+        "vin": "wp0ab2y11ls"
+    }
+]

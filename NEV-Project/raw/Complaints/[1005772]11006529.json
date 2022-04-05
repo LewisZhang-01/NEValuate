@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "07/20/2017",
+        "dateOfIncident": "06/27/2017",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11006529,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "COMPASS",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "PLASTIC PIECES THAT HOLD SEAT BELTS AND HANDLE TO ADJUST SEATS ARE BOTH BROKEN OFF.",
+        "vin": "1C4NJCBA2FD"
+    }
+]

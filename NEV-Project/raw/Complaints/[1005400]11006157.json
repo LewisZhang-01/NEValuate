@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,ELECTRONIC STABILITY CONTROL,SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "07/18/2017",
+        "dateOfIncident": "07/18/2017",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11006157,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "JETTA SPORTWAGEN",
+                "productYear": "2009",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VW REFUSING TO COMPLETE ABS MODULE RECALL BECAUSE ABS MODULE ALREADY HAS FAULT CODES STORED. THE POINT OF THE RECALL IS TO REPAIR OR REPLACE THE FAULTY ABS MODULES, BUT IN OUR CASE, SINCE THE MODULE ALREADY CONTAINS FAULT CODES, THE DEALERSHIP AND VW CORPORATE ARE REFUSING TO PERFORM THE SAFETY RECALL",
+        "vin": "3VWTZ71K89M"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "10/19/2020",
+        "dateOfIncident": "10/06/2020",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11365115,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "COLORADO",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "IN MOTION. 8 SPEED TRANSMISSION  FAILS TO SHIFT RIGHT . IT SHUTTERS BAD.",
+        "vin": "1GCGTEEN4K1"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,VEHICLE SPEED CONTROL,SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "07/06/2017",
+        "dateOfIncident": "06/23/2017",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11003434,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "CAMRY",
+                "productYear": "2007",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BASICALLY THE ABS ACTUATOR IT'S FAILING LIKE IN THE HYBRID MODEL BUT ARE NOT COVERED BY THE TOYOTA EXTENDED WARRANTY WHICH IS COMPLETELY UNFAIR AS THE PART FAILING IT'S THE SAME BASIC ABS PART BUT ON DIFFERENT NON-ELECTRIC VARIANT",
+        "vin": "4T1BE46K27U"
+    }
+]

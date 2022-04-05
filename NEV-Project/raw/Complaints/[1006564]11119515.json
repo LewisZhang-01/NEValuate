@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION,UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "08/12/2018",
+        "dateOfIncident": "08/08/2018",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11119515,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TRUCK WILL NOT PASS INSPECTION DUE TO FRAME RUST ON BOTH SIDES OF THE TRUCK.",
+        "vin": ""
+    }
+]

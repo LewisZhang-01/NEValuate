@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "07/18/2017",
+        "dateOfIncident": "07/14/2017",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11006094,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "EQUINOX",
+                "productYear": "2008",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENGINE LOSING POWER  AND CAR NOT TURNING ON",
+        "vin": "2CNDL63F586"
+    }
+]

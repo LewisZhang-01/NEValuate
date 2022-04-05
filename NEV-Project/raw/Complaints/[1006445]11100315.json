@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "06/07/2018",
+        "dateOfIncident": "06/07/2016",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11100315,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "MKZ",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DTC CODE P188B - AWD CLUTCH CONTROL CIRCUIT       AWD SYSTEM MALFUNCTION, AWD TURNED OFF DURING DRIVING NORMAL MODE. RESTART THE CAR THE AWD SYSTEM IS BACK ON, DEALER CANNOT FIX IT UNLESS YOU GET TO THEM WITH THE MALFUNCTION LIGHT ON. MANAGED FEW TIMES TO BRING IT TO THEM WHILE UNDER WARRANTY, THEY CHANGED TWO TIMES THE AWD MODULE THE FAULT STILL RETURNS. THE DEALER STILL SAYS THAT IS FIXED WHEN OBVIOUSLY IS NOT.",
+        "vin": "3LN6L2JK1ER"
+    }
+]

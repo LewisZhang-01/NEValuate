@@ -1,0 +1,24 @@
+[
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "11/22/2021",
+        "dateOfIncident": "07/21/2021",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11441315,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO 2500",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact owns a 2019 Chevrolet Silverado 2500. The contact received notification of NHTSA Campaign Number: 21V496000 (Equipment) however, the part to do the recall repair was unavailable. The vehicle was taken to the local dealer and it was confirmed that parts were not yet available. The contact stated that the manufacturer had exceeded a reasonable amount of time for the recall repair. The manufacturer was notified of the issue however, no further assistance was provided. The contact was concerned about the vehicle not starting in the cold weather. The contact had not experienced a failure. VIN tool confirms parts not available.",
+        "vin": "1GC1KSEY1KF"
+    }
+]

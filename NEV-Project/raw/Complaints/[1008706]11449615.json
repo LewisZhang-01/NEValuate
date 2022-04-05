@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, OTHER",
+        "crash": false,
+        "dateComplaintFiled": "01/31/2022",
+        "dateOfIncident": "01/01/2022",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11449615,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "TITAN",
+                "productYear": "2008",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact owns a 2008 Nissan Titan. The contact stated that the fuel gauge inaccurately displayed the fuel level as empty. The contact had to constantly refuel the vehicle. The vehicle was not diagnosed nor repaired by an independent mechanic or dealer. The manufacturer was made aware of the failure but informed the contact that there was no recall associated with the VIN. The contact related the failure to NHTSA Campaign Number: 10V074000 (Fuel System, Other) however, the VIN was not included in the recall. The failure mileage was approximately 186,000.",
+        "vin": "1n6aa07dx8n"
+    }
+]

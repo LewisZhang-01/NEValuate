@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "07/03/2017",
+        "dateOfIncident": "07/03/2017",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11002882,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "RAM",
+                "productModel": "1500",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN I GET BELOW 1/4 OF A TANK I HAVE A FUEL SENSOR FAILURE EVERY TIME THAT TROWS A CHECK ENGINE LIGHT",
+        "vin": "3C6JR6AT7GG"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "09/23/2021",
+        "dateOfIncident": "09/01/2021",
+        "fire": false,
+        "manufacturer": "Tesla, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11434115,
+        "products": [
+            {
+                "manufacturer": "Tesla, Inc.",
+                "productMake": "TESLA",
+                "productModel": "MODEL X",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "All of the display in the front has started leaking with bubbles forming on center as well driver display. There was a recall for this issue that included 2016 model X but Tesla says that my vehicle was not included in the recall. I am not sure how did they selectively include or exclude cars from that recall.",
+        "vin": "5yjxcae27gf"
+    }
+]

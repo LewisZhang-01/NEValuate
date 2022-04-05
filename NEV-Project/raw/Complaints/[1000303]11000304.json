@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "06/20/2017",
+        "dateOfIncident": "06/06/2017",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11000304,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "CUBE",
+                "productYear": "2012",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CVT TRANSMISSION FAILING AT 73,000 MILES",
+        "vin": "JN8AZ2KR2CT"
+    }
+]

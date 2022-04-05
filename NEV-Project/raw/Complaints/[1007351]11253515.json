@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "09/05/2019",
+        "dateOfIncident": "07/10/2019",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11253515,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "MUSTANG",
+                "productYear": "2012",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN TRYING TO ACCELERATE THE CAR, IT SOMETIMES SLOWS DOWN INSTEAD OF SPEEDING UP.",
+        "vin": "1ZVBP8EM5C5"
+    }
+]

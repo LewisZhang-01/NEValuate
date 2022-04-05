@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "07/05/2017",
+        "dateOfIncident": "03/18/2017",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11003179,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "550I",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CAR WILL NOT RISE DUE TO AIRBAG MALFUNCTION.  CAR IS A CPO STILL UNDER WARRANTY. BMW HAS NOT AGREED TO REPLACE THE AIRBAG COMPONENT OF THE SUSPENSION ALTHOUGH IT'S NOT LISTED UNDER THE ITEMS THAT ARE NOT COVERED. THE CAR IS INOPERABLE WITH THIS PART MALFUNCTIONING.",
+        "vin": "WBASN0C57DD"
+    }
+]

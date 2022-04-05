@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "07/05/2017",
+        "dateOfIncident": "07/04/2017",
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11003185,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "FLTRU",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FAULTY HYDRAULIC CONTROL UNIT FOR THE ABS BRAKING SYSTEM. IT'S A VERY COMMON PROBLEM AS I HAVE DISCOVERED. IT CAN CAUSE THE LOSS OF EITHER FRONT, OR REAR BREAKS AT ANY TIME. I WAS IN THE DRIVEWAY AND COULDN'T APPLY MY FRONT BREAKS.",
+        "vin": "1HD1KGM18DB"
+    }
+]

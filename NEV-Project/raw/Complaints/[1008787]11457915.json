@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "03/22/2022",
+        "dateOfIncident": "03/01/2022",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11457915,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "2011",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "There is an issue with the power steering and the system on the vehicle states that there is a \u201cpower steering assist fault\u201d and \u201cterrain assist fault\u201d. This issue completely locks my steering wheel to the point where it is impossible to turn. The concerning part of this issue is that there have been multiple times while driving through a parking lot or on the highway that this issue comes up out of nowhere. Luckily, this lapse in the power steering has only lasted less than a minute and during times when I could stop however, there will come a time when that won\u2019t be the case and something serious may happen. The unfortunate part to this issue is that there is a recall for this exact issue amongst other 2011 ford explorers however, my vin# is not included in that recall. It makes absolutely no sense to me why it isn\u2019t when the same problem is occurring in my vehicle.",
+        "vin": "1FMHK8D89BG"
+    }
+]

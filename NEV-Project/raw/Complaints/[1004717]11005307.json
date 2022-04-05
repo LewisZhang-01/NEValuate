@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "07/14/2017",
+        "dateOfIncident": "07/06/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11005307,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EDGE",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CAR STEERING HARD TO KEEP WHEEL STRAIGHT.  TROUBLE LIGHT INDICATES ADAPTIVE STERRING FAULT.  THIS SHOULD BE UNDER WARRANTEE, AS THIS IS HAPPENING TO MANY PEOPLE.",
+        "vin": "2FMPK4K85GB"
+    }
+]

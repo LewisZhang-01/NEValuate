@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "07/05/2017",
+        "dateOfIncident": "09/14/2015",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11003091,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EDGE",
+                "productYear": "2012",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVER DOOR AJAR WARNING STAYS ON EVEN AFTER SEVERAL ATTEMPTS TO CLOSE DOOR.",
+        "vin": "2FMDK4KC0CB"
+    }
+]

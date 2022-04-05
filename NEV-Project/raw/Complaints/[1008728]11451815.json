@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "02/14/2022",
+        "dateOfIncident": "12/01/2013",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11451815,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "328I",
+                "productYear": "2011",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Driver side seat gets so hot that the seat warmer cannot be kept on, even at the lowest setting, for longer than a few minutes.",
+        "vin": "WBAPH5C52BA"
+    }
+]

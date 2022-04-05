@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "07/01/2017",
+        "dateOfIncident": "03/02/2017",
+        "fire": false,
+        "manufacturer": "Mazda Motor Corp.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11002676,
+        "products": [
+            {
+                "manufacturer": "Mazda Motor Corp.",
+                "productMake": "MAZDA",
+                "productModel": "MAZDA6",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "IGNITION DOES NOT TURN OFF WHEN PRESSING START/STOP BUTTON ' 2013-2014 MAZDA",
+        "vin": "JM1GJ1W60E1"
+    }
+]

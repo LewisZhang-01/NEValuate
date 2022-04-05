@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "06/30/2017",
+        "dateOfIncident": "06/30/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11002569,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EDGE",
+                "productYear": "2008",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TRANSMISSION SENSORS ARE BAD AND VEHICLE HAS 80,000 MILES.",
+        "vin": "2FMDK38C78B"
+    }
+]

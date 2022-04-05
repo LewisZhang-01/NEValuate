@@ -1,0 +1,24 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "02/06/2020",
+        "dateOfIncident": "10/01/2019",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11307515,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "TUNDRA",
+                "productYear": "2017",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONNECTING IPHONE 11 PRO VIA BLUETOOTH CONNECTION TO RADIO CAUSES THE RADIO TO COMPLETELY REBOOT REPEATEDLY AND NO LONGER WORKS CORRECTLY. DETACHING THE BLUETOOTH IPHONE RETURNS THE RADIO TO NORMAL FUNCTION.",
+        "vin": "5TFUW5F13HX"
+    }
+]

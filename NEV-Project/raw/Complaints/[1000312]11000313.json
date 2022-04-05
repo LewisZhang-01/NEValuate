@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "06/20/2017",
+        "dateOfIncident": "05/20/2017",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11000313,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "YUKON DENALI",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN SHIFTING INTO GEAR FROM A CHILD START,  THE VEHICLE TAKES APPROXIMATELY 3 SECONDS TO SHIFT.  DURING THAT TIME THE VEHICLE IS NOT IN GEAR AND CAN ROLL IN ANY DIRECTION.   THERE IS A SOFTWARE FIX FOR THIS THAT I MUST PAY THE DEALER TO INSTALL.  THIS HAPPENS EVERY COLD START.",
+        "vin": "1GKS2CKJ1FR"
+    }
+]

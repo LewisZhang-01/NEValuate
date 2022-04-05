@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "07/14/2017",
+        "dateOfIncident": "06/24/2017",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11005390,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "TRAVERSE",
+                "productYear": "2011",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENGINE FAILED CATASTROPHICALLY ON THE BUSY I10 FREEWAY AT 50 MPH. IT WAS VERY FORTUNATE THAT A PILE-UP DID NOT OCCUR. THIS COULD HAVE RESULTED IN INJURY OR DEATH.  DEALER DIAGNOSED THE PROBLEM TO A CLOGGED CATALYTIC CONVERTER THAT STARTED TO DISINTEGRATE AND BLOW ABRASIVE CERAMIC DUST BACK INTO THE ENGINE. EVENTUALLY CAUSING IT'S COMPLETE FAILURE.",
+        "vin": "1GNKVGED9BJ"
+    }
+]

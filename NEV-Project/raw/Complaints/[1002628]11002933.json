@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "07/04/2017",
+        "dateOfIncident": "06/16/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11002933,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EDGE",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DOOR LATCH DOES NOT PROPERLY SECURE.  DOOR AJAR SENSOR LIGHT IS ALWAYS ON.  INTERIOR LIGHTS REMAIN ON AND VEHICLE ALARM WILL NOT ACTIVATE BECAUSE DOOR LOCKS DO NOT ENGAGE.  THIS HAPPENS CONSTANTLY; WHEN THE VEHICLE IS IN MOTION, STANDING, PARKED, ENGINE RUNNING AND ENGINE NOT RUNNING.  LOW TIRE PRESSURE SENSOR LIGHT ALSO REMAINS ON AT ALL TIMES, EVEN THOUGH IT APPEARS TIRES ARE INFLATED TO PROPER PRESSURE.",
+        "vin": "2FMDK4JC3DB"
+    }
+]

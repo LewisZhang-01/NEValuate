@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "07/08/2017",
+        "dateOfIncident": "07/28/2011",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11003766,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "CUBE",
+                "productYear": "2009",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CLUNK NOISE WHILE MAKING TURN",
+        "vin": "JN8AZ28R09T"
+    }
+]

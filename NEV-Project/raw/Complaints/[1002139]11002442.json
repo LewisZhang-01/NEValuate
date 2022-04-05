@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "06/30/2017",
+        "dateOfIncident": "06/26/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11002442,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-250",
+                "productYear": "2008",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "STEERING WHEEL LOCKED UP GETTING OFF EXIT WHEN APPLYING BRAKES, THIS HAS HAPPENED 4 TIMES.",
+        "vin": "1FTSW21RX8E"
+    }
+]

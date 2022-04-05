@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "01/12/2021",
+        "dateOfIncident": "01/12/2021",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11387715,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "PILOT",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE AUTOMATIC START SYSTEM TURNS THE CAR OFF AND ON WHEN STOPPED AT A RED LIGHT OR STOP SIGN FOR EXAMPLE. THE FEATURE SOMETIMES WITHOUT ANY WARNING FAILS TO RESTART THE CAR AUTOMATICALLY. THE DRIVER MUST PUT THE CAR IN PARK, PUSH DOWN ON THE BRAKE, RESTART THE CAR AND THEN SHIFT INTO PARK TAKING A CONSIDERABLE AMOUNT OF TIME. THIS IS DANGEROUS FOR SO MANY REASONS AND IT MUST MANUALLY BE TURNED OFF BECAUSE IT DEFAULTS TO ON. WITH NO WARNING YOUR CAR COULD BE TURNED OFF AND NOT AUTOMATICALLY START WHEN IT'S SUPPOSED TO. THIS HAS HAPPENED TO ME MULTIPLE TIMES STOPPED AT RED LIGHT, STOP SIGNS AND IN STOP AND GO TRAFFIC. I WOULD LIKE TO EITHER HAVE A WARNING IN PLACE OR BE ABLE TO PERMANENTLY DISABLE THIS DANGEROUS FEATURE.",
+        "vin": "5FNYF6H00GB"
+    }
+]

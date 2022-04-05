@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "01/11/2022",
+        "dateOfIncident": "08/12/2020",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11447115,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "TAHOE",
+                "productYear": "2021",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "GM has been building V8 engines with a known defect that is bending push rods and damaging lifters. These newer engines use a DFM system and that system is compounding this engine defect. GM has refused to replace all the lifters and is going forward with just fixing engines as they blow up which can happen at any time. The 5.3 and 6.2 engines are a ticking time bomb and can leave you without engine power at any given time when a lifter fails or a push rod gets bent. Hopefully the NHTSA will look into this issue and force GM into a recall.",
+        "vin": "1GNSKNKD2MR"
+    }
+]

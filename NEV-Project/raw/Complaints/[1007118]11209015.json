@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "05/21/2019",
+        "dateOfIncident": "05/21/2019",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11209015,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "C-MAX",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVING ON HIGHWAY WHEN THE STEERING WHEEL ASSIST FAULT ALERT LIGHT SHOWED UP AND THE CAR START GETTING VERY HARD TO CONTROL. TOOK IT TO THE AUTO SHOP AND THEY FOUND CODE C102D. THEY RECOMMENDED REPLACE THE STEERING WHEEL RACK. $2325.",
+        "vin": "1FDAP5BU2DL"
+    }
+]

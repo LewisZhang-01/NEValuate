@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN,ENGINE,FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "07/18/2017",
+        "dateOfIncident": "05/10/2017",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11006201,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "TERRAIN",
+                "productYear": "2011",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE IS CONSUMING UP TO 2 QTS OF OIL EVERY 1000 MILES. THE LOW OIL LEVEL LIGHT DOES NOT ILLUMINATE, EVEN WHEN THE OIL LEVEL FALLS BELOW 2 QTS LOW.",
+        "vin": "2CTALSEC9B6"
+    }
+]

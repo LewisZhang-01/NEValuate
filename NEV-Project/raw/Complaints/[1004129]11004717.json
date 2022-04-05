@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,WHEELS,ELECTRONIC STABILITY CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "07/12/2017",
+        "dateOfIncident": "02/28/2017",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11004717,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "G6",
+                "productYear": "2008",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "STEERING MALFUNCTIONING. LIGHT CAME UP AND THE WARNING SOUNDS.  UPON CHECKING FOR RECALL IT WAS LISTED AS N140118",
+        "vin": ""
+    }
+]

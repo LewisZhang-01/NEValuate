@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS,LANE DEPARTURE",
+        "crash": false,
+        "dateComplaintFiled": "06/23/2021",
+        "dateOfIncident": "06/23/2021",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11422015,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "IMPALA",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "My dashboard reads, service air bag. Everytime I turn it on as of this morning. 6/23/21 @ 1pm central time. I've read about the recall on these models as well of air bags deploying and throwing pieces of metal at drivers.  Cause of molded air bag housing.",
+        "vin": "2G1155S35E9"
+    }
+]

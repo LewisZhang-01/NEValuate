@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "03/08/2021",
+        "dateOfIncident": "09/02/2020",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11399815,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "DURANGO",
+                "productYear": "2012",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CHECK ENGINE LIGHT CAME ON. CODE FOR CYLINDER 2 MISFIRE. I'VE CHANGED THE COIL PACKS AND SPARK PLUGS. A DAY LATER LIGHT CAME BACK ON FOR SAME CODE.",
+        "vin": "1C4RDHAGXCC"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "06/08/2018",
+        "dateOfIncident": "05/04/2018",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11100615,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-250",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUEL TANK 1 SEEMS TO PUMP FUEL INTO TANK 2. FUEL SWITCH  ON \"FRONT\" SEEMS TO INDICATE PROPER AMOUNT OF FUEL. FUEL SWITCH ON \"REAR\" ALWAYS READS FULL. SOMETIMES FUEL WILL FLOW OUT OF REAR TANK AS SOON AS FUEL CAP IS REMOVED. I DROVE ABOUT 75 MILES WITH THE FUEL SWITCH ON \"REAR\". WHEN I ARRIVED AT MY DESTINATION, I UNSCREWED REAR TANK CAP AND FUEL SPEWED OUT.......MAYBE A GALLON OR SO.",
+        "vin": "1FTHX25GXVE"
+    }
+]

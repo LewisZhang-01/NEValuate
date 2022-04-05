@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,SUSPENSION,WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "07/06/2017",
+        "dateOfIncident": "07/05/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11003246,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-250",
+                "productYear": "2009",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN DRIVING  AT HIGHWAY SPEEDS (50 MPH OR HIGHER) THE TRUCK EXPERIENCES \"DEATH WOBBLE\" WHEN IT HITS A SMALL ROUGH PATCH. DURING \"DEATH WOBBLE\" THE VEHICLE SHAKES UNCONTROLLABLY AND WON'T STOP UNTIL THE VEHICLE SPEED IS BROUGHT DOWN TO 30 MPH OR LOWER.",
+        "vin": "1FTSW21RX9E"
+    }
+]

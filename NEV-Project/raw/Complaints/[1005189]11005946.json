@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "07/17/2017",
+        "dateOfIncident": "07/17/2017",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11005946,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "HUMMER",
+                "productModel": "H3",
+                "productYear": "2007",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE WON'T START.  THE PASSLOCK PREVENTS THE VEHICLE FROM STARTING.  THE CAR ALARM WILL START WHILE I'M OUTSIDE THE VEHICLE AND THEN THE VEHICLE WON'T START.  I REPLACED THE BATTERY BUT THE PASSLOCK STILL MAKES THE ALARM GO OFF WHILE ITS LOCKED IN THE DRIVEWAY.",
+        "vin": "5GTDN13E478"
+    }
+]

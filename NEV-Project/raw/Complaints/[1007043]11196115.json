@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN,ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "04/14/2019",
+        "dateOfIncident": "04/10/2019",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11196115,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "VOLT",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ALL VEHICLE SYSTEMS ARE NOT REGISTERING THAT THE VEHICLE IS IN PARK WHEN THE SHIFTER IS IN THE PARK POSITION.  THE INSTRUMENT CLUSTER GEAR INDICATOR REGISTERS THE VEHICLE AS IN PARK, BUT WHEN ATTEMPTING TO POWER DOWN THE VEHICLE AN ERROR MESSAGE OCCURS DIRECTING THE DRIVER TO SHIFT THE VEHICLE INTO PARK.  WHEN EXITING THE VEHICLE THE DOORS WILL NOT LOCK.",
+        "vin": "1G1RC6S58GU"
+    }
+]
