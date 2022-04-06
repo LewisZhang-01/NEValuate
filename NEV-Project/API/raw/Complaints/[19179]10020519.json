@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "05/26/2003",
+        "dateOfIncident": "04/26/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020519,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "METAL BODY OF DRIVER'S SEAT IS FATIGUED AND CRACKED NEAR POINT OF ATTACHMENT TO THE MOUNTING FRAME CONTAINING THE POWER SEAT ADJUSTMENT MOTORS.  POINT OF FAILURE IS LEFT FRONT CORNER.  *NLM",
+        "vin": "1GNFK16K6SJ"
+    }
+]

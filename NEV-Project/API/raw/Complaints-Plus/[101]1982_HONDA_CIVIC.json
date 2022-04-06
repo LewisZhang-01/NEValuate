@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": true,
+        "dateComplaintFiled": "08/14/1996",
+        "dateOfIncident": "07/30/1996",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 507482,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "CIVIC",
+                "productYear": "1982",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "STEERING FAILED, CAUSING ACCIDENT. (OHIO STATE POLICE REPORT)",
+        "vin": ""
+    }
+]

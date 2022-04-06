@@ -1,0 +1,24 @@
+[
+    {
+        "components": "EXTERIOR LIGHTING",
+        "crash": false,
+        "dateComplaintFiled": "06/10/2003",
+        "dateOfIncident": "02/03/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021363,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "TRAILBLAZER",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "LEFT REAR BRAKE LIGHT SHORTED OUT REQUIRING REPLACEMENT OF \"CIRCUIT BOARD\". SERVICE MANAGER INDICATED THIS WAS OCCURING FREQUENTLY. AK",
+        "vin": "1GNDT13S822"
+    }
+]

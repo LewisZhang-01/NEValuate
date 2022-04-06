@@ -1,0 +1,62 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "07/06/2004",
+        "dateOfIncident": "07/02/2004",
+        "fire": false,
+        "manufacturer": "Winnebago Industries, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10080454,
+        "products": [
+            {
+                "manufacturer": "Winnebago Industries, Inc.",
+                "productMake": "WINNEBAGO",
+                "productModel": "JOURNEY",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "MICHELIN TIRE CORP.",
+                "productMake": "MICHELIN",
+                "productModel": "XRV",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "DRIVING DOWN THE HIGHWAY DRIVERS SIDE BLOWOUT LEFT FRONT MICHELIN235/80R22.5 XRV TIRE.  *JB-",
+        "vin": "4UZAAGBV01C"
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "07/06/2004",
+        "dateOfIncident": "07/02/2003",
+        "fire": false,
+        "manufacturer": "Winnebago Industries, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10080456,
+        "products": [
+            {
+                "manufacturer": "Winnebago Industries, Inc.",
+                "productMake": "WINNEBAGO",
+                "productModel": "JOURNEY",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "MICHELIN TIRE CORP.",
+                "productMake": "MICHELIN",
+                "productModel": "XRV",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "DRIVING DOWN THE HIGHWAY LEFT REAR INSIDE TIRE BLEWOUT.  *JB",
+        "vin": "4UZAAGBV01C"
+    }
+]

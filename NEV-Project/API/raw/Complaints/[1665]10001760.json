@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "12/31/2002",
+        "dateOfIncident": "12/13/2002",
+        "fire": true,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001760,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "GRAND CARAVAN",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATES WHILE DRIVING THE VEHICLE THE VEHICLE CAUGHT ON FIRE. DEALER NOTIFIED. TS",
+        "vin": "FULL FILL"
+    }
+]

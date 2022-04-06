@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION,WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "06/17/2003",
+        "dateOfIncident": "06/17/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10024201,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPEDITION",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING AT LOW SPEED HEARED A NOISE. FRONT WHEEL BEARING FAILED, AND WHEEL SEPARATED FROM THE VEHICLE. DEALER NOTIFIED. *AK",
+        "vin": ""
+    }
+]

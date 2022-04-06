@@ -1,0 +1,46 @@
+[
+    {
+        "components": "AIR BAGS,VEHICLE SPEED CONTROL",
+        "crash": true,
+        "dateComplaintFiled": "10/24/1996",
+        "dateOfIncident": "10/24/1996",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 803978,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "DAKOTA",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE COMING TO A STOP THE THROTTLE WENT WIDE OPEN AND VEHICLE HIT THE BACK OF  ANOTHER TRUCK AND THERE WAS NO DEPLOYMENT OF THE DRIVER'S SIDE AIR BAG.  *AK",
+        "vin": "1B7FL26G8SW"
+    },
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "05/31/1996",
+        "dateOfIncident": "05/07/1996",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 985085,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "DAKOTA",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVING AT SPEED 0F 35 MPH, IMPACT 12:00 POSITION DRIVERS SIDE AIR BAG DID NOT DEPLOY.  *AK",
+        "vin": "1B7FL26G2FW"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "05/16/2003",
+        "dateOfIncident": "01/15/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018824,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXCURSION",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2002 FORD EXCURSION.  TWO INSTANCE OF THE VEHICLE NOT RESPONDING TO PRESSURE APPLIED TO THE BRAKE PEDAL AT LOW SPEED.  VEHICLE CONTINUES TO ROLL WITH VERY LITTLE STOPPING ACTION.  TAKEN TO DEALERSHIP WHERE NOTHING WAS FOUND.  *NLM",
+        "vin": ""
+    }
+]

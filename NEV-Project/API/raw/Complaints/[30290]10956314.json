@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "02/22/2017",
+        "dateOfIncident": "02/22/2017",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10956314,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "MALIBU",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "POWER STEERING STARTED FAILING. USUALLY IT WOULD COME BACK IF I RESTARTED THE CAR. TODAY IT HAS FAILED AND NOT RETURNED. USUALLY SEEMED TO FAIL WHEN I FIRST STARTED THE CAR, BUT LATER IT SEEMED LIKE IT FAILED AS I DROVE THE CAR.",
+        "vin": "1G1ZT54885F"
+    }
+]

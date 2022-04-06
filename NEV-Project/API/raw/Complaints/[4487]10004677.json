@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": true,
+        "dateComplaintFiled": "01/27/2003",
+        "dateOfIncident": "01/19/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004677,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "ESCORT",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE TURNING AT 30 MPH STEERING COLUMN LOCKED UP, CAUSING VEHICLE TO HIT A TREE. PLEASE PROVIDE ADDITIONAL INFORMATION.*AK",
+        "vin": "PLEASE FILL"
+    }
+]

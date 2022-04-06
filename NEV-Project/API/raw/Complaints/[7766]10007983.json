@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "02/22/2003",
+        "dateOfIncident": "05/26/2000",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10007983,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "E-150",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "E-150 VAN STEERING COLUMN \"CLUNKS\" DURING TURNS. IDENTIFIED PROBLEM WHEN VAN WAS NEW. TOLD THAT IT WAN'T DANGEROUS. SOUND IS INCREASING WITH AGE.",
+        "vin": "1FDRE14W1XH"
+    }
+]

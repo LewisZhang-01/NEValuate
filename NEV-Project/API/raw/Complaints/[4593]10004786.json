@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "01/28/2003",
+        "dateOfIncident": "01/25/2003",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004786,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "ODYSSEY",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE NEEDS NEW SRS MODULE. DEALER WOULD INSTALL IT FOR $875.*AK",
+        "vin": "JHMRA1868TC"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "04/02/2003",
+        "dateOfIncident": "11/03/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015037,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "CONTINENTAL",
+                "productYear": "1991",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE SUB FRAME DROPPED, WHICH CAUSED IMPROPER STEERING. THE DEALER STATED THE VEHICLE WAS REPAIRABLE.   *JB",
+        "vin": "1LNCM9741MY"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "01/24/2003",
+        "dateOfIncident": "01/01/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003340,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DOOR CRACKS ON RIGHT AND LEFT DOORS 2\" UP FROM BOTTOM OF WINDOW.  RUST ON BOTTOM OF RIGHT AND LEFT DOORS",
+        "vin": ""
+    }
+]

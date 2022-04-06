@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "01/03/2003",
+        "dateOfIncident": "01/02/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 4,
+        "odiNumber": 10002039,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F350",
+                "productYear": "9999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE TRAVELING AT ABOUT 55 MPH HIT AN ANOTHER VEHICLE  BROADSIDE AND  FRONTAL AIR BAGS FAILED TO DEPLOY, RESULTING IN INJURIES.   TS.   *AK",
+        "vin": "1FTSF31S9XE"
+    }
+]

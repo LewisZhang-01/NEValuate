@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "06/03/2004",
+        "dateOfIncident": "06/01/2004",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10074714,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "BMW MOTORCYCLE",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "REAR DRIVE FAILURE ON BMW K1200 LT.  MOTORCYCLE STARTED VIBRATING AND REAR END STARTED WOBBLING.  *JB",
+        "vin": "WB10555A1XZ"
+    }
+]

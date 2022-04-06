@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "06/19/2003",
+        "dateOfIncident": "06/11/2003",
+        "fire": true,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10023396,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "EXPRESS",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WIRING HARNESS UNDER FUSE BLOCK AT DRIVERS FEET NOT PROPERLY SECURED BY S-CLIP AND WIRES RUB AGAINST ACCESS HOLE IN SHEET METAL CAUSING SHORT IN TURN SIGNAL OR 4-WAY FLASHER CIRCUIT CAUSING FIRE.  VEHICLE IS MARK III CONVERSION.   *NLM",
+        "vin": "1GBFG15W3X1"
+    }
+]

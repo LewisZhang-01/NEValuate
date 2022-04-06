@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "10/25/2006",
+        "dateOfIncident": "08/24/2006",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10171814,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AIRBAG WARNING LIGHT, FLASHES SEVERAL TIMES AND THEN STAYS ILLUMINATED",
+        "vin": ""
+    }
+]

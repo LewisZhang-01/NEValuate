@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "04/23/2019",
+        "dateOfIncident": "04/21/2019",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11203064,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "SCION",
+                "productModel": "FR-S",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE PASSAGER REAR CALIPER MALFUNCTION CAUSE THE BRAKE PAD FLY AWAY FROM THE RIGHT REAR BRAKE",
+        "vin": "JF1ZNAA15F8"
+    }
+]

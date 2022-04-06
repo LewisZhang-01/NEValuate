@@ -1,0 +1,68 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "01/19/2022",
+        "dateOfIncident": "01/19/2022",
+        "fire": false,
+        "manufacturer": "Forest River, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11448087,
+        "products": [
+            {
+                "manufacturer": "Forest River, Inc.",
+                "productMake": "FOREST RIVER",
+                "productModel": "PUMA",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact owns a 2020 Forest River Palomino Puma travel trailer. The contact stated that there was brown water leaking from the roof into the ceiling light fixture and walls of the RV. The RV was taken to the dealer and diagnosed that the insulation caused the water to change to a brown color. The dealer replaced the wood on the walls of the RV; however, the failure recurred. The RV was not repaired. The manufacturer was not made aware of the failure.",
+        "vin": "4X4TPUG26LP"
+    },
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "08/11/2021",
+        "dateOfIncident": "04/01/2021",
+        "fire": false,
+        "manufacturer": "Forest River, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11428655,
+        "products": [
+            {
+                "manufacturer": "Forest River, Inc.",
+                "productMake": "FOREST RIVER",
+                "productModel": "PUMA",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact owns a 2020 Forest River Puma RV. The contact stated while driving 70 mph, the structure underneath the trailer detached from the RV. The contact stated no warning light was illuminated. The contact stated he continued driving to his destination. The contact took the RV to an independent mechanic and was informed that the structure underneath the RV has been replaced. The RV was repaired. The contact called the local dealer and made them aware of  the failure. The manufacturer had been informed of the failure. The failure mileage was approximately 2,000.",
+        "vin": "5ZT2PUTB8L4"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "05/14/2021",
+        "dateOfIncident": "04/28/2021",
+        "fire": true,
+        "manufacturer": "Forest River, Inc.",
+        "numberOfDeaths": 2,
+        "numberOfInjuries": 1,
+        "odiNumber": 11416611,
+        "products": [
+            {
+                "manufacturer": "Forest River, Inc.",
+                "productMake": "FOREST RIVER",
+                "productModel": "PUMA",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE CONTACT OWNED A 2020 FOREST RIVER PALOMINO PUMA 28BHSS TRAVEL TRAILER. THE CONTACT STATED THAT WHILE SHE AND HER TWO CHILDREN AND HUSBAND WERE SLEEPING, THE ELECTRICAL PANEL LOCATED IN THE CHILDREN'S ROOM INSIDE THE BUNKHOUSE CAUGHT FIRE. THE CONTACT'S HUSBAND WAS SLEEPING IN THE CHILDREN'S ROOM AND WAS AWAKEN BY THE FIRE. THE CONTACT'S HUSBAND THEN SCREAMED FOR EVERYONE TO EVACUATE THE TRAVEL TRAILER. THE CONTACT'S TWO PETS DIED FROM THE FIRE AS THEY WERE NOT ABLE TO EVACUATE. THE CONTACT WAS THE ONLY PERSON WHO RECEIVED MEDICAL ATTENTION ON THE SCENE AND WAS TRANSPORTED TO THE HOSPITAL BY AMBULANCE. THE FIRE DEPARTMENT WAS ABLE TO PUT OUT THE FIRE. A POLICE AND FIRE DEPARTMENT REPORTS WERE FILED. THE TRAVEL TRAILER WAS TOWED AND DEEMED TOTALED BY THE INSURANCE COMPANY. THE DEALER AND MANUFACTURER WERE NOT MADE AWARE OF THE FAILURE.",
+        "vin": "5ZT2PUTB3L4"
+    }
+]

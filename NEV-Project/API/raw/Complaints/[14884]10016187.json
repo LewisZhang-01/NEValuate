@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "04/18/2003",
+        "dateOfIncident": "07/15/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10016187,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "S10",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "LOUD THUMPING NOISE COMING FROM GAS TANK AREA DURING SUDDEN STOPS OR ACCELERATIONS. ALSO DURING NORMAL STOPS AND NORMAL ACCELERATION. NOISE CONTINUES TO PRESENT TIME.  *NLM",
+        "vin": "1GCCS19W228"
+    }
+]

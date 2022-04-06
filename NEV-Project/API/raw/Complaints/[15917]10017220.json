@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "07/03/2003",
+        "dateOfIncident": "01/11/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10017220,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE WAS INVOLVED IN A HEAD ON COLLISION BUT NONE OF THE AIRBAGS DEPLOYED UPON IMPACT.   *NLM   *TS   *SCC   *NLM",
+        "vin": "1FMDU32EXVZ"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "08/22/2003",
+        "dateOfIncident": "05/24/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021603,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING UP A HILL THE VEHICLE STALLED.   IT WAS LATER DETERMINED THAT FUEL LEAKED FROM THE FUEL TANK.  *NLM.  *AK  *JB",
+        "vin": "1FAFP3436YW"
+    }
+]

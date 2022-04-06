@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "04/09/2019",
+        "dateOfIncident": "04/09/2019",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11194964,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA DENALI",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "STEERING WHEEL SLOPPY 1-2 INCHES OF PLAY WHILE DRIVING",
+        "vin": "1GT12UE84GF"
+    }
+]

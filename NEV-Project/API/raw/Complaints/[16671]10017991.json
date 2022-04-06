@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "05/01/2003",
+        "dateOfIncident": "01/01/2003",
+        "fire": false,
+        "manufacturer": "Mitsubishi Motors North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017991,
+        "products": [
+            {
+                "manufacturer": "Mitsubishi Motors North America, Inc.",
+                "productMake": "MITSUBISHI",
+                "productModel": "ECLIPSE",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLES STRAP LINK FAILED AND CAUSED THE CONVERTIBLE TOP TO BE INOPERATIVE.  *NLM",
+        "vin": ""
+    }
+]

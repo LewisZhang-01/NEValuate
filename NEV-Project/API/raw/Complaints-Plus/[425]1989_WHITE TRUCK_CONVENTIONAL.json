@@ -1,0 +1,24 @@
+[
+    {
+        "components": "LATCHES/LOCKS/LINKAGES",
+        "crash": true,
+        "dateComplaintFiled": "07/26/1996",
+        "dateOfIncident": "06/18/1996",
+        "fire": false,
+        "manufacturer": "WHITE MOTOR CORPORATION",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 506693,
+        "products": [
+            {
+                "manufacturer": "WHITE MOTOR CORPORATION",
+                "productMake": "WHITE TRUCK",
+                "productModel": "CONVENTIONAL",
+                "productYear": "1989",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DEFECTIVE LATCH ON PASSENGERS DOOR CAUSED DOOR TO COME OPEN/PASSENGER TO FALL OUT/INJURY.",
+        "vin": ""
+    }
+]

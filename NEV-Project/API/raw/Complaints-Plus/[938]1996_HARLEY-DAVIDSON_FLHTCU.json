@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "03/20/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10011446,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "FLHTCU",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AFTER THE RECALL WORK WAS PERFORMED REGARDING A DEFECTIVE IGNITION SWITCH, THE ENGINE CUT OFF, AFTER THE THIRD VISIT TO THE DEALER, THE IGNITION COIL WAS REPLACED.*TS   *JB",
+        "vin": ""
+    }
+]

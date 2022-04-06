@@ -1,0 +1,24 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/16/2003",
+        "dateOfIncident": "06/13/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10023202,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "PRIUS",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "UNUSUAL TIRE WEAR:  FRONT OEM TIRES WORN TO CORDS AT 5000 MILES.  PRESSURE KEPT AT SPECIFIED PSI.  ALIGNMENT CHECKED AND ADJUSTED AT 1,500 MILES.   *NLM",
+        "vin": "JT2BK18U630"
+    }
+]

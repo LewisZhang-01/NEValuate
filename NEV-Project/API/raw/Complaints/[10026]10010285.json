@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "03/11/2003",
+        "dateOfIncident": "03/10/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010285,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "HIGHLANDER",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Bridgestone Americas Tire Operations",
+                "productMake": "BRIDGESTONE",
+                "productModel": "DUELER 684",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "UNEXPECTED TIRE FAILURE OF A BRIDGESTONE H/T P225/70R16.*JB",
+        "vin": "JTEHF21A810"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": true,
+        "dateComplaintFiled": "01/14/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10003808,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "SATURN",
+                "productModel": "S-SERIES WAGON",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER WAS REARENDED BY ANOTHER VEHICLE. WHICH CAUSED THE DRIVER'S SEAT BACK TO COLLAPSE IN THE REAR POSITION, ALSO THE HEAD REST SEPARATED FROM THE SEAT. DRIVER SUFFERED INJURIES.*JB",
+        "vin": "FILL IN"
+    }
+]

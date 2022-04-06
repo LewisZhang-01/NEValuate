@@ -1,0 +1,54 @@
+[
+    {
+        "components": "STRUCTURE,TIRES",
+        "crash": true,
+        "dateComplaintFiled": "11/17/2014",
+        "dateOfIncident": "09/14/2014",
+        "fire": false,
+        "manufacturer": "Daimler Trucks North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10658759,
+        "products": [
+            {
+                "manufacturer": "Daimler Trucks North America, LLC",
+                "productMake": "WESTERN STAR",
+                "productModel": "4900",
+                "productYear": "2014",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "MICHELIN TIRE CORP.",
+                "productMake": "MICHELIN",
+                "productModel": "XZA",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "2014 WESTERN STAR 4900 CAR HAULER, JUST REPLACED 2 STEER TIRES TO 2014 MICHELIN XZA 275/70/R22.5 18 PLY. TIRE HAD LESS THEN 30,000 MILES AND PASSENGER SIDE BLOW OUT. FRONT DESTROYED. TRUCK WAS FULLY LOADED WITH ABOUT 75000 POUNDS. DRIVER LOST CONTROL AND TRAVELED FROM LEFT LANE TO SHOULDER. CAME TO STOP ON THE SHOULDER. INSURANCE PAID ALMOST $30,000.  *TR",
+        "vin": "5KKHAEBG0EP"
+    },
+    {
+        "components": "EXTERIOR LIGHTING,STRUCTURE,WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "11/04/2014",
+        "dateOfIncident": "09/04/2014",
+        "fire": false,
+        "manufacturer": "Daimler Trucks North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10652378,
+        "products": [
+            {
+                "manufacturer": "Daimler Trucks North America, LLC",
+                "productMake": "WESTERN STAR",
+                "productModel": "4900",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FRONT TIRE PASSENGER SIDE BLOW OUT. MICHELIN XZA 2 275/0.22.5. WHOLE FRONT OF THE TRUCK DAMAGED. HOOD BROKEN IN 2 PARTS. FENDER FLEW OFF. LIGHT FLEW OFF. RIM DESTROYED. REPAIR COST $16,000    TIRE WAS CHANGED AT ABOUT 90,000 MILES.   *TR",
+        "vin": "5KKHAEBG3EP"
+    }
+]

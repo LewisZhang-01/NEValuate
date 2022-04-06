@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, AIR",
+        "crash": false,
+        "dateComplaintFiled": "01/05/2003",
+        "dateOfIncident": "12/26/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000736,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "E-350",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "1997 FORD SUPER CLUB WAGON XLT (E350) ABS SYSTEM ENGAGES INAPPROPRIATELY CAUSING TOTAL LACK OF BRAKING POWER.  THE ABS CONTROL UNIT DOES NOT RECORD AN   ERROR CODE SO MY MECHANIC CANNOT FIND A CAUSE.  I HAVE HAD TO REMOVE THE ABS   FUSE IN ORDER TO HAVE TRUSTWORTHY BRAKES.",
+        "vin": "1FBJS31S1VH"
+    }
+]

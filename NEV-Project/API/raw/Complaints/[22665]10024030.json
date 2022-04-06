@@ -1,0 +1,31 @@
+[
+    {
+        "components": "CHILD SEAT",
+        "crash": false,
+        "dateComplaintFiled": "06/13/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "UNKNOWN MANUFACTURER",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10024030,
+        "products": [
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN1",
+                "productYear": "9999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "COSCO, INC.",
+                "productMake": "COSCO",
+                "productModel": "COSCO 13-168",
+                "productYear": "9999",
+                "type": "Child Seat"
+            }
+        ],
+        "summary": "COSCO MODEL # 22-260 DOM 01/13/2003. CHILD SEAT HARNESS WILL NOT STAY STATIONARY ON THE CHILD'S CHEST.  THEREFORE, CHILD IS IMPROPERLY RESTRAINED. CHILD IS GETTING OUT OF THE SEAT WHILE VEHICLE IS BEING DRIVEN. *AK",
+        "vin": ""
+    }
+]

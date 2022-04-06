@@ -1,0 +1,31 @@
+[
+    {
+        "components": "STEERING,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "03/25/2005",
+        "dateOfIncident": "03/24/2005",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10114714,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "MALIBU MAXX",
+                "productYear": "2004",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "GM PRODUCTS DIV. GM CORP.",
+                "productMake": "GM PRODUCTS",
+                "productModel": "GM PRODUCTS",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "OCCURENCE #1:  WITH LESS THAN 2000 MI ON VEHICLE, IT LOST POWER STEERING WHILE DRIVING.  THE MESSAGE CAME ON THE CONSOLE.  TOWED TO DEALER WHO REPLACED STEERING COLUMN.  OCCURRENCE #2:  WITH APPROX. 5000 MI ON VEHICLE LOST POWER STEERING WHEN IN REVERSE EXITING PARKING SPACE.  DASH LIGHT WENT ON AS WELL AS CONSOLE MESSAGE.  TOWED TO DEALER.  *AK",
+        "vin": "1G1ZT62854F"
+    }
+]

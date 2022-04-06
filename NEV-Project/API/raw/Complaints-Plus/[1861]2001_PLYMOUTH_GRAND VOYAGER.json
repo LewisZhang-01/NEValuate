@@ -1,0 +1,54 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "12/17/2007",
+        "dateOfIncident": "12/16/2007",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10212131,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "PLYMOUTH",
+                "productModel": "GRAND VOYAGER",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Cooper Tire & Rubber Co.",
+                "productMake": "COOPER",
+                "productModel": "LIFELINER TOURING SLE (T-RATED)",
+                "productYear": "9999",
+                "size": "205/55R15",
+                "type": "Tire"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 2001 PLYMOUTH GRAND VOYAGER.  THE VEHICLE HAS COOPER LIFELINER TOURING SLE T-RATED, SIZE 20570R15 TIRES.  WHILE DRIVING 65 MPH, THE DRIVER SIDE REAR TIRE TREAD SEPARATED AND WRAPPED AROUND THE WHEEL.  THE CONTACT WAS ABLE TO REPLACE THE TIRE WITH THE SPARE AND DRIVE TO HER RESIDENCE.  THE CURRENT MILEAGE WAS 66,338 AND FAILURE MILEAGE WAS 59,395.",
+        "vin": "1P4GP44G0YB"
+    },
+    {
+        "components": "SUSPENSION,SERVICE BRAKES, HYDRAULIC,FUEL SYSTEM, GASOLINE,POWER TRAIN,ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "04/05/2002",
+        "dateOfIncident": "08/23/2000",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 760304,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "PLYMOUTH",
+                "productModel": "GRAND VOYAGER",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TRANSMISSION-VEHICLE WOULD SHIFT OUT OF GEAR WHEN DRIVING.DEALERSHIP FOUND LEAK FROM THE FUEL PUMP.IT WAS ALSO LEAKING 2-4PISTON SEAL. BRAKES-ARE CONTINUAL GRINDING AND SQUEAKING.  REPLACES PADS AND SHOES ON FRONT AND BACK. THEY STILL GRIND. BATTERY HAD A SHORT. IT WAS REPLACED. TIRES WERE SEPERATING CAUSING VIBRATION WITH THE STEERING. SUSPENSION-KNOCKING NOISE FROM UNDER THE DRIVERS SIDE.  REPLACED SWAY BAR LINK NUTS.  IT STILL MAKES THE KNOCKING SOUND.THIS VEHICLE HAS CONTINUAL PROBLEMS AND WE ARE UNSURE ABOUT THE SAFETY OF THE VEHICLE FOR OUR FAMILY.  *AK",
+        "vin": "2C4GJ2438YR"
+    }
+]

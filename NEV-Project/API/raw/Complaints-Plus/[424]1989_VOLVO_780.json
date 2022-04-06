@@ -1,0 +1,90 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "10/13/1999",
+        "dateOfIncident": "10/13/1999",
+        "fire": false,
+        "manufacturer": "Volvo Car USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 850602,
+        "products": [
+            {
+                "manufacturer": "Volvo Car USA, LLC",
+                "productMake": "VOLVO",
+                "productModel": "780",
+                "productYear": "1989",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SEATS ARE OVERHEATING,  AND CONSUMER IS NOT ABLE TO TURN THEM OFF.  *AK",
+        "vin": "YV1HA6924KD"
+    },
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": true,
+        "dateComplaintFiled": "04/08/1996",
+        "dateOfIncident": "04/05/1996",
+        "fire": false,
+        "manufacturer": "Volvo Car USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 982424,
+        "products": [
+            {
+                "manufacturer": "Volvo Car USA, LLC",
+                "productMake": "VOLVO",
+                "productModel": "780",
+                "productYear": "1989",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SUDDEN ACCELERATION CAUSED THE CONSUMER TO RUN INTO A GATE.  *AK",
+        "vin": ""
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "05/15/1995",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Volvo Car USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 965411,
+        "products": [
+            {
+                "manufacturer": "Volvo Car USA, LLC",
+                "productMake": "VOLVO",
+                "productModel": "780",
+                "productYear": "1989",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE ENGINE GASKET COVER VALVE LEAK ABOUT FOUR WITHIN 16 MONTH HAD THE MASTER CYLINDER REPLACE TWICE WITHIN FOUR MONTH HAS ABS ANTI-LOCK BRAKE.  TT",
+        "vin": "YV1HA6925KD"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "05/15/1995",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Volvo Car USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 965411,
+        "products": [
+            {
+                "manufacturer": "Volvo Car USA, LLC",
+                "productMake": "VOLVO",
+                "productModel": "780",
+                "productYear": "1989",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE ENGINE GASKET COVER VALVE LEAK ABOUT FOUR WITHIN 16 MONTH HAD THE MASTER CYLINDER REPLACE TWICE WITHIN FOUR MONTH HAS ABS ANTI-LOCK BRAKE.  TT",
+        "vin": "YV1HA6925KD"
+    }
+]

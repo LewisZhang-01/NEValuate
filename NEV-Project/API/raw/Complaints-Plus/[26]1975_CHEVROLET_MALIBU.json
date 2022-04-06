@@ -1,0 +1,46 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "08/31/2000",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 554229,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "MALIBU",
+                "productYear": "1975",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FIRESTONE TIRE BEGAN SEPARATING WHILE DRIVING CAUSING NOISE.  NLM",
+        "vin": ""
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "06/10/1996",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 985517,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "MALIBU",
+                "productYear": "1975",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE PARKED FOR ABOUT 1 1/2 HRS AUTOMOBILE BEGAN TO BURN.    *AK",
+        "vin": ""
+    }
+]

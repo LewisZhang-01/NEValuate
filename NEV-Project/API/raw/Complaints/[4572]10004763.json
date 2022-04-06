@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/27/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004763,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CADILLAC",
+                "productModel": "DEVILLE",
+                "productYear": "1997",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "MICHELIN TIRE CORP.",
+                "productMake": "MICHELIN",
+                "productModel": "MICHELIN",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHILE DRIVING  VEHICLE WILL VIBRATE. DEALERSHIP INDICATED THAT THIS WAS CAUSED BY ALL FOUR TIRES BEING OUT OF ROUND. THEY HAD HIGH SPOTS IN THEM. THESE ARE 70,000 MILE TIRES. NOT ORIGINAL EQUIPMENT.*AK",
+        "vin": ""
+    }
+]

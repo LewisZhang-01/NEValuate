@@ -1,0 +1,76 @@
+[
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "11/23/2016",
+        "dateOfIncident": "11/21/2016",
+        "fire": true,
+        "manufacturer": "Forest River, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10927733,
+        "products": [
+            {
+                "manufacturer": "Forest River, Inc.",
+                "productMake": "FOREST RIVER",
+                "productModel": "GEORGETOWN",
+                "productYear": "2007",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "MY GEORGETOWN R26 BRAKE ARE STOCK I CAN'T MOVED FORWARD AND BACK.",
+        "vin": "5B4MGF7G873"
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "04/23/2012",
+        "dateOfIncident": "03/31/2012",
+        "fire": false,
+        "manufacturer": "Forest River, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10456157,
+        "products": [
+            {
+                "manufacturer": "Forest River, Inc.",
+                "productMake": "FOREST RIVER",
+                "productModel": "GEORGETOWN",
+                "productYear": "2007",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Michelin North America, Inc.",
+                "productMake": "MICHELIN",
+                "productModel": "XRV",
+                "productYear": "9999",
+                "size": "P255/80R22.5",
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE VEHICLE IS A CLASS A MOTOR HOME ON A FORD F53 CHASSIS, WE WERE TRAVELING NORTH ON I75 IN OHIO AT EXIT 110 WHEN WE SUFFERED A SIDE WALL BLOWOUT. THE TIRE IS A MICHELIN 235/80R22.5 XRV, DOT B6BJBVJX2206, TIRE PRESSURE WAS 100 PSI, MILEAGE 30673, THE TIRE WAS LOCATED ON THE LEFT REAR INSIDE POSITION. THERE WERE NO ROAD HAZARD MARKS ON THE TIRE OR ON THE OUTSIDE TIRE MOUNTED NEXT TO IT. THE SERVICE TECHNICIAN INDICATED THE NATURE OF THE BLOWOUT WAS UNUSUAL. THE RECENT ANNOUNCEMENT OF THE MICHELIN BUS TIRE RECALL DUE TO SIDE WALL DEFECTS PROMPTED ME TO REPORT THIS INCIDENT. PHOTOS AND SUPPORTING INFORMATION IS AVAILABLE.  *TR",
+        "vin": "1F6NF53Y860"
+    },
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "10/20/2011",
+        "dateOfIncident": "03/27/2008",
+        "fire": false,
+        "manufacturer": "Forest River, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10432226,
+        "products": [
+            {
+                "manufacturer": "Forest River, Inc.",
+                "productMake": "FOREST RIVER",
+                "productModel": "GEORGETOWN",
+                "productYear": "2007",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2007 FOREST RIVER GEORGETOWN RV. THE CONTACT STATED THAT THE STEERING WHEEL WOULD PULL TO THE RIGHT WHILE DRIVING AT ANY SPEED. THE VEHICLE WAS NOT TAKEN TO THE DEALER TO BE DIAGNOSED OR REPAIRED. THE FAILURE MILEAGE WAS 473 AND THE CURRENT MILEAGE WAS 4,340.",
+        "vin": "1F6NF53Y860"
+    }
+]

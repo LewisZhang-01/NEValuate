@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "01/08/2003",
+        "dateOfIncident": "12/31/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000793,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "OLDSMOBILE",
+                "productModel": "INTRIGUE",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE HAS BEEN HAVING REGULAR ENGINE FAILURES WITHOUT WARNING, WHICH RESULTS IN THE ENGINE ENTIRELY SHUTTING DOWN.  OCCURS DURING VARIOUS DRIVING CONDITIONS, INCLUDING AT HIGHWAY SPEEDS.  FAILURE RESULTS IN A LOSS OF POWER STEERING, POWER BRAKES, AND OVERALL ABILITY TO SAFELY CONTROL VEHICLE.   DEALER STATES GM INDICATES PROBLEM IS RESULT OF FAULTY IGNITION SWITCH.",
+        "vin": "1G3WS52K7WF"
+    }
+]

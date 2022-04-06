@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "01/03/2010",
+        "dateOfIncident": "12/20/2009",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10297914,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "WINDSTAR",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FRONT END COLLISION WITH A TREE-CAR WAS A TOTAL LOSS WITH SEVERE DAMAGE TO ENTIRE FRONT END-DEAD CENTER HIT WITH TREE OFF ICY ROADWAY AIR BAGS DID NOT DEPLOY. *TR",
+        "vin": "2FMZA52482B"
+    }
+]

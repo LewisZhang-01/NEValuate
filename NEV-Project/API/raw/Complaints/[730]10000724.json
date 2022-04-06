@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "01/04/2003",
+        "dateOfIncident": "12/30/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10000724,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "1500",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE STOPPED IN MY 1995 CHEVROLET SILVERADO 4 WHEEL DRIVE PICKUP (SHORT BED, STEP SIDE) I WAS RE-ENDED BY AN SUV (PATHFINDER) DOING APPROXIMATELY 45MPH.  THE TRUCK BED CRASHED INTO THE CAB AND AND DENTED IT. THE DRIVER SEAT BROKE, FRAME BENT, ETC.  THE AIRBAG DID NOT DEPLOY.",
+        "vin": "2GCEK19K9S1"
+    }
+]

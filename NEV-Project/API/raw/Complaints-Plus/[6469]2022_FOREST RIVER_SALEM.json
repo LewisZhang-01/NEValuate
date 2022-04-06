@@ -1,0 +1,31 @@
+[
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "10/19/2021",
+        "dateOfIncident": "10/02/2021",
+        "fire": false,
+        "manufacturer": "Forest River, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11437393,
+        "products": [
+            {
+                "manufacturer": "Forest River, Inc.",
+                "productMake": "FOREST RIVER",
+                "productModel": "SALEM",
+                "productYear": "2022",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Lippert",
+                "productMake": "LIPPERT",
+                "productModel": "POWER TONGUE JACK",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "The contact owns a 2022 Forest River Salem Trailer equipped with a Tongue Jack. The contact stated as he was cranking on the tongue jack, the jack failed and dropped 9 inches, causing the front of the trailer to collapse as well. The contact stated that the name of the manufacturer of the tongue jack was not available. Additionally, the model name and serial number were also not available. The dealer and the manufacturer were not made aware of the failure. The contact stated that he replaced the defective tongue jack with a new tongue jack that he purchased from the store. The tongue jack was not diagnosed nor repaired. The approximate failure mileage was 2,000.",
+        "vin": "5ZT2SMGC3NG"
+    }
+]

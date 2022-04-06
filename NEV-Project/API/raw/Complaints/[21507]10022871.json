@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "06/11/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022871,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "TOWN CAR",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE IN PARK THE SPEEDOMETER AND MILEAGE GO UP WHEN THE ACCELERATOR PEDAL IS DEPRESSED. *AK",
+        "vin": "1LNLM82W5TY"
+    }
+]

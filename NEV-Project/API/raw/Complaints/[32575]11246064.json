@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "08/23/2019",
+        "dateOfIncident": "01/01/2019",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11246064,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TRANSMISSION SLIPS IN 1ST AND 2ND GEAR, SOMETIMES SO BAD THAT ACCELERATION IS LAGGING.  DANGEROUS IN TRAFFIC.",
+        "vin": "1FADP3K25EL"
+    }
+]

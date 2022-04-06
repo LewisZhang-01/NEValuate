@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "04/04/2006",
+        "dateOfIncident": "04/04/2006",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10154514,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "4 RUNNER",
+                "productYear": "2003",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "DUNLOP TIRE CORPORATION",
+                "productMake": "DUNLOP",
+                "productModel": "GRAND TREK",
+                "productYear": "1997",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "30 MONTH OLD 2003 TOYOTA 4 RUNNER SPORT.  WENT TO USE SPARE TIRE FOR THE FIRST TIME BUT FOUND PLACES ON THE SIDEWALL WHERE THE RUBBER APPEARS TO BE MELTED.  THE MARKS LOOK LIKE THEY CORRESPOND TO THE PLACES WHERE THE SPARE TIRE TOUCHES THE UNDERCARRIAGE OF THE VEHICLE WHEN THE SPARE TIRE IS STORED.  IT LOOKS TO ME (AS A LAYMAN) THAT THE DAMAGE IS SIGNIFICANT ENOUGH THAT IT COMPROMISES THE SAFETY OF THE TIRE.   *JB",
+        "vin": ""
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "03/11/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009446,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO 1500",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "IN A FRONTAL CRASH, THE AIR BAGS FAILED TO DEPLOY, WHICH RESULTED IN EXTENSIVE DAMAGE TO VEHICLE.*AK  *JB",
+        "vin": "1GCEC14W9YZ"
+    }
+]

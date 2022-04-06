@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/17/2003",
+        "dateOfIncident": "01/01/2003",
+        "fire": false,
+        "manufacturer": "UNKNOWN MANUFACTURER",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004134,
+        "products": [
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE STEEL PROD. CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "FIRESTONE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "JOSEPH LISONI (CA) REGARDING HIS INTENSION  TO COOPERATE WITH  NHTSA BY PROVIDING REQUESTED INFORMATION TO RE-OPEN NHTSA INVESTIGATION INTO THE FIRESTONE STELLTEX TIRES. *JB",
+        "vin": ""
+    }
+]

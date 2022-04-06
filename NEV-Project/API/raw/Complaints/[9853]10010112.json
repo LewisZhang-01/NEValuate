@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "03/07/2003",
+        "dateOfIncident": "02/27/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010112,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERCURY",
+                "productModel": "TRACER",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE WARNING INDICATOR INTERMITTENTLY FLASHES 5 TIMES PAUSE 1 TIME AND THEN REPEATS.*JB",
+        "vin": "3MARM15J8RR"
+    }
+]

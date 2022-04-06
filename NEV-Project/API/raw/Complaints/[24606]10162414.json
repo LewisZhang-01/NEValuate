@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "07/14/2006",
+        "dateOfIncident": "07/03/2006",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10162414,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "ESCAPE HEV",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NORMAL CITY DRIVING INITIATED FAILURE OF BRAKES TO HAVE PRESSURE. IMMEDIATELY BRAKE AND ABS LIGHTS ILLUMINATED. BRAKES MAY BE APPLIED, BUT RELEASE AFTER APPLICATION. INITIALLY, WHEN BROUGHT INTO FORD DEALERSHIP 11 DAYS AGO, PROBLEM WAS DIAGNOSED TO BE ELECTRONIC, BUT AFTER REPLACEMENT OF ELECTRONIC CONTROL SYSTEM FOR BRAKES, THE PRESSURE FAILS TO RESUME.  *JB",
+        "vin": "1FMCU95H16K"
+    }
+]

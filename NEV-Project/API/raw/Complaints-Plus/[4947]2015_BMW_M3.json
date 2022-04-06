@@ -1,0 +1,46 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "07/28/2020",
+        "dateOfIncident": "07/28/2020",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11341883,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "M3",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "REAR VIEW CAMERA STOPPED WORKING, SCREEN DISPLAYS \"NO SIGNAL\". FUSE DID NOT BLOW.",
+        "vin": "WBS3C9C5XFP"
+    },
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "12/18/2019",
+        "dateOfIncident": "12/13/2019",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11289890,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "M3",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CRANK HUB SPUN TIMING SPROCKET CAUSING VALVES TO IMPACT PISTON AND CATASTROPHIC ENGINE FAILURE. QUOTED MORE THAN $10K OUT OF POCKET TO REPAIR. THIS IS CAUSED DUE TO POOR CRANK HUB DESIGN. CAR COMPANIES HAVE BEEN USING KEYED CRANKHUBS FOR GENERATIONS BUT BMW DECIDED TO NOT USED A KEYED HUB.. THIS IS VERY NEGLIGENT CONSIDERING HOW MANY OF THESE VEHICLES HAVE ENGINE FAILURE DUE TO THIS.",
+        "vin": "WBS3C9C57FJ"
+    }
+]

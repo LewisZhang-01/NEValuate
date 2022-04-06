@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "05/27/2003",
+        "dateOfIncident": "05/22/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020598,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERCURY",
+                "productModel": "MOUNTAINEER",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENGAGING THE LEFT TURN SIGNAL CAUSES SMOKE TO BE EMITTED FROM THE EMERGENCY FLASHER SWITCH HOUSING ON TOP OF THE STEERING COLUMN.    *TT",
+        "vin": "4M2DU76E3YU"
+    }
+]

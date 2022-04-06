@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, AIR",
+        "crash": false,
+        "dateComplaintFiled": "02/10/2003",
+        "dateOfIncident": "01/01/2003",
+        "fire": false,
+        "manufacturer": "Mazda Motor Corp.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10006910,
+        "products": [
+            {
+                "manufacturer": "Mazda Motor Corp.",
+                "productMake": "MAZDA",
+                "productModel": "PROTEGE",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE DISC BRAKE DID NOT HOLD, WHEN IT WAS APPLIED.*JB",
+        "vin": "JM1BJ226021"
+    }
+]

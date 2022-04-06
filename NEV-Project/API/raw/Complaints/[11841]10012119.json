@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "03/19/2003",
+        "dateOfIncident": "03/19/2003",
+        "fire": false,
+        "manufacturer": "Mazda Motor Corp.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10012119,
+        "products": [
+            {
+                "manufacturer": "Mazda Motor Corp.",
+                "productMake": "MAZDA",
+                "productModel": "MPV",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE WAS INVOLVED IN A COLLISION, AND THE AIR BAGS FAILED TO DEPLOY.          *JB",
+        "vin": "PROVIDE"
+    }
+]

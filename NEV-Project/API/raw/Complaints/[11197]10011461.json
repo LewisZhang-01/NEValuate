@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "03/26/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10011461,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "IMPALA",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "GLARE INSIDE WINDSHIELD.",
+        "vin": "2G1WH55K229"
+    }
+]

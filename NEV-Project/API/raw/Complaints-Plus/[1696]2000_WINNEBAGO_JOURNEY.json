@@ -1,0 +1,92 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "05/06/2005",
+        "dateOfIncident": "05/01/2005",
+        "fire": false,
+        "manufacturer": "Winnebago Industries, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10120442,
+        "products": [
+            {
+                "manufacturer": "Winnebago Industries, Inc.",
+                "productMake": "WINNEBAGO",
+                "productModel": "JOURNEY",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Michelin North America, Inc.",
+                "productMake": "MICHELIN",
+                "productModel": "XRV",
+                "productYear": "9999",
+                "size": "235/80R22",
+                "type": "Tire"
+            }
+        ],
+        "summary": "CONSUMER EXPERIENCED FOUR TIRE FAILURES WITH MICHELIN TIRE EQUIPMENT ON THE 2000 WINNEBAGO JOURNEY.*MR  CONSUMER WAS TOLD BY THE DEALER THAT THEY STILL HAD 80% OF TREAD LEFT ON THE TIRES.   *BF",
+        "vin": ""
+    },
+    {
+        "components": "STRUCTURE,TIRES",
+        "crash": false,
+        "dateComplaintFiled": "09/21/2003",
+        "dateOfIncident": "06/17/2003",
+        "fire": false,
+        "manufacturer": "Winnebago Industries, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10039252,
+        "products": [
+            {
+                "manufacturer": "Winnebago Industries, Inc.",
+                "productMake": "WINNEBAGO",
+                "productModel": "JOURNEY",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "MICHELIN TIRE CORP.",
+                "productMake": "MICHELIN",
+                "productModel": "X TIRE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "FRAME MOUNTS UNDER REAR WHEEL WELLS ON 2000 WINNEBAGO JOURNEY FAILED DUE TO FAULTY WELDING; NOTICED PROBLEM WHEN METAL IN WHEEL WELLS STARTED COLLAPSING; THESE WELDS JOIN THE CHASSIS TO FRAME OF RV; HAVE NO REAL INDICATION OF WHEN WELDS FAILED BUT HAS BEEN SEVERAL MONTHS; BECAUSE OF FAULTY WELDS, LOTS OF SHIFTING AND SAGGING IN BACK OF RV ALSO CAUSING POSSIBLE FIRE HAZARD AND HAS FALLEN ON AIR LINES.  *JB",
+        "vin": "4UZ6XFBC0YC"
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "09/21/2003",
+        "dateOfIncident": "09/16/2002",
+        "fire": false,
+        "manufacturer": "Winnebago Industries, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10039253,
+        "products": [
+            {
+                "manufacturer": "Winnebago Industries, Inc.",
+                "productMake": "WINNEBAGO",
+                "productModel": "JOURNEY",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "MICHELIN TIRE CORP.",
+                "productMake": "MICHELIN",
+                "productModel": "X TIRE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "PASSENGER FRONT TIRE BLEW OUT AT AROUND 20,000 MILES ON ODOMETER; SECOND DRIVER SIDE TIRE FOUND TO HAVE BUBBLE ON INSIDE SIDEWALL AROUND 25,000 MILES ON ODOMETER; SECOND TIRE TAKEN TO MICHELIN DEALER WHOM STATED THAT TIRE APPEARED TO BE AFFECTED BY IMPACT AND NOT COVERED BY WARRANTY; TIRES HAVE ONLY BEEN IMPACTED BY NORMAL POTHOLES, ETC; TALKED TO SEVERAL FOLKS INCLUDING CHASSIS MANUFACTURER (FREIGHTLINER) AND FOUND THAT SIDEWALLS VERY THIN ON XRV TIRES AND FREQUENTLY EXPERIENCE BLOWOUTS; ALSO FOUND SEVERAL OTHER COMPLAINTS ON INTERNET OF FOLKS EXPERIENCING BLOWOUTS AT SIMILAR MILEAGE; HAVE SINCE REPLACED TIRES WITH XVE SINCE THESE ARE MUCH THICKER SIDEWALLS AND HAVE LONGER WEAR.*JB",
+        "vin": "4UZ6XFBC0YC"
+    }
+]

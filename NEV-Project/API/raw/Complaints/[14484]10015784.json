@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "04/14/2003",
+        "dateOfIncident": "04/15/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015784,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "MINI RAM VAN",
+                "productYear": "1984",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "GENERAL TIRE & RUBBER CO.",
+                "productMake": "GENERAL",
+                "productModel": "STEEL BELTED RADIAL TI",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHILE TRAVELING AT HIGHWAY SPEED, THE TIRE EXPLODED.*JB",
+        "vin": "2B6HB21YXRK"
+    }
+]

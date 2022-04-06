@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "05/01/2003",
+        "dateOfIncident": "04/28/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017964,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "MALIBU",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING THE AIR BAG DEPLOYED ALTHOUGH THERE WAS NO IMPACT.  *NLM",
+        "vin": "PLEASE FILL"
+    }
+]

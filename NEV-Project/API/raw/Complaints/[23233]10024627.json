@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "06/20/2003",
+        "dateOfIncident": "11/01/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10024627,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "MALIBU",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE STALLS INTERMITTENTLY WHILE DRIVING.  BELIEVES PROBLEM IS DUE TO FUEL FILLER RECALL 99V302000, BUT CONSUMER'S  VEHICLE NOT INCLUDED DUE TO VIN. *AK",
+        "vin": ""
+    }
+]

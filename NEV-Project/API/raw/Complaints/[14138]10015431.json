@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "04/08/2003",
+        "dateOfIncident": "03/01/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015431,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "LUMINA",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE PASSENGER SEAT BELT FAILED TO ENGAGE BECAUSE THE SEAT BELT LATCH FAILED.  *JB...*AK",
+        "vin": "2G1WN52K5W9"
+    }
+]

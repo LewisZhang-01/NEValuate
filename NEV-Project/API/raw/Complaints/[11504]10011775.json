@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, DIESEL",
+        "crash": false,
+        "dateComplaintFiled": "04/02/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10011775,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "T100",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE TRUCK FRAME RUBBED A HOLE ON THE FUEL TANK.    *PH   *NLM",
+        "vin": "JT4UD10D1S0"
+    }
+]

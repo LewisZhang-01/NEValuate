@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "04/29/2003",
+        "dateOfIncident": "08/07/2001",
+        "fire": false,
+        "manufacturer": "Volvo Trucks North America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10016705,
+        "products": [
+            {
+                "manufacturer": "Volvo Trucks North America",
+                "productMake": "VOLVO",
+                "productModel": "VOLVO TRUCK",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SEVERE VIBRATION DRIVELINE.            *JB",
+        "vin": "4V4NC9RJ01N"
+    }
+]

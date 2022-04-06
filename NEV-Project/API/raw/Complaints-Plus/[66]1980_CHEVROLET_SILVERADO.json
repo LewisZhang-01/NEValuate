@@ -1,0 +1,46 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "01/03/2001",
+        "dateOfIncident": "11/21/2000",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 558735,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO",
+                "productYear": "1980",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "4 DAYS AFTER REPAIR OF THE SHIFT LEVER THE VEHICLE SUDDENLY LOST POWER.  NLM",
+        "vin": ""
+    },
+    {
+        "components": "TIRES",
+        "crash": true,
+        "dateComplaintFiled": "12/27/2000",
+        "dateOfIncident": "08/10/2000",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 877104,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO",
+                "productYear": "1980",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FIRESTONE 480 TIRE P235/75R15 EXPERIENCED TREAD SEPARATION WHILE DRIVING, CAUSING VEHICLE TO HIT A GUARDRAIL WITH DAMAGE TO THE UNDER CARRIAGE AND FRONT BUMPER, ONE PERSONE WAS INJURED IN ACCIDENT, THERE WAS A  2ND TREAD SEPARATION WITH THE SAME TIRE, FIRESTONE REFUSES TO SEND 1ST TIRE BACK.   *SLC",
+        "vin": "1GCDC14Z3BS"
+    }
+]

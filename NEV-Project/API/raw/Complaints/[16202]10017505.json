@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "04/24/2003",
+        "dateOfIncident": "04/23/2003",
+        "fire": false,
+        "manufacturer": "Volvo Car USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017505,
+        "products": [
+            {
+                "manufacturer": "Volvo Car USA, LLC",
+                "productMake": "VOLVO",
+                "productModel": "850",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE GAS TANK LEAKED.                *JB",
+        "vin": "YV1LW5717R2"
+    }
+]

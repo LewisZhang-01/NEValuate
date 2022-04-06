@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "12/23/2018",
+        "dateOfIncident": "12/21/2018",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11163214,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE AT HWY SPEED, AUTOMATIC TRANSMISSION WENT FROM 6TH GEAR TO 1ST GEAR.  WHILE STATIONARY GOING TO ACCELERATE, VEHICLE STARTED IN 4TH.  VEHICLE IS 2013 FORD F-150.  2011 AND 2012 FORD F-150 PICKUP TRUCKS WERE RECALLED FOR SAME ISSUE.  DEALERSHIP\"... FOUND FAULT WITH OUTPUT SHAFT SPEED SENSOR SIGNAL.  CAUSING TRANSMISSION TO INTO LIMP MODE DUE NOT READING THE CORRECT SPEED.  TO CORRECT ISSUE REMOVED TRANSMISSION FLUID PAN AND REMOVED MAIN CONTROL VALVE BODY AND REPLACED MOLDED LEAD FRAME CONTAINING SPEED SENSOR.  ALSO SET PCM/TCM TO LATEST CALIBRATION AND CLEARED DTC'S POST ROAD TEST.\"",
+        "vin": "1FTFW1CT7DK"
+    }
+]

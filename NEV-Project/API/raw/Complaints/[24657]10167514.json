@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC,VEHICLE SPEED CONTROL",
+        "crash": true,
+        "dateComplaintFiled": "09/06/2006",
+        "dateOfIncident": "09/05/2006",
+        "fire": false,
+        "manufacturer": "Volvo Car USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10167514,
+        "products": [
+            {
+                "manufacturer": "Volvo Car USA, LLC",
+                "productMake": "VOLVO",
+                "productModel": "S60",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DT*: THE CONTACT STATED THE VEHICLE ACCELERATED ON ITS OWN AFTER REACHING 30 MPH AND CAUSED AN ACCIDENT.  THE CONTACT TRIED BRAKING, BUT THE BRAKES FAILED, DUE TO THE THROTTLE ISSUE.  THE VEHICLE WAS NOT TAKEN TO A SERVICE DEALER TO ADDRESS THE ISSUE.  A POLICE REPORT WAS TAKEN.",
+        "vin": "YV1RS61R912"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "01/25/2003",
+        "dateOfIncident": "10/07/2002",
+        "fire": false,
+        "manufacturer": "Suzuki Motor USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003402,
+        "products": [
+            {
+                "manufacturer": "Suzuki Motor USA, LLC",
+                "productMake": "SUZUKI",
+                "productModel": "GSX1300",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FALSE NEUTRAL WHEN SHIFTING BETWEEN 5TH AND 6TH GEAR",
+        "vin": ""
+    }
+]

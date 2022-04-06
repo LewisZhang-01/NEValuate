@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS,SERVICE BRAKES",
+        "crash": true,
+        "dateComplaintFiled": "02/15/2018",
+        "dateOfIncident": "02/14/2018",
+        "fire": false,
+        "manufacturer": "4-Star Trailers, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11073062,
+        "products": [
+            {
+                "manufacturer": "4-Star Trailers, Inc.",
+                "productMake": "4-STAR TRAILER",
+                "productModel": "STOCK GOOSENECK",
+                "productYear": "2010",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CANNOT STOP WITH BRAKE, BRAKE IS OUT OF ORDER",
+        "vin": "2010 VERSA"
+    }
+]

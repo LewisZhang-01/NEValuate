@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "03/03/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10007301,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "DAKOTA",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "RECALL REPAIRS OF FUEL TUBE. FUEL TUBE MISALIGNED DUE TO ISOLATOR CLIP NOT POSITIONED PROPERLY.  *AK  *JB",
+        "vin": "1B7GL23X8VS"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "03/21/2003",
+        "dateOfIncident": "03/21/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10012250,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "STRATUS",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING THE VEHICLE STARTED TO SWING FROM LEFT TO RIGHT.  *NLM",
+        "vin": "4B3AG52H21E"
+    }
+]

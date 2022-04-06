@@ -1,0 +1,354 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "02/26/2022",
+        "dateOfIncident": "12/15/2021",
+        "fire": false,
+        "manufacturer": "Bombardier Recreational Products, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11454204,
+        "products": [
+            {
+                "manufacturer": "Bombardier Recreational Products, Inc.",
+                "productMake": "CAN-AM",
+                "productModel": "RYKER",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Bearings in Pitmen Arm are failing. The Bearings are not pressed in and wear out quickly causing binding in the steering and triggering a VSS fault Code. Resulting in the vehicle going to Limp mode. I have seen many Can Am Rykers have this problem. Can Am refuses to Correct the problem. By the way my Ryker only has 1100 Miles on it and it's a 2019. Help before someone gets Killed.",
+        "vin": "3JB2FEG40KJ"
+    },
+    {
+        "components": "STEERING,WHEELS,SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "02/11/2022",
+        "dateOfIncident": "02/10/2022",
+        "fire": false,
+        "manufacturer": "Bombardier Recreational Products, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11451516,
+        "products": [
+            {
+                "manufacturer": "Bombardier Recreational Products, Inc.",
+                "productMake": "CAN-AM",
+                "productModel": "RYKER",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "When making left turns in curves the right wheel brakes automatically, caused me to run off the road, luckily I didn\u2019t get hurt",
+        "vin": "3JB2FEG43KJ"
+    },
+    {
+        "components": "STEERING,ELECTRICAL SYSTEM,VEHICLE SPEED CONTROL",
+        "crash": true,
+        "dateComplaintFiled": "09/16/2021",
+        "dateOfIncident": "09/11/2020",
+        "fire": false,
+        "manufacturer": "Bombardier Recreational Products, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 11433278,
+        "products": [
+            {
+                "manufacturer": "Bombardier Recreational Products, Inc.",
+                "productMake": "CAN-AM",
+                "productModel": "RYKER",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VSS code is triggered with three codes making the Ryker go into limp mode. It started happening when I was going around turns (left) then eventually it locked me out of full performance. YAW/SAS  C0063 and/or C0052 and *C006C) I hit a guard rail as it jolted me.  Turns out there are many that have had the same problem when noted threw BRP dealers. So this is a known problem with the pitman steering arm bushings. Mine is most defiantly loose.",
+        "vin": "3JB2GEG27KJ"
+    },
+    {
+        "components": "SUSPENSION,WHEELS,SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "09/10/2021",
+        "dateOfIncident": "09/04/2021",
+        "fire": false,
+        "manufacturer": "Bombardier Recreational Products, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11432530,
+        "products": [
+            {
+                "manufacturer": "Bombardier Recreational Products, Inc.",
+                "productMake": "CAN-AM",
+                "productModel": "RYKER",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The VSS Vehicle stability system on the right tire goes on at speeds of 30 MPH or more while making a sweeping left hand turn. Like on a canyon, highway or street. This causes the vehicle to apply brake pressure only to the the right tire and then pulls the vehicle further to the right side while makeing a left turn. This can cause you to drift uncontrollably into the right hand lane, or into a gaurd rail or into another moving vehicle. This has happened numerous times. This is also related the the back tire getting very wobbly at the same time and causes the Ryker to fishtail out of nowhere. I contacted BRP and they told.me they only had 10 or so complaints about this in their system and therefore no Recall. This seems impossible because as you will see from my photos there are many owners with documented proof and something that lots of Can-Am Ryker owners are complaining about. Sometimes the vehicle will shut down and go into limp mode while in motion because of it. There seems to be a TSB bulletin for a pitman arm fix out to the dealerships. However it's not a mandatory recall and if you are out of warranty (which is currently only 12 months) you are forced to pay for it yourself. The other fix is to reset the sensors, but from what I'm seeing it is only a temporary fix of maybe 4 days tops before the issue starts happening again. I'm worried for all Cn-Am Ryker owners, and wish BRP would issue a fix for this very dangerous issue.",
+        "vin": "3JB2FEG25KJ"
+    },
+    {
+        "components": "SUSPENSION,VEHICLE SPEED CONTROL,WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "09/10/2021",
+        "dateOfIncident": "09/01/2021",
+        "fire": false,
+        "manufacturer": "Bombardier Recreational Products, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11432532,
+        "products": [
+            {
+                "manufacturer": "Bombardier Recreational Products, Inc.",
+                "productMake": "CAN-AM",
+                "productModel": "RYKER",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Vehicle goes into VSS mode when making left hand turnes at speeds of 30 MPH or more. Also cause the vehicle to fishtail.  This cause the vehicle to swerve into the lane to the right while making the left turn. Breaking and shaking is automatically applied to the right tire while this is happening.",
+        "vin": "3JB2FEF27KJ"
+    },
+    {
+        "components": "WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "01/12/2021",
+        "dateOfIncident": "10/27/2020",
+        "fire": false,
+        "manufacturer": "Bombardier Recreational Products, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11387781,
+        "products": [
+            {
+                "manufacturer": "Bombardier Recreational Products, Inc.",
+                "productMake": "CAN-AM",
+                "productModel": "RYKER",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I RECEIVED A RECALL NOTICE ON MY VEHICLE IN OCTOBER. THE EMAIL SAYS MY VEHICLE IS UNUSABLE UNTIL THE REPAIRS ARE PERFORMED AND I SHOULD NOT DRIVE IT. SINCE THEN, I HAVE REACHED OUT TO THE MANUFACTURER THROUGH PHONE AND EMAIL 4 TIMES. I HAVE TRIED TO ACCOMMODATE THE REPAIR TO THE BEST OF MY ABILITY BUT THE AMOUNT OF MONEY REQUIRED TO HAVE THE REPAIRS PERFORMED IS BEYOND MY MEANS. ACCORDING TO THE EMAIL I WAS SENT, THE DEFECT CAN CAUSE THE WHEELS TO FALL OFF. THIS HAS LEFT ME WITHOUT THE VEHICLE TO DRIVE FOR MONTHS.",
+        "vin": "3JB2GEG41KJ"
+    },
+    {
+        "components": "WHEELS,SERVICE BRAKES,FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "08/31/2020",
+        "dateOfIncident": "06/06/2020",
+        "fire": false,
+        "manufacturer": "Bombardier Recreational Products, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11352404,
+        "products": [
+            {
+                "manufacturer": "Bombardier Recreational Products, Inc.",
+                "productMake": "CAN-AM",
+                "productModel": "RYKER",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SPITS GASOLINE AND CONTINUE TO READ FUEL FAULT! MY RIGHT WHEEL HAS BEEN MAKING A RATTLE NOISE SINCE THE RECALL INSTALL. BRAKES HAVE MADE NOISE SINCE PURCHASE",
+        "vin": "3JB2FEG20KJ"
+    },
+    {
+        "components": "EXTERIOR LIGHTING",
+        "crash": false,
+        "dateComplaintFiled": "06/17/2020",
+        "dateOfIncident": "05/17/2020",
+        "fire": false,
+        "manufacturer": "Bombardier Recreational Products, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11329313,
+        "products": [
+            {
+                "manufacturer": "Bombardier Recreational Products, Inc.",
+                "productMake": "CAN-AM",
+                "productModel": "RYKER",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2019 CAN-AM RYKER. THE CONTACT STATED THAT THE PASSENGER'S SIDE REAR BRAKE LIGHT WAS INOPERABLE. ADDITIONALLY, THE VEHICLE REAR TAILLIGHTS AND BOTH FRONT HEADLIGHTS HAD WATER INSIDE OF THE HOUSING. THE CONTACT CONTACTED POWER MOTORSPORTS LOCATED AT 333 SW SUBLIMITY BLVD, SUBLIMITY, OR 97385, (503) 769-8888) WHERE A PENDING APPOINTMENT WAS SCHEDULED. THE VEHICLE WAS NOT DIAGNOSED NOR REPAIRED. THE MANUFACTURER WAS NOT MADE AWARE OF THE FAILURE. THE APPROXIMATE FAILURE MILEAGE WAS 15,000.",
+        "vin": "3JB2FEG42KJ"
+    },
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "11/27/2019",
+        "dateOfIncident": "11/25/2019",
+        "fire": false,
+        "manufacturer": "Bombardier Recreational Products, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11282582,
+        "products": [
+            {
+                "manufacturer": "Bombardier Recreational Products, Inc.",
+                "productMake": "CAN-AM",
+                "productModel": "RYKER",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN DRIVING AROUND 55 MPH THE VEHICLE SEEMS TO WANT TO DRIFT FROM ONE SIDE TO ANOTHER WHILE ON THE HIGHWAY. I DO HAVE THE VEHICLE IN ECO MODE FOR BETTER FUEL CONSUMPTION AND BETTER TRACTION CONTROL.",
+        "vin": "3JB2FEG41KJ"
+    },
+    {
+        "components": "WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "10/04/2019",
+        "dateOfIncident": "10/02/2019",
+        "fire": false,
+        "manufacturer": "Bombardier Recreational Products, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11266090,
+        "products": [
+            {
+                "manufacturer": "Bombardier Recreational Products, Inc.",
+                "productMake": "CAN-AM",
+                "productModel": "RYKER",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ON SATURDAY (9/29/19) I NOTICED WHAT LOOKED LIKE A TINY SCRATCH ON THE WHEEL AXLE NUT OF THE LEFT, FRONT TIRE OF MY 2019 CAN-AM RYKER AFTER I WAS OUT RIDING FOR A FEW HOURS. I WASN'T REALLY ALARMED BUT PARKED IT IN MY GARAGE, AND WOUND UP NOT RIDING IT FOR THE NEXT FEW DAYS. THE FOLLOWING WEDNESDAY (10/02/19), I LOADED UP MY SADDLEBAG AND PERFORMED A PRE-CHECK JUST BEFORE I WAS HEADED OUT FOR A RIDE, AND NOTICED THAT THE SCRATCH HAD TURNED INTO A LARGE CRACK THAT WENT THROUGH THE WHOLE WHEEL NUT! IT WAS REALLY STRANGE BECAUSE I HADN'T RIDDEN IN A FEW DAYS SO I WASN'T SURE HOW THAT COULD'VE HAPPENED. NEEDLESS TO SAY, MY RIDING DAYS HAVE BEEN HALTED.",
+        "vin": "3JB2FEF28KJ"
+    },
+    {
+        "components": "WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "09/02/2019",
+        "dateOfIncident": "09/02/2019",
+        "fire": false,
+        "manufacturer": "Bombardier Recreational Products, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11252786,
+        "products": [
+            {
+                "manufacturer": "Bombardier Recreational Products, Inc.",
+                "productMake": "CAN-AM",
+                "productModel": "RYKER",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE LEFT FRONT WHEEL NUT IS CRACKED ALL THE WAY THRU .I FOUND THIS DURING A PRE-RIDE CHECK.I BEGAN CHECKING THEM EVER SINCE I SAW A POST ABOUT THIS ISSUE ON A FORUM.THIS IS OBVIOUSLY A HUGE SAFETY CONCERN CONSIDERING THIS NUT HOLDS THE WHEEL ON THE BIKE.",
+        "vin": "3JB2FEG49KJ"
+    },
+    {
+        "components": "WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "09/01/2019",
+        "dateOfIncident": "08/31/2019",
+        "fire": false,
+        "manufacturer": "Bombardier Recreational Products, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11252647,
+        "products": [
+            {
+                "manufacturer": "Bombardier Recreational Products, Inc.",
+                "productMake": "CAN-AM",
+                "productModel": "RYKER",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE NET THE HOLDS THE REAR WHEEL ON HAS CRACKED ALL THE WAY THROUGH. AFTER READING NUMEROUS COMPLAINTS ONLINE , I BEGAN CHECKING MINE EVERY TIME BEFORE I RODE. ON AUGUST 31ST 2019 WOW INSTALLING A DIFFERENT SEAT ON MY UNIT. I HAPPENED TO LOOK DOWN AND NOTICED THE CRACK IN THE WHEEL NUT. I TALK TO MYSELF I COULD HAVE BEEN KILLED IF I WENT IN WITHOUT WRITING TODAY THE WHEEL WOULD HAVE COME OFF. I IMMEDIATELY CALLED THE DEALER AND HAD THE TRANSPORTING BY FLATBED TRUCK TO THE NEAREST DEALER. I ALSO CONTACTED BRP BY EMAIL TO MAKE THEM AWARE OF THIS PROBLEM.",
+        "vin": "3JB2FEG28KJ"
+    },
+    {
+        "components": "WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "08/25/2019",
+        "dateOfIncident": "08/25/2019",
+        "fire": false,
+        "manufacturer": "Bombardier Recreational Products, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11246293,
+        "products": [
+            {
+                "manufacturer": "Bombardier Recreational Products, Inc.",
+                "productMake": "CAN-AM",
+                "productModel": "RYKER",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE NUT THAT HOLDS MY FRONT LEFT WHEEL ON IS CRACKED. MY BIKE ONLY HAS 1700 MILES ON IT. I NOTICED IT WHILE DOING A PRE CHECK.",
+        "vin": "3JB2GEG29KJ"
+    },
+    {
+        "components": "WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "08/15/2019",
+        "dateOfIncident": "08/15/2019",
+        "fire": false,
+        "manufacturer": "Bombardier Recreational Products, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11244179,
+        "products": [
+            {
+                "manufacturer": "Bombardier Recreational Products, Inc.",
+                "productMake": "CAN-AM",
+                "productModel": "RYKER",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I HAVE HAD MY 2019 RYKER SINCE EARLY JUNE. I HAVE HEARD ABOUT THE WHEEL LUG NUTS CRACKING AND NOW HAVE SEEN IT FIRST HAND ON MY REAR WHEEL. I HAVE LESS THAN 1000 MILES ON IT. MAJOR SAFETY ISSUE AND AS FAR AS I KNOW THEY AREN'T DOING ANYTHING TO FIX IT OTHER THAN REPLACING WITH SAME DEFECTIVE LUG NUT",
+        "vin": "3JB2FEG48KJ"
+    },
+    {
+        "components": "WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "08/15/2019",
+        "dateOfIncident": "08/11/2019",
+        "fire": false,
+        "manufacturer": "Bombardier Recreational Products, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11244244,
+        "products": [
+            {
+                "manufacturer": "Bombardier Recreational Products, Inc.",
+                "productMake": "CAN-AM",
+                "productModel": "RYKER",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2019 CAN-AM RYKER. BEFORE THE MOTORCYCLE WAS STARTED, THE CONTACT NOTICED THAT THE LUG NUT WAS FRACTURED. THE CONTACT STATED THAT THE MOTORCYCLE HAD ONLY ONE WHEEL IN THE REAR WITH A SINGLE NUT SYSTEM. THE MOTORCYCLE WAS TAKEN TO FREEDOM POWERSPORTS OF LEWISVILLE (1320 S STEMMONS FWY, LEWISVILLE, TX 75067) AND THEY OFFERED TO REPAIR IT UNDER WARRANTY. THE VEHICLE WAS NOT DIAGNOSED OR REPAIRED. THE MANUFACTURER WAS NOT NOTIFIED OF THE FAILURE. THE APPROXIMATE FAILURE MILEAGE WAS 3,197.",
+        "vin": "3JB2GEG45KJ"
+    },
+    {
+        "components": "WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "08/01/2019",
+        "dateOfIncident": "08/01/2019",
+        "fire": false,
+        "manufacturer": "Bombardier Recreational Products, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11241191,
+        "products": [
+            {
+                "manufacturer": "Bombardier Recreational Products, Inc.",
+                "productMake": "CAN-AM",
+                "productModel": "RYKER",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE NUT THAT HOLDS MY BACK WHEEL ON IS CRACKED. MY BIKE ONLY HAS 100 MILES ON IT. I NOTICED IT WHILE DOING A PRE CHECK.",
+        "vin": "3JB2FEG49KJ"
+    }
+]

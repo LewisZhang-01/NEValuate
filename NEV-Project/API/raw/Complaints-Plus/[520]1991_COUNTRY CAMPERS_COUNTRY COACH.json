@@ -1,0 +1,68 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "04/27/1995",
+        "dateOfIncident": "12/09/1994",
+        "fire": false,
+        "manufacturer": "COUNTRY CAMPERS, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 964456,
+        "products": [
+            {
+                "manufacturer": "COUNTRY CAMPERS, INC.",
+                "productMake": "COUNTRY CAMPERS",
+                "productModel": "COUNTRY COACH",
+                "productYear": "1991",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE GOVERNOR IN THE ENGINE FAILED DUE TO INADEQUATE LUBRICATION, RESULTING IN BRAKE FAILURE.  TT",
+        "vin": "46GED1515L1"
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "04/27/1995",
+        "dateOfIncident": "12/09/1994",
+        "fire": false,
+        "manufacturer": "COUNTRY CAMPERS, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 964456,
+        "products": [
+            {
+                "manufacturer": "COUNTRY CAMPERS, INC.",
+                "productMake": "COUNTRY CAMPERS",
+                "productModel": "COUNTRY COACH",
+                "productYear": "1991",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE LOST TRACTION, LANDED UP IN A DITCH.  *AK",
+        "vin": "46GED1515L1"
+    },
+    {
+        "components": "WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "11/18/1994",
+        "dateOfIncident": "10/17/1993",
+        "fire": false,
+        "manufacturer": "COUNTRY CAMPERS, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 476696,
+        "products": [
+            {
+                "manufacturer": "COUNTRY CAMPERS, INC.",
+                "productMake": "COUNTRY CAMPERS",
+                "productModel": "COUNTRY COACH",
+                "productYear": "1991",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "4 CRACKED RIMS, CAUSED 3 FLAT TIRES.  *SKD",
+        "vin": "1NFWR4038M0"
+    }
+]

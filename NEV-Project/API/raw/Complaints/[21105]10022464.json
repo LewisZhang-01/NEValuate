@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "06/05/2003",
+        "dateOfIncident": "05/24/2003",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022464,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "CIVIC",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE CONSUMER'S VEHICLE REAR ENDED ANOTHER MOTORIST, AND THE AIR BAGS FAILED TO DEPLOY.   *JB",
+        "vin": "1HGEM21591L"
+    }
+]

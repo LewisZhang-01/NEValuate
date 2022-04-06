@@ -1,0 +1,31 @@
+[
+    {
+        "components": "VEHICLE SPEED CONTROL,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "08/19/2004",
+        "dateOfIncident": "07/09/2004",
+        "fire": false,
+        "manufacturer": "UNKNOWN MANUFACTURER",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10088214,
+        "products": [
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "U-HAUL INTERNATIONAL",
+                "productMake": "U HAUL",
+                "productModel": "AUTO TRANSPORT",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "WE RENTED A TRUCK FROM U-HAUL ON 19TH AVE & BELL ROAD.  WE TRAVELED APPROX. 320 MILES ROUND TRIP BUT THE ODOMETER RECORDED 750 MILES.  I FILED A COMPLAINT WITH U-HAUL AND GOT NO COOPERATION.  I WAS CHARGED $600 FOR A $300 RENTAL.*AK",
+        "vin": ""
+    }
+]

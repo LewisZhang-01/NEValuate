@@ -1,0 +1,31 @@
+[
+    {
+        "components": "POWER TRAIN,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "01/14/2003",
+        "dateOfIncident": "12/05/2002",
+        "fire": false,
+        "manufacturer": "Mazda Motor Corp.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002669,
+        "products": [
+            {
+                "manufacturer": "Mazda Motor Corp.",
+                "productMake": "MAZDA",
+                "productModel": "626",
+                "productYear": "1998",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Mazda North American Operations",
+                "productMake": "MAZDA",
+                "productModel": "HOOD",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "THE TRANSMISSION ON MY MAZDA 626 1998 ES (V6) IS EXTREMELY DEFECTIVE.  I'M NOW ON MY THIRD TRANSMISSION AND HAVE SPENT CLOSE TO 1/2 THE VALUE OF THE CAR ITSELF.  BOTH TRANSMISSION FAULTED TO THE POINT WHERE I COULD NOT GO IN REVERSE.  IN ADDITION, MY GEARS STICK TO THE POINT WHERE IT MAKES THE CAR JERK.",
+        "vin": "1YVGF22D3W5"
+    }
+]

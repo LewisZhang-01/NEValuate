@@ -1,0 +1,31 @@
+[
+    {
+        "components": "CHILD SEAT",
+        "crash": false,
+        "dateComplaintFiled": "06/10/2003",
+        "dateOfIncident": "06/13/2003",
+        "fire": false,
+        "manufacturer": "UNKNOWN MANUFACTURER",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022766,
+        "products": [
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN1",
+                "productYear": "9999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "COSCO, INC.",
+                "productMake": "COSCO",
+                "productModel": "CHILD SAFETY SEAT",
+                "productYear": "9999",
+                "type": "Child Seat"
+            }
+        ],
+        "summary": "CONSUME COMPLAINED ABOUT AN EDDIE BOWER CAR SEAT MODEL 02-870EBG, DOM  05/04/2000.  LOCK THAT SECURES THE CHILD BROKE IN LITTLE PIECES. *AK",
+        "vin": ""
+    }
+]

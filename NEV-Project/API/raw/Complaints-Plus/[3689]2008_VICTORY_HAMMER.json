@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,POWER TRAIN,VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "07/13/2012",
+        "dateOfIncident": "07/04/2012",
+        "fire": false,
+        "manufacturer": "Polaris Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10465596,
+        "products": [
+            {
+                "manufacturer": "Polaris Inc.",
+                "productMake": "VICTORY",
+                "productModel": "HAMMER",
+                "productYear": "2008",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CLUTCH CABLE BROKE SHIFTING FROM FIRST GEAR TO SECOND GEAR.  *TR",
+        "vin": ""
+    }
+]

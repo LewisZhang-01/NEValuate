@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "01/23/2019",
+        "dateOfIncident": "01/01/2019",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11171614,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "CHEROKEE",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUEL LEVEL SENCOR CIRCUIT RANGE/PERFORMANCE IS NOT CORRECT. FUEL LEVEL DOES NOT GO DOWN UNTIL THE VEHICLE IS AT 1/3 OF GAS.",
+        "vin": "1C4PJLCS6FW"
+    }
+]

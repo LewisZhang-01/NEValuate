@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "05/16/2003",
+        "dateOfIncident": "03/17/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018823,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPEDITION",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "REAR WINDOW WIPER/WASHER FAILS TO WORK.  *NLM",
+        "vin": "1FMFU18L7YL"
+    }
+]

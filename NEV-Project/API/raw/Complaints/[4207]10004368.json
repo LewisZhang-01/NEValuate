@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "01/22/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004368,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "GMC TRUCK",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN DRIVING LESS THAN 200 MILES LEFT WINDOW REGULATOR WENT OUT CAUSING THE LEFT WINDOW TO NOT COME UP. PLEASE PROVIDE ANY ADDITIONAL INFORMATION. TS",
+        "vin": ""
+    }
+]

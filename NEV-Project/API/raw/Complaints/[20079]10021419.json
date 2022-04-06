@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "06/11/2003",
+        "dateOfIncident": "06/02/2003",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021419,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "ACCORD",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SRS LIGHT ILLUMINATES FOR NO APPARENT REASON.  HAS BEEN TRACED TO THE PASSENGER SEAT SENSOR.  DEALERS CLAIM THIS SRS COMPONENT NOT COVERED UNDER WARRANTY.  SRS SYSTEM IS DISABLED WHEN THE SRS LIGHT IS ILLUMINATED.  A SIMPLE RESET OF THE SRS SYSTEM DOES NOT PERMANENTLY FIX THE PROBLEM.  *AK",
+        "vin": "1HGCG1659YA"
+    }
+]

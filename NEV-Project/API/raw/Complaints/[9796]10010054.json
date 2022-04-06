@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "03/06/2003",
+        "dateOfIncident": "11/15/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010054,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPEDITION",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE REAR WINDOW SHATTERED WITHOUT WARNING.*JB",
+        "vin": "FULLFILL"
+    }
+]

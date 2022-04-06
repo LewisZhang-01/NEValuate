@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/04/2003",
+        "dateOfIncident": "05/27/2003",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022548,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "540I",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Bridgestone Americas Tire Operations",
+                "productMake": "BRIDGESTONE",
+                "productModel": "POTENZA",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "BRIDGESTONE TIRE EQUIPMENT UNRAVELED ON VEHICLE WHILE IN MOTION.  *MR  WHILE DRIVING DOWN EXPRESSWAY, THE CONSUMER HEARD A LOUD BANG, AND FOUND THAT THE INSIDE OF TIRE HAD GONE BALD AND PART OF THREAD HAD COME LOOSE.  *SCC   *JB",
+        "vin": "9999"
+    }
+]

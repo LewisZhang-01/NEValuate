@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION,SERVICE BRAKES, HYDRAULIC,VEHICLE SPEED CONTROL,TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/17/2003",
+        "dateOfIncident": "03/02/2000",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10023226,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SQUEAKING BRAKE, EXTREME WEAR AND TEAR OF FRONT TIRES, BACK TIRES WITH WEAR AND TEAR ISSUES, ALIGNMENT ISSUES ON FRONT TIRES AND CRUISE CONTROL ISSUES.  *JB",
+        "vin": ""
+    }
+]

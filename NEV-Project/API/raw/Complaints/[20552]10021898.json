@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/24/2003",
+        "dateOfIncident": "01/18/2003",
+        "fire": false,
+        "manufacturer": "Volvo Car USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021898,
+        "products": [
+            {
+                "manufacturer": "Volvo Car USA, LLC",
+                "productMake": "VOLVO",
+                "productModel": "S60",
+                "productYear": "2003",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Pirelli Tire, LLC",
+                "productMake": "PIRELLI",
+                "productModel": "TIRE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE SIDE WALLS WERE VERY WEAK, THE SLIGHTEST TOUCH/BRUSH CAUSED THEM TO GO FLAT. TIRES WERE REPLACED. THE REPLACEMENT TIRE HAD A BUBBLE. MODEL TYPE 4 SEASONS. *AK *TS    *JB",
+        "vin": "YV1RH59H532"
+    }
+]

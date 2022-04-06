@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "06/11/2019",
+        "dateOfIncident": "01/05/2019",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11219264,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "PILOT",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE IS IN MOTION ON HIGHWAY WHEN GETTING AIRBAG SYSTEM (SRS) PROBLEM.",
+        "vin": "5FNYF6H53GB"
+    }
+]

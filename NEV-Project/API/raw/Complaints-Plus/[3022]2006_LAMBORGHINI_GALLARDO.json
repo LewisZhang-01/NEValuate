@@ -1,0 +1,46 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "02/12/2008",
+        "dateOfIncident": "02/12/2008",
+        "fire": true,
+        "manufacturer": "Lamborghini (Automobili Lamborghini)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10220596,
+        "products": [
+            {
+                "manufacturer": "Lamborghini (Automobili Lamborghini)",
+                "productMake": "LAMBORGHINI",
+                "productModel": "GALLARDO",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENGINE COMPARTMENT FIRE WHILE VEHICLE WAS BEING REFUELED",
+        "vin": "ZHWGU12N96L"
+    },
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "01/10/2008",
+        "dateOfIncident": "01/07/2008",
+        "fire": true,
+        "manufacturer": "Lamborghini (Automobili Lamborghini)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10214443,
+        "products": [
+            {
+                "manufacturer": "Lamborghini (Automobili Lamborghini)",
+                "productMake": "LAMBORGHINI",
+                "productModel": "GALLARDO",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE CAUGHT FIRE WHILE REFUELING.  *TR",
+        "vin": "ZHWGU22T96L"
+    }
+]

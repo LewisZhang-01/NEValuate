@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "03/20/2003",
+        "dateOfIncident": "01/22/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010794,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "S PICKUP",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKE FAILURE DUE TO ENGINE STALLING AT LOW SPEED.  *JB",
+        "vin": ""
+    }
+]

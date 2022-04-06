@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "05/14/2003",
+        "dateOfIncident": "05/03/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018683,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "PARK AVENUE",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FAILURE OF GAS GAUGE.  *NLM",
+        "vin": "1G4CU5218V4"
+    }
+]

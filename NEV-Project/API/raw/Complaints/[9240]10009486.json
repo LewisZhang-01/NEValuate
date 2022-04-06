@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, OTHER",
+        "crash": false,
+        "dateComplaintFiled": "02/26/2003",
+        "dateOfIncident": "02/26/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009486,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "GRAND CHEROKEE",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE FUEL GAUGE SYSTEM DID NOT WORK PROPERLY, THE DEALER WAS UNABLE TO DUPLICATE THE PROBLEM.*JB",
+        "vin": "1J8GX48S42C"
+    }
+]

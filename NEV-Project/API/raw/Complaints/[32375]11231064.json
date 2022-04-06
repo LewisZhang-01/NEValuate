@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "07/11/2019",
+        "dateOfIncident": "07/11/2019",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11231064,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SHUDDER AND POWER LOSS ON ACCELERATION WHEN AUTOMATIC TRANSMISSION SHIFTS. WAS TOLD IS NORMAL BY DEALERSHIP HOWEVER IT IS NOT AS IT JERKS HEAVILY.",
+        "vin": "1FADP3K23GL"
+    }
+]

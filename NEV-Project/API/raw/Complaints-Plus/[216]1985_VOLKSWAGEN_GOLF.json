@@ -1,0 +1,310 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "06/14/1999",
+        "dateOfIncident": "05/15/1990",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 839693,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "GOLF",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "LACK OF LUBRICATION CAUSES  DIFFERENTIAL TO LOCK UP. *AK",
+        "vin": ""
+    },
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "03/02/1999",
+        "dateOfIncident": "02/01/1999",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 2,
+        "odiNumber": 544186,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "GOLF",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "RECALLED HEATER CORE FAILED CAUSING ANTIFEEZE TO FLOW FROM UNDER THE DASHBOARD ONTO BOTH DRIVER AND PASSENGER SIDE FLOOR SPLATTERING LIQUID ON DRIVER AND DOG RESULTING IN INJURY.",
+        "vin": "1VWAG0117FV"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING,VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "03/02/1999",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 544186,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "GOLF",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WATER HOSE AND COOLANT HOSES BURST.",
+        "vin": "1VWAG0117FV"
+    },
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "12/22/1997",
+        "dateOfIncident": "11/03/1997",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 527007,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "GOLF",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "REAR WINDSHIELD SHATTERED DUE TO STRESS CRACKS.",
+        "vin": ""
+    },
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "05/30/1997",
+        "dateOfIncident": "05/09/1997",
+        "fire": true,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 812611,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "GOLF",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING VEHICLE ABOUT 40 MPH, HEARD A LOUD NOISE; PULLED OVER & STOPPED, TURNED VEHICLE OFF & GOT OUT TO LOOK; SUDDENLY WITHIN A FEW SECONDS, THE VEHICLE EXPLODED & STARTED TO BURN NEAR FUEL TANK AREA; POLICE OFFICER CAME & MADE OUT A REPORT; THE INSURANCE CO. HAS VEHICLE NOW.   *AK",
+        "vin": ""
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "05/07/1997",
+        "dateOfIncident": "04/15/1997",
+        "fire": true,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 517020,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "GOLF",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE FIRE.",
+        "vin": "1VWBA0171FV"
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "10/17/1996",
+        "dateOfIncident": "10/01/1996",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 509815,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "GOLF",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "RIGHT FRONT CV JOINTS FAILED TWICE.  *AK",
+        "vin": "1VWAG0172FV"
+    },
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "05/27/1996",
+        "dateOfIncident": "01/01/1995",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 504728,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "GOLF",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUEL PUMP FAILED TWICE. *AK",
+        "vin": "1VWFA017XFV"
+    },
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "05/27/1996",
+        "dateOfIncident": "01/01/1995",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 504728,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "GOLF",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AIR CONDITIONING SYSTEM FAILED.  *AK",
+        "vin": "1VWFA017XFV"
+    },
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "05/27/1996",
+        "dateOfIncident": "01/01/1995",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 504728,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "GOLF",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "REPLACED HEATER CORE.  *AK",
+        "vin": "1VWFA017XFV"
+    },
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "02/22/1996",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 979554,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "GOLF",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING FOR NO REASON THE CAR WILL GO FULL THTOTTLE,IF YOU PUSH DOWN AND PEDAL OR PULL BACK IT STILL STAY STUCK.  *AK",
+        "vin": "1VWFA0170FV"
+    },
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "02/22/1996",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 979554,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "GOLF",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING FOR NO REASON THE CAR WILL GO FULL THTOTTLE,IF YOU PUSH DOWN AND PEDAL OR PULL BACK IT STILL STAY STUCK.  *AK",
+        "vin": "1VWFA0170FV"
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "09/25/1995",
+        "dateOfIncident": "12/01/1991",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 501744,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "GOLF",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TRANSMISSIONS FINAL DRIVE LEAKED, CAUSING TRANSMISSION TO LOCK UP TWICE. *DSH",
+        "vin": ""
+    },
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "06/12/1995",
+        "dateOfIncident": "06/12/1995",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 485116,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "GOLF",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "HEATER CORE FAILED PRIOR TO RECALL, SPRAYING COOLANT INTO ENGINE COMPARTMENT, CAUSING WINDOWS TO STEAM UP (92V-050).  *AK",
+        "vin": ""
+    }
+]

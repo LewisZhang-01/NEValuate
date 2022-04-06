@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "02/07/2003",
+        "dateOfIncident": "02/05/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10006779,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "GRAND PRIX",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN TRYING TO TURN THEM OFF, WIPER BLADES WILL ROTATE TO THE DOWN POSITION, THEN ROTATE BACK TO THE UP POSITION OBSTRUCTING VIEW THROUGH WINDSHIELD.                  PH *TS",
+        "vin": "1G2WP12KXPV"
+    }
+]

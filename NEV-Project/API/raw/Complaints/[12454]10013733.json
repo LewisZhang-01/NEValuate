@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "03/31/2003",
+        "dateOfIncident": "03/26/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10013733,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "OLDSMOBILE",
+                "productModel": "BRAVADA",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUEL GAUGE DOES NOT REGISTER PROPERLY, SHOWS 1/2 TANK WHEN EMPTY, MILES TO EMPTY READOUT WRONG, FUEL SENDER WENT BAD AT 58000 MILES.   *NLM",
+        "vin": "1GHDT13W7V2"
+    }
+]

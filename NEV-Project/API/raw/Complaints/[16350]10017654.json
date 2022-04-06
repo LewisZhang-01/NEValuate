@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "04/28/2003",
+        "dateOfIncident": "11/01/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017654,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE WINDSHIELD WIPERS WORKED INTERMITTENTLY, WHICH MADE IT DIFFICULT TO SEE WHEN DRIVING IN THE RAIN.     *JB",
+        "vin": "1GTEC14R7W0"
+    }
+]

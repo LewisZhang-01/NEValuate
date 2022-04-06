@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "02/14/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10006641,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CORVETTE",
+                "productYear": "9999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE STEERING COLUMN LOCK WAS CONTROLLED BY AN ELECTRIC MOTOR, WHICH WAS AT THE BASE OF THE UNIT.  THE STEERING COLUMN LOCK HAD SENT FALSE SIGNALS DUE TO A MALFUNCTION IN THE ELECTRICAL SYSTEM.  SCC  REF. IN EA02-031 *CJS",
+        "vin": ""
+    }
+]

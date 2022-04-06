@@ -1,0 +1,24 @@
+[
+    {
+        "components": "WHEELS",
+        "crash": true,
+        "dateComplaintFiled": "04/30/2003",
+        "dateOfIncident": "04/23/2003",
+        "fire": false,
+        "manufacturer": "Suzuki Motor USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10017906,
+        "products": [
+            {
+                "manufacturer": "Suzuki Motor USA, LLC",
+                "productMake": "SUZUKI",
+                "productModel": "GSX1300",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE FRONT WHEEL BROKE WHILE DRIVING AT 55 MPH WITHOUT CAUSE.    *JB",
+        "vin": "JS1GW71A922"
+    }
+]

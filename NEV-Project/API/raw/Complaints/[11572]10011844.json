@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": true,
+        "dateComplaintFiled": "03/17/2003",
+        "dateOfIncident": "03/04/2003",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10011844,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "GTI",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE PARK/NEUTRAL SWITCH MALFUNCTIONED , WHICH CAUSED THE VEHICLE TO START IN GEAR WITHOUT DEPRESSING THE CLUTCH. WHICH RESULTED IN AN ACCIDENT.  (MANUAL TRANSMISSION)  *JB  THE UNIT FAILURE ALLOWED THE VEHICLE TO START IN NEUTRAL OR ANY GEAR.  SCC",
+        "vin": "9VWDE51J824"
+    }
+]

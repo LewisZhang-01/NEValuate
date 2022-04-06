@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "02/03/2003",
+        "dateOfIncident": "02/03/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10006248,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAVALIER",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUEL INJECTION HOSE IS LEAKING GASOLINE.  DEALER IS AWARE OF THE PROBLEM.   PH   FUEL INJECTOR HAD TO BE REPLACED.   *TT",
+        "vin": "1G1JC1246T7"
+    }
+]

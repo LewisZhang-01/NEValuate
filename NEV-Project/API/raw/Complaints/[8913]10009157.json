@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "02/24/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009157,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "ESCORT",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER WAS INFORMED THE PARTS TO PERFORM THE RECALL REGARDING THE AIR BAG SENSOR/CONTROL MODULE WERE ON BACK ORDER. RECALL # 02V323000. *JB",
+        "vin": "1FALP13P4VW"
+    }
+]

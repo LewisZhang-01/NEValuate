@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS,SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "07/17/1998",
+        "dateOfIncident": "06/22/1998",
+        "fire": false,
+        "manufacturer": "FLXIBLE CORPORATION",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 537983,
+        "products": [
+            {
+                "manufacturer": "FLXIBLE CORPORATION",
+                "productMake": "FLXIBLE",
+                "productModel": "METRO",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "MOTORBELT FAILED TO RESTRAIN, ALSO NO DEPLOYMENT OF AIR BAG DURING COLLISION.",
+        "vin": "2C1MR2297V6"
+    }
+]

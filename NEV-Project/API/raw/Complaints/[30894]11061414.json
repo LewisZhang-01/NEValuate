@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "01/09/2018",
+        "dateOfIncident": "12/26/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11061414,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "2011",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE TRYING TO ACCELERATE AT HIGHER SPEEDS THE VEHICLE SHAKES AND APPEARS TO MISFIRE. WHEN THIS HAPPENS THE VEHICLE STRUGGLES TO ACCELERATE AND BLACK SMOKE APPEARS FROM THE EXHAUST. THIS OCCURS MOSTLY WHILE TRYING TO PASS ANOTHER VEHICLE. THE CHECK ENGINE LIGHT APPEARED IN THE BEGINNING AND THE CODE REFERENCED A PROBLEM WITH ONE OF THE IGNITION COILS WHICH WAS SUBSEQUENTLY CHANGED BUT THE PROBLEM STILL EXISTED WITHOUT ANY CODES APPEARING.",
+        "vin": "1FTFW1CT4BK"
+    }
+]

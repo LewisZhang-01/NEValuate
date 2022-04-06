@@ -1,0 +1,24 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "12/15/1999",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "FLEETWOOD ENTERPRISES, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 550010,
+        "products": [
+            {
+                "manufacturer": "FLEETWOOD ENTERPRISES, INC.",
+                "productMake": "FLEETWOOD",
+                "productModel": "AMERICAN EAGLE",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TWO FRONT TIRES WERE REPLACED WITH HEAVIER TIRE BECAUSE OF RECALL (99V-277), OVERLOADING OF A TIRE CAN LEAD TIRES TO FAIL.  YH",
+        "vin": ""
+    }
+]

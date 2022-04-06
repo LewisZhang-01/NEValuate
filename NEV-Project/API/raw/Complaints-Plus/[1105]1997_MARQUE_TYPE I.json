@@ -1,0 +1,46 @@
+[
+    {
+        "components": "PARKING BRAKE",
+        "crash": false,
+        "dateComplaintFiled": "09/01/2004",
+        "dateOfIncident": "08/15/2004",
+        "fire": false,
+        "manufacturer": "MARQUE, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10088929,
+        "products": [
+            {
+                "manufacturer": "MARQUE, INC.",
+                "productMake": "MARQUE",
+                "productModel": "TYPE I",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING CAR BRAKE PEDAL WENT ALL THE WAY DOWN TO THE FLOOR SUBSTANTIALLY REDUCING THE ABILITY TO STOP AND THERBY ALMOST CAUSING AN ACCIDENT.  UPON INVESTIGATION, FOUND BRAKE FLUID WAS SHOOTING OUT FROM UNDER THE CAR.*AK",
+        "vin": "2MELM75W8VX"
+    },
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "02/06/2004",
+        "dateOfIncident": "05/01/1997",
+        "fire": false,
+        "manufacturer": "MARQUE, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10056679,
+        "products": [
+            {
+                "manufacturer": "MARQUE, INC.",
+                "productMake": "MARQUE",
+                "productModel": "TYPE I",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "STEERING IS TERRIBLE AND HAS BEEN SINCE NEW.DEALER HAS REFUSED TO REMEDY,VERY HARD TO KEEP IN STRAIGHT LINE.THIS IS A 1997 MERCURY BOUGHT FROM LINCOLN MERCERY IN SPRINGFIELD,MO.*AK",
+        "vin": "2MELM75W9VX"
+    }
+]

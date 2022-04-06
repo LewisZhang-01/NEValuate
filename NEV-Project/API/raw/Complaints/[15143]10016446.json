@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "04/24/2003",
+        "dateOfIncident": "03/12/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10016446,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CAR STALLING DURING RIGHT HAND TURNS.   *NLM",
+        "vin": "3FAFP3139YR"
+    }
+]

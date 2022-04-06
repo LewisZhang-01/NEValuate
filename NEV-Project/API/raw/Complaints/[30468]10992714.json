@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,VISIBILITY/WIPER",
+        "crash": false,
+        "dateComplaintFiled": "06/01/2017",
+        "dateOfIncident": "04/05/2017",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10992714,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "TRAVERSE",
+                "productYear": "2011",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WIPERS STOP WORKING WHEN THE LEFT SIGNAL TURN WAS ACTIVATED, WIPERS WOULD RESTART WHEN LEFT SIGNAL WAS TURN OFF AND IN THE NEUTRAL POSITION.  WHEN DRIVING WIPERS WOULD PERIODICALLY STOP WORKING AND WOULD RETURN TO FUNCTIONING WHEN LEFT WIPER WAS PARTIALLY ACTIVATED AND NOT PUSHED DOWN COMPLETELY. VEHICLE WAS IN MOTION.",
+        "vin": "1GNKRGED5BJ"
+    }
+]

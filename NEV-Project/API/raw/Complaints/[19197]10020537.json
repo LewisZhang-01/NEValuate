@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "05/26/2003",
+        "dateOfIncident": "05/24/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020537,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350 SD",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "STEELTEX R4S",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "MY 2000 F-350 FORD PICKUP EXPERIENCED A VIOLENT AND CONTINUAL SHAKING WHILE PROCEEDING AT HIGHWAY SPEEDS ON I-5 ON 24 MAY,2003.  INVESTIGATION REVEALED A BUBBLE AND TREAD SEPARATION ON MY LEFT REAR LT 26575R16 FIRESTONE STEEL TEX RADIAL R4S TIRE. VEHICLE WAS CONTROLLED AND TIRE CHANGED PRIOR TO ANY INCIDENT.    *NLM",
+        "vin": "1FTSX30F2YE"
+    }
+]

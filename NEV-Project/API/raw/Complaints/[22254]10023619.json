@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "06/23/2003",
+        "dateOfIncident": "06/23/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10023619,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "JIMMY",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FAILURE OF FUEL PUMP ON 6-23-03 ON A 1999 GMC JIMMY.  VEHICLE STALLED AND FAILED TO TURN OVER AT A BUSY INTERSECTION.   *JB",
+        "vin": ""
+    }
+]

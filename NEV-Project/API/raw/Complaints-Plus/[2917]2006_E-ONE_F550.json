@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,AIR BAGS,FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "10/03/2018",
+        "dateOfIncident": "09/30/2018",
+        "fire": false,
+        "manufacturer": "E-One Incorporated",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11133119,
+        "products": [
+            {
+                "manufacturer": "E-One Incorporated",
+                "productMake": "E-ONE",
+                "productModel": "F550",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TAKATA RECALL  REPLACED ICP AND PIGTAIL BUT NO CHANGE IN LIGHT BEING ABLE TO BE RESET......    ABS IS ON FOR SOME REASON SHOP CAN'T FIND A REASON WHY!!!!!",
+        "vin": "1FDAF57P56E"
+    }
+]

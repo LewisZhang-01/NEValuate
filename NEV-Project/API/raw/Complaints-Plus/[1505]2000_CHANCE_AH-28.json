@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "11/05/2003",
+        "dateOfIncident": "06/01/2003",
+        "fire": false,
+        "manufacturer": "CHANCE COACH, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10042535,
+        "products": [
+            {
+                "manufacturer": "CHANCE COACH, INC.",
+                "productMake": "CHANCE",
+                "productModel": "AH-28",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "STEELTEX R4S",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHILE DRIVING  AT 50 MPH, THE INSIDE PASSENGER REAR TIRE BLEW OUT, WHICH CAUSED THE OWNER TO PULL OFF THE ROAD.  CONSUMER HAS MADE CONTACT WITH THE DEALERSHIP.   *AK   THE TIRE TREAD SEPARATED AND SPLIT THE TIRE COMPLETELY IN HALF.   *SCC      *JB",
+        "vin": "1FDX4F555YH"
+    }
+]

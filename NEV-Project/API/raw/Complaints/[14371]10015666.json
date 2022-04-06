@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,TIRES",
+        "crash": false,
+        "dateComplaintFiled": "04/18/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "MONACO COACH CORPORATION",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015666,
+        "products": [
+            {
+                "manufacturer": "MONACO COACH CORPORATION",
+                "productMake": "MONACO COACH",
+                "productModel": "MONACO",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE WANDERED ON SEVERAL OCCASIONS DUE TO UNSTABLE STEERING.  THE CONSUMER HAD THE FOLLOWING REPAIRS:  SHOCK ABSORBERS WERE REPLACED, ADDED A SAFETY STEERING DEVICE, REPLACED ALL SIX TIRES(WHICH COULD NOT CARRY THE WEIGHT OF THE VEHICLE), AND ADJUSTED THE HEIGHT(WHICH HELPED THE WANDERING).  THE PROBLEM SEEMED TO IMPROVE, BUT THERE WAS STILL PLAY IN THE STEERING MECHANISM.  THE CONSUMER REQUESTED TO BE REIMBURSED.  MR  SCC   *NLM",
+        "vin": "9999"
+    }
+]

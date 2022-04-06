@@ -1,0 +1,46 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "05/26/2016",
+        "dateOfIncident": "05/09/2016",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10871042,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "AUDI",
+                "productModel": "A3",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* TAKATA RECALL. THE CONTACT OWNS A 2003 AUDI A3. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 16V079000 (AIR BAGS) AND THE PARTS WERE NOT AVAILABLE WITHIN A REASONABLE TIME FRAME TO SCHEDULE THE RECALL REPAIR SO THE CONTACT WAS UNABLE TO DETERMINE WHEN THE VEHICLE WOULD BE REPAIRED. THE CONTACT CALLED THE MANUFACTURER AND THEY WERE UNABLE TO PROVIDE A TIME FRAME OR A SPECIFIC DATE. THE CONTACT HAD NOT EXPERIENCED A FAILURE. VIN TOOL CONFIRMS PARTS NOT AVAILABLE.",
+        "vin": "WAUHF78P48A"
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "02/03/2014",
+        "dateOfIncident": "01/28/2014",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10562716,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "AUDI",
+                "productModel": "A3",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2003 AUDI A3. THE CONTACT STATED THAT WHILE DRIVING APPROXIMATELY 60 MPH, THE VEHICLE INDEPENDENTLY SHIFTED INTO NEUTRAL WITH THE ILLUMINATION OF THE CHECK ENGINE WARNING LIGHT. ADDITIONALLY, THE GEAR SHIFTER LIGHTS ILLUMINATED DISPLAYING ERRONEOUS READINGS. THE VEHICLE WAS TOWED TO AN INDEPENDENT MECHANIC, WHO STATED THAT THE TRANSMISSION WOULD NEED REPLACING. THE VEHICLE WAS THEN TAKEN TO AN AUTHORIZED DEALER, WHO DIAGNOSED THAT THE TRANSMISSION CONTROL MODULE NEEDED TO BE REPLACED. THE VEHICLE WAS NOT REPAIRED. THE MANUFACTURER WAS MADE AWARE OF THE PROBLEM. THE APPROXIMATE FAILURE MILEAGE WAS 115,000.",
+        "vin": "WAUMF78P26A"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "03/04/2014",
+        "dateOfIncident": "02/01/2014",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10567331,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "EXPRESS 2500",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DEFECTIVE PAINT. THE PAINT ON FRONT OF VEHICLE AND ROOF CHIPPING AND RUSTING. I HAVE OBSERVED MANY OTHER CHEVROLET VANS WITH THE SAME ISSUE. HAVE NOT NOTICED THE SAME ISSUE WITH OTHER VANS MADE BY OTHER MANUFACTURERS.",
+        "vin": "1GCFG25R011"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "06/19/2007",
+        "dateOfIncident": "01/30/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10193753,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "EXPRESS 2500",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 2001 CHEVROLET EXPRESS 2500.  THE CONTACT NOTICED ANTIFREEZE LEAKING FROM THE ENGINE AT 15,174 MILES.  THE DEALER STATED THAT THERE WAS A LEAK IN THE INTAKE MANIFOLD GASKET AND REPLACED THE GASKET.  APPROXIMATELY FOUR YEARS LATER, THE SAME FAILURE OCCURRED AT 57,380 MILES.  THE MECHANIC STATED THAT THERE WAS A LEAK IN THE INTAKE MANIFOLD GASKET AND REPLACED IT ONCE MORE.  THE CONTACT STATED THAT THE VEHICLE CHECK ENGINE LIGHT ILLUMINATED AT 29,425 MILES.  THE DEALER STATED THAT THE CYLINDERS MISFIRED AND THEY REPLACED THE FUEL INJECTION ASSEMBLY.  THE FAILURE RECURRED AT 60,100 MILES.  THE MECHANIC REPLACED THE FUEL INJECTION ASSEMBLY AGAIN.  THE CURRENT MILEAGE IS 60,300 AND FAILURE MILEAGE WAS 15,174.",
+        "vin": "1GCFG25M111"
+    }
+]

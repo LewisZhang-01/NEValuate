@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "05/07/2003",
+        "dateOfIncident": "05/06/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019342,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAVALIER",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE RECALL REMEDY FOR THE IGNITION SWITCH RECALL 02 V 070 000 FAILED.  THE DEFECT OCCURRED AND ALMOST CAUSED AN ACCIDENT.  *NLM",
+        "vin": "1G1JC1244VM"
+    }
+]

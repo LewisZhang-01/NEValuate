@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": true,
+        "dateComplaintFiled": "03/26/2003",
+        "dateOfIncident": "03/25/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10011043,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "GEAR SLIPPED OUT OF PARK AND WENT INTO REVERSE, WHICH CAUSED TWO ACCIDENTS.  *JB",
+        "vin": "1J4FY49S1XP"
+    }
+]

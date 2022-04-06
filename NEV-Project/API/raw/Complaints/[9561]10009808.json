@@ -1,0 +1,24 @@
+[
+    {
+        "components": "WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "03/04/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009808,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "DAKOTA",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE RIM ON THE SPARE TIRE WAS CRACKED ALTHOUGH THE TIRE HAD NEVER BEEN USED.  *NLM",
+        "vin": "1B7GL22X9YS"
+    }
+]

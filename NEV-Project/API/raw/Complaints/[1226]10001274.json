@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "12/20/2002",
+        "dateOfIncident": "01/01/1901",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001274,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "CROWN VICTORIA",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WINDSHIELD WIPERS FAILED WHILE DRIVING IN INCLEMENT WEATHER.  THE WIPER FAILURE RESULTED IN REDUCED VISIBILITY.  THE VEHICLE HAS BEEN TAKEN TO THE DEALER THREE TIMES BUT THEY HAVE BEEN UNABLE TO ALLEVIATE THE PROBLEM.  THE CONSUMER REQUEST REIMBURSEMENT FOR THE COST OF THE VEHICLE.  *NM",
+        "vin": "2FAFP74W51X"
+    }
+]

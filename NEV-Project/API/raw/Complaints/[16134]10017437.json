@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "04/23/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017437,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "CAMRY",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE KEY COULD BE TAKEN OUT OF THE IGNITION WHILE THE VEHICLE WAS IN DRIVE OR NEUTRAL.   *NLM",
+        "vin": "JT2SK12E4S0"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "01/14/2017",
+        "dateOfIncident": "01/14/2017",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10945314,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "DURANGO",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE FUEL TANK FILLER TUBE INLET CHECK VALVE IS NOT FULLY CLOSING AT THE END OF REFUELING. THIS  ALLOWS SOME FUEL TO ESCAPE FROM THE VEHICLE FILLER NECK.  CONSEQUENCESFUEL LEAKAGE IN THE PRESENCE OF AN IGNITION SOURCE CAN RESULT IN A FIRE. WHEN REFUELING AT A GAS STATION",
+        "vin": "1D4HB58N76F"
+    }
+]

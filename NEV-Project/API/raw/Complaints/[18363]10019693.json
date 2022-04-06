@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "07/03/2003",
+        "dateOfIncident": "04/26/2003",
+        "fire": false,
+        "manufacturer": "Jayco, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019693,
+        "products": [
+            {
+                "manufacturer": "Jayco, Inc.",
+                "productMake": "JAYCO",
+                "productModel": "EAGLE",
+                "productYear": "1998",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "WRANGLER",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE RIGHT REAR AND LEFT REAR TIRE EXPERIENCED TREAD SEPARATION WHILE TRAVELING AT 50 MPH.  GOOD YEAR WRANGLER XT  SIZE LT25575/R16E.   *JB   PRIOR TO THE INCIDENT, BOTH TIRES WERE MOUNTED ON THE REAR OF THE DUAL AXLE.  (ONE ON LEFT AND ONE ALSO ON THE RIGHT)   (MOTORHOME)   *SCC  *JB",
+        "vin": ""
+    }
+]

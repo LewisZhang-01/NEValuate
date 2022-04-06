@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "05/08/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Volvo Car USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019425,
+        "products": [
+            {
+                "manufacturer": "Volvo Car USA, LLC",
+                "productMake": "VOLVO",
+                "productModel": "850",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING THE VEHICLES ABS WARNING LIGHT ILLUMINATED AND STAYED ON.  *NLM",
+        "vin": "FILLIN"
+    }
+]

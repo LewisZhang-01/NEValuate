@@ -1,0 +1,46 @@
+[
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "12/09/2021",
+        "dateOfIncident": "10/29/2021",
+        "fire": false,
+        "manufacturer": "Jaguar Cars, Ltd.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11443272,
+        "products": [
+            {
+                "manufacturer": "Jaguar Cars, Ltd.",
+                "productMake": "JAGUAR",
+                "productModel": "XF",
+                "productYear": "2018",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact owns a 2018 Jaguar XF. The contact stated that while driving approximately 65-70 mph on the highway, the gear fault indicator light illuminated. The transaxle fractured and the vehicle failed to accelerate. The contact was able to move to the shoulder. The vehicle was towed to the contact's residence. The local dealer was not contacted. The vehicle was not diagnosed or repaired. The manufacturer was notified of the failure and referred the contact to the local dealer. The approximate failure mileage was 87, 827.",
+        "vin": "SAJBJ4FN1JC"
+    },
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "06/14/2021",
+        "dateOfIncident": "06/13/2021",
+        "fire": false,
+        "manufacturer": "Jaguar Cars, Ltd.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11420814,
+        "products": [
+            {
+                "manufacturer": "Jaguar Cars, Ltd.",
+                "productMake": "JAGUAR",
+                "productModel": "XF",
+                "productYear": "2018",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The rear left hand door will not close fully or lock. The door is ajar. The door could open at any time, and during an accident, since it is not latched, would produce results unlike the approved tested vehicle.  This is the second time the latch has failed in less than 6 months and will leave the vehicle unsafe to drive. The vehicle has less than 16,000 miles and is stored inside.  There is an indicator on the dash showing the door is not closed.",
+        "vin": "SAJBM2FV1JC"
+    }
+]

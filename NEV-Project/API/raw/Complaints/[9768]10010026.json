@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "03/18/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010026,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "NAVIGATOR",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Continental Tire the Americas, LLC",
+                "productMake": "CONTINENTAL",
+                "productModel": "CONTINENTAL",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "CONSUMER REQUESTED REIMBURSEMENT FOR THE CONTINENTAL TIRE VOLUNTARY RECALL, HOWEVER THE CLAIM WAS DENIED, THE MANUFACTURER STATED THE TIRES WERE NOT PURCHASED BETWEEN AUGUST 19, 2001 THROUGH OCTOBER 10, 2002.*AK    *JB",
+        "vin": "5LMFU28R41L"
+    }
+]

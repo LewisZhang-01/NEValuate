@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "12/18/2002",
+        "dateOfIncident": "12/17/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001183,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO 1500",
+                "productYear": "2004",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE STEEL PROD. CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "FIRESTONE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "CONSUMER CALLED COMPLAINING ON ORIGINAL EQUIPMENT ON 1999 CHEVROLET.  FIRESTONE LT245/75R/16 DOT V011678140 TREAD SEPARATION DEALER HAS BEEN NOTIFIED. PLEASE PROVIDE DOCUMENT  FURTHER INFORMATION. TS",
+        "vin": "1GBHG31R2X1"
+    }
+]

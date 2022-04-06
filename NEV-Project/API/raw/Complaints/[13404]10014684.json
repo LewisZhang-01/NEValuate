@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "03/28/2003",
+        "dateOfIncident": "03/12/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10014684,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "YUKON XL",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE STALLED. THE  DEALER DIAGNOSED THE PROBLEM AS BAD BARE WIRES INSIDE OF FUEL PUMP.  THE WIRES SHORTED WHICH CAUSED VEHICLE TO STALL.     *JB",
+        "vin": "3GKFK16T6YG"
+    }
+]

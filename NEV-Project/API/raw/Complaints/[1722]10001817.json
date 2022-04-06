@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "01/02/2003",
+        "dateOfIncident": "12/31/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001817,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATES THE REAR WINDOW GLASS IS LEAKING WATER INTO CABIN OF VEHICLE.  DEALER DIAGNOSED PROBLEM WITH THE ASSEMBLY OF THE GLASS.  DEALER NEEDS A SPECIAL FORD PART DUE TO GLASS ASSEMBLY BEING PART OF VEHICLE'S FRAME. TS  REAR WINDSHIELD REPLACED.   *TT",
+        "vin": "2FTDX1725VC"
+    }
+]

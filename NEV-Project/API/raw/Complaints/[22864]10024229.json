@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "10/12/2003",
+        "dateOfIncident": "04/01/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10024229,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING STEERING SHAFT SEPARATED FROM THE GEAR, RESULTING IN LOSS OF STEERING CONTROL.  RELATED RECALL 03V196000, BUT MANUFACTURER ADVISES THAT CONSUMER'S  VEHICLE NOT INCLUDED EVEN THOUGH THE VEHICLE'S MANUFACTURING  DATE FALLS WITHIN THE RANGE SPECIFIED.*AK    *PH   *NLM",
+        "vin": "1FTDX07W0VK"
+    }
+]

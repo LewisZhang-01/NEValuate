@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "05/15/2003",
+        "dateOfIncident": "05/15/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019956,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERCURY",
+                "productModel": "COUGAR",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLES IGNITION SWITCH BROKE.    *NLM",
+        "vin": "PROVIDE"
+    }
+]

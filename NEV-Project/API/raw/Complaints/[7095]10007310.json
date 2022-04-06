@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "03/05/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10007310,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "9999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "ATX",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "CONSUMER RECEIVED SEVERAL RECALL NOTIFICATIONS ON POSSIBLE TREAD SEPARATION.  HOWEVER DEALERSHIPS WERE NOT WILLING TO PERFORM REPAIRS STATING THERE WERE NO RECALLS.  *TT  *JB *TS",
+        "vin": ""
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": true,
+        "dateComplaintFiled": "11/14/2003",
+        "dateOfIncident": "11/05/2003",
+        "fire": true,
+        "manufacturer": "BOSS HOSS CYCLE",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10047961,
+        "products": [
+            {
+                "manufacturer": "BOSS HOSS CYCLE",
+                "productMake": "BOSS HOSS",
+                "productModel": "MOTORCYCLE",
+                "productYear": "1998",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Bridgestone Americas Tire Operations",
+                "productMake": "FIRESTONE",
+                "productModel": "FIREHAWK",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHILE DRIVING AT 60 MPH REAR MOTORCYCLE TIRE BLEW OUT, CAUSING THE DRIVER TO LOSE CONTROL OF THE MOTORCYCLE. DRIVER FELL OF THE MOTORCYCLE BEFORE HITTING A METAL FENCE. CONSUMER WAS HOSPITALIZED DUE TO THIS ACCIDENT. FIRESTONE, FIREHAWK.  *AK  *MR",
+        "vin": "1B9TBVCZOWD"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "06/04/2003",
+        "dateOfIncident": "03/25/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022341,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TAURUS",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BROKEN SUSPENSION SPRING.  *MR*TS",
+        "vin": "1FAFP53S7XG"
+    }
+]

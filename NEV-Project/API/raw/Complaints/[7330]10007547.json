@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "02/15/2003",
+        "dateOfIncident": "01/28/2003",
+        "fire": false,
+        "manufacturer": "Volvo Car USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10007547,
+        "products": [
+            {
+                "manufacturer": "Volvo Car USA, LLC",
+                "productMake": "VOLVO",
+                "productModel": "V70",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "STEERING WHEEL LOCKED UNDER ORDINARY USE AND IGNITION KEY COULD NOT BE REINSERTED INTO IGNITION.                 PH",
+        "vin": "YV1LW5549W2"
+    }
+]

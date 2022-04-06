@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING,AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "12/04/2003",
+        "dateOfIncident": "03/31/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10014825,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "WINDSTAR",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE HEAD GASKET FAILED.   *JB   *PH   *NLM",
+        "vin": "2FMDA5144TB"
+    }
+]

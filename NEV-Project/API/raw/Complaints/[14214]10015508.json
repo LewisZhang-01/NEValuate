@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "04/09/2003",
+        "dateOfIncident": "04/03/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015508,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TAURUS",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Continental Tire the Americas, LLC",
+                "productMake": "CONTINENTAL",
+                "productModel": "31580R22.5 HSR1",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE VEHICLE'S TIRES WERE CRACKED AND SEPARATED. THE DEALER WAS NOTIFIED.   NLM",
+        "vin": "PLEASE FILL"
+    }
+]

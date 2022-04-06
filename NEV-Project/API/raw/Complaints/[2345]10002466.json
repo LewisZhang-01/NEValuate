@@ -1,0 +1,31 @@
+[
+    {
+        "components": "CHILD SEAT",
+        "crash": false,
+        "dateComplaintFiled": "01/09/2003",
+        "dateOfIncident": "01/09/2003",
+        "fire": false,
+        "manufacturer": "UNKNOWN MANUFACTURER",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002466,
+        "products": [
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN1",
+                "productYear": "9999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Evenflo Company, Inc.",
+                "productMake": "EVENFLO",
+                "productModel": "219 (CHAMPION/SCOUT/TROOPER)",
+                "productYear": "9999",
+                "type": "Child Seat"
+            }
+        ],
+        "summary": "THE CONSUMER NOTICED A PROBLEM WITH AN EVENFLO SEAT. MODEL 219143P2  MFG DATE JULY/23/1997,  THE  HANDLE LOCK MECHANISM BROKE AND LEAVING THE CHILD  UNRESTRAINED. MANUFACTURER WAS NOTIFIED BUT STATED THAT THERE WAS NOTHING THEY CAN DO.  *NLM  *SCC",
+        "vin": "9999"
+    }
+]

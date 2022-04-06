@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "01/13/2003",
+        "dateOfIncident": "12/04/2002",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002599,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "PASSAT",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATED WHILE DRIVING, THE  MALFUNCTION INDICATOR LIGHT ILLUMINATED, CONSUMER STATED THE IGNITION COIL HAD FAILED. DEALER NOTIFIED.*JB",
+        "vin": "WVWVD63B82E"
+    }
+]

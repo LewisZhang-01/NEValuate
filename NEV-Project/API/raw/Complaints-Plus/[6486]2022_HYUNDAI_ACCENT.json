@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS,SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "02/16/2022",
+        "dateOfIncident": "12/13/2021",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11452293,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "ACCENT",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Instead of a simple seat belt warning light staying on when the driver's side belt is not connected, the car uses a complicated system: \"The seat belt warning light will illuminate for approximately 6 seconds each time you place the ignition switch to the ON position regardless of belt fastening.  However, if the seat belt is unfasted, a warning chime will sound for approximately 6 seconds.  If you continue not to fasten the seat belt and you drive over 6 mph the warning light will stay illuminated.  If you continue to drive over 12 mph the seat belt warning chime will sound for approximately 100 seconds and the corresponding warning light will blink, etc.\"  Worse yet, as far as I can tell, the front passenger seat belt when unfastened will not show at all! The passenger side airbag light is on showing the airbag is not engaged about 50% to 75% of the time when that seat is occupied when a lumbar support \"seat\" is used.  Instead of a simple sensor based on weight, Hyundai got \"cutesy\" and uses some sort of \"electro-magnetic\" sensor which is awful when my wife is occupying the passenger seat.  I would hope you would require Hyundai to do a \"fix\" and install a simple sensor based on weight which is how, I believe, every car I've owned previously works.  The wife has a back problem, hence the use of a lumbar support \"seat\" is required.",
+        "vin": "3KPC24A61NE"
+    }
+]

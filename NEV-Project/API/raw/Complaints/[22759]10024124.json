@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "06/16/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10024124,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "LEXUS",
+                "productModel": "ES300",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ILLUMINATION OF THE SPEEDOMETER NEEDLE HAS FAILED.  CONSUMER CAN NOT DISCERN VEHICLE'S SPEED WHEN DRIVING.*AK",
+        "vin": ""
+    }
+]

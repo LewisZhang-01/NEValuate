@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "02/28/2003",
+        "dateOfIncident": "02/22/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 2,
+        "odiNumber": 10009645,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "T PICKUP",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE WAS INVOLVED IN AN ACCIDENT AND THE AIR  BAGS DID NOT DEPLOY.*JB *TS",
+        "vin": "1GTEC142852"
+    }
+]

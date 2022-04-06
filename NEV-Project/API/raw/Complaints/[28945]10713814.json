@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "04/29/2015",
+        "dateOfIncident": "04/10/2015",
+        "fire": true,
+        "manufacturer": "Land Rover",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10713814,
+        "products": [
+            {
+                "manufacturer": "Land Rover",
+                "productMake": "LAND ROVER",
+                "productModel": "DISCOVERY",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CPSC: I1540160A. 2004 LANDROVER DISCOVERY. CONSUMER STATED THE ENGINE BAY FUSE BOX SPONTANEOUSLY COMBUSTED. *LN",
+        "vin": ""
+    }
+]

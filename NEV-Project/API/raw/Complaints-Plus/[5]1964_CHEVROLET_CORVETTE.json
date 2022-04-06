@@ -1,0 +1,24 @@
+[
+    {
+        "components": "WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "08/01/2000",
+        "dateOfIncident": "06/02/2000",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 553319,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CORVETTE",
+                "productYear": "1964",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "LEFT REAR WHEEL CAME OFF WHILE DRIVING (OHIO TRAFFIC CRASH REPORT).   *MJS",
+        "vin": ""
+    }
+]

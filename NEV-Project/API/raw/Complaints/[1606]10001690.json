@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "12/30/2002",
+        "dateOfIncident": "11/19/2002",
+        "fire": false,
+        "manufacturer": "Mitsubishi Motors North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001690,
+        "products": [
+            {
+                "manufacturer": "Mitsubishi Motors North America, Inc.",
+                "productMake": "MITSUBISHI",
+                "productModel": "MITSUBISHI",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "AMOCO OIL COMPANY",
+                "productMake": "AMOCO",
+                "productModel": "F7815",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHILE DRIVING AT 30 MPH AND WITHOUT WARNING FRONT PASSENGER SIDE TIRE BLOWOUT. PLEASE PROVIDE THE SIZE AND DOT#. DEALER NOTIFIED. TX",
+        "vin": "4A3AE85HX2E"
+    }
+]

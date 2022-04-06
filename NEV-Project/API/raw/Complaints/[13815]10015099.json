@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "04/03/2003",
+        "dateOfIncident": "03/21/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015099,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXCURSION",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE STEEL PROD. CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "FIRESTONE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE TIRE EXPERIENCED TREAD SEPARATION, WHICH CAUSED DAMAGE TO THE VEHICLE.  *JB",
+        "vin": "1FMSU43F4YE"
+    }
+]

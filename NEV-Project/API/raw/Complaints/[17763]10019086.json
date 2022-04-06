@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "05/21/2003",
+        "dateOfIncident": "02/01/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019086,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "RAM 1500",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE HAS A HARD SHIFT OR BUMP WHEN REACHING ABOUT 20 MPH.  HAPPENS MOSTLY ON THE UP SHIFT AND DURING COOLER WEATHER.   8JB",
+        "vin": "3D7HA18N82G"
+    }
+]

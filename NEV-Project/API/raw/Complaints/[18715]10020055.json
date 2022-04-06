@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "05/19/2003",
+        "dateOfIncident": "05/12/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020055,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE BRAKING THE DRIVERS SEAT BROKE.  *NLM",
+        "vin": "FILLIN"
+    }
+]

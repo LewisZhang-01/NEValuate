@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,AIR BAGS,UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "03/02/2018",
+        "dateOfIncident": "02/01/2018",
+        "fire": false,
+        "manufacturer": "Mercedes-Benz USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11075814,
+        "products": [
+            {
+                "manufacturer": "Mercedes-Benz USA, LLC",
+                "productMake": "MERCEDES BENZ",
+                "productModel": "R350",
+                "productYear": "2011",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TAKATA RECALL",
+        "vin": "4JGCB6FEBA1"
+    }
+]

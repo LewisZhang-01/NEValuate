@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "11/11/2017",
+        "dateOfIncident": "11/05/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11045314,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ON 2002 FORD F-150 DRIVER AND PASSENGER SEAT BELTS RANDOMLY COME UNBUCKLED AND ANY GIVEN TIME.",
+        "vin": "1FTRX18L82N"
+    }
+]

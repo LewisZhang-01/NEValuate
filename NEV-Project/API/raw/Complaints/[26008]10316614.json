@@ -1,0 +1,31 @@
+[
+    {
+        "components": "SERVICE BRAKES, ELECTRIC,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "03/04/2010",
+        "dateOfIncident": "03/01/2010",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10316614,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "PRIUS",
+                "productYear": "2010",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Brake Parts Inc.",
+                "productMake": "BRAKE PARTS",
+                "productModel": "DISC BRAKE ROTOR",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "DRIVING 2010 TOYOTA PRIUS.  SEEMED TO HAVE 'SKIPPED' FORWARD WHILE GENTLE BRAKING OVER BUMPY ROAD (SMALL BUMPS).  CAR HAD ALLEGEDLY HAD ELECTRIC REPAIR TO ABS FOR THE PRIUS, HOWEVER; WILL TAKE TO ANOTHER DEALER TO CONFIRM.    I REALIZE THERE ARE PRIVACY CONCERNS AS AN OWNER, AND I'M NOT LOOKING TO PUT EMPHASIS ON MYSELF, HOWEVER; AFTER SUPPOSED REPAIRS TO THE BRAKE SYSTEM I AM WORRIED THAT THE ELECTRONIC UPDATE TO THE PRIUS 2010 WAS NOT SUFFICIENT.    THE SLIGHT 'JOLT' THAT I FELT MADE ME THINK INITIALLY I WAS BUMPED IN THE BACK OF MY CAR.  THANKS AGAIN FOR INVESTIGATING THIS. *TR",
+        "vin": ""
+    }
+]

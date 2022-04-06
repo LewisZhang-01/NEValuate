@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, DIESEL",
+        "crash": false,
+        "dateComplaintFiled": "02/12/2003",
+        "dateOfIncident": "11/27/2002",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10007184,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "RAM 3500",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE FRONT AND REAR FUEL TANK SUPPORT STRAPS FAILED.  *JB",
+        "vin": "3B7MC33D6VM"
+    }
+]

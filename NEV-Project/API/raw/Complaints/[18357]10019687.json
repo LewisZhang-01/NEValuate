@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": true,
+        "dateComplaintFiled": "05/12/2003",
+        "dateOfIncident": "05/12/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019687,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "BLAZER",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN THE CONSUMER APPLIED THE BRAKES, THE VEHICLE FAILED TO STOP WHICH CAUSED AN ACCIDENT.         *JB",
+        "vin": "1GNCS13W5TK"
+    }
+]

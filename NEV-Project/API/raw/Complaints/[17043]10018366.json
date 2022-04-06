@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "05/07/2003",
+        "dateOfIncident": "12/28/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018366,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "WINDSTAR",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUEL TANK BROKEN / PUNCTURED WHEN RAN OVER ON A UNKNOWN OBJECT (SUSPECT TIRE PIECE) DURING NIGHT ON A RAINY DAY.  *JB",
+        "vin": ""
+    }
+]

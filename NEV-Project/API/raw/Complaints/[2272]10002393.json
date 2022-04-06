@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/08/2003",
+        "dateOfIncident": "01/08/2003",
+        "fire": false,
+        "manufacturer": "Mercedes-Benz USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002393,
+        "products": [
+            {
+                "manufacturer": "Mercedes-Benz USA, LLC",
+                "productMake": "MERCEDES BENZ",
+                "productModel": "MERCEDES BENZ",
+                "productYear": "2003",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Continental Tire the Americas, LLC",
+                "productMake": "CONTINENTAL",
+                "productModel": "CONTITOURING",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHILE DRIVING APPROXIMATELY 35MPH, CONSUMER HEARD A \"ROARING\" NOISE AND PULLED TO THE SIDE OF THE ROAD.  UPON INSPECTION NOTICE THE LEFT REAR TIRE WAS FLAT.  DEALER CAME TO INSPECT AND DIAGNOSED \"THE INBOARD SIDEWALL WAS SPLIT FROM THE WHEEL TO THE TREAD\".  TIRES WERE ORIGINAL.  VEHICLE IS A 2003 MERCEDES E500.  TIRE INFO:  CONTINENTAL  CONTITOURING CONTACT ECO PLUS  245/45R17  DOT NO. LMUXPXBU4402 **TS**TT",
+        "vin": "WDBUF70J93A"
+    }
+]

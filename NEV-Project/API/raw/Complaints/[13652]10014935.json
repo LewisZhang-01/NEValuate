@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "04/01/2003",
+        "dateOfIncident": "04/01/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10014935,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "BLAZER",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE EXPERIENCED THE SAME DEFECT WITH THE LOWER BALL JOINT AS STATED IN RECALL # 01 V 200 000, HOWEVER THE VEHICLE IDENTIFICATION NUMBER WAS NOT INCLUDED IN THE RECALL.  *JB",
+        "vin": "1GNDT13WXV2"
+    }
+]

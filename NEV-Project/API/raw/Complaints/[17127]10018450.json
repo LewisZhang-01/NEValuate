@@ -1,0 +1,31 @@
+[
+    {
+        "components": "EXTERIOR LIGHTING,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "05/09/2003",
+        "dateOfIncident": "03/03/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018450,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1994",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "GM PRODUCTS DIV. GM CORP.",
+                "productMake": "GM PRODUCTS",
+                "productModel": "GM PRODUCTS",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "MY 1994 SUBURBAN WAS SERVICED AT R & S CHEVROLET, JOPLIN MO UNDER G M CAMPAIGN # 99V025 FOR DEFECTIVE BRAKE LIGHT SWITCH---THE SWITCH WAS WORKING PERFECTLY AT THE TIME OF SERVICE BUT IS NOW DISFUNCTIONAL AS DESCRIBED IN THE CAMPAIGN BULLETIN. *JB",
+        "vin": ""
+    }
+]

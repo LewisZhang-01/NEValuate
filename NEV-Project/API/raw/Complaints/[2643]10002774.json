@@ -1,0 +1,31 @@
+[
+    {
+        "components": "AIR BAGS,EQUIPMENT",
+        "crash": true,
+        "dateComplaintFiled": "01/16/2003",
+        "dateOfIncident": "01/09/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10002774,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "NEON",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "AIRBAG SYSTEMS, INC.",
+                "productMake": "AIRBAG",
+                "productModel": "SWITCH",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "I WAS INVOLVED IN A CRASH ON JAN 9 2003. A SATION WAGON TOOK A LEFT TURN INFRONT OF ME.I WAS DRIVING AT ABOUT 40 MILES PER HOUR WITH TRAFFIC. WE COLLIDED.MY 2000 DODGE NEON COLLIDED WITH THE TIRE -REAR PASSENGER QUARTER OF HIS STAION WAGON. BOTH CARS ARE A TOTAL LOSS. MY ISSUE IS MY AIRBAGS DID NOT DEPLOY. I WAS WEARING MY SEAT BELT. I FEEL AT 40 MILES PER HOUR ,DAMAGING  EONOUGH OF MY FRONT END THAT BOTH FRONT QUATERS BUCKLED ,THAT THE BAG SHOULD OF DEPLOYED.",
+        "vin": "1B3ES46C8YD"
+    }
+]

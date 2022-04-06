@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "02/08/2003",
+        "dateOfIncident": "06/01/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005517,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F SERIES",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I HAVE A 1999 F-150 THAT HAS 52,000 MILES ON IT AND IT HAS A CRACK IN THE OUTER DOOR SKIN ON THE DRIVERS SIDE.",
+        "vin": "1FTRX18L6XN"
+    }
+]

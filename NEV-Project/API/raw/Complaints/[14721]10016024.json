@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "04/16/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10016024,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "JIMMY",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE FRONT IDLE ARM WORE OUT AT A LOW MILEAGE.  THE DEALER STATED IT WAS A COMMON PROBLEM.  *JB",
+        "vin": "1GKDT13W9X2"
+    }
+]

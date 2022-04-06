@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/24/2003",
+        "dateOfIncident": "05/03/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003875,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "MOTOR HOME",
+                "productYear": "1999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE STEEL PROD. CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "FIRESTONE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHILE DRIVING THE TREAD SEPARATED FROM THE OUTSIDE REAR DUAL TIRE.  THE DEALER WAS CONTACTED.  SCC     *TS",
+        "vin": "1FDXE4052XH"
+    }
+]

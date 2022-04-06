@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": true,
+        "dateComplaintFiled": "04/09/2003",
+        "dateOfIncident": "01/24/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10014190,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SUPRA",
+                "productYear": "1990",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CRACKED REAR SUSPENSION BOLT.  BOLT WAS SOFT OR CRACKED WHEN INSTALLED AND BROKE CAUSING ACCIDENT. *JB",
+        "vin": "JT2MA71N0L0"
+    }
+]

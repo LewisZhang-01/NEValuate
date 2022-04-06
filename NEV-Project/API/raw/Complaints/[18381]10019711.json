@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "05/13/2003",
+        "dateOfIncident": "03/15/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019711,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "LEXUS",
+                "productModel": "ES300",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE BRAKE ROTORS WERE WORN WHICH CAUSED EXTENDED STOPPING DISTANCE WHEN BRAKING.   *NLM",
+        "vin": "JTHBF30G220"
+    }
+]

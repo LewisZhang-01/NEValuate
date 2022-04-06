@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "06/06/2003",
+        "dateOfIncident": "06/06/2003",
+        "fire": true,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022572,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "GRAND AM",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING, SMOKE AND THEN FLAMES EMITTED FROM UNDER THE HOOD.   *AK",
+        "vin": ""
+    }
+]

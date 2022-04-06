@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "07/06/2009",
+        "dateOfIncident": "05/15/2009",
+        "fire": false,
+        "manufacturer": "Subaru of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10275914,
+        "products": [
+            {
+                "manufacturer": "Subaru of America, Inc.",
+                "productMake": "SUBARU",
+                "productModel": "LEGACY",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUEL FILLER PIPE LEAKS GAS WHEN FILLING. *TR",
+        "vin": "4S3BK4359X7"
+    }
+]

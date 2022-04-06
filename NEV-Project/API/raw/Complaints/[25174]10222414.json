@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "03/26/2008",
+        "dateOfIncident": "03/15/2008",
+        "fire": true,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10222414,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "GRAND CHEROKEE",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "PASSENGER SEAT  HEATING ELEMENT CAUGHT  FIRE, TOTALLY DESTROYING VEHICLE.   *TR",
+        "vin": "1J4GW58N24C"
+    }
+]

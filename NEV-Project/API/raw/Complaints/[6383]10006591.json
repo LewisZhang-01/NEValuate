@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "02/05/2003",
+        "dateOfIncident": "01/29/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10006591,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERCURY",
+                "productModel": "MYSTIQUE",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE WAS INVOLVED IN A HEAD ON COLLISION, BUT AIRBAGS DIDN'T DEPLOY. PLEASE PROVIDE ADDITIONAL INFORMATION.   PH",
+        "vin": "PLEASE FILL"
+    }
+]

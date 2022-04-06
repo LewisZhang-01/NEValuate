@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "01/23/2003",
+        "dateOfIncident": "01/18/2003",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004521,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "CIVIC",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FRONT SEAT BELT WILL NOT RETRACT BACK INTO POSITION ,AND IT COULD CAUSE SEAT BELT TO BE DEFECTIVE IN THE EVENT OFAN ACCIDENT. DEALER NOTIFIED. TS ...*AK",
+        "vin": ""
+    }
+]

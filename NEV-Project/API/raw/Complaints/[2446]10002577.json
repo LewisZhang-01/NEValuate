@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "01/13/2003",
+        "dateOfIncident": "01/10/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002577,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "CARAVAN",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATED DEALER REFUSED TO PERFORM RECALL REMEDY 02V293000 BECAUSE AIR BAG WARNING LIGHT WAS NOT ILLUMINATED AT THE TIME CONSUMER BROUGHT VEHICLE TO DEALERSHIP.*JB",
+        "vin": "2B4GP2430VR"
+    }
+]

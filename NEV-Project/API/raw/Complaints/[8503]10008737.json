@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "06/09/2003",
+        "dateOfIncident": "02/19/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10008737,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERCURY",
+                "productModel": "GRAND MARQUIS",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE FUEL TANK WAS KNOWN TO EXPLODE DURING IMPACT CRASHES.*JB  *TT",
+        "vin": "2MEFM74W1YX"
+    }
+]

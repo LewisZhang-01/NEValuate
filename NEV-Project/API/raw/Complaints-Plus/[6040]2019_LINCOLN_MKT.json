@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "10/17/2021",
+        "dateOfIncident": "10/17/2021",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11437048,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "MKT",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Rear toe-link failure, and part is available.  The failure occurred while I was driving, about 20 mph, heard a loud noise from the back of the vehicle. The vehicle swerved a bit but managed to regain control and come to a complete stop. Was not diagnosed by the dealership, but have determined,through TSB lookup, that this component has been a failure point across various Ford models including the MKT. No sensor warnings on the dashboard or messages, but was hearing intermittent clunking noises coming from rear of vehicle for about 2 weeks before incident. Usually heard it when rolling over bumps.",
+        "vin": "2LMHJ5AT7KB"
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "02/27/2017",
+        "dateOfIncident": "03/01/2016",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10957395,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "SATURN",
+                "productModel": "AURA",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2005 SATURN AURA. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 16V063000 (AIR BAGS); HOWEVER, THE PART TO DO THE REPAIR WAS UNAVAILABLE. THE CONTACT STATED THAT THE MANUFACTURER EXCEEDED A REASONABLE AMOUNT OF TIME FOR THE RECALL REPAIR. THE MANUFACTURER WAS MADE AWARE OF THE ISSUE. THE VIN WAS INVALID. THE CONTACT HAD NOT EXPERIENCED A FAILURE. VIN TOOL CONFIRMS PARTS NOT AVAILABLE.",
+        "vin": "W88AT271185"
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "10/11/2016",
+        "dateOfIncident": "11/14/2015",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10915323,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "SATURN",
+                "productModel": "AURA",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2005 SATURN AURA. WHILE DRIVING AT AN UNKNOWN SPEED, THE FRONT DRIVER SIDE TIRE SUDDENLY DEFLATED WITHOUT WARNING. THE VEHICLE WAS TAKEN TO AN INDEPENDENT MECHANIC WHERE IT WAS DIAGNOSED THAT THE TIRE PRESSURE SENSOR MONITOR FAILED AND NEEDED TO BE REPLACED. THE VEHICLE WAS REPAIRED. THE MANUFACTURER WAS NOTIFIED OF THE FAILURE. THE FAILURE MILEAGE WAS 90,000. THE VIN WAS NOT AVAILABLE.",
+        "vin": ""
+    },
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "02/19/2016",
+        "dateOfIncident": "12/15/2015",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10837181,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "SATURN",
+                "productModel": "AURA",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ELECTRONIC POWER STEERING WENT OUT IN 07-26-2009,12-26-2013 AND 12-15-2015 WHEN ON HWY AND CITY STREETS.",
+        "vin": "1G8AJ52F85Z"
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "06/17/2014",
+        "dateOfIncident": "06/06/2014",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10598956,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "SATURN",
+                "productModel": "AURA",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL*  THE CONTACT OWNS A 2007 SATURN AURA. THE CONTACT STATED THE VEHICLE FAILED TO SHIFT INTO PARK. THE VEHICLE WAS TOWED TO THE DEALER. THE DEALER STATED THE CONTACT'S VIN WAS NOT INCLUDED IN RECALL NHTSA CAMPAIGN NUMBER: 14V224000 (POWER TRAIN). THE MANUFACTURER WAS MADE AWARE OF THE FAILURE. THE VEHICLE WAS REPAIRED. THE FAILURE MILEAGE WAS 112,335 AND THE CURRENT MILEAGE WAS 112,435.   UPDATED 8/19/14*CN      THE CONSUMER STATED THE MANUFACTURER ADDED THE VEHICLE TO THE RECALL. THE OWNER HAS BEEN REIMBURSED THE COST OF THE REPAIRS.   UPDATED 8/28/2014   *JS",
+        "vin": "1G8ZS57N37F"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM,LATCHES/LOCKS/LINKAGES",
+        "crash": false,
+        "dateComplaintFiled": "09/28/2012",
+        "dateOfIncident": "09/04/2012",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10477416,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "SATURN",
+                "productModel": "AURA",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "REAR RIGHT DOOR ELECTRIC LOCK CONTROL INOPERATIVE.  *TR",
+        "vin": ""
+    }
+]

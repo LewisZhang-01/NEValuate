@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "08/27/2010",
+        "dateOfIncident": "08/15/2007",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10352314,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "DAKOTA",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "TBC Corporation",
+                "productMake": "BIG O",
+                "productModel": "BIG O SXP G/T",
+                "productYear": "9999",
+                "size": "P225/70R15",
+                "type": "Tire"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2000 DODGE DAKOTA WITH TBC BIG O SXP TIRES, LINE SIZE P255/70/R15. THE CONTACT STATED THAT THE TIRES EXHIBITED ABNORMAL BUBBLING. THE TIRES WERE REPLACED HOWEVER THE FAILURE PERSISTED. THE CONTACT STATED THAT THE TIRES WOULD ONLY LAST FOR ONE YEAR AND A HALF BEFORE EXHIBITING THE FAILURE. THE CONTACT INQUIRED WITH THE MANUFACTURER IN REGARDS TO AN UNKNOWN RECALL FOR THE TIRES. THE MANUFACTURER ADVISED THAT THEY WERE NOT AWARE OF A RECALL AND NO FURTHER ASSISTANCE WAS PROVIDED. THE DOT NUMBER WAS NOT AVAILABLE. THE FAILURE MILEAGE WAS 52,000 AND THE CURRENT MILEAGE WAS 110,000.",
+        "vin": "1B7GL22N9YS"
+    }
+]

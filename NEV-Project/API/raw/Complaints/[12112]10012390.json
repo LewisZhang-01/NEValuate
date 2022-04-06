@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "03/25/2003",
+        "dateOfIncident": "03/22/2003",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10012390,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "SENTRA",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING, VEHICLE WAS IN A FRONTAL COLLISION.  NONE OF THE AIR BAGS DEPLOYED UPON  IMPACT.",
+        "vin": ""
+    }
+]

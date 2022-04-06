@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "12/15/2018",
+        "dateOfIncident": "12/13/2018",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11161714,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "CHEROKEE",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TRANSMISSION NOT WORKING PROPERLY",
+        "vin": "1C4PJMCB9GW"
+    }
+]

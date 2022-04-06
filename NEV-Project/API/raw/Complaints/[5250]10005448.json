@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "02/07/2003",
+        "dateOfIncident": "02/02/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005448,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "1997",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "GENERAL TIRE & RUBBER CO.",
+                "productMake": "GENERAL",
+                "productModel": "AMERI 550",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "TIRE BLEW (THE TIRE TYPE IS GENERAL AMERI*550AS).   PH",
+        "vin": "1FTDX0768VK"
+    }
+]

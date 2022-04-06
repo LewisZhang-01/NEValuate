@@ -1,0 +1,31 @@
+[
+    {
+        "components": "POWER TRAIN,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "07/01/2008",
+        "dateOfIncident": "06/22/2008",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10232914,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "X3 SAV",
+                "productYear": "2007",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "82110393954",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "BMW X3 STALLS/HESITATES WHEN ACCELERATING TO MERGE INTO NORMAL TRAFFIC FLOW.  VEHICLE HAS PROBLEMS WHEN ACCELERATING FROM A STOPLIGHT OR SIGN.  TRANSMISSION REV'S VERY HIGH.  HAVE EXPERIENCED DANGEROUS OR LIFE THREATENING MOMENTS WHEN DRIVING THIS CSR.  HAVE HAD PREVIOUS BMW'S AND NEVER HAD THIS PROBLEM.  HAVE TAKEN CAR IN FOR SERVICING ONCE AND IT IS GOING IN AGAIN.  *TR",
+        "vin": "WBXPC93407W"
+    }
+]

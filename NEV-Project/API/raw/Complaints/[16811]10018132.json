@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "06/09/2003",
+        "dateOfIncident": "04/11/2001",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018132,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-250",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE'S FRONT LEFT AND RIGHT LOWER BALL JOINTS FAILED AT DIFFERENT TIMES NOT FROM USUAL WEAR AND TEAR.   LOWER BALL JOINTS HAD TO BE REPLACED.    *TT",
+        "vin": "1FTNX20F71E"
+    }
+]

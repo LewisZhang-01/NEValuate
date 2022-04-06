@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "05/21/2003",
+        "dateOfIncident": "05/15/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019047,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERCURY",
+                "productModel": "SABLE",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NHTSA RECALL NO. 98V323/FORD RECALL NO. 98S36]. RECALL SERVICE WAS PERFORMED 3/29/1999. AS OF THIS DATE THE REAR SUB FRAME MOUNTING BOLTS HAVE FAILED AGAIN.  *JB",
+        "vin": "1MELM5547PG"
+    }
+]

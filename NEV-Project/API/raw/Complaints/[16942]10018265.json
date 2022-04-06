@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "05/06/2003",
+        "dateOfIncident": "05/06/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018265,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "PLYMOUTH",
+                "productModel": "SUNDANCE",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE EXPERIENCED THE SAME PROBLEM AS STATED IN RECALL # 99 V 212 000, HOWEVER THE VEHICLE IDENTIFICATION NUMBER WAS NOT INCLUDED IN THE RECALL.  *JB  *SCC",
+        "vin": "1P3AP28DGRN"
+    }
+]

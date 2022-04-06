@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "09/24/2018",
+        "dateOfIncident": "03/15/2018",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11131014,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "TACOMA",
+                "productYear": "2017",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENGINE BOGGS DOWN LOSES RPM'S DURING DRIVING OF VEHICLE   ON HWY AND STREETS.",
+        "vin": "5TFAZ5CN4HX"
+    }
+]

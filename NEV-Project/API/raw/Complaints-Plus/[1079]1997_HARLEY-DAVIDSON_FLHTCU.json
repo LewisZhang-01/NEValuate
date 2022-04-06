@@ -1,0 +1,68 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "06/03/2013",
+        "dateOfIncident": "01/01/2011",
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10514793,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "FLHTCU",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 1997 HARLEY DAVIDSON FLHTCU MOTORCYCLE . THE CONTACT STATED THAT THE VEHICLE BEGAN TO WOBBLE AS THE FRAME FAILED WHILE DRIVING APPROXIMATELY 65 MPH.  THE VEHICLE WAS TAKEN TO THE DEALER WHERE THE FRAME WAS FOUND TO BE FRACTURED. THE CONTACT WAS ADVISED THAT THE FRAME WOULD NEED TO BE REPLACED. THE CONTACT STATED THAT THE FRAME HAD PREVIOUSLY BEEN REPLACED FOR A SIMILAR FAILURE.  THE VIN WAS NOT AVAILABLE. THE VEHICLE WAS NOT REPAIRED. THE MANUFACTURER WAS NOT MADE AWARE OF THE FAILURE.  THE APPROXIMATE FAILURE MILEAGE WAS 90,000 AND THE CURRENT MILEAGE WAS 156,000.",
+        "vin": ""
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "10/20/2000",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 556783,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "FLHTCU",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING THE VEHICLE SUDDENLY LOOSES ALL ELECTRICAL POWER, AFTER A FEW SECONDS THE POWER WILL RESUME.  NLM",
+        "vin": "1HD1DPL38VY"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "10/20/2000",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 556783,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "FLHTCU",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING THE VEHICLE SUDDENLY LOOSES ALL ELECTRICAL POWER, AFTER A FEW SECONDS THE POWER WILL RESUME.  NLM",
+        "vin": "1HD1DPL38VY"
+    }
+]

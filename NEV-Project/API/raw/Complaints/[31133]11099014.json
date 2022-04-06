@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "05/31/2018",
+        "dateOfIncident": "08/01/2010",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11099014,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO 2500",
+                "productYear": "2009",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE ELECTRICAL CURRENT GOING THROUGH THE WIRING HARNESS IS INCONSISTENT.  MY TRAILER BRAKES DO NOT WORK CORRECTLY.",
+        "vin": "1GCHK59699E"
+    }
+]

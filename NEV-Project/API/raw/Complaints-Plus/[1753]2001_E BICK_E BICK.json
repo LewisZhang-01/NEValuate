@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "07/18/2001",
+        "dateOfIncident": "06/22/2001",
+        "fire": true,
+        "manufacturer": "E BICK",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 9003264,
+        "products": [
+            {
+                "manufacturer": "E BICK",
+                "productMake": "E BICK",
+                "productModel": "E BICK",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BATTERY SHORTED OUT, RESULTING IN THE COMPUTER CAUGHTING ON FIRE.",
+        "vin": "RF2B13615YF"
+    }
+]

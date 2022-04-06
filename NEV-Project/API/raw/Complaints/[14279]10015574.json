@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "04/10/2003",
+        "dateOfIncident": "09/10/2002",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015574,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "GRAND CHEROKEE",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN BRAKING HARD THE VEHICLE'S FRONT END VIBRATED SEVERELY. THERE IS A TSB 05-003-02 FOR THIS ISSUE.  *NLM",
+        "vin": "1J4GW58S3XC"
+    }
+]

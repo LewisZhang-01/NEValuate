@@ -1,0 +1,24 @@
+[
+    {
+        "components": "EXTERIOR LIGHTING,VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "02/13/2003",
+        "dateOfIncident": "02/10/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10007317,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TAURUS",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE HEADLIGHTS FAILED WHILE DRIVING.*JB.  THE BLOWER MOTOR ALSO FAILED.   *JB",
+        "vin": "1FT0F15Y5KN"
+    }
+]

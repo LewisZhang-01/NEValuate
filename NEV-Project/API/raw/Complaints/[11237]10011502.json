@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "03/12/2003",
+        "dateOfIncident": "01/15/2003",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10011502,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "ELANTRA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE DRIVER SIDE SEAT BELT WAS TO TIGHT AROUND THE DRIVERS NECK. *JB",
+        "vin": "FULLFILL"
+    }
+]

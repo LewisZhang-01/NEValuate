@@ -1,0 +1,31 @@
+[
+    {
+        "components": "CHILD SEAT",
+        "crash": false,
+        "dateComplaintFiled": "02/11/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Subaru of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10006308,
+        "products": [
+            {
+                "manufacturer": "Subaru of America, Inc.",
+                "productMake": "SUBARU",
+                "productModel": "LEGACY",
+                "productYear": "1995",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Graco Children's Products, Inc.",
+                "productMake": "CENTURY",
+                "productModel": "ENCORE",
+                "productYear": "9999",
+                "type": "Child Seat"
+            }
+        ],
+        "summary": "THE CROTCH STRAP BUCKLE FAILED TO HOLD THE HARNESS STRAP TONGUE SECURELY. *JG  *JB",
+        "vin": ""
+    }
+]

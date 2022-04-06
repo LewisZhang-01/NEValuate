@@ -1,0 +1,32 @@
+[
+    {
+        "components": "SUSPENSION,TIRES",
+        "crash": false,
+        "dateComplaintFiled": "11/07/2002",
+        "dateOfIncident": "04/08/1999",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009094,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "DURANGO",
+                "productYear": "1999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "GOODYEAR",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "TIRES HAS UNEVEN WEAR. THE FRONT SHOCK WERE ALSO REPLACED. THE CONSUMER CONTINUED TO HAVE PROBLEMS WITH THE TIRES AND SUSPENSION.  *JB",
+        "vin": "1B4HR28Y4XF"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "03/06/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010023,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "ASTRO",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN THE VEHICLE WAS PARKED ON AN INCLINE WITH THE ENGINE RUNNING,  THE SHIFT LEVER DID NOT GO INTO ANY OTHER GEAR UNLESS EXCESSIVE FORCE WAS APPLIED.*JB",
+        "vin": "NOT AVAILAB"
+    }
+]

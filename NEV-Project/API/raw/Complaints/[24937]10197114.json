@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "07/21/2007",
+        "dateOfIncident": "08/01/2005",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10197114,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "GTO",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FRONT TIRES RUBBING AGAINST THE STRUTS. *TR",
+        "vin": "6G2VX12U65L"
+    }
+]

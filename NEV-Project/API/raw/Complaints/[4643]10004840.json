@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "01/28/2003",
+        "dateOfIncident": "01/27/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004840,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERCURY",
+                "productModel": "SABLE",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "STEERING HAD GONE OUT, AND CAUSED IT TO BECOME IMPOSSIBLE TO STEER/TURN.  TS  SCC",
+        "vin": "1MEFMS3U1YG"
+    }
+]

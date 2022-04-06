@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "03/06/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009440,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "LIFTGATE CABLES FAILED WHEN HAULING BALES OF STRAW.*AK  *JB",
+        "vin": "1GCEK19V0YZ"
+    }
+]

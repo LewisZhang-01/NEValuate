@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "06/19/2003",
+        "dateOfIncident": "06/19/1996",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10023395,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "BLAZER",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "1996 CHEVROLET BLAZER TCC VALVE ON TRANSMISSION FAILED WHILE DRIVING ON HIGHWAY ONCE VEHICLE WARMED UP AFTER DRIVING FOR A DISTANCE.  APPEARS THAT THE SAME TRANSMISSION ON MANY MODELS HAVE SIMILAR FAILURES AND ISSUES WHERE IT SWITCHES HARD FROM 1ST TO 2ND ON AT.  SES ENGINE SERVICE CODE 1870.   *NLM",
+        "vin": "1GNDT13W5T2"
+    }
+]

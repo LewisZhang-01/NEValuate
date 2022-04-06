@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/05/2003",
+        "dateOfIncident": "06/05/2003",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021107,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "CIVIC",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "DUNLOP TIRE CORPORATION",
+                "productMake": "DUNLOP",
+                "productModel": "SP20FE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "ORIGINAL EQUIPMENT TIRES ON 2002 HONDA CIVIC. WITH JUST UNDER 16,000 MILES, MOSTLT HIGHWAY, THE TIRE TREAD IS WORN OFF. THE TIRES HAVE BEEN ROTATED 3 OR 3 TIMES, AND INFLATION CHECKED REGULARLY.*AK",
+        "vin": ""
+    }
+]

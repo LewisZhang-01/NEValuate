@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "02/21/2003",
+        "dateOfIncident": "01/13/2001",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10007956,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TRANSMISSION FAILED. FROM PARK TO REVERSE OR DRIVE TOOK 8-10 SEC'S FOR IT'S POSITION. DEALER SAYS NOTHING WRONG. TRANS. SPECIALISTS CHARGED  $2500.00 FOR REBUILT FORD TRANS.",
+        "vin": "1FMDU34X0SU"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "02/07/2003",
+        "dateOfIncident": "06/19/2002",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005467,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "ACCENT",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE TRANSMISSION IS STUCK IN 3RD GEAR.              PH",
+        "vin": "KMHCG45G7YU"
+    }
+]

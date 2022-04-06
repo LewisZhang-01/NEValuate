@@ -1,0 +1,76 @@
+[
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "07/11/2016",
+        "dateOfIncident": "06/10/2016",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10884107,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "STRIPPED CHASSIS",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ABS BRAKE LIGHT CAME ON.  NEEDS A NEW ABS MODULE, FOUND OUT THAT FORD HAS DISCONTINUED MAKING THIS PART AND HAS NO REPLACEMENT PART FOR IT.  HAVE BEEN INSTRUCTED TO DRIVE WITHOUT THE ABS SYSTEM???",
+        "vin": "1F6NF53YX60"
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "07/22/2010",
+        "dateOfIncident": "05/29/2010",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10344715,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "STRIPPED CHASSIS",
+                "productYear": "2006",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "G622 LR-F",
+                "productYear": "9999",
+                "size": "245/70R19.5",
+                "type": "Tire"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 2009 FORD MH STRIPPED CHASSIS EQUIPPED (NA) WITH SEVEN GOODYEAR G670 TIRES, SIZE 245/70/19.5. THE CONTACT STATED THAT THEY HAVE HAD MULTIPLE TIRE FAILURES. THE RIGHT REAR OUTSIDE TIRE BLEW OUT AND AT LEAST HALF OF THE TIRES ON THE VEHICLE WERE REPLACED BECAUSE THEY WERE \"OUT OF ROUND\".  GOODYEAR REIMBURSED THE OWNER FOR THE TIRES. THE OTHER TIRES WERE BEING REPLACED TODAY SINCE THEY WERE ALSO OUT OF ROUND. GOODYEAR HAD NOT DECIDED IF THEY WOULD REIMBURSE THE CONTACT FOR THE TIRES. THE FAILURE AND CURRENT MILEAGES WERE APPROXIMATELY 8,000.",
+        "vin": "1F6NF53Y490"
+    },
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "10/28/2009",
+        "dateOfIncident": "10/16/2009",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10290104,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "STRIPPED CHASSIS",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 2006 FORD MH STRIPPED CHASSIS MOTOR HOME. UPON ENTERING A PARKING SPACE THE WINDSHIELD GLASS SEPARATED FROM THE BRACKETS WITHOUT PRIOR WARNINGS. THE VEHICLE WAS IN THE PROCESS OF  BEING INSPECTED BY THE DEALER. THE MANUFACTURER WAS NOTIFIED, BUT BECAUSE HE WAS THE SECOND OWNER THEY WOULD NOT PROVIDE ANY ASSISTANCE. THE FAILURE AND CURRENT MILEAGES WERE NOT APPLICABLE.",
+        "vin": "1F6MF53Y960"
+    }
+]

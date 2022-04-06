@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/27/2003",
+        "dateOfIncident": "07/16/2000",
+        "fire": false,
+        "manufacturer": "Gulf Stream Coach, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018138,
+        "products": [
+            {
+                "manufacturer": "Gulf Stream Coach, Inc.",
+                "productMake": "GULF STREAM",
+                "productModel": "MOTORHOME",
+                "productYear": "1997",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE STEEL PROD. CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "FIRESTONE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE INSIDE TANDEM TIRES FAILED, AND BLEW OUT WHILE DRIVING.  THE OWNER CHECKED THE TIRE INFLATION AND WEIGHT OF THE MOTORHOME LOADED AND UNLOADED.  THE OWNER HAD (3) DIFFERENT TIRE MANUFACTURES AND BRANDS OF TIRES.   THIS MOTORHOME HAD PROPANE LINES INSIDE THE WHEEL WELD.  HE WAS TOLD BY GULFSTREAM TO USE A BIGGER TIRE.   *TS  *JB",
+        "vin": "1FDLE40S0VH"
+    }
+]

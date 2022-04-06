@@ -1,0 +1,46 @@
+[
+    {
+        "components": "SEAT BELTS,SEATS",
+        "crash": false,
+        "dateComplaintFiled": "04/02/2002",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "DAMON MOTOR COACH",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 9006534,
+        "products": [
+            {
+                "manufacturer": "DAMON MOTOR COACH",
+                "productMake": "DAMON",
+                "productModel": "CHALLENGER",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SEAT BELT IS NO GOOD AND SEAT IS FALLING OFF",
+        "vin": "1GBKP37NXP3"
+    },
+    {
+        "components": "STRUCTURE,SEATS",
+        "crash": false,
+        "dateComplaintFiled": "03/12/2002",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "DAMON MOTOR COACH",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 8005472,
+        "products": [
+            {
+                "manufacturer": "DAMON MOTOR COACH",
+                "productMake": "DAMON",
+                "productModel": "CHALLENGER",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FRONT BODY OF VEHICLE CAME LOOSE,  AND IS FALLING APART BEHIND DRIVER SEAT TO FRONT. METAL PIECE IS HANGING FROM BOTTOM NEXT TO TIRE. THE SUPPORT OF VEHICLE IS ROTTED OFF.  CHANNEL THAT HOLDS THE DRIVER SEAT TO BODY IS GONE .SEAT IS HELD BY PLYWOOD BECAUSE METAL IS GONE. TOOK TO BODY SHOP AND MECHANIC INDICATED VEHICLE IS UNSAFE TO DRIVE AND NOT ROAD SAFE.*AK",
+        "vin": "1GBKT37NXR3"
+    }
+]

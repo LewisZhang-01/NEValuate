@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "04/11/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015713,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE TRANSMISSION FAILED WHILE DRIVING. *JB",
+        "vin": "2GTEC19M4W1"
+    }
+]

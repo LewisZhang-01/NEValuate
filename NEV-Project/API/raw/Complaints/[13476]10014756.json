@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "02/24/2003",
+        "dateOfIncident": "10/11/2000",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10014756,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NAR 02/28/2003    MR   THE CONSUMERS WINDSHIELD WIPER WOULD  NOT OPERATE AT ALL.     *CB",
+        "vin": "2GTEC19H1S1"
+    }
+]

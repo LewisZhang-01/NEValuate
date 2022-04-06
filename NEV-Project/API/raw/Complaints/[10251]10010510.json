@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "03/15/2003",
+        "dateOfIncident": "12/04/2002",
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010510,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERCURY",
+                "productModel": "TRACER",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "HORN BLOWS CONTINUOUSLY. PULLED FUSE TO STOP. TOLD BY DEALER SERVICE DEPARTMENT NEED TO REPLACE ENTIRE AIRBAG ASSEMBLY TO RECTIFY.  *NLM",
+        "vin": "1MELM13P9VW"
+    }
+]

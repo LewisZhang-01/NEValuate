@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "07/26/2019",
+        "dateOfIncident": "07/26/2019",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11235064,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TAURUS",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FAULT CODES   U3000-96  C200D-49",
+        "vin": "1FAHP2KTXFG"
+    }
+]

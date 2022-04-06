@@ -1,0 +1,112 @@
+[
+    {
+        "components": "FUEL SYSTEM, DIESEL",
+        "crash": false,
+        "dateComplaintFiled": "04/01/2022",
+        "dateOfIncident": "03/24/2022",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11459202,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350 SD",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact owns a 2022 Ford F-350. The contact became aware that there was fuel leaking from the vehicle. The vehicle was taken to the dealer where it was diagnosed that the fuel lines were chewed on by rodents causing the fuel leak. The vehicle was not repaired. The manufacturer was notified of the failure. The approximate failure mileage was 3,106.",
+        "vin": "1ft8w3bn7ne"
+    },
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "04/01/2022",
+        "dateOfIncident": "01/18/2022",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11459218,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350 SD",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I see there is a software recall update on trailer brake controller but not sure if that is the issue.  The manual squeeze brakes did not work first time 5th wheel hooked up.  The 7 pin trailer clip goes into a 5 pin harness and a 2 pin harness.  The 2 pin is the brake control for the trailer.  I traced the wiring to the next connector..  When the wiring was unplugged and replugged in the connection and braking system worked.  It is located on driver side next to spare tire.  The error was happening on both the truck bed 7 pin connector and hitch connector.  So issue had to be in line.  The manual squeeze trigger had power because unconnected error shows on dash when squeezed and not prior to that.  This puts the issue between trigger and connector split the two 7 pin trailer tow connectors. Also since the trailer is grounded to truck via the hitch it means the positive wire in that connector is the issue.",
+        "vin": "1FT8W3BT2NE"
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "02/24/2022",
+        "dateOfIncident": "02/24/2022",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11453805,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350 SD",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact owns a 2022 Ford F-350 Super Duty. The contact received a notification of NHTSA Campaign Number: 21V536000 (Power Train); However,  the local dealer informed the contact that the parts for the recall repair were not yet available. The contact stated the manufacturer had exceeded a reasonable amount of time for the recall repair. The manufacturer was notified of the issue but did not provide any assistance. The contact had not experienced a failure. Unable to confirm parts not available.",
+        "vin": "1FT8W3DT2NE"
+    },
+    {
+        "components": "VISIBILITY/WIPER",
+        "crash": false,
+        "dateComplaintFiled": "02/22/2022",
+        "dateOfIncident": "02/05/2022",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11453385,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350 SD",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "02/05/2022: Severe ice storm in Northeast. Windshield adequately thawed and cleared with ice pieces and snow remaining in windshield wiper \"bay\". Upon energizing windshield wipers in preparation for departure, wipers made several clearing swipes with minor resistance when the driver's side wiper disengaged. After investigation the following theoretical engineering/design flaws were noted: 1) windshield wiper arm hub is larger than splined shaft not allowing 360-degree engagement on spined shaft. Ford has chosen a keyseat in the shaft and a keyway in the hub combined with a key to make the assembly a keyed joint in what appears to be an effort to make a satisfactory drive assembly. 2) The wiper arm is retained on the splined shaft with a spring-loaded lever recessed in a groove. This spring-loaded lever is neither strong nor protected. 3) the wiper arm and blade are heavily spring-loaded on the windshield.  My theory is that the ice debris became lodged beneath the wiper arm hub forcing the wiper arm retention lever open (note: lever can be displaced by your thumbnail) popping the wiper arm up with the assistance of the heavily preloaded spring force downward on the windshield. The key fell out when the arm was displaced which left the assembly disengaged from the splined shaft. The key was found in the bay.  It is my contention that this assembly poses a serious safety issue for these vehicles. They are purchased to be used in inclement weather (i.e.: snowplowing) and there is not a reliable windshield wiper arm to shaft retention device nor an adequate drive spline. Had this happened while I was driving down the road (especially in inclement weather), it would have been an immediate and severe safety crisis which could have been disastrous.",
+        "vin": "1FT8X3BNXNE"
+    },
+    {
+        "components": "LATCHES/LOCKS/LINKAGES",
+        "crash": false,
+        "dateComplaintFiled": "08/31/2021",
+        "dateOfIncident": "08/19/2021",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11431292,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350 SD",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Page 84 of the owners manual states to open locked rear doors to pull the handle twice. The first pull unlocks the door the second pull opens the door. This function does not work. The dealer even tested at least 2 other 2022 F-350's and this did not work on those either. In the event of a crash, car jacking, fire or being just left in the vehicle and the doors are not unlocked the rear passengers doors will not unlock and passengers can not exit the vehicle via the doors using just the handle. The only way to unlock the rear doors if front seats are not accessable/danger to life exists is to pull up on the lock indicator stalk on the rear of the rear doors. The dealer I bought this vehicle from looked over all of this information and confirmed it to not work as described in the manual and even contacted Ford engineering. Ford's response is that this feature my no longer be available and that the owners manual is either not correct or is not available yet for the vehicle. This information was directly to the dealer that inspected the vehicle and confirmed that none of the F-350 crew cabs they have are able to perform this function.",
+        "vin": "1FT8W3BT6NE"
+    }
+]

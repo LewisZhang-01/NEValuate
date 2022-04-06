@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "07/24/2019",
+        "dateOfIncident": "07/20/2019",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11234464,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "RAM",
+                "productModel": "1500",
+                "productYear": "2019",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "WRANGLER",
+                "productYear": "9999",
+                "size": "LT265/75R16",
+                "type": "Tire"
+            }
+        ],
+        "summary": "TL* THE CONTACT CALLED ON BEHALF OF THE OWNER OF A 2019 RAM 1500 EQUIPPED WITH GOODYEAR WRANGLER DURATRAC TIRES, SIZE: LT275/70/R18 (NA). WHILE DRIVING AT AN UNDISCLOSED SPEED, THE REAR DRIVER'S SIDE TIRE BLEW OUT. THERE WAS NO CRASH DUE TO THE BLOWOUT. THE VEHICLE WAS TAKEN TO A GOODYEAR TIRE DEALER TO BE INSPECTED. THE CONTACT STATED THAT THE STEEL BELTS WERE PUSHED OUT OUTSIDE OF THE TREAD ON THE TIRE DUE TO THE BLOWOUT. THE CONTACT STATED THAT THE TIRE SHOWED DEFECTS TO THE TREAD BELT. THE CONTACT WAS CONCERNED THAT SIMILAR VEHICLES AT THE LOCAL FCA DEALER SHOWED THE SAME FLAW WITH THE TIRES. THE TIRES WERE NOT REPLACED. TEAM ONE CHRYSLER DODGE JEEP RAM OF GADSDEN (LOCATED AT 1149 1ST AVE, GADSDEN, AL 35901, (256) 543-9583) WAS INFORMED OF THE FAILURE. THE MANUFACTURER WAS NOT CONTACTED. THE APPROXIMATE TIRE AND VEHICLE FAILURE MILEAGE WAS 30. *TR*JB *TR*JB",
+        "vin": "1C6SRFLTXKN"
+    }
+]

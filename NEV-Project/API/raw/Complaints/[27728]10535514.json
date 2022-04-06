@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "08/15/2013",
+        "dateOfIncident": "07/13/2013",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10535514,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "CARAVAN",
+                "productYear": "2007",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "ARIZONIAN",
+                "productModel": "SILVER EDITION PLUS",
+                "productYear": "9999",
+                "size": "P225/60R16 97H",
+                "type": "Tire"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS 2007 DODGE CARAVAN WITH ARIZONIAN SILVER TIRES, SIZE: 215-70-15. THE CONTACT STATED THAT WHILE DRIVING 60 MPH, THE REAR PASSENGER'S SIDE TIRE BLEW. THE CONTACT WAS ABLE TO REPLACE THE TIRE WITH A SPARE. THE MANUFACTURER WAS NOTIFIED. THE APPROXIMATE VEHICLE FAILURE MILEAGE WAS 89,000 AND THE APPROXIMATE TIRE FAILURE MILEAGE WAS 3,800. THE DOT NUMBER WAS NOT AVAILABLE.",
+        "vin": "1D4GP25B97B"
+    }
+]

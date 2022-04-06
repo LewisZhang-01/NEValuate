@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "04/04/2003",
+        "dateOfIncident": "01/01/1901",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10011778,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-550 SD",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Continental Tire the Americas, LLC",
+                "productMake": "CONTINENTAL",
+                "productModel": "CONTINENTAL",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE VALVE STEMS FAILED ON 3 TIRES, WHICH CAUSED THE TIRES TO FAIL, HOWEVER THE WARRANTY TIRE CENTER INDICATED A NAIL WAS EMBEDDED IN THE TIRE.  *PH  *JB   *CB",
+        "vin": "1FDAF56F5YE"
+    }
+]

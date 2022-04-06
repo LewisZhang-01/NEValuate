@@ -1,0 +1,24 @@
+[
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "02/04/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004565,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "OLDSMOBILE",
+                "productModel": "AURORA",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER HAD A PUNCTURED TIRE.  USING THE JACK PROVIDED WITH THE VEHICLE, CONSUMER STARTED TO CHANGE THE TIRE.  THE JACK GAVE WAY AT THE CRIMPED POINTS AND THE VEHICLE FELL TO THE GROUND.     PH",
+        "vin": "1G3GR62C5X4"
+    }
+]

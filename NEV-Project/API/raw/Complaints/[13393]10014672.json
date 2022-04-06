@@ -1,0 +1,31 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "03/28/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "UNKNOWN MANUFACTURER",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10014672,
+        "products": [
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN1",
+                "productYear": "9999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "DELCO ELECT. DIV., GM",
+                "productMake": "DELCO",
+                "productModel": "DELCO",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "THE BATTERY LEAKED ACID AND DAMAGED THE BATTERY TRAY AND CABLE. THE BATTERY WAS REPLACED, HOWEVER THE PROBLEM RECURRED.  *JB",
+        "vin": ""
+    }
+]

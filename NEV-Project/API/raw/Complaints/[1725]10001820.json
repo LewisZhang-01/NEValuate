@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "01/02/2003",
+        "dateOfIncident": "12/25/2002",
+        "fire": false,
+        "manufacturer": "MONACO COACH CORPORATION",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001820,
+        "products": [
+            {
+                "manufacturer": "MONACO COACH CORPORATION",
+                "productMake": "MONACO COACH",
+                "productModel": "MONACO",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN APPLYING BRAKES THEY WILL OVERHEAT AND WILL CAUSE VEHICLE TO HAVE EXTENDED STOPPING DISTANCE. DEALER NOTIFIED. TS.  *AK",
+        "vin": ""
+    }
+]

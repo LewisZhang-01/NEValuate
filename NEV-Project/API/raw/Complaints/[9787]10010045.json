@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": true,
+        "dateComplaintFiled": "03/06/2003",
+        "dateOfIncident": "03/28/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010045,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAVALIER",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER ATTEMPTED TO MAKE A LEFT TURN, HOWEVER THE WHEELS DID NOT TURN LEFT, BUT VEERED TOWARD THE RIGHT WHICH RESULTED IN A COLLISION. JUST RECEIVED A RECALL NOTICE FROM GM CONCERNING STEERING.",
+        "vin": "4G1JF32T9VB"
+    }
+]

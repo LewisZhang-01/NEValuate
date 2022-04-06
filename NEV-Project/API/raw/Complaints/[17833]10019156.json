@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, AIR",
+        "crash": false,
+        "dateComplaintFiled": "05/23/2003",
+        "dateOfIncident": "09/07/2001",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019156,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "MALIBU",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TSB 00-05-23-002A.  DEALER AND MANUFACTURER FAILS TO REPAIR PROBLEM.  VEHICLE IS UNSAFE TO DRIVE AFTER APPROXIMATELY 5000 MILES.  MUST BE REPAIRED TO FIX SAFETY ISSUE.  HOWEVER, FIX IS ONLY TEMPORARY.",
+        "vin": "1G1NE52J3Y6"
+    }
+]

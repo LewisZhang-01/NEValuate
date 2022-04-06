@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "02/19/2003",
+        "dateOfIncident": "01/07/2003",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10008725,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "JETTA",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE IGNITION COIL FAILED, WHICH CAUSED THE VEHICLE TO STALL.*JB",
+        "vin": "3VWTE29M0XM"
+    }
+]

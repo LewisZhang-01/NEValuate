@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "01/17/2003",
+        "dateOfIncident": "01/09/2003",
+        "fire": false,
+        "manufacturer": "Isuzu Technical Center of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002843,
+        "products": [
+            {
+                "manufacturer": "Isuzu Technical Center of America, Inc.",
+                "productMake": "ISUZU",
+                "productModel": "RODEO",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SEAT BELT WILL NOT STAY FASTENED. TS",
+        "vin": "4S2CG58Z2N4"
+    }
+]

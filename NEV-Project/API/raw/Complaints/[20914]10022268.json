@@ -1,0 +1,24 @@
+[
+    {
+        "components": "INTERIOR LIGHTING",
+        "crash": false,
+        "dateComplaintFiled": "06/04/2003",
+        "dateOfIncident": "04/15/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022268,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE INSTRUMENT PANEL LIGHTS DID NOT WORK.  *NLM",
+        "vin": "FILLIN"
+    }
+]

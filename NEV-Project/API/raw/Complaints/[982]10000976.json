@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/12/2003",
+        "dateOfIncident": "01/08/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000976,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "B.F. GOODRICH TIRE CO.",
+                "productMake": "B.F.GOODRICH",
+                "productModel": "T/A RADIAL TIRE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "TREAD SEPARATION ON LT245R B.F. GOODRICH LONG TRAIL TA RESULTING IN DAMAGE TO VEHICLE (1999 SUBURBAN)",
+        "vin": "1GNFK16R6XJ"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "12/20/2002",
+        "dateOfIncident": "12/14/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001293,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "PARK AVENUE",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLES' PASSENGER  SIDE SHOULDER SEAT BELT FAILS TO RETRACT FROM SHOULDER RETRACTOR. PLEASE PROVIDE MORE DETAILS. TS",
+        "vin": "1G40W52K0V4"
+    }
+]

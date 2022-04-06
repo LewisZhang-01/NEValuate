@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "05/29/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021841,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "CONCORDE",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE MAKING A LEFT TURN, VEHICLE SUDDENLY LOST POWER STEERING AND THE TIRES LOCKED UP. THIS WAS CAUSEB BY RACK AND PINON FAILURE.*AK",
+        "vin": "2C3HD56F3V8"
+    }
+]

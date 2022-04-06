@@ -1,0 +1,134 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "05/10/2002",
+        "dateOfIncident": "06/01/1992",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 8009606,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "CROWN VICTORIA",
+                "productYear": "1983",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE STALLS INTERMITTENTLY AFTER A LONG DRIVE AND WHEN SLOWING DOWN.*AK",
+        "vin": "ADD"
+    },
+    {
+        "components": "POWER TRAIN,ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "01/05/2001",
+        "dateOfIncident": "10/21/2000",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 738863,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "CROWN VICTORIA",
+                "productYear": "1983",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NO SUMMARY LISTED FOR ABOVE VEHICLE.  *AK",
+        "vin": "2FABP43F7DB"
+    },
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "05/11/1999",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 837720,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "CROWN VICTORIA",
+                "productYear": "1983",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN VEHICLE IS STARTED IT SURGES FORWARD. THE DEALER AND MANUFACTURER HAVE BEEN NOTIFIED.  *AK",
+        "vin": "2FABP43FVDB"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "08/12/1996",
+        "dateOfIncident": "07/27/1996",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 507280,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "CROWN VICTORIA",
+                "productYear": "1983",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE WON'T START OCCASIONALLY DUE TO IGNITION SWITCH FAILURE. *DH",
+        "vin": "1FABP43F4DZ"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "04/29/1996",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 983854,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "CROWN VICTORIA",
+                "productYear": "1983",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "UPON STARTING, LEFT VEHICLE TO WARM UP, MOMENTS LATER WHEN OPENED DOOR FOUND INTERIOR ENGULFED IN SMOKE..    *AK",
+        "vin": "2FABP44F6DB"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "04/29/1996",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 983854,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "CROWN VICTORIA",
+                "productYear": "1983",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "UPON STARTING, LEFT VEHICLE TO WARM UP, MOMENTS LATER WHEN OPENED DOOR FOUND INTERIOR ENGULFED IN SMOKE..    *AK",
+        "vin": "2FABP44F6DB"
+    }
+]

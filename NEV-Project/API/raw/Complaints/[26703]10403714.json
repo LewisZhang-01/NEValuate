@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "05/30/2011",
+        "dateOfIncident": "05/27/2011",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10403714,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "WINDSTAR",
+                "productYear": "1991",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "1991 FORD WINDSTAR SUBFRAME BEHIND PASSENGER SIDE FRONT TIRE HAS SPLIT.  SIGNS OF RUST IN THE AREA OF THE SPLIT.  *TR",
+        "vin": "2FMDA5244XB"
+    }
+]

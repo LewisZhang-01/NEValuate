@@ -1,0 +1,24 @@
+[
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "04/03/2003",
+        "dateOfIncident": "03/31/2003",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10013874,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "PASSAT",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "RADIO/TAPE DECK/CD PLAYER FAILED ON A 10 MONTH OLD CAR.  REPLACED UNDER WARRANTY.",
+        "vin": "WVWVD63B42E"
+    }
+]

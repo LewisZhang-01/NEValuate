@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "04/02/2003",
+        "dateOfIncident": "03/30/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10014986,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "GRAND AM",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER VEHICLE'S SUBFRAME IS CRACKED CAUSING VIBRATION IN THE STEERING COLUMN.   *NLM",
+        "vin": "1G2NE55M6SC"
+    }
+]

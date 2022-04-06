@@ -1,0 +1,46 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/31/2012",
+        "dateOfIncident": "04/19/2011",
+        "fire": false,
+        "manufacturer": "Piaggio Group Americas, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10446410,
+        "products": [
+            {
+                "manufacturer": "Piaggio Group Americas, Inc.",
+                "productMake": "PIAGGIO",
+                "productModel": "VESPA GTV 250",
+                "productYear": "2010",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2010 PIAGGIO VESPA 250 GTV IE SCOOTER. CONSUMER STATES DRY ROT FOUND ON TIRE *TGW",
+        "vin": ""
+    },
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "10/18/2010",
+        "dateOfIncident": "09/30/2010",
+        "fire": false,
+        "manufacturer": "Piaggio Group Americas, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10361027,
+        "products": [
+            {
+                "manufacturer": "Piaggio Group Americas, Inc.",
+                "productMake": "PIAGGIO",
+                "productModel": "VESPA GTV 250",
+                "productYear": "2010",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FAULTY FUEL PUMP - HAD PROBLEMS ON THE DAY I DROVE IT OFF THE LOT, WITH ONLY 1 MILE ON THE ODOMETER WHEN PURCHASED.  LEFT ME STRANDED, HAD TO REPLACE FUEL PUMP. *TR",
+        "vin": "99999999999"
+    }
+]

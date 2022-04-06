@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "11/13/2019",
+        "dateOfIncident": "09/01/2019",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11279799,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "YUKON DENALI",
+                "productYear": "2019",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Bridgestone Americas Tire Operations",
+                "productMake": "BRIDGESTONE",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2019 GMC YUKON DENALI EQUIPPED WITH FOUR BRIDGESTONE ALLIANZ TIRES, SIZE: 275/50/R22 (NA). WHILE DRIVING ABOVE 50 MPH, THE VEHICLE VIBRATED WITHOUT WARNING. THE VEHICLE WAS TAKEN TO COURTESY BUICK GMC (1857 EDWARDS LAKE RD, BIRMINGHAM, AL 35235, (205) 718-7565) WHERE IT WAS DIAGNOSED THAT THE TIRES FAILED TO BALANCE. THE VEHICLE WAS REPAIRED; HOWEVER, THE FAILURE RECURRED. THE MANUFACTURER WAS CONTACTED AND REPLACED THE TIRES. THE TIRE AND VEHICLE FAILURE MILEAGE WAS 6,300. THE DOT NUMBER WAS UNKNOWN.",
+        "vin": "1GTU9FEL7KZ"
+    }
+]

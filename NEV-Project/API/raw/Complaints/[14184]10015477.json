@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "04/09/2003",
+        "dateOfIncident": "04/08/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015477,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "MALIBU",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE SWERVED LEFT AND RIGHT WITHOUT WARNING. THE DEALER WAS NOTIFIED.  *NLM",
+        "vin": "1G1NE52M1V6"
+    }
+]

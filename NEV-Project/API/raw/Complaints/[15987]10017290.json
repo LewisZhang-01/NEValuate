@@ -1,0 +1,24 @@
+[
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "04/21/2003",
+        "dateOfIncident": "04/21/2003",
+        "fire": false,
+        "manufacturer": "MONACO COACH CORPORATION",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017290,
+        "products": [
+            {
+                "manufacturer": "MONACO COACH CORPORATION",
+                "productMake": "MONACO COACH",
+                "productModel": "MEDALLION",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE RECALL FAILED ON THE MOTOR COACH 29FKS MEDALLION REFRIGERATOR. THE DEALER WAS NOTIFIED.    *NLM",
+        "vin": "4K0111H24Y3"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "05/16/2003",
+        "dateOfIncident": "05/11/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018820,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "CROWN VICTORIA",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUEL LINE CONNECTION TO FUEL FILTER UNDER CAR FAILED CAUSING A HIGH SPEED FUEL LEAK CREATING A POSSIBLE CATASTROPHIC FIRE CONDITION.   *NLM",
+        "vin": "2FAFP73W1XX"
+    }
+]

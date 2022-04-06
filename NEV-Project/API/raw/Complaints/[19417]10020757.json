@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "05/30/2003",
+        "dateOfIncident": "05/13/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020757,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2000 FORD EXPLORER 4DR AWD - THE DRIVER'S SEAT UNEXPECTEDLY WENT INTO THE FULLY RECLINED POSITION WITHOUT WARNING WHILE SITTING IN THE SEAT. A FORD DEALERSHIP IDENTIFIED THE PROBLEM AS A BROKEN BOLT. REPAIRS COST $240.22 *AK",
+        "vin": "1FMDU83P5YU"
+    }
+]

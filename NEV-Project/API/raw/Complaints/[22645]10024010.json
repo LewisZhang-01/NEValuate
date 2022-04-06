@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS,SEAT BELTS",
+        "crash": true,
+        "dateComplaintFiled": "07/11/2003",
+        "dateOfIncident": "06/13/2003",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 2,
+        "odiNumber": 10024010,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "Z3",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE DRIVER WAS STOPPED AT A LIGHT WHEN THE VEHICLE WAS IMPACTED IN THE FRONT AT 45 MPH. NEITHER OF THE FRONTAL AIR BAG DEPLOYED.  THE SEAT BELT ALSO FAILED TO PROPERLY RESTRAIN THE DRIVER.  *AK   *CB  *NLM",
+        "vin": "4USCH7333WL"
+    }
+]

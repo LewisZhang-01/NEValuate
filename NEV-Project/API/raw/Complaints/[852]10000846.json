@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": true,
+        "dateComplaintFiled": "01/09/2003",
+        "dateOfIncident": "01/01/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000846,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "AZTEK",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "KELLY SPRINGFIELD TIRE CO",
+                "productMake": "KELLY SPRINGFIELD",
+                "productModel": "P21570R15",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "STUDDED SNOW TIRES WERE PURCHASED AND PUT ON BY GULF SERVICE STATION IN PITTSFIELD, ME ON 12/03/02.  ON 01/01/03 THE DRIVER FRONT SNOW TIRE \"BLEW OFF\" RIM OF WHEEL.  TIRE WAS NOT RECOVERED AT ACCIDENT SITE.  TIRE COULD NOT BE FOUND BY NY STATE TROOPER NOR MY HUSBAND!  VEHICLE WAS TOTALLED.",
+        "vin": "3G7DA03E51S"
+    }
+]

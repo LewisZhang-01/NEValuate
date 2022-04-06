@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "03/25/2003",
+        "dateOfIncident": "03/14/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10011002,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "TAHOE",
+                "productYear": "2003",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Bridgestone Americas Tire Operations",
+                "productMake": "FIRESTONE",
+                "productModel": "WILDERNESS AT",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "TIRE FAILURE.  NEW VEHICLE WITH LESS THAN 3,000 MILES.  FRONT PASSENGER SIDE TIRE  BLEW OUT.  TIRE WAS REPLACED BY FIRESTONE AT NO CHARGE.  FIRESTONE PERSONEL  MAINTAIN THAT DRIVER RAN OVER SOMETHING AND FAILURE WAS CAUSED BY PUNCTURE.  THE SIZE OF THE HOLE IN THE TREAD NOT CONSISTENT WITH THAT THEORY.",
+        "vin": ""
+    }
+]

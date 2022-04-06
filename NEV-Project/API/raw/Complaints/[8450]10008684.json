@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "03/04/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10008684,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BOTH LIFTGATE CABLES  FAILED. *AK  *NLM",
+        "vin": "1GCEK19V0YZ"
+    }
+]

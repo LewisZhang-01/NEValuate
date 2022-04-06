@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "06/04/2003",
+        "dateOfIncident": "05/24/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021038,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUEL PUMP WIRES MELTING TOGETHER AND CAUSING VEHICLE TO STOP SUDDENLY AND SHORTING OUT PCM BOARD.  *NLM",
+        "vin": "3GNEC16T3YG"
+    }
+]

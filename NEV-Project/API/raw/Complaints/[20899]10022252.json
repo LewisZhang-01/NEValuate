@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,EXTERIOR LIGHTING,STRUCTURE",
+        "crash": true,
+        "dateComplaintFiled": "06/03/2003",
+        "dateOfIncident": "02/04/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10022252,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "MUSTANG",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NAR  6-03-2003  *MR ENCLOSED  ATTACHED CRASH REPORTS THAT OCCURRED IN OHIO TURNPIKE. FEBRUARY 2003.   STEERING MALFUNCTION CAUSED THE FORD MUSTANG TO SKID ACROSS THE LANES DAMAGING BUMPER, HEADLIGHTS, TURN SIGNAL, AND HOOD.  *CB",
+        "vin": "9999"
+    }
+]

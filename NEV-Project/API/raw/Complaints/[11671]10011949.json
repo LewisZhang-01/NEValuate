@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "03/18/2003",
+        "dateOfIncident": "02/27/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10011949,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER INDICATED THAT THEIR VEHICLE'S STEERING IS EXPERIENCING  THE SAME DEFECT AS STATED IN RECALL 98 V 242 000, BUT VEHICLE'S VIN NUMBER IS NOT INCLUDED.   *NLM",
+        "vin": "1GTEK19T0XE"
+    }
+]

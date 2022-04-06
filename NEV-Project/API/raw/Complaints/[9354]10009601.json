@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": true,
+        "dateComplaintFiled": "01/15/2003",
+        "dateOfIncident": "01/01/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009601,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPEDITION",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Continental Tire the Americas, LLC",
+                "productMake": "CONTINENTAL",
+                "productModel": "CONTINENTAL",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "GENERAL TIRES RECALL ON 2001 FORD EXPEDITION. THE CONSUMER EXPERIENCED TREAD SEPARATION AT A HIGH RATE OF SPEED WHICH CAUSED EXTENSIVE DAMAGE TO THE CONSUMERS VEHICLE.  THE CONSUMER RECEIVED A RECALL LETTER REGARDING THE DEFECTIVE TIRES. *JB",
+        "vin": ""
+    }
+]

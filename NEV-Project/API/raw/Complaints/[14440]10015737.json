@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "04/11/2003",
+        "dateOfIncident": "04/11/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015737,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "GRAND MARQUIS",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE MADE A LOUD POP NOISE. THE DEALER INSPECTED THE VEHICLE AND FOUND THE FRAME CRACKED, HOWEVER THE DEALER REFUSED TO FIX THE PROBLEM.   *JB",
+        "vin": "2MELM75W0VX"
+    }
+]

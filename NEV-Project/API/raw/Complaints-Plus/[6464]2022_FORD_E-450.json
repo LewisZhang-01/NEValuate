@@ -1,0 +1,46 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "03/22/2022",
+        "dateOfIncident": "03/22/2022",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11457855,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "E-450",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I received a recall notice on this vehicle from Ford.  Ford Recall 22S08 and NHTSA recall 22V089.  Ford does not seem to be aware of this recall nor do you.  The earliest Big Valley Ford in Stockton CA appointment I could get was 7/19/22.  This is not acceptable based on safety",
+        "vin": "1fdxe4fn7nd"
+    },
+    {
+        "components": "VEHICLE SPEED CONTROL,SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "09/23/2021",
+        "dateOfIncident": "07/30/2021",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11434105,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "E-450",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact owns a 2022 Ford E-450. The contact stated that while operating the vehicle, the parking brake light remained illuminated, causing the ABS to become inoperable. Also, the message \"Service Advance Trak\" was sometimes displayed disabling the ABS and the cruise control. The cause of the failure was not determined. The local dealer and manufacturer were notified of the failure. The failure mileage was 3,000.",
+        "vin": ""
+    }
+]

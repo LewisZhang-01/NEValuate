@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "01/07/2005",
+        "dateOfIncident": "12/23/2004",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10107014,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TAURUS",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WATER WAS LEAKING THROUGH THE MOLDING OF THE FRONT WINDSHIELD ON THE PASSENGER'S SIDE CAUSED BY  AN ELECTRICAL SHORT.  *AK",
+        "vin": "1FAFP53U42A"
+    }
+]

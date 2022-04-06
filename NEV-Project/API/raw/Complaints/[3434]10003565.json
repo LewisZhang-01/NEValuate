@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/28/2003",
+        "dateOfIncident": "06/05/2002",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003565,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "ACURA",
+                "productModel": "TL",
+                "productYear": "1999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "MICHELIN TIRE CORP.",
+                "productMake": "MICHELIN",
+                "productModel": "MXV4",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "'99 ACURA TL W/MICHELIN MXV4 TIRES AT 65K MILES. TWO OF THE TIRES SHOWED CLEAR BEGINNING OF TREAD SEPARATION AT AROUND 65K MILES.  INSPECTION: DEEP CUT-LIKE SEPARATION AROUND THE ENTIRE SIDEWALL AT THE TREAD SEAM TO SIDEWALL AREA. MICHELIN DEALER FOUND WHILE DOING ROUTINE TIRE ROTATION AND REPLACED WITH SAME TIRE FOR A PRORATED PRICE.",
+        "vin": ""
+    }
+]

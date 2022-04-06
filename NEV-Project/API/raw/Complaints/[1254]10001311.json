@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "12/20/2002",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001311,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "TRAILBLAZER",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN VEHICLE IS IN PARKING WITH ENGINE ON, CONSUMER STATES VEHICLE ATTEMPTS TO ENGAGE IN ANOTHER GEAR ON ITS OWN.  CONSUMER IS AFRAID TRANSMISSION MAY BY DESTROYED. TS",
+        "vin": "NOT AVAILAB"
+    }
+]

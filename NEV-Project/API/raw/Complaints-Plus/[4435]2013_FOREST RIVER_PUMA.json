@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "09/14/2016",
+        "dateOfIncident": "09/03/2016",
+        "fire": false,
+        "manufacturer": "Forest River, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10906443,
+        "products": [
+            {
+                "manufacturer": "Forest River, Inc.",
+                "productMake": "FOREST RIVER",
+                "productModel": "PUMA",
+                "productYear": "2013",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Michelin North America, Inc.",
+                "productMake": "MICHELIN",
+                "productModel": "LTX M/S2",
+                "productYear": "9999",
+                "size": "225/75/16",
+                "type": "Tire"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2013 NEXUS VIPER (NA) EQUIPPED WITH MICHELIN MS2 (NA) TIRES, SIZE: 225/75/16. WHILE PULLING INTO A FUEL STATION, THE CONTACT WAS NOTIFIED THAT THE TWO FRONT TIRES WERE WOBBLING. THE CONTACT WAS LOSING CHUNKS OUT OF THE CENTER TREAD OF THE FRONT TIRES. THERE WERE ALSO SMALL HOLES IN THE OUTER TREAD. THE VEHICLE WAS TAKEN TO AN INDEPENDENT MECHANIC WHERE IT WAS CONFIRMED THAT THE TIRES WERE DETERIORATING WITH CHUNKS OF THE TIRE MISSING. THE TIRES WERE REPLACED. THE TIRES WERE ORIGINAL EQUIPMENT. THE MANUFACTURER WAS NOTIFIED OF THE FAILURE. THE VIN WAS NOT AVAILABLE. THE APPROXIMATE VEHICLE AND TIRE FAILURE MILEAGE WAS 25,000.",
+        "vin": ""
+    }
+]

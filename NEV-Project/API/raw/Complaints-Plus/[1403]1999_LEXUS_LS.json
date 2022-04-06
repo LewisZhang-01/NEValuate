@@ -1,0 +1,68 @@
+[
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "06/13/2020",
+        "dateOfIncident": "06/13/2020",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11328667,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "LEXUS",
+                "productModel": "LS",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE SLOWLY MAKING A TURN WITH MY FOOT ON THE BRAKE MY CAR SURGED FORWARD. I TRIED TO CONTROL THE CAR BY PUSHING MY FOOT ON THE BRAKE AS HARD AS I COULD WITHOUT SUCCESS. I WAS ABLE TO STOP THE CAR FROM MOVING ONLY BY PUTTING IT ON PARK. THE SURGE WAS VERY SUDDEN AND UNCONTROLLABLE. THIS IS SECOND TIME IT HAPPENED. PLEASE INVESTIGATE.  *TR",
+        "vin": "JT8BH28F3X0"
+    },
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": true,
+        "dateComplaintFiled": "05/04/2011",
+        "dateOfIncident": "02/01/2009",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10399113,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "LEXUS",
+                "productModel": "LS",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 1999 LEXUS LS. THE CONTACT STATED THAT WHILE THE BRAKES WERE DEPRESSED THE VEHICLE SUDDENLY ACCELERATED AND CRASHED INTO THE PROCEEDING VEHICLE. THE DRIVER WAS INURED. THE VEHICLE WAS TAKEN TO THE DEALER WHO PERFORMED A DIAGNOSTIC TEST THAT WAS UNABLE TO LOCATE A FAILURE CODE. THE VEHICLE WAS NOT REPAIRED. THE VIN WAS NOT AVAILABLE. THE FAILURE MILEAGE WAS 100,000 AND THE CURRENT MILEAGE WAS 125,000.",
+        "vin": ""
+    },
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": true,
+        "dateComplaintFiled": "04/21/2006",
+        "dateOfIncident": "04/20/2006",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10155810,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "LEXUS",
+                "productModel": "LS",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I WAS DRIVING AND THE VEHICLE IN FRONT OF ME STOPPED.  I TOOK MY RIGHT FOOT OFF THE ACCELERATOR AND PLACED IN ON THE BREAK.  WHEN I APPLIED PRESSURE TO THE BREAK, THE CAR CONTINUED TO ACCELERATE AND HIT THE CAR IN FRONT OF ME.  THE DAMAGE TO MY CAR IS PROBABLY IN THE $10,000 RANGE.  *NM",
+        "vin": "JT8BH28F2X0"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "01/02/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001884,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CADILLAC",
+                "productModel": "DEVILLE",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER CALLED COMPLAINING ABOUT HAVING PROBLEMS WITH THE ELECTRICAL SYSTEM. ALSO STATED THAT WHILE DRIVING THE VEHICLE THE VEHICLE HAS STALL WAS CONTACTED BUT WAS NOT INFORMED ABOUT THE PROBLEM.",
+        "vin": "1G6KD52Y5TU"
+    }
+]

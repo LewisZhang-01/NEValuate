@@ -1,0 +1,24 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "03/24/2019",
+        "dateOfIncident": "03/16/2019",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11191164,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "TOWN AND COUNTRY",
+                "productYear": "2012",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE BLIND SPOT DETECTION SYSTEM STOPPED WORKING. THE CAUSE IS A DEFECTIVE SENSOR THAT SHORTS OUT DUE TO WATER INFILTRATION.",
+        "vin": "2C4RC1CG9CR"
+    }
+]

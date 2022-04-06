@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, DIESEL",
+        "crash": false,
+        "dateComplaintFiled": "03/18/2003",
+        "dateOfIncident": "02/13/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10012002,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "RAM 2500",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE HAS A FUEL FILTER BUT IT HAS NO WATER SEPARATOR. THIS CAUSED WATER FROM FUEL TANK TO GET INTO THE PICKUP PUMP, ALLFUEL LINES, INJECTOR PUMP AND INJECTORS.  *AK",
+        "vin": "1B7KC2363XJ"
+    }
+]

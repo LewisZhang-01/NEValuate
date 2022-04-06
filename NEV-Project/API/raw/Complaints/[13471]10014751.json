@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "02/28/2003",
+        "dateOfIncident": "02/26/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10014751,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "YUKON",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NAR 02/28/2003    MR    HEAD ON DEAD CENTER, FRONTAL CRASH TO A TREE, 25-30MPH, HIGH IMPACT, NO AIR BAG INFLATED. *CB",
+        "vin": "9999"
+    }
+]

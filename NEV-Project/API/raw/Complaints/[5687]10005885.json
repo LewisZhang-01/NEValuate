@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/29/2003",
+        "dateOfIncident": "01/23/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005885,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "S10",
+                "productYear": "2003",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "GOODYEAR",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE REAR LEFT TIRE BLEWOUT AT THE SIDEWALL.  TIRE INFO:  GOODYEAR  P235/75R15  DOT NO. MD111TBDR2002                            PH",
+        "vin": "1GCDT13X73K"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS,SEATS",
+        "crash": false,
+        "dateComplaintFiled": "01/30/2003",
+        "dateOfIncident": "01/01/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10006028,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "4 RUNNER",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE TRAVELING ON THE HIGHWAY THE DRIVER SIDE SEAT COLLAPSED.  PLEASE FILL IN ADDITIONAL INFORMATION DEALER IS AWARE OF THE PROBLEM.       TS  *TR",
+        "vin": "PLEASE FILL"
+    }
+]

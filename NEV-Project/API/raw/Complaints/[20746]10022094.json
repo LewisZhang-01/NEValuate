@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/09/2003",
+        "dateOfIncident": "11/18/2001",
+        "fire": false,
+        "manufacturer": "Winnebago Industries, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022094,
+        "products": [
+            {
+                "manufacturer": "Winnebago Industries, Inc.",
+                "productMake": "WINNEBAGO",
+                "productModel": "MINNIE WINNIE",
+                "productYear": "1997",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "STEELTEX R4S",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHILE DRIVING, THE VEHICLE STARTED TO VIBRATE AND THEN THE TIRE EXPERIENCED TREAD SEPARATION AND CAUSED DAMAGE TO THE VEHICLE. *MR  *TS  *JB",
+        "vin": "1FDLE40S4VH"
+    }
+]

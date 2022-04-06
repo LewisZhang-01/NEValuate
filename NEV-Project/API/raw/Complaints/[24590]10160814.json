@@ -1,0 +1,31 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "06/26/2006",
+        "dateOfIncident": "06/23/2006",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10160814,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "IMPALA",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "D",
+                "productModel": "14048271",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "2001 CHEVROLET IMPALA LS 3.8L:  BODY CONTROL MODULE FAILURE AT 60,000 MILES AND AGAIN AT 90,000 MILES.  CAR WILL NOT START; VEHICLE AND DRIVER STRANDED.  *NM",
+        "vin": "2G1WH55K519"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "02/21/2003",
+        "dateOfIncident": "02/01/2003",
+        "fire": false,
+        "manufacturer": "Mercedes-Benz USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10007924,
+        "products": [
+            {
+                "manufacturer": "Mercedes-Benz USA, LLC",
+                "productMake": "MERCEDES BENZ",
+                "productModel": "E320",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "OEM WIRING HARNESS IN 1995 E320 BECOMES BRITTLE AND CRACKS AT AROUND 100,000 MILES THAT CAUSES ENGINE TO MISFIRE.",
+        "vin": "WDBEA32E1SC"
+    }
+]

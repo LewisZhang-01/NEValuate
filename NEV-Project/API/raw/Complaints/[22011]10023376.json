@@ -1,0 +1,31 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "06/19/2003",
+        "dateOfIncident": "06/16/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10023376,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPEDITION",
+                "productYear": "1997",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "AIR BAG SWITCH",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "SPARK-PLUG BLEW OUT OF ALUMINUM HEAD ON A 97' FORD EXPEDITION WITH 155,000 MI.  PAID $4500.00 FOR A NEW \"IMPROVED\"RE-BUILT ENGINE.  SPARK-PLUG BLEW OUT AGAIN WITH 1,000 MI. ON NEW ENGINE. FORD WILL NOT TALK TO US; WE WOULD LIKE SOME ANSWERS AS WE WERE TOLD THE \"IMPROVED\" DESIGN ADDRESSED THE PROBLEM OF THE SPARK-PLUGS ONLY HAVING THREE(3) THREADS HOLDING IT ONTO THE ALUMINUM HEAD.   *NLM",
+        "vin": "1FMFU18L4VL"
+    }
+]

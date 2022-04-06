@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "05/29/2003",
+        "dateOfIncident": "05/27/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021803,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "GRAND AM",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING VEHICLE WAS INVOVLED IN A HEAD ON COLLISION AND AIRBAGS DID NOT DEPLOY. PLEASE PROVIDE ADDITIONAL INFORMATION.*AK",
+        "vin": "1G2NF52F13C"
+    }
+]

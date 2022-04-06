@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE,FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "01/29/2019",
+        "dateOfIncident": "10/23/2018",
+        "fire": false,
+        "manufacturer": "Land Rover",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11172964,
+        "products": [
+            {
+                "manufacturer": "Land Rover",
+                "productMake": "LAND ROVER",
+                "productModel": "DISCOVERY",
+                "productYear": "2018",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ACCELERATOR HAS A SIGNIFICANT \"LAG\" WHEN GOING FROM A MOVING \"STOP\". AS IF WHEN YOUR TURNING AND WANT TO ACCELERATE. THIS IS A KNOWN PROBLEM WITH LR AND THEY HAVE BEEN WORKING ON A SOFTWARE FIX FOR MONTHS. IT IS DANGEROUS!!",
+        "vin": ""
+    }
+]

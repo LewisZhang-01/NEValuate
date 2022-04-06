@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "01/13/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003623,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "NAVIGATOR",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE TRAVELING AT 40 MPH, CONSUMER STATED THE SUNROOF BROKE AND HIT THE DRIVER AND PASSENGER IN THEIR HEADS.*JB",
+        "vin": "5LMFU28R23L"
+    }
+]

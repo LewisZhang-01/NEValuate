@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "03/02/2003",
+        "dateOfIncident": "01/01/2003",
+        "fire": false,
+        "manufacturer": "Mitsubishi Motors North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10008345,
+        "products": [
+            {
+                "manufacturer": "Mitsubishi Motors North America, Inc.",
+                "productMake": "MITSUBISHI",
+                "productModel": "ECLIPSE",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DURING RAIN THE VEHICLE LEAKS THROUGH THE FIRE WALL AND/OR AIR VENTS INTO FLOOR OF VEHICLE.*JB",
+        "vin": "4A3AC54LXYE"
+    }
+]

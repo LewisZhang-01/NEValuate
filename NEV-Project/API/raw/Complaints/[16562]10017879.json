@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "04/30/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017879,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "300M",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN THE CONSUMER MOVED THE VEHICLE BACKWARDS, THE FRONT BUMPER FELL OFF.         *JB",
+        "vin": ""
+    }
+]

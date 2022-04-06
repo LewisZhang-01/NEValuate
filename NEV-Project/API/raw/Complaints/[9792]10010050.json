@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "03/06/2003",
+        "dateOfIncident": "02/24/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010050,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CADILLAC",
+                "productModel": "ELDORADO",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE INSTRUMENT PANEL WENT BLANK WHILE DRIVING. *JB",
+        "vin": "1G6ET129420"
+    }
+]

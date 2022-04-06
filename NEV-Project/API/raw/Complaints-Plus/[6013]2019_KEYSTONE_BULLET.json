@@ -1,0 +1,53 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "03/21/2022",
+        "dateOfIncident": "10/01/2021",
+        "fire": false,
+        "manufacturer": "Keystone RV Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11457741,
+        "products": [
+            {
+                "manufacturer": "Keystone RV Company",
+                "productMake": "KEYSTONE",
+                "productModel": "BULLET",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "My 2019 Keystone Travel Trailer has a Safety Recall 21V-708 regarding defective Winn-Tec Model 6020 dual stage propane regulators.  The recall is due to the regulators may elevate the propane pressure to the appliances and cause a fire.  My 2019 Keystone Travel Trailer was manufactured in 2018 with a Winn-Tec Model 6020 dual stage propane regulator manufactured in 2017.  The Safety Recall 21V-708 from Keystone RV Company letter states they will only replace the regulator if the regulator was manufactured in 2018-2021.  I have talked to Keystone RV Company and they refuse to replace my Winn-Tec Model 6020 regulator unless I pay to have my regulator tested at my expense, then if tested bad, they said they may Good Will replacement.  Jayco RV Company has a Safety Recall on the same Winn-Tec Model 6020 Propane Regulator.  Jayco Safety Recall 21V-425 includes regulators manufactured in 2017.   I do not understand the inconsistency between Keystone RV and Jayco RV Safety Recalls with the same Winn-Tec Model 6020 dual stage propane regulators.  My 2019 Keystone Travel Trailer is included in the Safety Recall 21V-708 but Keystone will not replace the Winn-Tec Model 6020 regulator because the regulator was built in 2017, but if the same regulator was installed on a Jayco RV then it would be replaced by Jayco under the Jayco Safety Recall 21V-425.  I have noticed a taller than normal flame on the cooktop of our RV.  I would appreciate someone looking into this as I cannot see the flame on the heater or the refrigerator. I would appreciate someone to explain the inconsistency why the same part built in 2017 is recalled by one manufacture and not the other.  Thank you in advance for the help in this matter.",
+        "vin": "4YDT26R21KD"
+    },
+    {
+        "components": "EQUIPMENT ADAPTIVE/MOBILITY",
+        "crash": false,
+        "dateComplaintFiled": "03/18/2022",
+        "dateOfIncident": "09/18/2021",
+        "fire": false,
+        "manufacturer": "Keystone RV Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11457295,
+        "products": [
+            {
+                "manufacturer": "Keystone RV Company",
+                "productMake": "KEYSTONE",
+                "productModel": "BULLET",
+                "productYear": "2019",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Enerco Group, Inc.",
+                "productMake": "ENERCO",
+                "productModel": "PROPANE REGULATOR",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "The contact owns a 2019 Keystone Bullet Premier equipped with Winntec model 6020 two-stage propane regulator. The contact received notification of NHTSA Campaign Number: 21V708000 (Equipment); however, the part to do the recall repair was not yet available. The local dealer was not contacted. The contact stated that the manufacturer had exceeded a reasonable amount of time for the recall repair. The manufacturer was made aware of the issue and advised the contact that his propane regulator was not affected by the recall as it was manufactured in 2017. The contact informed the manufacturer that  the flame on the stove top was higher than normal. The manufacturer advised the contact to have the propane regulator tested and if the failure was associated to the recall, they would assist. Unable to confirm parts distribution disconnect.",
+        "vin": "4YDT26R21KD"
+    }
+]

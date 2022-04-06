@@ -1,0 +1,112 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "01/28/1999",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 543554,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA",
+                "productYear": "1983",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TRANSMISSION HAS EXPERIENCED SEVERAL LEAKS.",
+        "vin": "1GTCS14B1D2"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "01/28/1999",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 543554,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA",
+                "productYear": "1983",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DASHBOARD INDICATOR FOR BATTERY CONTINUALLY MAKING NOISE.",
+        "vin": "1GTCS14B1D2"
+    },
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "01/28/1999",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 543554,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA",
+                "productYear": "1983",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FRAME/BODY RAISED HIGHER THAT UNDERPINNINGS OF TRUCK, ABRUPT STOPS CAUSING FRAME TO SHIFT.",
+        "vin": "1GTCS14B1D2"
+    },
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "01/28/1999",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 543554,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA",
+                "productYear": "1983",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NOISE FROM UNDER VEHICLE TRAVELING AT LOW SPEED.",
+        "vin": "1GTCS14B1D2"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "02/11/1997",
+        "dateOfIncident": "01/17/1997",
+        "fire": true,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 602872,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA",
+                "productYear": "1983",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENGINE COMPARTMENT OVERHEATED, CAUSING FIRE. (OHIO STATE POLICE REPORT)",
+        "vin": ""
+    }
+]

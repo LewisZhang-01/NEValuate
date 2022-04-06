@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": true,
+        "dateComplaintFiled": "01/13/2003",
+        "dateOfIncident": "10/16/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10001488,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TAURUS",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE IN MOTION, CONSUMER PRESSED ON THE ACCELERATOR TO MERGE INTO TRAFFIC.  THE ACCELERATOR PEDAL STUCK IN THE DOWNWARD POSITION.  CONSUMER PRESSED AGAIN, HOPING THE PEDAL WOULD DISENGAGE ITSELF BUT TO NO AVAIL.  *JG *JB",
+        "vin": "1FALP57U5VG"
+    }
+]

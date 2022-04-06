@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "02/14/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10007472,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "OLDSMOBILE",
+                "productModel": "BRAVADA",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE ENGINE SHUT DOWN ON SEVERAL OCCASIONS, CONSUMER WAS INFORMED THERE WAS AN INTERNAL PROBLEM WITH THE IGNITION SWITCH.*JB",
+        "vin": "1GHDT13W0V2"
+    }
+]

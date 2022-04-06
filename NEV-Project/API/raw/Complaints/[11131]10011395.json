@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "03/11/2003",
+        "dateOfIncident": "03/05/2003",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 2,
+        "odiNumber": 10011395,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "ELANTRA",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE WAS INVOLVED IN A FRONTAL COLLISION, AND THE AIR BAGS FAILED TO DEPLOY, CONSUMER WAS INJURED.  *JB  THE INCIDENT OCCURRED ON A NARROW/ICY PASSAGE.  HYUNDAI DID NOT ATTEMPT TO INSPECT THE VEHICLE.  THE VEHICLE WAS A TOTAL LOSS.  SCC",
+        "vin": "KMHDN45D01U"
+    }
+]

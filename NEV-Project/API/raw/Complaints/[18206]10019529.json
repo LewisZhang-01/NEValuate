@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "05/08/2003",
+        "dateOfIncident": "05/08/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019529,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE CONSUMER WAS INVOLVED IN AN ACCIDENT, AND THE AIR BAGS FAILED TO DEPLOY.    *JB",
+        "vin": "1FTYR14U12P"
+    }
+]

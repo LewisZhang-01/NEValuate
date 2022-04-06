@@ -1,0 +1,24 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "05/05/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018188,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING THE STEERING WHEEL BEGAN TO VIBRATE EXCESSIVELY.  THE  CONSUMER LOOKED OUT OF THE REAR VIEW MIRROR AND  NOTICED THE TIRE WAS ROLLING DOWN THE HIGHWAY.   *NLM",
+        "vin": "NOT AVAILBL"
+    }
+]

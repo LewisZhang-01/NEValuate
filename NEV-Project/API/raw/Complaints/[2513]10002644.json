@@ -1,0 +1,24 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "01/13/2003",
+        "dateOfIncident": "01/13/2003",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002644,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "PASSAT",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "IGNITION COIL FAILURE AFTER 7 MONTHS AND 11000 MILES.",
+        "vin": ""
+    }
+]

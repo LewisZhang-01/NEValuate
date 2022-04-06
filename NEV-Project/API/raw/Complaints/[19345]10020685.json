@@ -1,0 +1,31 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC,EQUIPMENT",
+        "crash": true,
+        "dateComplaintFiled": "05/29/2003",
+        "dateOfIncident": "10/15/2002",
+        "fire": false,
+        "manufacturer": "GM DAEWOO AUTO & TECHNOLOGY COMPANY",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10020685,
+        "products": [
+            {
+                "manufacturer": "GM DAEWOO AUTO & TECHNOLOGY COMPANY",
+                "productMake": "DAEWOO",
+                "productModel": "LANOS",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "ADV BRK SYS",
+                "productMake": "ADV BRK SYS",
+                "productModel": "ADV BRK SYS",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "THERE IS AN INTERMITTENT BRAKE FAILURE WHEREBY THE PEDAL GOES TO THE FLOOR BUT THE BRAKES DO NOT ENGAGE -- RAISING THE FOOT AND REAPPLYING PRESSURE USUALLY SOLVES THE PROBLEM BUT ONE WRECK HAS RESULTED.  THE DEALER CONTINUES TO INSIST THERE IS NO PROBLEM, BUT HAD TO TURN THE ROTOR AT 15,000 TO 20,000 AND THE ROTOR IS NOW NEEDING REPLACMENT AT 32,000 -- THERE ARE ADDITIONAL PROBLEMS SUCH AS A GAS SMELL WHEN THE AC IS USED FOR EXTENDED TIME AT FREEWAY SPEEDS AND NOW A GRINDING/ROCKETY SOUND TO THE AC AREA",
+        "vin": ""
+    }
+]

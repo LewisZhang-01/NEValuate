@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": true,
+        "dateComplaintFiled": "01/10/2003",
+        "dateOfIncident": "01/01/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10002530,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "SEBRING",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE TRAVELING ON THE HIGHWAY ABOUT 30MPH ANOTHER VEHICLE VEERED INTO CONSUMER'S VEHICLE  CAUSING THE FRONT SEATBELT TO BECOME DETACHED, CONSUMER SUFFERED INJURIES.  PLEASE FURNISH ADDITIONAL INFORMATION DEALER IS AWARE OF THE PROBLEM.*JB",
+        "vin": "1C3EL46R42N"
+    }
+]

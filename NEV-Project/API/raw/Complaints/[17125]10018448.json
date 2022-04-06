@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "05/09/2003",
+        "dateOfIncident": "05/08/2003",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018448,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "ACCORD",
+                "productYear": "2003",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Michelin North America, Inc.",
+                "productMake": "MICHELIN",
+                "productModel": "ENERGY MXV4 PLUS",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "SPARE TIRE PROVIDED WITH CAR IS WRONG SIZE.  CAR IS EQUIPPED WITH 16 INCH TIRES WITH ALLOY RIMS.  SPARE TIRE IS SIZE 15 INCH.  WHEN I CALLED TO ASK WHY SPARE TIRE DOES NOT MATCH PERMANENT TIRES, I WAS TOLD  THE 15 INCH SPARE TIRE IS FOR EMERGENCY USE ONLY.  WHEN I ASKED WHY A 16 INCH SPARE IS NOT PROVIDED, I WAS TOLD THAT IF HONDA GAVE ME A 16 INCH TIRE THEN THEY WOULD HAVE TO GIVE EVERYONE 16 INCH SPARE TIRES. *JB",
+        "vin": "1HGCM56653A"
+    }
+]

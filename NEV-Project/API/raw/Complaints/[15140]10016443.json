@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "04/24/2003",
+        "dateOfIncident": "04/15/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10016443,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "LUMINA",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ANTI-LOCK BRAKES RELAYS CLICK AND CYCLE CONTINUALLY WHEN BRAKING.  DEALER STATES THE TRACTION CONTROL MODULE MAY BE MALFUNCTIONING.  DOES NOT SEEM TO AFFECT NORMAL BRAKING.   *NLM",
+        "vin": ""
+    }
+]

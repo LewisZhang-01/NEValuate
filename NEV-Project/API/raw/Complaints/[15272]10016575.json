@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "04/27/2003",
+        "dateOfIncident": "03/05/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10016575,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SAVANA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVER SEAT FALLS OUT CONTINUOUSLY.   *NLM",
+        "vin": "1GDFG15W0Y1"
+    }
+]

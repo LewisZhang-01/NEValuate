@@ -1,0 +1,24 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "03/27/2003",
+        "dateOfIncident": "12/01/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009473,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE SPARE TIRE WAS INOPERATIVE (WRANGLER R7/S, P265-70-R17).   *NLM  *NLM",
+        "vin": "1FTZX18W4WN"
+    }
+]

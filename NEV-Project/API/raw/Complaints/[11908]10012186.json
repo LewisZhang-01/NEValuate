@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "03/20/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10012186,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE REAR AXLE BROKE WHILE DRIVING AND CAUSED THE WHEEL TO CAVE IN.  *NLM",
+        "vin": ""
+    }
+]

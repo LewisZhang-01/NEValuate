@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "01/23/2003",
+        "dateOfIncident": "06/19/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003290,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "VENTURE",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TOTAL ENGINE FAILURE CAUSED BY FAULTY GASKETS ALLOWING COOLANT TO LEAK INTO ENGINE RESULTING IN CAMSHAFT BREAKING.  THIS IS A CLASSIC PROBLEM ON 3.4L ENGINE, OCCURRING ON MOST AFFECTED VEHICLES BETWEEN 50K AND 60K MILES.",
+        "vin": "1GNDX03E8WD"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": true,
+        "dateComplaintFiled": "04/21/2003",
+        "dateOfIncident": "04/03/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10017282,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERCURY",
+                "productModel": "MARQUIS",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING IN BUMPER TO BUMPER TRAFFIC, THE VEHICLE'S BRAKES FAILED.  THE PEDAL WAS EXTREMELY HARD TO PRESS WHICH RESULTED IN A REAR END COLLISION.   *NLM   SUSPECTED THE BRAKE/GAS PEDAL RAISED TO THE SAME LEVEL WHEN SWITCH WAS ACTIVATED, POSSIBLE DEPRESSING BRAKE AND GAS AT THE SAME TIME.  (CALIFORNIAHIGHWAY PATROL)  *SCC",
+        "vin": "2MEFM74W53X"
+    }
+]

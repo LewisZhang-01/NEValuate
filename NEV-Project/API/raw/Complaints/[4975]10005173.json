@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": true,
+        "dateComplaintFiled": "02/03/2003",
+        "dateOfIncident": "02/03/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005173,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERCURY",
+                "productModel": "MARQUIS",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ACCELERATION PROBLEM GOING BACKWARDS. CAR LURCHED BACKWARDS AND DID NOT RESPOND TO BRAKING.",
+        "vin": "2MEFM75W92X"
+    }
+]

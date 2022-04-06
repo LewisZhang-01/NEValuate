@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "05/13/2003",
+        "dateOfIncident": "05/04/2003",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018635,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "FRONTIER",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Bridgestone Americas Tire Operations",
+                "productMake": "FIRESTONE",
+                "productModel": "WILDERNESS HT",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "FIRESTONE TIRE ON DRIVERS SIDE REAR BLEW OUT AND TREAD CAME OFF AND DAMAGED UNDERSIDE OF REAR FENDER.  I WAS DRIVING NORTH ON INTERSTATE 75 IN  FLORIDA NEAR WHITE SPRINGS EXIT. I WAS TRAVELING BETWEEN 70 AND 75 MPH WHEN I HEARD A LOUD NOISE AND MY TRUCK BEGAN TO SWAY.  I LOOKED IN MY REARVIEW MIRROR TO SEE ABOUT A 4' PIECE OF TREAD FLYING THROUGH THE AIR BEHIND ME.*JB",
+        "vin": "1N6DD26S7YC"
+    }
+]

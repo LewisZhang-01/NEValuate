@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES",
+        "crash": true,
+        "dateComplaintFiled": "05/06/2021",
+        "dateOfIncident": "05/27/2020",
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 11415400,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "FLHTCUTG",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SEE ATTACHED LETTER",
+        "vin": "1HD1MAF11LB"
+    }
+]

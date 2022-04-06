@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "07/11/2003",
+        "dateOfIncident": "05/30/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021948,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERCURY",
+                "productModel": "MYSTIQUE",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLES ELECTRICAL WIRING BURNED WHILE DRIVING WHICH CAUSED SMOKE TO EMIT FROM UNDER THE HOOD.  *CB   *NLM",
+        "vin": "1MEFM653XXK"
+    }
+]

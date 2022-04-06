@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "03/20/2003",
+        "dateOfIncident": "03/20/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10012187,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "CAMRY",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE SENSOR FOR THE AIR BAG MODULE BLEW THE FUSE  FOR THE ENGINE CONTROL MODULE AND CAUSED THE ENTIRE ELECTRICAL SYSTEM TO FAIL.  AS A RESULT THE VEHICLE COULD NOT BE STARTED.  *NLM",
+        "vin": "4T1BG22K3VU"
+    }
+]

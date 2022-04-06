@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "12/05/1994",
+        "dateOfIncident": "10/01/1994",
+        "fire": false,
+        "manufacturer": "CROWN AUTO TOP MFG.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 476792,
+        "products": [
+            {
+                "manufacturer": "CROWN AUTO TOP MFG.",
+                "productMake": "CROWN",
+                "productModel": "SCHOOL BUS",
+                "productYear": "1991",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WRONG MATERIALS USED IN DESIGN OF FLOOR CAUSED METAL SIDING TO SPLIT, EXPOSING FLOOR.  *SKD",
+        "vin": "UNK"
+    }
+]

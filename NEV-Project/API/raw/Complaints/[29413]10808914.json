@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "12/07/2015",
+        "dateOfIncident": "12/07/2015",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10808914,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FUSION",
+                "productYear": "2011",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "POWER STEERING ASSIST FAULT (OR FAILURE) WHILE DRIVING.  STEERING LOCKS UP, DIFFICULT TO STEER.  HAVE TO STOP VEHICLE, TURN OFF ENGINE AND RE-START.  STEERING WORKS AGAIN.   DIFFICULT TO CONTROL CAR WITH STEERING.  DANGEROUS.   SAW RECALL ON THIS, BUT FORD SAYS DOESN'T APPLY TO MY VIN?",
+        "vin": "3FAHP0HA5BR"
+    }
+]

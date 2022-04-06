@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "01/30/2003",
+        "dateOfIncident": "01/17/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004958,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "JIMMY",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FAULTY HEATER CORE THAT IS PLUGGED BY DEXACOOL ANTIFREEZE",
+        "vin": "1GKDT13W0T2"
+    }
+]

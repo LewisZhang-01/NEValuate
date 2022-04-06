@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "01/31/2003",
+        "dateOfIncident": "01/31/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10006102,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "DAKOTA",
+                "productYear": "1991",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "POWER STEERING PUMP IS LEAKING FLUID, CAUSING VEHICLE TO BE INOPERABLE. DEALER HAS BEEN NOTIFIED. PLEASE PROVIDE FURTHER INFORMATION.          TS  *TR",
+        "vin": "PROVIDE"
+    }
+]

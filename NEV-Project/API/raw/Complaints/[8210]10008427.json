@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "03/05/2003",
+        "dateOfIncident": "03/05/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10008427,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERCURY",
+                "productModel": "SABLE",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "LEFT FRONT SUSPENSION COIL BROKE AND PUNCTURED LEFT FRONT TIRE.*JB",
+        "vin": "1MEFM58S4XG"
+    }
+]

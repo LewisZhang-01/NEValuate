@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "03/05/2003",
+        "dateOfIncident": "03/01/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10008403,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "BLAZER",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SEAT BACK ADJUSTMENT LEVER SNAPPED OFF WITH NORMAL USE.  ALTHOUGH THE ADJUSTMENT LEVER IS SELDOM USED, THE METAL SHAFT FAILED AND THE HANDLE CAME OFF IN THE DRIVER'S HAND.*JB",
+        "vin": "1GNDT13W4W2"
+    }
+]

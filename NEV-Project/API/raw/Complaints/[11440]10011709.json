@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,ELECTRICAL SYSTEM,VISIBILITY,SEAT BELTS,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "04/08/2003",
+        "dateOfIncident": "12/06/2001",
+        "fire": false,
+        "manufacturer": "Mercedes-Benz USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10011709,
+        "products": [
+            {
+                "manufacturer": "Mercedes-Benz USA, LLC",
+                "productMake": "MERCEDES BENZ",
+                "productModel": "S500",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE EXPERIENCED MULTIPLE MECHANICAL FAILURES. SEAT BELT STICKS, WHILE DRIVING DASH LIGHTS GO OUT, POWER STEERING DROPPED, ATEANNA FELL OFF, POWER WINDOWS MALFUNCTION.  *TS    *NLM",
+        "vin": "WDBNG75J3YA"
+    }
+]

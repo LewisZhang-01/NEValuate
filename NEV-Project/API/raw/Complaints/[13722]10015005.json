@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "04/02/2003",
+        "dateOfIncident": "04/02/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015005,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "OLDSMOBILE",
+                "productModel": "BRAVADA",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE DRIVER'S DOOR FRAME/STRUCTURE DROPPED, WHICH RESULTED IN THE DOOR BEING OFF TRACK.  CONSUMER HAD TO USE EXCESSIVE FORCE TO CLOSE THE DOOR IN ORDER FOR IT TO LATCH AND LOCK.   *JB",
+        "vin": "1GHDT13W8V2"
+    }
+]

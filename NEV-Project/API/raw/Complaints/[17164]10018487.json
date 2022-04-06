@@ -1,0 +1,31 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING,ELECTRICAL SYSTEM,EXTERIOR LIGHTING,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "05/10/2003",
+        "dateOfIncident": "03/10/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018487,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "MALIBU",
+                "productYear": "1997",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "DELCO ELECT. DIV., GM",
+                "productMake": "DELCO",
+                "productModel": "DELCO",
+                "productYear": "2003",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "POOR MANUFACTURING AND QUALITY OF VEHICLE COMPONENTS.  *NLM",
+        "vin": "1G1NE52M9V6"
+    }
+]

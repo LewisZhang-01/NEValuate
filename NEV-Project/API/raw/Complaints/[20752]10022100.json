@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "06/03/2003",
+        "dateOfIncident": "04/24/2003",
+        "fire": true,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022100,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "CARAVAN",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WIRING HARNESS IS BAD ON VEHICLE.VEHICLE CAUGHT ON FIRE. *AK",
+        "vin": ""
+    }
+]

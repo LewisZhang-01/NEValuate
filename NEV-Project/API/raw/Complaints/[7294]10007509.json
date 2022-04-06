@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "02/14/2003",
+        "dateOfIncident": "02/12/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10007509,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "CARAVAN",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE BEARINGS BROKE OFF THE STEERING COLUMN, WHICH CAUSED THE STEERING WHEEL TO BE REPLACED.*JB",
+        "vin": "2B4FP25B3YR"
+    }
+]

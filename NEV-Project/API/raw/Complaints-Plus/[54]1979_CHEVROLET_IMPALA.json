@@ -1,0 +1,68 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "11/04/2002",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 769281,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "IMPALA",
+                "productYear": "1979",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE PROBLEM IS IN A NEW HITCH I JUST PURCHASED MANUFACTURED BY VALLEY INDUSTRIES, OF LODI, CALIFORNIA.   KIT CAME WITH TWO 7/16\"  SQUARE U-BOLTS, WHICH REQUIRED DRILLING HOLES INTO THE FRAME TO INSTALL.  THE INSTRUCTIONS CALLED FOR THE NUTS ON THE SQUARE U-BOLTS TO BE TIGHTEN TO A FORCE OF 55 FT.LBS.  THE BOLTS PROVIDED, WILL NOT HOLD THAT FORCE.  INSTEAD THEY NECKED AND BROKE AT SLIGHTLY OVER 40 FT. LBS.  I FEEL THEY HAVE PROVIDED A MILD STEEL BOLT INSTEAD OF A GRADE #0, 1, OR   2.   INSTEAD OF THE GRADE OF A #5 WHICH WOULD HAVE HELD THIS KIND OF FORCE.   I CALLED THE MANUFACTER A COUPLE OF TIMES ABOUT THIS TODAY 11/4/02 AND FINIALLY TALKED TO ENGINEERING, WHO TOLD ME THAT ALL THE U-BOLTS ARE MILD STEEL, YOU CAN'T GET U-BOLTS IN A HARDEN STEEL, IN AUTOMOTIVE APPLICATIONS.  THEY (THE COMPANY),  DIDN'T UNDERSTAND HOW THE BOLTS WOULD BREAK, BUT THEY WOULD SEND ME OUT SOME NEW ONES.  IT IS MY CONTENTION THAT THEY KNEW ALL ALONG THAT THE GRADE OF BOLTS THEY WERE PROVIDING CAN NOT BE TORQUED DOWN TO THE 55 FT LBS. SINCE MOST PEOPLE DO NOT FOLLOW THE INSTRUCTIONS COMPLETELY, AND JUST TIGHTED UNTIL THEY FEEL ITS TIGHT ENOUGH. THEY GET AWAY WITH SUPPLING A LOWER QUALITY U-BOLTS THEY MAYBE TELL GOVENMENT AND SAFTEY BOARDS.   THEY MAY SAVE $ .70-1.00  ON A INSTALLATION KIT SUPPLYING LOWER GRADES OF BOLTS. THIS ALONE IS NOT MUCH MONEY, BUT IF THEY DID THIS TO 100,000 HITCHES THATS NOW A LOT OF SAVING.  IS THIS A SAFTEY PROBLEM?   IT MAYBE, DUE TO A COUPLE OF THINGS.  1.  IF THE HITCH WAS RATED AND TESTED FOR USE WITH A HIGHER GRADE BOLT, THAT IS WHAT SHOULD BE USED IN THE INSTALLATION KIT. (WOULD IT MEET A CLASS LL RATING WITH MILD STEEL BOLTS?) 2. SOME ONE MAY FOLLOW DIRECTION SUCH AS I DID BY NECKING AND SNAPING THE BOLTS, OR WORST STOP TIGHTEN WHEN THEY FELT IT NECKING LEAVING THE U-BOLT IN A WEAKED AND DAMAGED CONDITION.  DT",
+        "vin": ""
+    },
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "09/26/1997",
+        "dateOfIncident": "05/04/1997",
+        "fire": true,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 603416,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "IMPALA",
+                "productYear": "1979",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CARBURETOR LEAKED GAS ON MANIFOLD CAUSING VEHICLE FIRE.",
+        "vin": ""
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "11/30/1994",
+        "dateOfIncident": "05/01/1993",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 469375,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "IMPALA",
+                "productYear": "1979",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKE MASTER CYLINDER FAILED TWICE.  (OTHER VEHICLE ON 479650)  *SKD",
+        "vin": ""
+    }
+]

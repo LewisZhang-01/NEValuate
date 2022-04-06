@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "02/06/2003",
+        "dateOfIncident": "01/31/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005387,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "SKYLARK",
+                "productYear": "1990",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "STEERING RACK AND PINION AS WELL AS GEAR BOX. SEVERE GRINDING NOISE WHEN TURNING THE STEERING WHEEL,EVEN AT A SLIGHT TURN. BEEN REPAIRED BUT IT IS STILL DOING IT.",
+        "vin": "1G4NV54U0LM"
+    }
+]

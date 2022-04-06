@@ -1,0 +1,31 @@
+[
+    {
+        "components": "EQUIPMENT,UNKNOWN OR OTHER",
+        "crash": true,
+        "dateComplaintFiled": "02/12/2003",
+        "dateOfIncident": "02/09/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005756,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "PARK AVENUE",
+                "productYear": "1998",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "GM PRODUCTS DIV. GM CORP.",
+                "productMake": "GM PRODUCTS",
+                "productModel": "GM PRODUCTS",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "1998 BUICK PARK AVE TIRE JACK FAILED.  SCREW JACK THREADS STRIPPED AND VEHICLE FELL WHILE ATTEMPTING TO CHANGE A FLAT TIRE.  JACK HAD BEEN USED 20 TIME PREVIOUSLY TO ASSIST IN TIRE ROTATATION.  HAS ANYONE ELSE EXPERIENCED THIS TYPE OF FAILURE?  IT IS POTENTIALLY DANGEROUS.",
+        "vin": ""
+    }
+]

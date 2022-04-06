@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "05/12/2003",
+        "dateOfIncident": "01/01/2001",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018537,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "S10",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN EVER VEHICLE IS BRAKING OVER BUMPS, RAILROAD CROSSINGS THE BREAK PEDDLE GIVES AWAY AND VEHICLE ANTI LOCK BREAK SYSTEM PREVENTS STOPPING.   *NLM",
+        "vin": "1GCCS1445Y8"
+    }
+]

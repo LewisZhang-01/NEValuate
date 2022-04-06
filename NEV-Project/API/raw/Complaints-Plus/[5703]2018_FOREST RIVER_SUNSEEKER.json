@@ -1,0 +1,46 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "10/19/2020",
+        "dateOfIncident": "10/06/2020",
+        "fire": false,
+        "manufacturer": "Forest River, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11365145,
+        "products": [
+            {
+                "manufacturer": "Forest River, Inc.",
+                "productMake": "FOREST RIVER",
+                "productModel": "SUNSEEKER",
+                "productYear": "2018",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2018 FOREST RIVER SUNSEEKER. THE CONTACT STATED THAT WHILE HIS WIFE WAS INSIDE THE MOBILE HOME, THE DRIVER'S SIDE DOOR FAILED TO OPEN. NO WARNING LIGHT WAS ILLUMINATED. THE MOBILE HOME WAS HAS NOT DIAGNOSED NOR REPAIRED. NEITHER THE MANUFACTURER NOR THE DEALER WERE MADE AWARE OF THE FAILURE. THE FAILURE MILEAGE WAS APPROXIMATELY 3,800. THE VIN WAS NOT AVAILABLE.",
+        "vin": ""
+    },
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "03/09/2019",
+        "dateOfIncident": "05/01/2018",
+        "fire": false,
+        "manufacturer": "Forest River, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11185566,
+        "products": [
+            {
+                "manufacturer": "Forest River, Inc.",
+                "productMake": "FOREST RIVER",
+                "productModel": "SUNSEEKER",
+                "productYear": "2018",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FLEX PROPANE HOSE FROM MAIN PIPE TO STOVE/OVEN. WAS INSTALLED BACKWARDS AND RUBBED AGAINST DRIVELINE WHILE DRIVING.",
+        "vin": "1FDXE4FSD0J"
+    }
+]

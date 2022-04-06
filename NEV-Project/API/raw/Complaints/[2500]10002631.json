@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "01/13/2003",
+        "dateOfIncident": "08/01/2002",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002631,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "PT CRUISER",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "GAS LEVEL SENSOR GAUGE BROKE",
+        "vin": "3C8FY4BB01T"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "05/22/2003",
+        "dateOfIncident": "05/18/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020336,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "S10",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE CONSUMERS VEHICLE EXPERIENCED SYMPTOMS OF RECALL #98V150000 WHICH WAS RELATED TO THE WINDSHIELD WIPERS.  THE DEALER REFUSED TO REPAIR THE VEHICLE UNDER RECALL BECAUSE THE VEHICLE VIN WAS NOT INCLUDED.   *NLM",
+        "vin": "1GCCT19W0SK"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "01/24/2003",
+        "dateOfIncident": "04/02/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004594,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATES THAT THE CAR DOES NOT PRODUCE HEAT, HAD PANEL REPLACED STILL NO HEAT.               TS",
+        "vin": "1FMDU35P0VZ"
+    }
+]

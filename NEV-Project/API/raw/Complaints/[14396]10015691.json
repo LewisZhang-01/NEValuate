@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "04/11/2003",
+        "dateOfIncident": "02/16/2003",
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015691,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "TOWN CAR",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE CAUGHT ON FIRE WHILE PARKED. THE ALLEGED CAUSE WAS THE SPEED CONTROL SWITCH WHICH CAUSED AN ELECTRICAL FIRE UNDER THE CAR.  *JB  REFERENCED IN EA02-025",
+        "vin": "1LNLM81W3PY"
+    }
+]

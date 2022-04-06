@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/02/2003",
+        "dateOfIncident": "11/29/2002",
+        "fire": false,
+        "manufacturer": "Kia Motors America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001872,
+        "products": [
+            {
+                "manufacturer": "Kia Motors America",
+                "productMake": "KIA",
+                "productModel": "RIO",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "B.F. GOODRICH TIRE CO.",
+                "productMake": "B.F.GOODRICH",
+                "productModel": "B.F.GOODRICH",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "CONSUMER STATES WHILE DRIVING APPROXIMATELY  55MPH THE RIGHT FRONT TIRE BLEW OUT CAUSING DAMAGE TO VEHICLE'S BRAKE LINE AND AXLE. TS",
+        "vin": "KNADC123216"
+    }
+]

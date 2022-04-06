@@ -1,0 +1,24 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "02/20/2003",
+        "dateOfIncident": "02/03/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10007845,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "CONTINENTAL",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ANTI-THEFT SYSTEM SELF-ACTIVATES.",
+        "vin": ""
+    }
+]

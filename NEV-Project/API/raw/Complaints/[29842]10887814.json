@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "07/22/2016",
+        "dateOfIncident": "05/10/2016",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10887814,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "PACIFICA",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENGINE AND UNDERCARRIAGE ROT ,82000. CAR ENGINE WORKS ,BUT IS UNSAFE TO DRIVE",
+        "vin": "2C8GM48L45R"
+    }
+]

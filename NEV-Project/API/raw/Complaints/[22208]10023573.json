@@ -1,0 +1,31 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "06/23/2003",
+        "dateOfIncident": "06/16/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10023573,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "GRAND CHEROKEE",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "RUNNING BOARD KIT",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "I HAVE TO REPLACE THE ROTORS ON MY 2000 JEEP GRAND CHEROKEE A 2ND TIME.  THE 1ST TIME WAS AT 12,000 MILES.   THEY AT 35,000 MILES THEY WENT BAD AGAIN.  JEEP TOLD ME THEY WERE OUT OF WARRANTY AT 12,000.  *NLM",
+        "vin": "1J4GW48SXYC"
+    }
+]

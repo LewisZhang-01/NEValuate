@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": true,
+        "dateComplaintFiled": "04/18/2003",
+        "dateOfIncident": "07/14/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10016179,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "E-250",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "STEEL BELTED RADIAL",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "215/75R/16 FIRESTONE STEELEX WITH OVER 50% OF LIFE LEFT SEPARATED FROM ITS TREAD. THE 3/4 TON VAN SKIDDED ALL OVER THE HIGHWAY, AND FINALLY ROLLED OVER. THE VAN WAS TOTALED. THE TIRE FAILED WHEN LESS THEN MID LIFE WAS LEFT.    *NLM",
+        "vin": "1FTNE24L8YH"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "01/02/2019",
+        "dateOfIncident": "12/30/2018",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11164664,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "TRAVERSE",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE ENTIRE POWER STEERING SYSTEM FAILED WITH LEAKS IN THE RACK AND PINION BOX, THE PUMP AND THE HIGH PRESSURE HOSE. THE CAR IS ONLY 3.5 YEARS OLD AND HAS 40,000 MILES.",
+        "vin": "1GNKVJKD2FJ"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "01/17/2003",
+        "dateOfIncident": "03/06/1992",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002833,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "LEXUS",
+                "productModel": "LS400",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "LEXUS - 93 LS400 - DASH CLUSTER NO LONGER SHOWS SPEED, ENGINE RPM, AND FUEL LEVEL. TS",
+        "vin": "JT8UF11E3P0"
+    }
+]

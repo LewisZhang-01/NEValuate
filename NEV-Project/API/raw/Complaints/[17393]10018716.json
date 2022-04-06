@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "05/14/2003",
+        "dateOfIncident": "07/08/2002",
+        "fire": false,
+        "manufacturer": "FOUR WINDS CMPR. MFG. CO.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018716,
+        "products": [
+            {
+                "manufacturer": "FOUR WINDS CMPR. MFG. CO.",
+                "productMake": "FOUR WINDS",
+                "productModel": "FOUR WINDS",
+                "productYear": "1999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "LT22575R16E",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "FIRESTONE LT22575R16E TREAD SEPARATION AND BLOW OUT NEAR YAKIMA WA.   *NLM",
+        "vin": "1FDXE40S0WH"
+    }
+]

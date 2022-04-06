@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "04/02/2003",
+        "dateOfIncident": "03/30/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015041,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "MALIBU",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE STEERING WHEEL WAS DIFFICULT TO TURN.  *JB  THE VEHICLE SLID, HIT A CURB, AND HAD GOTTEN STUCK IN MUD.  SCC",
+        "vin": "9999"
+    }
+]

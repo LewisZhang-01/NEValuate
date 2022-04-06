@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "06/18/2003",
+        "dateOfIncident": "05/07/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10023289,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "PASSENGER FRONT COIL SPRING BROKE AFTER GOING OVER SPEED BUMP @ 5 MPH. COULD HAVE PUNCTURED TIRE IF NOT IMMEDIATELY NOTICED. 2000 FORD FOCUS, 38,000 MI.   *NLM",
+        "vin": "1FAFP3830YW"
+    }
+]

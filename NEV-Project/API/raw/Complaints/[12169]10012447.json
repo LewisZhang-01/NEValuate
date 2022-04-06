@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "03/25/2003",
+        "dateOfIncident": "03/21/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10012447,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "PLYMOUTH",
+                "productModel": "BREEZE",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE KEY COULD BE TAKEN OUT OF THE IGNITION, WHEN THE GEAR SHIFTER WAS IN ANY POSITION.  THE \"IGNITION-PARK\" INTERLOCK FAILED.   *JB    REF IE03013",
+        "vin": "1P3EJ46C0XN"
+    }
+]

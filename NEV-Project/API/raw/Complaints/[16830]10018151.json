@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "10/22/2003",
+        "dateOfIncident": "05/02/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018151,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATED THAT WHILE DRIVING AND WITHOUT WARNING THE STEERING SHAFT SNAPPED AND CAUSED THE CONSUMER TO LOSE STEERING CONTROL.   *TS   *SCC *JB",
+        "vin": "1FTDX07W0VK"
+    }
+]

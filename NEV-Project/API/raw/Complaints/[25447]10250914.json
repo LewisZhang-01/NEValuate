@@ -1,0 +1,31 @@
+[
+    {
+        "components": "SEATS,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "12/06/2008",
+        "dateOfIncident": "12/05/2008",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10250914,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "MURANO",
+                "productYear": "2003",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "999R5-AR000",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "THE DRIVER'S SEAT HAS BROKEN TWICE UNDER WARRANTY AND REPAIRED.  NOW IT HAD BROKEN A THIRD TIME OUT OF WARRANTY FOR THE EXACT SAME ISSUE.  TSB'S HAVE BEEN ISSUED AND NOW A NEW PART NUMBER HAS BEEN LISTED, WHICH REALLY COMBINES THE TWO PREVIOUS FIX PART NUMBERS.  EXTREMELY UNSAFE!  GOD HELP MOST NISSAN MURANO PEOPLE IF THEY GET IN AN ACCIDENT WITH A BROKEN SEAT. *TR",
+        "vin": ""
+    }
+]

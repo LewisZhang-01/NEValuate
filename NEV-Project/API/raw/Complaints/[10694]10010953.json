@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "03/24/2003",
+        "dateOfIncident": "03/06/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010953,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA 2500 HD",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Bridgestone Americas Tire Operations",
+                "productMake": "FIRESTONE",
+                "productModel": "LT26575R16",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "2 FIRESTONE LT265/75R16 DEVELOPED A CRACK WHICH RAN HALFWAY AROUND THE TIRE UP TO A QUARTER OF AN INCH WIDE IN BETWEEN THE OUTSIDE TREAD AND THE 1ST INSIDE TREAD.  TIRES HAD APPROXIMATELY. 16,000 MILES ON THEM.  COULD HAVE BEEN A POTENTIAL ACCIDENT AS WE WERE LEAVING ON A TRIP PULLING A HORSE TRAILER. *JB",
+        "vin": "1GTHK29151E"
+    }
+]

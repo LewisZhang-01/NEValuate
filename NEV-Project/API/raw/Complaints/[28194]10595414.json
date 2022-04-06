@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "06/01/2014",
+        "dateOfIncident": "05/30/2014",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10595414,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKE FAILURE WITHOUT WARNING. BRAKE LINES RUSTED THRU, LOSS OF BRAKE FLUID, PUMPING WILL NOT HELP, AND NO WARNING UNTIL PEDAL REACHES THE FLOOR. SERVICE CENTER SAYS ALL BRAKE LINES NEED TO BE REPLACED.  *TR",
+        "vin": "2GCEK19N131"
+    }
+]

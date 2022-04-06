@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "01/10/2003",
+        "dateOfIncident": "10/12/2002",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002506,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "4 RUNNER",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATED WHILE DRIVING  AND WITH NO WARNING THE VEHICLE AXLE BROKE.DEALER NOTIFIED.*JB",
+        "vin": "JT3GM84R9V0"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "05/21/2003",
+        "dateOfIncident": "04/09/2003",
+        "fire": false,
+        "manufacturer": "Mitsubishi Motors North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020365,
+        "products": [
+            {
+                "manufacturer": "Mitsubishi Motors North America, Inc.",
+                "productMake": "MITSUBISHI",
+                "productModel": "GALANT",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NAR 05/21/2003  *MR  THE CONSUMER SEAT BELTS WOULD NOT RETRACT PROPERLY. DEALER WAS NOTIFIED.  *CB",
+        "vin": "4A3AJ56G7WE"
+    }
+]

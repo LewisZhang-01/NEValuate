@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "10/14/2000",
+        "dateOfIncident": "10/13/2000",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10007014,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPEDITION",
+                "productYear": "1999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE STEEL PROD. CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "FIRESTONE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "REAR PASSENGER TIRE BLOW OUT, RESULTING IN DAMAGED WHEEL.  ONE PERSON IN THE VEHICLE NO ONE HURT.  VEHICLE DID NOT ROLL OVER.  DID NOT LOSE CONTROL OF THE VEHICLE.  THE TIME WAS 11:20 A.M.  THE TEMPERATURE WAS 81 DEGREES.  THE TIRES HAD BEEN CHECKED TWO DAYS EARLIER FOR INFLATION TO 35 PSI.  THE TIRES HAD BEEN INSPECTED BY A FIRESTONE DEALER 3 MONTHS EARLIER AND SHOWED NO SIGNS OF TREAD SEPARATION.   *NLM       **DIMSII IVOQ ENTRY POSTED AFTER 12/12/02 CUT-OVER TO ARTEMIS*734311",
+        "vin": "1FMRU176XXL"
+    }
+]

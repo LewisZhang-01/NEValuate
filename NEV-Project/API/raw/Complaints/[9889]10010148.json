@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "03/08/2003",
+        "dateOfIncident": "08/14/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010148,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "LUMINA APV",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE DRIVERS' SEATBELT RETRACTOR BROKE.   *NLM",
+        "vin": "1GNDU06L0PT"
+    }
+]

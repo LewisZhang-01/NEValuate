@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "03/28/2003",
+        "dateOfIncident": "03/28/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10014705,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CADILLAC",
+                "productModel": "ELDORADO",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE FUEL READING WAS OFF, THE VEHICLE STOPPED AS IF THERE WAS NO GAS, HOWEVER THERE WAS A HALF TANK.         *JB",
+        "vin": "1G6EL12Y5VU"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "03/26/2003",
+        "dateOfIncident": "03/26/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10012529,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "BRONCO",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING 55 MPH AND WITHOUT  PRIOR WARNING THE ROOF RACK FELL OFF ALONG WITH THE ARTICLES ATTACHED TO IT.",
+        "vin": "PLEASE FILL"
+    }
+]

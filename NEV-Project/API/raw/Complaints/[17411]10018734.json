@@ -1,0 +1,31 @@
+[
+    {
+        "components": "SEAT BELTS,CHILD SEAT",
+        "crash": false,
+        "dateComplaintFiled": "05/14/2003",
+        "dateOfIncident": "05/03/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018734,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "GRAND CARAVAN",
+                "productYear": "2003",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "CHILD SAFETY SEAT",
+                "productModel": "CHILD SAFETY SEAT",
+                "productYear": "9999",
+                "type": "Child Seat"
+            }
+        ],
+        "summary": "I HAVE A 2003 DODGE GRAND CARAVAN SE WITH THE MIDDLE CHILD BENCH SEATS.  MY 4 YEAR OLD SON PUT HIS JUICE CUP DOWN BETWEEN HIM AND THE INFANT SEAT BUCKLED NEXT TO HIM.  THE JUICE CUP HIT THE SEAT BELT RELEASE FOR THE INFANT SEAT AND RELEASED IT.  THIS IS VERY DISTURBING THAT THIS CAN HAPPEN.   IF I HADN'T HEARD THE CLICK OF THE RELEASE , I WOULD NOT HAVE KNOWN MY 4 MONTH OLD DAUGHTER WAS UNPROTECTED.    *NLM",
+        "vin": "1D4GP24373B"
+    }
+]

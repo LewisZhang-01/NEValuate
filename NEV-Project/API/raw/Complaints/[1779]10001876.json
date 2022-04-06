@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "01/02/2003",
+        "dateOfIncident": "12/18/2002",
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001876,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERCURY",
+                "productModel": "TRACER",
+                "productYear": "1990",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE VEHICLE WAS IDLING, UNDERNEATH THE HOOD CAUGHT FIRE AND CUT OFF.  TS",
+        "vin": "2CNBJ18U1L6"
+    }
+]

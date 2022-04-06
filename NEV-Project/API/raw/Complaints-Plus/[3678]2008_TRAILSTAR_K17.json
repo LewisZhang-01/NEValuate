@@ -1,0 +1,54 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/30/2014",
+        "dateOfIncident": "06/21/2010",
+        "fire": false,
+        "manufacturer": "Tracker Marine, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10606946,
+        "products": [
+            {
+                "manufacturer": "Tracker Marine, LLC",
+                "productMake": "TRAILSTAR",
+                "productModel": "K17",
+                "productYear": "2008",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "TRAIL TRAC",
+                "productModel": "LT24575R16",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2008 TRAILSTAR K17 EQUIPPED WITH GOODYEAR LT24575R16 TRAIL TRAC TIRES, SIZE: 175/80R13. THE CONTACT STATED THAT THE TIRES EXHIBITED BLISTERING. THE MANUFACTURE WAS CONTACTED AND SENT A SET OF REPLACEMENT TIRES. THE CONTACT ALSO STATED THAT THE DRIVER'S SIDE TIRE EXHIBITED A VERY LARGE 2-INCH BUBBLE AND WAS SHOWING THE RIM. THE FAILURE MILEAGE WAS UNKNOWN.",
+        "vin": ""
+    },
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "05/01/2008",
+        "dateOfIncident": "04/19/2008",
+        "fire": false,
+        "manufacturer": "Tracker Marine, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10226405,
+        "products": [
+            {
+                "manufacturer": "Tracker Marine, LLC",
+                "productMake": "TRAILSTAR",
+                "productModel": "K17",
+                "productYear": "2008",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 2008 TRAILSTAR K17 BOAT TRAILER.  WHILE DRIVING 70 MPH, THE REAR PASSENGER SIDE TIRE BLEW OUT.  THE ROAD SIDE MECHANIC STATED THAT THE REAR VALVES WERE TOO SMALL FOR THE TRAILER.  THE VEHICLE HAS NOT BEEN DIAGNOSED BY THE DEALER.  THE FAILURE MILEAGE WAS 1,100.",
+        "vin": "5KNEB06148G"
+    }
+]

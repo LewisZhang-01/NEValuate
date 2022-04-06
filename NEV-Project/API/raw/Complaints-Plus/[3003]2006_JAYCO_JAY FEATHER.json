@@ -1,0 +1,76 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "06/05/2009",
+        "dateOfIncident": "06/04/2009",
+        "fire": false,
+        "manufacturer": "Jayco, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10272985,
+        "products": [
+            {
+                "manufacturer": "Jayco, Inc.",
+                "productMake": "JAYCO",
+                "productModel": "JAY FEATHER",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BLACK WATER HOLDING TANK FALLING OFF TRAILER. HOLDING HARDWARE BENT, RELEASING SUPPORT OF TANK ON UNDERBODY OF RV TRAILER. *TR",
+        "vin": "1UJCJ02R461"
+    },
+    {
+        "components": "TIRES",
+        "crash": true,
+        "dateComplaintFiled": "01/27/2008",
+        "dateOfIncident": "11/24/2007",
+        "fire": false,
+        "manufacturer": "Jayco, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10216223,
+        "products": [
+            {
+                "manufacturer": "Jayco, Inc.",
+                "productMake": "JAYCO",
+                "productModel": "JAY FEATHER",
+                "productYear": "2006",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Cooper Tire & Rubber Co.",
+                "productMake": "GENERIC",
+                "productModel": "MENTOR ALL TERRAIN RADIAL SXT",
+                "productYear": "9999",
+                "size": "LT265/75R16",
+                "type": "Tire"
+            }
+        ],
+        "summary": "I RENTED BOOM-LIFT TRAILER, ONE PIECE UNIT, 20 MILES UP THE HILL ON TOLLHOUSE ROAD, THE RIGHT TIRE ROLLED OFF THE BEAD IN A LT CURVE, THE TRAILER FLIPPED ON IT'S SIDE AND WENT OVER THE EMBANKMENT, DRAGGING MY REAR TIRE TO THE PRECIPUS. IT COST ME $740.00 TO PULL IT ONTO THE ROAD AND FLATBED IT TO THE RENTAL SITE. THE CHP INVESTIGATED AND ISSUED A REPORT, BLAMING THE UNDER-RATED TIRES AS THE CAUSE, AND RELIEVING ME OF ANY RESPONSIBILITY FOR CAUSING THE ACCIDENT. THE RENTAL COMPANY HAS DONE NOTHING TO REPAIR THE TRAILER, AND IS STILL RENTING IT'S TWIN OUT TO UNSUSPECTING RENTERS WITH THE SAME TIRES THAT THE CHP RULED AS NOT MEETING VEHICLE REQUIREMENTS FOR THE WEIGHT OF THIS TRAILER. TRAILER DMV PLATE GROSS WEIGHT (GVWR) IS 3,825 LBS THE TIRES ON IT READ MAX LOAD 1,760 LBS AT 50 PSI, IT ONLY HAS 2 TIRES. THE TRAILER TIRES ARE M108 RADIAL ST MILESTAR DOT4YB3 THE TIRE PAGE ON THIS SITE DOESN'T LIST THEM.  *TR",
+        "vin": ""
+    },
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "01/12/2006",
+        "dateOfIncident": "12/16/2005",
+        "fire": false,
+        "manufacturer": "Jayco, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10147656,
+        "products": [
+            {
+                "manufacturer": "Jayco, Inc.",
+                "productMake": "JAYCO",
+                "productModel": "JAY FEATHER",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DURING THE FIRST 200 MILES TOWING A NEW (2006) JAYCO 28 RLS TRAVEL TRAILER, THE FRONT LEFT WINDOW CAME OUT OF THE TRAILER WHILE MOVING ON INTERSTATE 25.  *JB",
+        "vin": ""
+    }
+]

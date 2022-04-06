@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "12/20/2002",
+        "dateOfIncident": "12/15/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000328,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "AVALANCHE",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKE PEDAL GOES TO THE FLOOR WHEN APPLYING BRAKES TO COME TO A STOP. THIS HAS HAPPENED FIVE  (5) TIMES. TS",
+        "vin": "3GNEC13T02G"
+    }
+]

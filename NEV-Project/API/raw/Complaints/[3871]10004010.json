@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "01/16/2003",
+        "dateOfIncident": "01/01/2002",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004010,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "GRAND CHEROKEE",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER HAS TO IDLE VEHICLE FOR AT LEAST 30 MINUTES BEFORE DRIVING IN ORDER TO GET THE TRANSMISSION FLUID TO FLOW THROUGH THE GEARS.  IF NOT, VEHICLE SHIFTS GEARS EXCESSIVELY ROUGH AND \"DROPS\" FROM 1ST INTO 2ND GEAR.             PH",
+        "vin": "1J4GZ58S4TC"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "07/13/2018",
+        "dateOfIncident": "07/13/2018",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11111214,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "C-MAX HYBRID",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "INTERMITTENT INABILITY TO CONTROL SPEED. FINALLY GOT AN ERROR CODE OF P2112 (THROTTLE ACTUATOR CONTROL SYSTEM) WHILE IN MOTION AND VIBRATION BECAUSE THE BATTERY DOES NOT ENGAGE PROPERLY",
+        "vin": "1FADP5BU9GL"
+    }
+]

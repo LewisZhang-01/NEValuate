@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "05/27/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021578,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "CENTURY",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUEL IS LEAKING UNDER THE VEHICLE.  PLEASE PROVIDE DETAILS.*AK",
+        "vin": "1G4AG55MXR6"
+    }
+]

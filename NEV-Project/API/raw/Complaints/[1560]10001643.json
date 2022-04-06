@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "12/30/2002",
+        "dateOfIncident": "12/03/2002",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001643,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "CAMRY",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING AT 30 MPH VEHICLE WAS INVOLVED IN A FRONT END COLLISION, AIRBAGS DID NOT DEPLOY. DEALER CONTACTED. PLEASE PROVIDE ADDTIONAL INFORMATION.",
+        "vin": "JTBBE32K320"
+    }
+]

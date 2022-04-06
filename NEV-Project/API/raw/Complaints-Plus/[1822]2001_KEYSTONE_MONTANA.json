@@ -1,0 +1,31 @@
+[
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "03/10/2008",
+        "dateOfIncident": "08/17/2007",
+        "fire": false,
+        "manufacturer": "Keystone RV Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10220667,
+        "products": [
+            {
+                "manufacturer": "Keystone RV Company",
+                "productMake": "KEYSTONE",
+                "productModel": "MONTANA",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Dometic Corporation",
+                "productMake": "DOMETIC",
+                "productModel": "RM2852",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 2001 KEYSTONE RV.  THE VEHICLE HAS A DOMETIC, MODEL NUMBER RM2852 REFRIGERATOR.  THE CONTACT REPLACED HIS FIRST DOMETIC DUE TO FLUID LEAKAGE BEFORE IT FAILED.  THE SECOND DOMETIC BEGAN LEAKING AND ALSO FAILED.  HE PAID OUT OF POCKET FOR THE REPAIR OF THIS DOMETIC.  NHTSA CAMPAIGN ID NUMBER 06E076000 (EQUIPMENT: RECREATIONAL VEHICLE) WAS LATER ISSUED AND THE CONTACT ATTEMPTED TO RECEIVE REIMBURSEMENT FOR THE REPLACEMENT FEE.  HE WAS INFORMED THAT THE FAILURE WITH HIS DOMETIC WAS NOT RELATED TO THE DEFECT IN THE RECALL.  THE PART NUMBER WAS UNKNOWN.  UPDATED 04/02/08  *TR",
+        "vin": "4YDF2952319"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": true,
+        "dateComplaintFiled": "04/01/2004",
+        "dateOfIncident": "08/02/2003",
+        "fire": false,
+        "manufacturer": "BOSS HOSS CYCLE",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10059333,
+        "products": [
+            {
+                "manufacturer": "BOSS HOSS CYCLE",
+                "productMake": "BOSS HOSS",
+                "productModel": "MOTORCYCLE",
+                "productYear": "1999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Bridgestone Americas Tire Operations",
+                "productMake": "FIRESTONE",
+                "productModel": "FIREHAWK",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE CONSUMER WILL PROVIDE MORE INFORMATION.  THE CONSUMER ISN'T SURE IF IT'S A TIRE PROBLEM OR THE TRANSMISSION.  THE  MOTORCYCLE IS BOSS HOSS YEAR 1999.   *NM   EACH TIME TIRE WOULD BEGIN TO VIBRATE, CONSUMER HAD TO ACCELERATE THE MOTORCYCLE TO MAKE IT STABLE.  SINCE THE VIBRATION BECAME SEVERE, THE CONSUMER WASN'T ABLE TO CORRECT THE PROBLEM.  THE CONSUMER LOST CONTROL OF THE MOTORCYCLE WHICH PROCEEDED TO BOUNCE FRONT OVER REAR FOR ABOUT 312 FEET.  THE CONSUMER THEN SLID ABOUT 208 FEET ON THE PAVED ROAD.  CONSUMER SUFFERED A SEPARATED COLLAR BONE, BROKEN FINGERS, CUTS, AND MAJOR ROAD RASH.  MOTORCYCLE IS EQUIPPED WITH A 350 V8 ENGINE, AND THE REAR TIRE WAS A V RATED CAR TIRE WITH SQUARE EDGES.  BOSS HOSS REPLACED TIRE WITH A VERY LARGE TIRE WITH ROUNDED EDGES.  CONSUMER FELT THAT THE CAUSE OF THE VIBRATION WAS THE TIRE WITH A SQUARE EDGE.   *LA   FIREHAWK PV-40   *SC  *JB",
+        "vin": "1B9TBVC24XD"
+    }
+]

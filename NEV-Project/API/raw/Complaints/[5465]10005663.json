@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "02/11/2003",
+        "dateOfIncident": "01/01/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005663,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "AVALON",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AIRBAG LIGHT CONTINUES TO COME ON INDICATING A MALFUNCTION. TOYOTA REFUSES TO ACKNOWLEDGE A PROBLEM EXISTS.",
+        "vin": "4T1BF18B6XU"
+    }
+]

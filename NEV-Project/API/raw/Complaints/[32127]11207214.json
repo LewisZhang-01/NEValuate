@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "05/13/2019",
+        "dateOfIncident": "01/01/2015",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11207214,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "SONATA",
+                "productYear": "2007",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "1.  THE CHECK ENGINE LIGHTS CONTINUALLY GOES ON AND STAYS ON",
+        "vin": "5NPET46C07H"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "01/30/2003",
+        "dateOfIncident": "01/06/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10006025,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "TRAILBLAZER",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE WINDSHIELD WIPERS FAILED TO WORK THREE TIMES, ONCE WHILE DRIVING IN RAIN.  DEALER IS AWARE OF THE PROBLEM.      TS...*AK",
+        "vin": "1GNET16S226"
+    }
+]

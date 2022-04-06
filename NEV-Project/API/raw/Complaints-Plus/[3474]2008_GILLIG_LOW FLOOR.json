@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "04/13/2012",
+        "dateOfIncident": "02/22/2012",
+        "fire": false,
+        "manufacturer": "Gillig, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10455095,
+        "products": [
+            {
+                "manufacturer": "Gillig, LLC",
+                "productMake": "GILLIG",
+                "productModel": "LOW FLOOR",
+                "productYear": "2008",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "MICHELIN TIRE CORP.",
+                "productMake": "MICHELIN",
+                "productModel": "X TIRE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WE ARE A PUBLIC TRANSIT AGENCY IN VANCOUVER, WASHINGTON.  OVER THE COURSE OF THE LAST 15 MONTHS WE HAVE HAD ROUGHLY 100 SIDEWALL BLOWOUTS OF MICHELIN XZU2 AND XZU3 TIRES.  THE DATA ENTERED IS FROM ONE EVENT AND IS VERY INDICATIVE OF THE VAST MAJORITY OF THESE BLOWOUTS.  ADDITIONAL INFORMATION AVAILABLE UPON REQUEST.  *TR",
+        "vin": ""
+    }
+]

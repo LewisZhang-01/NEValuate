@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/08/2003",
+        "dateOfIncident": "03/22/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001496,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "OLDSMOBILE",
+                "productModel": "SILHOUETTE",
+                "productYear": "1995",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "KELLY SPRINGFIELD TIRE CO",
+                "productMake": "ROCKY MOUNTAIN",
+                "productModel": "P18575R14",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHILE IN MOTION, THE RIGHT FRONT TIRE BLEW.  THERE WAS A RUBBER COATED WIRE THAT BLEW IN THE FRONT TIRE.  *JG*JB",
+        "vin": "1GHDU06L8ST"
+    }
+]

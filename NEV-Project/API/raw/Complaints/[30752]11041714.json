@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "10/31/2017",
+        "dateOfIncident": "10/10/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11041714,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "ESCAPE",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TSB 16-0052 INDICATES A DEFECTIVE PART THAT CAN CAUSE ENGINE SHUTDOWN FROM LOSS OF COOLANT. THIS CAN BE SUDDEN AND IS, THEREFORE, A SAFETY ISSUE. LOSS OF ENGINE ON A FREEWAY AT SPEED IN TRAFFIC CAN CAUSE A FATAL ACCIDENT. THIS SHOULD BE A SAFETY RECALL, NOT A TSB. THE FIRST INDICATION IS A CHECK ENGINE LIGHT.",
+        "vin": "1FMCU0HX9DU"
+    }
+]

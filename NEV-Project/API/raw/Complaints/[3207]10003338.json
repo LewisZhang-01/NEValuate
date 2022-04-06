@@ -1,0 +1,31 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "01/24/2003",
+        "dateOfIncident": "01/23/2003",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003338,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "GTI",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "GOLF",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "COILPACK FAILURES ARE A SAFETY ISSUE.  IS VOLKSWAGON WAITING FOR SOMEONE TO DIE UNTIL THEY RECALL THIS?  WHILE YOUR AT IT, FIX MY WINDOWS THAT ARE GOING TO BREAK SOON TOO.",
+        "vin": "9BWDE61J924"
+    }
+]

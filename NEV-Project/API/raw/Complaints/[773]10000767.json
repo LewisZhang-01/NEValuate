@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "01/07/2003",
+        "dateOfIncident": "07/08/2001",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000767,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "REAR AXLE UNSTABLE WHEN CORNERING OVER MODERATE BUMPS. LOSES LATERAL TRACTION. DEALER FAILED TO MAKE A GENUINE EFFORT TO REPLICATE THE PROBLEM. I REPLACED REAR SHOCKS AT MY OWN EXPENSE, PROBLEM WAS REDUCED BUT NOT ELIMINATED.",
+        "vin": "1GTEC14V62Z"
+    }
+]

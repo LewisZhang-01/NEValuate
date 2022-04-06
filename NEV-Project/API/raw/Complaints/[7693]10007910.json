@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "02/21/2003",
+        "dateOfIncident": "02/21/2003",
+        "fire": true,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10007910,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "PREVIA",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE VEHICLE WAS RUNNING, THE STERING COLUMN BECAME VERY HOT. RESULTING IN THE VEHICLE TOTALING DESTROYED BY FIRE",
+        "vin": "JT3GK12MXT1"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN,ELECTRICAL SYSTEM,ELECTRONIC STABILITY CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "04/28/2020",
+        "dateOfIncident": "01/01/2019",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11322489,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "OPEL",
+                "productModel": "GT",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "LOST CARPASS",
+        "vin": "Y6D0TGF696X"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "LATCHES/LOCKS/LINKAGES",
+        "crash": false,
+        "dateComplaintFiled": "12/19/2002",
+        "dateOfIncident": "08/04/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000262,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER EV",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DOOR AJAR INDICATOR LIGHT STAYS ON.  APPARENTLY THE DOOR SENSOR UNIT OR LOCATION IS FAULTY.",
+        "vin": "1FTYR14U11P"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": true,
+        "dateComplaintFiled": "05/22/2003",
+        "dateOfIncident": "05/05/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 1,
+        "numberOfInjuries": 1,
+        "odiNumber": 10020385,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GEO",
+                "productModel": "METRO",
+                "productYear": "1991",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE WAS INVOLVED IN A SINGLE CAR COLLISION WHERE BOTH THE DRIVER AND PASSENGER SEAT BELTS BECAME UN-BUCKLED, WHICH RESULTED IN THE PASSENGER BEING EJECTED FROM THE VEHICLE AND KILLED.  RELATED RECALL 95V103007, MANUFACTURER ADVISED THE CONSUMER'S VEHICLE IDENTIFICATION NUMBER WAS NOT INCLUDED.   *JB",
+        "vin": ""
+    }
+]

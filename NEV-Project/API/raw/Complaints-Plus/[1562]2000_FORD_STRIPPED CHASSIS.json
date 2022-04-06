@@ -1,0 +1,46 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "09/14/2016",
+        "dateOfIncident": "09/08/2016",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10906340,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "STRIPPED CHASSIS",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2000 FORD STRIPPED CHASSIS. WHILE DRIVING 62 MPH, A PEBBLE STRUCK AND FRACTURED THE WINDSHIELD. THE MANUFACTURER AND OTHER INDEPENDENT GLASS COMPANIES WERE UNABLE TO ASSIST WITH THE REPAIRS. THE VEHICLE WAS UNSAFE TO DRIVE DUE TO THE FRACTURED WINDSHIELD. THE FAILURE MILEAGE WAS 8,223.",
+        "vin": "1FCNF53S8Y0"
+    },
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "08/20/2015",
+        "dateOfIncident": "08/12/2013",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10750147,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "STRIPPED CHASSIS",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2001 COACHMEN GEORGIE BOY PURSUIT RV EQUIPPED WITH A 2000 FORD MH STRIPPED CHASSIS. WHILE DRIVING APPROXIMATELY 50 MPH WITH THE BRAKE PEDAL ENGAGED, THE BRAKES FAILED TO ENGAGE AND THE BRAKES OVERHEATED. THE VEHICLE WAS TAKEN TO AN INDEPENDENT MECHANIC FOR DIAGNOSTIC TESTING. THE TECHNICIAN DIAGNOSED THAT THE PIN SLIDE HYDRAULIC DISC BRAKE WOULD NEED TO BE REPLACED. THE VEHICLE WAS NOT REPAIRED. THE MANUFACTURER WAS NOTIFIED OF THE FAILURE. THE APPROXIMATE FAILURE MILEAGE WAS 31,000.",
+        "vin": "1FCMF53S5Y0"
+    }
+]

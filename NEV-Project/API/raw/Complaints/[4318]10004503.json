@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "01/23/2003",
+        "dateOfIncident": "01/13/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004503,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SAFARI",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING 40MPH THE HYDRO BOOST FAILED CAUSING POWER STEERING FLUID TO LEAK AND SLIGHT LOST OF POWER STEERING. PLEASE PROVIDE ANY ADDITIONAL INFORMATION.                 TS",
+        "vin": ""
+    }
+]

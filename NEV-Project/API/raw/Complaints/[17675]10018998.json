@@ -1,0 +1,31 @@
+[
+    {
+        "components": "POWER TRAIN,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "05/20/2003",
+        "dateOfIncident": "05/16/2003",
+        "fire": true,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 3,
+        "odiNumber": 10018998,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "OLDSMOBILE",
+                "productModel": "BRAVADA",
+                "productYear": "1997",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "AUTOMATIC EQUIP. MFG. CO.",
+                "productMake": "AUTOMATIC EQUIPMENT",
+                "productModel": "AUTOMATIC EQUIPMENT",
+                "productYear": "1984",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "I JUST HAD THE TRANSFER CASE AND DIFFERENTIAL ON MY 1997 OLDS BRAVADA REPAIRED AND WAS DRIVING WHEN I HEARD A POP SOUND AND SAW FLAMES SHOOTING OUT FROM THE BOTTOM CENTER AND REAR OF MY VEHICLE.  I STOPPED IMMEDIATELY AND GOT EVERYONE OUT JUST BEFORE THE WHOLE THING WENT UP IN FLAMES.    *NLM",
+        "vin": "1GHDT13W7V2"
+    }
+]

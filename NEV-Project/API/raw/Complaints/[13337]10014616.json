@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "03/27/2003",
+        "dateOfIncident": "03/27/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10014616,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAVALIER",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE STEERING WHEEL BECAME HARD TO STEER.  HAD THE RACK AND PINION STEERING BEARING REPLACED ACCORDING TO THE RECALL NOTICE, BUT THIS DID NOT FIX THE PROBLEM.",
+        "vin": "4G1JF3249VB"
+    }
+]

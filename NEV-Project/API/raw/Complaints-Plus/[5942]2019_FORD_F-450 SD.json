@@ -1,0 +1,83 @@
+[
+    {
+        "components": "POWER TRAIN,UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "05/19/2020",
+        "dateOfIncident": "05/18/2020",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11325096,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-450 SD",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WIRE HARNESS FOR TRANSMISSION WAS NOT SECURED PROPERLY,CAME LOOSE AND WRAPPED AROUND DRIVESHAFT RIPPING IT OFF, AND CAUSED AN COOLANT LINE TO ALSO PULL OFF, NOTED ON TOW BILL.  VEHICLE WAS RUNNING FINE, 70MPH ON FREEWAY...MADE A LOUD POP NOISE AND TRANSMISSION WAS GRINDING BAD...PULLED OVER AND SHUT IT OFF IMMEDIATELY, LOTS OF ANTIFREEZE UNDER TRUCK AND WIRE HARNESS RIPPED OFF AND WRAPPED AROUND FRONT DRIVESHAFT (6-8FT OF THE WIRE HARNESS)*DT  CONSUMER STATED TRANSMISSION WAS REPLACED BEFORE BY ANOTHER DEALER AND THE CURRENT DEALER STATED IT WAS THEIR FAULT. CONSUMER CLAIMS THE HARNESS FAILING WAS HELD BY PLASTIC CLIPS.*JB*DT*DT*JB*JB *TR*JB",
+        "vin": "1FD0W4HT2KE"
+    },
+    {
+        "components": "TIRES,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "09/27/2019",
+        "dateOfIncident": "06/15/2019",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11258575,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-450 SD",
+                "productYear": "2019",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Continental Tire the Americas, LLC",
+                "productMake": "CONTINENTAL",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            },
+            {
+                "manufacturer": "Continental Automotive Systems, Inc.",
+                "productMake": "CONTINENTAL",
+                "productModel": "CONTINENTAL",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "2019 F-450 THAT CAME WITH CONTINENTAL HSR TIRES AS THE OEM TIRE.  THE TRUCK HAS HAD 2 SEPARATE INCIDENTS WHERE A STEER TIRE (ONE PASSENGER SIDE, ONE DRIVER SIDE) HAS HAD CHUNKS OF TREAD BREAK OFF OF THE TIRE.  THERE ARE NO KNOWN EVENTS CAUSING THIS FAILURE.  CONTINENTAL TIRE HAS REPLACED BOTH TIRES UNDER WARRANTY, BUT THIS SEEMS INCREDIBLY UNSAFE.    TIRE BRAND: CONTINENTAL  TIRE LINE: HSR  TIRE SIZE: 225/70R19.5 128N  COMPONENT - TREAD COMING OFF OF TIRES MULTIPLE TIMES ON STEER AXLE.",
+        "vin": "1FT8W4DT9KE"
+    },
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "07/22/2019",
+        "dateOfIncident": "07/19/2019",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11233762,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-450 SD",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "COMPLETE BRAKE SYSTEM FAILURE WITH ONLY 830 MILES ON THE VEHICLE. ON JULY 19, 2019 WHILE APPROACHING AN INTERSECTION ON E. CAUSEWAY APPROACH IN MANDEVILLE, LA. I APPLIED THE BRAKES TO STOP FOR A RED LIGHT, THE BRAKE PEDAL WENT TO THE FLOOR AND THE VEHICLE WAS NOT SLOWING ENOUGH TO AVOID HITTING THE VEHICLES AHEAD OF ME AT THE INTERSECTION. I RAPIDLY DOWN SHIFTED THROUGH THE GEARS TO REDUCE SPEED AND ALSO APPLIED THE PARKING BRAKE TO HELP REDUCE SPEED. WHILE THE VEHICLE DID SLOW DOWN IT WAS NOT ENOUGH TO AVOID HITTING THE TRAFFIC AHEAD, SO I VEERED OFF TO THE RIGHT AND MISSED THE OTHER CARS. AFTER SLOWING TO A ROLL I WAS ABLE TO PUT THE VEHICLE IN PARK TO BRING IT TO A COMPLETE STOP. ONCE I GATHERED MY THOUGHTS I WAS ABLE TO GET THE VEHICLE OFF THE MAIN ROADWAY AND CONTACT FORD ROADSIDE ASSISTANCE. TWO AND A HALF HOURS LATER A TOW TRUCK ARRIVED AND BROUGHT THE VEHICLE TO THE DEALERSHIP WHERE I HAD PURCHASED IT ONE WEEK EARLIER. WHILE WAITING FOR THE TOW TRUCK I INSPECTED THE VEHICLE AND FOUND A LARGE AMOUNT OF BRAKE FLUID SPRAYED IN THE ENGINE BAY BY THE MASTER CYLINDER AND RUNNING DOWN THE FRAME AND POOLING UNDER THE VEHICLE. I ALSO OBSERVED THAT THE FLARE NUTS AT THE MASTER CYLINDER HAD BEEN GALLED UP AND ALMOST ROUNDED AS IF A WRENCH HAD BEEN SLIPPING OFF DURING ASSEMBLY. THESE GALLED UP FLARE NUTS WERE ON THE LINES THAT APPEARED TO BE LOSING BRAKE FLUID.*DT *DT*JB  CONSUMER STATED HE RECIEVED TRUCK BACK FROM DEALERSHIP. ISSUE ON FORD'S END DURING VEHICLE ASSEMBLY.  LOOKS LIKE THE FACTORY HAS MISALIGNED ONE OF THE HARD BRAKE LINES AT THE MASTER CYLINDER. WHEN THEY TIGHTENED THE FLARE NUT THEY STRIPPED IT OUT IN THE MASTER CYLINDER HOUSING. THE LINE HAD ENOUGH FASTENING TENSION TO HOLD THE FLARE MATING  SURFACES TOGETHER. APPARENTLY WHEN I APPLIED HARD BRAKING PRESSURE THE IMPROPERLY INSTALLED NUT ALLOWED THE BRAKE LINE TO SLIP BACK AND LOSE FLUID & PRESSURE CONTAINMENT. BRAKES WERE FINE.*JB",
+        "vin": "1FT8W4DTXKE"
+    }
+]

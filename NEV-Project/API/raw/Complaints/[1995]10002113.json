@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "01/06/2003",
+        "dateOfIncident": "12/12/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002113,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "WINDSTAR",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "REAR LIFTGATE GLASS SELF-SHATTERED WITHOUT WARNING.  VEHICLE WAS PARKED IN A LOCKED GARAGE WITH ALL DOORS LOCKED.   PH",
+        "vin": "2FMZA5244YB"
+    }
+]

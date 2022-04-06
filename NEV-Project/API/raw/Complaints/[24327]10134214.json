@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": true,
+        "dateComplaintFiled": "08/25/2005",
+        "dateOfIncident": "08/23/2005",
+        "fire": false,
+        "manufacturer": "Volvo Car USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10134214,
+        "products": [
+            {
+                "manufacturer": "Volvo Car USA, LLC",
+                "productMake": "VOLVO",
+                "productModel": "S70",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CAR STALLS RANDOMLY AND THIS TIME I HIT A CURB",
+        "vin": "YV1LS55A8X3"
+    }
+]

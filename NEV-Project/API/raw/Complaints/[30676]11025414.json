@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "09/25/2017",
+        "dateOfIncident": "09/25/2017",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11025414,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "EXPRESS",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THIS VEHICLE WILL NOT TURN OFF WHEN THE IGNITION KEY IS REMOVED. THIS POSES A GREAT RISK TO ANY PASSENGERS IN THE VEHICLE AS IT CAN BE MOVED WITHOUT THE KEY IN THE IGNITION. THE VEHICLE REMAINS FULLY POWERED WITH THE KEY REMOVED.",
+        "vin": "1GAZG1FG6D1"
+    }
+]

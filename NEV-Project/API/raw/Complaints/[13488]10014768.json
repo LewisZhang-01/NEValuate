@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "03/31/2003",
+        "dateOfIncident": "03/27/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10014768,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CORSICA",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE RACK AND PINION FAILED, WHICH CAUSED CONSUMER TO PULL OVER.  *JB",
+        "vin": ""
+    }
+]

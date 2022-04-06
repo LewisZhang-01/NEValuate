@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "06/03/2003",
+        "dateOfIncident": "02/16/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020973,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "PT CRUISER",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SIDE AIRBAGS DID NOT DEPLOY IN SEVERE SIDE CRASH.   *NLM",
+        "vin": "3C8FY68B32T"
+    }
+]

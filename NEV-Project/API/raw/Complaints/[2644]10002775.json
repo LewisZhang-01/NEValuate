@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "01/16/2003",
+        "dateOfIncident": "01/15/2002",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002775,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "AUDI",
+                "productModel": "A4",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "LEFT STRANDED BY IGNITION COIL FAILURE ON 2002 AUDI A4 1.8T - THIS IS THE SECOND TIME STRANDED BY THIS FAILURE",
+        "vin": ""
+    }
+]

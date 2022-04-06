@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "12/16/2002",
+        "dateOfIncident": "01/09/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000133,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "IMPALA",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FRONT SEAT BELT RETRACTOR AND MOTION LOOK-UP DEVICE FAILLED WITHOUT WARNING. UPON REPLACEMENT FOUND THAT THE RETRACTION SPRING HAD WORN THROUGH THE PLASTIC SIDE COVER. FALURE OCCURRED WHEN I LEANED FORWARD AND APPLIED FORCE TO THE SEAT BELT SHOULDER HARNESS. IF IT HAD OCCURRED IN AN ACCIDENT, I WOULD NOT HAVE BEEN RESTRAINED.",
+        "vin": "1G1BL52P0TR"
+    }
+]

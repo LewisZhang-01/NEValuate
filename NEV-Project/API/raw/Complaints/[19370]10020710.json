@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "05/29/2003",
+        "dateOfIncident": "05/22/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020710,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "WINDSTAR",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSTANT TRANSMISSION SHUDDER DURING UPSHIFT.  UNLIKE THE TSB DEALING WITH SHUDDER WHILE CORNERING, THIS PROBLEM OCCURS ALL THE TIME.  MECHANIC INDICATES THAT LIKELY CAUSE IS FAILURE OF THE PISTON IN THE FOWARD CLUTCH.  A VERY COMMON PROBLEM IN WINDSTARS. CONSEQUENTLY, IT CAUSES INSUFFICIENT ACCELERATION FORM A STOP MAKING CROSSING INTERSECTIONS UNSAFE.",
+        "vin": "2FMZA5141XB"
+    }
+]

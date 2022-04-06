@@ -1,0 +1,31 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "01/23/2003",
+        "dateOfIncident": "01/06/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003276,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-250 SD",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "AIR BAG SWITCH",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "SEVEIR VIBRATION  ON BRAKE APPLICATION  ....  REPLACED BRAKE PADS AND NEW ROTORS.... SUSPENSION SEEMS  FINE....NEW TIRES....BALANCED",
+        "vin": "1FTNX21FXYE"
+    }
+]

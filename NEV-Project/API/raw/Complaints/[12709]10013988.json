@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "04/05/2003",
+        "dateOfIncident": "04/06/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10013988,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CORVETTE",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE BATTERY WILL DRAIN AFTER 5 DAYS AFTER BEING PARKED.  I HAVE BEEN TOLD BY JOHN HALL CHEVROLET THAT THIS IS NORMAL DUE TO THE EXCESSIVE POWER DRAIN THAT THE CORVETTE COMPUTERS PUT ON THE BATTERY.  THIS DESPITE 3 \"CHARGE SYSTEM FAULT\" MESSAGES THAT HAVE COME UP ON THE DISPLAY SCREEN.  *JB",
+        "vin": "1G1YY32G725"
+    }
+]

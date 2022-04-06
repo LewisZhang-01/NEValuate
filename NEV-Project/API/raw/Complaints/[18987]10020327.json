@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "05/21/2003",
+        "dateOfIncident": "05/21/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020327,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "RAM 1500",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE HIT A BUMP WHILE DRIVING WHICH CAUSED THE VEHICLE TO SHAKE AND THE DRIVER LOST CONTROL.  *NLM",
+        "vin": "PROVIDE"
+    }
+]

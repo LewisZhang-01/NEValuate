@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "01/17/2003",
+        "dateOfIncident": "01/14/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004092,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "WINDSTAR",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WATER LEAKS INTO THE SEAL OF THE REAR HATCHBACK CAUSING DAMAGE AND MOLD TO BUILD UP IN THE INTERIOR OF THE VEHICLE. DEALER NOTIFIED.",
+        "vin": "2FMZA5141XB"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "01/15/2004",
+        "dateOfIncident": "11/17/2003",
+        "fire": false,
+        "manufacturer": "Kia Motors America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10048314,
+        "products": [
+            {
+                "manufacturer": "Kia Motors America",
+                "productMake": "KIA",
+                "productModel": "SPECTRA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING AT 50 MPH, THE VEHICLE WAS INVOLVED IN A FRONTAL COLLISION. THE DUAL AIRBAGS DID NOT DEPLOY. THE DRIVER SUSTAINED INJURIES,AND THE VEHICLE WAS TOTALED.  *AK  *JB",
+        "vin": "KNAFB161435"
+    }
+]

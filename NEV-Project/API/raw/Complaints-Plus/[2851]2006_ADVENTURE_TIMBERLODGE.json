@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "07/10/2009",
+        "dateOfIncident": "06/12/2009",
+        "fire": false,
+        "manufacturer": "Adventure Manufacturing",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10276358,
+        "products": [
+            {
+                "manufacturer": "Adventure Manufacturing",
+                "productMake": "ADVENTURE",
+                "productModel": "TIMBERLODGE",
+                "productYear": "2006",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Cooper Tire & Rubber Co.",
+                "productMake": "MASTERCRAFT",
+                "productModel": "MASTERCRAFT AVENGER G/T",
+                "productYear": "9999",
+                "size": "P235/60R15",
+                "type": "Tire"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 2006 ADVENTURE TIMBERLODGE TRAILER, MODEL 27BHSLE.  THE VEHICLE HAS MASTER TRACK TT738802 TIRES, SIZE ST225-75-D15 (NA).  THE CONTACT STATED THAT THE FRONT PASSENGER SIDE TIRE BLEW OUT WHILE DRIVING APPROXIMATELY 55 MPH.  HE STATED THAT THE VEHICLE DOES NOT GATHER MILEAGE INFORMATION SO THE MILEAGES WERE UNKNOWN.",
+        "vin": "5C1TF29236P"
+    }
+]

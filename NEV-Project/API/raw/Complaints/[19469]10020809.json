@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "05/31/2003",
+        "dateOfIncident": "05/01/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020809,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAMARO",
+                "productYear": "1990",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Bridgestone Americas Tire Operations",
+                "productMake": "FIRESTONE",
+                "productModel": "FIREHAWK",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "TRAVELING ON THE INTERSTATE AT APPX. 65 MPH THE REAR DRIVERS SIDE TIRE TREAD SEPARATED.   FIREHAWK SS10.    *TT",
+        "vin": "1G1FP33EXLL"
+    }
+]

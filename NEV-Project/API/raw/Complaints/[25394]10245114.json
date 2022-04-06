@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "10/10/2008",
+        "dateOfIncident": "10/10/2008",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10245114,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "WINDSTAR",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CRACK IN REAR AXLE. *TR",
+        "vin": "2FMZA5243YB"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "components": "SUSPENSION,TIRES",
+        "crash": false,
+        "dateComplaintFiled": "04/07/2003",
+        "dateOfIncident": "04/01/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015238,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "S10",
+                "productYear": "2003",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "UNIROYAL TIRE CO.",
+                "productMake": "UNIROYAL",
+                "productModel": "UNIROYAL",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE VEHICLES ORIGINAL EQUIPMENT TIRES ARE NOT BALANCED PROPERLY AND RESULTED IN \"WOBBLING\" WHILE DRIVING.  THE DEALER ATTEMPTED TO BALANCE THEM FOUR TIMES SINCE PURCHASED BUT THE PROBLEM STILL EXISTS (UNIROYAL P205/75R15, 1,000 MILES ON TIRES).   *NLM",
+        "vin": "1GCCS19X538"
+    }
+]

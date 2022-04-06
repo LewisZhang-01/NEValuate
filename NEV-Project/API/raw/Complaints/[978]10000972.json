@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": true,
+        "dateComplaintFiled": "01/12/2003",
+        "dateOfIncident": "07/22/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 2,
+        "odiNumber": 10000972,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "STOPPED AT REDLIGHT AND WAS HIT IN REAR OF OUR CHEVROLET SILVERADO EXT.CAB PICKUP.  DRIVER AND PASSENGER IN FRONT SEATS WERE INJURED. SEATBELT SHOULDER STRAPS DID NOT LOCK .",
+        "vin": "2GCEC19V111"
+    }
+]

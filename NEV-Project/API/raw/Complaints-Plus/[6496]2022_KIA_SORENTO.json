@@ -1,0 +1,46 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "02/25/2022",
+        "dateOfIncident": "02/21/2022",
+        "fire": false,
+        "manufacturer": "Kia Motors America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11454126,
+        "products": [
+            {
+                "manufacturer": "Kia Motors America",
+                "productMake": "KIA",
+                "productModel": "SORENTO",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Transmission failed at 1561 miles. Will accelerate to 3000rpm do a 1-2 shift then immediately bang back into 1st. Car was flat bedded to dealer. Awaiting new transmission which is on backorder.",
+        "vin": "5XYRHDLF2NG"
+    },
+    {
+        "components": "VISIBILITY/WIPER",
+        "crash": false,
+        "dateComplaintFiled": "01/11/2022",
+        "dateOfIncident": "01/10/2022",
+        "fire": false,
+        "manufacturer": "Kia Motors America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11447028,
+        "products": [
+            {
+                "manufacturer": "Kia Motors America",
+                "productMake": "KIA",
+                "productModel": "SORENTO",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "My vehicle (2022 kia sorento) was purchased 11/08/21. It only has 1777 miles at this exact time. My windshield started cracking on my drivers side from the sunroof down. This is ridiculous for a vehicle so new. I've read this is a chronic issue with the tellurides. Kia refuses to do anything about it",
+        "vin": "5XYRK4LF8NG"
+    }
+]

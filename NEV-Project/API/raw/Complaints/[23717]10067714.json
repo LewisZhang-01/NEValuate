@@ -1,0 +1,31 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "04/23/2004",
+        "dateOfIncident": "04/18/2004",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10067714,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "AIR BAG SWITCH",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "IGNITION CYLINDAR FROZE, RENDERING THE KEY UNABLE TO BE TURNED.  TOWED TO HAVE FIXED AND CYLINDAR WAS REPLACED WITH NEW FORD PART.  THIS IS THE 2ND CYLINDAR SINCE I BOUGHT THE CAR...THE 1ST TIME THE KEY WAS STUCK AND WOULDN'T COME OUT OF THE CYLINDAR.  TWO DAYS AFTER GETTING THE CAR FIXED, IT HAPPENED A AGAIN WHERE THE CYLINDAR FROZE.  THE TUMBLERS ARE OF AN INFERIOR AND DEFECTIVE DESIGN AND IT IS UNLIKELY THERE IS A PERMANENT REMEDY WITHOUT A DESIGN IMPROVEMENT.*AK",
+        "vin": "1FAFP34P2YW"
+    }
+]

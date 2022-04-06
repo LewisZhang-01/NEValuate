@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "05/09/2003",
+        "dateOfIncident": "05/07/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019568,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERCURY",
+                "productModel": "GRAND MARQUIS",
+                "productYear": "1990",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE LEAKED BRAKE FLUID. THE VEHICLE WAS TAKEN TO A SERVICE TECHNICIAN WHO STATED THE BRAKE LINE RUSTED.         *JB",
+        "vin": "2MECM74F2LX"
+    }
+]

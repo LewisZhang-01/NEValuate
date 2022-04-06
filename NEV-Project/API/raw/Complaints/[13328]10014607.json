@@ -1,0 +1,24 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "03/27/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10014607,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "TRAILBLAZER",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE INTERIOR AND EXTERIOR LIGHT CONTROL FAILED.  THE SWITCH DID NOT FUNCTION WHICH CAUSED THE LIGHTS NOT TO ILLUMINATE OR GO OFF.  *JB",
+        "vin": ""
+    }
+]

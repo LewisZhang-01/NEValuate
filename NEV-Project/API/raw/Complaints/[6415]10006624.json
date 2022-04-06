@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "02/05/2003",
+        "dateOfIncident": "02/01/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10006624,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE REAR FRAME OF THE VEHICLE IS CRACKED. PLEASE FILL IN ADDITIONAL INFORMATION. DEALER IS AWARE OF THE PROBLEM.    PH",
+        "vin": "PLEASE FILL"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/02/2004",
+        "dateOfIncident": "12/26/1999",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10051514,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPEDITION",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SPARE TIRE FELL OFF VEHICLE.  THE CABLE HOLDING THE SPARE TIRE BROKE LETTING THE SPARE TIRE FALL FROM UNDER THE VEHICLE AND BOUNCING AROUND ON THE ROAD.*AK",
+        "vin": "1FMPU18L4XL"
+    }
+]

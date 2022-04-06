@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "05/19/2003",
+        "dateOfIncident": "05/13/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020106,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERCURY",
+                "productModel": "SABLE",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLES GEAR SHIFT SELECTOR COULD NOT BE PLACED IN THE PARK POSITION.  THE VEHICLE WAS TAKEN TO THE DEALER WHERE THEY REPLACED A COMPONENT BUT THE PROBLEM RE-OCCURRED.  *NLM",
+        "vin": "1MEFM55SYG6"
+    }
+]

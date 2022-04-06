@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "05/23/2003",
+        "dateOfIncident": "05/17/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019151,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "E-450",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "STEELTEX R4S",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "FIRESTONE STEELTEX LT22575R16 TREAD SEPERATION. TIRE PRES:75PSI, SPEED 65, TEMP:80F, ROAD SURFACE: SMOOTH HIGHWAY,. THIS IS ALSO THE THIRD TIRE FAILURE ON THIS RV. ( AT WORK OUR FORD SUV HAS HAD THREE TIRE FAILURES JUST LIKE MY RV)",
+        "vin": ""
+    }
+]

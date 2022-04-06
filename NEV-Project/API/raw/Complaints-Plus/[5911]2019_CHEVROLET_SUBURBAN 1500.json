@@ -1,0 +1,376 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "10/08/2021",
+        "dateOfIncident": "10/06/2021",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11435996,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Weld on the radiator failed at 50,000. Dealership said they don't know why but this is common in Chevy Suburbans, GM Yukons, and pickups. From research online I saw that there were repair bulletins for earlier year models. Is the problem continuing? Luckily we were close to home when this failed.",
+        "vin": "1gnskjkj4kr"
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "09/15/2021",
+        "dateOfIncident": "09/09/2021",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11433135,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "My car on lower rpm and lower speed. It does Fishbite Chuggle Misfire Feeling Or Shudder Vibration",
+        "vin": "1GNSKHKC9KR"
+    },
+    {
+        "components": "POWER TRAIN,UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "09/12/2021",
+        "dateOfIncident": "09/09/2021",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11432648,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "the Service 4WD light is the following DTC\u2019s set: SwitchCircuitsetintheTCM \u2022 P0700:TransmissionControlModuleRequestedMILIllumination \u2022 P2534:IgnitionOn/StartSwitchCircuitLowVoltagesetintheECM On the pdf i have that\u2019s exactly what happend with me",
+        "vin": "1GNSKHKC9KR"
+    },
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "06/01/2021",
+        "dateOfIncident": "05/31/2021",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11419159,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "As I first started the vehicle with the brake pedal depressed and the transmission in Park, I heard and felt a grinding similar to what would be heard and felt when the ABS is activated when braking on a slippery surface such as snow or ice.  At that point, the \"Service Brake Assist\" message was displayed in the center of the instrument cluster.  I cleared the message to let the vehicle move.  Every time that I depressed the brake pedal, the same thing would happen -- grinding similar to what would be heard and felt when the ABS being activated (in between each instance, I would clear the message from the screen).  It did not matter if I was going 2 mph or 20 mph, going forward or backwards.  I drove up to 25 mph and this also resulted in diminished brake performance - which could put others at risk.  In this regard, I do have two videos of the incident.  When I shut the car off and opened the driver's door, the Suburban reset and the brake assist system operated normally for the rest of the quarter-mile drive back to its parking spot as though nothing had happened.    The vehicle is currently at the dealer for repair.  It is important to note that this same issue occurred approximately one year ago and the dealership advised that they had replaced the brake booster sensor at that time.  Please reference NHTSA ID Number 11384064.",
+        "vin": "1GNSKHKC4KR"
+    },
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "05/20/2021",
+        "dateOfIncident": "05/20/2021",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11417887,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "While driving down the interstate, the sunroof just exploded. There was no other vehicles near or any debris that caused the glass to shatter.",
+        "vin": "1GNSCHKC8KR"
+    },
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "05/12/2021",
+        "dateOfIncident": "02/26/2021",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11416355,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "MY DAUGHTER WAS STUCK IN THE BACK SEAT. I WAS UNABLE TO GET HER OUT. THE SEATBELT WAS LOCKED AND UNABLE TO UNLOCK. I HAD TO CUT THE SEATBELT IN ORDER FOR HER TO GET OUT.",
+        "vin": "1GNSKHKC4KR"
+    },
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "12/18/2020",
+        "dateOfIncident": "12/16/2020",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11384064,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ON 12/16/2020, WHILE DRIVING OUR 2019 SUBURBAN WITH 10,041 MILES AROUND TOWN, THE BRAKE PEDDLE WOULD VIBRATE WHEN MY WIFE APPLIED THE BRAKES AND IT WAS HARDER THAN NORMAL FOR HER TO PUSH THE PEDDLE DOWN AND COME TO A STOP.  SHORTLY AFTER SHE PULLED OVER, WITH THE CAR RUNNING, A MESSAGE APPEARED ON THE DASH \"SERVICE BRAKING ASSIST\".  THE VIBRATION AND DIFFICULTLY STOPPING CONTINUED SEVERAL MORE TIMES THAT DAY BEFORE BEFORE IT WENT AWAY.",
+        "vin": "1GNSKHKC6KR"
+    },
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": true,
+        "dateComplaintFiled": "08/05/2020",
+        "dateOfIncident": "08/05/2020",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 11343538,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2019 CHEVROLET SUBURBAN. THE CONTACT STATED THAT WHILE ATTEMPTING TO PARK AND THE BRAKE PEDAL DEPRESSED, THE VEHICLE SUDDENLY ACCELERATED TO THE RIGHT AND CRASHED INTO A BUILDING. THE CONTACT MENTIONED THAT AS THE FAILURE OCCURRED HE FORCEFULLY PRESSED THE BRAKE PEDAL TO NO AVAIL. THERE WERE NO WARNING LIGHTS ILLUMINATED. THE CONTACT SUSTAINED INJURIES TO THE LEGS BUT MEDICAL ATTENTION DID NOT SEEK MEDICAL ATTENTION. THE VEHICLE WAS TOWED TO THE CONTACTS HOME.  A POLICE REPORT WAS FILED, THE DALLAS POLICE DEPARTMENT WAS PRESENT. THE VEHICLE WAS NOT TAKEN TO THE DEALER. THE MANUFACTURER WAS NOT NOTIFIED OF THE FAILURE. THE FAILURE MILEAGE WAS 55,000.",
+        "vin": "1GNSCHKC5KR"
+    },
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "05/19/2020",
+        "dateOfIncident": "05/18/2020",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11325089,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2019 CHEVROLET SUBURBAN.  AFTER STARTING THE VEHICLE, WHEN I STEPPED ON THE BRAKE TO COME TO A STOP, I HEARD AND FELT A GRINDING IN THE BRAKE PEDAL AND THE PEDAL WAS A LITTLE \"MUSHY\" AS WELL WHEN COMING TO A STOP.  THE INSTRUMENT CLUSTER DISPLAYED A WARNING WHICH SAID \"SERVICE BRAKE ASSIST.\"  THE VEHICLE WAS TAKEN TO MY LOCAL CHEVROLET DEALER WHO ADVISED THAT THEY ARE REPLACING THE BRAKE BOOSTER SENSOR.    THIS INCIDENT HAPPENED EACH TIME I STEPPED ON THE BRAKE, WHETHER I WAS IN MY SUBDIVISION AT VERY LOW SPEED OR ON A FOUR LANE DIVIDED SECONDARY ROAD  (SPEED LIMIT 45 MPH) OR IN THE DEALERSHIP SERVICE LANE MOVING AT 1 OR 2 MPH.  *TR",
+        "vin": "1GNSKHKC4KR"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM,VISIBILITY/WIPER",
+        "crash": false,
+        "dateComplaintFiled": "02/11/2020",
+        "dateOfIncident": "02/03/2020",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11308558,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE 2019 CHEVROLET SUBURBAN IS EQUIPPED WITH A WIPER FOR THE REAR WINDOW.  ON AN INTERMITTENT BASIS AFTER THE VEHICLE HAS GONE THROUGH A CAR WASH OR AFTER STARTING FOLLOWING A DRENCHING RAIN, THE REAR WIPER WILL NOT WORK EVEN THOUGH IT IS SWITCH ON WITH THE SWITCH ON THE TURN SIGNAL STALK.  IF THE VEHICLE IS RESTARTED, THE WIPER WILL THEN WORK AS IF NOTHING HAD HAPPENED.  LIKEWISE, IF THE WIPER DOES NOT WORK AND YOU WAIT A FEW MINUTES, IT WILL WORK AS IT NORMALLY SHOULD.",
+        "vin": "1GNSKHKC4KR"
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "02/11/2020",
+        "dateOfIncident": "02/10/2020",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11308560,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2019 CHEVROLET SUBURBAN 4X4.  WHEN STARTING THE VEHICLE, THE TRANSMISSION SELECTOR IS IN THE PARK POSITION AND THE EMERGENCY BRAKE IS SET.  ON MONDAY, FEBRUARY 10, 2019, I STARTED THE VEHICLE AND IT LURCHED FORWARD WHILE THE EMERGENCY BRAKE WAS SET AND THE VEHICLE WAS PARKED.  ADDITIONALLY, MY FOOT WAS ON THE BRAKE PEDAL.  THE VEHICLE WAS ON A SLIGHT INCLINE AND FACING FORWARD WHEN THIS HAPPENED.",
+        "vin": "1GNSKHKC4KR"
+    },
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "01/11/2020",
+        "dateOfIncident": "11/01/2019",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11298511,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE DOESN'T DRIVE STRAIGHT OR DRIFTS TO EITHER SIDE AT HIGHWAY SPEED ON STRAIGHT LINE CAUSING SMALL CORRECTION TO BE APPLIED ALL THE TIME.",
+        "vin": "1GNSCHKC6KR"
+    },
+    {
+        "components": "STEERING,POWER TRAIN,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "01/04/2020",
+        "dateOfIncident": "03/07/2019",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11297147,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "STEERING DANGERIOUSLY STIFF, VEHICLE TAKES CONTROL AWAY FROM THE DRIVER VEHICLE WILL NOT TRAC STREIGHT, VEHICLE STALLS, LURCHES RUNS INTO OTHER VEHICLES ACCELERATOR PEDDLE TO SENSETIVE ENGINE UNRESPONSIVE DANGERIOUS",
+        "vin": "1GNSKGKC4KR"
+    },
+    {
+        "components": "STEERING,POWER TRAIN,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "01/04/2020",
+        "dateOfIncident": "05/09/2019",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11297148,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE WILL NOT GO STREIGHT, CONSTANTLY DRIFTS LEFT AND RIGHT, TAKES CONTROL AWAY FROM DRIVER NEARLY RUNNING INTO PARKED CARS AND PEOPLE CAUSE MENTAL AND PHYSICAL FATIGUE AFTER  A FEW MINUTES. VEHICLE ACCELERATOR PEDDLE ERRATICE, SENSETIVE THEN STIFF THEN NO RESPONSE RUNS INTO OTHER VEHICLES, ELECTRONIC GADGETS A DISTRACTION, POOR VISIBILITY WINDSHIELD CLUTTERED UP WITH ELECTRONICS. HAD TO STOP SUING VEHICEL AFTER 1000 MILES.",
+        "vin": "1GNSKGKC4KR"
+    },
+    {
+        "components": "SEAT BELTS,UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "12/05/2019",
+        "dateOfIncident": "11/10/2019",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11287219,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SEATBELT WOULD NOT RELEASE AND I WAS STUCK IN DRIVER SEAT AND FORCED TO CUT THE SEAT BELT TO FREE MYSELF",
+        "vin": "1GNSCJKC7KR"
+    },
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "09/13/2019",
+        "dateOfIncident": "03/25/2019",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 11253855,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2019 CHEVROLET SUBURBAN. CONSUMER WRITES IN REGARDS TO ISSUES WITH THE ELECTRONIC VEHICLE STEERING SYSTEM. *LD CONSUMER SENT ADDITIONAL CORRESPONDENCE. *LD    THE CONSUMER STATED THE VEHICLE WOULD VEER OUT OF THE LANE. THE STEERING WAS DIFFICULT TO CONTROL CAUSING TENDONITIS TO THE HANDS AND ARMS, HEADACHES, AND FATIGUE. THE DEALER WAS NOTIFIED AND STATED THE COMPUTER NEEDED TO ADJUST TO THE CONSUMER'S DRIVING. *JS   *JS",
+        "vin": "1GNSKGKC4KR"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "08/06/2019",
+        "dateOfIncident": "07/27/2019",
+        "fire": true,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11241952,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVING OUR NEWLY PURCHASED 4 WEEK OLD SUBURBAN DOWN I95.  FOLLOWING A BATHROOM BREAK AT A REST STOP, WE LOADED UP IN THE CAR, STARTED IT VIA THE PUSH IGNITION AND DROVE DOWN THE ON RAMP ONTO THE HIGHWAY.  WITHIN SECONDS, SMOKE BEGAN BILLOWING FROM THE HOOD.  A FIRE UNDER THE HOOD ENSUED.  WE WERE TRAVELING AT APPROXIMATELY 30-40MPH, WHEN THE SMOKE BECAME SUDDENLY HEAVY.  WE PULLED OVER AND PARKED THE CAR ON THE SHOULDER AND ATTEMPTED TO TURN IT OFF.  FOR 30-40 SECONDS, THE CAR WOULD NOT TURN OFF, RATHER, IT SHOOK AND SPUTTERED.  WE EVACUATED THE CAR AND CALLED THE STATE POLICE WHO ARRIVED SHORTLY THEREAFTER.  THE SUBURBAN WAS TOWED TO RICK HENDRICK CHEVROLET IN RICHMOND, VIRGINIA.  ABOUT A WEEK LATER, WE WERE TOLD THAT THE PUSH IGNITION IN THE CAR CAUSED AN ELECTRICAL FIRE.  CHEVROLET STILL HAS THE CAR AND IS WORKING TO REPAIR, BUT WE HAVE CONCERNS ABOUT TAKING POSSESSION OF A 4 WEEK OLD CAR THAT CAUGHT FIRE.  WOULD APPRECIATE CHEVROLET'S ASSISTANCE, BUT THE DEALERSHIP THAT WE PURCHASED THE VEHICLE, KOONS CHEVROLET OF MCLEAN, HAS BEEN NONRESPONSIVE AND VERY UNHELPFUL.",
+        "vin": "1GNSKJKC5KR"
+    }
+]

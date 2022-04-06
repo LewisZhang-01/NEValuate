@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "05/06/2003",
+        "dateOfIncident": "04/18/2003",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017107,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "PRELUDE",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SRS AIRBAG WARNING LIGHT ILLUMINATED ON THE DASHBOARD AFTER LESS THAN SIX YEARS OF OWNERSHIP (OWNER'S MANUAL INDICATES AIRBAG MAINTENANCE AT TEN YEARS).  DEALER SAYS THE SRS UNIT MUST BE REPLACED.   *NLM",
+        "vin": "JHMBB6148VC"
+    }
+]

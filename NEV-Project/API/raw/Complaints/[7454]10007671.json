@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "02/17/2003",
+        "dateOfIncident": "02/17/2003",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10007671,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "PASSAT",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DEFECTIVE  TIE ROD ASSEMBLY AND LOWER INK ARM-N AND LOWER CONTROL ARM-N CAUSED POTENTIALLY DANGEROUS STEERING CONDITION AND MADE LOUD GRINDING NOISES.",
+        "vin": "WVWMA63B2WE"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "04/29/2003",
+        "dateOfIncident": "04/29/2003",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017811,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "SENTRA",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "DUNLOP TIRE CORPORATION",
+                "productMake": "DUNLOP",
+                "productModel": "DUNLOP",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHILE DRIVING 70 MPH ON THE HIGHWAY BOTH FRONT TIRE TREADS SEPARATED FROM THE WHEEL.  THE TIRES WERE DUNLOP.   *NLM",
+        "vin": "PLEASE FILL"
+    }
+]

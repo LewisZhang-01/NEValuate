@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "02/11/2003",
+        "dateOfIncident": "02/11/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10007084,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "RAM 1500",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE PULLED TO THE RIGHT, AN ALIGNMENT WAS PERFORMED, HOWEVER THE PROBLEM RECURRED.*JB",
+        "vin": "3D7HA18N02G"
+    }
+]

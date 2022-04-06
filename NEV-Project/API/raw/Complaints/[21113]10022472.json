@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "06/05/2003",
+        "dateOfIncident": "06/05/2003",
+        "fire": false,
+        "manufacturer": "Jaguar Cars, Ltd.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022472,
+        "products": [
+            {
+                "manufacturer": "Jaguar Cars, Ltd.",
+                "productMake": "JAGUAR",
+                "productModel": "XJ8",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN THE GEAR WAS SHIFTED FROM PARK TO DRIVE OR REVERSE, THE TRANSMISSION JUMP FORWARD. THE DEALER RESET THE COMPUTER, HOWEVER THE PROBLEM RECURRED.    *JB",
+        "vin": "SAJKX6241WC"
+    }
+]

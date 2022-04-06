@@ -1,0 +1,31 @@
+[
+    {
+        "components": "CHILD SEAT",
+        "crash": false,
+        "dateComplaintFiled": "06/04/2003",
+        "dateOfIncident": "06/04/2003",
+        "fire": false,
+        "manufacturer": "UNKNOWN MANUFACTURER",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022378,
+        "products": [
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN1",
+                "productYear": "9999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "COSCO, INC.",
+                "productMake": "COSCO",
+                "productModel": "CHILD SAFETY SEAT",
+                "productYear": "9999",
+                "type": "Child Seat"
+            }
+        ],
+        "summary": "COSCO MODEL # 02-738MED, CHILD SAFETY SEAT HANDLE RELEASE BUTTON FAILED. HANDLE SNAPPED FROM THE UP RIGHT POSITION AND WENT UNDERNEATH THE SEAT WHILE CARRYING INFANT.*AK",
+        "vin": ""
+    }
+]

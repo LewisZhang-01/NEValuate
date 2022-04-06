@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "03/25/2003",
+        "dateOfIncident": "03/15/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010996,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "NAVIGATOR",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE CHECK ENGINE LIGHT COMES ON, HAD IT CHECKED AT DEALER NOTHING FOUND. VEHICLE HAS A ROUGH IDLE, STALLS AT IDLE AND WHEN COMING TO A STOP.",
+        "vin": "5LMFU28L3WL"
+    }
+]

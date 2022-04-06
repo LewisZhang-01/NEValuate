@@ -1,0 +1,84 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "10/08/2015",
+        "dateOfIncident": "06/04/2015",
+        "fire": false,
+        "manufacturer": "Thor California, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10780903,
+        "products": [
+            {
+                "manufacturer": "Thor California, Inc.",
+                "productMake": "THOR CALIFORNIA",
+                "productModel": "JAZZ",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2005 THOR CALIFORNIA JAZZ TRAILER. THE CONTACT STATED THAT THE TRAILER VEERED LEFT AND RIGHT INDEPENDENTLY. THE TRAILER WAS NOT DIAGNOSED OR REPAIRED. THE MANUFACTURER WAS NOT NOTIFIED OF THE FAILURE. THE FAILURE MILEAGE WAS NOT AVAILABLE.",
+        "vin": "4XTTS28285C"
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "03/03/2009",
+        "dateOfIncident": "02/26/2009",
+        "fire": false,
+        "manufacturer": "Thor California, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10260596,
+        "products": [
+            {
+                "manufacturer": "Thor California, Inc.",
+                "productMake": "THOR CALIFORNIA",
+                "productModel": "JAZZ",
+                "productYear": "2005",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "CARLISLE TIRE & RUBBER CO",
+                "productMake": "CARLISLE",
+                "productModel": "RADIAL TRAIL",
+                "productYear": "9999",
+                "size": "245/75R16",
+                "type": "Tire"
+            }
+        ],
+        "summary": "I WAS PULLING MY FIFTH WHEEL TRAILER AT ABOUT 55 0R 60 MPH WHEN I BLEW ONE TIRE,WAS ABLE TO GET PULLOVER AND STOP TO CHANGE IT, AND TRIED TO TIE ALL THE DAMAGE SHEET METAL BACK TO KEEP IT OFF THE TIRES, WENT DOWN ROAD ABOUT 60 MILES TO THE NEXT TOWN SO THAT I COULD BUY A NEW TIRE SO I HAD A SPARE. I GOT ABOUT TEN MILES DOWN THE ROAD AND BLEW ANOTHER TIRE ON THE OTHER SIDE OF THE TRAILER, CHANGED THE TIRE WITH SPARE THAT I HAD JUST BOUGHT AND TIED THE SHEET METAL BACK SO THAT IT WOULD NOT RUB. I WENT ABOUT 60 MILES TO NEXT TOWN AND REPLACED ALL FOUR TIRES. THE TIRE SIZE IS 225/75/15 LOAD RANGE D. THE DOT NUMBER IS 3E HH ID 0704. *TR",
+        "vin": "4XTFS27295C"
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "07/02/2006",
+        "dateOfIncident": "05/18/2006",
+        "fire": false,
+        "manufacturer": "Thor California, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10161245,
+        "products": [
+            {
+                "manufacturer": "Thor California, Inc.",
+                "productMake": "THOR CALIFORNIA",
+                "productModel": "JAZZ",
+                "productYear": "2005",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "TIRE FAILURE CAUSING $2800.00 DAMAGE TO TRAILER INCLUDING DAMAGE TO ELECTRICAL WIRING AND ELECTRICAL FAILURE. THIS IS THE SECOND FAILURE OF AN ORIGINAL EQUIPMENT CARLISLE TIRE ON THIS TRAILER IN TWO YEARS.  *NM",
+        "vin": "4XTFS25225C"
+    }
+]

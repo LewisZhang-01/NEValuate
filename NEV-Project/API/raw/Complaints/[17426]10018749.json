@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "05/15/2003",
+        "dateOfIncident": "05/10/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018749,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "AEROSTAR",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FAILURE OF RIGHT REAR COIL SPRING CAUSING EXPLOSIVE TIRE DEFLATION.  FAILURE OCCURRED AT THE END OF THE SPRING COATING- CORROSION PRESENT, BUT HIDDEN BY FACTORY COATING OF SPRING.   *JB",
+        "vin": ""
+    }
+]

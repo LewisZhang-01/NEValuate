@@ -1,0 +1,40 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "04/11/2003",
+        "dateOfIncident": "09/01/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10014832,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPEDITION",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            },
+            {
+                "manufacturer": "Continental Tire the Americas, LLC",
+                "productMake": "CONTINENTAL",
+                "productModel": "CONTINENTAL",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THERE WAS A RECALL ON THE GRABBER TIRES, WHICH WERE REPLACED WITH CONTINENTAL TIRES.  THE CONTINENTAL TIRES FAILED AFTER FOUR WEEKS.  BOTH SUFFERED BLOW OUTS.  THE CONSUMER REQUESTED REIMBURSEMENT.  MR  SCC *JB",
+        "vin": "1FMRU17LXYL"
+    }
+]

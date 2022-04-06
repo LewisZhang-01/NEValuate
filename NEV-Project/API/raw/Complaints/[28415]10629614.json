@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "08/30/2014",
+        "dateOfIncident": "08/01/2008",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10629614,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "CAMRY",
+                "productYear": "2007",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "MY DASHBOARD IS MELTING AWAY ON MY 2007 TOYOTA CAMRY.  *TR",
+        "vin": "4T1BE46KX7U"
+    }
+]

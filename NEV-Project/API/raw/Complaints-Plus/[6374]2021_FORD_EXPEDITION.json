@@ -1,0 +1,90 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "11/24/2021",
+        "dateOfIncident": "11/22/2021",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11441613,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPEDITION",
+                "productYear": "2021",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact owns a 2021 Ford Expedition. The contact stated that upon starting the vehicle, the check engine warning light illuminated. The vehicle was taken to the dealer who diagnosed the vehicle and determined that the soy-based electrical wires had been damaged by rodents. The manufacturer was notified of the failure and informed the contact that they would cover the cost of the repair. The vehicle was repaired. The approximate failure mileage was 3,100.",
+        "vin": "1FMJU2AT6ME"
+    },
+    {
+        "components": "BACK OVER PREVENTION",
+        "crash": false,
+        "dateComplaintFiled": "10/21/2021",
+        "dateOfIncident": "10/11/2021",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11437619,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPEDITION",
+                "productYear": "2021",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The reverse camera system does not display any images, i.e., the screen is black/blue (depending on night/day) and provides no view of what is behind the vehicle. The motion and parking sensors are still providing input, but the driver cannot see what the sensors are detecting.  Since this is a large SUV with multiple blind spots, this creates a hazard when trying to back up the vehicle.",
+        "vin": "1FMJU1PTXME"
+    },
+    {
+        "components": "BACK OVER PREVENTION",
+        "crash": false,
+        "dateComplaintFiled": "10/11/2021",
+        "dateOfIncident": "04/14/2021",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11436302,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPEDITION",
+                "productYear": "2021",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Backup camera does not always work and cuts out. Also, the 360 view cameras cut out.   It is hard to see in the back during low light conditions with tinted back window. Afraid would hit someone or something when backing out in public parking spaces etc. or from home driveway.  Yes, it was brought to dealer's attention in April 2021 right after vehicle was purchased and then again followed up July 2020 with no updates or repairs. Dealer acknowledged the issue and said the part is on back order.",
+        "vin": "1FMJK2AT2ME"
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "08/21/2021",
+        "dateOfIncident": "08/11/2021",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11429951,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPEDITION",
+                "productYear": "2021",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "While accelerating on a busy tollway, the automatic transmission got stuck in 6th gear. The car then began to slow down, and the gear display went blank. This put my safety and the safety of others at risk, as it happened in the left lane of a busy, high-speed tollway. The local dealership refused to help--even though the car is within warranty--as they did not believe the issue was replicable. However, the car had a similar problem on a lower-speed roadway just a few weeks prior. In both incidents, the transmission became stuck in one gear, the gear display on the dashboard went blank, and the car began to decelerate.",
+        "vin": "1FMJK1JT9ME"
+    }
+]

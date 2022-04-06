@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "05/18/2017",
+        "dateOfIncident": "05/18/2017",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10986314,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "ENVOY",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE REAR LIFT GATE JAMS. AFTER REVIEWING SEVERAL BLOGS, THIS APPEARS TO BE A POPULAR DEFECT.",
+        "vin": "1GKET12S046"
+    }
+]

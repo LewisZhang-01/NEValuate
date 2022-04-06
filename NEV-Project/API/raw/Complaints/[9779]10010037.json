@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "03/06/2003",
+        "dateOfIncident": "03/03/2003",
+        "fire": false,
+        "manufacturer": "Mazda Motor Corp.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10010037,
+        "products": [
+            {
+                "manufacturer": "Mazda Motor Corp.",
+                "productMake": "MAZDA",
+                "productModel": "MPV",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE WAS IN A FRONTAL COLLISION, AND THE AIR BAGS DID NOT DEPLOY, CONSUMER SUFFERED BACK INJURIES.*JB",
+        "vin": "JM3LW28G510"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "04/13/2019",
+        "dateOfIncident": "04/05/2019",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11196014,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "IMPALA",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SIDE DETECTION MODULES ARE IN AN AREA, REAR BUMPER, WHERE MOISTURE CAN SATURATE THE SENSOR/MODULE WHICH THEN CAUSES A FAULT. THE DASH DISPLAY THEN BEGINS TO FLASH AND TURN OFF AND ON. GAS PEDAL CAN ALSO BE AFFECTED, WHERE YOU CANT CONTROL ACCELERATION. THIS HAPPENS WHEN VEHICLE IS STATIONARY AND IN MOTION.",
+        "vin": ""
+    }
+]

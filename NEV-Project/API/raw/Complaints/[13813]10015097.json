@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": true,
+        "dateComplaintFiled": "04/03/2003",
+        "dateOfIncident": "03/28/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015097,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "LEXUS",
+                "productModel": "RX300",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE LURCHED FORWARD AFTER THE ENGINE WAS TURNED OFF, AND THE KEYS WERE REMOVED FROM THE IGNITION, WHICH CAUSED AN ACCIDENT.  *JB",
+        "vin": "J1JHS10U210"
+    }
+]

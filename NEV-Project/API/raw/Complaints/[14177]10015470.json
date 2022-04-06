@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "04/14/2003",
+        "dateOfIncident": "05/01/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015470,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING ON HIGHWAY LOST CONTROL AND VEHICLE HIT HIGHWAY DIVIDER ON LEFT SIDE. THEN SKIDDED TO LEFT SIDE OF HIGHWAY AND HIT A GUARDRAIL AND WENT INTO A TREE. UPON IMPACT, FRONTAL AIR BAGS DID NOT DEPLOY.*AK",
+        "vin": "1FAHP3430YW"
+    }
+]

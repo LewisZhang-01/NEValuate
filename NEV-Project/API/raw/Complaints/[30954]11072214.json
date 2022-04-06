@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "02/11/2018",
+        "dateOfIncident": "02/11/2018",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11072214,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "HUMMER",
+                "productModel": "H2",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKES LINES UNDER VEHICLE HAVE EXCESSIVE CORROSION AND HAVE FINALLY CRACKED, RESULTING IN COMPLETE BRAKE FAILURE. EVENT DID NOT RESULT IN ACCIDENT. VEHICLE HAS NOT BEEN OPERATED IN A NORTHERN SNOW REGION NOR COASTAL AREA.",
+        "vin": "5GRGN23U44H"
+    }
+]

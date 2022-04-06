@@ -1,0 +1,24 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "02/11/2002",
+        "dateOfIncident": "02/10/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 758072,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "IMPALA",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TREAD SEPARATION-NO EXCESSIVE OR ABUSE WEAR. *AK (TIRESIZE: P205/75R15)",
+        "vin": "1G1BL69Z8FY"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": true,
+        "dateComplaintFiled": "04/10/2003",
+        "dateOfIncident": "01/14/2002",
+        "fire": false,
+        "manufacturer": "Isuzu Technical Center of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 3,
+        "odiNumber": 10014250,
+        "products": [
+            {
+                "manufacturer": "Isuzu Technical Center of America, Inc.",
+                "productMake": "ISUZU",
+                "productModel": "RODEO",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKES FAILED WHEN TRYING TO STOP ON A FREEWAY, RAN INTO ANOTHER CAR.  *NLM",
+        "vin": ""
+    }
+]

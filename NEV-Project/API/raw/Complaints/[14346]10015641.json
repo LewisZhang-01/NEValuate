@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "04/10/2003",
+        "dateOfIncident": "04/10/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015641,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "PLYMOUTH",
+                "productModel": "VOYAGER",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE AIR BAG DEPLOYED WITHOUT IMPACT. *JB",
+        "vin": "2P4FP2539WR"
+    }
+]

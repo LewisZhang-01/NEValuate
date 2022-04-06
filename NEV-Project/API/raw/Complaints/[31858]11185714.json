@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,ELECTRONIC STABILITY CONTROL,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "03/10/2019",
+        "dateOfIncident": "02/28/2019",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11185714,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "IMPALA",
+                "productYear": "2008",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VERY BAD KNOCKING NOISE ALSO ELECTRICAL FIRE COULD'VE CAUGHT ON FIRE",
+        "vin": "2G1WC583781"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "02/24/2003",
+        "dateOfIncident": "02/22/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009218,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "CHEROKEE",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE HIT AN ANIMAL, AND THE DRIVER AIRBAG FAILED TO DEPLOY.*JB",
+        "vin": ""
+    }
+]

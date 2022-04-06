@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": true,
+        "dateComplaintFiled": "02/26/2003",
+        "dateOfIncident": "01/04/2003",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10009459,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "PASSAT",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE WAS INVOLVED IN A COLLISION, AND THE DRIVER'S SEAT BELT TENSIONER FAILED, WHICH CAUSED THE SEAT BELT NOT TO LOCK, CONSUMER SUFFERED INJURIES.*JB",
+        "vin": "WVWMA63B4XE"
+    }
+]

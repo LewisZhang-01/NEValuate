@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION,STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "05/20/2019",
+        "dateOfIncident": "05/01/2019",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11208714,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "4RUNNER",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FRAME RUST MAKES VEHICLE DANGEROUS WHILE DRIVING.",
+        "vin": "JT3HN86R4V0"
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "04/13/2007",
+        "dateOfIncident": "04/08/2007",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10187814,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "SATURN",
+                "productModel": "RELAY",
+                "productYear": "2005",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "L SERIES",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ROTORS ARE WARPING EVERY 10,000 MILES OR LESS, TRUCK VIBRATES WHEN BRAKING, ROTORS WERE REPAIRED OR REPLACED 4 TIMES .I AM WORRIED ABOUT AN UNDERLYING PROBLEM THAT COULD CAUSE AN ACCIDENT.*AK",
+        "vin": "5GZDV23L15D"
+    }
+]

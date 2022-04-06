@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "04/18/2003",
+        "dateOfIncident": "04/17/2003",
+        "fire": false,
+        "manufacturer": "Mazda Motor Corp.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10016159,
+        "products": [
+            {
+                "manufacturer": "Mazda Motor Corp.",
+                "productMake": "MAZDA",
+                "productModel": "626",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TRANSMISSION FAILURE IN 1999 MAZDA 626LX.  *NLM",
+        "vin": "1YVGF22C2X5"
+    }
+]

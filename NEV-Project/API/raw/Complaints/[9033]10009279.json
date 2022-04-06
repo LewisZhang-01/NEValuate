@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "02/25/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009279,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GEO",
+                "productModel": "METRO",
+                "productYear": "1994",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Bridgestone Americas Tire Operations",
+                "productMake": "BRIDGESTONE",
+                "productModel": "BRIDGESTONE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "CONSUMER NOTICED A BUBBLE IN THE SIDEWALL OF THE REAR LEFT TIRE, AND A SLASH IN THE FRONT RIGHT TIRE.  *JB  *SCC",
+        "vin": "9999"
+    }
+]

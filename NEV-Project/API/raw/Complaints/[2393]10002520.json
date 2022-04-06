@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC,ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "01/10/2003",
+        "dateOfIncident": "10/01/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002520,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "NAVIGATOR",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FRONT BRAKES FAILED WHILE DRIVING. ALSO, ENGINE BLEW OUT WITHOUT WARNING.*JB.  *AK",
+        "vin": "5LMFU28R81L"
+    }
+]

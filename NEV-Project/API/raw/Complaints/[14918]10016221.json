@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "04/19/2003",
+        "dateOfIncident": "01/01/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10016221,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE SEAT BELTS DO NOT FULLY RETRACT CAUSING THE SEAT BELT TO JAM THE DOOR LOCKING MECHANISM, RESULTING IN THE DOOR NOT CLOSING PROPERLY AND OPENING AT ANY GIVEN TIME!               *JB",
+        "vin": ""
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "01/30/2003",
+        "dateOfIncident": "10/30/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005988,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE IS HAVING THE SAME DEFECT WITH THE WIRE HARNESS AS STATED IN RECALL NUMBER 000 V 411 000, BUT THEIR VIN NUMBER IS NOT INCLUDED.   TS  BRAKE LIGHTS INOPERATIVE AT TIMES ALSO ABS LIGHT COMES AND DASH AND DOME LIGHT GO OFF INTERMITTENTLY.   TRUNK RELEASE INOPERATIVE.  LATCH ASSEMBLY REPLACED.     *TT",
+        "vin": "1FAFP36PXYW"
+    }
+]

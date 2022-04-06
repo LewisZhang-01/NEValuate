@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, AIR",
+        "crash": false,
+        "dateComplaintFiled": "01/29/2003",
+        "dateOfIncident": "01/28/2003",
+        "fire": false,
+        "manufacturer": "Volvo Car USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004898,
+        "products": [
+            {
+                "manufacturer": "Volvo Car USA, LLC",
+                "productMake": "VOLVO",
+                "productModel": "S70",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE CRUISE CONTROL TURNS OFF AUTOMATICALLY, AND WITHOUT WARNING, CAUSING A FAIRLY RAPID DECELERATION. SOMETIMES, CRUISE CONTROL WILL NOT SET.",
+        "vin": "YV1LS5674W1"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "05/01/2003",
+        "dateOfIncident": "04/06/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10016824,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TAURUS",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FRONT COIL SPRINGS FRACTURED WITHOUT WARNING.",
+        "vin": "1FACP52U1PA"
+    }
+]

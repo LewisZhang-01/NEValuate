@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, AIR",
+        "crash": false,
+        "dateComplaintFiled": "06/23/2003",
+        "dateOfIncident": "11/19/2002",
+        "fire": true,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10023623,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "CHEROKEE",
+                "productYear": "1989",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKE MASTER CYLINDER TO COMPRESSOR ON OPPOSITE SIDE HOSE LEAK  CAUSING FIRE FROM BRAKE FLUID STREAM.   *JB",
+        "vin": "1J4FJ58L3KL"
+    }
+]

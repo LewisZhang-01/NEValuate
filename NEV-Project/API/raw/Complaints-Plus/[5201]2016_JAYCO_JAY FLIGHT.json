@@ -1,0 +1,46 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "12/06/2017",
+        "dateOfIncident": "12/03/2017",
+        "fire": true,
+        "manufacturer": "Jayco, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11052728,
+        "products": [
+            {
+                "manufacturer": "Jayco, Inc.",
+                "productMake": "JAYCO",
+                "productModel": "JAY FLIGHT",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2016 JAYCO JAY FLIGHT. THE CONTACT STATED THAT THE VEHICLE MADE AN ABNORMAL NOISE. UPON INSPECTION, THE CONTACT NOTICED FLAMES COMING FROM THE ROOF OF THE CAMPER. THE FIRE DEPARTMENT WAS CONTACTED AND EXTINGUISHED THE FLAMES. THE  FIRE INSPECTOR INFORMED THE CONTACT THAT THE AREA BEHIND THE REFRIGERATOR WAS WHERE THE FIRE ORIGINATED; HOWEVER, IT WAS NOT DETERMINED IF IT WAS AN ELECTRICAL FIRE OR A FIRE CAUSED BY PROPANE. THE VEHICLE WAS NOT TOWED AND HAD NOT YET BEEN DEEMED DESTROYED. THE MANUFACTURER WAS NOTIFIED OF THE FAILURE. THERE WERE NO INJURIES. THE FAILURE MILEAGE WAS NOT PROVIDED.",
+        "vin": "1UJBJ0BR1G1"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM,EXTERIOR LIGHTING",
+        "crash": false,
+        "dateComplaintFiled": "06/17/2016",
+        "dateOfIncident": "06/17/2016",
+        "fire": false,
+        "manufacturer": "Jayco, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10874852,
+        "products": [
+            {
+                "manufacturer": "Jayco, Inc.",
+                "productMake": "JAYCO",
+                "productModel": "JAY FLIGHT",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE WIRING UNDERNEATH THE TRAILER WAS INSTALLED WITHOUT ANY COVERING AND PLACED DIRECTLY ON TOP OF THE SHARP EDGES OF THE CROSS MEMBERS. AFTER THE FIRST USE THE WIRE INSULATION BECAME DAMAGED AND THE ELECTRICAL SYSTEM BEGAN SHORTING OUT.",
+        "vin": "1UJBJ0BM2G7"
+    }
+]

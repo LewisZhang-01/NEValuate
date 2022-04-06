@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "04/04/2003",
+        "dateOfIncident": "04/04/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10013977,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "K1500",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WINDSHIELD WIPER MOTOR FAILS TO OPERATE INTERMITTENTLY.  GMC REFUSES TO REPAIR UNDER THE PRODUCT DEFECT NOTICE.  *JB",
+        "vin": "2GTEK19K3R1"
+    }
+]

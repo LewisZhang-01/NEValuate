@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "01/21/2003",
+        "dateOfIncident": "01/21/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003136,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "SATURN",
+                "productModel": "LS",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SAFTEY INTERLOCK FOR SHIFT LEVER IS BYPASSED WHEN VEHICLE IS IN THE ACC (ACCESSORY MODE).  DOES THIS CONSISTENTLY.",
+        "vin": ""
+    }
+]

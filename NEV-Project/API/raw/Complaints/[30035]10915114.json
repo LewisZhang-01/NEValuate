@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "10/10/2016",
+        "dateOfIncident": "10/10/2016",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10915114,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EDGE",
+                "productYear": "2011",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DOOR AJAR ALERT STAYS ON WHEN DOOR IS CLOSED WHICH KEEPS YOU FROM BEING ABLE TO LOCK YOUR DOORS WHILE IN THE VEHICLE.  INTERIOR LIGHT STAYS ON, WHICH ILLUMINATES YOU AND THE COCKPIT. WITH ALERT IN THE ON POSITION, YOU ARE NOT ALERTED TO OTHER DOORS WHICH MAY BE AJAR. FAULTY LATCH.",
+        "vin": "2FMDK3GC2BB"
+    }
+]

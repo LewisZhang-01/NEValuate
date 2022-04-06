@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": true,
+        "dateComplaintFiled": "01/10/2003",
+        "dateOfIncident": "01/05/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002570,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "RAV4",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE ACCELERATES ON ITS OWN WITHOUT PRESSING ACCELERATER. VEHICLE  WAS INVOLVED IN TWO COLLISIONS BECAUSE OF THIS PROBLEM.  PLEASE PROVIDE ANY FURTHER INFORMATION.*JB....*AK",
+        "vin": ""
+    }
+]

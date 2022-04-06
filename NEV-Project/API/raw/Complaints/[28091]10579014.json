@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "04/10/2014",
+        "dateOfIncident": "05/01/2013",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10579014,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EDGE",
+                "productYear": "2011",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DOOR AJAR LIGHT WILL NOT GO OFF. CAR THINKS DRIVERS DOOR IS OPEN, WHICH MAKES IT UNABLE TO LOCK AND LIGHTS STAY ON IN VEHICLE. I HAVE ALREADY HAD TO REPLACE THE BATTERY ONCE DUE TO THIS.  *TR",
+        "vin": ""
+    }
+]

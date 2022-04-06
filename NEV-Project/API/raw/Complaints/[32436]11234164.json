@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "07/23/2019",
+        "dateOfIncident": "05/15/2019",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11234164,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "SANTA FE",
+                "productYear": "2009",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CAR DOES NOT WANT TO START AFTER FILLING WITH GAS. IT DOES NOT MATTER IF 5 OR 15 GALLONS ARE PUT IN.",
+        "vin": "5NMSG13D19H"
+    }
+]

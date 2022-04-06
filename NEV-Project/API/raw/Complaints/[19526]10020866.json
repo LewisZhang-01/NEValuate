@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/02/2003",
+        "dateOfIncident": "05/30/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020866,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXCURSION",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "STEELTEX AT",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "FREEWAY DRIVING AT 65 MPH WHEN NO APPARENT REASON REAR LEFT TIRE BLOWOUT. FURTHER INVESTAGATION FOUND THE TIRE HAD SIDEWALL PEELED AWAY AND THE TREAD WAS WRAPPED AROUND THE AXLE. NOT BEFORE DOING DAMAGE TO REAR QUARTER PANEL AND PARKING BRAKE CABLE. FULL TREAD SEPARATION.*AK",
+        "vin": "1FMNU41L42E"
+    }
+]

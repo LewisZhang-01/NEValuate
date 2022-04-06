@@ -1,0 +1,46 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "03/17/2022",
+        "dateOfIncident": "03/13/2022",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11457094,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "ACURA",
+                "productModel": "RDX",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2022 Accura RDX VIN: 5J8TC2H775NL004893  1.  component failure: passenger side air bag did not employ in side collision (t-boned). 2.  risk: passenger was not protected during impact by air bag. 3.  brought to dealer for inspection and pictures to be sent to Honda HQ. 4. insurance adjuster upon inspection was surprised no air employment occurred. 5. no warning, messages,codes or symptoms prior to issue (mileage less than 150)",
+        "vin": "5j8tc2h75nl"
+    },
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "01/07/2022",
+        "dateOfIncident": "11/30/2021",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11446587,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "ACURA",
+                "productModel": "RDX",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I own the Acura RDX 2022 and from the very first week the front left brakes were making a rough contact noise when braking. I took to two different dealership and they said the grooves should wear and it may take sometime. I am at 3000 miles and still the same noise. Other brakes function properly. Also, now the weather dropping to 20 F the same front brakes makes a loud grinding / gurgling noise and goes away after warmed up. No TSB, no recalls and no solution. Dealer will not change the brake pads / rotor to see if that fixes the issue.",
+        "vin": "5J8TC2H56NL"
+    }
+]

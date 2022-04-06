@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "05/01/2003",
+        "dateOfIncident": "07/16/1999",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10016842,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "PLYMOUTH",
+                "productModel": "GRAND VOYAGER",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE CHILD WAS IN REAR SEATBELT, IT CAME LOOSE WHEN DRIVING AND MAKING LEFT TURN.  THIS OCCURRED ON THREE (3) SEPARATE OCCASIONS.",
+        "vin": ""
+    }
+]

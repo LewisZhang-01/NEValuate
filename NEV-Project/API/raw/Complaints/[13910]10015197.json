@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "03/31/2003",
+        "dateOfIncident": "03/03/2003",
+        "fire": false,
+        "manufacturer": "UNKNOWN MANUFACTURER",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015197,
+        "products": [
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Cooper Tire & Rubber Co.",
+                "productMake": "COOPER",
+                "productModel": "COOPER",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "DEFECTIVE COOPER TIRE EQUIPMENT.  MR  THE CONSUMER EXPERIENCED SEVERAL TIRE BLOW OUTS.  *PROWLER TRAVEL TRAILER.)*JB",
+        "vin": "1FMEU15H4NL"
+    }
+]

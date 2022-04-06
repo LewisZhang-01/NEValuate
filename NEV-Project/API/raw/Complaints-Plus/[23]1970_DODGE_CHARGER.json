@@ -1,0 +1,24 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "09/12/2000",
+        "dateOfIncident": "09/09/2000",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 870246,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "CHARGER",
+                "productYear": "1970",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING ABOUT 65 MPH RIGHT REAR TIRE HAD A TREAD SEPARATION, AND CONSUMER LOST CONTROL OF VEHICLE,  BUT TIRE STILL HAD AIR.  FIRESTONE, P225/70R14.  *AK",
+        "vin": "XP29C002542"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE,TIRES",
+        "crash": false,
+        "dateComplaintFiled": "03/26/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10011475,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "CAMRY",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE FISHTAILED ON A GENTLE SNOW COVERED CURVE.  THE DEALER LATER DISCOVERED THAT THE VEHICLE LOSS REAR TIRE GRIP WHICH CAUSED THE  VEHICLE TO FISH TAIL.      PH  *NLM",
+        "vin": ""
+    }
+]

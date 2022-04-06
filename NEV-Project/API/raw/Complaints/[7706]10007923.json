@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "02/21/2003",
+        "dateOfIncident": "11/16/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10007923,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "SUNFIRE",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN SET ON INTERMITTENT OR MIST, THE WINDSHIELD WIPERS SEEM TO BE TURNING OFF AND ON DURING THE WIPE CYCLE, MAKING THEM JUMP A COUPLE OF TIMES WHILE WIPING. CONCERNED THAT THEY MAY STOP WORKING ALTOGETHER WHILE DRIVING IN BAD WEATHER CONDITIONS.",
+        "vin": "1G2JB524117"
+    }
+]

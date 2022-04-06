@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": true,
+        "dateComplaintFiled": "01/03/2003",
+        "dateOfIncident": "12/30/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002003,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "OLDSMOBILE",
+                "productModel": "INTRIGUE",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING IN RAINY CONDITIONS, VEHICLE'S WINDSHIELD WIPERS FROZE  MAKING VISIBILITY IMPOSSIBLE, IN RESULT VEHICLE WAS INVOLVED IN A COLLISION. PLEASE PROVIDE ADDITIONAL INFORMATION. TS",
+        "vin": "1G3WH52K0XF"
+    }
+]

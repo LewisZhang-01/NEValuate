@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "08/12/2017",
+        "dateOfIncident": "06/05/2017",
+        "fire": false,
+        "manufacturer": "Subaru of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11014814,
+        "products": [
+            {
+                "manufacturer": "Subaru of America, Inc.",
+                "productMake": "SUBARU",
+                "productModel": "FORESTER",
+                "productYear": "2010",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FAILURE OF WELDING POINT ON DRIVERS SIDE SEAT RESULTING IN STRUCTURAL FAILURE OF SEAT.  PLEASE SEE ATTACHED PHOTO.  THIS HAPPENED WITH NORMAL USE OF THE CAR WITHOUT AN ACCIDENT.",
+        "vin": "JF2SH6CC8AG"
+    }
+]

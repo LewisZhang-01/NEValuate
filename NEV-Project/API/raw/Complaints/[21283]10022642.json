@@ -1,0 +1,31 @@
+[
+    {
+        "components": "CHILD SEAT",
+        "crash": false,
+        "dateComplaintFiled": "07/11/2003",
+        "dateOfIncident": "06/09/2003",
+        "fire": false,
+        "manufacturer": "UNKNOWN MANUFACTURER",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022642,
+        "products": [
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN1",
+                "productYear": "9999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "COSCO, INC.",
+                "productMake": "COSCO",
+                "productModel": "CHILD SAFETY SEAT",
+                "productYear": "9999",
+                "type": "Child Seat"
+            }
+        ],
+        "summary": "COSCO MODEL # A253MBP, DOM 03-05-2002,  HARNESS RETAINER CLIP  BROKE FOR THE SECOND TIME SINCE DAY OF PURCHASE.    *AK    *CB   *JB",
+        "vin": ""
+    }
+]

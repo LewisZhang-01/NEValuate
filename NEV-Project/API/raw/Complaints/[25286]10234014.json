@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "07/11/2008",
+        "dateOfIncident": "07/10/2008",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10234014,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "E-350",
+                "productYear": "1995",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Bridgestone Americas Tire Operations",
+                "productMake": "FIRESTONE",
+                "productModel": "STEELTEX RADIAL A/T",
+                "productYear": "9999",
+                "size": "LT265/75R16",
+                "type": "Tire"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 1995 FORD E350.  THE VEHICLE HAS FIRESTONE STEELTEX RADIAL A/T TIRES, SIZE LT225/75R16 (NA).  WHILE DRIVING 60 MPH ON THE HIGHWAY, THE INSIDE OF THE REAR PASSENGER SIDE TIRE BLEW OUT.  THE TIRE WAS REPLACED.  THE FAILURE MILEAGE WAS 72,548.   UPDATED 08/04/08. *LJ  UPDATED 08/06/08",
+        "vin": "1FDKE37H4SH"
+    }
+]

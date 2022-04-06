@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "02/12/2003",
+        "dateOfIncident": "02/12/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005759,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350 SD",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "STEELTEX TIRE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "I WAS DRIVING ON THE HIGHWAY GOING ABOUT 75 MPH WHEN MY REAR TIRE BLEW OUT.  FORD SAID IT'S MY PROBLEM.  THE TRUCK HAS 6000MILES ON IT, WHICH MEANS THE TIRES HAVE 6000 MILES ON THEM.  I WOULD LIKE TO KNOW HOW YOU GET A BLOW OUT WITH THAT LITTLE MILES.  AFTER READING EVERYONE ELSE'S COMPLAINTS I THINK IT'S ABOUT TIME FORD OR FIRESTONE DOES SOMETHING ABOUT THIS BEFORE WE HAVE TOO MANY DEATHS.",
+        "vin": "1FTSF31L12E"
+    }
+]

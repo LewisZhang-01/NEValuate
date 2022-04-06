@@ -1,0 +1,32 @@
+[
+    {
+        "components": "SUSPENSION,TIRES",
+        "crash": false,
+        "dateComplaintFiled": "11/17/2004",
+        "dateOfIncident": "11/13/2004",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10100114,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "2004",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "B.F. GOODRICH TIRE CO.",
+                "productMake": "B.F.GOODRICH",
+                "productModel": "B.F.GOODRICH",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "2004 F-150 SUPER CREW 4X4. VIBRATION IN VEHICLE. STEERING WHEEL SHACKES. DEALER STATES THAT TSB IS AWARE- MANUFACTURER. IS WORKING ON IT. HAVE SEEN INFORMATION  ABOUT THIS EXACT PROBLEM IN MANY IDENTICAL TRUCKS. WHAT IS FORD GOING TO DO? WHAT CAN I DO? HELP.*AK",
+        "vin": "1FTPW14584K"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "04/15/2014",
+        "dateOfIncident": "03/07/2014",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10582814,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ABS ACTIVATES (NOTICED BY PULSING BRAKE PEDDLE) WHEN MOVING SLOWLY TO A STOP ON DRY CLEAN PAVEMENT.  OCCURS RANDOMLY WHEN SLOWLY COMING TO A STOP.  *TT",
+        "vin": "1GTEK19T73E"
+    }
+]

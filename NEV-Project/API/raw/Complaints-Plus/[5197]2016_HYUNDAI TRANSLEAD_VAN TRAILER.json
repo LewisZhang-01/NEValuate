@@ -1,0 +1,46 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "10/26/2018",
+        "dateOfIncident": "10/26/2018",
+        "fire": false,
+        "manufacturer": "Hyundai Translead",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11142805,
+        "products": [
+            {
+                "manufacturer": "Hyundai Translead",
+                "productMake": "HYUNDAI TRANSLEAD",
+                "productModel": "VAN TRAILER",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DURING ROUTINE VEHICLE INSPECTION, SHOP MECHANICS DISCOVERED TWO TRAILERS (SAME MAKE, MODEL, AND YEAR) IN THE LAST TWO DAYS WITH THE FOLLOWING DEFECTS WHICH IF NOT CORRECTED IMMEDIATELY WILL LED TO AN ACCIDENT.  AXLE BUSHINGS ARE PREMATURELY WEARING WHICH IS CAUSING THEM TO BREAK AND/OR ALLOWING EXCESSIVE MOVEMENT OF THE AXLE ITSELF; THE BUSHINGS ITSELF IS TO SMALL (THICKNESS).  IF NOT REPAIRED, AXLE COULD SHIFT OUT OF PLACE DURING BRAKING EVENT DURING POOR TO BAD ROAD CONDITIONS (RAIN, SNOW, ETC.).  TRAILER AXLE SHIFT WILL CAUSE TRAILER TO LED IN A NEW DIRECTION AND TAKE FULL CONTROL OUT OF THE DRIVERS HANDS (ACCIDENT WILL ENSUE).",
+        "vin": "3H3V532C5GT"
+    },
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "10/26/2018",
+        "dateOfIncident": "10/26/2018",
+        "fire": false,
+        "manufacturer": "Hyundai Translead",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11142802,
+        "products": [
+            {
+                "manufacturer": "Hyundai Translead",
+                "productMake": "HYUNDAI TRANSLEAD",
+                "productModel": "VAN TRAILER",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DURING ROUTINE VEHICLE INSPECTION, SHOP MECHANICS DISCOVERED TWO TRAILERS (SAME MAKE, MODEL AND YEAR) IN THE LAST TWO DAYS WITH THE FOLLOWING DEFECTS WHICH IF NOT CORRECTED IMMEDIATELY WILL LED TO AN ACCIDENT.     AXLE BUSHING ARE PREMATURELY WEARING WHICH IS CAUSING THEM TO BREAK AND/OR ALLOWING EXCESSIVE MOVEMENT OF THE AXLE ITSELF; THE BUSHING ITSELF IS TO SMALL (THICKNESS).  IF NOT REPAIRED, AXLE COULD SHIFT OUT OF PLACE DURING BRAKING EVENT DURING POOR TO BAD ROAD CONDITIONS (RAIN, SNOW, ETC).  TRAILER AXLE SHIFT WILL CAUSE TRAILER TO LED IN A NEW DIRECTION AND TAKE FULL CONTROL OUT OF THE DRIVERS HANDS (ACCIDENT WILL ENSUE).",
+        "vin": "3H3V532C6GT"
+    }
+]

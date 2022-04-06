@@ -1,0 +1,24 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "04/21/2003",
+        "dateOfIncident": "09/11/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017280,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "E-350",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING THE VEHICLE PULLED TO THE RIGHT.  THE VEHICLE WAS TAKEN TO FORD AND FORD STATED THAT ALL 4 TIRES WERE BAD.   *NLM",
+        "vin": "NOT AVAILAB"
+    }
+]

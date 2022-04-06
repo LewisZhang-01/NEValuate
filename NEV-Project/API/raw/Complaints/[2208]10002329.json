@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "01/08/2003",
+        "dateOfIncident": "12/28/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002329,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "MUSTANG",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUEL FILLER MADE OF RUBBER GASKET HAD GASOLINE EAT THROUGH RUBBER, CAUSING A BIG LEAK.  *AK",
+        "vin": "1FALP4042SF"
+    }
+]

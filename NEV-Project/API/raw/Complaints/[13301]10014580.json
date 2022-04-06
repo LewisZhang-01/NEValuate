@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "03/27/2003",
+        "dateOfIncident": "03/30/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10014580,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAVALIER",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER TOOK THE VEHICLE TO THE DEALER FOR RECALL REMEDY 02V286000 ON 02/24/03.  HOWEVER ON 03/20/03 CONSUMER ATTEMPTED TO THE TURN STEERING WHEEL TO THE RIGHT, BUT THE STEERING BECAME VERY DIFFICULT AS IF IT LOCKED UP AND THE WHEELS DID NOT TURN PROPERLY.  *JB",
+        "vin": "1G1JC1246W7"
+    }
+]

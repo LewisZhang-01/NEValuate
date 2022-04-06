@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "02/25/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009228,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "TOWN AND COUNTRY",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN THE VEHICLE WAS TURNED AT LOW SPEEDS, ALL POWER STEERING WAS LOST.*JB",
+        "vin": "1C4GP64L9WB"
+    }
+]

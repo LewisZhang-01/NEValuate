@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "01/21/2003",
+        "dateOfIncident": "01/16/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10004205,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN HIT AT 40MPH IN THE FRONT CENTER OF THE VEHICLE THE AIR BAG DID NOT DEPLOY CAUSING MINOR INJURIES TO THE CONSUMER. DEALER NOTIFIED. AIR BAG MONITOR HAD TO BE REPLACED. TS",
+        "vin": "1FAFP34P32W"
+    }
+]

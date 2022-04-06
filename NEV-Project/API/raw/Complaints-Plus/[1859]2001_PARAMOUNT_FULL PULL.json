@@ -1,0 +1,46 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "04/09/2002",
+        "dateOfIncident": "04/01/2002",
+        "fire": false,
+        "manufacturer": "PARAMOUNT TANK, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 8007146,
+        "products": [
+            {
+                "manufacturer": "PARAMOUNT TANK, INC.",
+                "productMake": "PARAMOUNT",
+                "productModel": "FULL PULL",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CRANKSHAFT SENSOR MODULE HAS MALFUNCTIONED.  WHEN IT MALFUNCTIONS,  ENGINE WILL STALL OUT, AND  VEHICLE WILL BECOME INOPERABLE. CONTACTED DEALER. *AK",
+        "vin": "N/A"
+    },
+    {
+        "components": "FUEL SYSTEM, OTHER",
+        "crash": false,
+        "dateComplaintFiled": "04/09/2002",
+        "dateOfIncident": "04/01/2002",
+        "fire": false,
+        "manufacturer": "PARAMOUNT TANK, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 8007147,
+        "products": [
+            {
+                "manufacturer": "PARAMOUNT TANK, INC.",
+                "productMake": "PARAMOUNT",
+                "productModel": "FULL PULL",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TWO BOLTS THAT HOLD  PROPANE TANK IN PLACE  HAVE BROKEN . THIS CAN  CAN CAUSE TANK TO FALL. CONTACTED DEALER. *AK",
+        "vin": "N/A"
+    }
+]

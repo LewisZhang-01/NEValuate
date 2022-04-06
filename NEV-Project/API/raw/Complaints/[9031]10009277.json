@@ -1,0 +1,24 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "03/06/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009277,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CADILLAC",
+                "productModel": "DEVILLE",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE RIGHT REAR TIRE BLEW OUT.*AK  *JB",
+        "vin": ""
+    }
+]

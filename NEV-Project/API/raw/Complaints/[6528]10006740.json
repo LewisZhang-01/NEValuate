@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE,SEAT BELTS",
+        "crash": true,
+        "dateComplaintFiled": "02/07/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10006740,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "ESCAPE",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE TRUCK WAS STRUCK BY ANOTHER VEHICLE.  THE DRIVER'S SEAT BELT FAILED TO HOLD WHICH ALLOWED THE DRIVER TO BE THROWN IN THE BACK SEAT.  PLEASE DESCRIBE DETAILS.                 PH  SEE VOQ#10021715 FOR REPOSITORY LINK TO PAR. CW",
+        "vin": "1FMYU03132K"
+    }
+]

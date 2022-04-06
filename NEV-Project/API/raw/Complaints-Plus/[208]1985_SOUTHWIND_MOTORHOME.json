@@ -1,0 +1,68 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "11/03/2000",
+        "dateOfIncident": "02/01/2000",
+        "fire": false,
+        "manufacturer": "SOUTHWEST TRUCK BODY CO.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 874383,
+        "products": [
+            {
+                "manufacturer": "SOUTHWEST TRUCK BODY CO.",
+                "productMake": "SOUTHWIND",
+                "productModel": "MOTORHOME",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER WAS TRAVELING ABOUT 55MPH ON  HIGHWAY AND HE HEARD A NOISE.   RIGHT REAR TIRE TREAD SEPARATED FROM RIM.  HE WAS ABLE TOO PULL OVER.  STEEL BELT DID DAMAGE TO THE WHEEL WELL AREA OF THE MOTOR HOMES.    IT WAS GOODYEAR LT 235/85R16.  THERE WERE NO INJURIES.*AK",
+        "vin": "1GBJP37W0H3"
+    },
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "03/17/1998",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "SOUTHWEST TRUCK BODY CO.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 821980,
+        "products": [
+            {
+                "manufacturer": "SOUTHWEST TRUCK BODY CO.",
+                "productMake": "SOUTHWIND",
+                "productModel": "MOTORHOME",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER  RECEIVED A RECALL NOTICE  ON MOTORHOME FROM THE MANUFACTURER,  AND THE PARTS HAVE NOT BEEN MADE AVAILABLE.  OWNER HAS TAKEN MOTORHOME TO VARIOUS  DEALERS.  *AK",
+        "vin": "4CDR69R202R"
+    },
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "02/06/1997",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "SOUTHWEST TRUCK BODY CO.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 514555,
+        "products": [
+            {
+                "manufacturer": "SOUTHWEST TRUCK BODY CO.",
+                "productMake": "SOUTHWIND",
+                "productModel": "MOTORHOME",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DIAPHRAGM ON TOP OF GAS TANK LEAKS.",
+        "vin": "1GCJP37W0F3"
+    }
+]

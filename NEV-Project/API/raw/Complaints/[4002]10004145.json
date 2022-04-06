@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "01/17/2003",
+        "dateOfIncident": "01/17/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004145,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAVALIER",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NHTSA#02-V-286-000 CERTAIN PASSENGER VEHICLES AND MINI VANS HAVE LOWER PINION BEARINGS IN THE POWER RACK AND PINION ASSEMBLY IN WHICH THE RETAINER TABS WERE NOT CRIMPED PROPERLY. THESE AND SOME OTHER RETAINERS USED IN VEHICLES ASSEMBLED BETWEEN JANUARY 1, 1996 AND OCTOBER 31, 1997, COULD FAIL AND PERMIT THE BALL BEARINGS TO ESCAPE. CONSUMER STATES HAS THE SAME PROBLEM. TS",
+        "vin": "3G1JC5240TS"
+    }
+]

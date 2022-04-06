@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "03/04/2003",
+        "dateOfIncident": "03/04/2003",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10009831,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "CIVIC",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE WAS INVOLVED IN A FRONT END COLLISION AT 45 MPH YET THE AIR BAGS FAILED TO DEPLOY.  THE CONSUMER SUSTAINED SOME INJURIES.   *NLM",
+        "vin": "1HGEJ6577X1"
+    }
+]

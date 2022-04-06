@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": true,
+        "dateComplaintFiled": "08/15/2003",
+        "dateOfIncident": "05/19/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10020188,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "6000",
+                "productYear": "1991",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN THE VEHICLE WAS REAR ENDED, THE IMPACT CAUSED THE SEAT TO COLLAPSE.   *JB   BOTH FRONT SEATS COLLAPSED BACKWARDS ONTO THE BACK SEATS.   *SCC   *JB",
+        "vin": "1G2AF84T4M6"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": true,
+        "dateComplaintFiled": "04/05/2007",
+        "dateOfIncident": "12/16/2006",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 1,
+        "numberOfInjuries": 2,
+        "odiNumber": 10191114,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "STATE OF NEVADA TRAFFIC ACCIDENT REPORT. 2004 FORD F-150.  COLLISION OCCURRED IN WHICH THE PASSENGERS WERE EJECTED FROM THE VEHICLES. *MC  *TR  UPDATED*JB",
+        "vin": "1FTPW14594K"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "06/07/2003",
+        "dateOfIncident": "06/07/2003",
+        "fire": false,
+        "manufacturer": "Mercedes-Benz USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021236,
+        "products": [
+            {
+                "manufacturer": "Mercedes-Benz USA, LLC",
+                "productMake": "MERCEDES BENZ",
+                "productModel": "ML430",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "LOSS OF POWER STEERING FLUID AT LOW SPEED, COOL ENGINE.    *JB",
+        "vin": "4JGAB72E3YA"
+    }
+]

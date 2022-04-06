@@ -1,0 +1,31 @@
+[
+    {
+        "components": "CHILD SEAT",
+        "crash": false,
+        "dateComplaintFiled": "03/26/2003",
+        "dateOfIncident": "03/25/2003",
+        "fire": false,
+        "manufacturer": "UNKNOWN MANUFACTURER",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10012496,
+        "products": [
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN1",
+                "productYear": "9999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "CENTURY PRODUCTS",
+                "productMake": "CENTURY",
+                "productModel": "CENTURY",
+                "productYear": "9999",
+                "type": "Child Seat"
+            }
+        ],
+        "summary": "THE SHIELD ATTACHED TO THE SIDE OF THE CHILD SAFETY SEAT BROKE AND  DETACHED FROM THE SEAT.  THE SPRING MECHANISM CAUSED THE FAILURE.   *NLM",
+        "vin": ""
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "components": "STEERING,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "05/15/2003",
+        "dateOfIncident": "10/06/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018768,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "OLDSMOBILE",
+                "productModel": "INTRIGUE",
+                "productYear": "1999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "GM PRODUCTS DIV. GM CORP.",
+                "productMake": "GM PRODUCTS",
+                "productModel": "GM PRODUCTS",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "I HAVE A CLUNKING NOISE IN THE STEERING COLUMN. I FEEL IT WHILE I DRIVE AND ALSO WHILE MAKING TURNS. ONE MECHANIC SAID IT WAS THE TIE RODS, SO I HAD THEM REPLACED ANOTHER SAID THE GEAR BOX. I STILL HAVE THIS PROBLEM I THINK THIS IS JUST A PROBLEM WAITING TO HAPPEN. SEVERAL MECHANICS HAVE NO IDEA WHAT THE PROBLEM IS. I DRIVE ON THE AUTOBAHN IN GERMANY SO PLEASE LET ME KNOW IF MY LIFE IS IN DANGER.  *JB",
+        "vin": "1G3WS52KXXF"
+    }
+]

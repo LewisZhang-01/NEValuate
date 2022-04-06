@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "05/21/2003",
+        "dateOfIncident": "01/05/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10020383,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "TACOMA",
+                "productYear": "9999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NAR 05/21/2003   *MR   INVESTIGATIVE REPORT OF FEBRUARY 25, 2003 ACCIDENT OCCURRED  RESULTING IN PERSON INJURY BECAUSE OF AIR BAG NON DEPLOYMENT.   *CB",
+        "vin": ""
+    }
+]

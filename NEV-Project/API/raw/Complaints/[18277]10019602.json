@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC,PARKING BRAKE",
+        "crash": false,
+        "dateComplaintFiled": "01/14/2004",
+        "dateOfIncident": "04/01/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019602,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN THE PARKING BRAKE WAS DEPRESSED, IT DID NOT HOLD, DUE TO A  FAILURE WITH THE PADS.               *JB  THE PARKING BRAKE WOULD NOT RELEASE.  *NM",
+        "vin": "2GCEC19T8X1"
+    }
+]

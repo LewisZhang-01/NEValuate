@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "12/27/2002",
+        "dateOfIncident": "07/15/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001570,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "1999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "B.F. GOODRICH TIRE CO.",
+                "productMake": "B.F.GOODRICH",
+                "productModel": "B.F.GOODRICH",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "CONSUMER NOTIFIED THE DEALER AND SAID THE TIRES ARE BEGINNING TO FEATHER CAUSING THE TIRE TO SPIN. TS  THE TIRES SPIN AND SLIP ON ANY SURFACE.  *JG",
+        "vin": "1FTZR15V2XP"
+    }
+]

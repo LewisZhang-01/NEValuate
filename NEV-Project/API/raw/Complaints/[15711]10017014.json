@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING,POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "05/04/2003",
+        "dateOfIncident": "04/23/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017014,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "BLAZER",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ALL OXYGEN SENSOR FAILED  TRANSMISSION SLIPPING. 13 SENSORS FAIL. *JB",
+        "vin": "1GNDT13W2T2"
+    }
+]

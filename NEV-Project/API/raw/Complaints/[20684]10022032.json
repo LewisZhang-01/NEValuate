@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "07/10/2003",
+        "dateOfIncident": "06/02/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022032,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "MONTANA",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "GENERAL TIRE & RUBBER CO.",
+                "productMake": "GENERAL",
+                "productModel": "GENERAL",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHILE DRIVING, THE BACK LEFT TIRE TREAD SEPARATED, WHICH CAUSED THE TIRE TO BLOWOUT.  CONSUMER HAD TO PULL OVER. GENERAL XP2000GT, SIZE# P21570R/15,  DOT#ACM3KN12801. *AK   PH  *JB",
+        "vin": "1GMDX03E32D"
+    }
+]

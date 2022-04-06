@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "10/29/2018",
+        "dateOfIncident": "10/31/2016",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11143614,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FUSION",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "RECALL ON SEAT BELTS RESTRAINTS HAVE NOT BEEN REMEDY.  NHTSA RECALL NUMBER16V875000 FROM 2016",
+        "vin": "3FA6P0K93DR"
+    }
+]

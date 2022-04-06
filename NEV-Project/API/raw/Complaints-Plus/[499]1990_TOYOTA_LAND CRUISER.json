@@ -1,0 +1,112 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "10/25/2001",
+        "dateOfIncident": "10/25/2001",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 753694,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "LAND CRUISER",
+                "productYear": "1990",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TIRE TREAD SEPARATION...AT HIGHWAY SPEED.*AK (DOT NUMBER: CRX318V913  TIRESIZE: 22575R15)",
+        "vin": "JT3FJ62G2L1"
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "09/21/2000",
+        "dateOfIncident": "07/21/2000",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 871202,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "LAND CRUISER",
+                "productYear": "1990",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING DOWN FREEWAY SHE EXPERIENCED SOME DIFFICULTY IN STEERING CONTROL TO THE POINT WHERE SHE HAD TO REDUCE HER SPEED.  LATER FOUND OUT THAT HER TIRE HAD A SEVERE SEPARATION WHICH CAUSED THE PROBLEM.  *AK",
+        "vin": ""
+    },
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "09/29/1998",
+        "dateOfIncident": "03/03/1998",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 541792,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "LAND CRUISER",
+                "productYear": "1990",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE GAS LINE IN THE REAR LEFT SIDE PASSENGER COMPARTMENT CORRODED THROUGH THE PIPE AND LEAKED 2 1/2 GALLONS OF GASOLING INTO THE WHEEL WELL WHERE IT REMAIND, SLOSHING AROUND UNKNOWN TO US.  WE COULD SMELL THE GAS BUT COULD NOT FIND WHERE IT WAS COMING FROM INSIDE THE CAR.  DIFFERENT MECHANICS LOOKED FOR A LEAK BUT IT WAS NOT FOUND UNTIL THE INTERIOR PANEL WAS REMOVED THE WHEEL WELL.  ONE SPARK AND WE COULD HAVEN BLOW UP.  THERE COULD BE OTHER FAMILIES DRIVING AROUND AND SMOKING IN THE CAR A VERY SERIOUS SITUATION I THINK.",
+        "vin": "JT3FJ62G7L1"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "12/05/1996",
+        "dateOfIncident": "11/11/1996",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 511777,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "LAND CRUISER",
+                "productYear": "1990",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SOFT PLUG IN ENGINE HEAD DISLODGED, CAUSING ENGINE OIL LEAK.   *AK",
+        "vin": "JT3FJ62G2L1"
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": true,
+        "dateComplaintFiled": "07/11/1995",
+        "dateOfIncident": "03/29/1995",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 968609,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "LAND CRUISER",
+                "productYear": "1990",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLES TRANSMISSION WAS ABLE TO BE MOVED WHILE PARKED WITH NO KEY, CAUSED SEVERE DAMAGE.  *AK",
+        "vin": ""
+    }
+]

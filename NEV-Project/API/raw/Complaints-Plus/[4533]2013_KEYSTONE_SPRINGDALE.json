@@ -1,0 +1,54 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "01/12/2016",
+        "dateOfIncident": "07/01/2014",
+        "fire": false,
+        "manufacturer": "Keystone RV Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10819803,
+        "products": [
+            {
+                "manufacturer": "Keystone RV Company",
+                "productMake": "KEYSTONE",
+                "productModel": "SPRINGDALE",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2013 KEYSTONE SPRINGDALE. THE CONTACT STATED THAT WHILE DRIVING AT VARIOUS SPEEDS, THE CONTACT WAS NOTIFIED BY A FOLLOWING MOTORIST THAT THE VEHICLES REAR WHEELS WERE WOBBLING AND LOOKED AS THOUGH IT WAS GOING TO DETACH FROM THE VEHICLE. THE VEHICLE WAS TAKEN TO AN INDEPENDENT MECHANIC WHERE IT WAS DIAGNOSED THAT FRONT AND REAR AXLES NEEDED TO BE REPLACED DUE TO THE RETAINING NUT THAT HOLDS THE WHEEL BEARING ON THE AXLE WAS CROSS THREADING DURING MANUFACTURING. THE VEHICLE WAS REPAIRED. THE MANUFACTURER WAS MADE AWARE OF THE FAILURE. THE FAILURE MILEAGE WAS 1,000.",
+        "vin": "4YDT26625D3"
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "11/18/2015",
+        "dateOfIncident": "11/15/2015",
+        "fire": false,
+        "manufacturer": "Keystone RV Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10794748,
+        "products": [
+            {
+                "manufacturer": "Keystone RV Company",
+                "productMake": "KEYSTONE",
+                "productModel": "SPRINGDALE",
+                "productYear": "2013",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "CARLISLE TIRE & RUBBER CO",
+                "productMake": "CARLISLE",
+                "productModel": "RADIAL TRAIL",
+                "productYear": "9999",
+                "size": "205/75R15",
+                "type": "Tire"
+            }
+        ],
+        "summary": "CARLISLE RADIAL TRAIL RH ST205/75R15 107B (LRD) TRAILER TIRE BLOW OUT. MANUFACTURE DATE '1914'. 7,684 MILES ON SET OF TIRES, 7/32 TREAD DEPTH REMAINING. MAX SPEED OF 65 MPH OBSERVED. TIRE PRESSURES MAINTAINED AND MONITORED WITH TST 507 TPMS. NO EXTERNAL SIGNS OF PENDING FAILURE. HUB OF AXLE REPACKED 1 1/2 YEARS PRIOR, NOT HOT TO TOUCH WHEN CHANGING TIRE. TRAILER WEIGHT 75% OF CARRYING CAPACITY OF TIRES BASED ON CAT SCALE. DAMAGE TO TRAILER AND WIRING WHEN TREAD EJECTED FROM CASING. TIRE BEING RETURNED TO CARLISLE FOR EVALUATION TO DETERMINE CAUSE OF FAILURE.",
+        "vin": "4YDF24722D3"
+    }
+]

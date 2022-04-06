@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "05/02/2003",
+        "dateOfIncident": "05/01/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10016895,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SONOMA",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WINDSHIELD WIPERS QUIT WORKING DURING RAIN. THEY WILL RESUME WHEN THEY DRY OUT.   *NLM",
+        "vin": "1GTCT14X2W8"
+    }
+]

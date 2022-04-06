@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "03/07/2019",
+        "dateOfIncident": "01/01/2012",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11184814,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO 1500",
+                "productYear": "2009",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CRACKED DASHBOARD - TYPICAL OF GM/CHEVROLET TRUCKS AND SUV'S  NO ACCIDENT OR OTHER TRAUMA INVOLVED",
+        "vin": "3GCEC23JX9G"
+    }
+]

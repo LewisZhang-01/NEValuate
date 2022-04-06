@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": true,
+        "dateComplaintFiled": "01/17/2003",
+        "dateOfIncident": "10/19/2002",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004140,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "PLYMOUTH",
+                "productModel": "ACCLAIM",
+                "productYear": "1990",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATES, VEHICLE WAS INVOLVED IN A COLLISION AND THE PASSENGER  SIDE SEAT BELT DID NOT RETRACT CAUSING PASSENGER TO GO THROUGH WINDSHIELD. DEALER NOTIFIED. PLEASE PROVIDE ADDITIONAL INFORMATION. TS",
+        "vin": "PLEASE FILL"
+    }
+]

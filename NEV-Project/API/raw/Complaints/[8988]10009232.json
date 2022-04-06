@@ -1,0 +1,24 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "02/25/2003",
+        "dateOfIncident": "01/09/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009232,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "SUNFIRE",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE LEFT TIRE SEPARATED FROM THE VEHICLE WHILE DRIVING.*JB",
+        "vin": "1G2JB1243T7"
+    }
+]

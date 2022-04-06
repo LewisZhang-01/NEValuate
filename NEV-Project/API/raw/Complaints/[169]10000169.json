@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "12/17/2002",
+        "dateOfIncident": "12/14/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000169,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "P24570R16",
+                "productYear": "9999",
+                "size": "P24570R16",
+                "type": "Tire"
+            }
+        ],
+        "summary": "TIRE PRESSURE IN 2002 EXPLORER STILL SET TOO LOW.  THE DOOR PANEL ON MY 2002 EXPLORER SAYS TO INFLATE FRONT TIRES TO 30 PSI, REAR 35 PSI.  WHILE SPIN BALANCING I WAS ABLE TO WITNESS THE \"CUPPING\" OF THE TIRE WHILE IT WAS SPINNING ON THE MACHINE.  THIS SHOWED UNEVEN WEAR.  THIS WAS ONLY ON THE FRONT TIRES, WHICH, ACCORDING TO THE OWNERS MANUAL AND THE DOOR PANEL, NEEDED ONLY 30 PSI OF AIR.  I CALLED THE MANUFACTURER (GOODYEAR) AND THEY SAID NEVER GO BELOW 35 PSI ON ALL FOUR TIRES.  I HAVE 16 INCH AP TIRES.  HOW FAR IS FORD WILLING TO GO?  SMOOTHNESS OF RIDE OVER SAFETY OF OCCUPANTS?",
+        "vin": "1FMZU74E52Z"
+    }
+]

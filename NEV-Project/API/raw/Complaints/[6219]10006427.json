@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "02/04/2003",
+        "dateOfIncident": "02/01/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10006427,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "OLDSMOBILE",
+                "productModel": "98",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "PASSENGER DRIVER SIDE DOOR WILL OPEN  AND CLOSE INTERMITTENTLY.  PLEASE FILL IN ADDITIONAL INFORMATION.  DEALER IS AWARE OF THE PROBLEM.    PH",
+        "vin": "PLEASE FILL"
+    }
+]

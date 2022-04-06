@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "03/19/2003",
+        "dateOfIncident": "03/07/2003",
+        "fire": false,
+        "manufacturer": "Mitsubishi Motors North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10012062,
+        "products": [
+            {
+                "manufacturer": "Mitsubishi Motors North America, Inc.",
+                "productMake": "MITSUBISHI",
+                "productModel": "GALANT",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE WAS INVOLVED IN TWO ACCIDENTS, AND THE AIR BAGS FAILED TO DEPLOY.  *JB  *SCC",
+        "vin": "4A3AA46G8XE"
+    }
+]

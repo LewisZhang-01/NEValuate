@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "04/24/2003",
+        "dateOfIncident": "04/24/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10016460,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "CVPI",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ANTI-LOCK BRAKES FAIL WHEN WEATHER IS WET DUE TO SNOW OR RAIN.  DEALER FIRST CLEANED AN ABS SENSOR WHICH DID NOT WORK.  SENSOR WAS REPLACED WITH A NEW ONE WHICH DID NOT REMEDY THE PROBLEM EITHER.  WIRING WAS TRACED AND NO PROBLEMS WERE FOUND.  DEALER HAS NO IDEA WHAT TO DO NOW.  WHEN ABS GOES OUT, THE AMBER ABS LIGHT AND THE RED BRAKE LIGHT COME ON AT THE SAME TIME.   *NLM",
+        "vin": ""
+    }
+]

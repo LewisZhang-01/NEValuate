@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": true,
+        "dateComplaintFiled": "02/12/2003",
+        "dateOfIncident": "01/24/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10007195,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAVALIER",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE POWER STEERING FAILED WHICH CAUSED CONSUMER TO LOSE CONTROL OF THE VEHICLE. TWO WEEKS LATER CONSUMER RECEIVED A RECALL NOTICE WHICH DESCRIBED THE SAME INCIDENT WHICH HAD OCCURRED.*JB   PH",
+        "vin": "3G1JC5244V5"
+    }
+]

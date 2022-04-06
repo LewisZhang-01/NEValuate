@@ -1,0 +1,46 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "07/31/2003",
+        "dateOfIncident": "07/28/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10031723,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-650",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATED THAT WHILE DRIVING THE CLUTCH FAILED. PLEASE PROVIDE MORE INFORMATION. DEALER NOTIFIED.   *PH",
+        "vin": "PLEASE PROV"
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "07/30/2003",
+        "dateOfIncident": "07/23/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10031651,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-650",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATES THAT THE FRONT TIRES ON THE VEHICLE ARE WEARING OUT UNEVENLY. THE EDGES OF THE TIRES ARE SO WORN THAT THE CENTER OF THE TREAD DOES NOT TOUCH THE GROUND. CONSUMER FEELS THAT THE AXEL IS DEFECTIVE.",
+        "vin": "3FDNX65293M"
+    }
+]

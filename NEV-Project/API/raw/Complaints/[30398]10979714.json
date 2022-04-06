@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "04/21/2017",
+        "dateOfIncident": "04/12/2017",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10979714,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CRUZE",
+                "productYear": "2012",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE SERVICE AIRBAG LIGHT HAS BEEN COMING ON.",
+        "vin": "1G1PF5SC0C7"
+    }
+]

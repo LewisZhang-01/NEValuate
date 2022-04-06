@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "04/23/2003",
+        "dateOfIncident": "04/22/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017449,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "AVALON",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLES AIR BAG SENSOR FAILED WHICH CAUSED THE AIR BAG LIGHT TO ILLUMINATE.  *NLM",
+        "vin": "4T1BF18B0XU"
+    }
+]

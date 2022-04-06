@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "02/24/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009106,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "DODGE",
+                "productYear": "1992",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "KELLY SPRINGFIELD TIRE CO",
+                "productMake": "DELTA",
+                "productModel": "DELTA",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "ALL 4 TIRES EXPERIENCED CRACKS AND BULGES AROUND THE OUTSIDE OF THE TIRE SIDEWALL.  (VEHICLE MODEL 2500)  *JB  THE TREAD WAS WORN TO WEAR INDICATORS AFTER 14K MILES.  THE FOLLOWING NUMBERS WERE GIVEN IN REFERENCE TO THE DOT#:  ANORDJ5475, ANORDJ5405, AND ANORDJ5485.  SCC",
+        "vin": "9999"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "01/24/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003735,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "CAMRY",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE DRIFTS TO THE LEFT/RIGHT AT MID TO HIGH SPEEDS, AND BECOMES HARD TO CONTROL WHEN THE VEHICLE PULLS TO THE LEFT (THE DRIVER MUST HOLD THE STEERING WHEEL TIGHTLY TO RESIST THE PULLING).  BOTH FIRESTONE AND TOYOTA SUGGESTED THAT THE PROBLEM IS AN UNBALANCED SUSPENSION.  SCC",
+        "vin": "4T1BE32K32U"
+    }
+]

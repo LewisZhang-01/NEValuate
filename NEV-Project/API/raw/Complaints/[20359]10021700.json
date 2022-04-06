@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "05/28/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Newmar Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021700,
+        "products": [
+            {
+                "manufacturer": "Newmar Corporation",
+                "productMake": "NEWMAR",
+                "productModel": "DUTCH STAR",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "MICHELIN TIRE CORP.",
+                "productMake": "MICHELIN",
+                "productModel": "MICHELIN",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "TWO BLOWOUTS WITH ORIGINAL MICHELIN TIRES ON MOTORHOME.  1ST FAILURE AT 12K MILES WITH INSIDE LEFT REAR AND 2ND FAILURE AT 14K MILES WITH INSIDE LEFT FRONT.  CONSUMER STATED THAT TIRES WERE TOO SMALL AND IMPROPERLY RATED FOR THE LARGE MOTORHOME.  TIRE INFO:  MICHELIN XRV  255/80R22.5  ORIGINAL.     *TT",
+        "vin": "4VZBN2297YC"
+    }
+]

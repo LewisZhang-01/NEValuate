@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "06/21/2003",
+        "dateOfIncident": "05/18/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10023519,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "ESCAPE",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BINDING OF ACCELERATOR PEDAL FROM IDLE;  PEDAL DIFFICULT AT TIMES [INTERMITTENT PROBLEM] TO PUSH SMOOTHLY, CAUSING UNEVEN AND SUDDEN ACCELERATION.  *NLM",
+        "vin": "1FMYU93143K"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "06/12/2003",
+        "dateOfIncident": "06/12/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022950,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "OLDSMOBILE",
+                "productModel": "88",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DOOR STRUCTURE WILL NOT OPEN, IT WILL GET STUCK. *AK",
+        "vin": ""
+    }
+]

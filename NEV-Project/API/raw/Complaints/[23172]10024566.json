@@ -1,0 +1,32 @@
+[
+    {
+        "components": "SUSPENSION,TIRES",
+        "crash": false,
+        "dateComplaintFiled": "07/11/2003",
+        "dateOfIncident": "06/04/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10024566,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "AVALANCHE",
+                "productYear": "2003",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Bridgestone Americas Tire Operations",
+                "productMake": "FIRESTONE",
+                "productModel": "WILDERNESS LE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE FRONT END OF THE VEHICLE WAS MISALIGNED.*AK   PH  *JB",
+        "vin": "3GNEC13T33G"
+    }
+]

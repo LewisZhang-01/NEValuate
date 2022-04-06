@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "03/14/2017",
+        "dateOfIncident": "03/08/2017",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10965814,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "PRIUS",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "STALLS AT STOP ON CITY STREETS",
+        "vin": "JTDKN3DU1F0"
+    }
+]

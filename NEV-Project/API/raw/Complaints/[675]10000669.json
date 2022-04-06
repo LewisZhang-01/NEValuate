@@ -1,0 +1,31 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "01/01/2003",
+        "dateOfIncident": "12/31/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000669,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "AIR BAG SWITCH",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "THE IGNITION SWITCH ON MY CAR IS NOT WORKING. IF IT HAS TO BE REPLACED, IT WILL BE THE THIRD TIME SINCE I BOUGHT THE CAR. WHICH WAS IN FEBUARY OF 2002. IF A LOCKSMITH SHOP CAN REPAIR THE PROBLEM, WHY IS IT THAT A FORD DEALERSHIP CAN'T?",
+        "vin": "1FAFP34P5YW"
+    }
+]

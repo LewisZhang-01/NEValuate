@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": true,
+        "dateComplaintFiled": "01/07/2003",
+        "dateOfIncident": "12/10/2002",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002266,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "CAMRY",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE WAS DRIVEN AT A SPEED OF 3 MPH WHEN IT SUDDENLY ACCELERATED.  THE CONSUMER ALSO COMPLAINED ABOUT THE PEDAL.  THE DEALER WAS CONTACTED AND FOUND NOTHING WRONG.  TS  SCC  SEE VOQ 10003640.  *DSY  UPDATED 7/2/12 *CN  UPDATED 07/12/12",
+        "vin": "4T1BE32K82U"
+    }
+]

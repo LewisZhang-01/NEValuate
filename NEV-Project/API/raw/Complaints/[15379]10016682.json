@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "04/29/2003",
+        "dateOfIncident": "06/06/2002",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10016682,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "LEBARON",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SEAT BELT RELEASE BUTTON IS TOO EASY TO RELEASE BY JUST BUMPING WITH ELBOW OR ANY OTHER LOOSE OBJECT.            *JB",
+        "vin": "1FMCA11U7SZ"
+    }
+]

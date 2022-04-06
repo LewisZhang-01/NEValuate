@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "11/05/2003",
+        "dateOfIncident": "09/05/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10038314,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATED VEHICLE WAS EXPERIENCING  THE  SAME PROBLEM AS MENTIONED IN  RECALL 98-V-150-001 CONCERNING  WINDSHIELD WIPERS. DEALER WILL NOT  PERFORM RECALL REPAIRS BECAUSE VIN  WAS NOT INCLUDED.  *AK     *PH",
+        "vin": "2GTEC19K1R1"
+    }
+]

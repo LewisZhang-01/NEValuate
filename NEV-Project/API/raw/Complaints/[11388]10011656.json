@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "03/13/2003",
+        "dateOfIncident": "03/13/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10011656,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "LHS",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE EXPERIENCED THE SAME PROBLEM AS SATED IN RECALL 03 V 035 000, HOWEVER THE VEHICLE IDENTIFICATION NUMBER WAS NOT INCLUDED IN THE RECALL.*JB",
+        "vin": "PROVIDE"
+    }
+]

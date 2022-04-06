@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": true,
+        "dateComplaintFiled": "06/10/2003",
+        "dateOfIncident": "06/10/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022770,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "LEXUS",
+                "productModel": "RX300",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE OVERTURNED 3 TIMES DUE TO RIGHT FRONT WHEEL BREAKING.  DEALER NOTIFIED.*AK",
+        "vin": ""
+    }
+]

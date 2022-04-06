@@ -1,0 +1,32 @@
+[
+    {
+        "components": "SUSPENSION,TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/27/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020162,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "OLDSMOBILE",
+                "productModel": "88",
+                "productYear": "1994",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE STEEL PROD. CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "FIRESTONE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE REAR TIRE COLLAPSED ONTO THE BODY OF VEHICLE.  THE BOLT BROKE IN HALF INSIDE THE BUSHINGS AND THE NUT SIDE OF THE BOLT FELL OFF ALLOWING ONLY THE REMAINING HALF OF THE BOLT TO HOLD UP THE SUSPENSION ARM.*JB *TS  *JB",
+        "vin": ""
+    }
+]

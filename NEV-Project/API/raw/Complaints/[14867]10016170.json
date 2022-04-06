@@ -1,0 +1,31 @@
+[
+    {
+        "components": "POWER TRAIN,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "04/18/2003",
+        "dateOfIncident": "04/09/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10016170,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "AZTEK",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "DELCO ELECT. DIV., GM",
+                "productMake": "DELCO",
+                "productModel": "DELCO",
+                "productYear": "2003",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "WHEEL BEARING AND WHEEL HUB PASSENGER SIDE FRONT WHEEL FAILED AT ABOUT 27500 MILES IN A 2002 PONTIAC AZTEK.    *NLM",
+        "vin": "3G7DB03E32S"
+    }
+]

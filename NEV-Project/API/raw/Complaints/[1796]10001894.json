@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "01/09/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001894,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "LUMINA APV",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATES FUEL TANK STARTED TO IMPLODE ON THE BOTTOM CAUSING THE PUMP PICK UP TO COME IN CONTACT WITH THE TANK BOTTOM CUTTING OFF FUEL SUPPLY RESULTING IN A NO START CONDITION.   *TT   *NLM",
+        "vin": "1GNDU06D7PT"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "01/08/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001743,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AIR BAG LIGHT COMES ON INTERMITTENTLY.  CONTROL MODULE REPLACED THREE TIMES.  HOWEVER PROBLEM STILL EXIST.   VEHICLE IN SERVICE 5 OR 6 TIMES.    *TT   *NLM",
+        "vin": "1FMZU73E22U"
+    }
+]

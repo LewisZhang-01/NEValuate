@@ -1,0 +1,46 @@
+[
+    {
+        "components": "STEERING,POWER TRAIN,WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "12/19/2015",
+        "dateOfIncident": "12/01/2015",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10811235,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "IMPALA",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TAKATA RECALL  CAR LOCKS UP ALL THE TIME WHEN TRYING TO MAKE RIGHT TURN, MAKES LOUD NOISE I THINK FROM AC AND IGNITION SWITCH GETS STUCK WANT TURN SOMETIMES. HAVE TO GET HUBS FIXED AT LEAST EVERY SIX MONTHS. EVERYTHING HAS BEEN GOING ON SINCE I HAVE HAD THE CAR BUT THE IGNITION SWITCH JUST STARTED",
+        "vin": "2G1WU583781"
+    },
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "08/17/2005",
+        "dateOfIncident": "01/15/2004",
+        "fire": true,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10133250,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "IMPALA",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE STEERING WAS HARD WHEN MAKING A LEFT TURN, AS IF THE VAN DIDN'T HAVE ANY POWER STEERING.  MAKING RIGHT TURNS DIDN'T REQUIRE ANY EFFORT AT ALL, IT TURNED TOO EASY.   CITY CHEVROLET FIXED THE PROBLEM. I HAVE THE SAME PROBLEM AS THE OTHER VENTURES THAT WERE LISTED IN THE RECALL.  FOR THE SAFETY OF MY FAMILY I HAD TO GET THE PROBLEM FIXED AND COULDN'T WAIT FOR A MANUFACTURE RECALL ON MY VAN'S VIN# BECAUSE AT THAT TIME THERE WASN'T A RECALL",
+        "vin": "1GNDX03E7WD"
+    }
+]

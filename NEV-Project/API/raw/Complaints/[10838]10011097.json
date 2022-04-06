@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "03/07/2003",
+        "dateOfIncident": "02/24/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10011097,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "STEALTH",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE'S AXLE SHAFT BROKE, WITHOUT WARNING.*JB",
+        "vin": "JB3XE74C3NY"
+    }
+]

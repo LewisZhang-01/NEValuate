@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "05/14/2003",
+        "dateOfIncident": "05/16/2001",
+        "fire": false,
+        "manufacturer": "FOUR WINDS CMPR. MFG. CO.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018712,
+        "products": [
+            {
+                "manufacturer": "FOUR WINDS CMPR. MFG. CO.",
+                "productMake": "FOUR WINDS",
+                "productModel": "FOUR WINDS",
+                "productYear": "1998",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "LT22575R16E",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "LT22575R16E FIRESTONE TIRE SEPARATION AND BLOW OUT NEAR SAINT GEORGE UTAH.  *NLM",
+        "vin": "1FDXE40S0WH"
+    }
+]

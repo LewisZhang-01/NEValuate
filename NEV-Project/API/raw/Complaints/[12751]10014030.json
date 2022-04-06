@@ -1,0 +1,31 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "04/06/2003",
+        "dateOfIncident": "03/23/2003",
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10014030,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TAURUS",
+                "productYear": "1995",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FAN COACH CO.",
+                "productMake": "FAN",
+                "productModel": "FAN",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "COOLING FAN ON MY 1995 FORD TAURUS BURNED UP. I COMPLIED WITH  [NHTSA RECALL NO. 01V390/FORD RECALL NO. 01S30] IN NOV. 2002.  I THOUGHT THAT WAS SUPPOSE TO PREVENT THIS TYPE OF PROBLEM.  *JB",
+        "vin": ""
+    }
+]

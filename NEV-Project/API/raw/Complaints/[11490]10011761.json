@@ -1,0 +1,24 @@
+[
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "04/04/2003",
+        "dateOfIncident": "04/08/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10011761,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "WINDSTAR",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN THE AIR CONDITIONER AND WINDSHIELD DEFROSTER WERE TURNED ON THE ENGINE SEIZED, WHICH CAUSED THE VEHICLE TO LOSE POWER STEERING AND BRAKES. THE DEALER REPLACED THE AIR CONDITION COMPRESSOR TWICE.  PH  *JB",
+        "vin": "2FMDA514X2B"
+    }
+]

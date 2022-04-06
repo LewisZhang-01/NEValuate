@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "02/21/2017",
+        "dateOfIncident": "02/06/2017",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10956114,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "G6",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE ELECTRICAL POWER STEERING IN NOT WORKING CORRECTLY WHEN STARTING AND WHEEL IS HARD TO TURN, DOES THIS ON AND OFF.",
+        "vin": "64200695"
+    }
+]

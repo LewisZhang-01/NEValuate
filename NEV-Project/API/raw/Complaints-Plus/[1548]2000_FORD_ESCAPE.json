@@ -1,0 +1,112 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "11/30/2018",
+        "dateOfIncident": "11/07/2018",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11155141,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "ESCAPE",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2000 FORD ESCAPE. WHILE DRIVING 6 MPH, THE POWER STEERING SEIZED AND THE VEHICLE WOULD NOT GO IN THE DIRECTION THAT THE STEERING WHEEL WAS TURNED. THE CONTACT HAD TO REVERSE THE VEHICLE AND USE EXCESSIVE FORCE TO TURN THE VEHICLE SAFELY INTO THE PARKING LOT. THERE WERE NO WARNING INDICATORS ILLUMINATED. THE VEHICLE WAS DRIVEN TO PREFERRED FORD (1401 S BEACON BLVD, GRAND HAVEN, MI 49417, (616) 842-0600) TO BE DIAGNOSED, BUT NO ASSISTANCE WAS PROVIDED. THE MANUFACTURER WAS MADE AWARE OF THE FAILURE AND ALSO DID NOT ASSIST. THE VEHICLE WAS NOT DIAGNOSED OR REPAIRED. THE FAILURE MILEAGE WAS 123,000. THE VIN WAS UNKNOWN.",
+        "vin": ""
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "10/27/2015",
+        "dateOfIncident": "10/12/2015",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10786543,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "ESCAPE",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN FAN FOR CLIMATE CONTROL IS ENGAGED, THE CAR WILL SHUT OFF AT WHATEVER SPEED VEHICLE IS CURRENTLY AT WITH LOSS OF STEERING AND BRAKES. FORD DEALERSHIP SAYS THIS IS A COMMON PROBLEM. FIX COST JUST UNDER $800.00 !",
+        "vin": ""
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "06/16/2009",
+        "dateOfIncident": "06/16/2009",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10274007,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "ESCAPE",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 2000 FORD ESCAPE.  WHILE DRIVING BETWEEN 30-40 MPH, THE CONTACT HEARD A LOUD GRINDING NOISE.  SHE DROVE THE VEHICLE TO A REPAIR SHOP.  WHEN SHE ATTEMPTED TO PLACE THE GEAR INTO PARK, THE VEHICLE PROCEEDED TO DRIVE IN REVERSE.  THE DIAGNOSIS WAS THAT THE INTERMEDIATE SHAFT FAILED.  THE MANUFACTURER STATED THAT HER VIN WAS NOT INCLUDED IN NHTSA CAMPAIGN ID NUMBER 06V382000 (POWER TRAIN: DRIVELINE), WHICH APPLIED ONLY TO THE FORD HYBRID.  THE CURRENT AND FAILURE MILEAGES WERE 76,000.",
+        "vin": "1FMYU93155K"
+    },
+    {
+        "components": "LATCHES/LOCKS/LINKAGES",
+        "crash": false,
+        "dateComplaintFiled": "09/08/2008",
+        "dateOfIncident": "01/15/2006",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10241380,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "ESCAPE",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 2000 FORD ESCAPE.  THE CONTACT STATED THAT THE REAR DOOR DOES NOT OPEN ONCE IT IS CLOSED.  THE LATCH DOES NOT WORK AT ALL.  THE CONTACT HAS MADE SEVERAL ATTEMPTS AND FEELS THAT IT IS A SAFETY HAZARD IN THE EVENT OF A FIRE OR EMERGENCY.  FORD WANTS NOTHING TO DO WITH THE ISSUE.  NHTSA CAMPAIGN ID NUMBER 04V602000 (LATCHES/LOCKS/LINKAGES:DOORS:LATCH) WAS REFERENCED.  THE CURRENT AND FAILURE MILEAGES WERE 64,500.",
+        "vin": "1FMYU01191K"
+    },
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "05/07/2008",
+        "dateOfIncident": "02/25/2008",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10226930,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "ESCAPE",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 2000 FORD ESCAPE.  THE CONTACT'S VEHICLE WAS REAR ENDED BY ANOTHER VEHICLE TRAVELING 30 MPH.  THE CONTACT THEN STRUCK THE PRECEDING VEHICLE.  THE AIR BAGS FAILED TO DEPLOY.  THE CONTACT INJURED HER NECK AND HER FRONT AND REAR BUMPERS WERE DAMAGED.  SHE WAS UNSURE IF ANYONE ELSE WAS INJURED.  A POLICE REPORT WAS FILED AND THE CONTACT HAS PHOTOS.  THE VEHICLE HAS NOT BEEN DIAGNOSED BY THE DEALER.  AFTER THE CRASH, THE CONTACT NOTICED THAT THE SPARE TIRE WAS THE INCORRECT SIZE FOR THE VEHICLE.  THE CONTACT'S SPEED WAS UNKNOWN.  THE CURRENT MILEAGE WAS 39,536 AND FAILURE MILEAGE WAS 33,000.",
+        "vin": "1FMYU93105K"
+    }
+]

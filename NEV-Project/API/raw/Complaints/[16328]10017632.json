@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": true,
+        "dateComplaintFiled": "04/28/2003",
+        "dateOfIncident": "04/27/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017632,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXCURSION",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN THE VEHICLE WAS PLACED IN REVERSE A SURGE OF POWER TOOK OVER AND THE VEHICLE SMASHED INTO A POLE.            *JB",
+        "vin": "1FMNU42L32E"
+    }
+]

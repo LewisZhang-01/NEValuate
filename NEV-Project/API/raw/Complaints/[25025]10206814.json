@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "10/24/2007",
+        "dateOfIncident": "08/07/2007",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10206814,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TAURUS",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BLOWER OR RESISTOR FAILURE DUE TO LEAKS.  *TR",
+        "vin": "1FAFP52U81G"
+    }
+]

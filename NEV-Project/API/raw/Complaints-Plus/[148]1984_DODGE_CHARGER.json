@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "07/17/1998",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 537967,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "CHARGER",
+                "productYear": "1984",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "STARTER FAILED/CYLENOID FROZE.",
+        "vin": "1B3BZ44C9ED"
+    }
+]

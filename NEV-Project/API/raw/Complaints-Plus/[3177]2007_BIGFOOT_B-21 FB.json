@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "05/28/2008",
+        "dateOfIncident": "05/26/2008",
+        "fire": false,
+        "manufacturer": "Bigfoot Industries, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10229153,
+        "products": [
+            {
+                "manufacturer": "Bigfoot Industries, Inc.",
+                "productMake": "BIGFOOT",
+                "productModel": "B-21 FB",
+                "productYear": "2007",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "MARATHON",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "GOODYEAR MARATHON  TRAILER TIRE BLOW OUT OF THE SIDE WALL. SIZE ST225/75R15 HAS A HISTORY OF SIDE WALL FAILURES. AND SHOULD BE RECALLED. IT HAPPENED TO US ON HWY 20. IN WA. STATE. THE GOOD YEAR COMPANY IS REPLACING ALL TIRES THAT FAIL BUT NO WARNING TO THE PUBLIC.  *TR",
+        "vin": "2GVT2502X7S"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "12/01/2017",
+        "dateOfIncident": "11/28/2017",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11051714,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "RAM 2500",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DEATH WOBBLE 11/28/17  YOU ALREADY KNOW WHAT THE DEATH WOBBLE IS. UNCONTROLLABLE SHAKING OF THE FRONT END MAKING IT DIFFICULT TO STOP AND STEER TRUCK.",
+        "vin": "3D7KS29C66G"
+    }
+]

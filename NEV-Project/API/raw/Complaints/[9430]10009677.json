@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "03/03/2003",
+        "dateOfIncident": "02/21/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009677,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "CAMRY",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE EXPERIENCED A VIBRATION AT NORMAL SPEED, THE DEALER STATED THE TIRES WERE THE PROBLEM, WHICH WERE REPLACED AND A ALIGNMENT WAS PERFORMED, HOWEVER THE PROBLEM RECURRED.*JB",
+        "vin": "4T1BG22K8VU"
+    }
+]

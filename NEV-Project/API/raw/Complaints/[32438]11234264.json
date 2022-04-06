@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "07/23/2019",
+        "dateOfIncident": "07/05/2019",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11234264,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "AUDI",
+                "productModel": "A8",
+                "productYear": "2012",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "POWER STEERING PUMP MECHANICAL MALFUNCTION/ NO POWER ASSIST CUSTOMER STATES STEERING WHEEL IS STIFF NO POWER ASSIT. POWER STEERING PUMP MALFUNCTION PUMP ASSEMBLY FAILED AND POWER STEERING PUMP",
+        "vin": "WAURVAFD0CN"
+    }
+]

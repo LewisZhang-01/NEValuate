@@ -1,0 +1,3550 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "09/24/2021",
+        "dateOfIncident": "09/24/2021",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11434207,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Cooper Tire & Rubber Co.",
+                "productMake": "COOPER",
+                "productModel": "COOPER DISCOVERER A/T",
+                "productYear": "9999",
+                "size": "P265/75R16",
+                "type": "Tire"
+            }
+        ],
+        "summary": "The contact owns a 2004 Ford F-350 equipped with Cooper Tires, Tire Line: Discover AT3, Tire size: 265/75/R16, DOT Number: UPWM1M11718M16L. The contact stated that while driving 65 MPH, the rear driver\u2019s side tire had a sidewall blowout. The contact stated that all four tires had sidewall blowouts months apart. The tire blowouts had damaged the rims. The contact replaced the front driver\u2019s, passenger\u2019s, and rear driver\u2019s side tire with the spare after each blowout. The dealer was made aware of the failure and replaced the rear passenger\u2019s side tire. The manufacturer was made aware of the failure and the rear driver\u2019s side rim, rear driver\u2019s and front passenger\u2019s side tire were sent to the manufacturer. The failure mileage was not available.",
+        "vin": ""
+    },
+    {
+        "components": "ENGINE,FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "10/20/2020",
+        "dateOfIncident": "09/18/2020",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11365419,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "MY TRUCK HAS MAJOR ENGINE DAMAGE BOUGHT IT AND THREE DAYS LATER THE EGR WENT OUT THEN NEXT THING YOU KNOW I GOT A BLOWN MOTOR",
+        "vin": "1FTWW32P74E"
+    },
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "09/14/2020",
+        "dateOfIncident": "09/13/2020",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11354839,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2004 FORD F-350. THE CONTACT STATED THAT WHILE DRIVING APPROXIMATELY 65 MPH, THE VEHICLE SUDDENLY LOSS MOTIVE POWER AND STALLED WITHOUT WARNING. THE CONTACT RESTARTED THE VEHICLE HOWEVER, THE FAILURE RECURRED. UPON INSPECTION, THE CONTACT DISCOVERED THE FUEL FILTER WAS COVERED WITH SILVER DEBRIS. THE CAUSE OF THE FAILURE WAS NOT DETERMINED. AN UNKNOWN DEALER WAS CONTACTED. THE MANUFACTURER WAS NOT CONTACTED. THE FAILURE MILEAGE WAS 332,000.",
+        "vin": "1FDWX36PX4E"
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "07/16/2020",
+        "dateOfIncident": "06/11/2019",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11339799,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2004 FORD F-350. THE CONTACT STATED THAT WHILE DRIVING AT 70 MPH, THE VEHICLE STALLED WITHOUT WARNING. THE CONTACT PULLED THE VEHICLE OFF TO THE SIDE OF THE ROAD AND MADE MULTIPLE ATTEMPTS TO RESTART THE VEHICLE HOWEVER, THE VEHICLE FAILED TO RESTART. THE VEHICLE WAS TOWED TO AN INDEPENDENT MECHANIC WHERE THEY DIAGNOSED THE VEHICLE WITH A DEFECTIVE FUEL INJECTION CONTROL MODULE. CASA FORD (5815 MONTANA AVE, EL PASO, TX 79925) AND THE MANUFACTURER WERE CONTACTED AND INFORMED OF THE FAILURE. THE CONTACT WAS INFORMED THAT THE VEHICLE WAS NOT SUBJECTED TO A RECALL. THE VEHICLE WAS NOT REPAIRED. THE FAILURE MILEAGE WAS APPROXIMATELY 220,000.",
+        "vin": "1FTWW33P44E"
+    },
+    {
+        "components": "VEHICLE SPEED CONTROL,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "04/24/2019",
+        "dateOfIncident": "03/01/2019",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11203466,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2004 FORD F-350. WHILE DRIVING VARIOUS SPEEDS, THE VEHICLE SUDDENLY SHUT OFF. ALSO, WHILE IDLING, THE ENGINE RPMS REMAINED VERY HIGH AND THE VEHICLE WOULD ATTEMPT TO SURGE FORWARD. THE VEHICLE WAS TAKEN TO AN INDEPENDENT MECHANIC WHO REPLACED THE ICP SENSOR AND INJECTOR CONTROL SENSOR, BUT THE FAILURES CONTINUED. THE MANUFACTURER AND LOCAL DEALER WERE NOT NOTIFIED OF THE FAILURES. THE FAILURE MILEAGE WAS 200,000.",
+        "vin": "1FTWW33P74E"
+    },
+    {
+        "components": "STEERING,SERVICE BRAKES,FUEL/PROPULSION SYSTEM",
+        "crash": true,
+        "dateComplaintFiled": "03/19/2019",
+        "dateOfIncident": "02/14/2019",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 11190120,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TAKATA INFLATORS;  MY VEHICLE STARTED ALL TYPES OF PROBLEMS INTERMITTENT ONES THAT COST ME SEVERAL THOUSAND DOLLARS NEVER FIXING THE PROBLEM THIS IS WERE IT ALL BEGAN,,.MY VEHICLE DIED GOING UP FAIRLY STEEP HILL TO GRAVE YARD, IT IMMEDIATELY  ROLLED BACK SHOVING A FAMILY MEMBERS VEHICLE DOWN HILL A WAYS UNTIL THEY TURNED AWAY FROM THE CLIFF EDGE LEAVING ME ALL ALONE.UNTIL GOING THROUGH A RUN OFF DITCH STOPPING OVER IT INTO 2 TREES. I HAD NO STEERING NO BRAKES AND THANK GOD THE TREES WERE THERE TO STOP MY TRUCK IF NOT THEIR WAS A 100 FOOT CLIFF NEXT..  I KNOW NOTHING ABOUT RECALLS OR SUCH I JUST TRIED TO FIX MY TRUCK PROBLEM BY PROBLEM AS SYMPTOMS CAME ON I HAVE ALL TYPES OF RECENT RECEIPTS THAT ALL CAME FROM SILVERISH DARK MAYBE EVEN GRAY MATTER STUFF IN THE TANK. WHEN I GET MY BANK STATEMENT I WILL ITEMIZE ALL AND SUBMIT THEM WHEN FINAL COST IS OVER.",
+        "vin": "1FTWW32P14E"
+    },
+    {
+        "components": "STEERING,FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "10/03/2017",
+        "dateOfIncident": "10/13/2010",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11031616,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2004 FORD F-350. WHILE DRIVING VARIOUS SPEEDS, THE VEHICLE STALLED WITHOUT WARNING. THE CONTACT PLACED THE GEAR SHIFTER INTO NEUTRAL AND WAS ABLE TO RESTART THE VEHICLE. IN ADDITION, THE STEERING WHEEL BECAME DIFFICULT TO MANEUVER. WHILE DRIVING VARIOUS SPEEDS, THE BATTERY, OIL PRESSURE AND CHECK ENGINE WARNING INDICATORS ILLUMINATED. THE VEHICLE WAS NOT TAKEN TO THE DEALER. THE VEHICLE WAS TAKEN TO AN INDEPENDENT MECHANIC WHERE IT WAS DIAGNOSED THAT THE FUEL INJECTION CONTROL MODULE FAILED AND NEEDED TO BE REPLACED. THE VEHICLE WAS REPAIRED; HOWEVER, THE FAILURE RECURRED. THE MANUFACTURER WAS NOTIFIED OF THE FAILURE AND INFORMED THE CONTACT THAT THEY DID NOT HAVE A RECORD OF THE VEHICLE BEING SERVICED. NO FURTHER ASSISTANCE WAS OFFERED. THE APPROXIMATE FAILURE MILEAGE WAS 150,000.",
+        "vin": "1FDWF36P24E"
+    },
+    {
+        "components": "FUEL SYSTEM, DIESEL",
+        "crash": false,
+        "dateComplaintFiled": "09/07/2017",
+        "dateOfIncident": "08/31/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11022126,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2004 FORD F-350. THE CONTACT STATED THAT THE FUEL TANK STRAP WAS SEVERELY CORRODED AND THE FUEL TANK DETACHED FROM THE VEHICLE. THE CONTACT STATED THAT THIS WAS THE SECOND TIME THE FAILURE OCCURRED. AN UNKNOWN FORD DEALER WAS CONTACTED AND REFERRED THE CONTACT TO FORD USA. THE MANUFACTURER WAS NOTIFIED OF THE FAILURE AND INFORMED THE CONTACT THAT THERE WAS NO RECALL AND HE WOULD BE RESPONSIBLE FOR THE REPAIR COST. THE FAILURE MILEAGE WAS APPROXIMATELY 82,000.   UPDATED 11/02/17*LJ *TT",
+        "vin": "1FTSF31P54E"
+    },
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "07/25/2017",
+        "dateOfIncident": "11/29/2016",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11010569,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2004 FORD F-350. WHILE THE VEHICLE WAS BEING SERVICED BY AN INDEPENDENT MECHANIC, IT WAS OBSERVED THAT THE DRIVER AND PASSENGER SIDE INNER ROCKER PANELS HAD SEVERE CORROSION, FAILED, AND NEEDED TO BE REPLACED. THE VEHICLE WAS REPAIRED. PRIOR TO THE FAILURE, THE CONTACT NOTICED THAT THE FRAME WAS CRACKED. THE CONTACT TOOK THE VEHICLE TO THE LOCAL DEALER (FORMULA FORD, 4318 MIDDLE RD, RUTLAND, VT, 05701) WHERE IT WAS CONFIRMED THAT THE FRAME WAS FRACTURED, BUT THEY WOULD NOT REPAIR THE VEHICLE. THE FRAME WAS REPAIRED. THE CONTACT GOT THE DEPARTMENT OF MOTOR VEHICLES INVOLVED; THEREFORE, THE DEALER PAID SOME OF THE REPAIR COST TO BE WELDED BY THE CONTACT'S INDEPENDENT PROFESSIONAL WELDER. THE MANUFACTURER WAS NOT CONTACTED. THE FAILURE MILEAGE WAS APPROXIMATELY 140,590.",
+        "vin": "1FDWF37SX4E"
+    },
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "04/23/2017",
+        "dateOfIncident": "04/01/2010",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10980010,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SPEED CONTROL DOES NOT DISENGAGE WHEN HITTING THE BRAKES. YOU MUST SLOW THE TRUCK DOWN BY SEVERAL MILES PER HOUR BEFORE THE SYSTEM WILL DISENGAGE. (PUSH HARD AND LONG). THE PROBLEM WILL GO AWAY FOR A PERIOD OF TIME IF YOU PREFORM AN EMERGENCY STOP THAT CAUSES THE ANTI-LOCK BRAKE SYSTEM TO ACTIVATE. THIS WILL CURE THE ISSUE FOR AWHILE. BUT WITH NORMAL BRAKING THE PROBLEM WILL RETURN WITH IN SEVERAL DAYS.",
+        "vin": "1FDSX31P94E"
+    },
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "04/11/2017",
+        "dateOfIncident": "04/10/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10971851,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2004 FORD F-350. WHILE DRIVING APPROXIMATELY 20 MPH, THE VEHICLE STALLED WITHOUT WARNING. THE CONTACT COASTED THE VEHICLE TO THE SHOULDER TO A COMPLETE STOP. THE VEHICLE WAS STARTED NORMALLY, BUT STALLED AGAIN THE SAME AFTERNOON. THE VEHICLE WAS NOT DIAGNOSED OR REPAIRED. THE VIN WAS EXCLUDED FROM NHTSA CAMPAIGN NUMBER: 05V270000 (ENGINE). THE VEHICLE WAS NOT REPAIRED. THE MANUFACTURER WAS NOTIFIED OF THE FAILURE. THE APPROXIMATE FAILURE MILEAGE WAS 133,307.",
+        "vin": "1FTSW31PX4E"
+    },
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": true,
+        "dateComplaintFiled": "03/26/2017",
+        "dateOfIncident": "03/19/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10968561,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WE HAVE HAD FOUR SEPARATE INCIDENTS INVOLVING UNINTENDED ACCELERATION WITH OUR 2004 FORD F350.  WHEN APPLYING THE BRAKES, THE VEHICLE SUDDENLY ACCELERATES.  IT HAS HAPPENED TWICE GOING DOWN OUR DRIVEWAY, ONCE WHEN DRIVING IN CITY TRAFFIC, AND ONCE WHEN WE WERE PARKING AT A REST STOP.  THE VEHICLE WAS DRIVING AT LOW SPEEDS IN ALL OF THESE INSTANCES.    IN THE MOST RECENT INCIDENT, THE VEHICLE SUDDENLY ACCELERATED, JUMPED THE CURB AND STRUCK A TRASH CAN AT A REST STOP.  THANKFULLY NO ONE WAS IN FRONT OF OUR VEHICLE AS THEY COULD HAVE BEEN KILLED.  THE VEHICLE ALSO REAR ENDED ANOTHER VEHICLE IN ANOTHER INCIDENT.      THIS HAS HAPPENED THREE TIMES WHEN MY HUSBAND WAS DRIVING AND ONCE WHEN I WAS DRIVING.      AFTER THE MOST RECENT INCIDENT WE GOOGLED THIS AND FOUND THERE ARE NUMEROUS CLASS ACTION LAWSUITS AGAINST FORD FOR THIS ISSUE, AND THAT OUR YEAR VEHICLE (2004) HAS ONE OF THE HIGHEST INCIDENT RATES.",
+        "vin": "1FTWW32SX4E"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "03/09/2016",
+        "dateOfIncident": "03/01/2016",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10845706,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2004 FORD F-350. WHILE DRIVING THE VEHICLE, IT EXPERIENCED A COMPLETE LOSS OF POWER. THE VEHICLE WAS TAKEN TO THE DEALER WHERE IT WAS DIAGNOSED THAT THE WIRING HARNESS WAS DEFECTIVE AND NEEDED TO BE REPLACED. THE VEHICLE WAS NOT REPAIRED. PRIOR TO THE FAILURE, THE VEHICLE WAS REMEDIED UNDER NHTSA CAMPAIGN NUMBER: 07E066000 (EQUIPMENT). THE MANUFACTURER WAS NOTIFIED OF THE FAILURE. THE FAILURE MILEAGE WAS APPROXIMATELY 100,000.",
+        "vin": "1FTWW32P14E"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "03/09/2016",
+        "dateOfIncident": "05/01/2015",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10845783,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2004 FORD F-350. THE CONTACT STATED THAT WHILE DRIVING AT VARIOUS SPEEDS, THE VEHICLE WOULD SUDDENLY SHUT OFF AND ON SEVERAL OCCASIONS WOULD NOT START. THE VEHICLE WAS TAKEN TO AN INDEPENDENT MECHANIC, WHO DETERMINED THAT THE FUEL INJECTION CONTROL MODULE WIRE HARNESS NEEDED TO BE REPLACED. THE CONTACT NOTIFIED THE MANUFACTURER, WHO EXPLAINED THAT THE HARNESS WAS REPLACED IN 2005 UNDER NHTSA CAMPAIGN NUMBER: 05V270000 (ELECTRICAL SYSTEM). THE FAILURE MILEAGE WAS 83,000.",
+        "vin": "1FTWW32P14E"
+    },
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "08/13/2015",
+        "dateOfIncident": "08/02/2015",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10748350,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE APPLYING BRAKES IN AN ATTEMPT TO STOP, THE BRAKE PEDAL UNEXPECTEDLY WENT DIRECTLY TO THE FLOOR, THUS DISALLOWING THE TRUCK TO STOP.  THE PEDAL WAS ABLE TO BE PUMPED,UP ENOUGH IN ORDER TO STOP THE TRUCK, BUT ONLY ONE TIME.  ATTEMPTS TO PUMP THE PEDAL AND INCREASE THE PRESSURE ENOUGH FOR FUTURE ATTEMPTS AT STOPPING THE TRUCK WERE UNSUCCESSFUL.  INSPECTION OF THE VEHICLE BY CERTIFIED MECHANICS REVEALED RUST BUILDUP ON/NEAR A WEAK SPOT ON ONE OF THE BRAIDED, FLEXIBLE FRONT BRAKE LINES WHICH HAD BURSTED, VIRTUALLY MAKING THE BRAKES USELESS BY DISALLOWING PRESSURE TO BE BUILT UP IN THE SYSTEM.  A FURTHER INSPECTION OF THE SYSTEM REVEALED A SECOND BRAIDED, FLEXIBLE BRAKE LINE THAT WAS SHOWING SIGNS OF RUST BUILDUP AND EMINENT FAILURE.  THE POINT OF FAILURE ON BOTH LINES WAS THE FLEXIBLE, BRAIDED SECTION ITSELF, JUST ADJACENT TO WHERE IT CONNECTED WITH THE PRE-MOLDED PORTION OF EACH LINE.",
+        "vin": "1FTSX31P64E"
+    },
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "04/28/2015",
+        "dateOfIncident": "04/20/2015",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10713462,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2004 FORD F-350. THE CONTACT STATED THAT WHILE DRIVING AT APPROXIMATELY 40 MPH, THE POWER STEERING FAILED. THE FAILURE RECURRED SEVERAL TIMES. THE VEHICLE WAS NOT DIAGNOSED OR REPAIRED. THE MANUFACTURER WAS NOT MADE AWARE OF THE FAILURE. THE FAILURE MILEAGE WAS 100,000.",
+        "vin": "1FTSW31P04E"
+    },
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "02/10/2015",
+        "dateOfIncident": "02/05/2015",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10682591,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 2004 FORD F-350. THE CONTACT STATED THAT WHILE DRIVING AT APPROXIMATELY 55 MPH, THE VEHICLE STALLED. THE VEHICLE WAS TAKEN TO AN INDEPENDENT MECHANIC, WHO DISCOVERED THAT OIL WAS LEAKING FROM THE HEAD GASKET. THE VEHICLE WAS NOT REPAIRED. THE MANUFACTURER WAS NOTIFIED OF THE FAILURE. THE FAILURE MILEAGE WAS 210,000.",
+        "vin": "1FTSW31P14E"
+    },
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "11/13/2014",
+        "dateOfIncident": "10/13/2014",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10654705,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2004 FORD F-350. THE CONTACT STATED THAT WHILE DRIVING AT APPROXIMATELY 15 MPH, THE VEHICLE STALLED WITHOUT WARNING. THE VEHICLE WAS NOT DIAGNOSED OR REPAIRED. THE MANUFACTURER WAS NOTIFIED OF THE FAILURE. THE FAILURE MILEAGE WAS 37,237.",
+        "vin": "1FTWW33P34E"
+    },
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "11/11/2014",
+        "dateOfIncident": "11/17/2009",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10654220,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "MY VEHICLE HAS BEEN BUCKING AND JERKING INTERMITTENTLY SINCE WAY BEFORE ABOVE.DATE  IT STOPPED RUNNING AT A STOP SIGN THEN BUCKED AND JERKED SO  IN 2013 IT GOT SO BAD THAT I FINALLY HAD IT CHECKED OUT.  I THOUGHT IT WAS TRANSMISSION, HAD IT CHECKED AND WAS REFERRED TO LOCAL MECHANIC  WHO WAS ACQUAINTED WITH THE PROBLEM AND HAS WORKED ON SEVERAL TRUCKS WITH THE 6.0 DIESEL ENGINE.  HE SAID FOR $1200 YOU MIGHT REPAIR IT, NO GUARANTEES.  HE SAID IT HAD TO DO WITH THE ELECTRONIC ACCELERATOR.  I DIDN'T HAVE IT REPAIRED.  IN AUGUST 2014 IT STOPPED AND JERKED AT STOPS SIGN MORE THAN ONCE.  I TOOK IT TO THE SAME MECHANIC AND HE REPLACED A SENSOR LOCATED UNDER THE TURBO, FOR $600,  AND THAT SOLVED THAT PROBLEM.  IN OCTOBER 2014 I WAS TOWING A TRAILER AND THE TRUCK WOULD NOT SHIFT INTO 4TH GEAR.  I STOPPED AND RESTARTED THE ENGINE AND IT WENT BACK TO NORMAL OPERATION, BUT IT STILL BUCKS AND JERKS   TODAY I CALLED MY LOCAL FORD DEALER AND HE SAID THAT HE HAS NO RECALLS FOR MY VIN NUMBER.  I ONLY DRIVE IT OCCASIONALLY. IT HAS 59,000 MILES ON IT NOW.  *TR",
+        "vin": "1FTSW31P04E"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "10/09/2014",
+        "dateOfIncident": "06/02/2014",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10643651,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL*  THE CONTACT OWNS A 2004 FORD F-350. THE CONTACT STATED THE EXHAUST SYSTEM WARNING LIGHT ILLUMINATED AND THE ENGINE LOSS POWER. THE VEHICLE RESTARTED. THE CONTACT MENTIONED THAT THE FAILURE RECURRED ON SEVERAL OCCASIONS. THE CONTACT REFERENCED NHTSA CAMPAIGN NUMBER: 07V139000 (POWER TRAIN). THE VEHICLE WAS TAKEN TO A DEALER. THE TECHNICIAN DIAGNOSED THAT THE EXHAUST SENSOR NEEDED TO BE REPLACED. THE MANUFACTURER WAS NOTIFIED OF THE FAILURE. THE APPROXIMATE FAILURE MILEAGE WAS UNKNOWN.",
+        "vin": "1FTWW31R78E"
+    },
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "10/02/2014",
+        "dateOfIncident": "01/23/2013",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10640830,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CAM POSITION SENSOR FAILURE, VEHICLE WILL NOT START, FOUND COOLANT IN OIL ON REPAIR.  *TR",
+        "vin": "1FDWF37P44E"
+    },
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "10/02/2014",
+        "dateOfIncident": "05/07/2013",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10640833,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CRACKED HEAD, RESULTING IN COOLANT IN ENGINE OIL, HARD STARTING OR FAILURE TO START.  *TR",
+        "vin": "1FDWF37P44E"
+    },
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "10/02/2014",
+        "dateOfIncident": "03/03/2014",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10640835,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE HARD STARTING CAUSED BY FAILURE OF HIGH PRESSURE OIL PUMP, REPLACED ICP REGULATOR, REPLACED EGR VALVE AND INTAKE GASKETS.  *TR",
+        "vin": "1FDWF37P44E"
+    },
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "10/02/2014",
+        "dateOfIncident": "04/28/2014",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10640854,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CHECK ENGINE LIGHT/NO POWER/HARD STARTING- REPLACED EXHAUST BACK PRESSURE SENSOR- VEHICLE FAILURE OF AMBULANCE RESPONDING TO A CALL.  *TR",
+        "vin": "1FDWF37P44E"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "10/02/2014",
+        "dateOfIncident": "06/10/2014",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10640857,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SHORTLY AFTER STARTING FROM A STOP THE VEHICLE LOST POWER AND HAD TO BE TOWED TO REPAIR SHOP.  PROBLEM DIAGNOSED AND REPAIRED AS REPLACING THE PCM AND REFLASH OF THE ONBOARD COMPUTER.  *TR",
+        "vin": "1FDWF37P44E"
+    },
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "10/02/2014",
+        "dateOfIncident": "05/05/2014",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10640860,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING VEHICLE HAS INTERMITTENT LOSS OF POWER, DIAGNOSED AND SERVICED EGR VALVE, REPLACED EGR THROTTLE VALVE AND SEALED THE BOOST INLET TUBE.  *TR",
+        "vin": "1FDWF37P44E"
+    },
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "10/02/2014",
+        "dateOfIncident": "08/28/2014",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10640863,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE WILL NOT START, CRANKS BUT DOES NOT START.  DIAGNOSED AND REPLACED CAM POSITION SENSOR.  *TR",
+        "vin": "1FDWF37P44E"
+    },
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "09/16/2014",
+        "dateOfIncident": "09/11/2014",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10633562,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2004 FORD F-350. THE CONTACT STATED THAT WHILE DRIVING AT APPROXIMATELY 5 MPH, THE ENGINE STALLED AND WAS ABLE TO RESTART. THE FAILURE OCCURRED ON FOUR OCCASIONS. THE VEHICLE WAS TAKEN TO THE DEALER WHERE IT WAS DIAGNOSED THAT THE FUEL PRESSURE SENSOR NEEDED TO BE REPLACED. THE VEHICLE WAS REPAIRED. THE MANUFACTURER WAS NOTIFIED OF THE FAILURE. THE APPROXIMATE FAILURE MILEAGE WAS 116,000.",
+        "vin": "1FTSX31PX4E"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "07/22/2014",
+        "dateOfIncident": "06/13/2014",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10615244,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2004 FORD F-350. THE CONTACT STATED THAT WHILE AT A STOP, THE VEHICLE SURGED FORWARD. THE CONTACT ALSO STATED EXCESSIVE FORCE WAS APPLIED TO THE BRAKE PEDAL WHEN MAKING A STOP. IN ADDITION, THE VEHICLE STALLED ON MULTIPLE OCCASIONS. THE VEHICLE WAS ABLE TO RESTART. THE VEHICLE WAS TAKEN TO AN AUTHORIZED DEALER, WHO DIAGNOSED THAT AN OIL CHANGE AND THE ICP SENSOR NEEDED TO BE REPLACED. THE VEHICLE WAS REPAIRED BUT THE FAILURE RECURRED. THE MANUFACTURER WAS NOTIFIED OF THE FAILURE AND STATED THAT THE VEHICLE WAS NOT INCLUDED IN NHTSA CAMPAIGN ID NUMBER: 05V270000 (ELECTRICAL SYSTEM). THE APPROXIMATE FAILURE MILEAGE WAS 18,000.    UPDATED 9/12/14*CN   UPDATED 1/27/15   *JS",
+        "vin": "1FTWX33P74E"
+    },
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "06/16/2014",
+        "dateOfIncident": "06/09/2014",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10598607,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2004 FORD F-350. THE CONTACT STATED WHILE DRIVING VARIOUS SPEEDS THE VEHICLE WOULD SUDDENLY HESITATE AND THE SPEED WOULD DECELERATE. THE VEHICLE WAS TAKEN TO THE DEALER WHO DIAGNOSED THAT THE INJECTOR CONTROL PRESSURE SENSOR WAS FAULTY. THE VEHICLE WAS NOT REPAIRED. THE MANUFACTURER WAS NOTIFIED OF THE FAILURE. THE FAILURE MILEAGE WAS 100,000.",
+        "vin": "1FTSX31P04E"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM,EXTERIOR LIGHTING",
+        "crash": false,
+        "dateComplaintFiled": "03/31/2014",
+        "dateOfIncident": "06/24/2011",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10575937,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2004 FORD F-350. THE CONTACT STATED THAT THE VEHICLE FAILED TO START. THE CONTACT TOOK THE VEHICLE TO THE DEALER, WHO STATED THAT THE COMPUTER MODULE WOULD NEED TO BE REPLACED. THE VEHICLE WAS REPAIRED HOWEVER, THE FAILURE RECURRED THE FOLLOWING DAY AND THE VEHICLE WAS TAKEN BACK TO THE DEALER WHERE THE COMPUTER MODULE WAS REPLACED A SECOND TIME BUT TO NO AVAIL. THE DEALER THEN REPLACED THE FUSE BOX AS BUT THE REPAIR DID NOT PREVENT THE FAILURE FROM RECURRING. ADDITIONALLY, THE TURN SIGNALS, DAYTIME RUNNING LIGHTS AND THE TAIL LIGHTS HAD BECOME INOPERABLE.  THE CONTACT CALLED THE MANUFACTURE IN REGARD TO NHTSA CAMPAIGN ID NUMBER: 11V352000 (EXTERIOR LIGHTING) AND WAS ADVISED THAT THE VEHICLE WAS NOT INCLUDED IN THE RECALL. THE VEHICLE WAS NOT REPAIRED. THE MANUFACTURER WAS MADE AWARE OF THE FAILURES. THE FAILURE MILEAGE WAS 140,000.",
+        "vin": "1FTSW31P34E"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "12/20/2013",
+        "dateOfIncident": "12/20/2013",
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10556774,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FOR UNKNOWN REASONS ON 12/20/13 AT 0030 HRS MY TRUCK CAUGHT ON FIRE AS IT SAT IN MY DRIVEWAY.  I DROVE THE TRUCK LAST ON 12/14/13.  THE FIRE STARTED IN THE ENGINE COMPARTMENT ON THE DRIVERS SIDE. I HAVE OWNED THE TRUCK FOR ABOUT 8 MONTHS AND IT HAD 105000 MILES ON IT WHEN I PURCHASED IT.  THE FIRE DEPARTMENT ADVISED IT COULD BE DUE TO SOME TYPE OF ELECTRICAL ISSUE NEAR THE MASTER CYLINDER.  I TOLD THEM THAT I HAVE NOT DONE ANY WORK UNDER THE HOOD IN MONTHS AND THAT WAS OIL/FILTER CHANGE. STILL UNDER INVESTIGATION.   *TR",
+        "vin": "1FTSW31P04E"
+    },
+    {
+        "components": "STEERING,STRUCTURE,WHEELS",
+        "crash": true,
+        "dateComplaintFiled": "12/19/2013",
+        "dateOfIncident": "12/13/2013",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10556634,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE TRAVELING THROUGH TN, TOWING A TRAILER, THE FRONT DRIVER'S SIDE TIRE DELAMINATED AND BLEW. THIS CAUSED THE VEHICLE TO VEER ACROSS THE MERIDIAN AND ALMOST INTO ON-COMING TRAFFIC. THE DAMAGES INCLUDE THE RIM, FENDER, WHEEL WELL, FRONT BUMPER AND FAIRING. THIS IS A ESTIMATE, THE VEHICLE GOES INTO THE SHOP TOMORROW TO BE EVALUATED BY A MECHANIC AND RECEIVE REPAIRS.    THIS IS A SIMILAR INCIDENT THAT OCCURRED IN MAY OF 2011, WHILE HAULING A 5TH WHEEL CAMPER TO AR, THE PASSENGER FRONT TIRE DELAMINATED WITHIN 3 HOURS OF STATING THE TRIP. THE TIRE DID NOT BLOW AND I WAS ABLE TO MAINTAIN CONTROL OF THE VEHICLE.    IT GOES WITHOUT SAYING THAT I WILL RESEARCH REPLACEMENT TIRES AND REMOVE THE OTHER 5 TIRES (DUALLY + SPARE). AS A SAFETY SPECIALIST/INVESTIGATOR, I ORIGINALLY THOUGHT THAT I HAD RECEIVED \"RETREAD\" TIRES ON MY VEHICLE WHEN I PURCHASED IT. AFTER READING THIS SECTION I SEE/FEEL THAT THIS IS MORE A CASE OF POOR DESIGN/WORKMANSHIP.  *TR",
+        "vin": "1FTWW33PX4E"
+    },
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "07/10/2013",
+        "dateOfIncident": "07/04/2013",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10524196,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2004 FORD F-350. THE CONTACT STATED THAT THE VEHICLE STALLED WITHOUT WARNING WHILE DRIVING 65 MPH. THE VEHICLE WAS TOWED TO THE CONTACT'S RESIDENCE WHERE AN INDEPENDENT MECHANIC PERFORMED A DIAGNOSTIC. THE FAILURE WAS LOCATED AT THE FUEL INJECTION PRESSURE SENSOR. THE MANUFACTURER WAS CONTACTED AND ADVISED THAT THE VIN WAS NOT INCLUDED IN NHTSA CAMPAIGN NUMBER 05V270000 (ELECTRICAL SYSTEM). THE VEHICLE WAS NOT REPAIRED.  THE APPROXIMATE FAILURE AND CURRENT MILEAGE WAS 85,000.",
+        "vin": "1FTSX31P64E"
+    },
+    {
+        "components": "FUEL SYSTEM, DIESEL",
+        "crash": false,
+        "dateComplaintFiled": "06/05/2013",
+        "dateOfIncident": "05/15/2013",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10515213,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2004 FORD F350. THE CONTACT STATED THAT WHILE DRIVING 55 MPH, THE VEHICLE STALLED WITHOUT WARNING. THE VEHICLE WAS TOWED TO AN INDEPENDENT MECHANIC FOR DIAGNOSIS WHERE IT WAS STATED THAT THE FUEL INJECTION CONTROL MODULE NEEDED TO BE REPLACED. THE VEHICLE WAS NOT REPAIRED. THE APPROXIMATE FAILURE MILEAGE WAS 74,000.  *TR",
+        "vin": "1FTWW33P94E"
+    },
+    {
+        "components": "FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "03/14/2013",
+        "dateOfIncident": "08/25/2012",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10503022,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2004 FORD F-350. THE CONTACT STATED THAT WHILE DRIVING APPROXIMATELY 35 MPH, THE ENGINE REDUCED POWER WITHOUT WARNING. THE VEHICLE WAS TAKEN TO THE DEALER FOR DIAGNOSIS. THE TECHNICIAN STATED THAT THE FUEL INJECTORS WOULD HAVE TO BE REPLACED. THE VEHICLE WAS REPAIRED HOWEVER, THE FAILURE RECURRED. THE VEHICLE WAS NOT FURTHER REPAIRED. THE APPROXIMATE FAILURE MILEAGE WAS 235,000.",
+        "vin": "1FTWW33P44E"
+    },
+    {
+        "components": "STEERING,FUEL SYSTEM, DIESEL,SERVICE BRAKES,FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "02/17/2013",
+        "dateOfIncident": "01/09/2012",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10498450,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENGINE BEGAN BUCKING, SUDDEN POWER LOSS AND POWER STEERING AND POWER BRAKE LOSS.  MECHANIC CONCLUSION WAS THAT THE LINING OF THE FUEL TANK HAD DISLODGED AND CAUSED THE ENGINE TO FOUL, CAUSING A SUDDEN POWER LOSS.  DEALER SAID THEY HAD NEVER HEARD OF THE PROBLEM BUT WE LATER LEARNED THEY WERE VERY FAMILIAR WITH IT, HAD DONE DOZENS OF REPAIRS (REPLACEMENT OF TANK WITH POLY TANK) AND THAT A \"SECRET\" REPAIR BULLETIN HAD BEEN ISSUED TY FORD TO ALL DEALERS.  THIS ISSUE IS NOW THE SUBJECT OF A CLASS ACTION LAWSUIT IN NEW JERSEY.  GOOGLE \"FORD FUEL TANK LINING\" FOR MORE INFO ON THE SUIT, BUT BY NOT ISSUING A RECALL THIS ISSUE IS A POTENTIAL SAFETY CONCERN.  HAD WE BEEN IN HEAVIER TRAFFIC AND UNABLE TO GET THE VEHICLE TO THE SIDE OF THE ROAD THERE MAY HAVE BEEN A SERIOUS ACCIDENT.  *TR",
+        "vin": "1FDWF36P74E"
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "09/10/2012",
+        "dateOfIncident": "09/10/2012",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10474531,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE FRONT END AUTO HUB DID NOT DISCONNECT FROM 4 WHEEL DRIVE. THE POSITION SWITCH WAS AT 2 WHEEL DRIVE. THE DASH LIGHT SHOWING 4 WHEEL DRIVE WAS OFF. NOTHING INDICATED THE VACUUM SYSTEM HAD FAILED TO CORRECTLY POSITION THE AUTO HUB. THE FRONT HUB GEARING WAS DESTROYED. NOISE AND FUNNY STEERING.     AN INTERNET SEARCH INDICATED THIS IS A COMMON FORD PROBLEM AND HAS BEEN FOR YEARS. IT SEEMS THIS PROBLEM COULD BE AVOIDED IF THE 4 WHEEL DRIVE INDICATION SHOWED WHEN THE 4 WHEEL DRIVE WAS ENGAGED SO THE OPERATOR COULD TAKE ACTION RATHER THAN DRIVE TO AUTO HUB FAILURE.  *TR",
+        "vin": "1FTSW31P04E"
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/11/2012",
+        "dateOfIncident": "06/09/2012",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10461187,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "MICKEY THOMPSON",
+                "productMake": "MICKEY THOMPSON",
+                "productModel": "BAJA MTZ",
+                "productYear": "9999",
+                "size": "LT265/75R16",
+                "type": "Tire"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2004 FORD F-350 SD EQUIPPED WITH MICKEY THOMPSON BAJA MTZ TIRES, SIZE 395/75/16. THE CONTACT WAS DRIVING 40 MPH WHEN THE REAR PASSENGER TIRE EXPLODED.  THE CONTACT STATED THAT THERE WERE SEVERAL NARROW CUTS ON THE INSIDE SIDEWALL OF THE TIRE. THE CUTS WERE ALSO PRESENT ON THE FRONT AND REAR DRIVER'S SIDE TIRES. THE CONTACT HAD NOT TAKEN THE VEHICLE TO A MECHANIC OR THE DEALER FOR INSPECTION OR REPAIR. THE VIN WAS UNAVAILABLE.  THE APPROXIMATE CURRENT AND FAILURE MILEAGES WERE 80,000.",
+        "vin": ""
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "03/22/2012",
+        "dateOfIncident": "01/05/2011",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10452685,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2004 FORD F-350. THE CONTACT STATED THAT COOLANT WAS OBSERVED LEAKING FROM THE VEHICLE. THE VEHICLE WAS TAKEN TO THE DEALER  WHERE THE DEALER CONFIRMED THAT THE HEAD GASKET NEEDED TO BE REPLACED. THE MANUFACTURER WAS MADE AWARE OF THE FAILURE. THE VEHICLE WAS NOT REPAIRED. THE FAILURE MILEAGE WAS 60,000 AND THE CURRENT MILEAGE IS 73,047.  ..UPDATED 04/19/12 *BF   UPDATED 04/25/12*JB",
+        "vin": "1FDWF36P34E"
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "03/12/2012",
+        "dateOfIncident": "10/18/2011",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10451240,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Nitto Tire U.S.A. Inc.",
+                "productMake": "NITTO",
+                "productModel": "NITTO",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "TL*  THE CONTACT OWNS A SET OF NITTO MUD GRAPPLER TIRES, SIZE 35/14/16, THAT WERE EQUIPPED ON A 2004 FORD F-350. WHILE TRAVELING 40 MPH, THE CONTACT NOTICED THAT THE FRONT DRIVER SIDE TIRE HAD A SUDDEN BLOWOUT. AFTER EXAMINING THE TIRE THE CONTACT NOTICED THAT THE TIRE WAS SPLIT IN SEVERAL AREAS. THE TIRES WERE NOT DIAGNOSED FOR THE FAILURE. THE CURRENT AND THE FAILURE MILEAGES WERE 14,000. THE VIN WAS NOT AVAILABLE.  UPDATED 04/18/12 *BF...UPDATED 05/09/12 *BF  THE CONSUMER STATED ALL OF THE TIRES HAD CRACKS ON THE INSIDE OF THE SIDE WALLS.   UPDATED 01/09/13*LJ UPDATED 01/22/2013 *JS",
+        "vin": ""
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "02/03/2012",
+        "dateOfIncident": "01/30/2012",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10446359,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2004 FORD F-350. THE CONTACT STATED THAT THE VEHICLE ENGINE FAILED. THE ENGINE BLOCK WAS CORRODED DUE TO DEFECTIVE MATERIAL AND LEAKED CAUSED COOLANT TO LEAK. THE VEHICLE WAS TAKEN TO THE DEALER WHO ADVISED THE CONTACT THAT THE ENGINE WOULD NEED TO BE REPLACED. THE MANUFACTURER DENIED ASSISTANCE WITH THE REPAIRS, STATING THAT THE WARRANTY WAS EXPIRED. THE VEHICLE WAS NOT REPAIRED. THE FAILURE AND THE CURRENT MILEAGE WAS 26,000.",
+        "vin": "1FDWF37P34E"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING,FUEL SYSTEM, GASOLINE,ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "01/26/2012",
+        "dateOfIncident": "11/04/2010",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10445520,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "MY 2004 FORD F-350 6.0 DIESEL. HESITATE OR SURGES WHILE DRIVING, AND/OR THE ENGINE MAY STALL WHILE DRIVING AT ALL SPEEDS INCLUDING HIGHWAY SPEED, WILL LOSE POWER STEERING AND BRAKES AND WHEN AT A STOP IT WILL LUNGE FORWARD. THE ENGINE MAY OR MAY NOT RESTART AFTER STALL.  I FEEL THAT THIS IS A GREAT SAFETY CONCERN I HAVE ALMOST LOST CONTROL OF MY VEHICLE ON A FEW OCCASIONS WHILE TOWING MY BOAT AND GOING AROUND CORNERS.  I HAVE HEARD OF OTHER PEOPLE HAVING THE SAME PROBLEMS WITH THEIR 2004 6.0 DIESELS. PLEASE HELP!  *TR",
+        "vin": "1FTSW31P74E"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "10/24/2011",
+        "dateOfIncident": "07/01/2011",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10432555,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2004 FORD F-350. THE CONTACT STATED THAT WHILE DRIVING 45 MPH, THE VEHICLE DECELERATED TO APPROXIMATELY 5 MPH AND THE LIMP HOME MODE MESSAGE APPEARED ON THE INSTRUMENT PANEL. THE VEHICLE WAS SAFELY DRIVEN TO AN AUTHORIZED DEALER, WHERE THE CONTACT WAS INFORMED THAT THE EGR AND OIL COOLERS NEEDED TO BE REPLACED. THE CONTACT WAS ALSO INFORMED THAT THE FAILURE WAS COMMON. THE VEHICLE WAS NOT REPAIRED. THE MANUFACTURER WAS MADE AWARE OF THE FAILURE, BUT OFFERED NO ASSISTANCE. THE FAILURE MILEAGE WAS 72,000.",
+        "vin": "1FTSW31P14E"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "10/19/2011",
+        "dateOfIncident": "10/15/2011",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10430818,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "LOSS OF COOLANT, WHITE SMOKE EXITING OUT OF EXHAUST. ENGINE OVER HEATING. CAN LEAD TO BLOWN HEAD GASKETS.  *TR",
+        "vin": ""
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "10/18/2011",
+        "dateOfIncident": "08/10/2011",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10430638,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2004 FORD F-350. THE CONTACT STATED THE CHECK ENGINE LIGHT ILLUMINATED ON THE INSTRUMENT PANEL AND THE VEHICLE BEGAN TO FUNCTION WITH DIFFICULTY. THE VEHICLE WAS TAKEN TO THE DEALER AND THE GRV VALVE, OIL COOLER AND THE TURBO HAD TO BE DISASSEMBLED AND REBUILT. THE DEALER STATED THE HOSES WERE TOO SMALL TO CONTROL THE OIL FLOW AND THAT WAS WHY IT HAD TO BE REBUILT. THE DEALER STATED THE VEHICLE WAS DESIGNED BY MANUFACTURER IN THAT WAY. THE VIN WAS NOT AVAILABLE. THE FAILURE MILEAGE WAS 80,000 AND THE CURRENT MILEAGE WAS 85,000.",
+        "vin": "1FTSA31P64E"
+    },
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "08/17/2011",
+        "dateOfIncident": "07/25/2011",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10419858,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A  2004 FORD F-350. THE CONTACT WAS DRIVING 50 MPH WHEN THE VEHICLE INDEPENDENTLY DECREASED IN SPEED. THE VEHICLE WAS TAKEN TO THE DEALER. THE FAILURE DIAGNOSIS WAS THAT THE PINTLE FROM THE FUEL INJECTOR HAD BROKEN. THE VEHICLE WAS REPAIRED, AND THE MANUFACTURER WAS CONTACTED. THE FAILURE MILEAGE WAS 74,881 AND THE CURRENT MILEAGE WAS 74,950.",
+        "vin": "1FTWX32P44E"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "05/19/2011",
+        "dateOfIncident": "07/01/2007",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10402042,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "OWN A 2004 FORD F-350 SD.  FOR YEARS HAVE HAD SURGING PROBLEMS WHEN DRIVING.  HAVE TAKEN INTO SHOP AND THEY CANNOT DETERMINE REASON.  IT HAPPENS WHILE STOPPED OR DRIVING, SURGING AND TRYING TO JUMP BECAUSE OF THE SURGE.  TURBO CHARGER HAS NOT BEEN REPLACED.  *TR",
+        "vin": "1FTSW31P14E"
+    },
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "03/31/2011",
+        "dateOfIncident": "03/29/2011",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10393840,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SINCE NEW MY 2004 F 350 HAS HAD A BOUNCING ISSUE @ 38 TO 45 MPH REGUARDLESS OF ACCLERATION OR DECELLERATION ITS THERE NOW ITS BAD ENOUGH IT WILL SPILL DRINKS THAT ARE IN THE CUP HOLDER. HAVE WENT THROUGH NUMEROUS SETS/BRANDS OF TIRES INSTALLED NEW SHOCKS HAVE TRIED VARIOUS TIRE PRESSURE COMBOS. HAVE TAKEN IT BACK TO THE DEALERSHIP AND HAVE BEEN TOLD BY TO DIFFERENT DEALERS THAT ITS HOW THAT TRUCK RIDES??? IT DOES THE BOUNCING WETHER ITS EMPTY OR WHEN I HAVE 10,000 LBS IN TOW.  *TR",
+        "vin": "1FTWW33P94E"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "02/25/2011",
+        "dateOfIncident": "02/12/2011",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10384491,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2004 FORD F-350. THE CONTACT WAS DRIVING APPROXIMATELY 50 MPH WHEN THE VEHICLE SUDDENLY STALLED WITHOUT WARNING. THE VEHICLE WAS ABLE TO BE RESTARTED AND WAS TAKEN TO THE DEALER. THE VEHICLE WAS DIAGNOSED AS THE FICM WIRING HARNESS NEEDING REPLACEMENT. THE DEALER ADVISED THAT THE FAILURE OF THE FICM WIRING HARNESS CAUSED THE FUEL PUMP AND INJECTOR TO FAIL. THE VEHICLE WAS REPAIRED. THE MANUFACTURED WAS CONTACTED AND OFFERED NO ASSISTANCE. THE FAILURE MILEAGE WAS APPROXIMATELY 98,800.",
+        "vin": "1FDWW37PX4E"
+    },
+    {
+        "components": "FUEL SYSTEM, DIESEL",
+        "crash": false,
+        "dateComplaintFiled": "01/05/2011",
+        "dateOfIncident": "05/20/2010",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10374729,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SUDDEN POWER LOSSES AT HIGHWAY SPEEDS RESULTING IN ENGINE SHUTTING OFF AND NOT BEING ABLE TO BE RESTARTED. *TR",
+        "vin": "1FDWF37P34E"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "10/05/2010",
+        "dateOfIncident": "09/26/2010",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10359292,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 2004 FORD F-350.  UPON ENTERING THE VEHICLE HE APPLIED PRESSURE TO THE BRAKE PEDAL AND IT EXTENDED TO THE FLOOR. HE STEPPED OUT OF THE VEHICLE AND NOTICED BRAKE FLUID LEAKING FROM UNDERNEATH. HE ALSO NOTICED THAT THE BRAKE LINES WERE COMPLETELY COVERED WITH RUST. THE VEHICLE WAS NOT EXAMINED OR REPAIRED. THE FAILURE AND CURRENT MILEAGES WERE 123,000.",
+        "vin": "1FTWX32F9YE"
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "09/23/2010",
+        "dateOfIncident": "09/23/2010",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10357235,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "GENERAL TIRE & RUBBER CO.",
+                "productMake": "GENERAL TIRE",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "GENERAL TIRES - AMERITRAC MTS LT 235/85R16 - ON 9/23/2010 WE WERE DRIVING ON I-75 IN 2004 FORD F-350 SUPER DUTY DUALLY - THE LEFT FRONT TREAT SEPARATED FROM THE TIRE, THE TIRE DIDN'T LOOSE TIRE PRESSURE, BUT IT CAME APART.  IT DAMAGED THE LEFT FRONT  FENDER, FRONT BUMPER, AND DRIVER SIDE DOOR. THESE TIRES  HAD OVER HALF OF THE TREAD REMAINING.  LUCKILY WE WERE ABLE TO KEEP CONTROL OF THE VEHICLE. *TR",
+        "vin": "1FTWW33P24E"
+    },
+    {
+        "components": "TIRES",
+        "crash": true,
+        "dateComplaintFiled": "08/19/2010",
+        "dateOfIncident": "06/13/2009",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10350576,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "GENERAL TIRE & RUBBER CO.",
+                "productMake": "GENERAL",
+                "productModel": "AMERI-TECH",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "ON 6-13-09 I HAD A TIRE EXPLODE ON MY 2004 FORD F350 SUPER DUTY PICKUP TRUCK WHILE DRIVING ON THE NORTHEAST EXTENSION OF THE PA TURNPIKE. WE WERE PULLING A 5TH WHEEL TRAILER LOADED WITH ATV'S AND MY HUSBAND AND I HAD OUR 11 YEAR OLD NIECE AND 12 YEAR OLD NEPHEW WITH US. WE STRUCK A MINIVAN. THE MINIVAN INCURRED DAMAGE TO PASSENGER SIDE REAR QUARTER PANEL. OUR TRUCK INCURRED DAMAGE TO THE DRIVER'S SIDE FRONT QUARTER PANEL, THE DRIVER'S SIDE FRONT DOOR, THE FRONT BUMPER, THE ABS SENSOR, AND THE RUNNING BOARD. THE TIRE WAS SENT TO A FORENSIC LAB AND THE REPORT INDICATES THAT THE GENERAL AMERICTECH TIRE WAS NOT ONLY MANUFACTURED INCORRECTLY BUT WAS ALSO DESIGNED INCORRECTLY.  I HAD TO REPLACE 7 TIRES ON MY TRUCK AS I FELT THE AMERITECH'S WERE NOT SAFE. *TR",
+        "vin": "1FTWW33P24E"
+    },
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "07/16/2010",
+        "dateOfIncident": "06/15/2010",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10343609,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2004 FORD F350. THE CONTACT STATED THE VEHICLE WAS TAKEN TO AN INDEPENDENT REPAIR FACILITY FOR ROUTINE BRAKE MAINTENANCE. THE MECHANIC ADVISED THAT THE REAR BACKING PLATES ON BOTH REAR WHEELS WERE COMPLETELY RUSTED AND WERE AFFECTING THE BRAKE PADS. THE MECHANIC WAS ABLE TO MAKE REPAIRS TO THE BRAKES. THE MANUFACTURER WOULD NOT PROVIDE ANY ASSISTANCE WITH THE CORROSION FAILURE. THE CONTACT STATED THE TRANSMISSION LINES WERE PREVIOUSLY REPLACED, AT HIS EXPENSE, DUE TO CORROSION. IN ADDITION, THE OIL PAN WAS ALSO CORRODED. THERE WERE NO FURTHER REPAIRS. THE FAILURE AND CURRENT MILEAGES WERE 150,000.",
+        "vin": "1FTSX31P14E"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING,FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "03/26/2010",
+        "dateOfIncident": "01/10/2010",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10322358,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2004 FORD F350. THE CONTACT WAS DRIVING AT APPROXIMATELY 40 MPH WHEN THE VEHICLE SUDDENLY BEGAN TO SHAKE AND JERK FORWARD. THE VEHICLE WAS TAKEN TO A LOCAL MECHANIC WHO INFORMED THE CONTACT THAT THE EGR COOLER AND THREE FUEL INJECTORS WERE THE CAUSE FOR THE FAILURE. THE VEHICLE WAS REPAIRED AT THAT TIME. LATER, THE HIGH OIL PRESSURE PUMP AND OIL COOLER FAILED. THE VEHICLE WAS AWAITING FURTHER REPAIRS AT THE TIME OF THE COMPLAINT. THE CONTACT CALLED THE MANUFACTURER BUT WAS TOLD THAT SHE WOULD HAVE TO ASSUME ALL REPAIR COSTS AT HER EXPENSE. THE FAILURE MILEAGE APPROXIMATELY WAS 121,000. THE CURRENT MILEAGE WAS APPROXIMATELY 130,000.",
+        "vin": "1FTSW31PX4E"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING,ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "02/25/2010",
+        "dateOfIncident": "06/15/2004",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10314198,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SINCE NEW VEHICLE PURCHASE, MY FORD F350 DIESEL P/U EXPERIENCED ENGINE SURGING (200-250 RPM) WHILE STOPPED WITH THE AUTOMATIC TRANSMISSION IN DRIVE.  THE SURGE WAS SIGNIFICANT ENOUGH TO LURCH THE TRUCK FORWARD WITH THE BRAKE APPLIED, SUCH AS AT A STOPLIGHT.  IN SEVERAL CASES, I ALMOST REAR ENDED OTHER VEHICLES BEFORE APPLYING THE BRAKE HARD ENOUGH TO STOP THE TRUCK FROM MOVING FORWARD. I LATER LEARNED TO ANTICIPATE THE SURGE USING THE BRAKES TO MINIMIZE MOVEMENT OF THE TRUCK WHILE STOPPED.  MY SURGING PROBLEM WAS CONFIRMED ON MULTIPLE OCCASIONS BY TECHNICIANS DURING TEST RIDES, BUT THEY COULD NOT DUPLICATE THE PROBLEM IN THE SHOP. IN ALL CASES, THE FIRST STEP WAS TO REFLASH THE ECM WHICH MASKED THE PROBLEM FOR SEVERAL DAYS WHILE THE TRUCK RELEARNED MY DRIVING HABITS AND PREVENTED A DIAGNOSIS.  THE ENGINE HAD TO BE  OPERATED AT FULL TEMPERATURE IN ROAD CONDITIONS BEFORE THE PROBLEM DEVELOPED.  IN THE SHOP, IDLING THE ENGINE TO WARM UP TO NORMAL OPERATING TEMPERATURE WAS NOT SUFFICIENT TO REPLICATE THE PROBLEM.  FORD DEALERS MADE MULTIPLE ATTEMPTS (10 OR MORE) TO DIAGNOSE THE PROBLEM: REPLACING INJECTOR CONTROL PRESSURE (ICP) MODULE, EGR VALVE, AND ICP WIRING CONNECTORS TO NO AVAIL.  THE PROBLEM WAS FINALLY DIAGNOSED AND CORRECTED, OUT OF WARRANTY AT APPROX. 44,500 MILES, BY REPLACING THE ENGINE WIRING HARNESS. I FOUND A DEALER WHO WAS WILLING TO SEND A TECHNICIAN ON A TEST RIDE WITH ME AND HOOK UP AN ONBOARD COMPUTER LAPTOP THAT IDENTIFIED THE PROBLEM BEFORE REFLASHING THE COMPUTER ECM.  A NUMBER OF SURGING COMPLAINTS FROM OTHER OWNERS OF FORD F350 ARE POSTED IN ONLINE FORUMS DOCUMENTING SIMILAR CIRCUMSTANCES AND FRUSTRATION. THE INCIDENT DATE PROVIDED IS THE APPROXIMATE DATE OF THE FIRST OCCURRENCE.  IN MY CASE, THE SURGING OCCURRED ON A NEAR DAILY BASIS, ALTHOUGH INTERMITTENTLY, FOR 41000 MILES OF DRIVING WITHOUT ANY RESOLUTION FROM FORD. THE ENGINE WIRING HARNESS WAS REPLACED IN FEB 2009 WHICH CORRECTED THE SURGING IN MY TRUCK. I PAID A $100 DEDUCTIBLE. *TR",
+        "vin": "1FTSW31P44E"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "01/15/2010",
+        "dateOfIncident": "06/01/2009",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10299874,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2004 F350 DIESEL 6.0 ,EGR COOLER WENT OUT. I WAS IN THE MIDDLE OF THE HWY WHEN THIS OCCURED. CLOUDS OF SMOKE WENT OUT THE TAILPIPE, ENGINE OVERHEATING STRANDING ME IN THE CENTER LANE STOPPED BEFORE I COULD GET OVER TO THE SHOULDER. PASSERBY'S HELP ME PUSH MY TRUCK OFF A BUSY HWY. SMOKE WAS SO THICK I COULDNT NOR COULD OTHER DRIVERS SEE AROUND ME. FORD HAS HAD NUMEROUS COMPLAINTS ON THIS ENGINE AND PART,BUT HAVE FAILED TO RESPOND,OR THEY WAITING FOR A DEATH TO OCCUR. THE INTERNET IS FULL OF COMPLAINTS FOR THE EXACT SAME THING. LETTERS TO FORD MOTOR CO. AND MY LOCAL DEALER LEIF JOHNSON FORD WERE UNSUCCESSFUL. I'M NOT ABLE TO PAY THE ALMOST $3000 THE DEALER WANTS TO FIX THE PROBLEM. THIS IS AN OBVIOUS DEFECT ON FORD'S PART. VERY FUSTRATED AS I HAVE A EXPENSIVE TRUCK JUST PARKED FOR SEVERAL MONTHS IN MY DRIVEWAY. UPDATED 2/17/10 *CN  UPDATED 02/22/10",
+        "vin": "1FTWW33P64E"
+    },
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "09/10/2009",
+        "dateOfIncident": "08/22/2009",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10283570,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL*- THE CONTACT OWNS A 2004 FORD F-350. THE CONTACT STATED THAT INTERMITTENTLY WHILE DRIVING, THE VEHICLE WOULD STALL FOR 2-3 MINUTES, FOLLOWED BY A CLOUD OF SMOKE COMING OUT OF THE EXHAUST PIPE. ENGINE FAILURE WHILE DRIVING INCREASES THE RISK FOR VEHICLE CRASH. THE VEHICLE WAS TAKEN TO THE DEALERSHIP, IN WHICH A TECHNICIAN CONCLUDED THAT THERE WAS WATER CORROSION IN THE FUEL LINE. NO REPAIRS HAVE BEEN MADE.THE CURRENT AND FAILURE MILEAGES WERE 94000.",
+        "vin": "1FDSF34P24E"
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/10/2009",
+        "dateOfIncident": "07/22/2007",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10273323,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "GENERAL TIRE & RUBBER CO.",
+                "productMake": "GENERAL",
+                "productModel": "87516",
+                "productYear": "9999",
+                "size": "P235/85R16",
+                "type": "Tire"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 2004 FORD F350 CREW CAB DIESEL.  THE VEHICLE HAS 6 GENERAL 87516 TIRES, SIZE, P235/85R16.  WHILE DRIVING 65 MPH, THE TREAD SHREDDED OFF THE TIRES AND DESTROYED THE FENDERS.  THE FIRST FENDER COST $1,100 TO REPAIR.  THE FAILURE OCCURRED A SECOND TIME ON JUNE 3, 2009.  THE TIRES DID NOT LOSE AIR DURING EITHER FAILURE.  THE CURRENT TIRE MILEAGE WAS 41,000.  THE FAILURE MILEAGE WAS 42,500.   UPDATED 07/08/09.  *LJ  UPDATED 07/08/09.*JB",
+        "vin": "1FTWW32P94E"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "05/17/2009",
+        "dateOfIncident": "02/01/2009",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10268988,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2004 F350 6.0 POWERSTROKE BOGGS WHEN TAKING OFF. SOMETIMES WILL ACT LIKE YOU TURNED OFF SWITCH WHEN YOU PUSH DOWN THE PEDAL THERE IS NO EFFECT. MOSTLY WHEN DRIVING UP THE MOUNTAIN ITS LIKE IT DON'T GO PAST IDLE HAS NOT STALLED YET. 8 INJECTORS REPLACED FRONT AND REAR INJECTOR HARNESS REPLACED HIGH PRESSURE PUMP FUEL MILEAGE 13 MPG. HEAD GASKETS REPLACED EGR COOLER REAR MAIN SEAL ALL UNDER 65,000 MILES. *TR",
+        "vin": ""
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "05/07/2009",
+        "dateOfIncident": "04/25/2009",
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10267957,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 2004 FORD F350.  THE CONTACT STATED THAT SMOKE APPEARED FROM THE EGR COOLER TUBE.  SHE ALSO SMELLED ANTIFREEZE IN THE CAB OF THE VEHICLE.  THE VEHICLE WAS TAKEN TO THE DEALER AND THEY STATED THAT IT WAS STILL SAFE TO DRIVE AND TO RETURN IF THE FAILURE WORSENED.  LATER, THE CONTACT NOTICED THICK, BLACK OIL COMING FROM THE EXHAUST.  THE VEHICLE WAS TAKEN TO A REPAIR SHOP AND THE MECHANIC REPLACED THE EGR COOLER TUBE WITH A KIT FROM FORD AT THE CONTACT'S EXPENSE.   THE FAILURE MILEAGE WAS 79,000.  UPDATED 06/09/09.*JB",
+        "vin": "1FTSW31P64E"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "04/27/2009",
+        "dateOfIncident": "04/25/2005",
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10267003,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 2004 FORD F350. WHILE DRIVING APPROXIMATELY 40 MPH, THE VEHICLE STALLED. THE DEALER REPLACED THE INJECTOR CONTROL WIRING MODULE AND THE OWNER WAS RESPONSIBLE FOR PAYING $2200. AFTER THE REPAIR, THE VEHICLE MISS FIRED, BLACK SMOKE WAS IN THE ENGINE AREA AND THEIR WAS TRODDLE RESISTANCE. THE DEALER CONFIRMED THAT THERE WERE NO EXISTING RECALLS AND THE CONTACT WOULD BE RESPONSIBLE FOR THE COST OF REPAIRS A SECOND TIME.  THE MILEAGE WAS UNKNOWN.",
+        "vin": "1FDWF36P54E"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "04/27/2009",
+        "dateOfIncident": "04/27/2005",
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10267002,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 2004 FORD F350. WHILE DRIVING APPROXIMATELY 40 MPH, THE VEHICLE STALLED. THE DEALER REPLACED THE INJECTOR CONTROL WIRING MODULE AND THE OWNER WAS RESPONSIBLE FOR PAYING $2200. AFTER THE REPAIR, THE VEHICLE MISS FIRED, BLACK SMOKE WAS IN THE ENGINE AREA AND THEIR WAS TRODDLE RESISTANCE. THE DEALER CONFIRMED THAT THERE WERE NO EXISTING RECALLS AND THE CONTACT WOULD BE RESPONSIBLE FOR THE COST OF REPAIRS A SECOND TIME. THE FAILURE MILEAGE WAS 217,000.",
+        "vin": "1FDWF36P64E"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "04/01/2009",
+        "dateOfIncident": "01/01/2009",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10263829,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 2004 FORD F350.  WHILE DRIVING AT HIGHWAY SPEEDS, THE VEHICLE WILL SPONTANEOUSLY DECELERATE FROM 60 MPH TO 15 MPH.  IN ADDITION, THE ENGINE WARNING INDICATOR ILLUMINATED ON THE  INSTRUMENT PANEL.  THE CONTACT TOOK THE VEHICLE TO A LOCAL REPAIR SHOP AND A MECHANIC STATED THAT THERE WAS EXCESSIVE CARBON IN THE ENGINE.  THERE IS CURRENTLY NO REMEDY FOR THE FAILURE.  THE ENGINE SIZE IS 6.0L V8.  THE FAILURE MILEAGE WAS 40,000 AND CURRENT MILEAGE WAS 70,000.  UPDATED 05/05/09  *BF  UPDATED 05/06/09.*JB",
+        "vin": "1FTSX31P84E"
+    },
+    {
+        "components": "FUEL SYSTEM, DIESEL",
+        "crash": false,
+        "dateComplaintFiled": "01/27/2009",
+        "dateOfIncident": "01/10/2009",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10256518,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE GAS TANK FAILED ON MY 2004 FORD TRUCK WITH ONLY 23,000 MILES ON IT CAUSING ENGINE DAMAGE. *TR",
+        "vin": ""
+    },
+    {
+        "components": "FUEL SYSTEM, DIESEL",
+        "crash": false,
+        "dateComplaintFiled": "09/19/2008",
+        "dateOfIncident": "01/09/2008",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10242916,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 2004 FORD F350.  IN JANUARY OF 2008, WHILE DRIVING 40 MPH, THE VEHICLE STALLED.  THE CONTACT PARKED THE VEHICLE AND ATTEMPTED TO RESTART IT, BUT WAS UNSUCCESSFUL.  THE VEHICLE WAS TOWED TO THE DEALER AND THEY STATED THAT THE LINER IN THE FUEL TANK DELAMINATED, CAUSING PLASTIC PIECES TO FLOW THROUGH THE FUEL LINE, PUMP, AND INJECTOR.  THE VEHICLE WAS REPAIRED.  THE VIN WAS UNKNOWN.  THE CURRENT MILEAGE WAS 55,000 AND FAILURE MILEAGE WAS 45,000. UPDATED 11/19/08. *LJ  UPDATED 11/19/08. *JB",
+        "vin": "1FDWF37P84E"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING,FUEL SYSTEM, DIESEL",
+        "crash": false,
+        "dateComplaintFiled": "08/12/2008",
+        "dateOfIncident": "08/01/2008",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10238212,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2004 FORD F350 DUMP TRUCK SHUTS DOWN WITH NO WARNING.  CONSUMER STATES THAT FORD WILL NOT HONOR TRUCK WARRANTY AND WILL NOT REPAIR THE PROBLEM.    *NJ  THE CONSUMER STATED WHEN THE DUMP TRUCK SHUT DOWN, THERE WAS  NO POWER STEERING OR BRAKES. THE DEALER STATED THE PROBLEM WAS WITH THE DIESEL TANK AND DIESEL LINE WHICH HAD ERODED DUE TO CONTAINMENTS IN THE DIESEL GAS, HOWEVER THE PROBLEM RECURRED TWO MORE TIMES. *JB",
+        "vin": ""
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "07/31/2008",
+        "dateOfIncident": "07/06/2008",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10236518,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Cooper Tire & Rubber Co.",
+                "productMake": "COOPER",
+                "productModel": "COOPER DISCOVERER ATR",
+                "productYear": "9999",
+                "size": "265/75R16",
+                "type": "Tire"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 2004 FORD 350 DIESEL.  WHILE DRIVING 60 MPH, THE FRONT PASSENGER TIRE BLEW OUT.  A TOWING SERVICE REPLACED THE TIRE.  THE TIRE SHOP INSPECTED THE TIRES AND NOTICED THAT THE VALVE STEMS ON THE OTHER 3 TIRES WERE DEFECTIVE, HOWEVER HE STATED THAT THE TIRE THAT EXPLODED DID NOT HAVE A DEFECTIVE VALVE STEM.  THE TIRE HAD LESS THAN 10,000 MILES THEY HAD TO PAY $156.000 FOR A NEW TIRE.   UPDATED 09/10/08  *BF  UPDATED 09/19/08. *JB",
+        "vin": "1FTSW31P44E"
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/16/2008",
+        "dateOfIncident": "06/06/2008",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10231113,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "GENERAL TIRE & RUBBER CO.",
+                "productMake": "GENERAL",
+                "productModel": "23585R16",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WE HAVE A FORD F350 4X4 DULLY WITH GENERAL AMERI-TRAC TIRES. WAS TRAVELING ON I-20 INTERSTATE WITH CRUISE SET ON 70. ALL OF A SUDDEN IT STARTED SNOWING RUBBER. THOUGH TIRE NEVER WENT FLAT, IT CAUSED $2,540.00 IN DAMAGE TO THE VEHICLE,AND A VERY SCARED WOMAN WHOSE PRESENCE OF MIND AVERTED A LIFE-THREATENING CALAMITY THE TIRES ARE THE ORIGINAL WITH PLENTY OF TREAD STILL ON THE TIRE. THERE WERE NO INJURIES. LOAD RANGE E LT235/85R16. IS THERE A RECALL ON THESE TIRES? BY OUR INSPECTION, AND OUR CUSTOMARY MAINTENANCE OF THESE TIRES AND VEHICLE, NO CAUSE FOR THIS NEAR CALAMITY EXISTED, EXCEPT THE TIRE ITSELF.  *TR",
+        "vin": "1FTWW33P84E"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "05/13/2008",
+        "dateOfIncident": "10/05/2007",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10227573,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "MY 2004 FORD F-360 TRUCK WOULD \"CUT OUT\" AND TRY TO QUIT RUNNING WHEN SLOWING FOR A STOP SIGN OR RED LIGHT.  THOUGHT IT WAS BAD FUEL, FUEL FILTERS.  HAD RECALLS DONE (GFR).  PROBLEM BEGAN AGAIN AND WHILE MY DAUGHTER WAS PULLING A 16 FT. TRAILER WITH ONE HORSE LOADED, BEGAN TO EMIT WHITE SMOKE FROM THE EXHAUST.  THE TRUCK APPARENTLY OVERHEATED BUT THE TEMPERATURE GAUGE DID NOT INDICATE SUCH.  TRUCK WAS TOWED TO DEALER AND THEY WERE 99% SURE IT WAS GFR AGAIN, BUT IT WAS NOT.  THE PROBLEM IS MUCH BIGGER. APPARENTLY IT WILL COST $5-10,000 FOR REPAIRS.  THE MILEAGE IS 104,000, JUST OUT OF WARRANTY AND I DID NOT PURCHASE ANY EXTENDED WARRANTY.  I THEN HAD THE TRUCK TOWED TO ANOTHER DEALER WHO SAID HE COULD FIX THE TRUCK FOR A LOT LESS.  BUT, HIS ESTIMATE WAS JUST AS COSTLY AS THE FIRST ESTIMATE.  THE TRUCK REMAINS AT THE DEALER AS I REFUSE TO PAY THAT MUCH TO REPAIR.    *TR",
+        "vin": ""
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "04/15/2008",
+        "dateOfIncident": "04/07/2008",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10224590,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I HAVE A 2004 F-350 SUPERDUTY 4X4 [6.0 DIESEL]. I DROVE THROUGH WATER THE DEPTH OF THE STOCK TIRES. THE ENGINE INGESTED WATER BY WAY OF THE INTAKE. I WAS ADVISED BY THE FORD DEALERSHIP THAT THE INCIDENT DESTROYED THE ENGINE. THE AIR INTAKE IS LOCATED AT THE FRONT GRILL. I BELIEVE THIS IS A FLAW IN DESIGN, CAUSING EASY ACCESS FOR THE WATER TO ENTER FROM THE AIR INTAKE. I AM GETTING NO ASSISTANCE FROM THE FORD COMPANY OR MY VEHICLE INSURANCE IN COVERING THE DAMAGE, WHICH IS ESTIMATED AT $ 15,000.00 DOLLARS. I AM NOT SURE IF THIS TYPE OF PROBLEM IS OCCURRING OFTEN.  *TR",
+        "vin": "1FTSW31P14E"
+    },
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "02/25/2008",
+        "dateOfIncident": "02/25/2007",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10219113,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 2004 FORD F350.  WHILE DRIVING 55 MPH, THE FRONT END BEGAN SHAKING BADLY AND THE VEHICLE JUMPED INTO SEVERAL LANES.  THE BODY OF THE VEHICLE WAS VEERING TO THE RIGHT WHILE THE FRONT END VEERED TO THE LEFT.  THE CONTACT WAS ABLE TO BRAKE SLOWLY AND PULLED OVER ON THE SHOULDER.  HE DROVE THE VEHICLE TO THE DEALER AT 25 MPH AND THEY STATED THAT THE STABILIZER BAR AND BRACKET, WHICH WERE CONNECTED TO THE AXLE, FAILED AND SPLIT EIGHT INCHES.  THE MANUFACTURER DECLINED TO FILE A REPORT AND WERE NOT WILLING TO ASSIST.  THE CURRENT AND FAILURE MILEAGES WERE 88,000.",
+        "vin": "1FTWW33PX4E"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "01/07/2008",
+        "dateOfIncident": "01/07/2008",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10214081,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ON 01-06-2008 I STARTED TO HAVE SIGNIFICANT PROBLEMS WITH MY 2004 FORD F-350.  IT HAS JUST OVER 41,000 MILES ON IT.  IT WAS SMOKING AND HAD SIGNIFICANT LOSS OF POWER PROBLEMS WHILE AT LOW ROAD SPEED.  PROBLEM WOULD CLEAR ONCE TRUCK WAS >40 MPH IN SPEED.    TOOK IT TO LOCAL FORD DEALER ON 01-07-2008.  THEIR INVESTIGATION SHOWED THAT THE EGR VALVE WAS STICKING.  THE VALVE ASSEMBLY HAD TO BE REPLACED.  THE SERVICE PERSON STATED THAT THIS PROBLEM IS COMMON ENOUGH THAT THEY ARE KEEPING A COUPLE OF EXTRA EGR VALVE ASSEMBLIES IN THEIR STOCK ROOM.  I ASKED IF THERE WAS ANY INDICATION OF A PRODUCT RECALL IN THE WORKS.  HE SAID THAT HE DID NOT KNOW OF ONE BUT THAT ONE MIGHT HAPPEN IN THE NEAR FUTURE AND THAT I SHOULD KEEP MY INVOICE JUST IN CASE.    MY QUESTION/CONCERN(S) IS THIS:  HOW OFTEN OR FREQUENT SHOULD AN EGR VALVE STICK AND/OR FAIL?  IF THEIR FAILURE RATE IS HIGH (1 FAILURE PER VEHICLE EVERY 50,000 OR LESS) THEN SHOULDN'T THERE BE A REDESIGN AND RECALL TO IMPROVE THE PERFORMANCE AND SAFETY?  *TR",
+        "vin": "1FTWW33P64E"
+    },
+    {
+        "components": "POWER TRAIN,STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "12/27/2007",
+        "dateOfIncident": "11/01/2007",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10212921,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 2004 FORD F-350.  WHILE DRIVING 5 MPH, THE   CLUTCH PEDAL BROKE WHEN DEPRESSED.  THE CONTACT STATED THAT THE VEHICLE WOULD NOT STOP UNTIL HE SHUT OFF THE IGNITION.  THE VEHICLE WAS TOWED TO THE DEALER AND THEY STATED THAT THE BRACKET THAT HELD THE FIRE WALL BROKE.  THE DEALER STATED THAT THE BRACKET WAS MADE OF PLASTIC AND THEY REPLACED THE BRACKET AND CLUTCH PEDAL.  THE FAILURE MILEAGE WAS 63,000 AND CURRENT MILEAGE WAS 65,000. UPDATED 01/29/08.   *LJ  THE CONSUMER STATED IT'S NOT THE BRACKET THAT HOLDS THE FIREWALL BUT BOLTS THE FIREWALL. THE CLUTCH, BRAKE, AND GAS PEDAL ALL PIVOT ON PINS THAT ARE ASSEMBLED TO THIS BRACKET. UPDATED 01/29/08  *TR",
+        "vin": "1FTSX31P44E"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING,FUEL SYSTEM, DIESEL",
+        "crash": false,
+        "dateComplaintFiled": "11/26/2007",
+        "dateOfIncident": "11/05/2007",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10210006,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE TRUCK STALLED IN RUSH HOUR TRAFFIC, JUST BEFORE THE ENTRANCE TO A TUNNEL. THIS COULD HAVE BEEN A VERY SERIOUS SAFETY ISSUE HAD  I NOT BEEN ABLE TO GET OUT OF THE TRAVEL LANES OF THE INTERSTATE.   MANAGED TO CROSS FROM THE RIGHT LANE, ACROSS A MERGE LANE TO THE SHOULDER.  MANAGED TO RESTART ENGINE.  EXCESSIVE SMOKE, RUNNING ROUGH.  STAYED ON SHOULDER UNTIL ENGINE RAN SMOOTH ENOUGH TO GO.  TAKEN TO DEALER.  EGR VALVE REPLACED.  INTAKE MANIFOLD CLEANED.  TURBO CLEANED.  COST $1776.82 TO REPAIR.  SUPPOSEDLY NOT COVERED BY WARRANTY. THIS HAPPENED ON EITHER THE FIRST MONDAY OF NOVEMBER OR THE LAST MONDAY OF OCTOBER, AS WELL AS THE PREVIOUS FRIDAY.  *TR",
+        "vin": "1FTSX31P74E"
+    },
+    {
+        "components": "STEERING",
+        "crash": true,
+        "dateComplaintFiled": "11/04/2007",
+        "dateOfIncident": "03/09/2007",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 3,
+        "odiNumber": 10207887,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ON MARCH 5 2007 I WAS HAVING PROBLEMS STEERING MY TRUCK. I TOOK IT TO AN ALIGNMENT SHOP. THEY TOLD ME TO TAKE IT TO THE FORD DEALERSHIP. FORD SAID THEY REPAIRED THE PROBLEM. 4 DAYS LATER I LOST CONTROL OF THE TRUCK IN A CURVE AND HIT A DUMP TRUCK. THE ALIGNMENT SHOP LATER TOLD ME THAT THE TRUCK HAD A DEFECTIVE STEERING GEARBOX AND THAT FORD SHOULD HAVE FIXED IT.  *JB",
+        "vin": ""
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "10/18/2007",
+        "dateOfIncident": "10/01/2006",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10206205,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 2004 FORD F350.  WHILE AT A STOP LIGHT, THE ENGINE WOULD REV.  DEPENDING ON THE CONTACT'S REACTION TIME, THE VEHICLE WOULD MOVE 4-5 FEET.  THERE WERE NO WARNING INDICATORS.  THE RPM WOULD INCREASE TO 1,000.  THE DEALER REPLACED THE CONTROL MODULE, THREE TURBOS, THREE EGR VALVES, AND THE BACK PRESSURE SENSOR.  HOWEVER, THE FAILURE CONTINUES. THE FAILURE MILEAGE WAS 40,000 AND CURRENT MILEAGE WAS 61,000. UPDATED 01/11/08.  *LJ  UPDATED*JB",
+        "vin": "1FTSW31P14E"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING,FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "05/07/2007",
+        "dateOfIncident": "05/04/2007",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10189939,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE HAD A STALLING PROBLEM ON ACCELLERATION. VEHICLE IDLED FINE, BUT FREQUENTLY ON ACCELERATION FROM A STOP AFTER VEHICLE STARTED  TO ROLL.  ENGINE WILL MISFIRE, SHUTTER, OR BACKFIRE FOR SEVERAL SECONDS UNTIL CLEARING UP. ALSO, VEHICLE  MISFIRED AT HIGHWAY SPEEDS. VEHICLE  WAS TAKEN TO THE DEALER ON SEVERAL OCCATIONS TO FIND THE CAUSE OF THE PROBLEM, BUT THEY REPORTED  COULD  NOT DUPLICATE THE PROBLEM. DEALER  REPLACED SEVERAL INJECTORS AND EGR VALVE TO NO AVAIL.   *AK",
+        "vin": "1FDWX36P14E"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING,VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "03/03/2007",
+        "dateOfIncident": "03/02/2007",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10184125,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE PICKUP TRUCK KEEPS RUNNING VERY ROUGH AND LURCHING FORWARD WHILE IN DRIVE. THE TRUCK HAS ALMOST COMPLETELY DIED ON ME SEVERAL TIMES. EVEN WHEN YOU HAVE YOUR FOOT ON THE BRAKE IT WILL LUNGE FORWARD AND HAS ALMOST CAUSED ME TO HIT THE CAR IN FRONT OF ME. I HAVE TAKEN IT TO THE DEALER 5 OR 6 TIME OVER THE PAST SEVERAL MONTHS. THEY HAVE DONE A UPGRADE ON THE COMPUTER AND REPLACED SEVERAL VALVES/PARTS. EVERY TIME THIS MYSTERY PROBLEM KEEPS COMING BACK. IT SEEMS TO SURFACE AT IT'S WORST WHEN THE TEMPERATURE OUTSIDE GETS WARMER, ABOVE 50 DEGREES. FORD HAS BASICALLY BEEN NO HELP AND SEEMS TO BE STUMPED OVER THE PROBLEM. I HAVE SPENT AT LEAST $500 ON A WARRANTY ITEM THAT HAS NOT BEEN FIXED. AFTER READING OTHER COMPLAINTS, IT SEEMS AS IF I'M NOT THE ONLY ONE WITH THIS PROBLEM. THIS PROBLEM NEEDS TO BE SOLVED BEFORE IT GETS WORSE AND CAUSES ACCIDENTS.  *JB",
+        "vin": "1FTSW31P04E"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "01/03/2007",
+        "dateOfIncident": "06/02/2006",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10177630,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I PURCHASED A NEW 2004 FORD F-350 IN OCTOBER 2004. SINCE THAT TIME, I HAVE HAD THE VEHICLE SERVICED 8 TIMES PRIOR TO 6/2006 FOR THE SAME PROBLEM.  THE VEHICLE HAS NOT BEEN DRIVEN SINCE THAT TIME AS IT CONTINUOUSLY STALLS WITHOUT WARNING AND NEEDS TO BE FIXED AGAIN.  THE VEHICLE DIES FOR NO APPARENT REASON AND WITHOUT WARNING AND THE DEALER HAS NOT BEEN ABLE TO CORRECT THE PROBLEM.  THIS VEHICLE IS UNSAFE AND FORD REFUSES TO BUY BACK THIS VEHICLE AS THEY SHOULD.  *NM",
+        "vin": "1FTSW31P84E"
+    },
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "11/05/2006",
+        "dateOfIncident": "11/02/2006",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 1,
+        "numberOfInjuries": 1,
+        "odiNumber": 10172641,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I BROADSIDED A FORD RANGER THAT RAN A STOP SIGN.  TRAVELING AT 35 TO 45 MPH.  IT WAS A DIRECT HIT AND NEITHER AIR BAG WENT OFF.  MY INSURANCE COMPANY HAS THE TRUCK AND IS LOOKING INTO THE FAILURE.  FT. WORTH POLICE OFFICER SAID  HE HAD SEEN A 1000 WRECKS AND  IF THAT WRECK DID NOT SET THEM OFF THEY MUST BE DEFECTIVE.    *NM",
+        "vin": "1FTSW31P34E"
+    },
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "08/16/2006",
+        "dateOfIncident": "08/16/2006",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10165629,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DT*: THE CONTACT STATED WHILE THE VEHICLE WAS AT AN IDLE OR AT VARIOUS SPEEDS,  ACCELERATION OCCURRED ON ITS OWN.  THE VEHICLE WAS TAKEN TO THE DEALERSHIP TWICE BUT WAS UNABLE TO LOCATE THE PROBLEM WHICH PERSISTED.",
+        "vin": "1FTSW31P34E"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC,ENGINE AND ENGINE COOLING,POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "07/10/2006",
+        "dateOfIncident": "07/03/2006",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10162638,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2004 FORD F350 CREWCAB REAR SEAL HAS BEEN REPLACED THREE TIMES, TURBO UNIT HAS BEEN REPLACED TWICE. *KB ***NAR***  THE REAR ABS SENSOR WAS REPLACED. *JB",
+        "vin": "1FTWW32P04E"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "05/03/2006",
+        "dateOfIncident": "05/02/2006",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10156676,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AT JUST UNDER 25,000 MILES, MY ROTORS WERE WARPED ON MY 2004 F350 DIESEL DUALLY (4X4 8'BED CREW CAB).  I DO HAUL TRAILERS UNDER 8000 LBS OCCASIONALLY BUT  THERE HAS BEEN NO UNDO STRESS ON THIS TRUCK TO WARRANT SUCH A CONDITION SO EARLY.  EVEN THOUGH MY BRAKES WERE \"IN THE GREEN\" AT MY LAST OIL CHANGE AT 20,000 MILES, AFTER MY COMPLAINT THEY SAID MY BRAKES WERE NOW IN THE RED - ALONG WITH MY WARPED ROTORS.  THIS DEFINITELY SEEMS LIKE A DEFECT.  *NM",
+        "vin": "1FTWW33PX4E"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "04/26/2006",
+        "dateOfIncident": "04/17/2006",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10156116,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DT*:  THE CONTACT STATED THE VEHICLE STALLED WHILE DRIVING AT ANY SPEED, FUMES WERE LEAKING INTO THE CAB AND THERE WAS AN OIL LEAK.  THE VEHICLE WAS TAKEN TO THE DEALER FOR INSPECTION AND REPAIRS.  THE DEALER WAS UNABLE TO DETERMINE THE CAUSE OF THE STALLING.  THE FUEL HOSES ON THE TURBO CHARGER WERE REPLACED IN AN ATTEMPT TO REMEDY THE FUMES, BUT THIS DID NOT CORRECT THE PROBLEM.  THE DEALER WAS UNABLE TO OBTAIN THE PARTS FOR REPAIRING THE OIL LEAK.  *AK",
+        "vin": "1FTSW31PX4E"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "04/26/2006",
+        "dateOfIncident": "04/26/2006",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10156134,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DT*: THE CONTACT STATED UPON STARTING THE VEHICLE THE OIL PRESSURE DROPPED AND THE ENGINE DIED.   THE VEHICLE WAS TOWED TO AN INDEPENDENT REPAIR SHOP WHERE IT WAS DETERMINED THE OIL PUMP AND THE LOWER INTAKE MANIFOLD GASKETS FAILED.  THE OIL PUMP IS MADE OF ALUMINUM WHICH INFLUENCED THE INTEGRITY OF THE PUMP, AND CAUSED THE PUMP TO WEAR OUT PREMATURELY.  THE DEALER WAS ALERTED OF THE PROBLEM, PRIOR TO THE INDEPENDENT REPAIR SHOP MAKING THE REPAIR.   UPDATED 5/10/2006 - THE VEHICLE LEAKED COOLANT WHICH CAUSED THE VEHICLE TO OVERHEAT BUT THE TEMP GAUGE DID NOT INDICATE THAT THE VEHICLE WAS OVERHEATING.  THE COOLANT ALSO FLOWED THROUGH THE EGR VALVE WHICH CAUSED LOSE OF POWER.  *NM",
+        "vin": "1FTWW33P34E"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "03/26/2006",
+        "dateOfIncident": "03/30/2004",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10153744,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "AIR BAG SWITCH",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "FORD F-350 POWER STROKE DIESEL 2004 HAS STALLED TWICE WHILE DRIVING DOWN THE ROAD. LOOSE POWER STEER AND BRAKES ON HIGHWAY.  HAVE REPLACED TURBO CHARGER AND WORKED ON FUEL INJECTION SYSTEM. TURBO CHARGER IS NOW MAKING THE SAME NOISE AGAIN. MILEAGE WHEN WORKED ON 2994/4437/18081.  *JB",
+        "vin": "1FTSW31P14E"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC,ENGINE AND ENGINE COOLING,POWER TRAIN,ELECTRICAL SYSTEM,TIRES",
+        "crash": false,
+        "dateComplaintFiled": "03/26/2006",
+        "dateOfIncident": "09/10/2004",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10153745,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN TRUCK ORIGINALLY PURCHASED BUBBLE ON TIRE, AND DEALER SAID THEY ALL COME THAT WAY, TIRE WENT FLAT WHILE PARKED ABOUT A MONTH LATER, NO HOLES, WE WERE TOLD TIRE WAS NO GOOD, HAD TO BE REPLACED. TRUCK KEPT STALLING, LOSS OF BRAKES AND STEERING WHILE NAVIGATING DOWNHILL, SOLENOID ASSEMBLY REPLACED. 2 DAYS LATER KEPT STALLING. DEALER HAD TRUCK 21 DAYS TO REBUILD TRANSMISSION, AGAIN SOLENOID ASSEMBLY REPLACED AFTER THAT REPLACED WIRING HARNESS. SINCE THEN, CALIPER BROKE AND BRAKES WENT, TURBO HAS BEEN REPLACED. VEHICLE HAS REPEATEDLY STALLED, NOISES FROM REAR END WITH NO DX. NOW ENGINE SMOKING, LOSS OF POWER, RPMS JUMP WHILE IDLING. TRUCK HAS ALSO REPEATEDLY CHANGED GEARS AUTOMATICALLY, IE WHILE AT RED LIGHT TRUCK WOULD JUMP TO 3RD AND THEN TRUCK WOULD STALL. *JB",
+        "vin": ""
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING,FUEL SYSTEM, DIESEL",
+        "crash": false,
+        "dateComplaintFiled": "02/28/2006",
+        "dateOfIncident": "02/16/2006",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10151402,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DIESEL SMELL IN THE CAB OF A FORD F350 TRUCK WITH 6.0 ENGINE. THIS IS THE SECOND INSTANCE OF THIS IN THIS TRUCK. BOTH HAVE BEEN COVERED BY WARRANTY, BUT THE FIRST TIME WAS IN MAY OF 05 AND THE SECOND TIME WAS FEB 06 IS THIS GOING TO HAPPEN AGAIN. THE SMELL IS SICKENING AND IF YOU DO NOT OPEN THE WINDOWS EYES WATER,FEEL TIRED, SICK TO STOMACH, ALL NOT GOOD FOR DRIVING DOWN THE ROAD (PEOPLE REALLY LOOK AT YOU LIKE YOU ARE NUTS WHEN ITS 5 DEGREES OUTSIDE AND YOU ARE DRIVING AROUND WITH YOUR WINDOWS OPEN). THIS TIME IT HAS BEEN BLAMED ON THE EXHAUST MANIFOLD, THE FIRST TIME IT WAS WHAT THEY CALLED THE DOWN EXHAUST PIPE. I BELIEVE THAT THERE IS A BIGGER PROBLEM WHICH HAS TO DO WITH THE 6.0 ENGINE. TOO MUCH PRESSURE FOR THE EXHAUST.   THE OTHER PROBLEM IS WITH THE RADIATOR HOSE. I HAVE 46700 MILES ON THE TRUCK AND THE RADIATOR HOSE HAS TO BE REPLACED DUE TO RUBBING ON THE POWER STEERING GEAR BOX, FORD WILL NOT COVER THIS UNDER WARRANTY, EVEN THOUGH THEY HAVE COME UP WITH A NEW HOSE AND NEW PART NUMBER TO STOP THIS FROM HAPPENING. I HAVE NOT BEEN TOLD IF THEY ARE REPLACING THE HOSE WITH THE OLD STYLE OR THE NEW STYLE.  *NM",
+        "vin": "1FTWW33P64E"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING,POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "01/31/2006",
+        "dateOfIncident": "01/23/2006",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10149126,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "LOSS OF PULLING POWER ON MY 2004 FORD 350 SUPER DUTY.  THE TRUCK WILL LOSE POWER TO PULL UNDER EVEN A SMALL LOAD.  WHEN PULLING OUT I HAVE TO HAVE A LARGE AREA OF NO TRAFFIC, HAVE HAD SEVERAL INCIDENTS WHERE I CAME CLOSE TO BEING HIT IN THE SIDE WHEN I HAD A POWER FAILURE AND PULLING ONTO ROADWAY.  I HAVE HAD THE PROBLEM LOOKED AT BY A FORD SERVICE CENTER 11 TIMES AND THEY CAN NOT REPAIR THE PROBLEM AND REFUSE TO REPURCHASE THE TRUCK.  *NM",
+        "vin": "1FDWW37P64E"
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": true,
+        "dateComplaintFiled": "01/10/2006",
+        "dateOfIncident": "01/02/2006",
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 1,
+        "numberOfInjuries": 0,
+        "odiNumber": 10147325,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I RECENTLY ATTENDED A FUNERAL FOR MY NEPHEW IN OMAHA, NE.  HE HAD DIED ON MONDAY, JANUARY 2, 2006 IN BELLEVUE, NE  HE WAS IN A CAR WASH AND (ACCORDING TO SOME WITNESSES), THE FORD F350 SUPER DUTY DIESEL TRUCK (I BELIEVE IT WAS A 2004) SUDDENLY WENT INTO REVERSE AT A HIGH SPEED AND BACKED OUT OF THE CAR WASH, ACROSS A STREET, ACROSS A LAWN AND ONTO A DRIVEWAY WITH A WALL. THE TRUCK WAS AGAINST THE WALL AND THE TIRES WERE STILL TURNING AND THE TIRES FINALLY BLEW AND CAUSED A FIRE THAT CONSUMED MY NEPHEW. I HAVE HEARD THAT THE AUTOPSY REPORT SAID THAT HE DIED OF SMOKE INHALATION. HE WAS BADLY BURNED.  I DON'T KNOW THE CAUSE OF THE ACCIDENT. I 'M TRYING TO GET A COPY OF THE POLICE REPORT FROM THE BELLEVUE POLICE DEPT, BUT HAVEN'T HEARD FROM THEM YET.  I DON'T KNOW IF THIS VEHICLE HAS ANY HISTORY OF A SIMILAR PROBLEM, BUT I WANTED TO INVESTIGATE THE ISSUE.  *JB",
+        "vin": ""
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "12/09/2005",
+        "dateOfIncident": "12/05/2005",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10144876,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2004 F350 TURBO DIESEL PICK UP  THE TURBO DIESEL  BOOSTER IS DEFECTIVE AND CANNOT BE REPAIRED AS TO MAKE THE TRUCK SAFE WHILE TOWING.  THIS MAY CAUSE AN ACCIDENT ON AN UPHILL GRADE BECAUSE OF RAPID LOSE OF POWER AND SPEED.  IF A VEHICLE IS FOLLOWING TO CLOSELY BEHIND THIS VEHICLE.  MY VEHICLE HAS BEEN REPAIRED TWICE FOR THE PROBLEM AND THE FORD DEALER SAYS THIS IS NOT THERE PROBLEM BUT THE FORD MANUFACTURER'S PROBLEM.  THEY HAVE NOT PUT OUT A RECALL NOR A REPAIR KIT FOR THIS PROBLEM.  *JB",
+        "vin": "1FTSW30P64E"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "10/03/2005",
+        "dateOfIncident": "10/03/2005",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10138395,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DT:  THE VEHICLE STALLED ON THREE DIFFERENT OCCASIONS.  THE VEHICLE HAD BEEN TAKEN TO THE DEALERSHIP NUMEROUS TIMES.  THE CONSUMER WAS NOT SURE IF THEY HAD REPLACED ANYTHING ON THE VEHICLE.  THE VEHICLE WOULD SURGE AT TIMES OR WOULD COMPLETELY STALL.  THIS STARTED ON  MARCH 1, 2004.  THERE WAS NO WARNING OR NOISE UNTIL THE PROBLEM HAD ACTUALLY OCCURRED.  THE CONSUMER CONTACTED THE MANUFACTURER, AND  THE MANUFACTURER REFERRED HIM TO THE DEALER.  THE DEALER STATED THAT THIS WAS AN ELECTRONIC PROBLEM.  *SC .  *AK",
+        "vin": "1FTSW31P24E"
+    },
+    {
+        "components": "FUEL SYSTEM, OTHER",
+        "crash": true,
+        "dateComplaintFiled": "09/28/2005",
+        "dateOfIncident": "09/10/2005",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10138027,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I WAS DRIVING MY FORD F350 DOWN A 2 LANE ROAD WITH A TRACTOR TRAILER FOLLOWING CLOSE BEHIND ME AT 60 MPH WHEN MY TRUCK STALLED.  TO AVOID BEING CRUSHED BY THE SEMI I VEERED OFF THE ROAD TO THE RIGHT AND PUT MY TRUCK INTO THE DITCH AND THE SEMI HAD TO SWERVE TO MAKE IT ALL THE AROUND ME.  THE TRUCK WOULD NOT RESTART AND HAD A QUATER TANK OF FUEL IN IT.  I HAD TO LEAVE THE TRUCK THERE TILL THE NEXT DAY.  THE NEXT MORNING I CALLED THE LOCAL DEALER VELDE FORD THEY ALSO SAID THEY COULDN'T TOW IT.  I CALLED A WRECKER SERVICE AND THEY HAULED IT TO VELDE FORD. VELDE FORD WOULDN'T HAVE A DIESEL MECHANIC TILL MONDAY. VELDE FORD ALSO SAID THEY COULDN'T PROVIDE A RENTAL CAR.  THEY DID FIND A THIRD RECALL ON MY TRUCK FOR THE EXHAUST SENSOR.  ON MONDAY, VELDE CALLED ME TO TELL ME THE FUEL PUMP HAD GONE OUT AND THEY ORDERED A NEW ONE WHICH WOULD BE THERE ON TUESDAY.  IT WAS COVERED UNDER WARRANTY BUT THEY STILL COULDN'T REIMBURSE ME FOR THE TOW OR RENTAL CAR BECAUSE THE TRUCK HAD 92,000 MILES ON IT.  EVEN THOUGH THE TRUCK HAS 100,000 MILE WARRANTY BECAUSE I DIDN'T BUY AN EXTENDED WARRANTY THEY WOULDN'T REIMBURSE. I CALLED  FORD CUSTOMER SERVICE TO VOICE MY DISSATISFACTION WITH EVERYTHING HAPPENING AND THEY TOLD ME THEY COULDN'T DO ANYTHING EITHER AND I HAD TO CONTINUE TO TALK TO THE DEALER.  I EXPLAINED TO THEM THAT THE FUEL PUMP FAILING HAD THE SAME SAFETY CONCERNS AS THE 05S34 RECALL HAD THAT THE VEHICLE STALLED WHILE IN MOTION WHICH COULD HAVE KILLED ME AND MYPASSENGERS BUT THEY DIDN'T SEEM TO CONCERN WITH IT BECAUSE YOUR ORGANIZATION WASN'T INVOLVED.  TUESDAY THE FUEL PUMP ARRIVES BUT IT SEEMS THAT THIS IS A NEW REDESIGNED FUEL PUMP BECAUSE THE OLD STYLE HAD PROBLEMS AND THEY DIDN'T ORDER THE REQUIRED WIRE HARNESS TO GO WITH IT.  THURSDAY ARRIVES AND THE NEW WIRE HARNESS FINALLY GETS THERE.  I HAVE SEEN MANY PEOPLE ON RV WEBSITE FORUMS AND FORD TRUCK FORUMS WITH THE SAME FUEL PUMP PROBLEM ON 6.0 LITER DIESEL ENGINE TRUCKS.  I HOPE YOU FIND THIS COMPELLING ENOUGH TO INVESTIGATE.  *NM",
+        "vin": "1FTWW33P44E"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "09/27/2005",
+        "dateOfIncident": "09/22/2005",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10137798,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FORD F-350 DIESEL-2004  CAR SHUT DOWN IN THE PASSING LANE ON PA TURNPIKE.  TOWED TO FORD...NO INSULATION ON WIRING HARNESS, SHORTED OUT THE TRUCK.  THE TRUCK STOPPED DEAD IN THE ROAD..NOW THE FORD DEALER FIXED IT BY PUTTING INSULATION OVER IT TO GET ME BACK ON THE ROAD.  IT HAD BEEN IN THE SHOP THE WEEK BEFORE, AND THE WEEK BEFORE THAT BECAUSE I COMPLAINED OF LOSING POWER ON THE ROAD WHEN I TRAVEL.  I DON'T WANT TO HAVE A FIRE WITH MY FAMILY!  *NM",
+        "vin": "1FTSW31P04E"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "08/30/2005",
+        "dateOfIncident": "08/26/2005",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10134796,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WE HAVE HAD SEVERAL INCIDENTS WHERE WE ARE DRIVING THE VEHICLE AND IT WILL BEGIN TO SHAKE AND A PUFF OF BLACK SMOKES COMES OUT OF THE EXHAUST.   THEN SHORTLY AFTER THIS HAPPENS, WE YOU STOP AT AN INTERSECTION, THE VEHICLE WILL DIE.   THIS HAS HAPPENED SEVERAL TIMES.  HAVE HAD IT INTO THE FORD DEALERSHIP ON FIVE OCCASIONS, THEY HAVE SAID IT IS FIXED, WHEN IT IS NOT.  WHEN HOOKED TO THE COMPUTER, THERE IS A DEFINITE PROBLEMS.   THIS LAST TIME, THE DEALERSHIP WAS UNABLE TO DUPLICATE THE PROBLEM.  THEY SAY THAT THEIR COMPUTER DID NOT SHOW ANY PROBLEMS.    THERE IS OBVIOUSLY A PROBLEM OR WE WOULD NOT HAVE TAKEN IT IN.   WE ARE MAKING THE PAYMENTS AND INSURANCE, YET IT SITS IN THE SHOP.   HAVE BEEN IN DRIVING THIS VEHICLE THAT ON 3 OCCASIONS WHERE IT HAS STALLED IN AN INTERSECTION AND COULD HAVE CAUSED AN ACCIDENT.   ALSO HAS STALLED AT LEAST 20 TIMES WHEN SLOWING FOR A RED LIGHT OR STOP SIGN.  *JB",
+        "vin": ""
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "08/18/2005",
+        "dateOfIncident": "08/01/2004",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10133340,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2004 F350.  OWNED TRUCK FOR 13 MONTHS, THE TRUCK HAS BEEN IN THE SHOP NUMEROUS TIMES.  IT SURGES WHILE DRIVING AND ALSO GOES DEAD WHILE DRIVING.  RECALL WORK WAS DONE AND DID NOT FIX THE PROBLEM.  *NM",
+        "vin": "1FTSW31PX4E"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "08/03/2005",
+        "dateOfIncident": "08/02/2005",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10131362,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DT: CONTACT STATED THERE HAS BEEN TWO RECALLS  THAT HAVE BEEN SERVICED.  BUT THE CONSUMER WAS  STILL HAVING STALLING PROBLEMS.   THE SERVICE DEALER INSPECTED THE FUEL INJECTOR CONTROL MODULE HARNESS AND REPLACED THE INJECTOR CONTROL PRESSURE SENSOR AND REP THE AIR CHARGING COOLER DUCT.  MOST OF THE TIME THE VEHICLE STALLED WAS WHEN THE VEHICLE IS FIRST TAKING OFF, IT LOADED UP WITH SMOKE COMING OUT OF THE EXHAUST PIPE.  THIS VEHICLE DID  NOT STALL EVERY TIME THE CONSUMER DROVE THE VEHICLE. CONSUMER DID  NOT WANT TO CONTACT THE MANUFACTURER,  HE WOULD NOT GET ANY RESOLUTION FROM THE MANUFACTURER. *AK",
+        "vin": "1FTSX31P54E"
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "07/25/2005",
+        "dateOfIncident": "06/18/2005",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10129921,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "TBC Corporation",
+                "productMake": "POWER KING",
+                "productModel": "70015LT",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "DT: THE CONSUMER EXPERIENCED THREE BLOWS OUT IN SHORT PERIOD OF TIME.  THE FIRST BLOW OUT OCCURRED ON THE PASSENGER SIDE. THE SECOND OCCURRED ON THE PASSENGER REAR TIRE AND 50 MILES LATER THE OTHER ONE ON THE DRIVERS SIDE REAR BLEW OUT. *JB",
+        "vin": "1FTSW31P14E"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING,ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "07/14/2005",
+        "dateOfIncident": "04/25/2004",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10128801,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DT: UNDER ACCELERATION BETWEEN 25 AND 45 MPH THE VEHICLE LOSES POWER.  THERE IS HESITATION WHEN  VEHICLE ACCELERATES.  IT IS AS THOUGH IT BOGS DOWN AND CAN NOT GAIN ANY SPEED.  ALSO,  A LARGE AMOUNT OF  BLACK SMOKE WAS EXPELLED FROM THE EXHAUST.  WHEN THIS OCCURS THE TRUCK COMES TO CRAWL IN  MIDDLE OF TRAFFIC,  AND HAPPENS MOSTLY IN STOP AND GO TRAFFIC,  AS WELL AS  ON INTERSTATE.  TOOK VEHICLE  TO A DEALER 4 TIMES FOR THIS PROBLEM  WITHIN 28,000 MILES.  DEALERSHIP COULD NOT FIND ANYTHING WRONG, BUT DID  TROUBLE SHOOTING REPAIRS TO THE COMPUTER, AND THEN  REPLACED THE TURBO.  DEALER ADMITTED THEY DID NOT KNOW HOW TO FIX OR DIAGNOSE THIS PROBLEM.  CONSUMER HAS NOT CONTACTED THE  MANUFACTURER  AT THIS TIME.  NO OTHER REPAIRS  WERE DONE OR ISSUES OUTSIDE OF THIS PROBEKM OCCURRED.  *AK",
+        "vin": "1FTSX31P34E"
+    },
+    {
+        "components": "STEERING,ENGINE AND ENGINE COOLING,FUEL SYSTEM, DIESEL,ELECTRICAL SYSTEM,VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "06/29/2005",
+        "dateOfIncident": "12/21/2004",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10128050,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2004 FORD F350 DEVELOPED PROBLEMS WITH THE ENGINE.***NO ANSWER REQUIRED***. *MR  THE VEHICLE WOULD RUN ROUGH.  THE STARTER BURNED OUT CAUSING THE VEHICLE NOT TO START.  THE VEHICLE HAD MULTIPLE FUEL SYSTEM PROBLEMS.  THE REAR WINDOW LATCH ASSEMBLY BROKE.  THE STEERING DAMPNER CHAFED.  THE LONG DRAG LINK WAS REPLACED BECAUSE IT WAS WEAK.  STEERING STABILIZER WAS INSTALLED BECAUSE IT WASN'T INSTALLED AT FACTORY.  *NM",
+        "vin": "1FTWW32P74E"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": true,
+        "dateComplaintFiled": "06/13/2005",
+        "dateOfIncident": "04/15/2005",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 4,
+        "odiNumber": 10125115,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2004 F-350 BEGAN HAVING STALLING PROBLEMS AT <2000 MILES. AFTER SEVERAL ATTEMPTS TO FIX THE VEHICLE, WE ASKED FOR A REPLACEMENT. WHILE WAITING ON ACTION FROM FORD, WE WERE IN AN ACCIDENT ON APRIL 15,2005 AFTER THE TRUCK FAILED WHILE CROSSING AN INTERSECTION.",
+        "vin": "1FTSW31P64E"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "06/09/2005",
+        "dateOfIncident": "06/09/2005",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10124821,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "OCCASIONALLY WHILE STOPPED IN GEAR WITH THE BRAKE DEPRESSED MY TRUCK WILL \"SURGE\" AND LURCH FORAWD AS THE IDLE INCREASES. IF I'M NOT DEPRESSING THE BRAKE FIRMLY THE TRUCK MOVE FOWARD AND WON'T STOP UNTILL VERY FIRM PRESSURE IS APPLIED TO THE BRAKE.",
+        "vin": ""
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "05/27/2005",
+        "dateOfIncident": "09/15/2004",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10122340,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "INCIDENT OCCURRED IN THE AFTERNOON, THE TEMP WAS ABOUT 70 DEGREES. THE TRUCK WAS LOADED WITH MY FAMILY (5 INCLUDING MYSELF); WE WERE TRAVELING OVER A HILL AT ABOUT 50 MPH. A SIGN INDICATED A 6 PERCENT GRADE. ON THE WAY UP THE HILL, AT ABOUT 2000RPM AND ABOUT 45 MPH WE NOTICED A LARGE AMOUNT OF BLACK SMOKE BEING EXPELLED FROM THE TAILPIPE. THERE WAS NO HESITATION ON POWER OUTPUT AT THAT TIME, THEN COASTING DOWN THE OTHER SIDE OF THE HILL THE ENGINE SHUT DOWN. FORTUNATELY WE WERE ABLE TO NARROWLY AVOID THE TRAFFIC AHEAD WITH WHAT LITTLE BRAKE ACTION I COULD APPLY. WHEN THE ENGINE WAS STARTED AGAIN, THE \"CHECK ENGINE\" LIGHT CAME ON. AFTER BEING TAKEN TO THE DEALER THE SENSORS WERE REPLACED ON THE TURBOCHARGER AND OTHER UNDISCLOSED WORK WAS DONE TO THE ENGINE. LATELY THE TRUCK HAS BEEN MIMICKING THESE SYMPTOMS.",
+        "vin": "1FTSW31P54E"
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "05/25/2005",
+        "dateOfIncident": "05/24/2005",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10122121,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DT: CONTACT STATES WHILE DRIVING VEHICLE IT SHIFTS INTO NEUTRAL.  THE SERVICE DEALER INFORMED HIM THERE WAS NOTHING WRONG WITH THE VEHICLE.*AK",
+        "vin": "1FTSW31P54E"
+    },
+    {
+        "components": "STEERING",
+        "crash": true,
+        "dateComplaintFiled": "05/23/2005",
+        "dateOfIncident": "05/19/2005",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10121873,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DT:  CONTACT STATED WHILE DRIVING  APPROXIMATELY 15-20 MPH  STEERING LOCKED UP, CAUSING A VEHICLE CRASH. MANUFACTURER STATED THERE HAD TO HAVE BEEN A DRAMATIC HIT ON THE FRONT END OF THE VEHICLE.   *AK",
+        "vin": "1FTSW31P24E"
+    },
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "05/13/2005",
+        "dateOfIncident": "04/11/2005",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10117685,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE CONSUMER COMPLAINED  ABOUT SUDDEN ACCELERATION.  WHILE DRIVING 35 MPH THE VEHICLE LUNGED FORWARD WITH AN INCREASE IN SPEED.  THE VEHICLE HAS BEEN BACK TO THE DEALERS ON 4 SEPARATE OCCASIONS.  HOWEVER, THE PROBLEM RECURRED.   *AK   THE VEHICLE ACCELERATES AND LUNGES FORWARD SEVERAL TIMES THEN DIES.  THIS IS AN INTERMITTENT PROBLEM.  WHEN THE CRUISE CONTROL IS SET, THE SAME THING OCCURS BUT ONLY BACKWARDS WHEN IN REVERSE.  THE VEHICLE HAS BEEN TO THE DEALER SIX TIMES AND RETURNED TO THE CONSUMER UN-FIXED EACH TIME.   *SC   *JB",
+        "vin": "1FTWW33P54E"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING,POWER TRAIN,EXTERIOR LIGHTING,STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "05/06/2005",
+        "dateOfIncident": "09/01/2004",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 2,
+        "odiNumber": 10117789,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THERE ARE TOXIC FUMES COMING THROUGH THE DEFROSTER WHEN IT IS TURNED ON.  WHICH IS DISTRACTING THE DRIVER ON THE ROAD. MANUFACTURER HAD BEEN CONTACTED BY CONSUMER.   *AK   THE CONSUMER PURCHASED A CARBON MONOXIDE DETECTOR IN WHICH THE VEHICLE REGISTERED 40 PPM.  AS THE WEATHER TURNED COLD, THE CONSUMER WAS UNABLE TO USE THE DEFROSTER OR HEATER DUE TO THE DIESEL FUMES FROM THE EXHAUST SYSTEM.  THE CONSUMER SUFFERED NOSE BLEEDS AND HIS MOTHER-IN-LAW HAD BECOME ILL WHILE RIDING IN THE VEHICLE.  TWO DEALERSHIPS STATED THAT THEY COULD NOT FIND ANYTHING WRONG WITH THE VEHICLE.  THE ENGINE DIED WHILE GOING DOWN HILL TO A STOP AT TIMES, THE VEHICLE STUCK IN 4X4 LOW, DRIVER DOOR MOLDING WAS COMING A LOOSE, HEAD LIGHT WAS INOPERATIVE AT TIMES AND THE SWITCH WAS REPLACED, THE REAR DOOR DID NOT LINE PROPERLY AND LEAKED AIR THEREFORE BOTH REAR DOOR UPPER SEALS WERE ADJUSTED.   *SC  *JB",
+        "vin": "1FTSW31P04E"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "04/29/2005",
+        "dateOfIncident": "04/28/2005",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10119334,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE ENGINE STALLED AND WOULD NOT RESTART.  VEHICLE WAS TOWED TO A LOCAL REPAIR SHOP AND IT WAS DISCOVERED THA T ENGINE NEEDED  TO BE  REPLACED.  *AK",
+        "vin": "1FTWW32P74E"
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "04/28/2005",
+        "dateOfIncident": "04/20/2005",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10118627,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING TRANSMISSION HESITATED WHEN IT SWITCHED GEARS ,AND WHEN YOU WOULD REVERSE IT HESITATED SO YOU COULD BACK UP. METAL FLAKES WERE FOUND IN THE TRANSMISSION FLUID FROM IN THE PAN. FORD DEALER WAS AWARE OF THE PROBLEM, AND TRANSMISSION HAS TO BE REBUILT. OTHER TRANSMISSIONS WITH SIMILAR SERIAL #'S WERE UNDER RECALL BY FORD MOTOR COMPANY, BUT OURS WASN'T RECALLED ,AND THEY WERE UNWILLING TO REBUILD IT.  *AK",
+        "vin": "1FTSF31P54E"
+    },
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "04/27/2005",
+        "dateOfIncident": "04/27/2005",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10119248,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING THE SEAT BELT WILL TIGHTEN.  OWNER TOOK THE VEHICLE TO THE DEALER, WHO EASILY IDENTIFIED THE DEFECT, BUT TOLD THE OWNER THAT IT WAS A MANUFACTURER DESIGN, AND THERE WAS NOTHING ELSE THEY COULD DO. *AK",
+        "vin": ""
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "04/25/2005",
+        "dateOfIncident": "04/16/2005",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10118395,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ON 16 APRIL 2005 , I TOOK MY F-350 TURBO DIESEL DUALLY IN FOR 10,000 MILE SERVICE ( VEHICLE HAD 9400 MILES) ALSO ASKED TO HAVE LEFT SPEAKER CHECKED AND SCHEDULED AN APPOINTMENT FOR THE RECALL ON THE TRANSMISSION PINS REPLACEMENT. UPON COMPLETION OF  10,000 MILE SERVICE I NOTICED THAT THE VEHICLE WAS MAKING A THUMPING SOUND WHEN DECELERATING ON THE ROAD . WENT BACK TO THE DEALERSHIP AND ASKED THAT THEY CHECK TO SEE IF EVERYTHING WAS BACK IN PLACE , REASON FOR THIS WAS THAT THEY REPLACED THE LEFT SPEAKER AND DID NOT PUT THE DOOR MOLDING BACK ON  WHEN THEY GAVE ME BACK THE CAR. SERVICE PERSON ROAD IN THE VEHICLE AND STATED THAT THEY KNEW WHAT THE PROBLEM WAS AND THAT IT WAS LISTED ON THE FORD ENGINEERING WEBSITE, THEY PRINTED OUT THE MEMO STATING IT WAS AN KNOWN PROBLEM AND HAD TO DO WITH THE AIR FILTER VIBRATION AND THAT NO ADJUSTMENT WAS NECESSARY. UPON LEAVING THE DEALERSHIP AGAIN FOR THE THIRD TIME THE NOISE STARTED TO INCREASE IN VOLUME AND THEN WOULD NOT ACCELERATE , I RETURNED AND HAD THE DIESEL MECHANIC TEST DRIVE THE VEHICLE , THE VEHICLE SHOWED NO INDICATION ON DASH PANEL AND SHOWED RPMS INCREASING BUT VEHICLE NOT ACCERATING AND CONTINUING TO MAKE THUMPING VIBRATION NOISE. MECHANIC STATED I WAS NOT GOING ANYWHERE WITH THIS TRUCK . I HAVE A LOANER FROM THE DEALERSHIP AND AS OF TODAY APRIL 25,2005  MY TRUCK IS STILL AT THE DEALERSHIP  FOR REPAIRS.*AK",
+        "vin": "1FTWX33PX4E"
+    },
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "04/06/2005",
+        "dateOfIncident": "09/07/2004",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10117505,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN  ENGAGING  CRUISE CONTROL  VEHICLE STARTS TO SHAKE UNCONTROLLABLY.  *AK",
+        "vin": "1FTSX31P74E"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "03/07/2005",
+        "dateOfIncident": "03/01/2005",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10115054,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FORD F350 TRUCK PROBLEM OCCUR SUDDENLY AND UNEXPECTEDLY LOSE POWER AND STALL OUT.  *BF THE DEALER HAS BEEN UNABLE TO CORRECT OR ALLEVIATE THE PROBLEM.  (LAWYER WROTE LETTER ON BEHALF OF CONSUMER)*JB",
+        "vin": "1FTWW33P84E"
+    },
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": true,
+        "dateComplaintFiled": "03/02/2005",
+        "dateOfIncident": "12/24/2004",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10108693,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE CONSUMER EXPERIENCED SUDDEN ACCELERATION WHILE THE VEHICLE WAS IN REVERSE CAUSING THE VEHICLE TO CRASH INTO ANOTHER VEHICLE. *JB   *TC",
+        "vin": "1FTWW33S74E"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "02/23/2005",
+        "dateOfIncident": "11/06/2004",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10112054,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2004 FORD F350 CREW CAB 4 WHEEL DRIVE W/ 6.0 DIESEL ENGINE AND AUTOMATIC TRANSMISSION.  [XXX]  1.) I WAS ON A 180 MILE TRIP, DESCENDING HILL (FROM 3800 FEET TO 1000 FEET ELEVATION) AT LESS THAN 30 MPH WITH COLD OUTDOOR TEMPERATURE.  2.) WHILE COASTING DOWN STEEP GRADE AN ENGINE STALL NEARLY CAUSED AN ACCIDENT DUE OT LOSS OF POWER ASSIST FOR STEERING AND BRAKES.  3.)  DEALER RECALIBRATED EEC SYSTEM.  MY SON HAD THE SAME PROBLEM WITH HIS TRUCK (NEAR AN IDENICAL VEHICLE) UNDER THE SAME CONDITIONS.*AK   *JS    INFORMATION REDACTED PURSUANT TO THE FREEDOM OF INFORMATION ACT (FOIA), 5 U.S.C. 552(B)(6)",
+        "vin": "1FTSW31P74E"
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "02/22/2005",
+        "dateOfIncident": "01/01/2005",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10111948,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2004 F350 FX4 EXT CAB 6.0 DIESEL TORQUE SHIFT SPEEDS UP WHILE DRIVING AND AT STOP LIGHTS ON ITS OWN. (ONCE WHILE BACKING)  MY DAD WILL NOT RIDE IN IT ANY MORE AND CLAIMS I AM CRAZY FOR DRIVING IT.*AK  HARSH TRANS LOCK UP AT 45 AFTER AUTO TRANS WAS DROPPED AND UPDATED WITH PLANETARY BULLETIN AT DEALER.  THE TRANS DEAL I WILL CONTINUE FIGHTING, BUT THE MIND OF ITS OWN IN ACCELERATION IS DANGEROUS. AM CURRENTLY PACKING A DEALER COMPUTER WITH A PANIC BUTTON BUT HAVE NOT CAUGHT THE GREMLIN YET AS IT WILL GO FOR A WHILE IN BETWEEN UPROARS.  I FEEL JILTED BEING A TEST RAT AFTER BUYING A VEHICLE WITH A $46,000.00 STICKER PRICE.  AND THEN THERE IS SAFETY.  WILL TAKE THE TRUCK BACK TOMORROW AND TELL THE ASSOCIATE TO PULL THE COMPUTER AND WIRES AND THE NEXT TIME HE SEES ME WILL BE WITH THE TRUCK ON A HOOK OR ME ALONE WITH A LAWYER AFTER AN ACCIDENT.  I KNOW THEIR TRYING, BUT THE LACK OF TROUBLE CODES AS WELL AS THE INABILITY TO REPAIR THE VEHICLE WITHOUT THEM COULD BE THE END OF SOMEONE?S LIFE AND OR THE DESTRUCTION OF PROPERTY. (TIME AT DEALER SO FAR APROX 2.5 WEEKS OFF AND ON)",
+        "vin": "1FTSX31P84E"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING,FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "02/02/2005",
+        "dateOfIncident": "04/15/2004",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10109551,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE IS EXPERIENCING A PROBLEM WITH THE EXHAUST FUMES WHICH SEEM TO BE GETTING  INTO THE CAB OF THE PICKUP. VEHICLE HAS BEEN TO THE DEALERS ON SEVERAL OCCASIONS.   ALSO,   CONTACTED THE MANUFACTURER. HOWEVER, THEY DID NOT  HELP THE OWNER WITH THIS PROBLEM. THE EXHAUST FUMES WERE COMING THROUGH THE AIR CONDITIONER AND HEAT VENTS. WHEN DRIVING, THE EXHAUST FUMES BURNED THE DRIVER'S EYES, AND GAVE OWNER A HEADACHE.  *AK  UPDATED 12/27/2005 -  THE VEHICLE HAS ALSO BEEN HAVING INJECTOR PROBLEMS *NM",
+        "vin": "1FTWW32P24E"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "01/25/2005",
+        "dateOfIncident": "12/10/2004",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10107875,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE STALLS WITHOUT WARNING AND UNDER NO PARTICULAR LOAD OR TEMPERATURE CONDITIONS.  *NM",
+        "vin": "1FTSW31P84E"
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "01/19/2005",
+        "dateOfIncident": "01/03/2005",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10105060,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING AT 35 MPH, THE VEHICLE STOPPED AND  WOULD NOT SHIFT INTO DRIVE.  VEHICLE WAS TOWED.  THE PLANET GEAR WAS DEFECTIVE.*AK",
+        "vin": "1FTSX31P34E"
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "01/10/2005",
+        "dateOfIncident": "01/08/2005",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10106082,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN TRUCK WAS PUT IN GEAR, THE TRANSMISSION WOULD NOT GO IN GEAR. ALSO, WHEN DRIVING, I LET OFF OF THE GAS PEDAL, TRUCK WOULD STALL, AND THEN ENGAGE AND THEN LURCH FORWARD, IN TRAFFIC. ALSO, SAME PROBLEM IN REVERSE.*AK",
+        "vin": "1FTSW31P34E"
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/06/2005",
+        "dateOfIncident": "12/22/2004",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10106951,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "GENERAL TIRE & RUBBER CO.",
+                "productMake": "GENERAL",
+                "productModel": "AMERI TECH ST",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHILE DRIVING 70 MPH RIGHT REAR INNER  TIRES  EXPERIENCED A BLOW OUT ON A 2004, FORD F350 PICKUP TRUCK WITH ONLY THE DRIVER  IN THE VEHICLE. ORIGINAL EQUIPMENT, TIRE SIZE  LT235/85R16, DOT #AD0R1P61103. THE TIRE MANUFACTURER WAS NOT NOTIFIED.*AK",
+        "vin": "1FTWW32P84E"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "12/30/2004",
+        "dateOfIncident": "12/06/2004",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10103430,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE ENGINE STALLED TWICE ON THE HIGHWAY AT ABOUT 70 MILES PER HOUR. THE VEHICLE WAS TAKEN TO DEALER FOR A DIAGNOSIS, BUT THEY WERE UNABLE TO DETERMINE THE CAUSE OF THE STALLING.  *JB  THE CONSUMER STATED THE SHE WAS DRIVING DOWN A MOUNTAIN WHEN THE VEHICLE LOST ALL POWER.  *TC",
+        "vin": "1FTWW33P34E"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "12/27/2004",
+        "dateOfIncident": "12/21/2004",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10105301,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENGINE STALLED UNEXPECTEDLY WHILE VEHICLE WAS TRAVELING AT DIFFERENT SPEEDS. CONSUMER TOOK VEHICLE  TO DEALER FOR CHECK UP, BUT THE CAUSE WAS UNDETERMINED.*AK",
+        "vin": ""
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "12/14/2004",
+        "dateOfIncident": "09/07/2004",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10103737,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ON TWO SEPARATE OCCASIONS  VEHICLE STALLED.  THE FIRST TIME  IT WAS AT 5 MPH, AND THE SECOND TIME IT WAS AT 35 MPH. VEHICLE WAS TAKEN  TO THE DEALER ON BOTH OCCASIONS, AND THEY WERE NOT ABLE TO RESOLVE/ DUPLICATE THIS PROBLEM.*AK....VEHICLE SPEEDS UP ON ITS OWN AND MISSES OUT RUNNING DOWN THE ROAD AT 60 MPH. RPMS AROUND 1500 RPMS .REPROGRAMMED PCM AND TCM TO LATEST CALIBRATION. *AK",
+        "vin": "1FTWW33P74E"
+    },
+    {
+        "components": "POWER TRAIN,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "11/20/2004",
+        "dateOfIncident": "07/26/2004",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10100271,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "AIR BAG SWITCH",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "WHILE DRIVING AT 55 MPH,MY NEW 2004 F350 6.0 SUPER DUTY DIESEL  TRANSMISSION LOCKED UO,. CAUSING THE VEHICLE TO SKID OUT OF CONTROL AT A INTERSECTION.HAD VEHICLE TOWED TO DEALERSHIP WHERE A NEW TRANSMISSION WAS INSTALLED .TWO MOUTHS LATER, VEHICLE STARTED STALLING WHILE AT IDLE AND WHILE DRIVING, CAUSING  LOSS OF STEERING AND BRAKES.VEHICLE AGAIN TAKING TO DEALER WERE NEW CODES FROM FORD WHERE PUT IN COMPUTER. THIS DID NOT CORRECT THE PROBLEM. RETURNED VEHICLE TO DEALER AGAIN MECHANIC NOT AVAILABLE. VEHICLE RETURNED WITH NO DIAGNOSTICS. THEN THREE DAYS LATER VEHICLE BACK AT DEALERSHIP FOR ANOTHER TRANSMISSION. WITH ONLY 12,000 MILES ON VEHICLE. I FEAR FOR THE SAFETY OF FAMILY AND OTHERS WHILE DRIVING THIS VEHICLE.    *AK",
+        "vin": "1FTWW33P04E"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": true,
+        "dateComplaintFiled": "11/10/2004",
+        "dateOfIncident": "02/13/2004",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10090178,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "INTERMITTENTLY WHILE DRIVING ENGINE SHUT OFF FOLLOWED BY THE METERS ON THE DASHBOARD READING ZERO. THEN, VEHICLE STALLED.  THE CONSUMER  PUT VEHICLE INTO NEUTRAL  AND RESTARTED. WHEN THIS HAPPENED BEFORE LOST CONTROL OF VEHICLE.  THE DEALERSHIP PERFORMED SEVERAL DIAGNOSTIC TESTS, AND  REPLACED THE PCM GROUND/ENGINE GROUND,AND  WIRING GOING TO THE PCM.  THE  FAILURE STILL EXISTED.  THE CONSUMER INVOKED THE LEMON LAW BECAUSE THE DEALERSHIP WAS UNABLE TO RECTIFY THE FAILURE.   *AK   *SC  CONSUMER ADVISED THAT THE ENGINE STALLED AND RESULTED IN THE VEHICLE LEAVING THE ROADWAY.  THE VEHICLE ENTERED THE FRONT YARD OF HOME AND DAMAGED THE LAWN.  THERE WERE NO INJURIES OR DAMAGE TO THE VEHICLE.  *DSY",
+        "vin": "1FTSX31P04E"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "10/19/2004",
+        "dateOfIncident": "10/16/2004",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10097186,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN PULLING OFF FROM AN INTERSECTION, THE VEHICLE STALLED. MOMENTS LATER, THE CONSUMER RESTARTED THE VEHICLE ALL POWER RESUMED AS NORMAL. OWNER HAS TAKEN THE VEHICLE BACK TO THE DEALER WHO WANTED TO KEEP THE VEHICLE FOR A COUPLE OF DAYS SO THEY MAY FIND OUT WHAT WAS CAUSING THE DEFECT. PROVIDE FURTHER DETAILS. *JB",
+        "vin": "UNAVAILABLE"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "10/17/2004",
+        "dateOfIncident": "09/30/2004",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10095928,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ALL OF THE FOLLOWING IS DOCUMENTED ON FORDS COMPUTER SYSTEM THROUGH MAGNUSSENS IN NEWARK, CA.  JUNE04, STARTED WITH A ROUGH IDLE PROBLEM TOOK MY 2004 F350 BACK TO DEALER. DID A REFLASH SEEM TO FIX FOR A WHILE. PROGRESSED TO ROUGH AND SEARCHING IDLE. APPROXIMATELY 9 TIMES BACK TO DEALER, EACH TIME EITHER CLEAR CHECK ENGINE LIGHT OR REPLACE PARTS, APPROXIMATELY 7 OR 8 DAYS OUT OF SERVICE FROM JUNE TILL LATE AUGUST, LAST TIME REPLACED THE ENTIRE TURBO ASSEMBLY. EACH TIME JUST REPLACED PARTS, NEVER DID THE DEALERSHIP OR FORD CORPORATE HAVE A DEFINITE ANSWER TO WHAT CAUSED THE PROBLEM. EACH TIME CODE P0299 WAS ON THE CHECK ENGINE. BETWEEN THE 2 AND 9TH INCIDENTS, THE VEHICLE STALLED UNEXPECTEDLY IN THE MIDDLE OF A DOWNHILL COASTING TURN ALMOST RESULTING IN A CRASH EACH TIME. TOTAL OF 5 TIMES, LAST OCCURRENCE OF STALL WAS FIRST TIME VEHICLE PRESENTED ANY PROBLEMS SINCE TURBO REPLACEMENT ON TWO THURSDAYS AGO ON MY WAY TO WORK. AFTER I GOT IN TO WORK I CALLED FORD SUPPORT AND MY DEALERSHIP AND STARTED A REPLACEMENT PROCESS THROUGH WHAT FORD CALLS THE DSB DISPUTE SETTLEMENT BOARD. I AM NOT COMFORTABLE DRIVING THIS PARTICULAR UNIT ANY MORE AND FEAR I MIGHT NOT BE ABLE TO STOP THE VEHICLE SAFELY ONE OF THESE TIMES IT STALLS AND MAY CAUSE INJURY TO MYSELF OR ANOTHER. I HAVE DONE A LOT OF RESEARCH REGARDING OTHERS WHO MIGHT HAVE HAD THIS PROBLEM AND IT LED ME HERE.  *JB",
+        "vin": "1FTSW31P24E"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING,VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "10/15/2004",
+        "dateOfIncident": "10/15/2004",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10096994,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING,THE VEHICLE STALL.  THE DRIVER TRIED TO RESTART,BUT WAS ABLE TO DO SO.  THE CONSUMER NOTICED THAT THE VEHICLE STARTED ACCELERATED SUDDENLY WITHOUT WARNING. THE DRIVER APPLIED THE BRAKES AND THE VEHICLE CONTINUE TO ACCELERATING WITH SPEED.  THE DRIVER WAS ABLE TO MAINTAIN CONTROL OF THE VEHICLE AND DROVE IT TO THE DEALER FOR INSPECTION.  THE MECHANIC INFORMED THE DRIVER THAT THIS PROBLEM COULD NOT BE DUPLICATED.  PLEASE FILL IN ADDITIONAL INFORMATION.   *NM",
+        "vin": "1FTSW30P44E"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "10/06/2004",
+        "dateOfIncident": "10/06/2004",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10095298,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING VEHICLE STALLED. CONSUMER WAS UNABLE TO RESTART VEHICLE, AND HAD IT TOWED TO THE DEALER FOR INSPECTION.   DEALER INFORMED CONSUMER THAT THE PROBLEM COULD NOT BE DUPLICATED. *AK",
+        "vin": "1FTWW33P643"
+    },
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "09/21/2004",
+        "dateOfIncident": "09/19/2004",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10092915,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING 30 MPH CONSUMER'S VEHICLE CRASHED  INTO A POLE. UPON IMPACT,  DUAL AIR BAGS DID NOT DEPLOY. DRIVER SUSTAINED NECK AND LOWER KNEE INJURIES. *AK",
+        "vin": "1FTSF31LX4E"
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "09/17/2004",
+        "dateOfIncident": "09/13/2004",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10091179,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THERE IS A LOUD \"CLUNK\" FROM UNDERNEATH THE VEHICLE WHEN TAKING OFF AFTER PUTTING THE TRANSMISSION IN DRIVE.  THE \"CLUNK\" HAPPENS ABOUT 5 TO 10 FEET AFTER YOU BEGIN MOVING FORWARD AND SOMETIMES ALSO WHEN THE VEHICLE SHIFTS FROM 1ST TO 2ND GEAR AND 2ND TO 3RD GEAR.  *AKTHE \"CLUNK\" CAN NOT ONLY BE HEARD BUT ALSO FELT IN THE FLOORBOARDS OF THE VEHICLE.  SOUNDS AS IF SOMETHING IN THE TRANSMISSION AS LET GO.*AK",
+        "vin": "1FTSX31P74E"
+    },
+    {
+        "components": "SUSPENSION,SERVICE BRAKES, HYDRAULIC,ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "09/13/2004",
+        "dateOfIncident": "05/10/2004",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10087266,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE BOLTS THAT HOLD THE BRACKETS FOR THE TOP SUPPORT OF THE AIR SUSPENSION SYSTEM CONTINUOUSLY BREAK.  THIS OCCURRED IN FIVE VEHICLE (AMBULANCES) SO FAR, VIN NUMBERS: [XXX], [XXX], [XXX], [XXX], AND [XXX]. TOOK THE VEHICLES TO BE REPAIRED AT FORD DEALERSHIP.   *AK   THERE WERE 2 UNITS WITH BRACKET FAILURE, ALSO HAD BROKEN BRAKE LINES WHICH CAUSED THE BRAKES TO FAIL.  THE BRAKE LIGHT ON THE DASH AND THE BRAKE LINE WAS NOT ATTACHED PROPERLY.  THE REAR SUSPENSION BRACKET HAD BROKEN.   *SC    INFORMATION REDACTED PURSUANT TO THE FREEDOM OF INFORMATION ACT (FOIA), 5 U.S.C. 552(B)(6).  *TR",
+        "vin": "1FDWF36P94E"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "09/08/2004",
+        "dateOfIncident": "07/21/2004",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10091570,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING VEHICLE STALLED. DEALERSHIP WAS NOTIFIED, BUT DID NOT RESOLVE THE PROBLEM. *AK",
+        "vin": "1FTWW33P84E"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "09/01/2004",
+        "dateOfIncident": "04/20/2004",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10090247,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING AT ANY SPEED VEHICLE STALLED. CONSUMER WAS UNABLE  TO RESTART VEHICLE, AND IT WAS TOWED TO THE DEALER FOR INSPECTION NUMEROUS TIMES. MECHANIC DETERMINED  THAT COMPUTER NEEDED TO BE REPLACED, AND REPLACED IT.   HOWEVER, PROBLEM RECURRED. *AK",
+        "vin": "1FTWW33P34E"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "08/31/2004",
+        "dateOfIncident": "07/03/2004",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10088868,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENGINE STALLS/STOPS RUNNING, LEADING TO A LOSS OF STEERING AND BRAKING.  THIS HAS OCURRED THREE TIMES, TWICE AT LOW SPEED WHEN COMING TO A STOP, ONCE AT HIGH SPEED.*AK",
+        "vin": "1FTSW31P64E"
+    },
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "08/27/2004",
+        "dateOfIncident": "07/22/2004",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10089905,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "INTERMITTENTLY VEHICLE WOULD NOT ACCELERATE WHEN THE ACCELERATOR PEDAL WAS DEPRESSED.  DEALERSHIP WAS NOTIFIED, BUT DID NOT RESOLVE THE PROBLEM. *AK",
+        "vin": ""
+    },
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "08/25/2004",
+        "dateOfIncident": "08/11/2004",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10089709,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TWO INCIDENTS HAPPENED THE SAME DAY WHILE DRIVING  AT 65 MPH, VEHICLE STALLED.  THIS CAUSED LOSS OF STEERING AND BRAKES. WHILE WAITING FOR STOP LIGHT.  VEHICLE  LUNGED OR ACCELERATED UP TO 3000 RPMS. *AK",
+        "vin": "1FTSW31P24E"
+    },
+    {
+        "components": "STEERING,POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "08/18/2004",
+        "dateOfIncident": "08/17/2004",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10089210,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING UP A HILL THERE WAS ERRATIC BEHAVIOR IN THE TRANSMISSION THAT  CAUSED INCONSISTENCY IN THE SHIFTING. AS A RESULT, VEHICLE  STALLED IN THE MIDDLE OF AN INTERSECTION , AND STEERING FAILED. *AK",
+        "vin": ""
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "08/09/2004",
+        "dateOfIncident": "02/13/2004",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10086457,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BREAKING SYSTEM WILL NOT STOP THE TRUCK UNDER NORMAL LOAD AND DRIVING CONDITIONS.   F350 - SD- V10 GAS.  THE STOPING DISTANCE IS TWO TIMES THAT OF THE F350 - SD - DIESELS IN OUR FLEET.  THE TRUCK IS UNSAFE TO DRIVE.    FORD FIELD SERVICE ENGINEE UNWILLING TO TO SOLVE PROBLEM.*AK",
+        "vin": "1FDSX35S14E"
+    },
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "07/06/2004",
+        "dateOfIncident": "07/06/2004",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10081388,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING 55 MPH WITH SPEED CONTROL SET AND WITHOUT ANY INDICATION VEHICLE ENGINE STALLED. DEALERSHIP SERVICED VEHICLE, AND  TECHNICIAN COULD NOT DUPLICATE THE PROBLEM. *AK",
+        "vin": "1FTSW31P44E"
+    },
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "07/06/2004",
+        "dateOfIncident": "07/06/2004",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10081404,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING AT ANY SPEED CONSUMER NOTICED FRONT END OF VEHICLE MADE NOISE. CONSUMER INSPECTED UNDER VEHICLE, AND SAW THAT FRONT SPRING PERCH WAS NOT BOLTED TO FRAME. *AK",
+        "vin": ""
+    },
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "06/28/2004",
+        "dateOfIncident": "06/28/2004",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10079992,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN APPLYING BRAKES FROM ANY SPEED  VEHICLE SURGED FORWARD. WHEN CONSUMER  ATTEMPTED TO STOP VEHICLE COASTED INTO THE MIDDLE OF THE INTERSECTION. NO IMPACT REPORTED. *AK",
+        "vin": "1FTSW31P64E"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "06/25/2004",
+        "dateOfIncident": "06/25/2004",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10079903,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN DECELERATING VEHICLE STALLED. DEALERSHIP SERVICED VEHICLE, AND  TECHNICIAN COULD  NOT DUPLICATE THE PROBLEM. *AK",
+        "vin": "1FTSW31P24E"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "06/25/2004",
+        "dateOfIncident": "05/18/2004",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10079953,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DEPRESSING THE BRAKE PEDAL IT WAS HARD FOR THE CONSUMER TO TURN THE STEERING WHEEL. DEALERSHIP WAS NOTIFIED, BUT DID NOT RESOLVE THE PROBLEM. *AK",
+        "vin": "1FTWW33P84E"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "06/24/2004",
+        "dateOfIncident": "04/17/2004",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10073590,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING, T HE VEHICLE STALLED SEVERAL TIMES.  THE CONSUMER WOULD RESTART THE VEHICLE WHILE IN MOTION.  THE BRAKES WOULD GO OUT WHEN THIS WOULD OCCUR. *AK   THE PROBLEM SEEMED TO BE RESOLVED.  THE DEALER REPLACED THE EGR VALVE (EXHAUST GAS-RECIRCULATION).  THE VEHICLE IDLED ERRATICALLY.  THE INJECTOR PRESSURE REGULATOR WAS REPLACED.  THE EBP SENSOR AND THE EGR VALVE DID NOT WORK PROPERLY AND BOTH WERE REPLACED.  THE EBP SIGNAL REMAINED TO FLUCTUATE.  ALSO ,THE TURBO CHARGER WAS NOT WORKING PROPERLY.   *SC   *JB",
+        "vin": "1FTSX31P94E"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "06/21/2004",
+        "dateOfIncident": "06/21/2004",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10079559,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER NOTICED THAT ENGINE STALLED AT ANY SPEED. DEALERSHIP  SERVICED THE VEHICLE SEVERAL TIMES, BUT COULD NOT DUPLICATE  THE PROBLEM. *AK",
+        "vin": "1FTSW31P64E"
+    },
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "06/04/2004",
+        "dateOfIncident": "04/08/2004",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10066853,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING 65 MPH THE VEHICLE'S REAR END FELT LOOSE.  THE CONSUMER WAS ABLE DRIVE THE VEHICLE TO THE DEALER FOR INSPECTION.  THE MECHANIC WAS ABLE TO  DUPLICATE THE PROBLEM BUT WAS UNABLE TO REPAIR IT.  *AK    *NM",
+        "vin": "1FTSW31P44E"
+    },
+    {
+        "components": "FUEL SYSTEM, DIESEL",
+        "crash": false,
+        "dateComplaintFiled": "06/03/2004",
+        "dateOfIncident": "05/15/2004",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10074746,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "1.) I OWN AN 04, F350 SUPERDUTY, DIESEL TRUCK.  THERE ARE 2 FUEL FILTERS \\ WATER SEPERATORS ON IT.  ONE ON THE DRIVERS SIDE, UNDER THE FRAME AND THE OTHER ON TOP OF THE ENGINE.  OWNERS MANUAL RECCOMENDS THAT YOU MUST DRAIN THE ONE UNDER THE FRAME AT LEAST WITH EVERY FILL UP TO PREVENT WATER FROM GETTING INTO THE ENGINE.    2.) THE PROBLEM IS THAT YOU MUST USE AN ALLEN WRENCH UNDER THE FRAME TO LOOSEN THE SCREW FOR THE FUEL IN THE FILTER TO DRAIN OUT.  FORD RECCOMENDS AT LEAST 25 SECONDS AND INTO A CONTAINER.  I HAVE DONE THIS 5 TIMES NOW.  4 TIMES THE SCREW HAS FALLEN OUT AND I WAS  SOAKED WITH DIESEL FUEL, AND HAD A 45 SECOND OR SO FLOW OF FUEL ON THE GROUND, CONTAMINATING IT.  3.)  I FEEL THAT THERE NEEDS TO BE A RECALL TO CHANGE THAT DRAIN SCREW TO A PETCOCK OR A SPRING LOADED SCREW TO PREVENT THE SCREW FROM FALLING OUT.  THIS WOULD PREVENT THESE SMALL FUEL SPILLS THAT ARE HARMFUL TO THE ENVIORNMENT, AND THE DANGEREOUS FUEL THAT IS BEING SPILLED ONTO PEOPLE.  *JB",
+        "vin": ""
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "03/29/2004",
+        "dateOfIncident": "03/28/2004",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10065065,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING AT ANY SPEED  VEHICLE LOST POWER.  *AL",
+        "vin": ""
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING,POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "03/17/2004",
+        "dateOfIncident": "01/18/2004",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10059526,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE WAS PURCHASED FOR PULLING A HORSE TRAILER.  TRANSMISSION AND ENGINE  LOCKED AT 600 MILES. DRIVER STATED THERE WAS A REAL BAD JERK. CURRENTLY,  WHEN DRIVING  VEHICLE WAS CONSTANTLY BUCKING. *AK  VEHICLE WAS JERKING WHILE CRUISE CONTROL IS EITHER ON OR OFF, AND WHEN PULLING TRAILER ON ANY SPEED.  DEALER PERFORMED DIAGNOSIS, NOTHING WAS FOUND.  DEALER ALSO REPLACED ICP, AND AP SWITCH TO REPAIR TRANSMISSION LOCK-UP.  *LA",
+        "vin": "1FTWW32P64E"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING,ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "02/26/2004",
+        "dateOfIncident": "01/15/2004",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10054178,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING 30 MPH THE VEHICLE STALLED WITHOUT WARNING.  THIS CAUSED LOST OF STEERING AND BRAKES.   THE DEALER TOLD THE CONSUMER THAT HE WAS USING THE WRONG GAS BUT THE CONSUMER IS USING HIGH DIESEL OCTANE.  PLEASE PROVIDE ANY ADDITIONAL INFORMATION.  *NM  THE CONSUMER STATED THERE WAS A TECHNICAL SERVICE BULLETIN  WHICH STATED THERE WAS A PROBLEM WITH WIRE CHAFFING.  *JB",
+        "vin": "1FTWW33P84E"
+    },
+    {
+        "components": "FUEL SYSTEM, OTHER",
+        "crash": false,
+        "dateComplaintFiled": "02/26/2004",
+        "dateOfIncident": "02/26/2004",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10059047,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TRUCK RUNS OUT OF FUEL SHOWING 1/4 TANK ON GAUGE. *AK",
+        "vin": ""
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "01/23/2004",
+        "dateOfIncident": "01/02/2004",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10052287,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING 62 MPH, THE VEHICLE STALLED.  THE DRIVER WAS ABLE TO RESTART THE VEHICLE AND DROVE TO THE DEALER FOR ANALYSIS.  THE MECHANIC COULD NOT RESOLVE THE PROBLEM.   *AK   THE CRUISE CONTROL WAS ENGAGED WHEN THE VEHICLE STALLED.  THE DEALER WAS UNABLE TO DUPLICATE THE PROBLEM.   *SC  *JB",
+        "vin": "1FPTSW31064"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "01/04/2004",
+        "dateOfIncident": "01/02/2004",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10052327,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE STOPPED AT A TRAFFIC LIGHT MY DIESEL TRUCK SUDDENLY LURCHED FORWARD. I WAS ABLE TO STEP ON THE BRAKE PEDAL FIRMLY ENOUGH TO PREVENT HITTING THE VEHICLE IN FRONT OF ME.  *LA",
+        "vin": ""
+    }
+]

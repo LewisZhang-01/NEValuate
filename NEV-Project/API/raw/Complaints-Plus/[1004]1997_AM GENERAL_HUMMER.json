@@ -1,0 +1,46 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "04/22/2002",
+        "dateOfIncident": "03/07/2002",
+        "fire": false,
+        "manufacturer": "AM GENERAL LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 8008266,
+        "products": [
+            {
+                "manufacturer": "AM GENERAL LLC",
+                "productMake": "AM GENERAL",
+                "productModel": "HUMMER",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING, VEHICLE STARTED LURCHING, THEN TRANSMISSION FAILED, CAUSED BY A DEFECT IN THE COOLING LOOP LOCATED IN THE TRANSFER CASE, A VOLUNTARY CONSUMER SATISFACTORY CAMPAIGN ANG-R0101-WAS ISSUED PERTAINING TO THIS DEFFECT BUT VEHICLE WAS NOT INCLUDED DUE TO VIN #.*AK      *YD",
+        "vin": "137ZA9033VE"
+    },
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "11/30/1999",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "AM GENERAL LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 549785,
+        "products": [
+            {
+                "manufacturer": "AM GENERAL LLC",
+                "productMake": "AM GENERAL",
+                "productModel": "HUMMER",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE LEAKS FUEL HEAVELY.  YH",
+        "vin": ""
+    }
+]

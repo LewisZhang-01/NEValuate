@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "12/27/2021",
+        "dateOfIncident": "11/20/2021",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11445045,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "E-350",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Without warning my brakes and steering failed on a Freedom Elite RV on a Ford Motor chassis. The vehicle only had 2396 miles on it at the time of occurrence. It turned out to be a pressure hose that broke. Luckily I was in a residential neighborhood with no traffic and driving very slowly when it happened. I shudder to think what would have happened on a hill or in traffic.",
+        "vin": "1FDWE3FN7ND"
+    }
+]

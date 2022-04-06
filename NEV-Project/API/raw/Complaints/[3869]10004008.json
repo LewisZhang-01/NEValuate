@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "01/16/2003",
+        "dateOfIncident": "12/24/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004008,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "LESABRE",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER FEELS THAT VEHICLE'S MAIN COMPUTER MODULE IS DEFECTIVE.  IF VEHICLE IS DRIVEN OVER  50 MILE DISTANCE, ALL THE VARIOUS WARNING CHIMES WILL SOUND. THE AIR BAG LIGHT WILL ILLUMINATE AND ALL DOORS WILL LOCK.  DEALER UNABLE TO DETERMINE EXACT CAUSE OF PROBLEM.    PH *TS",
+        "vin": "1G4HP54K4Y4"
+    }
+]

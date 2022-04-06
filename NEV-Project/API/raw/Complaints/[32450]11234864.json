@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "07/25/2019",
+        "dateOfIncident": "07/25/2019",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11234864,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "TUNDRA",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FRAME ROT ON MY 2006 TOYOTA TUNDRA",
+        "vin": "5TBDT44196S"
+    }
+]

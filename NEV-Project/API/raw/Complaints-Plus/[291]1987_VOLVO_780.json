@@ -1,0 +1,46 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "07/08/1997",
+        "dateOfIncident": "12/01/1996",
+        "fire": true,
+        "manufacturer": "Volvo Car USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 813946,
+        "products": [
+            {
+                "manufacturer": "Volvo Car USA, LLC",
+                "productMake": "VOLVO",
+                "productModel": "780",
+                "productYear": "1987",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "PARKED VEHICLE OVERNIGHT, NEXT MORNING CAR FILLED WITH SMOKE; PASSENGER'S SEAT CAUGHT ON FIRE. COULD HAVE BEEN CAUSED BY HEATING ELEMENT.   *AK  *SLC",
+        "vin": "YV1HA6929HD"
+    },
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "06/06/1995",
+        "dateOfIncident": "05/29/1995",
+        "fire": false,
+        "manufacturer": "Volvo Car USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 966388,
+        "products": [
+            {
+                "manufacturer": "Volvo Car USA, LLC",
+                "productMake": "VOLVO",
+                "productModel": "780",
+                "productYear": "1987",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE GAS TANK HAS RUPTURED BECAUSE THE DRIVE SHAFT IS TOO CLOSE. PLEASE EXPLAIN.  TT",
+        "vin": "YV1HA6928HD"
+    }
+]

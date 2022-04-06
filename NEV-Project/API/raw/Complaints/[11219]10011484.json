@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "03/12/2003",
+        "dateOfIncident": "10/31/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10011484,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE EXPERIENCED A HARD JERK, WHEN DRIVING AT HIGHWAY SPEEDS. AT TIMES, THE VEHICLE WOULD JERK THREE TO FOUR TIMES IN A ROW. DEALER WAS NOTIFIED AND COULDN'T DIAGNOSE THE PROBLEM.*JB",
+        "vin": "1FMZU73E5YZ"
+    }
+]

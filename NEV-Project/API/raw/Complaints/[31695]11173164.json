@@ -1,0 +1,24 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "01/30/2019",
+        "dateOfIncident": "01/29/2019",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11173164,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "CAMRY",
+                "productYear": "2018",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THIS IS A SW BUG IN THE MAP NAVIGATION SETUP THAT IS DANGEROUS.  THIS CAMRY HAS A FREEWAY MAP MODE SETUP WHERE THE SCREEN CAN BE SET FOR 50% MAP + 50% FREEWAY EXITS. THE MODE CAN ALSO BE SETUP FOR 100% MAP IF THAT IS PREFERRED.  THIS SETTING CAN ONLY BE SET IN THE CONTEXT OF DRIVING ON THE FREEWAY.  THE DEFAULT SETTING IS THE 50-50 MAP MODE.  THE REAL PROBLEM IS THAT THE SETTING ALWAY REVERTS BACK TO THE DEFAULT SETTING THROUGH TURNING THE CAR OFF AND ON.  THE SETTING DOES NOT GET STORED IN NON-VOLATILE MEMORY.  THE DRIVER MUST RESET THE MAP-MODE EVERY TIME, AND THEY MUST DO IT WHILE DRIVING AT FREEWAY SPEEDS.  THIS IS DANGERIOUS!",
+        "vin": "4T1BZ1HKXJU"
+    }
+]

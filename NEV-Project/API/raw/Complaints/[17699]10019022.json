@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "05/20/2003",
+        "dateOfIncident": "05/18/2003",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019022,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "ACCORD",
+                "productYear": "1991",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SEAT BELT RETRACTOR ON DRIVER-SIDE ONLY WILL NOT MOVE FROM RETRACTED POSITION AS IF DOOR IS OPEN AT ALL TIMES AFTER SENSOR ON DASHBOARD MALFUNCTIONED TEMPORARILY.  AS A RESULT, LAP BELT IS ONLY AVAILABLE RESULTING IN LACK OF SAFETY FOR DRIVER.   *NLM",
+        "vin": "JHMCB7651MC"
+    }
+]

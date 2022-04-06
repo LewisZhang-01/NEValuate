@@ -1,0 +1,46 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "09/10/1998",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 539973,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "FLHTCU",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "IGNITION SWITCH FAILED TWICE PRIOR TO RECALL,  TRIED TO HAVE RECALL WORK DONE RECALL KIT OUT OF STOCK AWAITING DELIVERY.",
+        "vin": ""
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "07/03/1997",
+        "dateOfIncident": "07/01/1997",
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 521326,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "FLHTCU",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TRANSMISSION FINAL DRIVE GEAR/PULLEY ASSEMBLY FAILED CAUSING LOSS OF POWER TO THE REAR WHEEL.",
+        "vin": "1HD1DP113RY"
+    }
+]

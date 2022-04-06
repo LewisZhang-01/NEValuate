@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "03/05/2003",
+        "dateOfIncident": "03/22/2001",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009936,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERCURY",
+                "productModel": "TRACER",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE HORN CONTINUOUSLY BLEW, CONSUMER HAD TO DISCONNECT THE FUSE TO STOP THE HORN FROM BLOWING. THE DEALERSHIP INDICATED THE THERE WAS A SHORT IN THE AIR BAG  MONITOR. 8JB",
+        "vin": "1MELM15P9VW"
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "components": "CHILD SEAT",
+        "crash": false,
+        "dateComplaintFiled": "06/02/2003",
+        "dateOfIncident": "05/30/2003",
+        "fire": false,
+        "manufacturer": "UNKNOWN MANUFACTURER",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022021,
+        "products": [
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN1",
+                "productYear": "9999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "COSCO, INC.",
+                "productMake": "COSCO",
+                "productModel": "CHILD SAFETY SEAT",
+                "productYear": "9999",
+                "type": "Child Seat"
+            }
+        ],
+        "summary": "COSCO MODEL 02-019WAL; CHILD SAFETY SEAT  LEFT SHIELD ARM PLASTIC CAME APART, THE SPRING POPPED OUT AND THE ARM FELL OFF WITHOUT FORCE OR NORMAL WEAR. *AK",
+        "vin": ""
+    }
+]

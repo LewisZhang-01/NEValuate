@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "04/20/2003",
+        "dateOfIncident": "04/19/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10016232,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "CONTOUR",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WET/LEAKING TRUNK.  ALSO LEAKING FROM TRUNK TO BACK SEAT.  CAN'T LOCATE WHERE THE LEAK IS COMING FROM.  *JB",
+        "vin": ""
+    }
+]

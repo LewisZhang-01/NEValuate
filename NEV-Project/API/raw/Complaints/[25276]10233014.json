@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC,VEHICLE SPEED CONTROL",
+        "crash": true,
+        "dateComplaintFiled": "07/02/2008",
+        "dateOfIncident": "05/08/2008",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10233014,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "2008",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 2008 FORD F-150.  THE CONTACT STARTED THE VEHICLE AND DEPRESSED THE BRAKE PEDAL, BUT BOTH THE BRAKE AND ACCELERATOR PEDALS BECAME STUCK.  THE VEHICLE SURGED BACKWARDS AND STRUCK THE BUMPER OF ANOTHER VEHICLE.  THERE WERE NO WARNING INDICATORS PRIOR TO THE FAILURE.  THE DRIVER SUSTAINED MINOR INJURIES.  THE POLICE WAS CALLED TO THE SCENE AND FILED A REPORT.  THE VEHICLE WAS TAKEN TO AN AUTHORIZED DEALER AND A DIAGNOSTIC WAS PERFORMED, BUT NO FAILURES WERE FOUND.  THE VIN AND SPEED WERE UNKNOWN.  THE FAILURE MILEAGE WAS 5,600 AND CURRENT MILEAGE WAS 7,600.",
+        "vin": ""
+    }
+]

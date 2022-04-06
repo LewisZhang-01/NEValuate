@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "05/28/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021676,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERCURY",
+                "productModel": "COUGAR",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE STALLED OUT WITHOUT WARNING WHILE DRIVING. THIS CAUSED BY FUEL SYSTEM FAILURE. THE PUMP WAS REPLACED TWICE.",
+        "vin": "1ZWFT61L8Y5"
+    }
+]

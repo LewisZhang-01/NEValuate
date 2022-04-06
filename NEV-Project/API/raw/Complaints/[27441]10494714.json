@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "01/25/2013",
+        "dateOfIncident": "01/03/2013",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10494714,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN ATTEMPTING TO ADD GASOLINE TO THE TANK, GAS SHOOTS OUT OF THE TANK AT THE NOZZLE AREA AS IF THE TANK IS FULL.  GAS MUST BE ADDED AT AN EXTREMELY SLOW RATE IN ORDER TO FILL THE TANK.  EVEN WHEN ADDING GAS TO THE TANK AT THE EXTREMELY SLOW RATE THE PUMP WILL CONTINUE TO KICK OFF EVERY FEW SECONDS. *TR",
+        "vin": "1FMEU74E86U"
+    }
+]

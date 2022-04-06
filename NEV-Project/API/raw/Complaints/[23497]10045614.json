@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "11/06/2003",
+        "dateOfIncident": "11/06/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10045614,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "ESCAPE",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CAR COMPLETELY SHUTS OFF WHILE DRIVING. THERE IS NO WARNING OR SYMPTOM THAT AN OCCURRENCE IS GOING TO HAPPEN. THIS SHUTDOWN OCCURS WHILE VEHICLE IS MOVING AND AT VARYING SPEEDS. THIS PROBLEM SEEMS TO BE ELECTRICAL IN NATURE AND PROBRABLY ASSOCIATED WITH SOME IGNITION COMPONET.*AK",
+        "vin": "1FMYU03121K"
+    }
+]

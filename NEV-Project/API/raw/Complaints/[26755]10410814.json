@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "07/07/2011",
+        "dateOfIncident": "05/14/2011",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10410814,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "PRIUS",
+                "productYear": "2010",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Yokohama Tire Corporation",
+                "productMake": "YOKOHAMA",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "CATASTROPHIC FAILURE OF SIDEWALL WHILE DRIVING.  DID NOT CAUSE AN ACCIDENT DUE TO LOW SPEED AT TIME OF FAILURE.  NO OBVIOUS SIGNS OF ROAD HAZARD PENETRATION AND/OR CONTACT.  PRODUCT IS IDENTIFIED ON SIDEWALL AS YOKOHAMA AWD 833 (DID NOT SEE IN DATABASE).  IN ADDITION TO THE DOT#, THERE WAS ANOTHER 'SERIAL #' OR SOMETHING ON THE TIRE - N5P2210.  *TR",
+        "vin": "JTDKN3DU5A5"
+    }
+]

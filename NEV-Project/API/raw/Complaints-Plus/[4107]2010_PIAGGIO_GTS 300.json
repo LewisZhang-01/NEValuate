@@ -1,0 +1,46 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "09/04/2011",
+        "dateOfIncident": "09/03/2011",
+        "fire": false,
+        "manufacturer": "Piaggio Group Americas, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10423217,
+        "products": [
+            {
+                "manufacturer": "Piaggio Group Americas, Inc.",
+                "productMake": "PIAGGIO",
+                "productModel": "GTS 300",
+                "productYear": "2010",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE FAILED TO START AND VESPA DEALER CALLED OUT POTENTIAL ISSUE AS FUEL PUMP WHICH IS WIDELY REPORTED ON DISCUSSION BOARDS AND THERE IS NO MENTION ON THE PIAGGIO GROUP WEB SITE.  *TR",
+        "vin": "ZAPM459L1A5"
+    },
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "07/01/2011",
+        "dateOfIncident": "06/20/2011",
+        "fire": false,
+        "manufacturer": "Piaggio Group Americas, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10410161,
+        "products": [
+            {
+                "manufacturer": "Piaggio Group Americas, Inc.",
+                "productMake": "PIAGGIO",
+                "productModel": "GTS 300",
+                "productYear": "2010",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VESPA GTS 300 SCOOTER, 2010 MODEL WITH 600 MILES, QUIT WORKING (STALLED) IN HEAVY TRAFFIC, CAUSING A POTENTIAL SEVERE ACCIDENT.  *TR",
+        "vin": "ZAPM459L4A5"
+    }
+]

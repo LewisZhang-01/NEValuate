@@ -1,0 +1,98 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "09/30/2021",
+        "dateOfIncident": "09/29/2021",
+        "fire": false,
+        "manufacturer": "Mazda Motor Corp.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11435011,
+        "products": [
+            {
+                "manufacturer": "Mazda Motor Corp.",
+                "productMake": "MAZDA",
+                "productModel": "MX-5",
+                "productYear": "1991",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Vee Tyre and Rubber Co., Ltd.",
+                "productMake": "VEE RUBBER",
+                "productModel": "VITRON",
+                "productYear": "9999",
+                "size": "185/60 R14",
+                "type": "Tire"
+            }
+        ],
+        "summary": "Sidewall of my one day old VeeRubber Vitron R41 split about 15 inches along the side wall of the tire about 2 to 3 inches down  from the road riding part of he tire. It was a clear day and there were no warnings when the one day old tire just split along the sidewall. The tire was mounted and filled with air at a retail tire store. 185/60 R14",
+        "vin": "JM1NA3515M0"
+    },
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "01/10/2020",
+        "dateOfIncident": "04/08/2019",
+        "fire": false,
+        "manufacturer": "Mazda Motor Corp.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11298375,
+        "products": [
+            {
+                "manufacturer": "Mazda Motor Corp.",
+                "productMake": "MAZDA",
+                "productModel": "MX-5",
+                "productYear": "1991",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AIR-BAG WARNING LIGHT BLINKS WHILE ENGINE IS RUNNING. TOOK IN FOR REPAIR AND SAID PART IS NO LONGER AVAILABLE. WHAT IS MY RECOURSE?",
+        "vin": "JM1NA3518M1"
+    },
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "05/09/2017",
+        "dateOfIncident": "05/01/2017",
+        "fire": false,
+        "manufacturer": "Mazda Motor Corp.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10984406,
+        "products": [
+            {
+                "manufacturer": "Mazda Motor Corp.",
+                "productMake": "MAZDA",
+                "productModel": "MX-5",
+                "productYear": "1991",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE'S AIRBAG WARNING IS ON. THE WARNING LIGHT FLASHES A NUMBER OF TIMES, THEN PAUSES FOR A FEW SECONDS, AND THEN BEGINS AGAIN. THE PROBLEM IS PROBABLY DUE TO THE FAILURE OF THE CONTROL MODULE AND THIS PART IS NO LONGER AVAILABLE FROM THE MANUFACTURER OR FROM REMANUFACTURERS. THE AIRBAG IS A SAFETY ITEM AND THUS MUST BE OPERABLE. THE MANUFACTURER, MAZDA, MUST MAKE THIS REPAIR OR MAKE THE PART AVAILABLE.",
+        "vin": "JM1NA3512M0"
+    },
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "02/16/2017",
+        "dateOfIncident": "02/16/2017",
+        "fire": false,
+        "manufacturer": "Mazda Motor Corp.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10955121,
+        "products": [
+            {
+                "manufacturer": "Mazda Motor Corp.",
+                "productMake": "MAZDA",
+                "productModel": "MX-5",
+                "productYear": "1991",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE AIRBAG WARNING LIGHT CAME ON AND SHOWS THE MODULE HAS FAILED. MODULES ARE NOT AVAILABLE FROM THE MANUFACTURER. THIS IS A COMMON SAFETY PROBLEM WITH MAZDA MIATAS.",
+        "vin": "JM1NA3513M0"
+    }
+]

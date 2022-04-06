@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "05/14/2003",
+        "dateOfIncident": "04/15/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018725,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXCURSION",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SHOCK BROKE IN HALF AND SEVERED THE BRAKE LINE AND VEHICLE COULD NOT BE STOPPED. ALSO, DAMAGED WINDSHIELD WIPER MOTOR. REPORTED TO FORD.  *NLM",
+        "vin": "1FMNU42F01E"
+    }
+]

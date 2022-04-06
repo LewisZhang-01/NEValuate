@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "01/13/2003",
+        "dateOfIncident": "01/10/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002582,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATED THE ANTI-LOCK BRAKE SYSTEM MODULE WAS ENGAGING UNNECESSARILY WHILE DRIVING AND CONTINUED TO RUN WHEN VEHICLE WAS TURNED OFF.  CONSUMER HAD TO PULL ABS FUSE TO DISENGAGE,   THIS RESULTED IN LOSS OF ABS FUNCTIONALITY. *JB",
+        "vin": ""
+    }
+]

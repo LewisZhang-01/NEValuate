@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "03/13/2003",
+        "dateOfIncident": "12/04/2002",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009758,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "MATRIX",
+                "productYear": "2003",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Bridgestone Americas Tire Operations",
+                "productMake": "FIRESTONE",
+                "productModel": "FIREHAWK",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE ORIGINAL EQUIPMENT TIRES HAD NO TRACTION AND CAUSED THE VEHICLE TO SLIDE IN THE SNOW.  CONSUMER REQUESTED THE DEALERSHIP REIMBURSE FOR PURCHASE OF SNOW TIRES.   *TT   *JB",
+        "vin": ""
+    }
+]

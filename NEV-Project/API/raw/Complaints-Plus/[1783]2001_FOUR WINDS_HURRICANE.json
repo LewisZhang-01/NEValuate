@@ -1,0 +1,46 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "08/28/2014",
+        "dateOfIncident": "08/04/2014",
+        "fire": false,
+        "manufacturer": "FOUR WINDS INTERNATIONAL",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10629104,
+        "products": [
+            {
+                "manufacturer": "FOUR WINDS INTERNATIONAL",
+                "productMake": "FOUR WINDS",
+                "productModel": "HURRICANE",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2001 FOUR WINDS HURRICANE RECREATIONAL VEHICLE. THE CONTACT HEARD A LOUD NOISE COMING FROM THE ENGINE COMPARTMENT. THE DEALER STATED THAT THE AIR COMPRESSOR WAS FAULTY AND COULD CAUSE THE POWER STEERING TO FAIL. THE MANUFACTURER WAS NOT NOTIFIED OF THE FAILURE. THE APPROXIMATE FAILURE MILEAGE WAS 8,500.",
+        "vin": "1FCLF53S110"
+    },
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "05/31/2001",
+        "dateOfIncident": "03/30/2001",
+        "fire": false,
+        "manufacturer": "FOUR WINDS INTERNATIONAL",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 889501,
+        "products": [
+            {
+                "manufacturer": "FOUR WINDS INTERNATIONAL",
+                "productMake": "FOUR WINDS",
+                "productModel": "HURRICANE",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHENEVER FILLING MOTORHOME WITH FUEL AND REMOVING NOZZLE, FUEL  BACKS OUT AND RUNS DOWN  SIDE OF  MOTORHOME TO  GROUND.  FUEL PIPE IS PARALLEL TO  GROUND.*AK  *SLC",
+        "vin": "1FCMF53S810"
+    }
+]

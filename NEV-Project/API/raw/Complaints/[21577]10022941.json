@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "07/11/2003",
+        "dateOfIncident": "02/19/2001",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10022941,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "SKYLARK",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE WAS INVOLVED IN A FRONTAL COLLISION WHILE DRIVING AT 30 MPH AND NONE OF THE AIR BAG DEPLOYED. DEALER NOTIFIED. *AK      *CB  *JB",
+        "vin": "1G4NJ52T3VC"
+    }
+]

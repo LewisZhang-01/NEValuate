@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "02/18/2003",
+        "dateOfIncident": "01/07/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10007705,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER SPORT",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "P25570R16",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "I HAVE JUST PURCHASED A 2001 FORD EXPLORER SPORT THAT WAS SITTING FOR A  > YEAR AS PART OF AN ESTATE.  > > >  > > > THIS CAR HAS FIRESTON WILDERNESS TIRES P255 70R16 1095 M+S. WHICH HAVE BEEN RECALLED. FORD & FIRESTONE REFUSE TO REPLACE THESE TIRES BECAUSE  THE TIME ALLOTTED EXPIRED",
+        "vin": "1FMYU70EX1U"
+    }
+]

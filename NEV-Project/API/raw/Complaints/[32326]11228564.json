@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "06/30/2019",
+        "dateOfIncident": "06/27/2019",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 4,
+        "odiNumber": 11228564,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "PT CRUISER",
+                "productYear": "2008",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TAKATA RECALL THE CAR WAS IN MOTION ON THE HIGHWAY. AN OBJECT WAS STRUCK IN THE ROAD AND THE AIRBAG DEPLOYED ONLY ON THE DRIVER SIDE OF THE VEHICLE.  *BF *JB",
+        "vin": "3A8FY48B68T"
+    }
+]

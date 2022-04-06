@@ -1,0 +1,24 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "12/31/2002",
+        "dateOfIncident": "08/01/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001732,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "V184",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING MOBILE THE SPEEDOMETER STAYS AT 0 AND BRAKE LIGHT STOPS WORKING. PLEASE PROVIDE ADDITIONAL INFORMATION.",
+        "vin": "3FCNF53S2YJ"
+    }
+]

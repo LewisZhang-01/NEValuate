@@ -1,0 +1,32 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING,TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/14/2003",
+        "dateOfIncident": "08/30/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002091,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "PARK AVENUE",
+                "productYear": "1999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "GOODYEAR",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE CONSUMER STATES THAT HIS WIFE STARTED THE VEHICLE AND THE ENGINE BLEW.  THE NOISE SOUNDED AS IF A BOMB WENT OFF.  THERE WAS A LARGE HOLE ON TOP OF THE ENGINE.  THE DEALER SAID THAT THEY DIDN'T KNOW WHY THIS HAPPENED.  THE CONSUMER ALSO REPLACED ALL FOUR TIRE DUE TO VIBRATION.  SCC",
+        "vin": "1G4CW52KXX4"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "07/25/2019",
+        "dateOfIncident": "06/26/2019",
+        "fire": false,
+        "manufacturer": "Subaru of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11234792,
+        "products": [
+            {
+                "manufacturer": "Subaru of America, Inc.",
+                "productMake": "SUBARU",
+                "productModel": "WRX STI",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "STARTER WINDED (MISSED) ON STARTUP AND DID NOT ENGAGE UNTIL NEXT ATTEMPTED VEHICLE STARTUP.",
+        "vin": ""
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "06/11/2003",
+        "dateOfIncident": "06/01/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021435,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CLUTCH SLAVE CYLINDER FAILED ON A 16 MONTH OLD FORD RANGER 5 SPEED, 4 CYLINDER.  *JB",
+        "vin": ""
+    }
+]

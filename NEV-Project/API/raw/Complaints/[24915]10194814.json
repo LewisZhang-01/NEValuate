@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/27/2007",
+        "dateOfIncident": "06/26/2007",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10194814,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "2006",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Continental Tire the Americas, LLC",
+                "productMake": "CONTINENTAL",
+                "productModel": "CONTITRAC",
+                "productYear": "9999",
+                "size": "LT275/65R18",
+                "type": "Tire"
+            }
+        ],
+        "summary": "2006 FORD F150 WITH 34000 MILES, CONTINENTAL CONTITRAC TIRES ARE WORE OUT IRREGULARLY AND PREMATURELY. REPLACED TIRES.",
+        "vin": ""
+    }
+]

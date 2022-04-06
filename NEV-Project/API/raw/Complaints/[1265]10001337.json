@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "12/20/2002",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001337,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "WINDSTAR",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATES WHILE TRAVELING WITHOUT ANY INDICATION VEHICLE LOST ALL POWER STEERING. DEALER WAS CONTACTED AND REPLACE STEERING RACK PUMP AND PULLEY. PLEASE PROVIDE FURTHER INFORMATION. TS",
+        "vin": ""
+    }
+]

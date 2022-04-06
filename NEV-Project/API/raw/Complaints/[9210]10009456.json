@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "02/26/2003",
+        "dateOfIncident": "02/15/2003",
+        "fire": false,
+        "manufacturer": "Mazda Motor Corp.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009456,
+        "products": [
+            {
+                "manufacturer": "Mazda Motor Corp.",
+                "productMake": "MAZDA",
+                "productModel": "626",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE TRANSMISSION  LOCKED UP, WHICH CAUSED THE REAR TIRES TO LOCK, WHICH MADE IT DIFFICULT FOR THE CONSUMER TO CONTROL THE VEHICLE.*JB",
+        "vin": "FULLFILL"
+    }
+]

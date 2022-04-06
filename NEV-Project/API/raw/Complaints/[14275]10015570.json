@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "04/10/2003",
+        "dateOfIncident": "04/05/2003",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015570,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "CIVIC",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE WAS INVOLVED IN A FRONTAL COLLISION WHILE TRAVELING 60 MPH.  NEITHER THE FRONT DRIVER NOR PASSENGER AIR BAG DEPLOYED.  *NLM  *TT",
+        "vin": "1HGEM22911L"
+    }
+]

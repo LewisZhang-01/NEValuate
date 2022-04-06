@@ -1,0 +1,90 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "07/09/1998",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "COBRA INDUSTRIES, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 538133,
+        "products": [
+            {
+                "manufacturer": "COBRA INDUSTRIES, INC.",
+                "productMake": "COBRA",
+                "productModel": "COBRA",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "RIGHT FRONT BRAKE LINE SEPARATED FROM CALIPER, CAUSING BRAKE FAILURE.",
+        "vin": "1FALP47V4TF"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "07/09/1998",
+        "dateOfIncident": "04/28/1998",
+        "fire": false,
+        "manufacturer": "COBRA INDUSTRIES, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 538252,
+        "products": [
+            {
+                "manufacturer": "COBRA INDUSTRIES, INC.",
+                "productMake": "COBRA",
+                "productModel": "COBRA",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FRONT LEFT BRAKE LINE CALIPER SIDE CRIMP FAILURE.",
+        "vin": "1FALP47V4TF"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "02/26/1997",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "COBRA INDUSTRIES, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 515098,
+        "products": [
+            {
+                "manufacturer": "COBRA INDUSTRIES, INC.",
+                "productMake": "COBRA",
+                "productModel": "COBRA",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "IDLER PULLEY FAILED.",
+        "vin": "1FALP47VXTF"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC,POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "12/09/1996",
+        "dateOfIncident": "11/19/1996",
+        "fire": false,
+        "manufacturer": "COBRA INDUSTRIES, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 512138,
+        "products": [
+            {
+                "manufacturer": "COBRA INDUSTRIES, INC.",
+                "productMake": "COBRA",
+                "productModel": "COBRA",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "PREMATURE FADING OF ABS BRAKES, CAUSING VEHICLE TO SWERVE AT HIGH SPEEDS; ALSO, TRANSMISSION FAILURE.  *AK",
+        "vin": "1FALP47V8TF"
+    }
+]

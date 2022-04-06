@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "02/17/2003",
+        "dateOfIncident": "02/17/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10007644,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "PARK AVENUE",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TRANSMISSION FAILURE. BEARING CAME LOOSE AND DAMAGED INTERNAL PARTS.",
+        "vin": "1G4CW52K7W4"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "11/05/2004",
+        "dateOfIncident": "11/01/2004",
+        "fire": false,
+        "manufacturer": "UNKNOWN MANUFACTURER",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10099814,
+        "products": [
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "FR 480",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "FIRESTONE TIRE ENTIRE TREAD  AND SEPARATED CAUSED DAMAGE TO FRONT LEFT SIDE .TIRES HAVE TO BE REMOVED.   *BF   THE TWIN TIRE ON THE FRONT RIGHT SIDE SHOWED SIGNS OF CRACKING ALONG THE TREAD EDGE AREA.   *SC",
+        "vin": ""
+    }
+]

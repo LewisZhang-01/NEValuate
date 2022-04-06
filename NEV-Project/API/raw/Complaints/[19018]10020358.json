@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "06/26/2003",
+        "dateOfIncident": "05/19/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020358,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAVALIER",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING, THE VEHICLE STALLED WHICH WAS CAUSED BY A DEFECTIVE FUEL PUMP.  THE OLD FUEL PUMP WAS REPLACED WITH A REDESIGNED FUEL PUMP.   *JB     *CB  *JB",
+        "vin": "4G1JF32T4YB"
+    }
+]

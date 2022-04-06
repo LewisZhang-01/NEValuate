@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "03/05/2003",
+        "dateOfIncident": "03/05/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009976,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "MUSTANG",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE EXPERIENCED THE SAME PROBLEM AS STATED IN RECALL 96 V 071 000. IGNITION ELECTRICAL SYSTEM SHORTED IN TURN SIGNALS.*JB",
+        "vin": "1FACP41M9NF"
+    }
+]

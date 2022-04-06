@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "03/12/2003",
+        "dateOfIncident": "12/12/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10011521,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "TAHOE",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE ACCELERATOR PEDAL WAS STUCK, THE DEALER STATED THE VEHICLE'S THROTTLE WAS STUCK IN THE CLOSE POSITION. *JB",
+        "vin": "1GNEK13T5YJ"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "04/17/2003",
+        "dateOfIncident": "02/17/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10016079,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "THUNDERBIRD",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE DRIVER SIDE DOOR HINGE MALFUNCTIONED WHICH MADE THE DOOR INOPERATIVE.  *NLM",
+        "vin": ""
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "02/16/2003",
+        "dateOfIncident": "02/15/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10007575,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "S10",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WINDSHIELD WIPERS FAILED DUE TO DEFECTIVE WIPER MOTOR MODULE.  WAS TOLD BY AN AUTO PARTS STORE, THE LOCAL DEALER'S PARTS DEPARTMENT, AND A DEALER TECHNICIAN THAT THE ORIGINAL CIRCUIT BOARD WAS DEFECTIVE ON THE S-10, AND THE FULL-SIZE PICKUP, FOR SEVERAL YEARS.",
+        "vin": "1GCCS144XR8"
+    }
+]

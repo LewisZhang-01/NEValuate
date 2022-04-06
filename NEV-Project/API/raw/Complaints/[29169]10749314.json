@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "08/17/2015",
+        "dateOfIncident": "08/05/2015",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10749314,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "BEETLE",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "REAR RIGHT SIDE  WINDOW REGULATOR MALFUNCTION",
+        "vin": "3VWCM31Y65M"
+    }
+]

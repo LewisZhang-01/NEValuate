@@ -1,0 +1,24 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER,ELECTRONIC STABILITY CONTROL,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "08/15/2016",
+        "dateOfIncident": "08/13/2016",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10895914,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CRUZE",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SERVICE ENGINE LIGHT FLASHED WITH MESSAGES TO SERVICE BOTH STABILITRAK AND TRACTION CONTROL. LATER THAT SAME DAY NOTICED JERKING OF ENGINE SO STRONG IT SHOOK THE CAR WHILE IDLING AND CONSTANT LOUD SQUEELING NOISE. ALSO NOTICED THE VEHICLE LAGS ON ACCELERATION/TAKE OFF AFTER IDLING. THIS HAPPENED AT APPROX 29,500 MILES.",
+        "vin": "1G1PC5SB0E7"
+    }
+]

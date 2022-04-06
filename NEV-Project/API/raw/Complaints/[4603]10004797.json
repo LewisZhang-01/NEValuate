@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "02/04/2003",
+        "dateOfIncident": "11/21/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004797,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "BLAZER",
+                "productYear": "1986",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "UNIROYAL TIRE CO.",
+                "productMake": "UNIROYAL",
+                "productModel": "LAREDO",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE CORD SEPARATED HALF WAY AROUND THE TIRE.  THE TIRE HAS 9/32 TREAD.  SCC    PH",
+        "vin": ""
+    }
+]

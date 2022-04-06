@@ -1,0 +1,31 @@
+[
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "06/17/2008",
+        "dateOfIncident": "06/11/2008",
+        "fire": false,
+        "manufacturer": "Forest River, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10231310,
+        "products": [
+            {
+                "manufacturer": "Forest River, Inc.",
+                "productMake": "FOREST RIVER",
+                "productModel": "CEDAR CREEK",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Dometic Corporation",
+                "productMake": "DOMETIC",
+                "productModel": "RM2852",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 2001 FOREST RIVER CEDAR CREEK.  THE VEHICLE HAS A DOMETIC REFRIGERATOR, MODEL RM2852.  THE CONTACT NOTICED THAT THE REFRIGERATOR WAS INOPERATIVE AND THAT THERE WAS A YELLOWISH RESIDUE OUTSIDE OF THE UNIT.  SHE TOOK HER VEHICLE TO A LOCAL RV SERVICE STATION AND WAS INFORMED THAT HER EQUIPMENT WAS LEAKING AMMONIA.  DOMETIC STATED THAT HER VIN WAS EXCLUDED FROM NHTSA CAMPAIGN ID NUMBER 08E032000 (EQUIPMENT); THEREFORE, SHE WOULD BE RESPONSIBLE FOR THE REPAIR COSTS.  THE FAILURE AND CURRENT MILEAGES WERE NOT APPLICABLE.   UPDATED 08/20/08 *BF   MODEL NUMBER RM2852 SERIAL NUMBER 10204076. UPDATED 08/21/08",
+        "vin": "4X4TCRG291P"
+    }
+]

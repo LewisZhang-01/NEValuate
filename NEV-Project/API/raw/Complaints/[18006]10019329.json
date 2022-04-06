@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "05/07/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019329,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "DAKOTA",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING THE VEHICLE DEVELOPED A VIBRATION .  WHEN THE VEHICLE WAS PUT IN REVERSE THERE WAS A LOUD BANG.  THE MECHANIC STATED THE  TRANSMISSION MOUNTS FAILED.  *NLM",
+        "vin": "1B7662346MS"
+    }
+]

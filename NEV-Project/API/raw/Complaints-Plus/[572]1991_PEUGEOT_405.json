@@ -1,0 +1,46 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "11/30/2004",
+        "dateOfIncident": "08/17/2004",
+        "fire": false,
+        "manufacturer": "PEUGEOT, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10101933,
+        "products": [
+            {
+                "manufacturer": "PEUGEOT, INC.",
+                "productMake": "PEUGEOT",
+                "productModel": "405",
+                "productYear": "1991",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER COMPLAINT CONCERNING VEHICLE NOT BEING REPAIRED CORRECTLY AND REPLACE PARTS THAT WERE NOT PROPERLY REPLACED.   *BF   THE CLUTCH WAS REPLACED AND HAVE BEEN TAKEN BACK TO THE SHOP TO ADJUST, TIGHTEN AND REPLACED PARTS THAT WEREN'T REPLACED PROPERLY.  THE CLUTCH BEARINGS BEGUN TO SQUEAL AND GRIND.  (VEHICLE MODEL/405MI16)   *SC",
+        "vin": ""
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "11/30/1995",
+        "dateOfIncident": "08/16/1991",
+        "fire": false,
+        "manufacturer": "PEUGEOT, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 500194,
+        "products": [
+            {
+                "manufacturer": "PEUGEOT, INC.",
+                "productMake": "PEUGEOT",
+                "productModel": "405",
+                "productYear": "1991",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENGINE RADIATOR FAILED. *DSH",
+        "vin": "VF3EA1312MS"
+    }
+]

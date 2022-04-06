@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/07/2003",
+        "dateOfIncident": "12/10/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000776,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-250 SD",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "GENERAL TIRE & RUBBER CO.",
+                "productMake": "GENERAL",
+                "productModel": "GRABBER AW",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "OEM TIRE DEFECT (THE 2ND TIRE TO FAIL IN THE SAME WAY).  TIRE DEVELOPED A 2\" X 3\" X 1\" HIGH KNOT ON THE SIDEWALL.  TIRE REPLACED BEFORE FAILURE.",
+        "vin": ""
+    }
+]

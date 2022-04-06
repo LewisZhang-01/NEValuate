@@ -1,0 +1,32 @@
+[
+    {
+        "components": "SUSPENSION,TIRES",
+        "crash": false,
+        "dateComplaintFiled": "03/24/2003",
+        "dateOfIncident": "03/19/2003",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010949,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "350Z",
+                "productYear": "2003",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Bridgestone Americas Tire Operations",
+                "productMake": "BRIDGESTONE",
+                "productModel": "POTENZA",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "FRONT TIRES ON MY VEHICLE ARE FEATHERING DUE TO SUSPENSION PROBLEMS. MANUFACTURER WILL NOT FIX THE MECHANICAL PROBLEM. IT IS A NISSAN 350Z 2003 UNDER WARRANTY WITH 8000 MILES. HAVE HAD 3 TIRE INSPECTIONS BY DIFFERENT TIRE MANUFACTURER'S, ALL POINT TOWARD SUSPENSION DEFECT. TRACTION IS LESS THEN 100%   *JB",
+        "vin": ""
+    }
+]

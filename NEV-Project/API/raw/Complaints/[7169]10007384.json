@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "02/13/2003",
+        "dateOfIncident": "12/20/2002",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10007384,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "CONCORDE",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE WIPER BLADE AND TURN SIGNAL FAILED, THE RELAY AND MULTI-FUNCTION SWITCH WAS REPLACED SEVERAL TIMES.*JB *TS",
+        "vin": "2C3HD56F0SH"
+    }
+]

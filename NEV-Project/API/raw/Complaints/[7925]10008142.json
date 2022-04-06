@@ -1,0 +1,31 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "02/26/2003",
+        "dateOfIncident": "03/10/1999",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10008142,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "MAXIMA",
+                "productYear": "1998",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "16 FOOT CABLE(07411-2AJA)",
+                "productYear": "1995",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "HEADLIGHT HARNESS CONNECTORS BURNED OUT IN 3 MONTHS CAUSING SAFETY HAZARD FOR NIGHT DRIVING.  I HAVE REPLACED THE RIGHT AND LEFT HARNESS 6 TIMES AND THEY CONTINUE TO BLOW.  THE REPLACEMENT HARNASSES ARE OEM REPLACEMENT PARTS AND WERE PURCHASED FROM THE NISSAN DEALER.",
+        "vin": "JN1CA21D3WT"
+    }
+]

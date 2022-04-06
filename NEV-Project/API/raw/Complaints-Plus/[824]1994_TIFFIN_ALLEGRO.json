@@ -1,0 +1,68 @@
+[
+    {
+        "components": "PARKING BRAKE",
+        "crash": false,
+        "dateComplaintFiled": "06/07/1999",
+        "dateOfIncident": "01/11/1999",
+        "fire": false,
+        "manufacturer": "Tiffin Motorhomes, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 838989,
+        "products": [
+            {
+                "manufacturer": "Tiffin Motorhomes, Inc.",
+                "productMake": "TIFFIN",
+                "productModel": "ALLEGRO",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN DRIVING AT ANY SPEED PARKING BRAKE LOCKS UP.  *AK   *YD",
+        "vin": "1GBKP37N6R3"
+    },
+    {
+        "components": "EXTERIOR LIGHTING",
+        "crash": false,
+        "dateComplaintFiled": "05/07/1999",
+        "dateOfIncident": "03/01/1998",
+        "fire": false,
+        "manufacturer": "Tiffin Motorhomes, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 545370,
+        "products": [
+            {
+                "manufacturer": "Tiffin Motorhomes, Inc.",
+                "productMake": "TIFFIN",
+                "productModel": "ALLEGRO",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "HEADLIGHT ASSEMBLY LOOKED FOGGY RESULTING IN POOR VISIBILITY, REQUIRED REPLACEMENT OF HEADLIGHT ASSEMBLY. MJS",
+        "vin": "1GBKP37N2P3"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "07/11/1995",
+        "dateOfIncident": "06/26/1995",
+        "fire": false,
+        "manufacturer": "Tiffin Motorhomes, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 968576,
+        "products": [
+            {
+                "manufacturer": "Tiffin Motorhomes, Inc.",
+                "productMake": "TIFFIN",
+                "productModel": "ALLEGRO",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE ABS BRAKES ON THE MOTORHOME DO NOT WORK WHEN TRYING TO STOP, THE BRAKES GO ALL THE WAY TO THE FLOOR. PLEASE DESCRIBE.    *AK",
+        "vin": ""
+    }
+]

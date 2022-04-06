@@ -1,0 +1,46 @@
+[
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "09/20/2021",
+        "dateOfIncident": "12/01/2020",
+        "fire": true,
+        "manufacturer": "SAFARI MOTOR COACHES, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11433607,
+        "products": [
+            {
+                "manufacturer": "SAFARI MOTOR COACHES, INC.",
+                "productMake": "SAFARI",
+                "productModel": "ZANZIBAR",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact owns a 2000 Zanzibar Safari RV. The contact stated that the vehicle was smoking and an abnormal burning odor was detected. There were no warning lights illuminated.  The vehicle was taken to the local dealer where diagnosed the brakes needed to be replaced. The vehicle was repaired however, the failure recurred. The manufacturer was not notified. The failure mileage was 77,905.",
+        "vin": "4SLG1EN2XY1"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": true,
+        "dateComplaintFiled": "10/18/2002",
+        "dateOfIncident": "09/29/2002",
+        "fire": false,
+        "manufacturer": "SAFARI MOTOR COACHES, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 768582,
+        "products": [
+            {
+                "manufacturer": "SAFARI MOTOR COACHES, INC.",
+                "productMake": "SAFARI",
+                "productModel": "ZANZIBAR",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKE FAILURES HAVE PROGRESSIVELY GOTTEN WORSE, WITH THE LAST RESULTING IN AN UNAVOIDABLE TRAFFIC ACCIDENT WITH INJURIES.  THE BRAKES LOCKED  LOSING ALL BRAKING AND STEERING.  (THIS PROBLEM HAS BEEN REPLICATED BY JOSAM'S IN ORLANDO)  THE MANUFACTURER OF THE ABS SYSTEM (WABCO) DOESN'T KNOW  WHAT TO DO.  DT",
+        "vin": "4SLG1EN22Y1"
+    }
+]

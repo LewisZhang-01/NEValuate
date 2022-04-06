@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "06/27/2003",
+        "dateOfIncident": "06/22/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10023896,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "RAM 2500",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUEL QUANTITY INDICATED LOWER THAN ACTUAL FUEL IN TANK OF '95 DODGE RAM 2500 P/U. REMOVED CARTER FUEL MODULE; FOUND FLOAT DETERIORATED WITH ABSORBED FUEL WHICH MADE FLOAT HEAVY AND CAUSED FAULTY INDICATION. INSTALLED WALBRO FUEL MODULE, CHECKS OK. HOW DO I INFORM DODGE TO PROCESS BULLETIN OR RECALL THE FAULTY CARTER FUEL MODULES?  THIS IS A SAFETY CONCERN, OPERATORS NEED TO KNOW ACCURATE FUEL LOAD TO MAKE A SAFE TRIP.  *JB",
+        "vin": "3B7KF23W6SM"
+    }
+]

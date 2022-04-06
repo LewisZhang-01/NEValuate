@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "04/14/2003",
+        "dateOfIncident": "04/14/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015779,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPEDITION",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Continental Tire the Americas, LLC",
+                "productMake": "CONTINENTAL",
+                "productModel": "CONTINENTAL",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE CONSUMER REPLACED THE ORIGINAL CONTINENTAL GENERAL GRABBER AW TIRES PRIOR TO THE RECALL,  HOWEVER IN 09/02 HE RECEIVED A RECALL LETTER FROM THE MANUFACTURER REGARDING THE TIRES. CONSUMER REQUESTED REIMBURSEMENT, HOWEVER CONTINENTAL DENIED THE CLAIM, THEY STATED THE DEADLINE HAD PASSED. *JB",
+        "vin": "1FMRU17L1YL"
+    }
+]

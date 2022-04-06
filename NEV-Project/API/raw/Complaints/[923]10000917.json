@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": true,
+        "dateComplaintFiled": "01/10/2003",
+        "dateOfIncident": "09/17/2001",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 1,
+        "numberOfInjuries": 1,
+        "odiNumber": 10000917,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "JIMMY",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "1997 GMC JIMMY - STEELING FAILED WHILE DRIVING AT LOW RATE OF SPEED AS APPROACHING A CURVE IN ROAD.  THERE WAS NO RESPONSE IN THE STEERING AND VEHICLE SUDDENLY VEERED OFF ROAD AND CRASHED INTO TREES.",
+        "vin": "1GKDT13W8V2"
+    }
+]

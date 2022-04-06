@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "01/17/2003",
+        "dateOfIncident": "01/13/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004148,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "GRAND CHEROKEE",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING AT 60 MPH VEHICLE WAS INVOLVED IN A FRONTAL COLLISION AND THE AIRBAGS DID NOT DEPLOY. DEALER NOTIFIED. PLEASE PROVIDE ADDITIONAL INFORMATION. TS",
+        "vin": "PLEASE FILL"
+    }
+]

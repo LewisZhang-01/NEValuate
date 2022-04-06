@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "04/08/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015447,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "PROBE",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE LOST POWER STEERING WHEN A TURN WAS MADE.   *JB",
+        "vin": "1ZBLT22V0T5"
+    }
+]

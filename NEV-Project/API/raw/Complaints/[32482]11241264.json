@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "08/02/2019",
+        "dateOfIncident": "05/01/2019",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11241264,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "GRAND CHEROKEE",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "6.4L HEMI ENGINE KNOCK SMELLS LIKE BURNING COOLANT",
+        "vin": "1C4RJFDJ0GC"
+    }
+]

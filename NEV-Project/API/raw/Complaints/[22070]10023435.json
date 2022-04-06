@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "06/20/2003",
+        "dateOfIncident": "01/09/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10023435,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "BLAZER",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AUTOMATIC TRANSMISSION NOT SHIFTING FROM REVERSE TO FIRST GEAR. CAUSING THE ENGINE TO RACE BUT MOVING AS THOUGH IT IS IN SECOND OR THIRD GEAR TO START FROM A DEAD STOP.  ONCE MOVING AT SECOND GEAR SPEED IT IS WORKING FINE.  SERVICE ENGINE LIGHT IS ON.  WHEN SCANNED IT SHOWS CODES P0740 AND P1860 (P0740 IS TCC SENSOR MALFUNCTION ---P1860 IS  SHIFT PLATE D GROUNDED TO BATTERY)WHEN CODES ARE CLEARED THE CODES COME BACK.  TRANSMISSION FLUID AND FILTER HAVE BEEN REPLACED .   *NLM",
+        "vin": "1GNDT13W0V2"
+    }
+]

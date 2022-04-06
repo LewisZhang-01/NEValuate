@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "06/26/2003",
+        "dateOfIncident": "03/23/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017946,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERCURY",
+                "productModel": "VILLAGER",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN THE CONSUMER APPLIED THE BRAKES, THEY LOCKED UP AND CAUSED EXTENDED STOPPING DISTANCE.   *NLM   BOTH FRONT BRAKES LOCKED UP WITHIN LESS THAN A MONTH APART.  THERE WAS A PROBLEM WITH BOTH REAR BRAKES AND THE LEFT FRONT CALIPER LOCKED UP.   *SCC  *JB",
+        "vin": "4M2ZV1110WD"
+    }
+]

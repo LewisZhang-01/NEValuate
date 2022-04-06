@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "08/22/2003",
+        "dateOfIncident": "08/19/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019834,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "OLDSMOBILE",
+                "productModel": "ALERO",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN APPLYING ACCELERATOR AT 50-55 MPH VEHICLE WILL NOT ACCELERATE, ENGINE WILL NOT RESPOND TO THE PEDAL BEING PUSHED.*AK",
+        "vin": "1G3NL52E52C"
+    }
+]

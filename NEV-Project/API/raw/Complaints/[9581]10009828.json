@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "03/04/2003",
+        "dateOfIncident": "12/31/2002",
+        "fire": true,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 2,
+        "odiNumber": 10009828,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "GRAND CARAVAN",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE WAS INVOLVED IN A COLLISION YET THE DRIVER'S SIDE AIR BAG FAILED TO DEPLOY.  *NLM   THE PASSENGER SIDE AIR BAG OPENED BUT WAS DEFLATED.   CONSUMER RECEIVED LETTER REGARDING FAULTY AIR BAGS AFTER ACCIDENT.     *TT",
+        "vin": "2B4GP4433TR"
+    }
+]

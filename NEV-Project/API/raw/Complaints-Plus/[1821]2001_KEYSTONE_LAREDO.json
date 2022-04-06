@@ -1,0 +1,54 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "08/10/2005",
+        "dateOfIncident": "09/01/2004",
+        "fire": false,
+        "manufacturer": "Keystone RV Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10132224,
+        "products": [
+            {
+                "manufacturer": "Keystone RV Company",
+                "productMake": "KEYSTONE",
+                "productModel": "LAREDO",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DT: RV, 5TH WHEEL COUGAR MADE BY KEYSTONE RV COMPANY IN GOSHEN HAD   A PROBLEM WITH THE FRAME. WHILE DRIVING THE I-BEAM FRAMES WERE BUCKLED INWARD. THERE WAS AN ADVISORY SERVICE BULLETIN #00-9 ON THIS ISSUE.  BUT THE CONSUMER  WAS NEVER NOTIFIED BY KEYSTONE OR THE DEALER. THE DEALER HAS  INSISTED  THAT VEHICLE COULD NOT BE DRIVEN  DUE TO CRACKS.  THE CONSUMER  HAD TO BUY A NEW TRAILER.*AK  THE SHACKLES ATTACHING THE LEAF SPRINGS TO THE MAIN FRAME WERE CRACKED/BROKEN AND SEPARATING FROM THE FRAME.  THE CONSUMER'S INSURANCE COMPANY DEEMED THE TRAILER A TOTAL LOSS AND PAID THE CONSUMER $14,756.00, THE COST OF A USED TRAILER.   *NM",
+        "vin": "4YDF2762812"
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "07/06/2004",
+        "dateOfIncident": "06/17/2004",
+        "fire": false,
+        "manufacturer": "Keystone RV Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10075690,
+        "products": [
+            {
+                "manufacturer": "Keystone RV Company",
+                "productMake": "KEYSTONE",
+                "productModel": "LAREDO",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "MARATHON",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHILE PULLING THE CAMPER AT 55 MPH REAR RIGHT TIRE BLEW OUT AND WRAPPED AROUND THE AXLE.  THE TIRE SEVERELY DAMAGED THE RIGHT REAR SPLASH GUARD ON THE TRAILER.   *AK   WHEN THE TIRE BLEW, THE WHOLE CAP OF THE TIRE HAD COME OFF WRAPPING ITSELF AROUND THE TRAILER AXLE AND STUFFED SOME OF IT INTO THE BRAKE DRUM.  THE CONSUMER REQUESTED THAT THE TIRE BE REPLACED AND REIMBURSEMENT FOR THE DAMAGES TO THE VEHICLE.   *SC",
+        "vin": "4JDF27R2414"
+    }
+]

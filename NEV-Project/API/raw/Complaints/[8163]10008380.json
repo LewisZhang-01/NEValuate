@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "03/04/2003",
+        "dateOfIncident": "03/04/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10008380,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAVALIER",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ODOMETER INACCURATE READING.  *NLM",
+        "vin": "1G1JC524417"
+    }
+]

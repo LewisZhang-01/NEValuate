@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": true,
+        "dateComplaintFiled": "03/12/2003",
+        "dateOfIncident": "02/10/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 2,
+        "odiNumber": 10011509,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER WAS REAR ENDED, AND THE FRONT SEAT BELTS FAILED TO RESTRAIN THE DRIVER AND PASSENGER. THE DRIVER HIT HER HEAD ON THE STEERING WHEEL, AND THE PASSENGER HIT HIS HEAD ON THE DASH.  AMOUNT OF DAMAGE UNKNOWN. *JB",
+        "vin": "2FTRX07222C"
+    }
+]

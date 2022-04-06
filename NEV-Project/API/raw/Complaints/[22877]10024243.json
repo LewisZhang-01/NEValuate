@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,EXTERIOR LIGHTING",
+        "crash": false,
+        "dateComplaintFiled": "06/17/2003",
+        "dateOfIncident": "05/17/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10024243,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "MALIBU",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TURNING LIGHT HAS FAILED DUE TO AN  AN ELECTRICAL SHORT. *AK",
+        "vin": ""
+    }
+]

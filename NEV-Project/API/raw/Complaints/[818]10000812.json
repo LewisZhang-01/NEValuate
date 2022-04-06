@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "01/08/2003",
+        "dateOfIncident": "12/17/2001",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000812,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "AZTEK",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2001 PONTIAC AZTEK HAS WHEEL BEARING FAILURE.  GM SAYS THE PART IS NOT AVAILABLE AND THERE ARE OVER 2000 OF THESE PARTS ON BACK ORDER.  CAN CAN'T BE DRIVEN, NOR CAN IT BE REPAIRED WITHOUT THE PART.  GM SAYS THERE IS NOTHING THEY CAN DO.   *JB",
+        "vin": "3G7DB03E71S"
+    }
+]

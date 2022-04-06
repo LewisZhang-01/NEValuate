@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "12/19/2002",
+        "dateOfIncident": "06/07/2002",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000295,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "PASSAT",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENGINE MISSED AND ACCELERATED POORLY.  DEALER FOUND CODES P0300 AND P0304 AND REPLACED #4 IGNITION COIL PACK.  SINCE THEN THE ENGINE CONTINUES TO ACCELERATE ERRATICALLY AND DEALER HAS BEEN UNABLE TO FIND PROBLEM.",
+        "vin": "WVWPD63B62P"
+    }
+]

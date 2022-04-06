@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "03/10/2004",
+        "dateOfIncident": "02/20/2004",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10061814,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER SPORT",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FAILTURE OF BALL JOINTS DUE TO NO GREASE FRO M FACTORY.  *AK",
+        "vin": ""
+    }
+]

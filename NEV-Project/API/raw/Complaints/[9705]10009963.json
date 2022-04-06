@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "03/05/2003",
+        "dateOfIncident": "03/05/2003",
+        "fire": false,
+        "manufacturer": "Mazda Motor Corp.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009963,
+        "products": [
+            {
+                "manufacturer": "Mazda Motor Corp.",
+                "productMake": "MAZDA",
+                "productModel": "MPV",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE HEADLIGHT TURNED ON ALTHOUGH THE SWITCH WAS TURNED OFF AND DRAINED THE BATTERY.  *JB   *NLM",
+        "vin": "JM3LV5230P0"
+    }
+]

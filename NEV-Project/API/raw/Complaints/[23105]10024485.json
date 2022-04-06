@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "06/19/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10024485,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CORVETTE",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "STEERING COLUMN LOCKED UP AFTER  VEHICLE WAS ENGAGED.  CAR IS CURRENTLY BEING CHECKED BY DEALER. *AK  REF. IN EA02-031 *CJS",
+        "vin": "1G1YY22G0W5"
+    }
+]

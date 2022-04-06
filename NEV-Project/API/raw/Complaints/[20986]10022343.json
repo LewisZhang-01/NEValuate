@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/04/2003",
+        "dateOfIncident": "05/07/2003",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022343,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "FRONTIER",
+                "productYear": "1998",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Bridgestone Americas Tire Operations",
+                "productMake": "FIRESTONE",
+                "productModel": "WILDERNESS HT",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "PROBLEMS WITH WILDERNESS HT TIRES.  *MR  THERE WAS A BAD VIBRATION.  THE INSPECTION SHOWED THAT THERE WERE 6-8\" SPLITS IN THE CENTER OF THE TREAD/GROOVE.  *SCC",
+        "vin": "1N6DD2659WC"
+    }
+]

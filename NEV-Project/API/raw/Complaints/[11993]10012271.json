@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "03/24/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10012271,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE HIT A POT HOLE WHILE DRIVING WHICH CAUSED THE VEHICLE TO SHAKE UNCONTROLLABLY.  THE VEHICLE FELT AS IF THE WHEELS WERE GOING TO COME OFF.   *NLM",
+        "vin": "1FDWF36F52E"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "03/28/2003",
+        "dateOfIncident": "10/15/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10013614,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "ESCORT",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AUTOMATIC DRIVER SIDE SEAT BELT FAILED.  *JB",
+        "vin": "1FAPP14J1PW"
+    }
+]

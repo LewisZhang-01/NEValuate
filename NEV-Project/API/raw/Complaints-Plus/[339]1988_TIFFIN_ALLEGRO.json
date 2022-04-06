@@ -1,0 +1,68 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "09/26/1995",
+        "dateOfIncident": "07/12/1989",
+        "fire": false,
+        "manufacturer": "Tiffin Motorhomes, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 525926,
+        "products": [
+            {
+                "manufacturer": "Tiffin Motorhomes, Inc.",
+                "productMake": "TIFFIN",
+                "productModel": "ALLEGRO",
+                "productYear": "1988",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VARIOUS COMPONENTS WITHIN THE SUSPENSION SYSTEM FAILED (FRONT AND REAR). (QCAW)",
+        "vin": "W01008517N4"
+    },
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "09/26/1995",
+        "dateOfIncident": "07/12/1989",
+        "fire": false,
+        "manufacturer": "Tiffin Motorhomes, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 525926,
+        "products": [
+            {
+                "manufacturer": "Tiffin Motorhomes, Inc.",
+                "productMake": "TIFFIN",
+                "productModel": "ALLEGRO",
+                "productYear": "1988",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FRAMERAIL IS DESIGNED WITH A SPLICE IN THE MIDDLE, WHICH CONSUMER FEELS IS A SAFETY CONCERN.",
+        "vin": "W01008517N4"
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "09/26/1995",
+        "dateOfIncident": "07/12/1989",
+        "fire": false,
+        "manufacturer": "Tiffin Motorhomes, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 525926,
+        "products": [
+            {
+                "manufacturer": "Tiffin Motorhomes, Inc.",
+                "productMake": "TIFFIN",
+                "productModel": "ALLEGRO",
+                "productYear": "1988",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TIRES INSTALLED ON MOTORHOME WERE THE IMPROPER SIZE(8 PLY SHOULD HAVE BEEN 12 PLY).",
+        "vin": "W01008517N4"
+    }
+]

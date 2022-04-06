@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION,SERVICE BRAKES, HYDRAULIC,ENGINE AND ENGINE COOLING,STRUCTURE,TIRES",
+        "crash": false,
+        "dateComplaintFiled": "05/21/2003",
+        "dateOfIncident": "07/01/1998",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021548,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "OLDSMOBILE",
+                "productModel": "CUTLASS",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NAR 05/21/2003  *MR   WATER LEAK IN TRUNK, MISSING ABSORBER IN REAR DOOR, SUSPENSION NOISE, 4 NEW TIRES REPLACED, NEW  FRONT BRAKE PADS AND ROTORS, AND COOLANT SYSTEM LEAKAGE.   *CB",
+        "vin": "9999"
+    }
+]

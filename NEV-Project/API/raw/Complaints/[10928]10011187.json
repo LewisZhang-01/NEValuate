@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "03/10/2003",
+        "dateOfIncident": "02/27/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10011187,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "ESCAPE",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE CHECK ENGINE/OIL LIGHT ILLUMINATED, AND THE VEHICLE LOST POWER STEERING. THE DEALERSHIP INDICATED THE MAIN COMPUTER WAS THE CAUSE OF THE PROBLEM.  *JB",
+        "vin": "1FMYZ02122K"
+    }
+]

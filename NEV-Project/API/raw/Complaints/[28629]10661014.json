@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "11/25/2014",
+        "dateOfIncident": "11/25/2014",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10661014,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE LOST BRAKES DUE TO CORRODED STEEL BRAKE LINES.  *TR",
+        "vin": "1GCEK19V66E"
+    }
+]

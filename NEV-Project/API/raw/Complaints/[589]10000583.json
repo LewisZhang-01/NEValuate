@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "12/24/2002",
+        "dateOfIncident": "07/06/2001",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000583,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "VENTURE",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AIR BAG LIGHT COMES ON WHEN AIR BAG IS NOT DEPLOYED. ONCE THE LIGHT IS LIGHT, IT REMAINS LIGHT UNTIL VEHICLE IS TURNED OFF. THREE YEAR OLD VEHICLES SHOULD NOT EXPERIENCE INTERMITTANT RELIABILITY PROBLEMS.",
+        "vin": "1GNDU06E8XD"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "WHEELS",
+        "crash": true,
+        "dateComplaintFiled": "06/02/2003",
+        "dateOfIncident": "03/02/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10022023,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "WINDSTAR",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING AT 35 MPH PASSENGER'S SIDE WHEEL CAME OFF. THIS CAUSED LOSS OF CONTROL. *AK",
+        "vin": ""
+    }
+]

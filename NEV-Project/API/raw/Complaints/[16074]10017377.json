@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "04/22/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017377,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CORVETTE",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AFTER STOPPING AT A STOP SIGN, THE CONSUMER WAS UNABLE TO STEER THE VEHICLE.            ***JB   REF. IN EA02-031 *CJS",
+        "vin": ""
+    }
+]

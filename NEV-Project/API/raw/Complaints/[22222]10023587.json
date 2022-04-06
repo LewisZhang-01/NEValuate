@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "06/23/2003",
+        "dateOfIncident": "04/04/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10023587,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "E-150",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "REAR MAIN SEAL REPLACED AT 110K, STARTED TO LEAK AGAIN AT 130K. DEALER WILL NOT WARRANTY.  *NLM",
+        "vin": ""
+    }
+]

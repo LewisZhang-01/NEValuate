@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "02/07/2003",
+        "dateOfIncident": "01/03/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10006774,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CHEVROLET",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE WAS IN A FRONTAL COLLISION, BUT NONE OF THE AIR  DEPLOYED UPON IMPACT. DRIVER SUSTAIN SERIOUS BODILY INJURIES. PLEASE PROVIDE MORE DETAILS. PLEASE PUT THE CORRECT MODEL.            PH",
+        "vin": ""
+    }
+]

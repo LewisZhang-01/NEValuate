@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS,VEHICLE SPEED CONTROL",
+        "crash": true,
+        "dateComplaintFiled": "12/18/2002",
+        "dateOfIncident": "12/08/2002",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 2,
+        "odiNumber": 10001123,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "INTREPID",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATED THE VEHICLE SUDDENLY ACCELERATED WHEN THE GEAR WAS PUT INTO DRIVE, ALSO THE AIR BAGS FAILED TO DEPLOY WHEN THE VEHICLE HIT A CONCRETE ROAD DIVIDER.TS  *JB",
+        "vin": "2B3ED46T4RH"
+    }
+]

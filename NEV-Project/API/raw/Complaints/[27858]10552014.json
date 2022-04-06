@@ -1,0 +1,31 @@
+[
+    {
+        "components": "CHILD SEAT",
+        "crash": false,
+        "dateComplaintFiled": "11/12/2013",
+        "dateOfIncident": "11/12/2013",
+        "fire": false,
+        "manufacturer": "UNKNOWN MANUFACTURER",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10552014,
+        "products": [
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Graco Children's Products, Inc.",
+                "productMake": "GRACO",
+                "productModel": "NAUTILUS",
+                "productYear": "9999",
+                "type": "Child Seat"
+            }
+        ],
+        "summary": "BUCKLE IN GRACO CAR SEAT STICKS, POSES A DANGER FOR CHILD STUCK IN CAR SEAT IN EMERGENCY SITUATION. CHILD HAD TO BE CUT OUT BY FIREMEN IN ORDER TO GET CHILD OUT OF CAR SEAT.  *TR",
+        "vin": ""
+    }
+]

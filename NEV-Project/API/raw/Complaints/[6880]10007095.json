@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "02/12/2003",
+        "dateOfIncident": "01/30/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10007095,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-250",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE REVERSING , VEHICLE LOST STEERING POWER. THE STEERING WHEEL WILL TURN, BUT THE VEHICLE WILL NOT GO IN THE DIRECTION THAT IT'S  BEING TURNED.  THE VEHICLE'S STEERING SECTOR SHAFT HAD BROKE.",
+        "vin": "1FTNW21F0XE"
+    }
+]

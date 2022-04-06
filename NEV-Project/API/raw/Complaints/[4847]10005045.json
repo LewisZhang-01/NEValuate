@@ -1,0 +1,31 @@
+[
+    {
+        "components": "LATCHES/LOCKS/LINKAGES,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "01/31/2003",
+        "dateOfIncident": "01/30/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005045,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "MUSTANG",
+                "productYear": "1993",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "1) THE HOOD LATCH CABLE HAS CORRODED DUE TO EXPOSURE TO THE BATTERY CONNECTIONS.  THIS HAS BEEN REPAIRED ONCE ALREADY AND THE REPLACEMENT IS NEEDED AGAIN.  2) THE HOOD LATCH HAS BEEN REPLACED BEFORE AS WELL.  THE HOOD JUST WON'T CATCH AND SHUT COMPLETELY.  AGAIN, THIS REPLACEMENT IS BEING PERFORMED.",
+        "vin": "1FACP41M4PF"
+    }
+]

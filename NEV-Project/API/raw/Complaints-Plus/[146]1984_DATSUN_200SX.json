@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "03/08/1995",
+        "dateOfIncident": "03/08/1995",
+        "fire": true,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 481314,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "DATSUN",
+                "productModel": "200SX",
+                "productYear": "1984",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE FIRE REIGNITED AFTER EXTINGUISHMENT DUE TO INABILITY TO TURN OFF FUEL SYSTEM POWER.  *AW",
+        "vin": ""
+    }
+]

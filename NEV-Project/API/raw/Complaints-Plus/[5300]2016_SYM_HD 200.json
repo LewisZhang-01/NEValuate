@@ -1,0 +1,46 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "07/30/2020",
+        "dateOfIncident": "01/16/2019",
+        "fire": false,
+        "manufacturer": "Sanyang Motors",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11342274,
+        "products": [
+            {
+                "manufacturer": "Sanyang Motors",
+                "productMake": "SYM",
+                "productModel": "HD 200",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2016 SYM HD200. THE CONTACT STATED THAT THE MOTOR SCOOTER WAS LEAKING FUEL AT THE FILLER NECK. SEATTLE CENTER (305 HARRISON ST, SEATTLE, WA 98109) WAS CONTACTED AND INFORMED OF THE FAILURE. THE VEHICLE WAS NOT TAKEN TOA DEALER AND WAS NOT DIAGNOSED NOR REPAIRED. THE MANUFACTURER WAS MADE AWARE OF THE FAILURE. THE FAILURE MILEAGE WAS APPROXIMATELY 8,000.*DT",
+        "vin": "RFGBS1ME9GS"
+    },
+    {
+        "components": "FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "06/11/2020",
+        "dateOfIncident": "01/10/2020",
+        "fire": false,
+        "manufacturer": "Sanyang Motors",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11328272,
+        "products": [
+            {
+                "manufacturer": "Sanyang Motors",
+                "productMake": "SYM",
+                "productModel": "HD 200",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "LEAKING GAS TANK AT FILLER NECK FROM FAULTY GAS TANK CAP.  GAS CAP WILL NOT SEAT PROPERLY.  *TR",
+        "vin": "RFGBS1ME9GS"
+    }
+]

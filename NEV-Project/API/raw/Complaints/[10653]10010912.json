@@ -1,0 +1,24 @@
+[
+    {
+        "components": "WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "03/23/2003",
+        "dateOfIncident": "01/01/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010912,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "LUMINA",
+                "productYear": "1991",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ALUMINUM ALLOY WHEELS SUFFER FROM CLEAR-COAT FAILURE AND LOSE LUSTER AND LARGE WHITE SPOTS APPEAR ON THEM.    *JB",
+        "vin": ""
+    }
+]

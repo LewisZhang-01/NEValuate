@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, DIESEL",
+        "crash": false,
+        "dateComplaintFiled": "06/22/2003",
+        "dateOfIncident": "06/15/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10023545,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "RAM 2500",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "LIFT (TRANSFER) PUMP FAILURE.   *NLM",
+        "vin": "3B7KF23692M"
+    }
+]

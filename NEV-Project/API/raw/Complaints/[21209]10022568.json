@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "07/11/2003",
+        "dateOfIncident": "06/05/2003",
+        "fire": true,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022568,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "GRAND AM",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING, SMOKE EMITTED FROM UNDER THE HOOD AND THEN THE VEHICLE CAUGHT ON FIRE.  *TS   *JB",
+        "vin": "1G2NW14NXPC"
+    }
+]

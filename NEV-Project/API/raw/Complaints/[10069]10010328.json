@@ -1,0 +1,24 @@
+[
+    {
+        "components": "TIRES,WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "03/12/2003",
+        "dateOfIncident": "03/06/2001",
+        "fire": false,
+        "manufacturer": "Mitsubishi Motors North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010328,
+        "products": [
+            {
+                "manufacturer": "Mitsubishi Motors North America, Inc.",
+                "productMake": "MITSUBISHI",
+                "productModel": "ECLIPSE SPYDER",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FLAT TIRE, MANHATTAN NY 49TH STREET. SLIGHT RIM DAMAGED,   RIM BANGED OUT.*JB",
+        "vin": "4A3AE85HX1E"
+    }
+]

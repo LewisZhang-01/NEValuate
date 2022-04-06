@@ -1,0 +1,68 @@
+[
+    {
+        "components": "SEAT BELTS,SERVICE BRAKES,FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "11/01/2015",
+        "dateOfIncident": "06/08/2015",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10787509,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAMARO",
+                "productYear": "1982",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WENT TO CHEVY DEALER, WHO WE BROUGHT 2014 FROM, TOLD THEM WE HAD 1982 CAMARO, THAT HAD 3 RECALLS. WE HAD RECALL NUMBERS. THEY SAID RECALLS WERE TO OLD, THEY COULD DO NOTHING TO HELP. WISHED WE ASKED PRIOR TO BUYING THEIR VEHICLE.",
+        "vin": ""
+    },
+    {
+        "components": "WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "06/02/1999",
+        "dateOfIncident": "05/22/1999",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 838765,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAMARO",
+                "productYear": "1982",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER CAME TO A COMPLETE STOP, MADE A LEFT TURN AND THE FIVE-STAR RIM CRACKED ON THE PASSENGER'S SIDE.  *AK",
+        "vin": ""
+    },
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "04/24/1995",
+        "dateOfIncident": "04/24/1995",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 479619,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAMARO",
+                "productYear": "1982",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "METAL SPRING HAS PROTRUDED THROUGH SEAT, CAUSING DISCOMFORT TO DRIVER.  (OTHER VEHICLE ON 489694)  *SKD",
+        "vin": ""
+    }
+]

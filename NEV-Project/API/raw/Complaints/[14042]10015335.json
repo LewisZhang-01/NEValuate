@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "04/07/2003",
+        "dateOfIncident": "03/15/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015335,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "LIBERTY",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING 30 MPH THE VEHICLE WAS INVOLVED IN A HEAD ON ACCIDENT YET THE DRIVERS SIDE AIR BAG DID NOT DEPLOY.  *NLM",
+        "vin": "FULLFILL"
+    }
+]

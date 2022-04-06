@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "04/15/2003",
+        "dateOfIncident": "12/15/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015921,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAVALIER",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLES FUEL GAUGE DID NOT INDICATE THE CORRECT AMOUNT OF FUEL IN THE TANK.   *NLM  FUEL GAUGE INDICATED 1/4 TANK OF GAS WHEN ACTUALLY THE TANK WAS EMPTY WHICH LEFT THE CONSUMER STRANDED ON 3 OCCASIONS.  THE FUEL TANK SENSOR HAD TO BE REPLACED.      *TT",
+        "vin": "1G1JC124017"
+    }
+]

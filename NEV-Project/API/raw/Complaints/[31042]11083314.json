@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VEHICLE SPEED CONTROL,SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "04/04/2018",
+        "dateOfIncident": "03/17/2018",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11083314,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "PACIFICA",
+                "productYear": "2017",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE OPTION TO STOP ENGINE AT A LIGHT OR STOP SIGN DOES NOT WORK AT LEAST 1/2 OF THE TIME. THE ENGINE REVS UP AND WANTS TO PUSH US INTO TRAFFIC.",
+        "vin": ""
+    }
+]

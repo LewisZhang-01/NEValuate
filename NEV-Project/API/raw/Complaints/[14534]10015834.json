@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "04/14/2003",
+        "dateOfIncident": "04/14/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015834,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "NAVIGATOR",
+                "productYear": "1999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Continental Tire the Americas, LLC",
+                "productMake": "CONTINENTAL",
+                "productModel": "CONTITRAC",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE RIGHT REAR TIRE BLEW OUT.  THE CONSUMER TOOK THE TIRE TO 2 DIFFERENT PLACES AND THE FIRST MECHANIC STATED THE BLOW OUT WAS CAUSED BY A ROAD HAZARD, AND THE SECOND MECHANIC STATED HE WAS UNABLE TO TELL, BUT MAYBE DUE TO AN ALIGNMENT PROBLEM.*JB",
+        "vin": ""
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "07/28/2007",
+        "dateOfIncident": "07/27/2007",
+        "fire": false,
+        "manufacturer": "Keystone RV Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10197714,
+        "products": [
+            {
+                "manufacturer": "Keystone RV Company",
+                "productMake": "KEYSTONE",
+                "productModel": "COUGAR",
+                "productYear": "2004",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "TIRE BLOWOUT. TREAD SEPARATION FROM PLY CAUSING PROPERTY DAMAGE TO OUR 5TH WHEEL CAMPER ON JULY 27 2007. TIRES HAD LESS THAN 8,000 MILES AND WERE PROPERLY INFLATED. (TIRE INFLATION AND WALK AROUND HAD BEEN COMPLETED 60 MILES PRIOR TO BLOW OUT) THIS WAS THE SECOND TIRE TO FAIL ON THIS CAMPER. THE FIRST TIRE ALSO HAD TREAD SEPARATION. DEALER WOULD NOT CLAIM RESPONSIBILITY FOR FIRST TIRE SEPARATION NOR WOULD KEYSTONE THE MANUFACTURER OF THE CAMPER. WE HAVE NOT CONTACTED THE DEALER REGARDING THE SECOND BLOW OUT.  THE MANUFACTURER IS MISSION MADE IN TAIWAN AND IS NOT LISTED ON THE MANUFACTURER LIST YOU PROVIDED.  *JB",
+        "vin": ""
+    }
+]

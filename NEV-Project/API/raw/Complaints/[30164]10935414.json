@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "12/15/2016",
+        "dateOfIncident": "12/06/2016",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10935414,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "ESCAPE",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2005 FORD ESCAPE. WHILE DRIVING APPROXIMATELY 45 MPH, THE INSTRUMENT PANEL ILLUMINATED AND THE ENGINE ABRUPTLY SHUT DOWN. THE GEAR SHIFTER WAS PLACED IN THE NEUTRAL POSITION AND THE VEHICLE WAS COASTED OVER TO THE SIDE OF THE ROAD. THE VEHICLE WAS RESTARTED AND DRIVEN HOME. THE VEHICLE WAS HOOKED UP TO A HANDHELD DIAGNOSTIC MACHINE AND DISPLAYED, \"BAD PCM AND BAD COILS\". THE MANUFACTURER WAS NOTIFIED. THE VEHICLE WAS NOT REPAIRED. THE APPROXIMATE FAILURE MILEAGE WAS 130,000.",
+        "vin": "1FMCU04115K"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "08/07/1997",
+        "dateOfIncident": "04/30/1997",
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 518678,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "FLHTC",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WINDSHIELD CRACKED AT BOTTOM SCREW MOUNTING HOLES.  *AK",
+        "vin": "1HD1DPL17PY"
+    },
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "01/20/1995",
+        "dateOfIncident": "08/10/1994",
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 958985,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "FLHTC",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CRUISE CONTROL FAILED WITHOUT WARNING.  TT",
+        "vin": "1HD1DPL12PY"
+    }
+]

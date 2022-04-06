@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN,VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "03/31/2003",
+        "dateOfIncident": "03/22/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10014805,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERCURY",
+                "productModel": "TOPAZ",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE TRANSMISSION LOCKED UP, WHICH CAUSED THE TIRES TO LOCK UP.  *JB  THE GAS PEDAL WAS HARD.  THE VEHICLE WILL NOT ACCELERATE.  THE MAIN CONTROL THROTTLE VALVE WAS REPLACED.  SCC",
+        "vin": "1MEPM36X0RK"
+    }
+]

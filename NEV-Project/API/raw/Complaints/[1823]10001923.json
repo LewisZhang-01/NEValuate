@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": true,
+        "dateComplaintFiled": "01/10/2003",
+        "dateOfIncident": "10/07/2001",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10001923,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "PATHFINDER",
+                "productYear": "1999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "DUNLOP TIRE CORPORATION",
+                "productMake": "DUNLOP",
+                "productModel": "GRAND TREK",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "DUNLOP GRAND TREK TG35 TIRE BLEWOUT LOOSING ITS TREAD WHICH CAUSED CONSUMER TO LOSE CONTROL OF VEHICLE.   *TT *JB",
+        "vin": "JN8AR05S6XW"
+    }
+]

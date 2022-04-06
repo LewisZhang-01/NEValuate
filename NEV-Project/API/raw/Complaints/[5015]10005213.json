@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "02/03/2003",
+        "dateOfIncident": "02/03/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005213,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "1999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Bridgestone Americas Tire Operations",
+                "productMake": "WILDERNESS AT",
+                "productModel": "P23570R16",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "I BOUGHT A 1999 FORD RANGER ON JANUARY 31 2003 WHICH HAS THE WILDERNESS AT. TIRES . I TOOK IT TO THE LOCAL DEALERSHIP THEY SAID IT WAS MY PROBLEM THEY NO LONGER REPLACE THOSE TIRES ,COULD YOU PLEASE HELP THEY GOT REALLY HATEFUL SAID THEY GAVE CUSTOMERS A YEAR TO GET THIS DONE ,BUT I JUST GOT THE TRUCK.",
+        "vin": "1FTZR15VXXP"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": true,
+        "dateComplaintFiled": "04/16/2019",
+        "dateOfIncident": "03/30/2019",
+        "fire": false,
+        "manufacturer": "Tesla, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 11196764,
+        "products": [
+            {
+                "manufacturer": "Tesla, Inc.",
+                "productMake": "TESLA",
+                "productModel": "MODEL 3",
+                "productYear": "2018",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE ENTERED A SHOPPING PLAZA AT SPEED UNDER 10MPH AND SUDDENLY ACCELERATED TO HIGH SPEED ON IT'S OWN. IT HIT THREE STATIONARY VEHICLES AND KNOCKED DOWN A SMALL TREE. TRIED STOPPING THE CAR BUT THE BRAKES WOULD NOT WORK AND THE CAR FINALLY STOPPED AFTER HITTING THE THIRD VEHICLE.",
+        "vin": "5YJ3E1EA6JF"
+    }
+]

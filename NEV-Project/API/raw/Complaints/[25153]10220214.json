@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS,VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "03/06/2008",
+        "dateOfIncident": "02/01/2008",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10220214,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "ECONOLINE",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ACCELERATOR PEDAL STICKS ON HIGH RPMS WHEN VERY COLD/REAR SEAT BELTS RETRACTOR WILL NOT FEED OUT FREQUENTLY.  *TR",
+        "vin": "1FDEE14H1RH"
+    }
+]

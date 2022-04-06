@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "03/27/2003",
+        "dateOfIncident": "03/20/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10014579,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "CROWN VICTORIA",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE BRAKE LINE RUSTED, WHICH CAUSED THE REAR BRAKES TO FAIL.  *JB  REFERENCED IN RQ03-004",
+        "vin": "2FALP74W7BX"
+    }
+]

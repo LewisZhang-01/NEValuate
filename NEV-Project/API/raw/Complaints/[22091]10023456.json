@@ -1,0 +1,31 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "06/20/2003",
+        "dateOfIncident": "06/17/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10023456,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "OLDSMOBILE",
+                "productModel": "INTRIGUE",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "GM PRODUCTS DIV. GM CORP.",
+                "productMake": "GM PRODUCTS",
+                "productModel": "GM PRODUCTS",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "RIGHT DIRECTIONAL BULB FAILURE. REPLACED. FAILED AGAIN THE NEXT DAY. MECHANIC CHECKED AND IT BEGAN WORKING. NOW FAILED AGAIN. WE ALSO HAVE 1998 OLDS INTRIGUE WITH SAME EXACT PROBLEM. SAME SIDE, SAME SCENARIO... LOCATED IN DIFFERENT STATE CURRENTLY.   *NLM",
+        "vin": "1G3WS52H6YF"
+    }
+]

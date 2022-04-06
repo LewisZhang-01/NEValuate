@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "05/06/2003",
+        "dateOfIncident": "01/10/2003",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017131,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "740ILA",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE TRANSMISSION (ZF 5HP30) VALVE BODY DESIGN IS FLAWED. THE RESULT IS FAILURE OF THE TRANSMISSION TO ENGAGE GEARS, USUALLY REVERSE. IT ALSO CAUSES PREMATURE WEAR ON INTERNAL TRANSMISSION COMPONENTS.    *NLM",
+        "vin": "WBAGD8329RD"
+    }
+]

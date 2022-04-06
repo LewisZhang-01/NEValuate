@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "03/28/2003",
+        "dateOfIncident": "03/26/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10013605,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "1994",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Bridgestone Americas Tire Operations",
+                "productMake": "FIRESTONE",
+                "productModel": "WILDERNESS AT",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "I WAS DRIVING ON THE PA TURNPIKE. I GOT OFF AT FORT WASHINGTON EXIT. I PROCEEDED TO FT. WASHINGTON EXPO CENTER. I PULLED INTO A PARKING PLACE AND I HEARD A LOUD POP. I GOT OUT TO FIND MY REAR-PASSENGER SIDE TIRE DEFLATING RAPIDLY. THERE WAS A HOLE IN THE SIDE WALL OF THE TIRE. THERE WAS NOTHING ON THE GROUND AROUND THE TIRE. IT JUST POPPED.  *JB",
+        "vin": "1FMDU34X0RU"
+    }
+]

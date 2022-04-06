@@ -1,0 +1,24 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "04/21/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017246,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "BLAZER",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE CONSUMER NOTICED THAT ONCE THE VEHICLE REACHED 60 MPH THE SPEEDOMETER NO LONGER GAVE CORRECT READINGS.  THE NEEDLE WAS MOVING ERRATICALLY FROM LEFT TO RIGHT.  *NLM",
+        "vin": "1GNDT13W3Y2"
+    }
+]

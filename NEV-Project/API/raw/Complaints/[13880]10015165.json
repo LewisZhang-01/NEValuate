@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "04/04/2003",
+        "dateOfIncident": "04/03/2003",
+        "fire": false,
+        "manufacturer": "Mitsubishi Motors North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015165,
+        "products": [
+            {
+                "manufacturer": "Mitsubishi Motors North America, Inc.",
+                "productMake": "MITSUBISHI",
+                "productModel": "MONTERO",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Yokohama Tire Corporation",
+                "productMake": "YOKOHAMA",
+                "productModel": "371A-II",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE DRIVER'S SIDE REAR TIRE DISINTEGRATED, WHICH ALMOST CAUSED THE CONSUMER TO LOSE CONTROL OF THE VEHICLE.  *JB",
+        "vin": ""
+    }
+]

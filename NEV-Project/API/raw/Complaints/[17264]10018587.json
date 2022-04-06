@@ -1,0 +1,31 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "05/12/2003",
+        "dateOfIncident": "08/22/2002",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018587,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "CIVIC",
+                "productYear": "1996",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "PURCHASED TIRES FROM NTB MODEL NTW 17570TR13 VIPER T OWL 50 ON 6/23/98 MILEAGE 65158.  FIRST TIRE SEPARATED ON 8/22/02 MILEAGE 97200, SECOND TIRE SEPARATED (OUT OF ROUND) 9/18/02 MILEAGE 97234, THIRD TIRE BUBBLED 5/11/03 MILEAGE 99517.   *NLM",
+        "vin": ""
+    }
+]

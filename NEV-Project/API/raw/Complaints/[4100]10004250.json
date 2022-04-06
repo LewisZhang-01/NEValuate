@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "01/21/2003",
+        "dateOfIncident": "01/20/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004250,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "JIMMY",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER'S VEHICLE HAS EXPERIENCED THE SAME DEFECT WITH THE WINDSHIELD WIPER AS STATED IN RECALL #98 V 150 001.  THE VEHICLE MANUFACTURING DATE IS OUTSIDE OF THE DATE RECALLED.  PH  SCC",
+        "vin": "1GKDT13W4T2"
+    }
+]

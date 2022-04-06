@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "04/23/2003",
+        "dateOfIncident": "04/16/2003",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017438,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "SENTRA",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE # 2 FUEL INJECTOR FAILED WHICH RESULTED IN A SEVERE ROUGH IDLE. THE TECHNICIAN INDICATED THAT THIS WAS A COMMON PROBLEM CAUSED BY A DEFECT IN THE ENGINE DESIGN.  *NLM",
+        "vin": "1N4EB31P1RC"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "05/10/2003",
+        "dateOfIncident": "05/10/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018494,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2000 FORD FOCUS ZX3  PERSISTENT FUEL PUMP ISSUES.  STALLING UNDER HARD RIGHT TURNS.  LONG TURNOVER AND STARTING TIMES.    *NLM",
+        "vin": "3FAFP3131YR"
+    }
+]

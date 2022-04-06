@@ -1,0 +1,31 @@
+[
+    {
+        "components": "EQUIPMENT,UNKNOWN OR OTHER",
+        "crash": true,
+        "dateComplaintFiled": "05/14/2003",
+        "dateOfIncident": "09/23/2002",
+        "fire": false,
+        "manufacturer": "PACCAR Incorporated",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10018680,
+        "products": [
+            {
+                "manufacturer": "PACCAR Incorporated",
+                "productMake": "PETERBILT",
+                "productModel": "379",
+                "productYear": "1997",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FTEC, Inc.",
+                "productMake": "FONTAINE",
+                "productModel": "FIFTH WHEEL ASSEMBLY",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "IN REFERENCE TO  MY PRIOR COMPLAINT REF. #10004102. TO WHICH YOU REPLIED NO ACTION WILL BE TAKEN BECAUSE THERE ARE \"NO OTHER REPORT SIMILAR TO\" MINE.  IT APPEARS THAT THE DOT AND DOE DON'T TALK TO ONE ANOTHER.  THE DOE HAS HAD THREE SIMILAR FAILURES OF FONTAINE 5TH-WHEELS.  HTTP://WWW.HANFORD.GOV/LESSONS/SITELL/LL01/2001-47.HTM  PROJECT HANFORD LESSONS LEARNED.  TITLE: TRACTOR-TRAILER FIFTH WHEEL DETACHMENTS.  DATE:  DECEMBER 17, 2001, IDENTIFIER:  2001-RL-HNF-0047.     *NLM",
+        "vin": "1XPFDB9X9VD"
+    }
+]

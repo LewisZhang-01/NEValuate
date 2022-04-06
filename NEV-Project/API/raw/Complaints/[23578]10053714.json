@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "01/09/2004",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10053714,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "ESCAPE",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE STALLED WITHOUT WARNING. WHEN THIS OCCURRED THE ENGINE WAS STILL RUNNING, BUT THE  POWER STEERING AND BRAKES WERE LOST. ALSO,  VEHICLE FAILED TO ACCELERATE.  *AK",
+        "vin": "1FMYU031X2K"
+    }
+]

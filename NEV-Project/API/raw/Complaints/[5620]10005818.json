@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "02/13/2003",
+        "dateOfIncident": "05/05/2002",
+        "fire": false,
+        "manufacturer": "FTCA, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005818,
+        "products": [
+            {
+                "manufacturer": "FTCA, Inc.",
+                "productMake": "FLEET WOOD",
+                "productModel": "TRAVEL TRAILER",
+                "productYear": "1997",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "MICHELIN TIRE CORP.",
+                "productMake": "MICHELIN",
+                "productModel": "TRUCK TIRE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "MICHELIN RV TIRE CATASTROPHIC FAILURE WHILE IN WARRANTY.",
+        "vin": "4UZ6XFBC0VC"
+    }
+]

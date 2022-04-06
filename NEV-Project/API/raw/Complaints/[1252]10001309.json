@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "12/20/2002",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001309,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "IMPALA",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATED THAT WHEN TURNING THE STEERING WHEEL THE VEHICLE WOULD STILL GO FORWARD AND CAUSE A DISTRACTION TO THE CONSUMER. DEALER NOTIFIED. TS",
+        "vin": "2G1WF55E3Y9"
+    }
+]

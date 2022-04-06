@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "05/19/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020116,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "GRAND CARAVAN",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING THE TRANSMISSION SHIFTED ITSELF INTO NEUTRAL UNTIL THE SPEED DECREASED AND THEN IT AUTOMATICALLY DEFAULTED INTO 2ND GEAR.    *NLM",
+        "vin": "1B4GH54R3PX"
+    }
+]

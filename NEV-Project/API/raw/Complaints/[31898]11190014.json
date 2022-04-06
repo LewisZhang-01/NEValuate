@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "03/19/2019",
+        "dateOfIncident": "02/25/2019",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 11190014,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "MALIBU",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "IF THE KEY IS REMOVED WITHOUT THE TRANSMISSION IN PARK, THE VEHICLE MAY ROLLAWAY AS OCCUPANTS ARE EXITING , INCREASING THE RISK OF INJURY",
+        "vin": "1G11B5SA1DF"
+    }
+]

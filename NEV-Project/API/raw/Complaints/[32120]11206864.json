@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "05/10/2019",
+        "dateOfIncident": "06/20/2017",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11206864,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "GRAND CHEROKEE",
+                "productYear": "2012",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE DRIVER SIDE ACTIVE HEADREST DEPLOYED UNPROVOKED. THE VEHICLE WAS NOT MOVING OR ON WHEN THE HEADREST DEPLOYED, IT WAS STATIONARY AND PARKED IN A DRIVEWAY. THERE WAS NO WARNING THAT THE EVENT TOOK PLACE OR ANY NOTIFICATION FROM THE VEHICLE MESSAGE SYSTEM.",
+        "vin": "IC4RJEAG7CC"
+    }
+]

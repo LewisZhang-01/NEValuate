@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "02/03/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004701,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "IMPERIAL",
+                "productYear": "1991",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING, THE AIR BAG DEPLOYED WITHOUT WARNING, HITTING THE CONSUMER IN THE FACE.  THE CONSUMER WRECKED THE VEHICLE.  SCC",
+        "vin": "1C3XY56R7MD"
+    }
+]

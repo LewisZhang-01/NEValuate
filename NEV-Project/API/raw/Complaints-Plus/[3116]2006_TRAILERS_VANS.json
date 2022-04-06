@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "09/01/2015",
+        "dateOfIncident": "08/31/2015",
+        "fire": false,
+        "manufacturer": "Utility Trailer Manufacturing Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10760634,
+        "products": [
+            {
+                "manufacturer": "Utility Trailer Manufacturing Company",
+                "productMake": "TRAILERS",
+                "productModel": "VANS",
+                "productYear": "2006",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "GENERAL TIRE & RUBBER CO.",
+                "productMake": "MISSION",
+                "productModel": "RADIAL ST",
+                "productYear": "9999",
+                "size": "P235/80R16",
+                "type": "Tire"
+            }
+        ],
+        "summary": "TIRE TREAD SEPARATION AND DRY ROT, NOTICED WHILE DANZER TRAILER WAS SITTING.",
+        "vin": ""
+    }
+]

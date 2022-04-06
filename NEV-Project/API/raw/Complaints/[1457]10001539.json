@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": true,
+        "dateComplaintFiled": "12/27/2002",
+        "dateOfIncident": "03/30/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 3,
+        "odiNumber": 10001539,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "GRAND PRIX",
+                "productYear": "1991",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVER SWERVED TO AVOID A DEER, VEHICLE STARTED SWAYING. DRIVER  LOST CONTROL OF VEHICLE, VEHICLE ROLLED A FEW TIMES. THE WASHER OF A RUSTY K FRAME BOLT WAS MISSING. VEHICLE WAS TOTALED. TS",
+        "vin": "1G2WJ54T4MF"
+    }
+]

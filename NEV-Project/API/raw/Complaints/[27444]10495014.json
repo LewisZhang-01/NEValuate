@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "01/28/2013",
+        "dateOfIncident": "01/15/2013",
+        "fire": false,
+        "manufacturer": "Volvo Car USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10495014,
+        "products": [
+            {
+                "manufacturer": "Volvo Car USA, LLC",
+                "productMake": "VOLVO",
+                "productModel": "S80",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVER INFORMATION MODULE (DIM) ORIGINALLY STARTED DROPPING OUT AND RETURNING MULTIPLE TIMES DURING A TRIP,  NOW IT IS GOING OUT COMPLETELY AFTER ROUGHLY 15 MILES, NO CLUSTER GAUGES OR DASH LIGHTS.  WILL COME BACK ON AFTER COOL DOWN TIME OF ROUGHLY 2-3 HOURS.   NO SPEEDOMETER, TACH, GAS OR TEMP GAUGES.  SIGNAL LIGHTS WORK, BUT NO DASH INDICATORS.  *TR",
+        "vin": "YV1TS91Z331"
+    }
+]

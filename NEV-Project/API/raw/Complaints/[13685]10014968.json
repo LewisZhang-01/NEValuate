@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "04/01/2003",
+        "dateOfIncident": "01/20/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10014968,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAVALIER",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "A NOISE EMITTED FROM THE FRONT OF THE VEHICLE, THE DEALER STATED THE FRAME WAS LOOSE, HOWEVER SECONDS LATER, THE SAME POPPING NOISE RECURRED, THE DEALER THEN STATED THE CONTROL ARM WAS THE PROBLEM.  *JB",
+        "vin": "1G1JC124X27"
+    }
+]

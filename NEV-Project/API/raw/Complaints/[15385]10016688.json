@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": true,
+        "dateComplaintFiled": "04/29/2003",
+        "dateOfIncident": "04/21/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10016688,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "CROWN VICTORIA",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "LOWER RIGHT BALL JOINT FAILURE UNDER NORMAL OPERATION. *JB",
+        "vin": "2FAFP74W23X"
+    }
+]

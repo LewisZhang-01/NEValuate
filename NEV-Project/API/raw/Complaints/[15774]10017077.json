@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "05/05/2003",
+        "dateOfIncident": "05/04/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017077,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "GRAND AM",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "RIGHT FRONT SPRING BROKE AND SEVERELY DAMAGED RIGHT FRONT TIRE",
+        "vin": "1G2NW12E0XM"
+    }
+]

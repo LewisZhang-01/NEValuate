@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "01/08/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002337,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "NEON",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATES WHILE DRIVING 30MPH  HAD FRONT END  COLLISION AND NEITHER AIR BAG DEPLOYED, CAUSING INJURIES. PLEASE PROVIDE ANY ADDITIONAL INFORMATION. TS",
+        "vin": ""
+    }
+]

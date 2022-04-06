@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "01/06/2019",
+        "dateOfIncident": "01/05/2019",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11165464,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "COMMANDER",
+                "productYear": "2007",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TRANSMISSION OVER TEMPERATURE WARNING. WON'T START. STARTER DOES NOT ENGAGE. LET SIT FOR MANY HOURS, THEN WILL START.",
+        "vin": "1J8HG48KX7C"
+    }
+]

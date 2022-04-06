@@ -1,0 +1,46 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,ENGINE,FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "07/06/2021",
+        "dateOfIncident": "12/23/2020",
+        "fire": true,
+        "manufacturer": "McLaren Automotive Incorporated",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11423677,
+        "products": [
+            {
+                "manufacturer": "McLaren Automotive Incorporated",
+                "productMake": "MCLAREN",
+                "productModel": "600LT",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The car (2020 McLaren 600LT Spider ) self ignited while turned off in our driveway.",
+        "vin": "SBM13SAA1LW"
+    },
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "03/31/2021",
+        "dateOfIncident": "12/23/2020",
+        "fire": true,
+        "manufacturer": "McLaren Automotive Incorporated",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11405835,
+        "products": [
+            {
+                "manufacturer": "McLaren Automotive Incorporated",
+                "productMake": "MCLAREN",
+                "productModel": "600LT",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNED A 2020 MCLAREN 600LT. THE CONTACT STATED THAT WHILE THE VEHICLE WAS OFF AND PARKED IN HIS DRIVEWAY, THE VEHICLE SELF IGNITED AND CAUGHT FIRE WITHOUT WARNING.  THE AUTHORITIES WERE CALLED TO THE SCENE OF THE FIRE AND THE FIRE WAS EXTINGUISHED. NO INJURIES WERE REPORTED AS A RESULT OF THE FIRE. A FIRE REPORT WAS TAKEN AS A RESULT OF FAILURE. DUE TO THE FAILURE, THE VEHICLE WAS TOWED TO AN INDEPENDENT TOW YARD WHERE IT REMAINED IN THEIR POSSESSION. THE MANUFACTURER WAS MADE AWARE OF THE FAILURE AND THEY HAVE OFFERED NO ASSISTANCE. THE VEHICLE WAS DEEMED DESTROYED. THE FAILURE MILEAGE WAS 1,000.",
+        "vin": "SBM13SAA1LW"
+    }
+]

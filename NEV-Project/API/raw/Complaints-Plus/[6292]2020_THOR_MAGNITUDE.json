@@ -1,0 +1,46 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "09/10/2021",
+        "dateOfIncident": "10/06/2020",
+        "fire": false,
+        "manufacturer": "Thor Motor Coach",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11432418,
+        "products": [
+            {
+                "manufacturer": "Thor Motor Coach",
+                "productMake": "THOR",
+                "productModel": "MAGNITUDE",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "My front cap has been leaking for about a year, and I have had it \"repaired\" three times already under warranty.  It is still leaking, and, in fact, it may be getting worse.  This cap contains, among other things, a nearly queen-sized bed for sleeping.  I have read on Thor forums that countless other owners are having similar problems, which stems from the front cap not being secured/installed correctly.  This includes missing seals and/or missing screws.  My fear is that this cap will continue to sag/loosen and eventually fall/break off while I am driving, or while someone is sleeping in this area.  This potentially could result in fatalities / loss of human life.",
+        "vin": "1FDUF5GT3KE"
+    },
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "08/11/2021",
+        "dateOfIncident": "08/10/2021",
+        "fire": false,
+        "manufacturer": "Thor Motor Coach",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11428749,
+        "products": [
+            {
+                "manufacturer": "Thor Motor Coach",
+                "productMake": "THOR",
+                "productModel": "MAGNITUDE",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The cabover cap that attaches to the main RV body is coming loose and appears to be separating from the body.",
+        "vin": "1FDUF5GT8KD"
+    }
+]

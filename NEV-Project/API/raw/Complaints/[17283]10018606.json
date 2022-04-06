@@ -1,0 +1,31 @@
+[
+    {
+        "components": "STRUCTURE,CHILD SEAT",
+        "crash": true,
+        "dateComplaintFiled": "05/13/2003",
+        "dateOfIncident": "05/08/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 4,
+        "odiNumber": 10018606,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "ESCORT",
+                "productYear": "1997",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Evenflo Company, Inc.",
+                "productMake": "EVENFLO",
+                "productModel": "207 (ON MY WAY)",
+                "productYear": "9999",
+                "type": "Child Seat"
+            }
+        ],
+        "summary": "MY WIFE WAS INVOLVED IN A HEAD ON COLLISION.  SHE AND MY TWO CHILDREN WERE CHOPPERED TO A TRAUMA UNIT.  MY 10 WEEK OLD SON WAS IN THE EVENFLO ON MY WAY SYSTEM AND THE BASE BROKE APART UPON IMPACT.  THE SYSTEM HELD HIM IN PLACE, BUT MY CONCERN IS WITH THE BASE BREAKING APART. MODEL#4921B7P2 MANUFACTURED 14 JAN98.   *JB",
+        "vin": "1FALP13P6VW"
+    }
+]

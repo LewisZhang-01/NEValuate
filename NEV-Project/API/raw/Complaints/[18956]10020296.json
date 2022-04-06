@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "09/12/2003",
+        "dateOfIncident": "01/21/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020296,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "DURANGO",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "A FAULTY WIRING HARNESS CAUSED THE TURN SIGNALS AND HAZARD LIGHTS TO OUT WITHOUT WARNING.   *NLM   *SCC   *JB",
+        "vin": "1B4HS28N51F"
+    }
+]

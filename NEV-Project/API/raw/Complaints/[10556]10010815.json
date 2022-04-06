@@ -1,0 +1,31 @@
+[
+    {
+        "components": "POWER TRAIN,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "03/20/2003",
+        "dateOfIncident": "03/14/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010815,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "CARAVAN",
+                "productYear": "1993",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "SPORT UTILITY",
+                "productYear": "1979",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "TRANSMISSION PROBLEMS, I HAD TO GET A REBUILT TRANSMISSION EVERY YEAR SINCE THE YEAR I BOUGHT IT.        *JB",
+        "vin": "2B4GH45R6PR"
+    }
+]

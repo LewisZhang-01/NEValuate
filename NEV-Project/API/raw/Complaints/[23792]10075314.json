@@ -1,0 +1,31 @@
+[
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "06/13/2004",
+        "dateOfIncident": "05/10/2004",
+        "fire": false,
+        "manufacturer": "UNKNOWN MANUFACTURER",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10075314,
+        "products": [
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN1",
+                "productYear": "9999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "BRAKESAFE",
+                "productMake": "BRAKESAFE",
+                "productModel": "BRAKESAFE",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "THE BREAKAWAY SWITCH WAS PULLED OUT OF THE TOW VEHICLE, THEREBY LOCKING UP THE BRAKES ON THAT VEHICLE, CAUSING SEVER DAMAGE TO THAT VEHICLE.  THE ALARM SYSTEM INSTALLED ON THE DASH BOARD OF THE MOTOR HOME WAS A SMALL RED LIGHT LOCATED ON THE EXTREME LEFT HAND SIDE THAT WAS NOT VISIBLE WHEN THE SUN SHOWN IN ON IT. THEREBY THE VEHICLE WAS TOWED MANY MILES BEFORE IT WAS DISCOVERED.*AK    IT WPULD BE MORE PRACTICAL TO INSTALL THE LIGHT IN THE CENTER OF THE DASH WHERE IT COULD BE BETTER OBSERVERED BY ONE OR MORE PEOPLE, OR INSTALL A AUDIABLE ALARM.",
+        "vin": ""
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": true,
+        "dateComplaintFiled": "02/20/2003",
+        "dateOfIncident": "02/01/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10008948,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE GEAR SHIFT MALFUNCTIONED, WHICH CAUSED CONSUMER TO LOSE CONTROL OF THE VEHICLE AND CRASHED INTO A WINDOW.*JB",
+        "vin": "PLEASE FILL"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": true,
+        "dateComplaintFiled": "12/23/2002",
+        "dateOfIncident": "11/29/2002",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001366,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "DURANGO",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATED THAT WHEN IN A VEHICLE ACCIDENT THE DRIVER SEAT CAME OFF THE TRACKS AND THE SEAT BELT CAME UNBUCKLED. DEALER NOTIFIED. TS",
+        "vin": "PLEASEPROVI"
+    }
+]

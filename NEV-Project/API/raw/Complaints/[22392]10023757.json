@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "06/25/2003",
+        "dateOfIncident": "05/31/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10023757,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "AZTEK",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WATER ENTERS THE AZTEK IN UNDER THE DASH AND RUNS DOWN THE ON THE FRONT PASSENGER SIDE. ONLY DURING A LONG HARD RAIN.   *NLM",
+        "vin": "3G7DA03E72S"
+    }
+]

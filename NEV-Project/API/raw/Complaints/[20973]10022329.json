@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "08/22/2003",
+        "dateOfIncident": "06/04/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022329,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "ESCORT",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE EXPERIENCED THE SAME DEFECT WITH THE FUEL TANK AS STATED IN RECALL # 97 V 144 000, BUT THE VEHICLE WAS NOT INCLUDED IN THE RECALL.  *AK  *JB  *NLM",
+        "vin": "3FASP13J4SR"
+    }
+]

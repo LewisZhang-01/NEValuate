@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "03/12/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Land Rover",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10011520,
+        "products": [
+            {
+                "manufacturer": "Land Rover",
+                "productMake": "LAND ROVER",
+                "productModel": "RANGE ROVER",
+                "productYear": "1990",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUEL LEAKED FROM THE TANK, THE DEALER STATED THE GAS TANK WAS CORRODED.*JB",
+        "vin": ""
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "12/27/2002",
+        "dateOfIncident": "12/03/2002",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001614,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "RAM 1500",
+                "productYear": "9999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE DRIVER SIDE UPPER CONTROL ARM BROKE AT THE REAR BUSHING WHEN THE BRAKE WAS APPLIED.( DODGE RAM 150 1990)*JB",
+        "vin": "PROVIDE"
+    }
+]

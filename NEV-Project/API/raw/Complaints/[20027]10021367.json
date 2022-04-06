@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "06/10/2003",
+        "dateOfIncident": "05/01/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021367,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "PRIUS",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "POWER STEERING GEAR ASSEMBLY (RACK AND PENION) IS FAILING. CAR SHAKES WHEN TURNING AND BACKING UP.EXTENDED WARRANTY COMPANY REFUSES TO COVER UNTIL SYSTEM COMPLETELY FAILS OR IT BECAMES A \"SAFETY ISSUE\".*AK",
+        "vin": "JT2BK18U620"
+    }
+]

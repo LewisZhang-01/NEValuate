@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/24/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002569,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "ESCAPE",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Continental Tire the Americas, LLC",
+                "productMake": "CONTINENTAL",
+                "productModel": "CONTITRAC",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "SINCE PURCHASE, WHEN THE VEHICLE IS DRIVEN IN INCLEMENT WEATHER, THE TIRES TRACTION ISN'T RELIABLE.  THE SERVICE MANAGER AND THE FIELD ENGINEER BOTH AGREE THAT THIS IS MERELY A \"HANDLING CHARACTERISTIC\".  *JG",
+        "vin": "1FMYU03181K"
+    }
+]

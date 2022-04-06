@@ -1,0 +1,46 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "06/19/2021",
+        "dateOfIncident": "04/19/2021",
+        "fire": false,
+        "manufacturer": "Forest River, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11421453,
+        "products": [
+            {
+                "manufacturer": "Forest River, Inc.",
+                "productMake": "FOREST RIVER",
+                "productModel": "PUMA",
+                "productYear": "2021",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "in the course of our first camping trips we weighted the camper multiple times, and the numbers did not add up as they should have.  We requested that service look at that as well during the repair process.  They discovered though the spec calls out a hitch weight of 700lbs, ours was weighing 1100lbs.  That is a 57% INCREASE in hitch weight.  Enough that it exceed the 1000lb limit of the hitch system (which we purchased at the time with the camper), and the limit of our trucks gross vehicle weight rating.    This added weight also limited our rear axle rating",
+        "vin": "5ZT2PULB9M4"
+    },
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "06/16/2021",
+        "dateOfIncident": "05/19/2021",
+        "fire": false,
+        "manufacturer": "Forest River, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11421193,
+        "products": [
+            {
+                "manufacturer": "Forest River, Inc.",
+                "productMake": "FOREST RIVER",
+                "productModel": "PUMA",
+                "productYear": "2021",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "We picked up this camper on May 19, 2021 and returned it to the dealer May 28, 2021 because the leaf springs supporting the camper a completely flat.",
+        "vin": "5ZT2PUEC3M4"
+    }
+]

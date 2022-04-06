@@ -1,0 +1,68 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "09/08/2021",
+        "dateOfIncident": "09/07/2021",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11432122,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "AUDI",
+                "productModel": "A8",
+                "productYear": "2007",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The sunroof of my car exlpoded while driving on the freeway while on my commute to work yesterday morning.  Nobody was hurt and luckily my sliding cover was covering the glass at the time.",
+        "vin": "WAUMV44E37N"
+    },
+    {
+        "components": "FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "01/09/2019",
+        "dateOfIncident": "01/09/2019",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11166112,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "AUDI",
+                "productModel": "A8",
+                "productYear": "2007",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WITH WIFE DRIVING AND FOUR YOUNG CHILDREN IN CAR, GAS PEDAL BECAME STUCK IN FULL ACCELERATION.  PEDAL HAD TO BE PULLED UP BY HAND WHILE MASHING BRAKES IN ORDER TO AVOID CRASH.",
+        "vin": "WAULV44E17N"
+    },
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "11/21/2010",
+        "dateOfIncident": "11/20/2010",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10367011,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "AUDI",
+                "productModel": "A8",
+                "productYear": "2007",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "MY VEHICLE A 2007 AUDI A8 HAS AN AIRBAG LIGHT ON AND PASSENGER AIRBAG AS WELL,THERE ARE 2 RECALLS FOR MY YEAR VEHICLE, BUT DEALER SAYS MY VIN DOES NOT FALL UNDER RECALL, BUT IT IS THE EXACT PROBLEM LISTED. *TR",
+        "vin": "WAUMV44E37N"
+    }
+]

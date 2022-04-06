@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "10/17/2006",
+        "dateOfIncident": "10/17/2006",
+        "fire": false,
+        "manufacturer": "Carriage, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10171113,
+        "products": [
+            {
+                "manufacturer": "Carriage, Inc.",
+                "productMake": "CARRIAGE",
+                "productModel": "CAMEO",
+                "productYear": "1999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "MARATHON",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "DT*: THE CONTACT STATED THE TIRE BECAME FLAT WHILE PARKED.  THE PASSENGER FRONT TIRE WAS REPLACED BECAUSE OF TREAD SEPARATION.  THEN WHILE DRIVING, THE CONTACT NOTICED SMOKE POURING FROM THE REAR OF THE VEHICLE.  WHEN THE VEHICLE WAS PULLED OVER, THE PASSENGER SIDE REAR TIRE HAD BLOWN OUT.  THAT TIRE WAS REPLACED.  THEN, A PASSERBY ALERTED THE CONTACT THAT THE DRIVER SIDE FRONT TIRE WAS SHREDDING, THE TIRE WAS REPLACED.  THE DRIVER SIDE REAR TIRE WAS STARTING TO SHRED.  THESE WERE REPLACEMENTS FOR RECALLED TIRES, NO RECALL INFORMATION WAS AVAILABLE.    UPDATED 11/9/2006 - *NM",
+        "vin": "16F62E3P7X1"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "02/09/2010",
+        "dateOfIncident": "01/15/2010",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10307814,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "NITRO 4X4",
+                "productYear": "2007",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Toyo Tire Holdings of Americas, Inc.",
+                "productMake": "TOYO",
+                "productModel": "TOYO",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "IN COLD WEATHER, 4 TO 5 DEGREES AND COLDER, THE TIRES LOOSE PRESSURE.  IT APPEARS TO BE THE VALVES WHICH CONTAIN THE SENSOR THAT INDICATES IF A TIRE IS LOW IN PRESSURE.  ABOVE 5 DEGREES THE TIRES MAINTAIN THE REQUIRED PRESSURE.  I HAVE TAKEN TO CARRYING A HAND PUMP SO THAT I CAN PUMP THE TIRE AS NEEDED. *TR",
+        "vin": "1D8GU28K87W"
+    }
+]

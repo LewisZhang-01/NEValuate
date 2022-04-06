@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "02/01/2003",
+        "dateOfIncident": "02/01/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005082,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "LEXUS",
+                "productModel": "RX300",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "GOODYEAR",
+                "productYear": "1982",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "2/1/03 WFS  2002 LEXUS RX 300 WITH 1800 MILES  TURNING INTO PARKING LOT HIT THE CURB TRAVELING SLOWLY AND THE RIGHT FRONT TIRE BLEW OUT.  TIRE MAKE P225/70 R26 MADE BY INTEGRITY THIS EVENT HAS NEVER HAPPEN IN OUR EXPERIENCE OF COMBINED 70 YEARS OF DRIVING.           TS",
+        "vin": ""
+    }
+]

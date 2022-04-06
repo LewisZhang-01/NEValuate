@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "05/08/2003",
+        "dateOfIncident": "04/25/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019421,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "ESCAPE",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING 10 MPH THE VEHICLE WAS INVOLVED IN A HEAD ON COLLISION.  NEITHER FRONT AIR BAG DEPLOYED.  *NLM",
+        "vin": "FILLIN"
+    }
+]

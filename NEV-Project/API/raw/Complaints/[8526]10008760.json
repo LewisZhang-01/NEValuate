@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "02/19/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10008760,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER'S VEHICLE WAS REAR ENDED WHICH CAUSED THE VEHICLE TO HIT A WALL, AND THE AIRBAGS FAILED TO DEPLOY. *JB",
+        "vin": ""
+    }
+]

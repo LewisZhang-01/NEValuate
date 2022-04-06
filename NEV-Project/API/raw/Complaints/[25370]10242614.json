@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "09/12/2008",
+        "dateOfIncident": "06/21/2008",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10242614,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "2007",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2007 FORD RANGER AIR BAG FAILURE IN A FRONT END COLLISION.  CONSUMER STATES THAT THE AIR BAG DID NOT DEPLOY CAUSING  PERMANENT INJURY TO HER RIGHT HAND.  *NJ",
+        "vin": ""
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "components": "STEERING,SUSPENSION,SERVICE BRAKES, HYDRAULIC,POWER TRAIN,SEAT BELTS,STRUCTURE,TIRES,WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "06/25/2003",
+        "dateOfIncident": "05/28/2003",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10023760,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "TIBURON",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "MY VEHICLE HAS PROBLEMS WITH THE TIRES, BRAKES AND TRANSMISSION. THE DEALER HAS DONE REPAIRS AND CORRECT TO SOME EXTENT. HOWEVER, MANY ISSUES HAVE NOT BEEN ADDRESSED OR REMEDIED AND NOW THEY REFUSE TO SERVICE THE VEHICLE. THE VEHICLE IS NOT SAFE TO DRIVE.   *NLM",
+        "vin": ""
+    }
+]

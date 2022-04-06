@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": true,
+        "dateComplaintFiled": "04/25/2008",
+        "dateOfIncident": "03/05/2008",
+        "fire": false,
+        "manufacturer": "Mitsubishi Motors North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10226214,
+        "products": [
+            {
+                "manufacturer": "Mitsubishi Motors North America, Inc.",
+                "productMake": "MITSUBISHI",
+                "productModel": "ECLIPSE",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "2002 MITSUBISHI ECLIPSE HAD A TIRE BLOW OUT. CONSUMER STATES THAT THE VEHICLE THEN STRUCK ANOTHER VEHICLE AND THEN HIT THE MEDIAN WALL BEFORE COMING TO A REST ON THE OPPOSITE SIDE OF THE ROAD.  *KB  EXAMINATION OF THE TIRE REVEALED TWO HOLES IN THE SIDEWALL WHICH CAUSED THE BLOWOUT. THE CONSUMER SUFFERED A LACERATION TO HER KNEE. (OHIO TRAFFIC CRASH REPORT # 10-0220-91",
+        "vin": ""
+    }
+]

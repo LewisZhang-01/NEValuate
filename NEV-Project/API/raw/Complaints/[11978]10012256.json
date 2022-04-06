@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "03/24/2003",
+        "dateOfIncident": "02/16/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10012256,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "INTREPID",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING AT 30 MPH THE VEHICLE WAS INVOLVED IN A FRONTAL COLLISION BUT NONE OF THE AIR BAG DEPLOYED UPON IMPACT.  AS A RESULT THE DRIVER SUSTAINED HEAD INJURIES.  *NLM",
+        "vin": "2B3HD56J3WH"
+    }
+]

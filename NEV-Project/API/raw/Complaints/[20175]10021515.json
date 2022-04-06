@@ -1,0 +1,31 @@
+[
+    {
+        "components": "POWER TRAIN,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "06/12/2003",
+        "dateOfIncident": "03/01/1999",
+        "fire": false,
+        "manufacturer": "Mazda Motor Corp.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021515,
+        "products": [
+            {
+                "manufacturer": "Mazda Motor Corp.",
+                "productMake": "MAZDA",
+                "productModel": "626",
+                "productYear": "1996",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Mazda North American Operations",
+                "productMake": "MAZDA",
+                "productModel": "HOOD",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "AT 59,000 MILES I PAID FOR A NEEDED, NEW TRANSMISSION AT A MAZDA DEALER.  NOW @ 106,000 MILES IT IS IN NEEDED AGAIN. *JB",
+        "vin": "1YVGE22C9T5"
+    }
+]

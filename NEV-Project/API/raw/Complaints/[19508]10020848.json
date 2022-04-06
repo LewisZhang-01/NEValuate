@@ -1,0 +1,24 @@
+[
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "06/01/2003",
+        "dateOfIncident": "05/10/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020848,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "GRAND AM",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "STEREO GONE OUT.      *TT",
+        "vin": "1G2NE52TXYM"
+    }
+]

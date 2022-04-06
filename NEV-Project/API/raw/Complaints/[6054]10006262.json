@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": true,
+        "dateComplaintFiled": "02/03/2003",
+        "dateOfIncident": "01/18/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10006262,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "SUNFIRE",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "LOST CONTROL  CAUSING AN ACCIDENT DUE TO A FAULTY RACK AND PINION. DEALER HAS BEEN NOTIFIED. CONSUMER RECEIVED A RECALL LETTER ON 02/01/03. PLEASE PROVIDE FURTHER INFORMATION.    PH  *TR",
+        "vin": "PROVIDE"
+    }
+]

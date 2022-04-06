@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "06/26/2003",
+        "dateOfIncident": "05/13/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019781,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN THE BRAKES WERE APPLIED THE POWER STEERING FAILED.  THE DEALER INSPECTED THE VEHICLE BUT COULD NOT DUPLICATE OR CORRECT THE PROBLEM.    *NLM  *TT       *JB",
+        "vin": "1FTWW33F52E"
+    }
+]

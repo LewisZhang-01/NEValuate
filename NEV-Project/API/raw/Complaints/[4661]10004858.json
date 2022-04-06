@@ -1,0 +1,24 @@
+[
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "01/29/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004858,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "BLAZER",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "LIGHTS ON THE CONSOLE AND EXTERIOR LIGHTS WILL FLICK ON AND OFF AT RANDOM LYWITH CAUSE DETERMINED AS THE AIR INJECTION REACTION PUMP.   PH.  *AK",
+        "vin": "1GNDT13W5Y2"
+    }
+]

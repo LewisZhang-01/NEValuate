@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "02/12/2005",
+        "dateOfIncident": "01/03/2005",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10110414,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "AUDI",
+                "productModel": "A4",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ABS CONTROL UNIT FAILS AT 68K, REAR BRAKES TEND TO LOCK UP.  *JB",
+        "vin": ""
+    }
+]

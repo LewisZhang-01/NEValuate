@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION,VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "04/23/2003",
+        "dateOfIncident": "03/01/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10016432,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "STRATUS",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE MAKES NOISE WHILE GOING OVER BUMPS.  ALSO, BLOWER MOTOR ONLY WORKS ON HIGH.      *JB",
+        "vin": ""
+    }
+]

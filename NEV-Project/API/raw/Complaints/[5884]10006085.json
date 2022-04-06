@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "01/31/2003",
+        "dateOfIncident": "01/30/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10006085,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "SATURN",
+                "productModel": "VUE",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE'S SEAT BELT HAVE BROKEN THEY WONT LOCK OR RETRACT. DEALER NOTIFIED. PLEASE PROVIDE ADDITIONAL INFORMATION.     TS",
+        "vin": "PLEASE FILL"
+    }
+]

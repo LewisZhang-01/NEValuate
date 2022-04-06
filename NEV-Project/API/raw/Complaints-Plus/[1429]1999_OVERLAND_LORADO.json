@@ -1,0 +1,62 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "10/21/2003",
+        "dateOfIncident": "09/24/2003",
+        "fire": false,
+        "manufacturer": "OVERLAND MOTOR COACH",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10040541,
+        "products": [
+            {
+                "manufacturer": "OVERLAND MOTOR COACH",
+                "productMake": "OVERLAND",
+                "productModel": "LORADO",
+                "productYear": "1999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "MICHELIN TIRE CORP.",
+                "productMake": "MICHELIN",
+                "productModel": "XRV",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "ALL FOUR TIRE SIDEWALLS FAILED WHILE DRIVING ABOUT 55 MPH. MOTOR HOME SIDEWALL HAD A  ZIPPER RIP 18 INCHES ON EVERY TIRE.   MICHELIN ,XRV, SIZE 255/80R22.5, DOT NUMBER B6HAK3X358.  THERE WERE NO INJURIES OR FATALITIES TO REPORT.  *AK      AFTER THE FIRST FAILURE, MICHELIN STATED IT WAS DUE TO UNDER INFLATION. FROM THAT POINT ON INFLATION WAS CHECKED BEFORE EVERY TRIP. AFTER THE SECOND FAILURE, MICHELIN STATED IT WAS DUE TO OVERLOADING. AFTER THE THIRD AND FOURTH FAILURE, MICHELIN STATED OVERLOAD OR UNDER INFLATION. MICHELIN CHANGED THEIR ORIGINAL XRV TIRES AND THEY NO LONGER HAVE PROBLEMS, HOWEVER THEY STATED THERE WAS NO PROBLEM WITH THE ORIGINAL.   *PH  *JB",
+        "vin": "4UZ6XLCA3XC"
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "09/24/2003",
+        "dateOfIncident": "09/10/2003",
+        "fire": false,
+        "manufacturer": "OVERLAND MOTOR COACH",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10039483,
+        "products": [
+            {
+                "manufacturer": "OVERLAND MOTOR COACH",
+                "productMake": "OVERLAND",
+                "productModel": "LORADO",
+                "productYear": "1999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "MICHELIN TIRE CORP.",
+                "productMake": "MICHELIN",
+                "productModel": "X TIRE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "HAVE HAD FOUR SIDEWALL FAILURES OF XRV TIRES OUT OF THE ORIGINAL SIX TIRES THE MOTOR COACH CAME WITH.",
+        "vin": ""
+    }
+]

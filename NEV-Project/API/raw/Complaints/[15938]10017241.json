@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "04/21/2003",
+        "dateOfIncident": "03/21/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017241,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TAURUS",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE DEALERSHIP HASN'T ORDERED THE PARTS FOR THE WINDSHIELD WIPER RECALL 03 V 087 000. CONSUMER HAS BEEN WAITING FOR A MONTH.  *NLM",
+        "vin": "1FAPT55252A"
+    }
+]

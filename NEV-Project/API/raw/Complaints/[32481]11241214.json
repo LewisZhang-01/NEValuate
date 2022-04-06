@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "08/01/2019",
+        "dateOfIncident": "07/28/2019",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 2,
+        "odiNumber": 11241214,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "428I",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CAR IN MOTION TBONE ACCIDENT NO AIRBAG ACTIVATED",
+        "vin": "WBA3V7C53G5"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "03/06/2003",
+        "dateOfIncident": "03/04/2003",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010066,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "CIVIC",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE DEALER REFUSED TO RECONNECT THE ALARM SYSTEM AFTER THE RECALL WORK WAS PERFORMED ON THE IGNITION SWITCH.*JB",
+        "vin": "2HGEJ6671XH"
+    }
+]

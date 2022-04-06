@@ -1,0 +1,31 @@
+[
+    {
+        "components": "LATCHES/LOCKS/LINKAGES,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "07/13/2010",
+        "dateOfIncident": "07/10/2010",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10343014,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "MURANO",
+                "productYear": "2005",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "LOWER LINK",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "MY 2005 NISSAN MURANO LOCK ACTUATOR ON THE DRIVER SIDE WENT OUT. *TR",
+        "vin": ""
+    }
+]

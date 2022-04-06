@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "07/24/2010",
+        "dateOfIncident": "06/01/2010",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10345014,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ABS ACTIVATION AT LOW SPEEDS.   NO  DTSC CODES SET. *TR",
+        "vin": "1GTEC14V16E"
+    }
+]

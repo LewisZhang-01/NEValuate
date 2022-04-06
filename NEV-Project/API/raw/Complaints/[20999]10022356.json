@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "06/04/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022356,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WINDSHIELD WIPERS WERE EXPERIENCING THE SAME DEFECT AS STATED IN RECALL 02 V 280 000, BUT THIS VEHICLE WA SNOT INCLUDED IN RECALL DUE TO VIN.  *AK",
+        "vin": ""
+    }
+]

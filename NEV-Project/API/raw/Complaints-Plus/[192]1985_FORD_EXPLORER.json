@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "06/28/1995",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 967866,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ALL FOUR SEAT BELT RETRACTORS DON'T RETRACT BACK FRONT AND BACK SEAT .  *AK",
+        "vin": "1FMDU34X6FZ"
+    }
+]

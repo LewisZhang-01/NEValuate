@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "08/01/2003",
+        "dateOfIncident": "05/19/2003",
+        "fire": false,
+        "manufacturer": "Winnebago Industries, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020225,
+        "products": [
+            {
+                "manufacturer": "Winnebago Industries, Inc.",
+                "productMake": "WINNEBAGO",
+                "productModel": "WINNEBAGO",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "STEEL RADIAL TIRE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE TIRE EXPERIENCED TREAD SEPARATION ON THE RIGHT SIDE DUAL TIRE OF THE WINNEBAGO ITASKA SUNDANCER 2000.  FIRESTONE STEELTEX RADIAL TIRES LT225/75R16.  TIRE REPLACED FOR THE AMOUNT OF $114.99. *JB  *CB",
+        "vin": "1FDXE45S3YH"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC,PARKING BRAKE",
+        "crash": true,
+        "dateComplaintFiled": "01/02/2003",
+        "dateOfIncident": "05/31/2002",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000689,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "745I",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKES FAILED FOR 2ND TIME IN 2 WEEKS, RESULTING IN FENDER DAMAGE TO 3 VEHICLES; ACCIDENT OCCURED AT 5 MPH. THE SAME FAILURE HAD OCCURED 2 WEEKS EARLIER (WITHOUT ANY DAMAGES), AND THE LOCAL BMW DEALERSHIP \"REPAIRED\" THE BRAKE WHEEL SENSORS, STATING THIS WAS THE CAUSE OF THE BRAKE FAILURE. THERE WAS NO EMERGENCY BRAKE HANDLE THAT COULD BE USED IN SUCH AN EMERGENCY (ONLY A BUTTON ON THE DASH).",
+        "vin": "WBAGL63422D"
+    }
+]

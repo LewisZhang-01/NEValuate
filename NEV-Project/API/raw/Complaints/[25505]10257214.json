@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "02/02/2009",
+        "dateOfIncident": "10/01/2007",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10257214,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BOTH SEAT HEATERS FAILED AFTER 50K MILES AND 3.5 YEARS OLD. *TR",
+        "vin": ""
+    }
+]

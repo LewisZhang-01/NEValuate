@@ -1,0 +1,24 @@
+[
+    {
+        "components": "WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "03/13/2003",
+        "dateOfIncident": "02/03/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009756,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "LESABRE",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DURING ROUTINE SERVICE, IT WAS DISCOVERED THE 3 HOLD DOWN BOLTS WERE MISSING ON THE RIGHT REAR WHEEL.   *TT  *JB",
+        "vin": "1G4HP54KX14"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "01/24/2003",
+        "dateOfIncident": "01/12/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003344,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "VOYAGER",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE (CHRYSLER VOYAGER 2002) HAD A TOTAL FAILURE OF ITS POWER STEERING AND REQUIRES COMPLETE REPLACEMENT OF STEERING RACK. THE VEHICLE IS STILL OUT OF SERVICE EVEN AFTER 11 DAYS",
+        "vin": "1C4GJ25B92B"
+    }
+]

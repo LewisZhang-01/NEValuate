@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "02/17/2003",
+        "dateOfIncident": "02/16/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10007659,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAVALIER",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AIR BAGS FAILED TO DEPLOY IN FRONTAL IMPACT AT SPEED OF 45 MPH. AIR BAG LIGHT ON DASH INDICATED AIR BAGS WERE ACTIVATED.",
+        "vin": "1G1JC124XS7"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": true,
+        "dateComplaintFiled": "05/01/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10018009,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "INTREPID",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE CONSUMERS VEHICLE WAS REAR ENDED BY ANOTHER VEHICLE AT WHICH TIME THE DRIVERS SEAT COLLAPSED.  AS A RESULT THE DRIVER WAS INJURED.  *NLM",
+        "vin": "NOT AVAILAB"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "06/27/2003",
+        "dateOfIncident": "06/26/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10023891,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "SUPERCAB",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "HAD A HEAD ON CRASH AT ABOUT 30-40 MPH AND THE AIR BAG DID NOT ENGAGE.  *JB",
+        "vin": "1FTZR15X6YT"
+    }
+]

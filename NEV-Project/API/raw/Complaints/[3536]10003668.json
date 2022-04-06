@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "01/13/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003668,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "THUNDERBIRD",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BOTH FRONT SEATBACKS TILT FOWARD WITHOUT PRESSING THE ADJUSTER.  CONSUMER STATED THE BACKS SHOULD BE IN THE LOCK POSITION UNTIL RELEASED BY THE ADJUSTER. CAUSE IS UNKNOWN. DEALER STATED THEY ALL ARE LIKE THAT. JB",
+        "vin": "1FAHP60A12Y"
+    }
+]

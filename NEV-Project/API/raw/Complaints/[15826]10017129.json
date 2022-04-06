@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "05/06/2003",
+        "dateOfIncident": "04/04/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017129,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "REGAL",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "POWER STEERING RACK. INTERMITTENT LOSS OF POWER ASSIST WHILE TURNING TO THE LEFT. DEALER DIAGNOSED AS BAD POWER STEERING RACK.    *NLM",
+        "vin": "2G4WF5216W1"
+    }
+]

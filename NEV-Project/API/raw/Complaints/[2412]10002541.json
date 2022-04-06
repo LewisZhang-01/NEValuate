@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "01/10/2003",
+        "dateOfIncident": "01/01/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002541,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "OLDSMOBILE",
+                "productModel": "CUTLASS",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER RECEIVED A RECALL NOTICE REGARDING THE AIR BAGS, HOWEVER CONSUMER WAS INFORMED THAT NO PARTS WERE AVAILABLE.*JB",
+        "vin": "1G3WH52M4TF"
+    }
+]

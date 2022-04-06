@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "02/26/2003",
+        "dateOfIncident": "02/08/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009467,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "MONTANA",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE TRANSMISSION AND THE VEHICLE LOST COMPLETE POWER. THE DEALER STATED THE SECOND CLUTCH DRUM WAS CRACKED WHICH CAUSED THE PROBLEM IN THE TRANSMISSION.*JB",
+        "vin": "1GMDX03E9YD"
+    }
+]

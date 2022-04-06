@@ -1,0 +1,68 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "06/04/2001",
+        "dateOfIncident": "04/29/2001",
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 889733,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "SOFTAIL",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WAS DRIVING MOTORCYCLE WHEN  CAM BEARINGS BLEW OUT AND SCATTERED  METAL PIECES THROUGHOUT ENGINE, CAUSING IT TO STALL OUT.  *AK",
+        "vin": "1HD1BJL56TY"
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "01/27/2000",
+        "dateOfIncident": "02/01/1988",
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 855638,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "SOFTAIL",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SPEEDOMETER STICKS INTERMITTENTLY, DOESN'T INDICATE THE CORRECT  SPEED.  EVENTUALLY SPEEDOMETER WILL UNSTICK  AND WORK NORMALLY.  *AK *ML",
+        "vin": "1HD1BKL18TY"
+    },
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "07/16/1997",
+        "dateOfIncident": "11/01/1996",
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 515989,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "SOFTAIL",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "RECALL REPAIR NOT ABLE TO BE DONE DUE TO LACK OF PARTS (FUEL SUPPLY VALVE).",
+        "vin": ""
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "04/01/2003",
+        "dateOfIncident": "03/19/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10013778,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "WINDSTAR",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AUTOMATIC SLIDING DOORS INTERMITTENTLY MALFUNCTION.  THEY WILL SOMETIMES FAIL TO CLOSE OR OPEN WHEN ACTIVATED.  THE PASSENGER SIDE DOOR SOMETIMES FAILS TO CLOSE COMPLETELY AND THE OPEN DOOR LIGHT ON THE DASH REMAINS ON.  THE PASSENGER SIDE DOOR SOMETIMES MAKES A RATTLING SOUND AND DOES NOT APPEAR TO HAVE A TIGHT SEAL. *JB",
+        "vin": ""
+    }
+]

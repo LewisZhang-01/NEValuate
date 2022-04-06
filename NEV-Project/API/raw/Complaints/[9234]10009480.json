@@ -1,0 +1,24 @@
+[
+    {
+        "components": "PARKING BRAKE",
+        "crash": false,
+        "dateComplaintFiled": "02/26/2003",
+        "dateOfIncident": "02/04/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009480,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE EMERGENCY BRAKE FAILED TO HOLD IN THE UPRIGHT POSITION.*JB",
+        "vin": "PLEASE FILL"
+    }
+]

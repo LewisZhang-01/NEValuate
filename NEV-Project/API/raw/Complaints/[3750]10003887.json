@@ -1,0 +1,24 @@
+[
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "01/24/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003887,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "S10",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE CONSUMER STATED THAT THE CONSOLE/ARM REST (IN THE OPEN POSITION) WILL EXPEL THE CONTENTS FROM THE CAVITY ONTO THE REAR FLOOR OF THE VEHICLE.  SCC",
+        "vin": "1GCC519W028"
+    }
+]

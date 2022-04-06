@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "03/27/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10011853,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "ELANTRA",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE WAS IMPACTED ON THE PASSENGER SIDE DOOR YET THE AIR BAGS DID NOT DEPLOY.   *NLM  *NLM",
+        "vin": "KMHDN45D62U"
+    }
+]

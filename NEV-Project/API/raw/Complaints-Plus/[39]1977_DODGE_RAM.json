@@ -1,0 +1,46 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "08/06/2002",
+        "dateOfIncident": "11/01/2001",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 8015617,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "RAM",
+                "productYear": "1977",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE TRAVELING ON HIGHWAY TRANSMISSION LIGHT APPEARED ON  DASHBOARD PANEL.  TRANSMISSION MALFUNCTIONED.  DEALERSHIP  WAS AWARE OF PROBLEM.*AK",
+        "vin": "2BCHB21B9AK"
+    },
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "04/25/1999",
+        "dateOfIncident": "11/11/1998",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 705966,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "RAM",
+                "productYear": "1977",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "(CONSUMER SAID MODEL IS SPORTSMAN) LOOKING FOR RECALL OR OTHER INF.ORMATION ON OBTAINING SAFE REPLACEMENT TANK.  *AK",
+        "vin": "F33BF7V0055"
+    }
+]

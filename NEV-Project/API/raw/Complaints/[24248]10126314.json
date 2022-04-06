@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, OTHER",
+        "crash": false,
+        "dateComplaintFiled": "06/23/2005",
+        "dateOfIncident": "06/15/2000",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10126314,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAVALIER",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUEL GAUGE SHOWED MORE FUEL IN TANK THAN THERE REALLY WAS-  THE CAR STALLED ON A BUSY HIGHWAY SHOWING 1/4 TANK OF GAS WHEN IT WAS EMPTY.",
+        "vin": ""
+    }
+]

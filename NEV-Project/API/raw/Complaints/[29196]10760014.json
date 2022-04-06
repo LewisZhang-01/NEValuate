@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "08/28/2015",
+        "dateOfIncident": "05/12/2014",
+        "fire": false,
+        "manufacturer": "SMART USA DISTRIBUTOR LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10760014,
+        "products": [
+            {
+                "manufacturer": "SMART USA DISTRIBUTOR LLC",
+                "productMake": "SMART",
+                "productModel": "FORTWO",
+                "productYear": "2008",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SEAT BELT LIGHT STAYS ON.  CAME ON FOR NO REASON.",
+        "vin": "WMEEJ31X68K"
+    }
+]

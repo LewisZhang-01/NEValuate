@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/07/2003",
+        "dateOfIncident": "06/04/2003",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021197,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "535",
+                "productYear": "1985",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "B.F. GOODRICH TIRE CO.",
+                "productMake": "B.F.GOODRICH",
+                "productModel": "TOURING T/A",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "ONE OF A MATCHED SET OF BF GOODRICH P20560R14 TOURING T/A TR4 BEGAN TO SEPARATE WITH APPROX. 1/2 TREAD LIFE LEFT.  LESS THAN 1000 MILES LATER, ANOTHER OF THE SET BEGAN TO SEPARATE TO THE POINT OF EXPOSING BELTS AND THROWING TREAD.  LUCKILY THE SPEED WAS LESS THAN 50 MPH AND THE VEHICLE WAS BROUGHT SAFELY TO A HALT WITHOUT A COLLISION.  *JB",
+        "vin": ""
+    }
+]

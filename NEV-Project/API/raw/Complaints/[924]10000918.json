@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "01/10/2003",
+        "dateOfIncident": "11/29/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000918,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TAURUS",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "PASSENGER SEAT BELT IS STUCK. IT WON'T MOVE. IT WILL NOT RETRACT. IT SOUNDS LIKE THE RECALL FOR THE 1999 TAURUS. NO ONE CAN USE THE SEAT BELT BECAUSE IT WON'T MOVE.",
+        "vin": "1FAFP58U2YA"
+    }
+]

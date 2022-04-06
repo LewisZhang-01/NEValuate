@@ -1,0 +1,98 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "01/13/2022",
+        "dateOfIncident": "10/04/2021",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11447297,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "X6",
+                "productYear": "2018",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "During operation in DRIVE, the vehicle would shift to PARK, without the control lever being operated. This occurred intermittently, but with greater frequency over time. The safety concern is that it occurred while in traffic and even occurred on an Interstate highway, while at momentary stop.   When reported to BMW, the failure was isolated to the mechatronics, the components   including electronic valve body, seals, etc. that control BMW automatic transmission functions.  This is not a failure of an eco-mode or other fuel efficiency option.   The item required costly repair, but confidence that a single part or system was isolated and repair is complete has not been confirmed.",
+        "vin": "5UXKU2C59J0"
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "07/28/2021",
+        "dateOfIncident": "05/11/2021",
+        "fire": true,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11426789,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "X6",
+                "productYear": "2018",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Pirelli Tire, LLC",
+                "productMake": "PIRELLI",
+                "productModel": "SCORPION VERDE ALL SEASON",
+                "productYear": "9999",
+                "size": "265/50/R19",
+                "type": "Tire"
+            }
+        ],
+        "summary": "The contact owns a 2018 BMW X6 equipped with Pirelli Scorpion Verde All Season tires, Tire Size: 255/50/R19, DOT number: UN64P9784417. While his wife was driving 70 MPH, the passenger\u2019s side rear tire delaminated two tread belts and began whipping inside of the wheel well. Due to the failure, a friction fire ignited inside the wheel well which caused two rows of the tread to separate from the tire. The contact's wife pulled off to the shoulder and pressed the emergency button for immediate assistance. The authorities were dispatched to the scene. There was no injury reported. The vehicle was towed to the dealer and the contact made the service representative aware of the failure. The contact was provided an estimate of $5,000 in damages. The tire manufacturer was notified of the failure and the tire was sent to the Pirelli manufacturer for evaluation. The contact then received an email from the manufacturer stating they would not offer any assistance with the repair or replacement of the tire. The vehicle was repaired. The tire and vehicle failure mileages were approximately 26,000. The VIN was not available.",
+        "vin": ""
+    },
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "02/27/2020",
+        "dateOfIncident": "02/24/2020",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11311914,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "X6",
+                "productYear": "2018",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WE RECEIVED A RECALL LETTER.  THERE WAS APPARENTLY NO FIX AVAILABLE YET, RENDERING THE VEHICLE UNSAFE TO TRANSPORT A CHILD.  I WAS ADVISED BY A BMW DEALERSHIP THEY COULD GET THE PARTS.  HAVE BEEN WAITING ALMOST A WEEK WITH NO REMEDY AND WAS TOLD TODAY THAT THEY WERE STILL TRYING.  CALLED BMW CORPORATE AND THEY SAID THE PARTS WERE IN GERMAN AND IT WAS UP TO THE LOCAL DEALERSHIP TO LOCATE.  THEY WERE UNABLE TO HELP.  MY CAR IS UNUSABLE TO TRANSPORT MY GRANDSON AND NO REMEDY IS IN SIGHT.  BMW IS TAKING A \"SO WHAT\" ATTITUDE!  THIS IS AN UNACCEPTABLE SAFETY SITUATION.  THIS IS THE INFORMATION ABOUT THE RECALL:    NHTSA RECALL NUMBER19V823  RECALL STATUSRECALL INCOMPLETE, REMEDY NOT YET AVAILABLE  SUMMARY  ISOFIX CHILD SEAT ANCHORS: WHEN ATTACHING AN ISOFIX-TYPE CHILD SEAT (RIGID-STYLE CONNECTORS) TO THE VEHICLE'S REAR SEAT LOWER ANCHOR BARS, THEN OVER THE LIFETIME OF THE VEHICLE, THE BAR(S) COULD BECOME DAMAGED.    SAFETY RISK  IF THE LOWER ANCHOR BAR(S) BECAME DAMAGED, THIS COULD INCREASE THE RISK OF INJURY TO A CHILD IN AN ISOFIX-TYPE CHILD SEAT DURING A CRASH.    REMEDY  A REINFORCING BRACKET WILL BE WELDED TO THE LOWER ANCHOR BARS AND THE VEHICLE BODY FOR FREE AND TAKE SEVERAL HOURS.",
+        "vin": "5UXKU2C59J0"
+    },
+    {
+        "components": "STEERING,SUSPENSION,SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "11/24/2019",
+        "dateOfIncident": "11/09/2019",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11281983,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "X6",
+                "productYear": "2018",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "MULTIPLE ISSUES WITH THE FRONT SYSTEM AND CAUSES INSTABILITY, ISSUES WITH THE SUSPENSION AND THE EARLY WARNING SYSTEM. NEVER WAS FIXED PROPERLY FROM BMW TENAFLY",
+        "vin": "5UXKU2C5XJ0"
+    }
+]

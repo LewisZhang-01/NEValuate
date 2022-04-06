@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "05/14/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019871,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "MOUNTAINEER",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE SEAT BELT WAS NOT DESIGNED FOR SHORT PEOPLE. WHEN THE SEAT BELT WAS ADJUSTED,  IT RESTED ON THE CONSUMER'S CHEST AND SLID UNDER HIS/HER ARM.         *JB",
+        "vin": "4M2ZU76E01U"
+    }
+]

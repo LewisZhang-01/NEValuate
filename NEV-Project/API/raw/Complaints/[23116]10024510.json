@@ -1,0 +1,31 @@
+[
+    {
+        "components": "LATCHES/LOCKS/LINKAGES,CHILD SEAT",
+        "crash": false,
+        "dateComplaintFiled": "06/19/2003",
+        "dateOfIncident": "06/19/2003",
+        "fire": false,
+        "manufacturer": "UNKNOWN MANUFACTURER",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10024510,
+        "products": [
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN1",
+                "productYear": "9999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "CENTURY PRODUCTS",
+                "productMake": "CENTURY",
+                "productModel": "SMARTMOVE",
+                "productYear": "9999",
+                "type": "Child Seat"
+            }
+        ],
+        "summary": "CENTURY MODEL # 44709SZR SMART MOVE CHILD SEAT WILL NOT LATCH IN THE REAR FACING POSITION, IT MOVES. *AK",
+        "vin": ""
+    }
+]

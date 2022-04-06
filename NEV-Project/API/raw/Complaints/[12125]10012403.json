@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "04/02/2003",
+        "dateOfIncident": "01/01/2001",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10012403,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE REAR END OF THE VEHICLE MADE ALOT OF NOISE.  A TSB WAS ISSUED FOR SIMILAR VEHCILE RELATED TO DIFFERENTIAL CHATTER.   *AK",
+        "vin": "1FTRX18L8XK"
+    }
+]

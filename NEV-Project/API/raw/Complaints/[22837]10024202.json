@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "07/10/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10024202,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAVALIER",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVER'S SIDE SEAT BELT FAILED TO STAY LATCHED AFTER BEING BUCKLED.*AK  *TS    *JB",
+        "vin": "4G1JF32T1XB"
+    }
+]

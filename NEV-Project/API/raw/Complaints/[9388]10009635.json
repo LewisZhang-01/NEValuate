@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "02/28/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "UD Trucks Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009635,
+        "products": [
+            {
+                "manufacturer": "UD Trucks Corporation",
+                "productMake": "UD",
+                "productModel": "UD1400",
+                "productYear": "1997",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "DUNLOP TIRE CORPORATION",
+                "productMake": "DUNLOP",
+                "productModel": "DUNLOP",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "ALL SIX TIRE WERE WORN OUT. THE STEEL WAS STICKING OUT OF THE SIDE WALLS. *JB",
+        "vin": "NOT AVAILAB"
+    }
+]

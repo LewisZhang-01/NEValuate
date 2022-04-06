@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "07/03/2003",
+        "dateOfIncident": "05/18/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020243,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "DAKOTA",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN THE CONSUMER ATTEMPTED TO EXIT THE VEHICLE THE FRONT SEAT BELT BUCKLE FAILED TO RELEASE.  THE CONSUMER WAS FORCED TO CUT THE SEAT BELT IN ORDER TO EXIT THE TRUCK.    *JB      *CB   *NLM",
+        "vin": "1B7GL23X3RW"
+    }
+]

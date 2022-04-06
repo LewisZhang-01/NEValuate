@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "02/24/2003",
+        "dateOfIncident": "01/01/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10008027,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "GRAND PRIX",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "IN COLD WEATHER THE WINDSHIELD WIPERS GET STUCK IN AN UPRIGHT RESTING POSITION.  ALSO THE STEERING RACK AND PINON HAVE FAULTY BEARINGS CAUSING IT TO FEEL LIKE THE POWER STEERING IS NOT WORKING WHEN YOU TURN A SHARP LEFT.",
+        "vin": "1G2WR5210YF"
+    }
+]

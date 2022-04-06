@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": true,
+        "dateComplaintFiled": "01/18/2003",
+        "dateOfIncident": "12/14/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002912,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "ESCAPE",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CAR WENT OUT OF CONTROL DURING A SIMPLE LANE CHANGE LEFT ON INTERSATE I-90, UNABLOE TO STEER, SWERVED AND SPUN AROUND AND HIT TALL CONCRETE MEDIUM, AIR BAGS WERE EMPLOYED.  GOOD WEATHER 48 DEGREES, NO ICE OR OIL, WAS NOT UP TO FULL SPEED AS HAD JUST GOTTEN ON THE INTERSTATE.",
+        "vin": "1FMYU03112K"
+    }
+]

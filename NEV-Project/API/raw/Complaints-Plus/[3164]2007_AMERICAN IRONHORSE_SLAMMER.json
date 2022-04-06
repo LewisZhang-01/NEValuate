@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES,WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "10/10/2020",
+        "dateOfIncident": "10/10/2020",
+        "fire": false,
+        "manufacturer": "American IronHorse Motorcycle Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11363695,
+        "products": [
+            {
+                "manufacturer": "American IronHorse Motorcycle Company",
+                "productMake": "AMERICAN IRONHORSE",
+                "productModel": "SLAMMER",
+                "productYear": "2007",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Pirelli Tire, LLC",
+                "productMake": "METZELER",
+                "productModel": "ME880 MARATHON",
+                "productYear": "9999",
+                "size": "300/35/18",
+                "type": "Tire"
+            }
+        ],
+        "summary": "METZELER ME880 MARATHON TIRE SIZE 300/35/18 HAS TIRE SEPARATIONS ON BOTH SIDES ALL THE WAY AROUND. TIRE WAS MADE IN GERMANY WITH STAMPED DATE 3317. TIRE HAS 5/32 TREAD WITH MINIMAL MILEAGE, LESS THAN 1500. NO ACCIDENT OR INJURY AS IT WAS NOTICED ALONG WITH ANOTHER 880 TIRE IN A DIFFERENT SIZE ON A DIFFERENT MOTORCYCLE.",
+        "vin": "5L5SZ144771"
+    }
+]

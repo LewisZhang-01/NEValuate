@@ -1,0 +1,90 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "03/10/2020",
+        "dateOfIncident": "03/10/2020",
+        "fire": false,
+        "manufacturer": "Mercedes-Benz USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11317416,
+        "products": [
+            {
+                "manufacturer": "Mercedes-Benz USA, LLC",
+                "productMake": "MERCEDES-BENZ",
+                "productModel": "M166",
+                "productYear": "2010",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AFTER A FUEL FILL UP THERE IS A SERIOUS GAS SMELL INSIDE THE VEHICLE. AFTER USING A QUARTER OF THE TANK THE SMELL GOES AWAY. THE VEHICLE IS PARKED MOTOR OFF. THE GARAGE IS SO FILLED WITH GAS FUMES I HAVE TO RUN A FAN. THIS HAS BEEN GOING ON FOR OVER 2 YEARS.",
+        "vin": "WDDGF5EB9AF"
+    },
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "02/20/2020",
+        "dateOfIncident": "01/20/2020",
+        "fire": false,
+        "manufacturer": "Mercedes-Benz USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11310310,
+        "products": [
+            {
+                "manufacturer": "Mercedes-Benz USA, LLC",
+                "productMake": "MERCEDES-BENZ",
+                "productModel": "M166",
+                "productYear": "2010",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I RECEIVED A RECALL NOTICE",
+        "vin": "WDDHF8HB7AA"
+    },
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "01/27/2020",
+        "dateOfIncident": "01/24/2020",
+        "fire": false,
+        "manufacturer": "Mercedes-Benz USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11302318,
+        "products": [
+            {
+                "manufacturer": "Mercedes-Benz USA, LLC",
+                "productMake": "MERCEDES-BENZ",
+                "productModel": "M166",
+                "productYear": "2010",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AFTER DRIVING THE VEHICLE TO WORK (APPROX. 35 MILES) AND THEN RETURNING AFTER THE WORK DAY WAS COMPLETE, THE VEHICLE WOULD NOT START.  WE SPOKE WITH THE MANUFACTURERS ROADSIDE ASSISTANCE AS WELL AS THE TECHNICIAN THEY DISPATCHED TO OUR LOCATION.  WE TRIED MULTIPLE SOLUTIONS TO OUR PROBLEM WITH NO AVAIL.  THE VEHICLE WAS TOWED TO THE DEALERSHIP AND UPON INVESTIGATION, THE ELECTRONIC STEERING LOCK MECHANISM HAD GONE BAD RESULTING IN A NEED TO REPLACE THIS PART.  I HAVE DONE RESEARCH ONLINE AS WELL AS SPOKEN TO SEVERAL MEMBERS OF THE SERVICE DEPARTMENT AT THE DEALERSHIP WHO INFORMED ME THAT THIS WAS A GROWING ISSUE.  THERE ARE MULTIPLE COMPLAINTS ONLINE OF SIMILAR ISSUES AND THE DEALERSHIP SAYS THEY ARE SERVICING 1-2 VEHICLES WITH THIS ISSUE EVERY DAY.  WITH THAT TYPE OF VOLUME, THIS SEEMS TO BE AN ISSUE WITH THE SOURCING OR MANUFACTURING OF THIS PRODUCT.  THIS IS A VERY COSTLY REPAIR THAT SEEMS AS IF IT COULD HAVE BEEN PREVENTED.",
+        "vin": "WDDKJ7CB4AF"
+    },
+    {
+        "components": "STEERING",
+        "crash": true,
+        "dateComplaintFiled": "12/03/2019",
+        "dateOfIncident": "11/03/2019",
+        "fire": false,
+        "manufacturer": "Mercedes-Benz USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 11286569,
+        "products": [
+            {
+                "manufacturer": "Mercedes-Benz USA, LLC",
+                "productMake": "MERCEDES-BENZ",
+                "productModel": "M166",
+                "productYear": "2010",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE COMMUTING ON A HIGHLY CONGESTED HIGHWAY THE CAR LOST POWER CAUSING THE STEERING WHEEL TO BECOME LOCKED THIS LOST OF POWER AND DISABLING CAUSED MY CAR TO VEER INTO ONCOMING TRAFFIC AND TAKING MY VEHICLE UNCONTROLLABLY OFF THE ROAD",
+        "vin": "WDCGG5GB6AF"
+    }
+]

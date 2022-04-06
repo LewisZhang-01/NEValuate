@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "04/24/2003",
+        "dateOfIncident": null,
+        "fire": true,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017546,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "CHEROKEE",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE REAR VIEW MIRROR DIMMER SWITCH CIRCUIT OVER HEATED WHICH CAUSED A FIRE.     *JB",
+        "vin": "1J4FJ78S3PL"
+    }
+]

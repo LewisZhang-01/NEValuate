@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS,VEHICLE SPEED CONTROL,ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "06/13/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10024041,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "PLYMOUTH",
+                "productModel": "VOYAGER",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AIRBAG LIGHT IS ON, THERE IS NO HORN/CRUISE CONTROL,  ETC.  THERE IS A RECALL FOR THE CLOCKSPRING.  CONSUMERS VEHICLE IS NOT INCLUDED DUE TO VIN. *AK",
+        "vin": "1P4GP44G1WB"
+    }
+]

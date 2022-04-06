@@ -1,0 +1,31 @@
+[
+    {
+        "components": "CHILD SEAT",
+        "crash": false,
+        "dateComplaintFiled": "03/20/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "UNKNOWN MANUFACTURER",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10012382,
+        "products": [
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN1",
+                "productYear": "9999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "CHILD SAFETY SEAT",
+                "productModel": "CHILD SAFETY SEAT",
+                "productYear": "9999",
+                "type": "Child Seat"
+            }
+        ],
+        "summary": "DEFECTIVE RESTRAINT SYSTEM ON BRITAX CHILD SEAT.  *MR   INFANTS WERE ABLE TO PRESS THE RELEASE ON THE RESTRAINT BUCKLE.  THE MANUFACTURER WAS CONTACTED AND THEY SENT THE CONSUMER A NEW BUCKLE.  THE LOCK COVER THE MANUFACTURER SENT WAS DESIGNED TO PROTECT THE LOCK FROM FOOD AND WAS NOT TO PREVENT THE CHILDREN FROM ACCESSING THE RELEASE.  THE CONSUMER FELT THE PRODUCT SHOULD BE RECALLED.  (ROUNDABOUT BY BRITAX MODEL#E900217/SERIAL#E9002178222/BATCH#500508)  *SCC   *JB",
+        "vin": "9999"
+    }
+]

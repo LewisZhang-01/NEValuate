@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": true,
+        "dateComplaintFiled": "01/26/2003",
+        "dateOfIncident": "01/22/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 2,
+        "odiNumber": 10003417,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Bridgestone Americas Tire Operations",
+                "productMake": "FIRESTONE",
+                "productModel": "WILDERNESS HT",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "FIRESTONE WILDERNESS HT P225/70R15 TIRE ON RIGHT FRONT OF 2002 FORD RANGER  XLT 4 DOOR EXTENDED CAB TRUCK BLOWS AND CAUSES LOSS OF CONTROL OF VEHICLE RESULTING IN SEVERE DAMAGE TO VEHICLE AND INJURIES TO DRIVER AND PASSENGER",
+        "vin": "1FTYR44E42P"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "04/10/2003",
+        "dateOfIncident": "04/10/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015623,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "CONTOUR",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE REAR SAFETY BELTS DID NOT FUNCTION PROPERLY, THE LEFT REAR BELT BUCKLE DID NOT LOCK INTO THE LATCH PLATE WHEN CONNECTED AND THE RIGHT REAR BELT ONLY PULLED FAR ENOUGH FROM HOUSING TO COVER A SMALL CHILD.  *JB",
+        "vin": ""
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "03/18/2003",
+        "dateOfIncident": "02/28/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010699,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "WINDSTAR",
+                "productYear": "1998",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DOOR AJAR BELL AND LIGHTS DO NOT GO OUT, LOCKS DO NOT WORK PROPERLY IN PASSENGER REAR DOOR.  DOORS CLOSE FINE BUT BELL AND LIGHTS PERSIST AT ALL TIMES.  FUSE HAD TO BE REMOVED FOR NIGHT DRIVING AND TO PREVENT A DEAD BATTERY.  I CANT HEAR THINGS AROUND ME OUTSIDE DUE TO DOOR AJAR BELL.  BELL TONE IS LOUD AND CAUSING HEADACHES.  *JB",
+        "vin": "2FMDA5146WB"
+    }
+]

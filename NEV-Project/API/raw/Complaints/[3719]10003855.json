@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "01/15/2003",
+        "dateOfIncident": "11/26/2002",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003855,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "T100",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NAR 1/15/2003. THE FRONT STEERING ROD FAILED WHILE DRIVING AT A LOW SPEED.  THE PART SHOWED EVIDENCE OF A LONG TERM DEFECT, THERE WAS A HALF MOON CRACK WITH OLD RUST DEPOSITS. *JB",
+        "vin": "JT4UN24D4T0"
+    }
+]

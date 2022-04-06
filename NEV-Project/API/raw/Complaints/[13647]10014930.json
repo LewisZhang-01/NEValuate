@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": true,
+        "dateComplaintFiled": "04/01/2003",
+        "dateOfIncident": "02/17/2003",
+        "fire": false,
+        "manufacturer": "Porsche Cars North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10014930,
+        "products": [
+            {
+                "manufacturer": "Porsche Cars North America, Inc.",
+                "productMake": "PORSCHE",
+                "productModel": "CARRERA",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE WAS INVOLVED IN AN ACCIDENT, AND THE SEAT BELT FAILED TO PROPERLY RESTRAIN THE CONSUMER, RESULTING IN AN INJURY. *AK",
+        "vin": ""
+    }
+]

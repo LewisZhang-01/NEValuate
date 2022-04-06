@@ -1,0 +1,31 @@
+[
+    {
+        "components": "CHILD SEAT",
+        "crash": false,
+        "dateComplaintFiled": "03/14/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "UNKNOWN MANUFACTURER",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10011797,
+        "products": [
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN1",
+                "productYear": "9999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Evenflo Company, Inc.",
+                "productMake": "EVENFLO",
+                "productModel": "207 (ON MY WAY)",
+                "productYear": "9999",
+                "type": "Child Seat"
+            }
+        ],
+        "summary": "DEFECT OF ALIGNMENT POST ON CHILD SEAT BASE.  *MR  THE CONSUMER WAS SENT A REPAIR KIT FOR THE KNOWN DEFECT AND CAREFULLY FOLLOWED THE SIMPLE DIRECTIONS, BUT NOW THE SEAT DOES NOT RELEASE FROM THE BASE WITHOUT USING A GREAT AMOUNT OF FORCE.  *SCC  *JB",
+        "vin": "9999"
+    }
+]

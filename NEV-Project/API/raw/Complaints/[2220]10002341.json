@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "01/08/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002341,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "BLAZER",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATES WHILE DRIVING 30MPH HAD FRONT END COLLISION AND NEITHER PASSENGER OR DRIVES AIR BAG DEPLOYED. PLEASE PROVIDE ANY ADDITIONAL INFORMATION. TS",
+        "vin": ""
+    }
+]

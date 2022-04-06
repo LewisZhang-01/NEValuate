@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "01/03/2003",
+        "dateOfIncident": "12/15/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002033,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "POWER STEERING GEAR BOLTS BROKE. THERE WAS A POP NOISE AND CONSUMER COULD TURN STEERING WHEEL IN EITHER DIRECTION BUT FRONT WHEELS WOULD NOT TURN.  DEALER REPLACED BROKEN BOLTS FROM GEAR.  REPAIRED POWER STEERING LEAK AT HOSE FROM RESERVOIR TO PUMP.  *TT",
+        "vin": "1FTEX18L4VK"
+    }
+]

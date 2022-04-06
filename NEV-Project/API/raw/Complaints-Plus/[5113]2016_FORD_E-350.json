@@ -1,0 +1,90 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "03/27/2019",
+        "dateOfIncident": "10/23/2018",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11192970,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "E-350",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE ECONOLINE VAN FOR THE EXHAUST ODOR, WHEN WE FIRST TESTED THE VEHICLE IN THE SHOP WITH THE VEHICLE RUNNING (NO EXHAUST HOSE ON THE TAILPIPE) THE CO DETECTOR READ 49 PPM AFTER ABOUT 15 MINUTES. WHEN WE TESTED THE SECOND TIME, THE VEHICLE WAS IN THE SAME SPOT BUT A EXHAUST HOSE RUN FROM THE TAILPIPE TO OUTSIDE THE SHOP AND THE CO DETECTOR READ 9 PPM AFTER ABOUT 15 MINUTES. THE THIRD TEST, THE VEHICLE WAS OUTSIDE AND AFTER ABOUT 15 MINUTES THE CO DETECTOR READ 0 PPM AND WE ALSO TESTED IN THE UTILITY BODY WHICH READ 0 PPM. WE KNOW THAT THE VEHICLE IS NOT LEAKING EXHAUST, ANY \"EXHAUST ODOR\" OR CO MEASURED IN THE CABIN OF THE VEHICLE IS MOST LIKELY FROM THE EXHAUST SURROUNDING THE VEHICLE AND ENTERING THROUGH THE POROUS UTILITY BODY. *DT*JB",
+        "vin": "1FDWE3FL3FD"
+    },
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "03/20/2018",
+        "dateOfIncident": "06/12/2016",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11080324,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "E-350",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE IS UPFIITTED BY MORGAN OLSON WITH SEATS BY FREEDMAN SEATING. THE PIN THAT HOLDS THE SEAT PEDESTAL TO THE SEAT BASE FALLS OUT AND THE SEAT FALLS TO ITS LOWEST POSITION WITHOUT WARNING. THIS HAS HAPPENED TO SEVERAL OF OUR FLEET TRUCKS. THE DETENT BALL SPRING IS TO WEAK. WE HAVE MODIFIED 2 OF OUR VEHICLES BY DRILLING OUT THE BALL AND INSTALLING HAIRPIN CLIPS. ON THE OTHERS WE HAVE INSTALLED A ZIP-STRIP THROUGH THE PIN RING WHILE WAITING FOR INSTRUCTION FROM MORGAN OLSON CONCERNING A AUTHORIZED REPAIR. HAVE MADE SEVERAL ATTEMPTS TO OBTAIN FEEDBACK OVER THE COURSE TO 2 YEARS, BUT HAVE NOT RECEIVED ANY INSTRUCTION AS TO HOW THIS ISSUE IS BEING HANDLED.   THE SEAT FELL WHILE THE VEHICLES WERE IN MOTION IN EVERY INCIDENT, STARTLING THE DRIVER.",
+        "vin": "1FC3E3KS7GD"
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "03/02/2018",
+        "dateOfIncident": "09/13/2016",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11075773,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "E-350",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE AUTOMATIC TRANSMISSION SHIFTER CONTROL CABLE CONTACTS THE PARKING BRAKE PEDAL ASSEMBLY, THEREFORE WHEN APPLYING/RELEASING THE PARKING BRAKE THE CABLE IS GETTING CHAFFED.",
+        "vin": "1FC3E3KSXGD"
+    },
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "03/02/2018",
+        "dateOfIncident": "09/01/2016",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11075774,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "E-350",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE PARKING BRAKE CABLE IS ROUTED THROUGH THE LEFT FRONT WHEEL AREA IN SUCH A WAY THAT THE TIRE CONTACTS IT DURING NORMAL STEERING/SUSPENSION MOVEMENTS AND IS CHAFFING THE CABLE.",
+        "vin": "1FC3E3KSXGD"
+    }
+]

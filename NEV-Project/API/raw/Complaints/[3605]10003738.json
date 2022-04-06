@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "01/29/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Jaguar Cars, Ltd.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003738,
+        "products": [
+            {
+                "manufacturer": "Jaguar Cars, Ltd.",
+                "productMake": "JAGUAR",
+                "productModel": "XJ8",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER HAS EXPERIENCED MULTIPLE DEFECTS.  THE DEALER SUGGESTS THAT THE PROBLEMS ARE  DUE TO EXTERNAL DAMAGE.  SCC          PH",
+        "vin": "SAJDA24C71L"
+    }
+]

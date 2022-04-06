@@ -1,0 +1,46 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING,FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "05/24/2000",
+        "dateOfIncident": "05/01/1999",
+        "fire": false,
+        "manufacturer": "DAMON MOTOR COACH",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 862440,
+        "products": [
+            {
+                "manufacturer": "DAMON MOTOR COACH",
+                "productMake": "DAMON",
+                "productModel": "CHALLENGER",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CRACKED INTAKE  MANIFOLD WHICH HAS BEEN AN ONGOING PROBLEM WITH FORD.  MANUFACTURER HAS IGNORED THE  ISSUE.    CONSUMER MAY HAVE A PROBLEM PASSING EMISSION TEST TO GET A STICKER. *AK     LEAK IN EXHAUST MANIFOLD CAUSED THE VEHICLE NOT TO PASS EMISSION.  *YH",
+        "vin": "3FCLF53GXTJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "11/04/1997",
+        "dateOfIncident": "05/28/1997",
+        "fire": false,
+        "manufacturer": "DAMON MOTOR COACH",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 524401,
+        "products": [
+            {
+                "manufacturer": "DAMON MOTOR COACH",
+                "productMake": "DAMON",
+                "productModel": "CHALLENGER",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ANTI-LOCK BRAKES FAILED THREE TIMES, MASTER CYLINDER REPLACED HOWEVER BRAKES DO NOT FEEL RELIABLE.",
+        "vin": "1GBKP37N4V3"
+    }
+]

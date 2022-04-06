@@ -1,0 +1,46 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "05/05/2017",
+        "dateOfIncident": "05/03/2017",
+        "fire": false,
+        "manufacturer": "BISON MANUFACTURING LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10983727,
+        "products": [
+            {
+                "manufacturer": "BISON MANUFACTURING LLC",
+                "productMake": "BISON",
+                "productModel": "STRATUS",
+                "productYear": "2011",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2011 BISON STRATUS HORSE TRAILER. THE CONTACT STATED THAT THERE WAS AN ABNORMAL NOISE NEAR THE HANGER. UPON INSPECTION, IT WAS NOTICED THAT TWO OF THE TETHERS WERE CRACKED. ONE HAD COMPLETELY DETACHED AND THE OTHER HAD ALMOST DETACHED FROM THE TRAILER. THE TRAILER WAS NOT DIAGNOSED OR REPAIRED. THE MANUFACTURER STATED THAT THE TRAILER WAS OUT OF WARRANTY AND THAT NOTHING COULD BE DONE, DESPITE THIS BEING A KNOWN ISSUE. THE FAILURE MILEAGE WAS APPROXIMATELY 2,500.",
+        "vin": "51Y335E29B2"
+    },
+    {
+        "components": "SUSPENSION,WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "03/22/2016",
+        "dateOfIncident": "03/06/2016",
+        "fire": false,
+        "manufacturer": "BISON MANUFACTURING LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10851090,
+        "products": [
+            {
+                "manufacturer": "BISON MANUFACTURING LLC",
+                "productMake": "BISON",
+                "productModel": "STRATUS",
+                "productYear": "2011",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2014 (NA) BISON STRATUS PREMIER 8417. WHILE DRIVING APPROXIMATELY 65 MPH, ONE OF THE TIRES DETACHED FROM THE AXLE. THE MANUFACTURER WAS NOTIFIED AND RECOMMENDED THAT THE VEHICLE BE TAKEN TO A FACILITY FOR REPAIRS. THE NEAREST FACILITY WAS 100 MILES AWAY ONE WAY. THE VEHICLE WAS NOT REPAIRED. THE VIN AND FAILURE MILEAGE WERE UNKNOWN.     ## VIN FAILED ## BISON STRATUS 2014 N/A ##",
+        "vin": ""
+    }
+]

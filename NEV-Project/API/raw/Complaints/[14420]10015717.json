@@ -1,0 +1,24 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "04/11/2003",
+        "dateOfIncident": "04/11/2003",
+        "fire": false,
+        "manufacturer": "HOLIDAY RAMBLER CORP.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015717,
+        "products": [
+            {
+                "manufacturer": "HOLIDAY RAMBLER CORP.",
+                "productMake": "HOLIDAY RAMBLER",
+                "productModel": "ALUMA LITE",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE TIRE ON THE VEHICLE WAS NOT THE PROPER LOAD RATING.  *JB",
+        "vin": ""
+    }
+]

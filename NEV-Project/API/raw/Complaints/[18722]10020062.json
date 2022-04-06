@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "05/19/2003",
+        "dateOfIncident": "04/12/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020062,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERCURY",
+                "productModel": "SABLE",
+                "productYear": "1991",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE STEERING WHEEL LOCKED UP WHEN THE CONSUMER MADE LEFT TURNS.   *NLM",
+        "vin": "1MEM55UXMA6"
+    }
+]

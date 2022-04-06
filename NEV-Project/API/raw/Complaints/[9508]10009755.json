@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "03/13/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "UNKNOWN MANUFACTURER",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009755,
+        "products": [
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN1",
+                "productYear": "9999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Continental Tire the Americas, LLC",
+                "productMake": "CONTINENTAL",
+                "productModel": "CONTINENTAL",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "CONSUMER RECEIVED A CONTINENTAL TIRE VOLUNTARY RECALL NOTICE FOR GENERAL GRABBER AW AND CONTI TRAC AW TIRES, HOWEVER, THE RECEIPT FOR REIMBURSEMENT FELL OUTSIDE THE DATES OF PURCHASE, WHICH QUALIFIED FOR REIMBURSEMENT UNDER THE VOLUNTARY RECALL PROGRAM.  CONSUMER REQUESTED ASSISTANCE ON REIMBURSEMENT.  *JB",
+        "vin": ""
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": true,
+        "dateComplaintFiled": "03/05/2003",
+        "dateOfIncident": "06/02/2002",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10007332,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "RAM",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "RUSTED BRAKE LINES CAUSED BRAKE FLUID LEAKAGE.  *TT  *JB *TS",
+        "vin": "3B7KF23W3SM"
+    }
+]

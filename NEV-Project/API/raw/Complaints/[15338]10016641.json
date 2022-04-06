@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "04/28/2003",
+        "dateOfIncident": "04/28/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10016641,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "SEBRING CONVERTIBLE",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AIR BAG SENSOR AND INDICATOR LIGHT.  *NLM",
+        "vin": "1C3EL55UX1N"
+    }
+]

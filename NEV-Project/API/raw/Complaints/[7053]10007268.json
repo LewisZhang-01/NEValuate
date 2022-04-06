@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "03/03/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10007268,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TAURUS",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE ACCELERATED AT A STOP. APPLIED BRAKES, BUT VEHICLE CONTINUED TO ACCELERATE.  *AK  *JB",
+        "vin": ""
+    }
+]

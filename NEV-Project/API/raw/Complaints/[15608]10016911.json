@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "05/02/2003",
+        "dateOfIncident": "05/01/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10016911,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "JIMMY",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FRONT WINDSHIELD WIPERS OCCASIONALLY GO FROM INTERMITTENT TO LOW SPEED, OR FROM LOW SPEED TO STOP, OR CANNOT BE SHUTOFF IN RAINY WET WEATHER.  HAPPENS ALMOST EVERY TIME, WHEN FRONT WIPERS ARE USED IN RAINY CONDITIONS.   *NLM",
+        "vin": "1GKDT13W5W2"
+    }
+]

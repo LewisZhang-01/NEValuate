@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "09/12/2012",
+        "dateOfIncident": "08/12/2011",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10475214,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "COLORADO",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "PASS LOCK ANTI THEFT SYSTEM INTERMITTENTLY ENGAGES, PREVENTING THE VEHICLE FROM RESTARTING FOR A PERIOD OF 10 MINUTES.   THIS PROBLEM IS A SAFETY ISSUE IF THE VEHICLE WERE TO STALL WHILE OPERATING ON A FREEWAY OR MAJOR HIGHWAY AND CAN NOT BE RESTARTED.   *TR",
+        "vin": "1GCCS148968"
+    }
+]

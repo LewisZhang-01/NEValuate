@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "07/11/2003",
+        "dateOfIncident": "05/11/2003",
+        "fire": false,
+        "manufacturer": "Gulf Stream Coach, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022793,
+        "products": [
+            {
+                "manufacturer": "Gulf Stream Coach, Inc.",
+                "productMake": "GULF STREAM",
+                "productModel": "MOTORHOME",
+                "productYear": "1999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "STEELTEX TIRE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHILE TRAVELING 65 MPH, THE INSIDE RIGHT DUEL TIRE TREAD SEPARATED WITHOUT ANY INDICATION. *AK *TS  *JB",
+        "vin": ""
+    }
+]

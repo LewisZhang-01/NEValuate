@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "06/18/2003",
+        "dateOfIncident": "06/17/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10024288,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUEL TANK RUPTURED WHILE DRIVING. DEALER NOTIFIED. *AK",
+        "vin": ""
+    }
+]

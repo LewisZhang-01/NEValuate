@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "01/23/2003",
+        "dateOfIncident": "01/22/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10003302,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "CAMRY",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AIR BAG FAILED TO DEPLOY",
+        "vin": "JT2BG28K2X0"
+    }
+]

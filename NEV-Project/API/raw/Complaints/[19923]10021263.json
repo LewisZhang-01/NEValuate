@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "06/08/2003",
+        "dateOfIncident": "02/08/2003",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021263,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "325I",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FROZEN CRANKCASE VENTILATION VALVE CAUSED ENGINE TO STALL OUT COMPLETELY IN TRAFFIC.  NO ENGINE RESTART WAS POSSIBLE.     *TT",
+        "vin": "WBAAV33461F"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "05/08/2003",
+        "dateOfIncident": "05/08/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019526,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "CONCORDE",
+                "productYear": "9999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE DRIVER'S SEAT BELT FAILED TO RELEASE. *JB",
+        "vin": ""
+    }
+]

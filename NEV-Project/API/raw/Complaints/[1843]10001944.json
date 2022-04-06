@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "01/03/2003",
+        "dateOfIncident": "07/01/2001",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001944,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "GRAND CHEROKEE",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING, FRONT BRAKES STARTED SHAKING CAUSING AN EXTENDED STOPPING DISTANCE. PLEASE PROVIDE ADDITIONAL INFORMATION.",
+        "vin": "PLEASE FILL"
+    }
+]

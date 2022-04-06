@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "01/20/2003",
+        "dateOfIncident": "12/08/2000",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003025,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "RAM 3500",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE HANDLING.......STEERING WANDER.......SWAY........FAILURE TO TRACK.",
+        "vin": "2B6LB31Z91K"
+    }
+]

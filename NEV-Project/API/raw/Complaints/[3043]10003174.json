@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "01/22/2003",
+        "dateOfIncident": "12/03/2002",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003174,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "GRAND CARAVAN",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AIR BAG LIGHT COMES ON INTERMITTENTLY.  DEALER REPLACED CLOCK SPRING COD.  PROBLEM APPEARS TO BE SAME AS NHTSA RECALL 02V293000 FOR 1997 & 1998 CHRYSLER/DODGE VEHICLES.",
+        "vin": "1B4GP44G4XB"
+    }
+]

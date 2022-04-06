@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "07/10/2003",
+        "dateOfIncident": "05/15/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020476,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TAURUS",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE TRANSMISSION SHUT DOWN WHILE CROSSING A BUSY INTERSECTION.  THE TRANSMISSION NOW WORKS ONLY IN THE REVERSE GEAR.  *NLM  *CB   *NLM",
+        "vin": "1FAFP5228YG"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "04/14/2003",
+        "dateOfIncident": "04/12/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015758,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F150",
+                "productYear": "1985",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "DAYTON STEEL FOUNDRY CO.",
+                "productMake": "DAYTON",
+                "productModel": "100020",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE VEHICLE EXPERIENCED TIRE TREAD SEPARATION ON 2 DIFFERENT OCCASIONS.  WHILE DRIVING ON 04/10/03 THE PASSENGER REAR TIRE EXPERIENCED PARTIAL TREAD SEPARATION WHICH RESULTED IN A BLOW OUT.  WHILE DRIVING 70 MPH ON 04/12/03 THE DRIVER'S REAR TIRE TREAD COMPLETELY SEPARATED AND ALMOST CAUSED A DANGEROUS COLLISION.  TIRE INFO:  DAYTON, RADIAL STAG ST 31X10.50R15LT, DOT-V060U6A118, NOT ORIGINAL, 90% OF TREAD INTACT, 2K-3K MILES ON TIRES AT TIME OF FAILURE.   *NLM.....*AK",
+        "vin": "1FTEF15Y9FL"
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "02/05/2003",
+        "dateOfIncident": "02/01/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10006497,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "BLAZER",
+                "productYear": "1996",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "DELCO ELECT. DIV., GM",
+                "productMake": "DELCO",
+                "productModel": "DELCO",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "TWICE, 2 DIFFERENT BATTERIES HAVE LEAKED ACID FROM THE POSITIVE TERMINAL MELTING THE BATTERY CABLE.  BOTH BATTERIES WERE AC DELCO/PART NO. 19001628.  2ND BATTERY WAS INSTALLED 01/12/00.     PH",
+        "vin": ""
+    }
+]

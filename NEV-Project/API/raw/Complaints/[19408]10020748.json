@@ -1,0 +1,31 @@
+[
+    {
+        "components": "FUEL SYSTEM, OTHER,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "05/30/2003",
+        "dateOfIncident": "05/01/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020748,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "GRAND AM",
+                "productYear": "1999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "AUTOMATIC EQUIP. MFG. CO.",
+                "productMake": "UNKNOWN",
+                "productModel": "AUTOMATIC",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "FUEL GAUGE, AT 1/4 TANK LEVEL OR WHEN IDLING FOR MORE THAN 5 MINUTES AT ANY LEVEL, GAUGE WILL CHIME, QUICKLY POINT TO FULL, THEN POINT TO EMPTY, REPEAT A FEW TIMES, AND SETTLE BETWEEN THE 1/2 AND 3/4 TANK RANGE.  THIS FAULT HAS LEFT ME IN A POSITION OF RESETTING MY TRIP METER AND FILLING THE TANK COMPLETELY WHEN FUELING IN ORDER TO TRAVEL NO MORE THAN 300 MILES PER TANK AND RISK RUNNING OUT OF GAS DUE TO AN UNRELIABLE FUEL GAUGE.  THIS PROBLEM BEGAN IN MAY 2002.*AK",
+        "vin": "1G2NE12E4XM"
+    }
+]

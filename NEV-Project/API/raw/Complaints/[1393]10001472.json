@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS,EQUIPMENT",
+        "crash": true,
+        "dateComplaintFiled": "01/08/2003",
+        "dateOfIncident": "06/14/2002",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 2,
+        "odiNumber": 10001472,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "GRAND CHEROKEE",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE IN MOTION, CONSUMER WAS REAR ENDED.  THE REAR SEAT HEADRESTS WERE EJECTED FROM THEIR HOLDERS STRIKING THE CONSUMER AND THE PASSENGER IN THE BACK OF THEIR HEADS CAUSING DEEP CUTS.  ALSO, THE AIR BAGS FAILED TO DEPLOY.  *JG *JB",
+        "vin": ""
+    }
+]

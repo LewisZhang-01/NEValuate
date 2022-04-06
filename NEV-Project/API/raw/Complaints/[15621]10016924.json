@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "05/02/2003",
+        "dateOfIncident": "04/30/2003",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10016924,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "PASSAT",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "HEADLIGHT BUILD CONNECTOR SHORTED AGAINST ADJACENT METAL DUE TO EXPOSED WIRE.  CHARRING AND MELTED HARNESS CONNECTOR RESULTED.  POTENTIAL EXISTS FOR THIS TO CAUSE A VEHICLE FIRE WITH POSSIBLE LOSS OF LIFE.  HEADLIGHT IS INOPERABLE UNTIL WIRING HARNESS CONNECTOR CAN BE REPLACED.               *TT",
+        "vin": ""
+    }
+]

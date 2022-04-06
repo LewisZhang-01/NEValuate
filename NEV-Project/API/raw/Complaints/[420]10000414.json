@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, OTHER",
+        "crash": false,
+        "dateComplaintFiled": "12/29/2002",
+        "dateOfIncident": "02/01/2002",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000414,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "RAM 3500",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUEL LEAK",
+        "vin": "1B7MF3367YJ"
+    }
+]

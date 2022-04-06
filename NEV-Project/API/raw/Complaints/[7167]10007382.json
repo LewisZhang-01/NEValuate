@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "02/13/2003",
+        "dateOfIncident": "02/01/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10007382,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CHEVROLET TRUCK",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE SHAFT IN THE POWER STEERING PUMP SHEARED AND CAUSED A LOSS OF STEERING BRAKES.  THE DEALER STATED THAT THIS WAS THE THIRD PROBLEM THAT HAPPENED IN THE EXACT SAME PLACE.  *JB  SCC",
+        "vin": "1GCHK29482E"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "components": "STEERING,SERVICE BRAKES, HYDRAULIC,FUEL SYSTEM, GASOLINE,ELECTRICAL SYSTEM,VISIBILITY,SEAT BELTS,STRUCTURE,VEHICLE SPEED CONTROL,TIRES,SEATS,INTERIOR LIGHTING",
+        "crash": true,
+        "dateComplaintFiled": "01/27/2003",
+        "dateOfIncident": "08/01/2001",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 2,
+        "odiNumber": 10003818,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "ECONOLINE",
+                "productYear": "1991",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE CONSUMER HAS EXPERIENCED PROBLEMS WITH THE FOLLOWING :  TIRES (DIRECTIONAL/4 WAY), COURTESY LIGHTS, CRUISE CONTROL, STEERING (NOISE), BRAKES/REAR ANTI-LOCK, SEAT BELTS, SEATS (LOOSE), GAS LEAK, REAR DOOR(S) LEAK/DRIVER SIDE DOOR HINGE, DASH CRACKED, LOOSE RUNNING BOARD, FRONT FENDER (PASSENGER SIDE), ARM ON DRIVER SIDE SEAT IS BROKEN, WIPERS, AND THE IGNITION KEY IS STICKING IN THE START POSITION.  (TIRES-COPPER DISCOVER)  SCC",
+        "vin": "1FDEE14N6MH"
+    }
+]

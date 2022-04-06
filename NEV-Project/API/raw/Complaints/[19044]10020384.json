@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION,VISIBILITY,STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "05/21/2003",
+        "dateOfIncident": "03/25/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020384,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NAR 05/21/2003   *MR   LOUD POPPING IN FRONT END,PASSENGER SIDE WINDOW DEFECTIVE, BACK DOORS BREAKING FROM IN SIDE HANDLES.   *CB",
+        "vin": "1FMZU67E01U"
+    }
+]

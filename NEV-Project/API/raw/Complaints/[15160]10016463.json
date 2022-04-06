@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "04/24/2003",
+        "dateOfIncident": "04/03/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10016463,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "MALIBU",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ANTI THEFT CONTROLLER SHUT ENGINE DOWN  DUE TO FAULTY IGNITION SWITCH/MODULE.    *NLM",
+        "vin": ""
+    }
+]

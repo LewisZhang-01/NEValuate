@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "07/18/2003",
+        "dateOfIncident": "05/27/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021955,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "S10",
+                "productYear": "1992",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "TRIUMPH",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE LEFT REAR TIRE BLEW OUT ON THE VEHICLE.  FIRESTONE TRIUMPH.  *AK WHILE DRIVING, THERE WAS A LOUD NOISE, THE CONSUMER PULLED OVER, AND DISCOVERED, THE ENTIRE TIRE WAS IN SHREDS AND THE WHOLE SIDE OF THE WHITE WALL HAD BLOWN OFF AND WAS JUST HANGING BY LITTLE PIECES.  *TS  *JB",
+        "vin": "1GCCS19Z0N8"
+    }
+]

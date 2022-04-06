@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "01/06/2003",
+        "dateOfIncident": "04/15/2002",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002153,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "CARAVAN",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATES THE MIDDLE VEHICLE SEAT MOVES LEFT TO RIGHT AND BACKWARDS DUE TO THE TRACKS UNDER THE SEAT.  PH",
+        "vin": "FULL FILL"
+    }
+]

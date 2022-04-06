@@ -1,0 +1,112 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "03/25/2022",
+        "dateOfIncident": "03/24/2022",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11458331,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EDGE",
+                "productYear": "2021",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact owns a 2021 Ford Edge. The contact stated while driving at 5 MPH and approaching a traffic light, she heard a loud popping sound. The contact looked up and noticed that the sunroof glass had shattered and the shattered pieces were beginning to fall inside the vehicle. The contact closed the shade guard and veered to the side of the road. Upon inspecting the vehicle, the contact could not determine the cause of the failure. The vehicle was taken to the dealer who informed the contact that they would need to investigate the failure. The vehicle was not diagnosed or repaired. The manufacturer was not notified of the failure. The failure mileage was approximately 800.",
+        "vin": "2FMPK4J99MB"
+    },
+    {
+        "components": "BACK OVER PREVENTION",
+        "crash": false,
+        "dateComplaintFiled": "03/18/2022",
+        "dateOfIncident": "01/05/2022",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11457218,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EDGE",
+                "productYear": "2021",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Hi The main screen just goes blank or partially corrupted, so I have no access to the rear camera or main controls on the panel",
+        "vin": "2FMPK4K92MB"
+    },
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": true,
+        "dateComplaintFiled": "11/19/2021",
+        "dateOfIncident": "10/31/2021",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11441031,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EDGE",
+                "productYear": "2021",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact owns a 2021 Ford Edge. The contact stated while his wife was driving the vehicle at 35 MPH, a vehicle abruptly stopped in front of her which caused her to rear-end the vehicle. The air bags did not deploy upon impact. The contact nor the other driver were injured in the accident. A police report was filed. The contact arrived at the scene, tied a strap to the hood of the vehicle, and drove the vehicle home. The contact stated that the forward collision avoidance feature failed to operate as needed on the vehicle. The contact was able to drive the vehicle to a dealer where it remained in their possession. The manufacturer had been notified and offered no assistance in relation to the failure. The vehicle had yet to be repaired. The failure mileage was 400.",
+        "vin": "2fmpk4j98mb"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "07/04/2021",
+        "dateOfIncident": "07/04/2021",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11423419,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EDGE",
+                "productYear": "2021",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Horn is hard to hear.",
+        "vin": "2FMPK4K92MB"
+    },
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "06/04/2021",
+        "dateOfIncident": "05/25/2021",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11419644,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EDGE",
+                "productYear": "2021",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I started my Edge and the airbag light was on,a/c did not work and the seat moved back by itself.Windows would not roll down",
+        "vin": "2FMPK4K98MB"
+    }
+]

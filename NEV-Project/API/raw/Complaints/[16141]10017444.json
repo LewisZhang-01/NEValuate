@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "04/23/2003",
+        "dateOfIncident": "06/21/2000",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017444,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "ASTRO",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE EXPERIENCED THE SAME DEFECT AS STATED IN RECALL 94 V 177 000 WHICH IS RELATED TO THE VEHICLES HEAD RESTRAINTS.  THE VEHICLE WAS NOT INCLUDED IN THE RECALL DUE TO VIN.  *NLM",
+        "vin": "1GNDM19W8PB"
+    }
+]

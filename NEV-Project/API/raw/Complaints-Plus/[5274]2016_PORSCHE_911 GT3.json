@@ -1,0 +1,46 @@
+[
+    {
+        "components": "VISIBILITY/WIPER",
+        "crash": false,
+        "dateComplaintFiled": "12/14/2021",
+        "dateOfIncident": "01/01/2020",
+        "fire": false,
+        "manufacturer": "Porsche Cars North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11443782,
+        "products": [
+            {
+                "manufacturer": "Porsche Cars North America, Inc.",
+                "productMake": "PORSCHE",
+                "productModel": "911",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The front windshield and rear window glass seals have failed. Black tar like material flows and spears the windows. Especially bad when driving during summer months. Vehicle only has 6200 miles. Is out of warrenty. Dealer says repair costs at my expense. Contacted Porsche North America Customer Assistance. They also said they would not stand behind known defect. Many defects reported and corrected by Porsche when under warrenty.",
+        "vin": "WP0AB2A98GS"
+    },
+    {
+        "components": "EXTERIOR LIGHTING",
+        "crash": false,
+        "dateComplaintFiled": "03/23/2020",
+        "dateOfIncident": "02/23/2020",
+        "fire": false,
+        "manufacturer": "Porsche Cars North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11319035,
+        "products": [
+            {
+                "manufacturer": "Porsche Cars North America, Inc.",
+                "productMake": "PORSCHE",
+                "productModel": "911",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING ON THE FREEWAY AFTER HEAVY BRAKING, THE PASSENGER HEADLIGHT DISLODGED FROM THE CAR, DANGLED FOR A SECOND ON THE HOOD FROM THE ELECTRICAL CONNECTIONS, THEN FLEW OFF THE CAR COMPLETELY",
+        "vin": "WP0AF2A98GS"
+    }
+]

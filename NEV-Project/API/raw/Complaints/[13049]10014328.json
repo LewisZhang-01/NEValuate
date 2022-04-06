@@ -1,0 +1,31 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "04/13/2003",
+        "dateOfIncident": "04/04/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10014328,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO",
+                "productYear": "1999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "MARKETEX BRAKE SYSTEM",
+                "productMake": "MARKETEX BRAKE SYSTEM",
+                "productModel": "MARKETEX BRAKE SYSTEM",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "THE ABS MOTOR ON MY 1999 SILVERADO EXT. CAB 2- WHEEL DRIVE 5.3L MOTOR WOULD NOT SHUT OFF. I HAD TO PULL THE FUSE TO GET IT TO STOP AND NOT RUN DOWN THE BATTERY. I TOOK IT TO THE DEALER AND THEY SAID IT WOULD COST $975.00 TO REPLACE THE MODULE. THE TRUCK HAS 52,000 MILES ON IT. I LOOKED ON THE INTERNET AND THIS IS A COMMON PROBLEM. GM SHOULD REPAIR THIS FOR FREE.   *NLM",
+        "vin": "2GCEC19T4X1"
+    }
+]

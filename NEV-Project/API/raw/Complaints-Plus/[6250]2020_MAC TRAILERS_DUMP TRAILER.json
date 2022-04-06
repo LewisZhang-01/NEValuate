@@ -1,0 +1,31 @@
+[
+    {
+        "components": "TRAILER HITCHES",
+        "crash": true,
+        "dateComplaintFiled": "10/25/2021",
+        "dateOfIncident": "09/24/2021",
+        "fire": false,
+        "manufacturer": "Mac Trailer Mfg., Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11438139,
+        "products": [
+            {
+                "manufacturer": "Mac Trailer Mfg., Inc.",
+                "productMake": "MAC TRAILERS",
+                "productModel": "DUMP TRAILER",
+                "productYear": "2020",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "S.T.D. ENTERPRISES",
+                "productMake": "STD",
+                "productModel": "TRAILER HITCH",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "The contact owns a 2020 El Lamar Dump Trailer equipped with a Demco Hitch. The contact stated upon dumping a load of graveling on the trailer, he heard a loud banging sound and he noticed that the hitch fractured, causing the trailer to roll down and crash into the escalator it was attached to. The dealer was made aware of the failure and advised the contact to take the hitch to their location so they could ship it to the manufacturer for testing. The contact stated the dealer replaced the hitch with a standard locking hitch. The manufacturer was notified of the failure and advised the dealer that no issues were found upon testing the hitch. The approximate Trailer failure mileage was 1000. The approximate Demco Hitch failure mileage was 1000.",
+        "vin": "5RVDL1422LP"
+    }
+]

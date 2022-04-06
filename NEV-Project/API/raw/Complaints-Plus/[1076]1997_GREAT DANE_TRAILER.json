@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": true,
+        "dateComplaintFiled": "01/27/2000",
+        "dateOfIncident": "07/01/1999",
+        "fire": false,
+        "manufacturer": "Great Dane Trailers",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 550608,
+        "products": [
+            {
+                "manufacturer": "Great Dane Trailers",
+                "productMake": "GREAT DANE",
+                "productModel": "TRAILER",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE DEFECT IN THE WELDS THAT HOLD THE WHEEL ASSEMBLY OF THE TRAILER BROKE CAUSED THE AXLE AND WHEELS TO COME OFF RESULTING IN ACCIDENT. YH",
+        "vin": "1GRAA96ZZVW"
+    }
+]

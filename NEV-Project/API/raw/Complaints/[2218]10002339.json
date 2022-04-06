@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "01/08/2003",
+        "dateOfIncident": "06/25/2002",
+        "fire": false,
+        "manufacturer": "Mercedes-Benz USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002339,
+        "products": [
+            {
+                "manufacturer": "Mercedes-Benz USA, LLC",
+                "productMake": "MERCEDES BENZ",
+                "productModel": "ML320",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING POWER STEERING FLUID LEAKED OUT, RESULTING IN TOTAL LOSS OF POWER STEERING. DEALER CONTACTED. PLEASE PROVIDE ADDITIONAL INFORMATION. TS",
+        "vin": "4JGAB54E3YA"
+    }
+]

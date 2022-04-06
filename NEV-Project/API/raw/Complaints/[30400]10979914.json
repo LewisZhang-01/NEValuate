@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "04/22/2017",
+        "dateOfIncident": "04/20/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10979914,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TANAKA RECALL - AIR BAG INDICATOR ON DASHBOARD STAYS ON FOR LONG PERIODS OF TIME INTERMITTENTLY",
+        "vin": "1FTYR14XXYP"
+    }
+]

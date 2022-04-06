@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "05/02/2018",
+        "dateOfIncident": "05/01/2018",
+        "fire": false,
+        "manufacturer": "Mazda Motor Corp.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11091414,
+        "products": [
+            {
+                "manufacturer": "Mazda Motor Corp.",
+                "productMake": "MAZDA",
+                "productModel": "CX-5",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE'S ELECTRONICS WILL NOT SHUT OFF WHEN TRANSAXLE IS PLACED IN PARK. VEHICLE OFTEN REQUIRES THAT OPERATOR PUSH TRANSAXLE FAR TO THE LEFT AND THEN ATTEMPT TO SHUT OFF.  SOMETIMES THIS WORKS.  OTHER TIMES IT DOES NOT.  IF NOT CAREFUL, BATTERY WILL DRAIN AND STRAND OPERATOR WHERE PARKED.",
+        "vin": "JM3KE2DY7E0"
+    }
+]

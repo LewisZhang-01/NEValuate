@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,SEATS,SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "08/25/2019",
+        "dateOfIncident": "08/22/2019",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11246264,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "YUKON XL",
+                "productYear": "2017",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "MY BRAKES GET HARD WHEN DRIVING IN SLOW TRAFFIC. AND STERRING WHEEL GETS STIFF WHEN PRESSED DURING TURNING CORNERS OR TURNS",
+        "vin": "1GKS2GKC4HR"
+    }
+]

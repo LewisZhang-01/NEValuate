@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "06/26/2003",
+        "dateOfIncident": "05/09/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019638,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "WINDSTAR",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE WAS IN DRIVE, BUT WENT INTO REVERSE WHEN THE GAS PEDAL WAS PRESSED.  THIS WAS CAUSED BY TRANSMISSION FAILURE PER DEALERSHIP.   *JB   *SCC   *JB",
+        "vin": "2FMZA514XYB"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "03/11/2003",
+        "dateOfIncident": "02/10/2003",
+        "fire": false,
+        "manufacturer": "SAAB CARS USA, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10011398,
+        "products": [
+            {
+                "manufacturer": "SAAB CARS USA, INC.",
+                "productMake": "SAAB",
+                "productModel": "9-5",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE STALLED WITHOUT WARNING, THE DEALER DIAGNOSED THE DIRECT IGNITION CASSETTE FAILED.  *JB  SCC",
+        "vin": "YS3EH49G423"
+    }
+]

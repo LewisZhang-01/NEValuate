@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "01/13/2004",
+        "dateOfIncident": "01/13/1998",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10053114,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "PARK AVENUE",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THERE IS A CHATTER, NOISE, VIBRATION WHEN I TURN THE STEERING WHEEL TO EITHER THE LEFT OR THE RIGHT",
+        "vin": "1G4CU5219W4"
+    }
+]

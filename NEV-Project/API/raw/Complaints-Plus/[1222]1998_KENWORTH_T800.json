@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, AIR",
+        "crash": false,
+        "dateComplaintFiled": "02/12/2001",
+        "dateOfIncident": "07/01/1998",
+        "fire": false,
+        "manufacturer": "PACCAR Incorporated",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 880371,
+        "products": [
+            {
+                "manufacturer": "PACCAR Incorporated",
+                "productMake": "KENWORTH",
+                "productModel": "T800",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ABS LIGHT COMES ON INTERMITTENTLY, ABS CAPABILITY INTERMITTENTLY.  *AK",
+        "vin": "ADD"
+    }
+]

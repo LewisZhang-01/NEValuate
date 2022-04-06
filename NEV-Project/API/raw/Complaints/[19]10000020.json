@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "12/11/2002",
+        "dateOfIncident": "11/08/2002",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000020,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "AVALON",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN USING THE CRUISE CONTROL ON A DOWNGRADE, THE VEHICLE ACCELERATES UP TO 20 MPH.  IT SEEMS AS IF YOU ARE GOING OUT OF CONTROL.  THE VEHICLE DOES NOT DOWNSHIFT AT ALL.",
+        "vin": "4T1BF28B92U"
+    }
+]

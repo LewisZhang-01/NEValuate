@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "01/15/2003",
+        "dateOfIncident": "01/17/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003908,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAVALIER",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATED THAT THE RACK AND PINION HAS BROKEN SEVEN TIMES, AND HAS TAKEN TO DEALER SEVERAL TIMES. TS",
+        "vin": "1G1JC524517"
+    }
+]

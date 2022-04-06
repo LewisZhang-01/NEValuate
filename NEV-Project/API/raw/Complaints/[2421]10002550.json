@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "01/10/2003",
+        "dateOfIncident": "01/06/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002550,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATES WATER LEAKED INTO THE VEHICLE CAUSING MOLD. PLEASE PROVIDE ANY ADDITIONAL INFORMATION. *JB",
+        "vin": ""
+    }
+]

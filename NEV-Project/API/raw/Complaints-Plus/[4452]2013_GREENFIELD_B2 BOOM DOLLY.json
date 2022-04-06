@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "04/21/2016",
+        "dateOfIncident": "04/15/2016",
+        "fire": false,
+        "manufacturer": "Greenfield Products",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10860812,
+        "products": [
+            {
+                "manufacturer": "Greenfield Products",
+                "productMake": "GREENFIELD",
+                "productModel": "B2 BOOM DOLLY",
+                "productYear": "2013",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Lionshead Specialty Tire & Wheel LLC",
+                "productMake": "VAIL SPORT",
+                "productModel": "ST LH99",
+                "productYear": "9999",
+                "size": "225/75D15",
+                "type": "Tire"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2013 CHUBBS GRIFFIN 10 FT DUMP TRAILER (NA) EQUIPPED WITH VAIL SPORT TUBELESS LH99 TIRES, SIZE: 225/75D15 (NA). WHILE DRIVING 55 MPH, THE FRONT DRIVER AND REAR PASSENGER SIDE TIRE SIDEWALLS SEPARATED FROM THE RIMS. THE TIRES WERE REPLACED. THE VIN WAS NOT INCLUDED IN NHTSA CAMPAIGN NUMBER: 14T001000 (TIRES). THE MANUFACTURER WAS NOT NOTIFIED OF THE FAILURE. THE TIRE AND VEHICLE FAILURE MILEAGE WERE UNKNOWN.",
+        "vin": "56WBU1022DE"
+    }
+]

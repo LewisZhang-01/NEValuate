@@ -1,0 +1,2616 @@
+[
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "06/01/2021",
+        "dateOfIncident": "03/10/2021",
+        "fire": true,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11419267,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Harbor Freight Tools",
+                "productMake": "CEN-TECH",
+                "productModel": "12V BATTERY CHARGER",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "A plug-in battery charger failed. You may inspect it. It got hot and smoked, and I suppose was a fire hazard. The problem has not been confirmed nor inspected. There were no symptoms of the problem before the failure.  - - - - I used the automotive charger to charge a battery after a light had been on overnight, discharging the battery. I removed the battery from the vehicle because the terminals might have been corroded. When I first put the charger on the battery it indicated full and did not start to recharge it, so I used jumper cables to charge the discharged battery from a good battery in my car and left the charger at 10 amps on the good battery at the same time so that battery would not become discharged. I left it to sit, figuring it would take several hours at that setting, and after about 5 minutes I saw smoke. Both 12v wires were hot and insulation burned or melted off. There is damage to the car where the wires rested on the painted plastic bumper and a plastic bit near the battery, and of course the charger is useless. I wrote to the manufacturer on March 28 to make them aware, and ask how to avoid it in the future, and ask if it can be repaired. I have not heard back. - - - - The user manual for this product is at http://manuals.harborfreight.com/manuals/60000-60999/60653.pdf The current year model of this product is at https://www.harborfreight.com/10250a-12v-manual-charger-with-engine-start-60581.html - - - - The charger is sold by Harbor Freight Tools under the Cen-Tech brand.",
+        "vin": "4T3ZF19C13U"
+    },
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "10/15/2018",
+        "dateOfIncident": "10/12/2017",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 11140478,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TAKATA RECALL   AIR BAGS FAILED TO DEPLOY IN A ROLL OVER ACCIDENT THAT INVOLVED IN CAR BEING AIRBORNE AND ROLLING OVER. CAR WAS TOTALED. NO AIRBAGS DEPLOYED, CAR WENT THROUGH 50 FOOT OF CORNFIELD AND LANDED ON THE ROOF. WINDOWS WERE ALL COLLAPSED DOOR RIPPED OFF ITS HINGES. I HAVE PICTURES ON MY PHONE I CAN PRINT AND GET TO YOU.",
+        "vin": ""
+    },
+    {
+        "components": "SEATS",
+        "crash": true,
+        "dateComplaintFiled": "06/06/2016",
+        "dateOfIncident": "10/11/2015",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10872769,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "MVA - OTHER PARTY REAR-ENDED US AT 35-40 MILES/HR. WHILE WE WERE STOPPED AT A LIGHT.  BOTH DRIVER AND PASSENGER FRONT SEAT BACKS BROKE. OUR VEHICLE WAS TOTALED , OTHER VEHICLE AIR BAGS DID NOT DEPLOY . APPEARED TO BE MINIMAL DAMAGE TO OTHER VEHICLE.   PICTURES OF BOTH VEHICLES AVAILABLE",
+        "vin": "4T3ZF13C83U"
+    },
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "08/21/2015",
+        "dateOfIncident": "01/03/2011",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10750339,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2003 TOYOTA SIENNA. WHILE DRIVING APPROXIMATELY 45 MPH, AN ABNORMAL SQUEAKING SOUND EMITTED FROM THE REAR OF THE VEHICLE. THE FAILURE RECURRED INTERMITTENTLY. THE VEHICLE WAS TAKEN TO AN AUTHORIZED DEALER, WHERE IT WAS DIAGNOSED THAT SPARE TIRE CARRIER ASSEMBLY CABLE WAS CORRODED. THE VEHICLE WAS NOT REPAIRED. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 10V160000 (STRUCTURE); HOWEVER, THE RECALL PART NEEDED WAS NOT AVAILABLE. THE CONTACT STATED THAT THE MANUFACTURER EXCEEDED A REASONABLE AMOUNT OF TIME FOR THE RECALL REPAIR. THE MANUFACTURER WAS NOT NOTIFIED OF THE ISSUE. THE FAILURE MILEAGE AND VIN WERE UNKNOWN.",
+        "vin": ""
+    },
+    {
+        "components": "FUEL SYSTEM, GASOLINE,VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "02/07/2014",
+        "dateOfIncident": "07/07/2009",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10563460,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE TOYOTA SIENNA'S GAS PEDAL HAS BEEN AND REMAINS INTERMITTENTLY STICKY.  IT TAKES SOME FOOT STOMPING TO DEPRESS THE GAS PEDAL IN ORDER TO ACCELERATE THE VEHICLE.  TOYOTA DOES NOT BELIEVE THIS TO BE A MAJOR PROBLEM WHEN I QUESTIONED THEM A FEW YEARS AGO.  *TR",
+        "vin": "4T3ZF19C73U"
+    },
+    {
+        "components": "VISIBILITY,STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "04/11/2013",
+        "dateOfIncident": "10/12/2012",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10505892,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE REAR WINDOW AT DRIVER SIDE STARTED TO LOOSE ABOUT 6 MONTHS AGO. AT THE BEGINNING, IT MADE NOISE WHEN OPEN THE REAR WINDOW. SO WE KEPT IT CLOSED ALL THE TIME. BUT GRADUALLY, IT IS GETTING WORSE AND WORSE. NOW EVEN WITH THE WINDOW CLOSED, THE WINDOW STILL SHAKES AND MAKES NOISES, SOUNDS LIKE THE WINDOW GLASS WILL DROP AT TIME. *TR",
+        "vin": "4T3ZF13CX3U"
+    },
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": true,
+        "dateComplaintFiled": "01/30/2013",
+        "dateOfIncident": "01/25/2013",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10495271,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2003 TOYOTA SIENNA. THE CONTACT STATED THAT WHILE SHIFTING INTO REVERSE, THE VEHICLE INDEPENDENTLY ACCELERATED AND CRASHED INTO ANOTHER VEHICLE. THERE WERE NO INJURIES. THE VEHICLE WAS TAKEN TO A DEALER FOR INSPECTION. THE VEHICLE WAS NOT REPAIRED. THE MANUFACTURER WAS NOTIFIED BUT PROVIDED NO ASSISTANCE. THE FAILURE MILEAGE WAS 74,000.   UPDATED 3/13/13 *CN    THE CONSUMER STATED THE DEALER DID NOT FIND ANYTHING MECHANICALLY WRONG. THE VEHICLE WAS SOLD BACK TO THE DEALER. UPDATED 04/09/2013 *JS",
+        "vin": "4T3ZF13C43U"
+    },
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "07/09/2012",
+        "dateOfIncident": "05/18/2012",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10464763,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2003 TOYOTA SIENNA. THE CONTACT STATED THAT WHILE DRIVING 35 MPH, SHE APPLIED THE BRAKE AND THE PEDAL WAS LOCKED. THE FAILURE RECURRED NUMEROUS TIMES AND THE ABS BRAKE LIGHT ILLUMINATED DURING THE FAILURE. ADDITIONALLY, THE WHEELS WOULD SEIZE AT TIMES, CAUSING THE VEHICLE TO SKID. THE VEHICLE WAS TAKEN TO A PERSONAL MECHANIC FOUR DIFFERENT TIMES FOR A DIAGNOSIS, HOWEVER THE FAILURE COULD NOT BE REPLICATED. THE VEHICLE HAD NOT BEEN REPAIRED. THE FAILURE MILEAGE WAS 75,000 AND THE CURRENT MILEAGE WAS 75,618.",
+        "vin": "4T3ZF13C83U"
+    },
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "02/03/2012",
+        "dateOfIncident": "07/31/2009",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10446393,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "JULY 31, 2009 THIS WAS THE STATE OF THE CAR: DRIVER SIDE DOOR MAKES A POPPING NOISE.  AUTOMATIC PASSENGER SLIDING DOOR IS NOT SMOOTH WHEN OPENING.  FEB 2, 2012: THE DRIVER SIDE POPPING NOISE HAS GOTTEN MUCH WORSE.  THE PASSENGER SLIDING DOOR NO LONGER WORKS.  *KB",
+        "vin": "5TDZA23C14S"
+    },
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "01/29/2012",
+        "dateOfIncident": "05/02/2011",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10445773,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVER AND FRONT PASSENGER DOOR STARTED MAKING LOUD CLICKING SOUNDS WHEN OPENING AND CLOSING DOORS BACK IN MAY OF LAST YEAR.  THEN ABOUT 2 MONTHS AGO, THE FRONT PASSENGER DOOR WOULD NOT CLOSE FULLY AND WOULD ONLY OPEN UP A FEW INCHES.  AFTER I WAS ABLE TO OPEN UP, I NOTICED THE DOOR WELD HAD SNAPPED AND BROKEN OFF (WHERE IT ATTACHES TO THE DOOR).  I SEARCHED ONLINE AND FOUND OUT THIS IS A COMMON PROBLEM WITH SIENNAS AND THERE WAS A SERVICE BULLETIN FOR THIS PROBLEM, ALTHOUGH NOT FOR MY YEAR.  FROM WHAT I'VE READ, DOOR WELDS ARE NOT SUPPOSE TO BREAK OFF ON DOOR AND THIS IS A SERIOUS DEFECT THAT TOYOTA SHOULD TAKE CARE OF.  *TT",
+        "vin": "4T3ZF13C83U"
+    },
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "01/24/2012",
+        "dateOfIncident": "01/01/2012",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10445097,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2003 TOYOTA SIENNA. THE CONTACT STATED THAT THE REAR DRIVER SIDE SLIDING DOOR WOULD NOT OPEN. THE VEHICLE WAS NOT TAKEN TO HAVE THE FAILURE DIAGNOSED OR REPAIRED. THE MANUFACTURER WAS NOT MADE AWARE OF THE FAILURE. THE CONTACT ALSO STATED THAT THE VEHICLE EXPERIENCED A RECURRING FAILURE IN THE PAST IN WHICH BOTH REAR DOORS WOULD EXPERIENCE DIFFICULTY LOCKING. THE FAILURE MILEAGE WAS 140,000.",
+        "vin": "4T3ZF19C63U"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "01/17/2012",
+        "dateOfIncident": "10/04/2011",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10444019,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS 2003 TOYOTA SIENNA. THE CONTACT STATED THE INSTRUMENT PANEL ON THE VEHICLE DOES NOT WORK AND WHEN THE VEHICLE EXCEEDS 30-40 MPH, IT SLOWS DOWN AND THE ALL OF THE WARNING LIGHT ILLUMINATE. THE LOCAL MECHANIC REPLACED THE SENSORS FOR THE COMPUTER, BUT THAT DID NOT CORRECT THE PROBLEM. THE VEHICLE WAS NOT INSPECTED BY A DEALER. THE FAILURE MILEAGE WAS UNKNOWN, BUT THE CURRENT MILEAGE WAS 74,000.",
+        "vin": "4T3ZF13C33U"
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "09/06/2011",
+        "dateOfIncident": "09/01/2011",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10424013,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SOME TIMES WHEN AT TRAFFIC LIGHTS THE ACCELERATOR PEDAL IS HARD TO PUSH(GO). *TR",
+        "vin": "4T3ZF19C73U"
+    },
+    {
+        "components": "LATCHES/LOCKS/LINKAGES",
+        "crash": false,
+        "dateComplaintFiled": "08/23/2011",
+        "dateOfIncident": "08/09/2009",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10421116,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2003 TOYOTA SIENNA. THE CONTACT STATED  THE SLIDING REAR DOORS WERE DEFECTIVE. THE SLIDING DOORS WOULD NOT LATCH PROPERLY AND OCCASIONALLY THE REAR DOORS WOULD  NOT OPEN OR CLOSE. THE MANUFACTURER WAS NOT NOTIFIED. THE DEALER WAS NOTIFIED, BUT DENIED ANY ASSISTANCE WITH REPAIRS TO THE FAILURE.  THE VEHICLE WAS NOT REPAIRED. THE FAILURE MILEAGE WAS 100,000 AND THE CURRENT MILEAGE WAS 150,000.",
+        "vin": "4T3ZF13C63U"
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "08/01/2011",
+        "dateOfIncident": "05/17/2011",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10416552,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Toyo Tire Holdings of Americas, Inc.",
+                "productMake": "TOYO",
+                "productModel": "EXTENSA",
+                "productYear": "9999",
+                "size": "215/65R15",
+                "type": "Tire"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2003 TOYOTA SIENNA WITH TOYO EXTENSA TIRES, TIRE SIZE 215/65/15. THE CONTACT STATED THAT THE TIRE PRESSURE WARNING LAMP ILLUMINATED AND NOTICED THE REAR PASSENGER SIDE TIRE WAS FLAT. THE VEHICLE WAS TAKEN TO A MECHANIC WHO STATED THAT AN OBJECT PUNCTURED THE TIRE AND A PATCH WAS USED TO REMEDY THE FAILURE. THREE MONTHS LATER THE SAME TIRE WAS PUNCTURED AGAIN BY A SMALL ROCK. THE MANUFACTURER WAS MADE AWARE OF THE FAILURE WHO DID NOT OFFER ANY ASSISTANCE. THE TIRE WAS REPLACED. THE FAILURE MILEAGE WAS 106,000 AND THE CURRENT MILEAGE WAS 108,800.",
+        "vin": "4T3ZF13C03U"
+    },
+    {
+        "components": "LATCHES/LOCKS/LINKAGES",
+        "crash": false,
+        "dateComplaintFiled": "02/10/2011",
+        "dateOfIncident": "02/08/2011",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10381391,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WE HAVE A 2003 TOYOTA SIENNA MINIVAN.  THE DRIVERS SIDE AUTOMATIC DOOR NOW WILL NOT OPEN MANUALLY OR AUTOMATICALLY.  I HAVE A DAUGHTER WHO IS HANDICAPPED AND THIS IS THE EASIEST DOOR TO PUT HER IN THE CAR, SO AS OF RIGHT NOW THE CAR THAT HOLDS HER WHEELCHAIR IS COMPLETELY USELESS TO US.  TOYOTA HAS BEEN ABSOLUTELY NO HELP.  THIS IS VERY DANGEROUS.  WHAT IS SHE WAS IN THE CAR AN ACCIDENT OCCURRED AND WE COULD NOT GET HER OUT????  *TR",
+        "vin": "4T3ZF13C23U"
+    },
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": true,
+        "dateComplaintFiled": "02/09/2011",
+        "dateOfIncident": "02/03/2011",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10381284,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 2003 TOYOTA SIENNA. THE CONTACT WAS DRIVING WHEN THE VEHICLE SUDDENLY ACCELERATED. IT WENT THROUGH THE CONTACT'S GARAGE AND INTO THEIR LIVING ROOM. THE VEHICLE WAS DESTROYED. THERE WERE NO INJURIES. THE VIN WAS UNAVAILABLE. THE CURRENT AND FAILURE MILEAGES WERE 112,000.",
+        "vin": ""
+    },
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "01/26/2011",
+        "dateOfIncident": "01/04/2011",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10378746,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BOTH OF THE REAR DOORS IN MY TOYOTA SIENA WILL NOT OPEN FROM EITHER SIDE. TO GET OUT OF THE CAR IN AM EMERGENCY PEOPLE HAVE TO CLIMB OVER TO THE FRONT SEATS. *TR",
+        "vin": "5TDZA23C34S"
+    },
+    {
+        "components": "STRUCTURE,LATCHES/LOCKS/LINKAGES",
+        "crash": false,
+        "dateComplaintFiled": "11/18/2010",
+        "dateOfIncident": "11/05/2010",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10366761,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE HANDLE ON THE LIFT GATE FOR MY 2003 TOYOTA SIENNA BROKE OFF RIGHT IN MY HAND. THE GATE REMAINS LOCKED AND UNABLE TO OPEN IT. *TR",
+        "vin": ""
+    },
+    {
+        "components": "STRUCTURE,LATCHES/LOCKS/LINKAGES",
+        "crash": false,
+        "dateComplaintFiled": "09/22/2010",
+        "dateOfIncident": "08/13/2010",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10357050,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BROKEN CABLE FOR SLIDING DOOR OF MY 2003 TOYOTA SIENNA. *TR",
+        "vin": ""
+    },
+    {
+        "components": "LATCHES/LOCKS/LINKAGES",
+        "crash": false,
+        "dateComplaintFiled": "09/07/2010",
+        "dateOfIncident": "09/06/2010",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10354141,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I NEVER HAD A PROBLEM OPENING OR CLOSING THE TRUNK DOOR OF MY 2003 SIENNA VAN. SHORTLY AFTER I PURCHASE MY SIENNA IN 2007, I DID NOTICE THE TRUNK HANDLE, WHICH IS COVERED FROM ALL ELEMENTS, WAS COMPLETELY CORRODED. TO SEE THE CORROSION YOU MUST GET ON YOUR KNEE AND LOOK UP PAST THE LICENSE PLATE OR OPEN THE TRUNK DOOR AND LOOK UP INTO THIS SAME GROOVE.. I INFORMED THE TOYOTA SERVICE CENTER ABOUT THE CORROSION WHILE THE VEHICLE WAS UNDER WARRANT AND WAS TOLD THAT WAS NOT A PROBLEM THAT WAS COVERED BY THE WARRANTY. AFTER A TRIP TO THE GROCERY STORE ON LABOR DAY, THE TRUNK WOULD NOT OPEN. I HAD TO CLIMB OVER THE REAR SEAT TO UNLOAD THE VAN. WHEN I CONTACTED TOYOTA I WAS INFORMED THAT THERE WERE NO RECALLS FOR THAT PARTICULAR PROBLEM AND THAT I WOULD HAVE TO PAY THE COST OF THE REPAIR. HOW CAN THAT PART BE TOTALLY CORRODED THE WAY IT IS COVER? *TR",
+        "vin": "4T3ZF13C93U"
+    },
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "08/18/2010",
+        "dateOfIncident": "08/09/2010",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10350358,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2003 TOYOTA SIENNA XE. THE CONTACT STATED HE RECEIVED A RECALL NOTIFICATION UNDER THE NHTSA CAMPAIGN ID NUMBER 10V160000 (STRUCTURE). THE AUTHORIZED DEALER WAS NOTIFIED TO SCHEDULE AN APPOINTMENT FOR THE REMEDY REPAIR; HOWEVER, THE TIME FRAME PROVIDED FOR THE REPAIR WAS NOT COMPATIBLE WITH THE CONTACT'S WORK HOURS. ALSO, THE CONTACT STATED THE DEALER SHOULD PROVIDE A FREE RENTAL VEHICLE DURING THE TIME OF THE RECALL REPAIR. THERE WAS NO FAILURE RELATED TO THE RECALL DEFECT. THE VEHICLE HAD NOT BEEN REPAIRED AT THE TIME OF THE COMPLAINT.",
+        "vin": "4T3ZF19C13U"
+    },
+    {
+        "components": "STRUCTURE,LATCHES/LOCKS/LINKAGES",
+        "crash": false,
+        "dateComplaintFiled": "08/07/2010",
+        "dateOfIncident": "07/08/2010",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10347933,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "OPENED TAIL GATE ON 03 TOYOTA SIENNA VAN. REACHED IN TO GET SOMETHING AND GATE SUDDENLY CAME DOWN STRIKING ME ON THE TOP OF MY HEAD CAUSING A CONCUSSION. GAS STRUTS WERE REPLACED AT A COST OF OVER $300.  OLD PARTS NOT AVAILABLE. *TR",
+        "vin": ""
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": true,
+        "dateComplaintFiled": "06/28/2010",
+        "dateOfIncident": "06/24/2010",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10340434,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE I WAS FULLY STOPPED, WITH MY FOOT ON THE BRAKE, MY 2003 TOYOTA SIENNA UNEXPECTEDLY AND SUDDENLY ACCELERATED. *TR",
+        "vin": "4T3ZF19CX3U"
+    },
+    {
+        "components": "WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "06/22/2010",
+        "dateOfIncident": "05/02/2010",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10340074,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2003 TOYOTA SIENNA,WHEEL BROKE LOOSE  FROM VEHICLE.  *BF  ACCORDING TO THE POLICE REPORT, THE WHEEL BROKE FROM THE LUGS.  ROTOR. (OHIO TRAFFIC CRASH REPORT # 10-0221-91. *JB",
+        "vin": ""
+    },
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "05/05/2010",
+        "dateOfIncident": "02/03/2010",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10328934,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I OWN TOYOTA SIENNA 2003 CE. I AM NOT ABLE TO OPEN PASSENGER SLIDING DOOR FROM INSIDE. THIS IS BEEN PROBLEM FOR A WHILE. IT IS VERY INCONVENIENT THAT EVERY TIME SOME ONE HAS TO STEP OUT TO OPEN THE DOOR FROM OUTSIDE.   THIS CAN BE SOME TIME SAFETY ISSUE IF DRIVER HAS TO STEP OUT TO OPEN PASSENGER DOOR, RISKING DRIVER OPEN TO INCOMING VEHICLE. *TR",
+        "vin": "4T3ZF19C53U"
+    },
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "04/22/2010",
+        "dateOfIncident": "04/08/2010",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10327063,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 2003 TOYOTA SIENNA. THE CONTACT STATED THAT BOTH SLIDING DOORS WOULD NOT OPEN INTERMITTENTLY. ALSO, THE SLIDING DOOR LIGHT WOULD ILLUMINATE ON THE INSTRUMENT PANEL UNTIL THE VEHICLE WAS TURNED OFF. THE VEHICLE HAD NOT BEEN TAKEN TO AN AUTHORIZED DEALERSHIP AT THE TIME OF THE COMPLAINT. THE VIN WAS NOT AVAILABLE. THE CURRENT AND FAILURE MILEAGES WERE APPROXIMATELY 17,000.",
+        "vin": ""
+    },
+    {
+        "components": "STRUCTURE,LATCHES/LOCKS/LINKAGES",
+        "crash": false,
+        "dateComplaintFiled": "04/19/2010",
+        "dateOfIncident": "04/19/2010",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10326506,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2003 TOYOTA SIENNA MINIVAN, BOTH SLIDING DOORS DO NOT OPERATE PROPERLY.  THE DRIVER SIDE STAYS SHUT ALWAYS AND WILL NOT OPEN FROM THE INSIDE OR THE OUTSIDE.  THE PASSENGER SLIDER WILL OPEN FROM THE OUTSIDE IF YOU PLACE THE CHILDPROOF LOCK ON.  THIS HAPPENED ON AND OFF AND GOT TO BE CONSTANT AFTER THE 3 YEAR WARRANTY IS UP.  THIS IS NOT FROM WEAR AND TEAR.  IT IS A KNOWN 'SIENNA PROBLEM FORUM' ISSUE AND EVERY TIME SOMEONE GOES TO TOYOTA, THEY DENY THAT A PROBLEM EXISTS. DOES THAT SOUND FAMILIAR? IS IT SAFE WHEN YOU CANNOT GET OUT OF YOUR DOOR?   *TR",
+        "vin": "4T3ZF19C43U"
+    },
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": true,
+        "dateComplaintFiled": "04/15/2010",
+        "dateOfIncident": "10/26/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10325317,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "TOYOTA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2003 TOYOTA 4DR. CONSUMER STATES UNINTENDED ACCELERATION. *TGW  THE CONSUMER STATED SHE WAS ATTEMPTING TO PARK WHEN THE VEHICLE SUDDENLY ACCELERATED AND STRUCK A FENCE. THE CONSUMER BELIEVED THE ACCELERATOR WAS STUCK. *JB",
+        "vin": ""
+    },
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": true,
+        "dateComplaintFiled": "04/01/2010",
+        "dateOfIncident": "03/31/2010",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10323325,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 2003 TOYOTA SIENNA. WHILE DRIVING APPROXIMATELY 5 MPH, THE VEHICLE SUDDENLY ACCELERATED CRASHING INTO THE FRONT OF THE CONTACTS HOME. THERE WAS NO POLICE REPORT TAKEN. THE CONTACT DIDN'T SAY IF THERE WERE ANY INJURIES. THE CONTACT DID NOT REPORT ANY INJURIES. THE CURRENT AND FAILURE MILEAGES WERE APPROXIMATELY 30,000. UPDATED 05/18/10. *LJ",
+        "vin": "4T3ZF19C83U"
+    },
+    {
+        "components": "LATCHES/LOCKS/LINKAGES",
+        "crash": false,
+        "dateComplaintFiled": "03/22/2010",
+        "dateOfIncident": "08/04/2009",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10321390,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2003 SIENA, SLIDING DOORS DON'T WORK AT ALL. *DT",
+        "vin": "4T3ZF19C83U"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC,ENGINE AND ENGINE COOLING",
+        "crash": true,
+        "dateComplaintFiled": "03/15/2010",
+        "dateOfIncident": "03/15/2010",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10319618,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "HERE IS A LIST OF MECHANICAL MALFUNCTIONS INDICATING MANUFACTURING DEFECTS ON MY TOYOTA SIENNA. THE CURRENT MODELS RECALLED BY TOYOTA MOTORS DO NOT COVER ALL VEHICLES WITH DEFECTS. BASED ON MY PERSONAL EXPERIENCE IN THE PAST FEW YEARS, TOYOTA MOTORS HAVE A LOT OF LYING EMPLOYEES IN THEIR AUTHORIZED DEALERSHIP. IN SHORT, TOYOTA MOTORS PUT THEIR BUSINESS INTEREST WAY AHEAD OF THE LIFE SAFETY OF AMERICAN PEOPLE. I HOPE NATIONAL HIGHWAY TRAFFIC SAFETY ADMINISTRATION WILL CHECK THIS MANNER AND ENFORCE PROPER REGULATION.     UPDATED 03/14/10   *BF *TR  THE CONSUMER STATED THE ENGINE WOULD STALL. THE DEALER REPLACED THE UPPER RADIATOR HOSE AND COOLANT. THE CONSUMER ALSO STATED HE HAD PROBLEMS STOPPING THE VEHICLE, WHICH LED TO AN ACCIDENT. UPDATED IVOQ 10/12/10",
+        "vin": "4T3ZF19C43U"
+    },
+    {
+        "components": "FUEL SYSTEM, GASOLINE,VEHICLE SPEED CONTROL",
+        "crash": true,
+        "dateComplaintFiled": "03/06/2010",
+        "dateOfIncident": "01/10/2010",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10317294,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I TURNS MY TOYOTA SIENNA INTO A DRIVEWAY OF A STORAGE FACILITY AND PLACED THE VEHICLE INTO PARK WHILE TRAFFICPASSED BY AS THIS ROAD WAS ALSO THE EXIT ROAD FROM COSTCO. WHEN IT WAS SAFE FROM OTHER VEHICLES  AND IS WAS SAFE TO BACK OUT OF THE DRIVEWAY I TOOK THE VEHICLE OUT OF PARK AND SUDDENLY THE VEHICLE LURCHED FORWARD RAMMING INTO AN IRON GATE BENDING IT WIDE OPEN. THE VEHICLE CONTINUED THROUGH THE GATE EVEN THOUGH I TURNED OFF THE IGNITION , JAMMED MY BRAKES AN TRIED TO PLACE IT INTO PARK ALL TO NO AVAIL. CONTINUING THROUGH THE GATE I WAS ABLE TO REACH A LARGE OPEN AREA WHEREUPON I TURNED THE STEERING WHEEL AS HARD AS I COULD TO MAKE SURE THE VEHICLE WOULD ONLY CIRCLE. AFTER A BIT OF TIME THE ENGINE ROARED PICKUP SPEED THEN STOPPED. THIS SAME SURGE OCCURRED ON SEVERAL OCCASIONS BUT I THOUGHT I DID SOMETHING TO CAUSE THIS PROBLEM. *TR",
+        "vin": "4T3ZF13C03U"
+    },
+    {
+        "components": "FUEL SYSTEM, GASOLINE,VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "02/26/2010",
+        "dateOfIncident": "05/01/2009",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10314733,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I HAVE OWNED A 2003 TOYOTA SIENNA SINCE NEW. I HAD A EXTENDED 100K WARRANTY ON THIS VEHICLE. AT 80,000 MILES A CHECK ENGINE LIGHT CAME ON, IT WAS REPLACED, AT 82,000 MILES IT CAME ON AGAIN AND WAS REPLACED., THEN AT 94,000 MILES THE CAR STARTED STALLING AND WOULD NOT CRANK FOR SEVERAL MINUTES, THE DEALER TOLD ME THAT IT WAS IN MY HEAD, NOTHING WAS WRONG, IT CONTINUED TO DO THIS MORE OFTEN, AT 94,400 I TOLD IT BACK AND THE IDIOTS TOLD ME THE SAME THING, I FOUGHT WITH THIS CONDITION UNTIL IT FINAL EFFECTED THE ACCELERATOR, THE CAR REVVED UP WIDE OPEN AND CONTINUED UNTIL I GOT IT TO THE DEALER WHILE IT WAS DOING THE REVVING WITHOUT TOUCHING THE GAS PEDAL, THEY FINALLY REPAIRED THE VALUE . I WROTE TO TOYOTAS AND TOLD THEM AND THEY SAID IT WAS NOT OF THERE CONCERN, IDIOTS KNEW THERE IS A PROBLEM AND WOULD NOT FIX IT, BUT 800 DOLLARS LATER THEY DID AND NOT UNDER THE WARRANTY. THOSE PEOPLE NEED TO BE HELD ACCOUNTABLE FOR HIDING ALL THE CONCERNS, I WANT ME REPAIR MONEY BACK AND PLAN ON CAUSING ENOUGH CRAP WITH THE NEWS MEDIA UNTIL I DO. *TR",
+        "vin": "4T3ZF19CX3U"
+    },
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "02/24/2010",
+        "dateOfIncident": "04/16/2008",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10314030,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "INFORMATION REDACTED PURSUANT TO THE FREEDOM OF INFORMATION ACT (FOIA), 5 U.S.C. 552(B)(6)    2003 TOYOTA SIENNA   MY VEHICLE WAS ACCELERATING FROM A RAMP ONTO THE HIGHWAY WHEN I DISCOVERED TO MY HORROR THAT EVEN AFTER I TOOK MY FOOT OFF THE GAS PEDAL (ABOUT 60 MPH), THE VEHICLE CONTINUED TO ACCELERATE (UP TO 90 MPH). I EVEN TRIED USING MY FOOT TO HOOK THE GAS PEDAL TOWARD ME TO STOP THE CAR. WHEN THAT DID NOT SUCCEED, I PRESSED ON THE PARKING AND NORMAL BRAKES TO SLOW DOWN THE CAR AND TURNED OFF THE CAR. THE VERY NEXT DAY, I HAD MY CAR TOWED TO , DIEHL TOYOTA OF YORK [XXX] . THEY DID NOT DISCOVER ANY ISSUES. HOWEVER IN LIGHT OF THE MASSIVE TOYOTA RECALLS, I BELIEVE THAT MY CAR IS SIMILARLY DEFECTIVE. I HAD TRIED CALLING 800 331 4331, THE PHONE NUMBER PROVIDED BY TOYOTA FOR SUCH DEFECTIVE VEHICLE ISSUES BUT NO ONE EVER PICKS UP. *TR",
+        "vin": "4T3ZF13C03U"
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "02/22/2010",
+        "dateOfIncident": "02/20/2010",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10312619,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE SPARE TIRE IN OUR 2003 SIENNA FELL OFF THE BOTTOM OF THE VAN. LUCKILY WE WERE ONLY GOING 25  MPH AND NO ONE WAS BEHIND US. IT APPEARS THE WIRE HOLDING THE TIRE RUSTED AND BROKE, CAUSING THE TIRE TO FALL.  *TR",
+        "vin": ""
+    },
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": true,
+        "dateComplaintFiled": "02/18/2010",
+        "dateOfIncident": "01/30/2009",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10311942,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DEFECTIVE VEHICLE CONTROL SENSOR ON 2003 TOYOTA SIENNA CAUSED AUTOMATIC BRAKING ON DRY PAVEMENT (CAR WAS NOT IN A SKID) AT OVER 10 MPH.  THIS FIRST HAPPENED IN NOVEMBER/DECEMBER 2008 TIMEFRAME.  AFTER READING BLOGS IN HTTP://TOWNHALL-TALK.EDMUNDS.COM/WEBX?14@112.TUXHAXBJDJ5@.F0FA178/49#49, WE FOUND THAT THIS WAS A PROBLEM THAT WAS AT THE TIME COMMON TO TOYOTA RAVS.  SINCE THEN THERE HAVE BEEN MANY MORE PROBLEMS REPORTED INCLUDING THOSE THAT HAVE OCCURRED WITH TOYOTA SIENNAS.  THIS CAUSED US TO REMOVE THE SENSOR, WHICH MAY HAVE BEEN THE CAUSE FOR AN ACCIDENT IN WHICH WE SLID OUR MINIVAN OFF OF AN ICY ROAD AND DROPPED 7 FEET INTO A EMBANKMENT WHILE TRAVELING WITH OUR 4 CHILDREN.  FORTUNATELY, NO ONE WAS INJURED, HOWEVER WE BELIEVE THAT IF THE VSC HAD BEEN PROPERLY FUNCTIONING IT WOULD NOT HAVE CAUSED US TO DISABLE IT, AND IT MAY HAVE PREVENTED THE ACCIDENT WHICH OCCURRED IN JANUARY OF 2009.  MY HUSBAND HAD THE VSC SENSOR SUBSEQUENTLY REPLACED THIS PAST YEAR AND HE REPORTED RECENTLY THAT THE VSC HAD AGAIN AUTOMATICALLY ACTIVATED ON DRY PAVEMENT (NO SKID).  I BELIEVE THAT THEIR IS A DEFECT IN THE VSC SENSOR OR THE COMPUTER CONTROL SOFTWARE WHICH ACTIVATES THE BRAKES.  I AM REQUESTING THAT NHTSA INVESTIGATE THIS FAILURE AS I BELIEVE THERE HAS BEEN ENOUGH INCIDENTS TO WARRANT INVESTIGATION.  I ALSO KNOW THIS TO BE A SAFETY ISSUE. *TR",
+        "vin": "5TD2A23L745"
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "02/17/2010",
+        "dateOfIncident": "07/10/2007",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10311473,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I HAVE OWNED 3 TOYOTA SIENNA'S.  IN ALL OF THE MODELS I IDENTIFIED A PROBLEM WHICH THE DEALERS TOLD ME WAS NORMAL.  I THEN MADE SURE TO ADVISE ANYONE DRIVING MY CARS OF THIS ISSUE.  NOW THAT YOU ARE LOOKING MORE CLOSELY AT SAFETY I THOUGHT I WOULD BRING THIS TO YOUR ATTENTION.  WHEN A SIENNA IS IN DRIVE AND ON A HILL WITH THE FRONT END UP AND THE BACK END DOWN. AND WHEN YOU THEN REMOVE YOUR FOOT FROM THE BRAKE THE CAR WILL IMMEDIATELY ROLE BACKWARDS.  I LEARNED TO PRESS THE GAS SLOWLY AS I WAS RELEASING THE BRAKE SLOWLY TO AVOID THIS, BUT IT IS VERY DANGEROUS.  IF A PERSON WAS BEHIND THE VEHICLE AND THE DRIVER DID NOT KNOW THIS OCCURS THEY COULD BE RUN OVER.  THANKS FOR CHECKING ON THIS. *TR",
+        "vin": ""
+    },
+    {
+        "components": "ELECTRICAL SYSTEM,ELECTRONIC STABILITY CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "02/17/2010",
+        "dateOfIncident": "11/21/2009",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10311603,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ON 09/04/09, MY 2007 TOYOTA COROLLA COMPUTER FAILURE RESULTED IN POWER LOSE WITHIN SECONDS AT TRAFFIC LIGHT AND STOPPED. THIS HAS BEEN REPORTED TO NHTSA ON 09/08/09 AND COMPLAINT # IS 10283338. HOWEVER, MY ANOTHER TOYOTA CAR ALSO HAD COMPUTER FAILURE IN NOV 2009. ALL OF MY 2 TOYOTA CARS HAD COMPUTER FAILURE IN 2009. I BELIEVE THE TOYOTA CARS HAVE COMPUTER PROBLEMS AND I SUGGEST NHTSA TO OPEN INVESTIGATION.     2003 TOYOTA SIENNA COMPUTER FAILURE RESULTED ENGINE LIGHT ILLUMINATED  AROUND NOV. 21, 2009. *TR",
+        "vin": "4T3ZF19C93U"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC,VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "02/04/2010",
+        "dateOfIncident": "01/17/2009",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10305394,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2003 TOYOTA SIENNA MAY ALSO HAVE SUDDEN ACCELERATION PROBLEM. WHY ISN'T 2003 TOYOTA SIENNA ON TOYOTA'S RECENT RECALL LIST YET?    THIS HAPPENED TO ME ONCE, I AM STILL VERY SCARED NOW, BUT I AM PUZZLED WHY 2003 TOYOTA SIENNA IS NOT ON TOYOTA'S RECENT RECALL LIST YET. PLEASE SEE THE FOLLOWING LINK FIRST.    HTTP://TOWNHALL-TALK.EDMUNDS.COM/DIRECT/VIEW/.F105086     I BELIEVE MY ACCIDENT HAPPENED ON SATURDAY, JANUARY 17, 2009. VERY FORTUNATELY, THERE WAS NO INJURY, AND THAT'S ONE OF THE REASONS WHY I DID NOT REPORT THE ACCIDENT THEN.     I WAS DRIVING MY 2003 TOYOTA SIENNA FROM HOUSTON TO AUSTIN, TX. MY OLDEST SON WAS A FRESHMAN AT THAT TIME AND THE SPRING SEMESTER WAS ABOUT TO BEGIN. MY WIFE, MY YOUNGEST SON, WERE ALSO IN THE CAR AT THE TIME. THERE WERE TOTAL OF FOUR IN THE CAR.    I WAS DRIVING ON HIGHWAY 71 USING THE CRUISE CONTROL. ABOUT 50 MILES (I DON'T KNOW EXACTLY THE LOCATION, BUT I CAN FIND THAT LOCATION IF I DRIVE ON HIGHWAY 71 AGAIN) FROM AUSTIN, THERE WAS A TRAFFIC LIGHT. WHEN I WAS APPROACHING TO THAT  TRAFFIC LIGHT, IT ALREADY TURNED TO RED, AND I IMMEDIATELY PUT MY RIGHT FOOT ON THE BRAKE TO TRY TO STOP THE CAR IN FRONT OF THE TRAFFIC LIGHT. AT THIS MOMENT, SOMETHING SCARING HAPPENED. THE BRAKE DID NOT SEEM TO WORK, AND THE CAR STARTED TO ACCELERATE IN STEAD. I COULD NOT CONTROL THE CAR, AND MY CAR RUN THROUGH THE TRAFFIC LIGHT, AND EVERYONE IN THE CAR WAS VERY VERY SCARED. WE WERE VERY FORTUNATE BECAUSE THE CARS IN THE OTHER DIRECTION WERE STILL WAITING FOR THEIR GREEN LIGHT. FINALLY THE CAR WAS STOPPED APPROXIMATELY 40 YARDS AFTER THE TRAFFIC LIGHT. I SLOWLY DROVE MY CAR INTO A GAS STATION NEARBY AND CHECKED THE CAR (BUT I COULD NOT FIND ANY PROBLEMS BECAUSE I AM NOT A MECHANIC). AFTER THAT, I SLOWLY DROVE THE CAR TO AUSTIN TO DROP MY SON THERE, AND I DROVE BACK TO HOUSTON THROUGH HIGHWAY 290 VERY SLOWLY.    AFTER THE ACCIDENT, I TOLD THE STORY TO MY COLLEAGUES AND MY CHURCH GROUP. I TOLD THEM IT WAS THE GOD WHO STOPPED THE CARS IN OTHER DIRECTION. *TR",
+        "vin": "4T3ZF19CX3U"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "02/01/2010",
+        "dateOfIncident": "07/20/2009",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10303716,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2003 TOYOTA SIENNA, SPONTANEOUS, UNCONTROLLED ACCELERATION.   FIRST OCCURRENCE ON OR ABOUT 7/20/09.   AT LEAST 3 SUCCESSIVE OCCURRENCES.  TOYOTA DEALER (LARRY H MILLER BIG TOYOTA CITY) WAS ABLE TO DUPLICATE PROBLEM IN ROAD TESTS.  WHEN IT HAPPENED TO ME, I THREW TRANSMISSION IN NEUTRAL.  ENGINE HIT REDLINE IN TIME IT TOOK TO TURN KEY TO OFF.(1-2 SECONDS)    FIRST MIS IDENTIFIED AS STICKING THROTTLE CABLES. TOYOTA REPLACED CABLES  EVENTUALLY (AFTER RECURRENCE) REPLACED THROTTLE BODY.  WIFE NEARLY HAD ACCIDENT WITH FIRST OCCURRENCE, HAD TO STAND ON BRAKES TO GET CAR STOPPED.  SHUT DOWN VEHICLE IN LEFT TURN LANE ON BUSY SIX LANE ROAD. VEHICLE TOWED.      I HAD TO REPLACE BRAKES/ROTORS.  ABLE TO AVOID ACCIDENT WITH RECURRENCE BY SHOWING WIFE HOW TO THROW TRANSMISSION IN NEUTRAL AND SHUT DOWN VEHICLE. WIFE DOES NOT TRUST VEHICLE ALTHOUGH NEW THROTTLE BODY SEEMS TO HAVE SOLVED PROBLEM.    TOYOTA KEPT VEHICLE TWICE FOR TOTAL OF TWO WEEKS, WE PAID OVER $1,300.  TOYOTA NEVER ACKNOWLEDGED NOR ACCEPTED RESPONSIBILITY FOR  THIS SERIOUS SAFETY ISSUE.  OFFERED FREE CAR WASH WHEN WE COMPLAINED TO SERVICE MANAGER. *TR",
+        "vin": "4T3ZF13C93U"
+    },
+    {
+        "components": "LATCHES/LOCKS/LINKAGES",
+        "crash": false,
+        "dateComplaintFiled": "12/16/2009",
+        "dateOfIncident": "12/13/2009",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10296048,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS 2003 TOYOTA SIENNA CE. HE  WAS NOT ABLE TO UNLOCK THE DRIVER OR PASSENGER SIDE REAR DOORS. HE WILL TAKE THE VEHICLE TO THE DEALER TO BE DIAGNOSED. THE CURRENT AND THE FAILURE MILEAGES WERE 40,000.",
+        "vin": "4T3ZF19C53U"
+    },
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": true,
+        "dateComplaintFiled": "12/15/2009",
+        "dateOfIncident": "12/14/2009",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10295915,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TOYOTA SIENNA 2003  I WAS PULLING INTO A PARKING SPACE IN A PARKING GARAGE.  I BELIEVE I HAD PUT THE CAR IN REVERSE TO BACK UP TO STRAIGHTENED THE CAR AND I PUT MY FOOT ON THE BRAKE.  THE CAR SUDDENLY SHOT FORWARD FULL FORCE AND WAS STOPPED BY A CONCRETE AND WIRE RETAINING WALL.  THE ENGINE DIED AT IMPACT.  THE CAR WAS NOT DRIVABLE AND WAS TOWED.  I WAS STUNNED.  I WENT INTO THE BUILDING AND AFTER A SHORT TIME FELT CHEST PAIN AND SHORTNESS OF BREATH.  I WENT TO THE EMERGENCY ROOM AND WAS TREATED AND RELEASED.   I RECEIVED A CHEST WALL CONTUSION, PROBABLY CRACKED RIB(S), DEEP TISSUE CONTUSION AND A LARGE BRUISE FROM THE SEAT BELT.  I WAS GIVEN VICODIN FOR PAIN.  THE CAR WAS TOWED TO A TOYOTA DEALERSHIP BUT THE DAMAGE HAS NOT BEEN ESTIMATED YET.  I AM AWARE THAT THE PROBLEM OF UNCONTROLLED ACCELERATION IN TOYOTA SIENNAS HAS BEEN REPORTED TO BOTH THIS AGENCY AND TOYOTA BEFORE (NHTSA REPORT #10265288).  WHY HAS THIS NOT BEEN ADDRESSED OR THE VEHICLE RECALLED?  ARE YOU WAITING FOR ANOTHER TRAGEDY LIKE THE ONE PREVIOUSLY REPORTED ON BY THE MEDIA?    I COULD HAVE BEEN KILLED. *TR",
+        "vin": "4T3ZF19C83U"
+    },
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "07/26/2009",
+        "dateOfIncident": "07/10/2009",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10278340,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AUTOMATIC SLIDING DOOR ON 2003 TOYOTA SIENNA FAILURE (PASSENGER SIDE).    THE DOOR STARTED TO HAVE PROBLEMS CLOSING COMPLETELY.  THE DOOR WOULD SENSE RESISTANCE AND OPEN, WHEN NO RESISTANCE WAS PRESENT DURING THE CLOSURE PROCESS.  WITHIN 30 DAYS THE DOOR NO LONGER MOVES AND IS PROVING A HAZARD TO ATTEMPT CLOSURE.  THERE IS NO TRUE MANUAL OVERRIDE TO OPENING OR CLOSING THE DOOR AS THE SENSORS KICK-IN.     WHEN THE DOOR IS EVENTUALLY CLOSED THE DOOR RATTLES WHILE DRIVING AND WE ARE NOT SURE IF THE DOOR IS REALLY SAFE.   TOYOTA OFFERS TO REPLACE ALL THE PARTS AND THE DOOR MOTOR FOR OVER $1800.00.  *TR",
+        "vin": "4T3ZF13C83U"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "07/08/2009",
+        "dateOfIncident": "06/24/2009",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10276150,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN PICKING UP MY VEHICLE FROM TOYOTA TOWN IN STOCKTON, CA, WE DISCOVERED THAT THE OIL LIGHT WAS ON FOLLOWING A 60,000 MILE SERVICE.  THE MECHANIC RELEASED THE VEHICLE TO US WITHOUT EXPLANATION.  THEN AFTER TWO VISITS IN THE SAME DAY TO THE SERVICE DEPARTMENT, MY HUSBAND DEMANDED AN EXPLANATION.  THE MECHANIC SAID IT WAS OUR PROBLEM THAT THERE WAS SLUDGE OR \"GEL\" IN THE OIL THAT WAS RELEASED WHEN HE REMOVED THE HEAD FOR SERVICING.  AFTER CHANGING THE OIL HIMSELF TWICE, MY HUSBAND SAW THE OIL LIGHT GO OFF.  THINKING THAT IT WAS SAFE TO DRIVE, WE TOOK IT ON THE HIGHWAY THE NEXT DAY.  WITHIN 100 MILES THE ENGINE FROZE, LEAVING US STRANDED ON A MAJOR INTERSTATE.  CURRENTLY, THE DEALER IS REFUSING TO FIX THE PROBLEM EVEN THOUGH TOYOTA RECENTLY SETTLED THIS PROBLEM WITH THE OWNERS OF THE 2002 MODELS.  OUR VAN IS A 2003.  THIS PROBLEM OBVIOUSLY CONTINUES TO EXIST. *TR",
+        "vin": ""
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "06/05/2009",
+        "dateOfIncident": "05/10/2009",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10272965,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 2003 TOYOTA SIENNA.  WHILE DRIVING LESS THAN 45 MPH, THE BRAKES FAILED TO RESPOND WHEN APPLIED.  THE DEALER PERFORMED A DIAGNOSTIC, WHICH VERIFIED THAT THE BRAKING SYSTEM FAILED.  THE ANTI-LOCK BRAKING SYSTEM WAS REPLACED AT THE COST OF $4,000 AT THE CONTACT'S EXPENSE.  THERE WERE NO RECALLS FOR THE FAILURE.  THE FAILURE AND CURRENT MILEAGES WERE LESS THAN 66,669.  UPDATED 03/01/10. *LJ  UPDATED 06/14/10.*JB",
+        "vin": "5TDZA23C44S"
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "05/31/2009",
+        "dateOfIncident": "04/25/2009",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10272432,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DROVE VEHICLE INTO A GAS STATION TO FILL UP WITH GAS. AFTER THIS WAS COMPLETED, RESTARTED VEHICLE AND USED GEAR SHIFT TO PUT THE VEHICLE INTO DRIVE. GEAR SHIFT LINKAGE INSIDE STEERING COLUMN BROKE. GEAR COULD NOT BE CHANGED. CAR WAS STUCK IN REVERSE.     FORTUNATELY, THIS PROBLEM OCCURRED AT A GAS STATION STAFFED WITH A MECHANIC. REPAIR TOOK ONE WEEK -- LOCAL TOYOTA DEALERSHIP ORDER WRONG PARTS TWICE BEFORE ORDERING THE CORRECT ONES.     OLD PARTS ARE AVAILABLE. *TR",
+        "vin": "4T3ZF13C03U"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "05/26/2009",
+        "dateOfIncident": "05/14/2009",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10269895,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DESIGN DEFECT ON HORN FOR 2003 TOYOTA SIENNA.  1. ONLY ONE OUT OF THE TWO HORN BOTTOM CONTACT PLATES IS ELECTRICALLY CONNECTED.  2.  THE STEERING WHEEL IS NOT DIRECTLY GROUNDED BY THE SPIRAL CABLE.  GROUND FROM SPIRAL CABLE IS USED FOR THE CRUISE CONTROL AND REMOTE RADIO CONTROL.  THE GROUND FOR THE HORN IS ONLY INDIRECTLY GROUNDED THROUGH THE SHAFT.  I JUST HAVEN'T USED THE HORN UNTIL RECENTLY.  HORN IS NOT RELIABLE.  SOME TIMES IT DOESN'T WORK.  ESPECIALLY WHEN PRESSING ON THE LEFT SIDE OF THE HORN PAD.  MANY PEOPLE HAVE BEEN COMPLAINING OF HORN MALFUNCTION ON TOYOTA CAR OWNER BOARDS AND TOYOTA NOT BEING ABLE TO REPAIR IT PROPERLY (REPLACING SPIRAL CABLE AND RELAY), ON MY VAN, THE CONNECTION TO THE RELAY IS MISSING (NEVER INSTALLED) ON THE LEFT SIDE CONTACT PLATE AND ACTIVE GROUND IS MISSING.  I HAVE NOT FIGURED OUT HOW TO FIX THESE SAFETY DEFECTS. *TR",
+        "vin": "4T3ZF13C13U"
+    },
+    {
+        "components": "LATCHES/LOCKS/LINKAGES",
+        "crash": false,
+        "dateComplaintFiled": "11/19/2008",
+        "dateOfIncident": "11/12/2008",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10249306,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CAR: TOYOTA SIENNA CE, 2003  RE: LATCHES, LOCKS, LINKAGE  YOU HAVE A NUMBER OF COMPLAINTS IN YOUR DATA BASE REGARDING LATCHES, LOCKS, LINKAGE. ON WHICH I ALSO HAVE A COMPLAINT.  I HAVE A STICKY (INSIDE) DOOR RELEASE BUTTON PROBLEM.  WHEN IT IS DEPRESSED, TO OPEN THE DOOR, THE BUTTON WILL NOT RETURN TO ITS NORMAL POSITION RESULTING IN NOT BEING ABLE TO KEEP THE DOOR CLOSED (LATCHES WILL NOT ENGAGE TO HOLD THE DOOR SHUT).  I ALSO HAD THIS PROBLEM IN 2005 (OTHER SLIDING DOOR), WHICH WAS FIXED UNDER WARRANTY (INVOICE #310955, 06DEC05).   DRIVING WITH THE DOOR UN-LATCHED IS DANGEROUS AND IS ALSO A SAFETY ISSUE.  BECAUSE OF THE MANY COMPLAINTS FILED UNDER THIS HEADING (BUT UNABLE TO DETERMINE IF STICKY BUTTON WAS THE REAL PROBLEM), IN YOUR DATA BASE, I WOULD LIKE TO SEE TOYOTA FIX THIS ITEM IF IT IS A PROBLEM. DEALER ESTIMATED COST TO FIX THIS PROBLEM IS $170 (INVOICE #425596, 12NOV08).  THEY INDICATED THAT THE ENTIRE DOOR HANDLE AND SUB-ASSEMBLY MUST BE REPLACED.  IT SEEMS TO ME THAT ALL IT NEEDS IS A NEW SPRING OF SOME SORT, BUT I MUST AGREE THAT I HAVE NO TECHNICAL KNOWLEDGE OF PROBLEM OR HOW IT WORKS.  THE HANDLE (NON-MOVING PART, BOTH INSIDE AND OUTSIDE) LOOKS GOOD AND IS NOT DAMAGED OR DIRTY IN ANY WAY (VISUAL INSPECTION). *TR",
+        "vin": "4T3ZF19C73U"
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "11/09/2008",
+        "dateOfIncident": "11/08/2008",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10248048,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Toyo Tire Holdings of Americas, Inc.",
+                "productMake": "TOYO",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "4 TIRES PURCHASED FROM ARMY AIR FORCE EXCHANGE SERVICE, (AAFES) ON 20 NOV 2006 FOR A 2003 TOYOTA SIENNA VAN.  I HAVE HAD TO TAKE IT BACK TO GET THE VALVE STEMS REPLACED. FIRST INCIDENT WAS 10 OCT 2008, THE SECOND OCCURRENCE JUST HAPPENED AND WILL BE REPLACED ON THE 11TH. *TR",
+        "vin": ""
+    },
+    {
+        "components": "LATCHES/LOCKS/LINKAGES",
+        "crash": false,
+        "dateComplaintFiled": "11/06/2008",
+        "dateOfIncident": "10/12/2008",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10247819,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE PASSENGER DOOR HANDLED BROKE ON THE BACK SIDE SLIDING DOOR. IT WAS REPAIRED BUT NOW TO OPEN THE DOOR FROM THE INSIDE YOU HAVE USE BRUTE STRENGTH. IT WILL NOT OPEN EASILY AND THE SHOP IS STATING THERE IS NOTHING WRONG WITH IT. HOWEVER, THE DRIVER SLIDING DOOR OPENS WITH EASE EVEN BY A 10 YR OLD. I SAW ON MANY BLOGS THAT MANY PEOPLE HAVE THE SAME PROBLEM. THIS IS A SAFETY ISSUE AND MOST PLACES (SCHOOL) AND CAMPS AND ANY PLACE ELSE YOU ARE GOING TO TAKE YOUR KIDS, THEY WILL HAVE TO GET OUT ON THE PASSENGER SIDE. IT IS NOT SAFE FOR THEM TO HAVE TO GO INTO TRAFFIC TO GET OUT OF THE CAR. THEN WHAT IF THE SAME THING HAPPENS TO THE OTHER DOOR. WILL THE CHILDREN BE FORCED TO CLIMB THROUGH THE FRONT TO GET OUT, WHAT IF THERE IS AN ACCIDENT AND THE FRONT DOORS ARE INACCESSIBLE, HOW WILL THE PEOPLE IN THE BACK GET OUT. THIS IS VERY UNSAFE. *TR",
+        "vin": "4T3ZF19C53U"
+    },
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "09/24/2008",
+        "dateOfIncident": "09/22/2008",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10243306,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "UNINTENDED HIGH SPEED ACCELERATION  I WAS ACCELERATING TO MERGE ONTO THE HIGHWAY AND I BRIEFLY USED THE BRAKES TO ALLOW A LARGE TRUCK TO GO PAST BEFORE MERGING. I'M NOT SURE IF I THEN PUT MY FOOT ON THE ACCELERATOR OR THE BRAKE, BUT THE 2003 TOYOTA SIENNA BEGAN ACCELERATION ON ITS OWN AS THOUGH THE CRUISE CONTROL HAD BEEN SET AT 100 MPH AND IT WAS TRYING TO GET THERE!  I DID NOT HAVE THE CRUISE CONTROL ON AT THE TIME. I THEN PUT ON THE BRAKES TO REDUCE MY SPEED, AND I WAS ABLE TO REDUCE THE SPEED BUT THE BRAKES WERE DEFINITELY FIGHTING AGAINST THE VEHICLE'S DESIRE TO GO 100 MPH. I PULLED THE CAR OFF AT THE NEXT EXIT AND WAS UNSURE OF THE BEST WAY TO STOP THE VEHICLE. MY 2 KIDS WERE IN THE BACK SEAT AND MY DAUGHTER WAS SAYING SHE WAS VERY SCARED. I CONTINUED TO APPLY THE BRAKES AND PULLED OVER. I TURNED THE IGNITION OFF WHILE THE VAN WAS STILL MOVING JUST TO GET IT TO STOP. AFTER 5-10 SECONDS I TURNED THE CAR ON AGAIN AND THE ENGINE WAS STILL REVVING AT A HIGH RPM. I TURNED IT OFF AGAIN, WAITED A WHILE LONGER, AND WHEN I TURNED IT ON AGAIN THE VAN BEHAVED NORMALLY. I FEAR THAT IN A DIFFERENT SITUATION THIS COULD HAVE RESULTED IN A SERIOUS ACCIDENT OR INJURY. IF ANYONE HAD BE IN FRONT OF ME AND I HAD NEEDED TO STOP QUICKLY, I WOULD HAVE BEEN UNABLE TO STOP. MY MECHANIC CHECKED OUT THE CAR YESTERDAY AND FOUND NOTHING WRONG.  HIS GUESS IS THAT THE CRUISE CONTROL ACTUATOR DID NOT FUNCTION PROPERLY.  I READ ABOUT OTHER SIMILAR INCIDENTS INVOLVING UNINTENDED ACCELERATION WITH TOYOTA SIENNAS.  THIS IS A SERIOUS PROBLEM THAT NEEDS IMMEDIATE ATTENTION.  *TR",
+        "vin": "4T3ZF19C63U"
+    },
+    {
+        "components": "SEAT BELTS",
+        "crash": true,
+        "dateComplaintFiled": "05/12/2008",
+        "dateOfIncident": "05/11/2008",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 3,
+        "odiNumber": 10227519,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE FRONT AND SECOND ROW SEAT BELTS DIDN'T HOLD IN A REAR END CRASH CAUSING THE DRIVER TO STRIKE HER HEAD ON THE STEERING WHEEL AND A JUVENILE IN THE SECOND ROW TO STRIKE HER HEAD ON THE REAR OF THE DRIVER'S SEAT.  *TR",
+        "vin": ""
+    },
+    {
+        "components": "STRUCTURE,LATCHES/LOCKS/LINKAGES",
+        "crash": false,
+        "dateComplaintFiled": "05/09/2008",
+        "dateOfIncident": "05/01/2004",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10227131,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "MY MINIVAN PASSENGER DOORS INTERMITTENTLY EITHER FAIL TO OPEN OR CLOSE PROPERLY.  MOST OFTEN THE DOORS WON'T OPEN AND PASSENGERS CANNOT EXIT WITHOUT CRAWLING THROUGH TO THE OTHER SIDE OR FRONT.  OCCASIONALLY THE DOORS WILL NOT CATCH WHEN CLOSED, FORCING ME TO DRIVE SLOWLY WITH HAZARDS UNTIL IT GETS \"UNSTUCK\".  I'VE HAD THESE PROBLEMS INTERMITTENTLY SINCE THE VAN WAS LESS THE 1 YEAR.  THE DEALER HAS TENDED TO BLAME ME OR MAKE A REPAIR WHICH HASN'T LASTED.  MOST RECENTLY THEY REPLACED A DOOR HANDLE AND SUPPOSEDLY ADJUSTED A CABLE AND TOLD ME THE PROBLEM WAS FIXED AND GUARANTEED FOR 6 MONTHS AND THEN WANTED TO CHARGE FOR ADDITIONAL PARTS AND SERVICE WHEN BROUGHT BACK IN 5 WEEKS LATER WITH ONGOING PROBLEMS.  IN REVIEWING YOUR WEBSITE THIS IS A PROBLEM WHICH HAS BEEN REPORTED BY OTHERS.  SOMETIMES THE THUMB PIECE STICKS, OTHER TIMES THE HANDLE FAILS TO OPEN THE DOOR.  A THIS POINT BOTH DOOR HANDLES HAVE BEEN REPLACED AND YET PROBLEMS STILL OCCUR, ESPECIALLY WHEN IT IS HOT AND HUMID OR VERY COLD.  DATE GIVEN IS WHEN PROBLEM FIRST STARTED, STILL OCCURS IN 2008.  *TR",
+        "vin": "4T3ZF19C73U"
+    },
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "04/24/2008",
+        "dateOfIncident": "04/20/2008",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10225621,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE LEFT 2ND ROW SEATBELT REPEATEDLY GETS TWISTED IN THE MECHANISM AND WILL NOT WORK. I SEE THERE IS A RECALL ON 2004 MODELS BUT NOT THE 2003.  *TR",
+        "vin": "4T3ZF19C33U"
+    },
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "03/28/2008",
+        "dateOfIncident": "05/01/2007",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10222563,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "MAKE: TOYOTA SIENNA 2003    WINDSHIELD SEAL IS COMING OUT. ON BOTH DRIVER AND PASSENGER SIDE, CAUSING WIND NOISE. I SEARCHED INTERNET LOT OF PEOPLE HAVE COMPLAINS ON WINDSHIED SEALS. MY FRIEND HAVE HONDA ODYSSEY, HAND HAVE NO PROBLEM (7 YEARS OLD CAR).  *TR",
+        "vin": ""
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "02/28/2008",
+        "dateOfIncident": "02/28/2008",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10219592,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "TOYOTA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "REAR MAIN SEAL LEAK, LARGE AMOUNT.  *TR",
+        "vin": "JTEGH20V830"
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "10/31/2007",
+        "dateOfIncident": "07/01/2007",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10207559,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "TOYOTA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I HAVE A 2003 4RUNNER THAT HAS A HORRIBLE CLUNKING SOUND THAT HAPPENS AT RANDOM. THE TOYOTA DEALER HAS ATTEMPTED TO FIX IT 3 TIMES. IT WILL HAPPEN WHEN COMING TO A STOP OR STARTING FROM A STOP. IT'S VERY ANNOYING AND NOT VERY COMFORTING. IF THE DRIVESHAFT IS SLAMMING AND MAKING THIS NOISE, I CAN'T IMAGING ANYONE THINKING THAT IS VERY SAFE. THE THING COULD BREAK AT ANY MOMENT. WHO KNOWS WHAT DAMAGE THE SLAMMING DOES TO IT! TOYOTA NEEDS TO FIX THIS BEFORE SOME GETS HURT FROM IT.  *TR",
+        "vin": ""
+    },
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "10/21/2007",
+        "dateOfIncident": "09/10/2007",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10206433,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "TOYOTA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BACK HATCH UNLOCKED AND FLEW OPEN ON HIGHWAY WHILE I HAD CUSTOMERS IN MY 4 RUNNER.  PULLED OVER AND TRIED TO SHUT...WOULD NOT SHUT.  HAVING TO DRIVE NOW WITH BACK TAILGATE TIED SHUT.  EXHAUST COMES IN THROUGH BACK OF VEHICLE.  HAVING REPAIRED ON 10/24 FOR A COST OF OVER $400!  *TR",
+        "vin": "JTEBT17R030"
+    },
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "10/16/2007",
+        "dateOfIncident": "10/12/2007",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10205847,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WE WERE DRIVING OUR 2003 TOYOTA SIENNA XLE LIMITED DOWN THE STREET AT APPROXIMATELY 25 MPH WHEN THE MOONROOF SHATTERED. THE SHATTERED WAS SPONTANEOUS AND MADE A LOUD POPPING NOISE WHEN IT OCCURRED. THERE WAS NO IMPACT FROM A ROCK, DEBRIS OR OBJECT AT OR PRIOR TO IMPACT. THE MOONROOF/SUNROOF SHATTERED INTO PIECES. AFTER RESEARCH ON-LINE, I SEE THERE WAS MULTIPLE COMPLAINTS FROM OWNERS OF TOYOTA TACOMA, SCION AND SIENNA.  *JB",
+        "vin": ""
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "09/26/2007",
+        "dateOfIncident": "07/17/2007",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10204188,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "TOYOTA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 2003 TOYOTA CAMRY.  THE CONTACT HEARD A LOUD TICKING AND RATTLING NOISE COMING FROM UNDER THE HOOD WHEN THE VEHICLE WAS STARTED.  SHE IMMEDIATELY TOOK THE VEHICLE TO A DEALER AND THEY PERFORMED A DIAGNOSTIC TEST.  THE TEST INDICATED THAT THE INTAKE MANIFOLD WAS SEPARATING FROM THE INSIDE.  THE DEALER STATED THAT THE VEHICLE HAD TOO MANY MILES TO BE COVERED UNDER WARRANTY.  THE VEHICLE HAS NOT BEEN REPAIRED.  THE VIN WAS UNKNOWN.  THE CURRENT AND FAILURE MILEAGES WERE 62,000.",
+        "vin": ""
+    },
+    {
+        "components": "LATCHES/LOCKS/LINKAGES",
+        "crash": false,
+        "dateComplaintFiled": "09/25/2007",
+        "dateOfIncident": "09/23/2007",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10204065,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 2003 TOYOTA SIENNA.  WHILE DRIVING 55 MPH, THE VEHICLE'S HOOD BLEW OPEN AND DAMAGED THE WINDSHIELD AND   ROOF.  THE CONTACT WAS ABLE TO PULL OFF THE ROAD AND DISCOVERED THAT THE HOOD LATCH FAILED.  HE FELT THAT THE LATCH WAS DEFECTIVE.  THE VEHICLE WAS TOWED TO THE DEALER, HOWEVER, THEY WERE UNABLE TO DETERMINE THE CAUSE OF FAILURE.  THE INSURANCE COMPANY IS SCHEDULED TO EVALUATE THE VEHICLE.  THE CURRENT AND FAILURE MILEAGES WERE 65,000.",
+        "vin": "4T3ZF19C13U"
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "08/21/2007",
+        "dateOfIncident": "07/11/2007",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10200346,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "MY VEHICLE IN THE LAST 6 MONTHS HAS STARTED EXPERIENCING A HESITATION WHEN SHIFTING GEARS.  TOOK TO THE DEALER TO CHECK, AND THEY UPDATED WITH THE PATCH.  CAR CONTINUES TO HAVE PROBLEMS. THE DEALER IS CALLING IT A \"HARD SHIFT\" THAT IS NORMAL FOR THIS VEHICLE EVEN THOUGH IT DIDN'T DO IT THE FIRST 2 YEARS OF OWNERSHIP. CAR IS ALMOST OUT OF ITS 60K WARRANTY, AND THEY INDICATE THEY CAN'T DO ANYTHING ELSE TO FIX.  *TR",
+        "vin": "5TDBA23C54S"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "08/02/2007",
+        "dateOfIncident": "06/01/2007",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10198341,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "OUR 2003 SIENNA VAN (TOYOTA) HAS BEGUN THROWING BLUE SMOKE OUT THE EXHAUST. WE TOOK IT TO A MECHANIC THAT TOLD US THAT IT'S A VALVE,RING SLUDGE PROBLEM IN THE MOTOR . HE SAID IT'S BEEN HAPPENING TO THIS PARTICULAR MODEL . I RESEARCHED IT ON GOOGLE AND FOUND THIS WEBSITE FROM OTHER OWNERS OF SIENNAS. FROM WHAT I UNDERSTAND TOYOTA HAS NOT BEEN WILLING TO FIX THIS PROBLEM AND HAS IN FACT FOUND A \"LOOPHOLE\"THROUGH AN ACKNOWLEDGEMENT OF THE PROBLEM. SO, HERE I AM WITH MY COMPLAINT. HOPE THAT YOU CAN HELP US OUT AS I DO NOT HAVE THE FUNDS TO BUY A NEW ENGINE. THANK YOU. *JB",
+        "vin": ""
+    },
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "04/10/2007",
+        "dateOfIncident": "03/01/2007",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10187457,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2003 TOYOTA SIENNA CE 5-DOOR V6 W 59K MILES.  OUTSIDE DOOR HANDLE ON DRIVER'S SIDE SLIDING DOOR BROKE.  DOOR CANNOT BE OPEND FROM OUTSIDE AFTER THE BREAK.*AK",
+        "vin": "4T3ZF19C03U"
+    },
+    {
+        "components": "SEAT BELTS,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "04/09/2007",
+        "dateOfIncident": "02/01/2007",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10187409,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "CROWN",
+                "productYear": "1968",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I HAD TO REPLACE THE 3RD ROW SEAT BELTS IN 2003 SEINNA 3 TIMES  ON EACH SIDE.  THE SEAT BELT LOCKED AT TOP AND WILL NOT FIT ARROUND MY CHILDREN OR IT WAS  TOO LOOSE.  IT HAS  BEEN A A SAFTY ISSUE NUMEROUS TIMES WHEN IT BROKE ON VACATION , AND MY CHILD HAD TO SEAT UP FRONT. *AK",
+        "vin": "4T3ZF13CX3U"
+    },
+    {
+        "components": "LATCHES/LOCKS/LINKAGES",
+        "crash": false,
+        "dateComplaintFiled": "01/08/2007",
+        "dateOfIncident": "01/08/2007",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10178117,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "TOYOTA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "POWER LOCKS - BEGINNING IN 2006, THE DRIVER SIDE/REAR POWER LOCK IN MY 2003 TOYOTA CAMRY SE BEGAN TO FAIL. THE FAILURE BEGINS WITH INTERMITTENT FUNCTIONING OF THE LOCKS - THE DOORS WILL LOCK/UNLOCK UNPREDICTABLY.  I CONSIDER THIS TO BE A SAFETY ISSUE FOR A COUPLE OF REASONS - CHILDREN IN THE CAR AND THE RISK OF THEFT FROM A CAR THAT FAILED TO LOCK.  I TOOK MY CAR TO THE DEALERSHIP AND THE PART WAS COVERED UNDER MY EXTENDED WARRANTY. (I ALSO HAVE A PROBLEM WITH THE INTAKE MANIFOLD).  *NM",
+        "vin": ""
+    },
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "12/22/2006",
+        "dateOfIncident": "12/15/2006",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10176841,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE SEAT BELT ON THE SECOND ROW OF THE TOYOTA SIENNA MINIVAN, BECOME INOPERATIVE UNDER NORMAL CONDITIONS. THE SEAT BELT WILL NOT RETRACT MAKING THE SEAT USELESS.  *NM",
+        "vin": ""
+    },
+    {
+        "components": "LATCHES/LOCKS/LINKAGES",
+        "crash": false,
+        "dateComplaintFiled": "12/08/2006",
+        "dateOfIncident": "11/20/2006",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10175573,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DT*: THE CONTACT STATED THE SLIDING SIDE DOORS OF THE VEHICLE WOULD NOT STOP CLOSING IF THERE WAS AN OCCUPANT IN THE WAY.  THE DEALER AND MANUFACTURER WERE NOT CONTACTED.",
+        "vin": "4T3ZF13C73U"
+    },
+    {
+        "components": "LATCHES/LOCKS/LINKAGES",
+        "crash": false,
+        "dateComplaintFiled": "11/20/2006",
+        "dateOfIncident": "11/01/2006",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10173899,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DT*: THE CONTACT STATED THE SLIDING DOOR FAILED TO OPEN.  THE MANUFACTURER WAS CALLED WHO DETERMINED THE VEHICLE WAS NOT UNDER WARRANTY. THE CONTACT WOULD BE CHARGED FOR ANY WORK DONE TO THE VEHICLE.  SO THUS FAR THE CONTACT HAS NOT TAKEN THE VEHICLE TO THE SERVICE DEALER TO ADDRESS THE ISSUE.*AK",
+        "vin": "4T3ZF13CX3U"
+    },
+    {
+        "components": "LATCHES/LOCKS/LINKAGES",
+        "crash": false,
+        "dateComplaintFiled": "08/23/2006",
+        "dateOfIncident": "07/19/2006",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10166372,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE SLIDING DOOR ON MY SIENNA SYMPHONY JUST QUIT WORKING. THE DOOR WAS OPENED AUTOMATICALLY AND JUST QUIT CLOSING USING THE SAME 'AUTO OPEN/CLOSE BOTTOM'. I HAVE NOT BEEN ABLE TO USE THE AUTO SYSTEM SINCE. MY BIGGEST CONCERN IS SINCE THEN THE DOOR CANNOT BE OPENED MANUALLY FROM INSIDE AND ONE HAS TO GET OUT TO OPEN FROM OUTSIDE. THIS IS VERY DANGEROUS IN CASE OF AN EMERGENCY AND THE LEAVING THE VAN BECOMES LIFE AND DEATH SITUATION.  *JB",
+        "vin": ""
+    },
+    {
+        "components": "LATCHES/LOCKS/LINKAGES",
+        "crash": false,
+        "dateComplaintFiled": "06/30/2006",
+        "dateOfIncident": "06/30/2006",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10161130,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DT: THE CONTACT STATED THE BUTTON USED TO OPEN THE SLIDING DOORS JAMMED.  THE OCCUPANTS IN THE BACK SEAT WERE UNABLE TO EXIT THE VEHICLE.  THE DEALERSHIP HAS BEEN ALERTED.   UPDATED 7/25/2006 - THE CONSUMER LUBRIACTED THE BUTTON AND NOW THE DOOR WORKS.  *NM",
+        "vin": "4T3ZF13C03U"
+    },
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "06/30/2006",
+        "dateOfIncident": "06/22/2006",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10161148,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DT*:  THE CONTACT STATED IN HOT, HUMID WEATHER,  THE REAR DOORS WERE CLOSED AND WOULD NOT OPEN. IF THE OPENED, THEY WOULD NOT CLOSE.  THIS PROBLEM OCCURRED INTERMITTENTLY.  THE DEALER HAS REPLACED THE DRIVER SIDE OPENER WITH NO SUCCESS.  THE DEALER CAN NOT DUPLICATE THE PROBLEM.",
+        "vin": "4T3ZF19C73U"
+    },
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "06/21/2006",
+        "dateOfIncident": "06/14/2006",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10160357,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I SECURED A BOX SPRING TO THE FACTORY INSTALLED ROOF RACK. THIS LOAD WAS WITHIN THE OWNERS MANUAL SPECS FOR WEIGHT AND SIZE LIMITS. AT APPROXIMATELY 45 MPH THE RACK SHEARED AT THE CONNECTION POINT WHERE THE RAIL THAT RUNS FROM BACK TO FRONT MEETS THE PLASTIC FOOT WHICH MOUNTS TO THE ROOF WITH 2 BOLTS AND EXPANSION NUTS. THE BOX SPRING FLEW OFF THE TOP OF THE VEHICLE AND WENT SKIDDING DOWN THE ROAD AND  WAS DAMAGED BEYOND REPAIR. SO FAR THE DEALERSHIP HAS REFUSED TO REPAIR OR REPLACE THE ROOF RACK. ACCORDING TO THEM A BOX SPRING PUTS TO MUCH STRESS ON THE RACK AND SHOULD NOT HAVE BEEN LOADED ON THE VEHICLE. THE OWNERS MANUAL DOES NOT MAKE ANY MENTION OF THIS AND THERE ARE NO SAFETY LABELS ON THE RACK ITSELF. THIS LOAD ACCORDING TO THE MANUAL WAS ACCEPTABLE. IT WAS FORTUNATE THAT THERE WERE NO VEHICLES BEHIND ME AT THE TIME. THE BOX SPRING COULD HAVE CAUSED SERIOUS INJURY OR DEATH IF IT HAD HIT ANOTHER VEHICLE. WHEN I FIRST CALLED THE DEALER AFTER THE PROBLEM I ASKED ONLY WHETHER THE ROOF RACK SHOULD BE ABLE TO HANDLE HAVING A FULL SIZE BOX SPRING ON IT. THE PERSON I ASKED TOLD ME IT WOULD BE ABLE TO HANDLE THE LOAD. I THEM LET THEM HIM KNOW WHAT HAPPENED. NOW THEY ARE SAYING IT WASN'T DESIGNED FOR THIS. BUT IT SHOULD HAVE BEEN ABLE TO WITHSTAND THE PRESSURE AND STRESS CREATED BY THIS ITEM. IT VERY WELL COULD HAVE BEEN A CANOE, KAYAK, BICYCLE OR ANY NUMBER OF OTHER ITEMS AND ALSO AT SPEEDS MUCH GREATER THAN THE 45 MPH THAT I WAS TRAVELING. *JB",
+        "vin": "4T3ZF19C23U"
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "02/26/2006",
+        "dateOfIncident": "02/23/2006",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10151246,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "STEEL BELTED RADIAL",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "FIRESTONE TIRES 205/70R15, THIS IS THE 3RD TIRE OF 4 THAT HAS SPLIT. THE TREAD HAS SPLIT AWAY FROM THE BELT WITH PLENTY OF TREAD LEFT ON THE TIRE.  I DRIVE THE FREEWAY 27 MILES EACH WAY TO WORK AND I COULD HAVE HAD A TERRIBLE ACCIDENT.  ONE OF THE 3 DID BLOW BUT I WAS GOING SLOW AND I DID NOT ROLL THE CAR.  *JB",
+        "vin": ""
+    },
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "02/08/2006",
+        "dateOfIncident": "02/01/2006",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10149812,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DT*:  THE CONTACT STATED ALL REAR SEAT BELTS ARE JAMMED AND WILL NOT PULL OUT FOR USE.  THE DEALERSHIP INSPECTED AND DETERMINED THE SEAT BELTS NEEDED TO BE REPLACED HOWEVER, NO REPAIRS HAVE BEEN MADE.  THE MANUFACTURER HAS BEEN ALERTED.",
+        "vin": ""
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "12/30/2005",
+        "dateOfIncident": "05/01/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10146608,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DT: THE CONTACT COMPLAINED ABOUT  ABS PROBLEMS.  HE TOOK THE VEHICLE TO THE DEALERSHIP SEVEN  TIMES. THE DEALERSHIP WAS UNABLE TO DUPLICATE THE PROBLEM.  THE CONTACT FELT  THIS WAS A SAFETY PROBLEM.  *AK",
+        "vin": "4T3ZF19C53U"
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "07/24/2005",
+        "dateOfIncident": "07/20/2005",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10129829,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "FR680",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "I WAS DRIVING HOME FROM WASHINGTON STATE, AND NOTICED THAT MY DRIVER'S SIDE REAR TIRE TREAD WAS SEPERATING FROM THE SIDEWALL AND STEAL.  MY SON THEN FOUND THAT THE PASSANGER REAR WAS DOING THE SAME THING.   I HAD TO CALL HOME AND FIND THE CLOSEST PLACE TO REPLACE THE TIRES.  EUGENE. OR. WAS THE CLOSEST AND IT WAS 49 MILES.  ABOUT 15 MILES OUTSIDE OF EUGENE, THE TREAD ON THE DRIVERS SIDE WAS THROWN OFF OF MY CAR AND CAUSED DAMAGE TO MY VAN.  I REGAINED CONTROL AND GOT THE CAR TO COSTCO WHERE I REPLACED ALL 4 TIRES.",
+        "vin": "4T3ZF19C93U"
+    },
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "05/04/2005",
+        "dateOfIncident": "05/02/2005",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10119716,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONTACT STATED: DRIVER'S SIDE WINDOW EXPLODED IN A THOUSAND OF PIECES OF GLASS WITH NO APPARENT CAUSE WHILE DRIVING 65-68 MPH ON FREEWAY. JUST DRIVING ALONG AND THE WINDOW EXPLODED WITH NO OUTSIDE DAMAGE EXCEPT THE DAMAGE DONE BY THE GLASS. THERE WERE NO EXTERNAL CAUSES.  WAS CHECKED BY A STATE TROOPER. DEALER TOLD CONSUMER THAT THIS WAS RARE, AND HAD HAPPENED AT THE DEALERSHIP ONCE BEFORE. CONFIRMED THAT IT WAS CAUSED BY STRESS ON THE GLASS. THIS WAS BEING FIXED UNDER WARRANTY, AND REPAINTED THE DAMAGED PARTS.*AK",
+        "vin": "5TDBA22C54S"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "04/02/2005",
+        "dateOfIncident": "03/25/2005",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10116273,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WE OWN A 2003 TOYOTA SIENNA THAT WE BOUGHT NEW IN JANUARY 2003. DURING MARCH 2005, NOTICED KNOCKING SOUND COMING FROM ENGINE DURING COLD STARTUPS. TOOK TO TOYOTA AND AFTER 4 DAYS OF VARIOUS REMEDIES WHICH DIDN'T WORK (CATALYTIC CONVERTER REPLACEMENT, OIL CHANGE, ENGINE CLEANING), THEY CHALKED IT UP TO A \"KNOWN PROBLEM\" WITH \"PISTON SLAP\" AND SAID IT CAN'T BE FIXED, THAT \"THEY ALL DO IT\", AND RETURNED VAN TO US.*AK",
+        "vin": ""
+    },
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": true,
+        "dateComplaintFiled": "02/25/2005",
+        "dateOfIncident": "02/15/2005",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10113075,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE ACCELERATED TO 85 MPH, WHILE ON THE HIGHWAY.   THE CONSUMER PASSED SEVERAL VEHICLES, CHANGING LANES, TO AVOID A COLLISION.    THE CONSUMER PROCEEDED TO  STRIKE A   CONCRETE BARRIER.  NO INJURIES WERE SUSTAINED.  *NM",
+        "vin": "PLEASE PROV"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "01/31/2005",
+        "dateOfIncident": "01/24/2005",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10108307,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "CROWN",
+                "productYear": "1968",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TOYOTA SIENNA 2003 BRAND NEW CAR THE BATTERY LEAK AND CAUSE THE RADIATOR DAMAGE DEALER STATE THAT THIS IS NOT A WARRATY REPAIR. THIS IS A WARRANTY REPAI AND THATS WHAT THE LEMON LAW SAYS . THE DEALER WHICH IS BAY RIDGE TOYOTA AND MAN WHO IS MANAGER TOM SCARPACCI SAYS THIS IS NOT WARRANTY REPAIR.  *AK",
+        "vin": "4T3ZF13C53U"
+    },
+    {
+        "components": "POWER TRAIN,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "01/03/2005",
+        "dateOfIncident": "12/29/2004",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10105619,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "TRAILER HARNESS",
+                "productYear": "1999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "CAR WOULD NOT GO OVER 45-50 MPH.   CURRENTLY  AT DEALERSHIP FOR A NEW TRANSMISSION .  *AK",
+        "vin": "4T3ZF13CX3U"
+    },
+    {
+        "components": "LATCHES/LOCKS/LINKAGES",
+        "crash": false,
+        "dateComplaintFiled": "11/29/2004",
+        "dateOfIncident": "08/31/2004",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10101753,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "UPON DEPRESSING THE BUTTON FOR BOTH SLIDING DOORS CONSUMER HAS TO PUT BODY AGAINST IT TO MAKE IT DISENGAGE. CONSUMER DOES NOT HAVE A PROBLEM WITH CLOSING THE DOOR. THE EXTERNAL HANDLER WILL NOT RELEASE THE LOCK TO OPEN THE DOOR. TOOK  VEHICLE  TO DEALER AND HAD THE DOORS GREASED. BUT, IT DID NOT HELP THE PROBLEM. *AK",
+        "vin": "4T3ZF19C23U"
+    },
+    {
+        "components": "LATCHES/LOCKS/LINKAGES",
+        "crash": false,
+        "dateComplaintFiled": "11/09/2004",
+        "dateOfIncident": "11/01/2004",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10098510,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SLIDING DOORS ON THE 2003 TOYOTA SIENNA VAN MAY LOCK AND PROVE UNABLE TO OPEN FROM THE INSIDE OR OUTSIDE, TRAPPING OCCUPANTS.*AK",
+        "vin": ""
+    },
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "10/05/2004",
+        "dateOfIncident": "03/10/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10093602,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "MY 2003TOYOTA SIENNA  HAS A DISTINCT PROBLEM WITH PULLING . THE VEHICLE HAS BEEN IN TO THE DEALERSHIP 6 TIMES SINCE MARCH OF 2003 . THE FRONT END WAS REALIGNED WITH 231 MILES AND THE TIRES WERE REPLACED AT THAT TIME. SINCE THAT INITIAL REALIGNMENT THE VEHICLE HAS CONTINUED TO PULL AND HAS BEEN RE-EXAMINED, REALIGNED AND TESTD 5 MORE TIMES. THE VEHICLE'S 4 TIRES WERE REPLACED ON OCTOBER 1ST AND IT WAS AGAIN REALIGNED. THE VEHICLE STILL PULLS AND ON OCT. 4TH THE SERVICE MANAGER AGAIN TEST DROVE THE VAN AND NOW STATES THAT A \" SHIM PAK\" NEEDS TO BE PLACED IN THE REAR. THIS IS UNNACCEPTABLE FOR A VEHICLE WITH 18,000 MILES ON IT. I FEAR THAT IT IS A TEMPORARY FIX FOR A SEVERE  UNREPAIRABLE  PROBLEM .  *AK",
+        "vin": ""
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "09/28/2004",
+        "dateOfIncident": "08/23/2004",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10094520,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE IN PARK VEHICLE SHIFTED OUT OF PARK INTO REVERSE. CONSUMER MANAGED TO TURN OFF THE VEHICLE FROM THE PASSENGER'S SIDE.  DEALERSHIP WAS NOTIFIED, BUT DID NOT RESOLVE THE PROBLEM. *AK....VEHICLE WA SIN PARK AND NOT RUNNING. CONSUMER WENT TO TURN OFF MOTOR FROM THE PASSENGER'S SIDE AND VEHICLE WENT INTO REVERSE,  AS CONSUMER BACKED OUT AFTER CHECKING THE GEAR SHIFT TO BE SURE IT WAS SRILL IN PARK POSITION. THE FRONT DOORKNOCKED CONSUMER DOWN WHEN HE TRIED TO GET OUT OF THE VEHICLE. WHILE LYING ON THE GROUND THE FRONT WHEEL ON THE RIGHT LEFT SIDE OF CONSUMER. HE SUSTAINED SEVERAL BROKEN RIBS, ROAD RASH TO RIGHT LEG, BURNS ON ARMS, SIDE AND LEG. WAS HOSPITALIZED  AND HAD PHYSICAL THERAPY.  *AK",
+        "vin": "4T3ZF19C43U"
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "07/06/2004",
+        "dateOfIncident": "04/10/2004",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10080407,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "DUNLOP TIRE CORPORATION",
+                "productMake": "DUNLOP",
+                "productModel": "SP-4",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "SO FAR THERE IS NO FAILURE OF MY DUNLOP SP-40 TIRES OTHER THAN POOR TREAD WEAR.  AT 17,000 MILES I WAS TOLD I NEEDED NEW TIRES.  THE DUNLOP TIRES ARE SUPPOSED TO HAVE A 60,000 MILE LIFE.  TOYOTA IS NOT ANY HELP AS OF THIS DATE.  I ALSO E-MAILED DUNLOP MY COMPLAINTS AND GOT NO RESPONSE FROM THEM.  I WAS TOLD THEY WERE JUST CHEAP TIRES.  I KNOW FOR A FACT THAT MY TIRES HAVE BEEN ROTATED AT LEAST TWICE AND POSSIBLY A THIRD TIME.  I REALLY DON'T FEEL THAT THE WEAR IS FROM POOR MAINTENANCE.  I AM A STAY AT HOME MOTHER WHO DRIVES VERY LITTLE.  IF SOMEONE WILL CHECK INTO THIS, I BELIEVE THERE HAVE BEEN NUMEROUS COMPLAINTS BOTH TO TOYOTA AND DUNLOP REGARDING THE WEAR OF THESE TIRES ON THE SIENNA MINIVANS!!  *NM",
+        "vin": "4T3ZF19CX3U"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "06/22/2004",
+        "dateOfIncident": "06/22/2004",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10079651,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE APPLYING THE BRAKES PEDAL WENT TO THE FLOOR.  A LOUD SQUEAKING NOISE WAS HEARD COMING FROM THE FRONT.  VEHICLE  SHOOK UNCONTROLLABLY.  CONSUMER WAS ABLE TO MAINTAIN CONTROL OF THE VEHICLE, AND DROVE IT TO THE DEALER FOR INSPECTION, AND  MECHANIC DETERMINED THAT BOTH FRONT BRAKE PADS AND ROTORS NEEDED TO BE REPLACED.*AK",
+        "vin": "4T3ZF13C03U"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "05/20/2004",
+        "dateOfIncident": "01/01/1901",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10062829,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN BRAKING VEHICLE ROLLED FORWARD.   DRIVER DEPRESSED THE BRAKE PEDAL AND THE BRAKES SQUEAKED.  IT FELT LIKE VEHICLE CONTINUED TO ACCELERATE.  *AK  THE CONSUMER STATED THAT THE VEHICLE CREPT FORWARD WHILE STOPPED AT AN INTERSECTION WITH THE BRAKE APPLIED.  *NM",
+        "vin": "4T3ZF19C93U"
+    },
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "03/17/2004",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10063443,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING, VEHICLE PULLED TO THE LEFT.  *LA  THE PULLING INCREASED AS THE CONSUMER DROVE FASTER. THE VEHICLE WAS TAKEN TO THE DEALER ON NUMEROUS OCCASIONS WITH NO RESULTS. A FACTORY REPRESENTATIVE LOOKED AT THE VEHICLE AND STATED THE VEHICLE WAS NORMAL.  A MECHANIC AT THE TOYOTA DEALERSHIP TOLD THE CONSUMER IN HIS OPINION, THE VEHICLE NEEDED A STEERING GEAR BOX.  *JB",
+        "vin": "4T3ZF13C73U"
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "03/03/2004",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10061800,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER WAS INFORMED THAT THE LOUD/SQUEAKING GRINDING NOISE IN THE REAR AXLE WAS NORMAL AND THAT IT'S A HARMONIC DISTORTION ON THE REAR AXLE.  *PH  *NM",
+        "vin": "4T3ZF19C63U"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "02/18/2004",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10059252,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATED WHILE TRAVELING 15-30  MPH  DEPRESSED BRAKES AND  PEDAL TRAVELED TO FLOORBOARD, CAUSING EXTENDED STOPPING DISTANCE. *AK",
+        "vin": ""
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "02/06/2004",
+        "dateOfIncident": "08/18/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10056668,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "TOYOTA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2003 TOYOTA LIMITED 4-RUNNER V8- AWD\u0014FRONT-END VIBRATION PROBLEM.  I FIRST PRESENTED THE VIBRATION PROBLEM TO MY DEALER THE LAST WEEK OF AUGUST! THEY TRIED BALANCING THE WHEELS WITH NO IMPROVEMENT. THEY AGREED THE PROBLEM WAS THERE AND NOTIFIED CORPORATE. THEIR TECHNICAL STAFF HAD THEM REMOVE THE FRONT AXELS AND RETEST THE VIBRATION WHICH STARTED AT 22 MPH, WENT TO 32MPH 42, 55, AND 62MPH NOW DISAPPEARED! A WEEK LATER A TECHNICAL REPRESENTATIVE MET WITH ME AND MENTIONED THAT SEVERAL VEHICLES IN PHOENIX HAD THE SAME PROBLEM. HE SUGGESTED IT PROBABLY WOULD TAKE ABOUT TWO MONTHS TO GET A FIX.  TWO MONTHS LATER I TALKED TO THE TECH. REP. AGAIN AND HE MENTIONED THAT THE ENGINEERING GROUP HAD DETERMINED THE PROBLEM TO BE INTERFERENCES IN THE SPIDER GEAR ASSEMBLY IN THE FRONT DIFFERENTIAL, THEY WERE TRYING TO CORRECT THE CONDITION WITH THRUST WASHER SHIMS AND OTHER THINGS.   I HAVE PRESENTED MY CLAIM TO THE CUSTOMER SUPPORT GROUP. I HAVE CALLED THEM REGULARLY ONCE A MONTH AND HAVE HAD NO SUCCESS AT FINDING WHAT THEIR SCHEDULE IS FOR THE FIX,--ONLY TO SAY \u001cWE ARE WORKING ON IT AND YOUR DEALER WILL NOTIFY YOU.\u001d   I\u0019VE SINCE HEARD FROM MY DEALER STAFF THAT THEY HAVE A NUMBER OF LEXUS GX470'S AS WELL AS 4-RUNNERS INVOLVED. I\u0019M BEGINNING TO FEEL THAT THEY HAVE SO MANY VEHICLES WITH DIFFERENTIAL ASSEMBLIES INVOLVED, THAT IT MAY REQUIRE SOME KIND OF MAJOR REDESIGN AND BUILD. IT MIGHT BE A LONG TIME BEFORE WE SEE A FIX!   I HAUL A POP-UP TRAILER AND DOES IT MAGNIFY THE PROBLEM!*AK",
+        "vin": "JTEBT17R930"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "12/13/2003",
+        "dateOfIncident": "10/03/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10049702,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKES SQUEAK WHEN APPLIED AT LOW SPEED. DEALER FIXED IT THREE TIMES, BUT IT IS  BACK AGAIN. THE VAN WAS PURCHASED NEW AND IS STILL UNDER 3 YEAR/36,000 MILES WARRANTY.*AK",
+        "vin": "4T3ZF13C73U"
+    },
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "12/03/2003",
+        "dateOfIncident": null,
+        "fire": true,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10049946,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "PROBLEMS WITH VEHICLE LOSING POWER STEERING FLUID.*MR                  CONSUMER FILLED THE VEHICLE WITH POWER STEERING FLUID WHEN RETURNING HOME. ONCE HOME HE RETURNED THE INCIDENT TO THE DEALERSHIP. THEY ORDER HE TO BRING IN THE VEHICLE FOR A CHECK UP. WHILE AT THE DEALERSHIP, THE VEHICLE CAUGHT FIRE IN THE PARKING LOT. CONSUMER NOTED THERE WERE NO WARNING LIGHTS PRIOR TO THE FAILURE. ONLY THE STEERING WHEEL WAS HARD TO TURN DUE TO LOW POWER STEERING FLUID.    *PH",
+        "vin": "4T3ZF19C03U"
+    },
+    {
+        "components": "LATCHES/LOCKS/LINKAGES",
+        "crash": false,
+        "dateComplaintFiled": "11/03/2003",
+        "dateOfIncident": "10/25/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10045374,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NUMEROUS TIMES, THE BUTTON ON THE DRIVERS SIDE SLIDING DOOR HAS GOTTEN STUCK IN THE \"IN\" POSITION.  IT WILL NOT COME BACK OUT, AND CAUSES THE DOOR NOT TO  LATCH.  THE DOOR LITERALLY DOES NOT CLOSE.  THIS IS VERY DANGEROUS SINCE I DRIVE MY GRANDCHILDREN IN THE VEHICLE OFTEN.  *LA",
+        "vin": ""
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "09/29/2003",
+        "dateOfIncident": "06/25/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10041928,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN APPLYING THE BRAKES AT ANY SPEED THEY SQUEALED.  VEHICLE WAS TAKEN TO DEALER TO GET THE PROBLEM REPAIRED, BUT AFTER THE REPAIRS THE SQUEALING DIMINISHED BUT PERSISTED.  THE MANUFACTURER WAS INFORMED OF THE PROBLEM.*AK",
+        "vin": ""
+    },
+    {
+        "components": "LATCHES/LOCKS/LINKAGES",
+        "crash": false,
+        "dateComplaintFiled": "09/11/2003",
+        "dateOfIncident": "08/30/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10038689,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE DOOR LATCH BUTTONS ON THE SLIDING DOORS(WHERE MY CHILDREN SIT) HAVE GOTTEN STUCK.  I THINK THE PROBLEM IS RELATED TO HEAT (DAYS WHERE THE CAR SITS IN THE SUN WITH TEMPS OF 95+).  WHEN THE BUTTON IS STUCK THE DOOR EITHER ( MAY NOT LATCH OR MAY NOT OPEN).  IF ANYTHING HAPPENED TO MY CHILDREN BECAUSE OF THIS KNOWN AND DOCUMENTED DOOR LATCH FAILURE, I HOLD TOYOTA RESPONSIBLE.         *ON 30AUG03 OUR FAMILY WAS GOING TO OUR  POOL (IT WAS A HOT DAY).  WE ALL GOT IN THE VAN.  MY DAUGHTER CLOSED THE SIDING DOOR.  UH-OH THE BUTTON IS STUCK , THE DOOR WONT CLOSE AND LATCH.  OUR TRIP IN THIS VAN IS OVER.  I STAYED WITH THE VAN, CALLED OUR TOYOTA DEALER AND SCHEDULED A TIME TO REPAIR THE DOOR.  TOYOTA COULD NOT RECREATE THE STICKING BUTTON AND WILL NOT FIX OR REPLACE.  THIS WAS THE THIRD TIME THE BUTTON STUCK.",
+        "vin": ""
+    },
+    {
+        "components": "STEERING,TIRES",
+        "crash": false,
+        "dateComplaintFiled": "09/11/2003",
+        "dateOfIncident": "09/11/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10038708,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "RADIAL",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THIS IS FOR A NEW TOYOTA SIENNA VAN. THE STEERING HAS ALWAYS HAD A SHAKE IN IT FROM DAY ONE. DEALER CHECKED TIRES FOR FLAT SPOTS. FOUND ONE BAD TIRE AND REPLACED. SHAKE STILL THERE.TOOK THE VAN TO ANOTHER TIRE STORE TO HAVE BALACES ON TIRES CHECKED AND THEY WERE NOT BALANCED PROPERLY. HAD TIRES RE-BALANCED AGAIN. SHAKE STILL THERE. DEALER THEN CHECKED STEERING COMPONANTS AND FOUND NOTHING WRONG. DEALER THEN ROTATED AND RE-BALANCED TIRES AND STATED THAT THE SHAKE MAY WORK ITS WAY OUT WITH SOME ADDITIONAL MILEAGE PUT ON THE TIRES AFTER THE ROTATION. WAS ADVISED TO GO AHEAD AND TAKE VAN ON VACATION AND SEE HOW IT GOES. AFTER VACATION MILEAGE OF 1600 MILES,SHAKE STILL THERE. DEALER RE-INSPECTS AND FINDS AN INNER TIE-ROD DEFECTIVE(LEFT SIDE). TOYOTA SENDS A WHOLE NEW RACK AND PINNION STERRING SYSTEM TO BE REPLACED. DEALER COMPLETES WORK BUT SAYS THEY DIDN'T REPLACE RIGHT SIDE OUTER TIE-ROD BECAUSE THE DEFECTIVE TIE-ROD WAS ON THE LEFT SIDE. NEXT DAY THE SHAKE STILL THERE. BACK TO DEALER FOR MECHANIC TO TEST DRIVE. HE STATES THERE IS A DEFINATE SHAKE IN THE STEERING BUT DOESN'T KNOW WHY. SO THEY HAVE MY VAN AGAIN TODAY FOR THE FOURTH TIME TO TRY AND FIGURE IT OUT.",
+        "vin": "4T3ZF19C03U"
+    },
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "09/10/2003",
+        "dateOfIncident": "01/01/1901",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10039853,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "TOYOTA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NAR 9-10-03.   FOIA EMAIL FWD FM KOST/GC INQUIRING HOW MANY 2003 TOYOTA'S HAVE HAD A PROBLEM OF ACCELERATING WHILE THE BRAKE IS BEING APPLIED, ES HAVE NO RECORD.   *CB",
+        "vin": "9999"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "08/24/2003",
+        "dateOfIncident": "09/15/2002",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10033381,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AUGUST 24, 2003 SUBJECT: SULFUR ODOR FROM EXHAUST ENTERS PASSENGER CABIN COMPARTMENT (THIS IS WHAT THE DEALER SAYS THE PROBLEM IS).I HAVE A MODEL 2003 TOYOTA SIENNA THAT HAS A BURNING/SEWAGE SMELL, WHICH THE DEALER CALLS A ROTTEN EGG SMELL, ENTERING THE INSIDE OF THE CAR. THIS USUALLY HAPPENS WHEN ACCELERATING WITH THE AIR ON OR OFF. MY DASHBOARD AIR SWITCH IS ALWAYS SET TO RE-CIRCULATE INTERIOR AIR (NOT TO BRING FRESH AIR FROM THE OUTSIDE IN). THE SMELL GETS SO BAD THAT I MUST OPEN THE WINDOWS TO AIR OUT THE STINK.  IT HAPPENS NO MATTER WHAT OCTANE OF GAS I USE. IT MAY HAPPEN OR NOT HAPPEN AT ANY GIVEN TIME. I FREQUENT GAS STATIONS NEAR ME THAT ARE NO OLDER THAN TWO YEAR OLD.    WHEN I BROUGHT IN THE VAN TO A FACTORY TOYOTA SERVICE DEALER AND AFTER THEY CHECKED IT OUT, THEY TOLD ME THAT THIS PROBLEM IS NORMAL WITH ALL TOYOTAS ESPECIALLY SIENNAS & SEQUOIAS. THEY HANDED ME A TECHNICAL SERVICE BULLETIN (TSB) ENTITLED \" SULFUR ODOR FROM EXHAUST\" ALL MODELS, DOCUMENT NUMBER EG003-03. I HAVE NOT BEEN ABLE TO FIND TSB THIS ON YOUR SITE OR ANY OTHER INTERNET SITE.      THIS MAY BE NORMAL TO SMELL AT THE END OF THE EXHAUST TAILPIPE, BUT SHOULD THE SMELL OF SULFUR BE GETTING INTO THE PASSENGER CABIN AREA WITH THE DOORS & WINDOWS CLOSED AND THE AIR ON RE-CIRCULATE? SHOULD IT BE SO STRONG THAT IT FORCES THE OCCUPANTS TO OPEN THE WINDOWS TO GET FRESH AIR IN THE CAR? WHY IS SULFUR ODOR THAT IS A COMPONENT OF GAS EXHAUST ENTERING THE CAR? HOW SAFE IS THIS FOR US, KIDS, AND INFANTS? SHOULD NOT MY VENTS AND WINDOWS BEING CLOSED, PREVENT THIS SMELL FROM ENTERING THE PASSENGER AREA? THE DEALER SAYS NO, BUT MY CLOSED VENTS KEEP OUT OTHER CARS' EXHAUST, EVEN IF THEY ARE BURNING OIL AND MAKING WHITE CLOUDS OF EXHAUST IN FRONT OF US WHEN WE ARE DRIVING BEHIND THEM.    PLEASE RESPOND. WE HOPE YOU CAN HELP US.    THANK YOU,  FRANK AUTORE & FAMILY.  *AK",
+        "vin": "4T3ZF19C73U"
+    },
+    {
+        "components": "STEERING,SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "06/26/2003",
+        "dateOfIncident": "10/21/2002",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10026612,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE PULLED TO THE LEFT WHILE DRIVING.   *MR   THE STEERING WHEEL NEEDED TO BE ADJUSTED, BOTH LOCK NUT(S) WERE LOOSE AND THE TIE ROD(S) WERE EQUALLY ADJUSTED 1/8 OF A TURN TO COMPENSATE FOR THE STEERING WHEEL, A FOUR WHEEL ALIGNMENT WAS PERFORMED, THE TOE IN AND CAMBER WAS ADJUSTED, AND ALL FOUR TIRES WERE MOUNTED AND BALANCED.   *SCC  *JB",
+        "vin": "4T37F19C73U"
+    },
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "06/16/2003",
+        "dateOfIncident": "06/11/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10024063,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NO PARTS AVAILABLE. RECALL ON AIR BAG LIGHT. RECALL NUMBER UNKNOWN. DUTCH MILLER 304-529-2301.  *AK",
+        "vin": ""
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "06/11/2003",
+        "dateOfIncident": "06/12/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022876,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN BRAKING OR ACCELERATING THERE WAS A LOUD GRINDING NOISE, TOOK VEHICLE TO DEALER, DEALER SAID THAT ROTORS AND BRAKES NEEDED REPLACING.  *AK",
+        "vin": "4T3ZF19CX3U"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "06/10/2003",
+        "dateOfIncident": "06/10/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022772,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN APPLYING BRAKES VEHICLE WILL SQUEAL AND MOAN.  DEALER HAS INSPECTED  VEHICLE AND COULD NOT DUPLICATE OR CORRECT THE PROBLEM. *AK",
+        "vin": "4T3ZF13C83U"
+    },
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "06/03/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022073,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "STEERING IS MISALIGNED BECAUSE VEHICLE PULLS EXCESSIVELY TO THE RIGHT WHILE DRIVING.  DEALER HAS ATTEMPTED TO CORRECT 6 TIMES SINCE PURCHASE, BUT PROBLEM STILL EXISTS.*AK",
+        "vin": "4T3ZF19C73U"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "05/01/2003",
+        "dateOfIncident": "05/01/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017970,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THERE WAS A LOUD SQUEAKING NOISE COMING FROM THE WHEEL WHEN THE CONSUMER APPLIED THE BRAKES.   *NLM",
+        "vin": "4T3ZF13C33U"
+    },
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "04/11/2003",
+        "dateOfIncident": "10/15/2002",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015704,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE PULLED SEVERELY TO THE LEFT.  *JB",
+        "vin": "4T3ZF19C73U"
+    },
+    {
+        "components": "POWER TRAIN,STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "03/27/2003",
+        "dateOfIncident": "03/03/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015200,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "PROBLEMS WITH SLIDING DOOR, TRANSMISSION.  MR. THE DEALER REPLACED THE TRANSMISSION, THE CONSUMER WAS TOLD IT WAS A MANUFACTURERS DEFECT.  *JB",
+        "vin": "4T3ZF19C23U"
+    },
+    {
+        "components": "ELECTRONIC STABILITY CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "02/27/2003",
+        "dateOfIncident": "01/29/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10008214,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "TOYOTA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Bridgestone Americas Tire Operations",
+                "productMake": "BRIDGESTONE",
+                "productModel": "POTENZA",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "2003 TOYOTA MR2 SPYDER - COMPLETE LOSS OF CONTROL OF VEHICLE, BOTH STEERING AND BRAKING CONTROL, WITHOUT WARNING OR UNUSUAL CAUSE UNDER NORMAL DRIVING CONDITIONS AT SPEEDS LESS THAN 25 MPH. TOYOTA DEALER EXAMINED VEHICLE AND STATES THAT VEHICLE IS DRIVABLE AND MEETS DESIGN INTENT. TOYOTA DEALER STATES THAT PROBLEM CAN NOT BE REPAIRED AND RECOMMENDS SNOW TIRES. SNOW TIRES THAT MEET TOYOTA SPECS ARE NOT COMMERCIALLY AVAILABLE.*JB",
+        "vin": "JTDFR320030"
+    },
+    {
+        "components": "POWER TRAIN,VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "02/15/2003",
+        "dateOfIncident": "01/01/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005873,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "TOYOTA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CAR STALLS (GAS PEDAL DOES NOT RESPOND) WHEN TURNING INTO TRAFFIC. ALSO WHEN SLOWING TO A LOW SPEED AND THEN ACCELERATING. THIS HAS CAUSED US TO ALMOST BE HIT SEVERAL TIMES IN THE SIDE AND IN THE REAR. MOST OF THE TIME WHEN THIS HAPPENS THE CAR WITH TIRE MARKS LIGHT ON THE INSTRUMENT PANEL COMES ON AND FLASHES. THERE IS NO WAY TO PREDICT WHEN THIS SUDDEN LOSS OF THE ACCELERATOR WILL HAPPEN. IT IS VERY DANGEROUS. THIS HAPPENS AT LEAST ONCE ALMOST EVERY TIME WE DRIVE.    ALSO SOMETIMES WHEN YOU START THE CAR AND BEGIN TO GO YOU HEAR DINGING SOUNDS AND FEEL AND HEAR BUMPS AND GRINDING NOISES. 2 LIGHTS COME ON IN THE INSTRUMENT PANEL WHEN THIS HAPPENS. 1 READS VSC TRAC AND THE OTHER READS TRAC OFF. IF YOU STOP AND RESTART THE ENGINE IT WILL EVENTUALLY STOP DOING IT. SOMETIMES THIS IS AFTER 1 RESTART AND SOMETIMES IT HAS TAKEN 5 AND 6. ON DAY IT WOULD NOT STOP NO MATTER HOW MANY TIMES YOU RESTARTED AND WE HAD TO DRIVE WITH LIGHTS ON. THIS HAS HAPPENED ABOUT 10 DIFFERENT TIMES.",
+        "vin": "5TDZT34A13S"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "02/05/2003",
+        "dateOfIncident": "11/01/2002",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10006444,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "TOYOTA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER IS LOOSING ENGINE POWER. DEALER WAS CONTACTED. PH",
+        "vin": ""
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "01/06/2003",
+        "dateOfIncident": "01/05/2002",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000557,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "UNSAFE DESIGN OF OVERDRIVE FEATURE ON TOYOTA SIENNA.  EVERY TIME CAR IS PUT INTO DRIVE, IT DEFAULTS TO 'OVERDRIVE' MODE - WHICH MEANS IT IS FREE WHEELING WHENEVER DRIVER'S FOOT COMES OFF THE ACCELERATOR.  NO ENGINE BRAKING!!  TAKE YOUR FOOT OFF THE GAS AND THE CAR ROLLS FREELY.  THIS IS GROSSLY UNSAFE, PARTICULARLY IN TOWN DRIVING.  TO GET ENGINE BRAKING, DRIVER MUST PUSH A BUTTON.  THE DEFAULT SHOULD BE THE OTHER WAY AROUND:  CAR SHOULD BE DESIGNED SO IT AUTOMATICALLY PROVIDES REGULAR, SAFER ENGINE BRAKING MODE, AND THE DRIVER SHOULD HAVE TO PUSH A BUTTON TO GET INTO LESS SAFE, ECONOMY OVERDRIVE MODE.  A COMPUTER CHIP RECALL WOULD PROBABLY CORRECT THIS.    PLEASE INVESTIGATE!!!!!!!!",
+        "vin": "4T3ZF13C63U"
+    },
+    {
+        "components": "CHILD SEAT",
+        "crash": false,
+        "dateComplaintFiled": "11/14/2002",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 769717,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I AM DISAPPOINTED WITH TOYOTA TO ONLY HAVE ONE TETHER RESTRAINT IN THE 2ND ROW.  SO IF YOU HAVE TWO SMALL CHILDREN IN CAR SEATS THEY BOTH CAN'T BE TETHERED IN THE 2ND ROW.  ALSO THE PLACEMENT OF THIS 2ND ROW TETHER IS TERRIBLE! IT INTERFEARS WITH THE PERSON IN THE 3RD ROW, THEIR FEET GET TANGLED IN THE TETHER.  NOT SAFE!!!  DT",
+        "vin": "4T3ZF13C83U"
+    }
+]

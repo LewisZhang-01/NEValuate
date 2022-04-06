@@ -1,0 +1,24 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "01/30/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Mazda Motor Corp.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004113,
+        "products": [
+            {
+                "manufacturer": "Mazda Motor Corp.",
+                "productMake": "MAZDA",
+                "productModel": "323",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "MAZDA OF NORTH AMERICA OPERATIONS HAS NOTIFIED THE CONSUMER THAT THE VEHICLE DOES NOT COMPLY WITH US FEDERAL MOTOR VEHICLE SAFETY STANDARDS-FMVSS208(OCCUPANT CRASH PROTECTION PASSIVE RESTRAINT REQUIREMENT)  SCC",
+        "vin": "JM1BG2314R0"
+    }
+]

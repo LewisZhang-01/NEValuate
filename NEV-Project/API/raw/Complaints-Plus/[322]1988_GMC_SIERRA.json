@@ -1,0 +1,142 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "08/10/2004",
+        "dateOfIncident": "08/09/2004",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10087615,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA",
+                "productYear": "1988",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Bridgestone Americas Tire Operations",
+                "productMake": "FIRESTONE",
+                "productModel": "FIREHAWK",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHILE  DRIVING CONSUMER HEARD A NOISE, .  AFTER PULLING OVER AND  EXITING THE VEHICLE  IT WAS DISCOVERED  THAT TIRE TREAD  SEPARATED.*AK",
+        "vin": "1GTDC14K3JE"
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "03/12/2002",
+        "dateOfIncident": "05/01/1994",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 8005526,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA",
+                "productYear": "1988",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE TRAVELING ON HIGHWAY AND WITHOUT PRIOR WARNING FRONT TIRE TREAD SEPARATED FROM  VEHICLE.   UNIROYAL LARADO ALL SEASON. *AK   CONSUMER STATES WHILE PULLING A 24 FOOT TRAILER, WITHOUT PRIOR WARNING FRONT UNIROUAL LAREDO TIRE 37000 MILES ON, SIZE LT 245/75R16C, DOT#AN11DAU143, TREAD SEPARATED FROM VEHICLE.    *YD",
+        "vin": "2G1GC39N4J1"
+    },
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "08/18/2001",
+        "dateOfIncident": "06/26/2000",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 750710,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA",
+                "productYear": "1988",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THIS IS THE SECOND TIME THAT THE ACC.ELERATOR  BRACKET BROKE AT THE POWER STEERING PUMP/I ALSO HAD A CHEVROLET ASTRO VAN THAT USED THIS SAME BRACKET AND IT BROKE ON ME AT THE SAME EXACT SPOT. *AK",
+        "vin": "2GTEC19K7J1"
+    },
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "11/03/1998",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 542415,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA",
+                "productYear": "1988",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ALIGNMENT KIT AND ADJUSTMENTS WERE NOT INSTALLED ON VEHICLE AT TIME OF PURCHASE.",
+        "vin": "1GTFK24K5JE"
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "08/24/1998",
+        "dateOfIncident": "08/16/1998",
+        "fire": true,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 827161,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA",
+                "productYear": "1988",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING  TRANSMISSION COOLING UNIT AND LINES MALFUCTIONED, CAUSING A LEAK IN THE TRANSMISSION,  WHICH SPRAYED TRANSMISSION FLUID ONTO THE EXHAUST MANIFOLD, CAUSING A FIRE.  DEALER CANNOT DETERMINE PROBLEM.  PLEASE PROVIDE DETAILS.   *AK",
+        "vin": "2GTKF29K8J1"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "12/23/1997",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 819423,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA",
+                "productYear": "1988",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN THE BRAKES ARE APPLIED THEY BECOME HARD,  RESULTING IN EXTENDED STOPPING DISTANCES. THE DEALER HAS INSPECTED  THE BRAKES, THEY CANNOT BE REPAIRED.  *AK",
+        "vin": "1GTDK14H0J2"
+    }
+]

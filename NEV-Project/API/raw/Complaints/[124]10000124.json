@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "12/16/2002",
+        "dateOfIncident": "10/27/2002",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000124,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "GTI",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CLUTCH DEFECTIVE AT 19000 MILES. CLUTCH PLATE FOUND WITH EXCESSIVE WEAR, FUSED TO FLYWHEEL.",
+        "vin": "9BWDE61J824"
+    }
+]

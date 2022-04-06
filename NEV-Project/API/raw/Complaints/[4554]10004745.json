@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "01/27/2003",
+        "dateOfIncident": "12/01/2002",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004745,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "X5",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE WAS \"TOTALED\" DUE TO A COLLISION, BY ANOTHER VEHICLE ON PASSENGER'S SIDE OF CONSUMER'S CAR.  CONSUMER'S VEHICLE WAS TRAVELING APPROXIMATELY 40-50MPH AT TIME OF IMPACT.  PASSENGER \"SIDE AIR BAG\" DID NOT DEPLOY.  HOWEVER, THE DRIVER'S FRONT, SIDE AND PASSENGER FRONT AIR BAGS DID DEPLOY.*AK",
+        "vin": "WBAFA53581L"
+    }
+]

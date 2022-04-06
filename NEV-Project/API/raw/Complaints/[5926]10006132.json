@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC,POWER TRAIN",
+        "crash": true,
+        "dateComplaintFiled": "01/31/2003",
+        "dateOfIncident": "01/29/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10006132,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "VANDURA",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE ABS BRAKES LOCKED UP WHEN APPLIED.  THE VEHICLE ALSO EXPERIENCED TRANSMISSION AND SPEEDOMETERS PROBLEMS.   *AK  *NLM",
+        "vin": "1GTHG39Y8RF"
+    }
+]

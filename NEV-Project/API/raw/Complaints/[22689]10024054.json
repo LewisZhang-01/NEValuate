@@ -1,0 +1,31 @@
+[
+    {
+        "components": "CHILD SEAT",
+        "crash": false,
+        "dateComplaintFiled": "06/16/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10024054,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "325I",
+                "productYear": "1994",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Peg Perego USA, Inc.",
+                "productMake": "PEG PEREGO",
+                "productModel": "PRIMO VIAGGO",
+                "productYear": "9999",
+                "type": "Child Seat"
+            }
+        ],
+        "summary": "CHILD SEAT WOULD NOT LATCH ONTO LEFT SIDE OF BASE. *MR  PH",
+        "vin": ""
+    }
+]

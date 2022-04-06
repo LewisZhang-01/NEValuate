@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "01/03/2003",
+        "dateOfIncident": "12/29/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10006577,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "S10",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BALL JOINT BROKE, LETTING WHEEL BEND UNDER PICKUP.   *****DIMS 11 IVOQ ENTRY POSTED AFTER 12/12/02 CUT-OVER TO ARTEMIS*****770813.  *AK          *JB",
+        "vin": "1GCCS19ZXR8"
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "04/03/2022",
+        "dateOfIncident": "09/01/2021",
+        "fire": false,
+        "manufacturer": "Escape Trailer",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11459408,
+        "products": [
+            {
+                "manufacturer": "Escape Trailer",
+                "productMake": "ESCAPE RV",
+                "productModel": "ESCAPE",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Suburban propane stove SDS2 had a broken gas pipe (flange broken) that would have caused a leak if it had been used. The pipe flange breaks if the pipe is securely tightened; if not, the pipe itself breaks. In my case the flange was broken when we inspected it. In the photo, one end has the flange intact, and the other end is where it broke off. Both ends should be identical.  The trailer had not been used on anything but paved roads and that burner of the stove had not been used.",
+        "vin": "2E9TF6A26LC"
+    },
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "11/30/2021",
+        "dateOfIncident": "11/08/2021",
+        "fire": false,
+        "manufacturer": "Escape Trailer",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11442118,
+        "products": [
+            {
+                "manufacturer": "Escape Trailer",
+                "productMake": "ESCAPE RV",
+                "productModel": "ESCAPE",
+                "productYear": "2020",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Airxcel, Inc.",
+                "productMake": "SUBURBAN",
+                "productModel": "SDN2H",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "The contact owns a 2020 Escape trailer Industries RV. The contact stated while cooking on the stove top in the trailer, the contact smelled an abnormal propane odor coming from the stove top. The contact continued to cook until the propane sensor alarmed which caused the contact to check the connection to the propane tank. The contact noticed that the wiring to the propane regulator was loose. The contact tightened the wiring on the propane tank however, several days later the abnormal odor returned while attempting to cook on the stove top. The contact attempted to reach out to a local dealer to have the trailer and propane stove top inspected for the cause of failure however, the dealer stated they would not be able to investigate the issue for another two months. The trailer was not diagnosed or repaired. The manufacturer was made aware of the failure. The failure mileage was unknown.",
+        "vin": "2e9tf6b27lc"
+    }
+]

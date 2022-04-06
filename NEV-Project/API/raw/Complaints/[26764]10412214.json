@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "07/14/2011",
+        "dateOfIncident": "12/04/2010",
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10412214,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPEDITION",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2000 FORD EXPEDITION WAS TOTALED DUE TO A FAULTY CRUISE CONTROL SWITCH.  *TR",
+        "vin": ""
+    }
+]

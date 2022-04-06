@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "12/20/2002",
+        "dateOfIncident": "12/01/2002",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001273,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "RAV4",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "DUNLOP TIRE CORPORATION",
+                "productMake": "DUNLOP",
+                "productModel": "DUNLOP",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "DEFECTIVE TIRES, VEHICLE JACK EQUIPMENT.  WHILE DRIVING ONE OF THE VEHICLE'S TIRE EXPLODED WHEN IT RAN OVER AN ORANGE IN THE ROAD.  THE CONSUMER REQUEST REIMBURSEMENT  FOR THE REPLACEMENT TIRE AND WOULD LIKE THE REMAINING 4 TIRES REPLACED.  THE CONSUMER RETAINED THE TIRE FOR INSPECTION.  WHILE ATTEMPTING TO CHANGE THE BLOWN TIRE THE CONSUMER REALIZED THAT THE JACK WAS NOT DESIGNED PROPERLY TO REPLACE THE BLOWN TIRE.  WITH THE JACK PROPERLY PLACED AND FULLY EXTENDED THERE WAS INSUFFICIENT CLEARANCE TO REPLACE THE BLOWN TIRE.  THE CONSUMER REQUEST THAT THE JACK BE REPLACED.  *NM",
+        "vin": ""
+    }
+]

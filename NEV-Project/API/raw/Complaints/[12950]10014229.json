@@ -1,0 +1,24 @@
+[
+    {
+        "components": "PARKING BRAKE",
+        "crash": false,
+        "dateComplaintFiled": "04/10/2003",
+        "dateOfIncident": "04/09/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10014229,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE FAILED STATE INSPECTION DUE TO AN INOPERABLE PARKING BRAKE.  INSPECTOR CLAIMS OVER 50% OF NEW BODY STYLE SILVERADO'S/TAHOE'S/SUBURBAN'S HE INSPECTS FAIL DUE TO THE SAME PROBLEM.  *NLM",
+        "vin": "2GCEK19T3Y1"
+    }
+]

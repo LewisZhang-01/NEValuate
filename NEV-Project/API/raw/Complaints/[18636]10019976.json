@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": true,
+        "dateComplaintFiled": "05/16/2003",
+        "dateOfIncident": "11/15/2002",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019976,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "LIBERTY",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE SUDDENLY ACCELERATED WHILE AT A COMPLETE STOP.  *NLM",
+        "vin": "1J4GL38K83W"
+    }
+]

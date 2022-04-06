@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "04/15/2009",
+        "dateOfIncident": "09/19/2008",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10265514,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "WINDSTAR",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKE PRESSURE SWITCH DEFECTIVE AND LEAKING ON TO MAIN WIRE HARNESS CAUSING FUSE TO SHORT OUT.  DEFECTIVE PART IS AVAILABLE. *TR",
+        "vin": ""
+    }
+]

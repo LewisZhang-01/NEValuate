@@ -1,0 +1,46 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "06/16/2020",
+        "dateOfIncident": "06/06/2020",
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 11329219,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "FLTRX",
+                "productYear": "2017",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "MY BIKE LEAKS HOT OIL OUT OF THE AIR CLEANER. THE HOT OIL HAS BURNED MY LEG AND OIL HAS GOTTEN ONTO THE RIGHT SADDLE BAG AND ONTO THE REAR TIRE CAUSING A POTENTIAL SAFETY HAZARD. THE DEALERSHIP FIRST SAID THERE WAS TOO MUCH OIL IN THE BIKE AFTER THE SAME DEALER CHANGED THE OIL. THE NEXT TIME I TOOK IT IN, THE SAID IT WAS A PINCHED BREATHER HOSE IN THE AIR INTAKE. THE 3RD TIME THE REPLACED THE BREATHER HOSE IN THE AIR INTAKE. THE 4TH TIME THEY SAID I WAS NOT RIDING HARD ENOUGH AND THE OIL THAT SHOULD BE SUCKING BACK INTO THE BREATHER WAS NOT DOING SO. THE 5TH TIME THEY SAID I WAS RIDING TOO HARD AND ENGINE BRAKING TOO MUCH. THE 6TH TIME THEY SAID TO RUN THE OIL LOW ABOUT HALFWAY BETWEEN THE FULL AND LOW LINES. THE PROBLEM IS NOT SOLVED AND I'M TIRED OF HOT OIL ALL OVER MY PAINT, CLOTHES AND REAR TIRE.  *TR",
+        "vin": "1HD1KHC17HB"
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "08/11/2017",
+        "dateOfIncident": "08/01/2016",
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11014680,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "FLTRX",
+                "productYear": "2017",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TRANSMISSION IS MIGRATING FLUID OVER TO THE PRIMARY.HAD TO ADD TRANS FLUID SINCE NEW.",
+        "vin": "1HD1KHC14HB"
+    }
+]

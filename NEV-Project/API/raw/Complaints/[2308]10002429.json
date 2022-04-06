@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS,SEATS",
+        "crash": true,
+        "dateComplaintFiled": "01/09/2003",
+        "dateOfIncident": "01/04/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 2,
+        "odiNumber": 10002429,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "VAN",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN THE VEHICLE WAS HIT AT 50 MPH IN THE FRONT, THE CENTER THE AIR BAGS DID NOT DEPLOY.  THE DEALER HAS BEEN NOTIFIED.  *NLM  THE SEAT GAVE AWAY AS WELL.  *SCC",
+        "vin": "1GBEG2527SF"
+    }
+]

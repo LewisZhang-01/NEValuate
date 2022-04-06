@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "03/16/2003",
+        "dateOfIncident": "03/15/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 2,
+        "odiNumber": 10010550,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "LEXUS",
+                "productModel": "GS300",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I HAVE A 2001 LEXUS GS300.  MY VEHICLE FLIPPED THREE TIMES ON A TURN AND NONE OF MY AIRBAGS DEPLOYED.  NOT THE SIDE, FRONT OR CURTAIN AIR BAGS.   *NLM",
+        "vin": "JT8BD69S310"
+    }
+]

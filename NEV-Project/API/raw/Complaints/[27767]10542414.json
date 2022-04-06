@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "09/07/2013",
+        "dateOfIncident": "04/11/2013",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10542414,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TAURUS",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AT LOW AND HIGHER SPEEDS THE GAS PETAL GETS STUCK AND THE ENGINE REVS HIGH. I HAVE TO PRESS THE GAS PETAL DOWN SOMETIMES MORE THAN ONCE TO GET IT UNSTUCK.",
+        "vin": "1FAFP53U55A"
+    }
+]

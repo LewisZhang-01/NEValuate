@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "12/27/2002",
+        "dateOfIncident": "06/20/2001",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001537,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TAURUS",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WINDSHIELD WIPERS COME ON INTERMITTENTLY WHEN TURNED OFF, ALSO STOP WHEN IN USE. TS",
+        "vin": "1FAFP53S1XG"
+    }
+]

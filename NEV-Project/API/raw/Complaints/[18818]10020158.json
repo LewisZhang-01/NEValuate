@@ -1,0 +1,24 @@
+[
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "05/20/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020158,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "AUDI",
+                "productModel": "100",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE REAR SPEAKER HAD BLOWN, WHICH CAUSED THE ENTIRE SYSTEM TO FAIL, THERE WAS A RECALL REGARDING THE ISSUE # 01V324000, HOWEVER THE VEHICLE IDENTIFICATION NUMBER WAS NOT INCLUDED.  *JB",
+        "vin": "WAUDJ54A7NN"
+    }
+]

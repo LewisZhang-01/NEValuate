@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "01/10/2003",
+        "dateOfIncident": "01/06/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002501,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TAURUS",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATED THE  FRONT DRIVER SIDE COIL SPRING BUSTED AND PUNCTURED TIRE. DEALER NOTIFIED. PLEASE PROVIDE ADDITIONAL INFORMATION.*JB",
+        "vin": "1FAFP53S9XG"
+    }
+]

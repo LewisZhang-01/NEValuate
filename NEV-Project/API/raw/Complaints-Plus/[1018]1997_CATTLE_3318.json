@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "02/19/2009",
+        "dateOfIncident": "02/14/2009",
+        "fire": false,
+        "manufacturer": "S AND H TRAILER MFG. CO. INC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10259307,
+        "products": [
+            {
+                "manufacturer": "S AND H TRAILER MFG. CO. INC",
+                "productMake": "CATTLE",
+                "productModel": "3318",
+                "productYear": "1997",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "CARLISLE TIRE & RUBBER CO",
+                "productMake": "CARLISLE",
+                "productModel": "CARLISLE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "HI RUN TIRE SEPARATION AFTER STOPPING AND THEN TURNING ONTO ROADWAY.  FOUR TIRES PURCHASED NEW  ONE FAILURE AFTER ONLY 60 MILES.  DEALER REFUSED TO REPLACE OR REFUND MONEY. *TR",
+        "vin": ""
+    }
+]

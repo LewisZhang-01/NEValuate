@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "03/17/2003",
+        "dateOfIncident": "02/06/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10011918,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "NAVIGATOR",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE WAS AT A COMPLETE STOP AND WAS HIT HEAD ON BY ANOTHER VEHICLE,  HOWEVER NONE OF THE AIR BAGS DEPLOYED UPON IMPACT. WHICH RESULTED IN THE DRIVER BEING SERIOUSLY INJURED.  *JB",
+        "vin": "5LMFU28R01L"
+    }
+]

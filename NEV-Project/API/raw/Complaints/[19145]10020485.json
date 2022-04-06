@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "05/23/2003",
+        "dateOfIncident": "05/22/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020485,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STOPPED VEHICLE AT A TRAFFIC LIGHT AND ENGAGED THE TURN SIGNAL WHEN SMOKE SUDDENLY BEGAN EMITTING FROM THE STEERING COLUMN INTO THE PASSENGER CABIN.  THE VEHICLE WAS TAKEN TO THE DEALER WHO DIAGNOSED THE PROBLEM AS AN ELECTRICAL WIRING MALFUNCTION.  *NLM",
+        "vin": ""
+    }
+]

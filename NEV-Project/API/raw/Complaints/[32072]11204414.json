@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "04/29/2019",
+        "dateOfIncident": "04/03/2019",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11204414,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TRANSMISSION DOWN SHIFTS WHILE MOVING, FROM 6TH GEAR DOWN TO 1ST, ALL GAUGES GO TO ZERO BUT TRUCK DOES NOT POWER OFF. CAN ACCELERATE BUT DOES NOT PICK UP SPEED. SIMILAR SYMPTOMS FOR THE 2011-2013 F150 RECALL OUT NOW.",
+        "vin": "1FTFW1EF6EF"
+    }
+]

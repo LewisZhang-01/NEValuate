@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "02/26/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009422,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GEO",
+                "productModel": "METRO",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE HEATER EMITTED A SMELL WHEN IT WAS ON.*JB",
+        "vin": "2C1MR5224W6"
+    }
+]

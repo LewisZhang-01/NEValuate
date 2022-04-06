@@ -1,0 +1,31 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "03/08/2003",
+        "dateOfIncident": "11/28/2002",
+        "fire": true,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010159,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "S-BLAZER",
+                "productYear": "1992",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "GM PRODUCTS DIV. GM CORP.",
+                "productMake": "GM PRODUCTS",
+                "productModel": "GM PRODUCTS",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "1992 CHEVROLET S-10 BLAZER CAUGHT FIRE AFTER IDLING FOR APPROXIMATELY 2 MINUTES AND THEN BEING SHUT OFF.  FIRE DESTROYED ENGINE COMPARTMENT, WINDSHIELD, ROOF LINER, ETC.  TRUCK WAS A TOTAL LOSS.  TRUCK HAD BEEN WELL MAINTAINED SINCE I BOUGHT IT NEW IN 1992.   *NLM",
+        "vin": "1GNDT13W9N2"
+    }
+]

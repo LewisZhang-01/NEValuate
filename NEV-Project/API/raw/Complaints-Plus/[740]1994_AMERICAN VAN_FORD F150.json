@@ -1,0 +1,90 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "12/07/2015",
+        "dateOfIncident": "12/04/2015",
+        "fire": false,
+        "manufacturer": "AMERICAN VANS, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10808730,
+        "products": [
+            {
+                "manufacturer": "AMERICAN VANS, INC.",
+                "productMake": "AMERICAN VAN",
+                "productModel": "FORD F150",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AIR BAG INOPERABLE AND NON FUNCTIONING HORN DUE TO BAD CLOCK SPRING, OTHER YEARS HAVE THIS SAME PROBLEM YET THIS YEAR TRUCK HAS NOT BEEN RECALLED. I PURCHASED THIS TRUCK SEVERAL MONTHS AGO AND WILL BE CORRECTING THE ISSUE ON MY OWN.",
+        "vin": "1FTEF14N1RN"
+    },
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "10/10/2014",
+        "dateOfIncident": "10/01/2004",
+        "fire": false,
+        "manufacturer": "AMERICAN VANS, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10643874,
+        "products": [
+            {
+                "manufacturer": "AMERICAN VANS, INC.",
+                "productMake": "AMERICAN VAN",
+                "productModel": "FORD F150",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2004 CIRCUITS/ WIRING DEFECTIVE, AIR BAG WARNING LIGHT ON NON OPERABLE, CRUISE CONTROL NON OPERABLE, HORN NON OPERABLE    2006 REPLACED AIR BAG CLOCK SPRING IN STEERING WHEEL = ALL ISSUES ABOVE REPAIRED OK.    2012 CIRCUITS/ WIRING DEFECTIVE, AGAIN, AIR BAG WARNING LIGHT ON NON OPERABLE, CRUISE CONTROL NON OPERABLE, HORN NON OPERABLE    APRIL(?) 2013 FRONTAL CRASH WITH OUT AIR BAG DEPLOYMENT.  *TR",
+        "vin": "1FTEX15N7RR"
+    },
+    {
+        "components": "EXTERIOR LIGHTING,STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "08/06/2013",
+        "dateOfIncident": "08/05/2013",
+        "fire": false,
+        "manufacturer": "AMERICAN VANS, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10533875,
+        "products": [
+            {
+                "manufacturer": "AMERICAN VANS, INC.",
+                "productMake": "AMERICAN VAN",
+                "productModel": "FORD F150",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DFSAF",
+        "vin": ""
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING,ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "09/19/2011",
+        "dateOfIncident": "09/17/2011",
+        "fire": true,
+        "manufacturer": "AMERICAN VANS, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10426008,
+        "products": [
+            {
+                "manufacturer": "AMERICAN VANS, INC.",
+                "productMake": "AMERICAN VAN",
+                "productModel": "FORD F150",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AFTER BEING OFF FOR MORE THAN 8 HOURS MY TRUCK IGNITED AND BURNED THE ENGINE AREA AND THE CAB.  *KB",
+        "vin": ""
+    }
+]

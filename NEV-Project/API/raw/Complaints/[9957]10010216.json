@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES,WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "03/10/2003",
+        "dateOfIncident": "07/01/2002",
+        "fire": false,
+        "manufacturer": "Mitsubishi Motors North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010216,
+        "products": [
+            {
+                "manufacturer": "Mitsubishi Motors North America, Inc.",
+                "productMake": "MITSUBISHI",
+                "productModel": "ECLIPSE SPYDER",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "EAGLE TIRE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "TIRES ARE LOSING AIR, OR I AM GETTING FLATS DUE TO THE FACT THAT RIMS ARE DEFECTIVE, THEY ARE BENT OUT OF SHAPE VERY EASILY.*JB",
+        "vin": ""
+    }
+]

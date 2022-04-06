@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,ELECTRONIC STABILITY CONTROL,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "10/05/2018",
+        "dateOfIncident": "07/20/2017",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11133514,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "IMPALA",
+                "productYear": "2012",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TAKATA RECALL    MY CAR FEEL LIKE ITS LOOSING POWER WHEN I START IT UP AND THE IGNITION HOUSING NEED TO BE REPLACE",
+        "vin": "2G1WG5E31C1"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": true,
+        "dateComplaintFiled": "11/15/2007",
+        "dateOfIncident": "10/04/2007",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10209414,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "IMPALA",
+                "productYear": "2006",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "2006 CHEVROLET IMPALA HAD AN EQUIPMENT FAILURE WHICH CAUSED THE VEHICLE TO SWERVE AND HIT ANOTHER VEHICLE.  *KB  ACCORDING TO THE POLICE REPORT, IT APPEARED THE RIGHT REAR TIRE HAD BLOWN WHICH CAUSED THE CONSUMER TO LOOSE CONTROL OF THE VEHICLE. (OHIO TRAFFIC CRASH REPORT)*JB",
+        "vin": ""
+    }
+]

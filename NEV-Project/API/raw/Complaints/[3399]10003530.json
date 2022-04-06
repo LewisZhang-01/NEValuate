@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, OTHER",
+        "crash": false,
+        "dateComplaintFiled": "01/28/2003",
+        "dateOfIncident": "01/01/2003",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003530,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "ACCORD",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "HONDA, 2000 ACCORD, IDLING PROBLEM - FAIL TO START WHEN THE ENGINE IS WARM (AFTER A LONG DRIVE-RESTART).  ADD GAS TO ACCELERATOR TO GET IT START, BUT WILL EXPERIENCE ROUGH IDLING AND ENGINE DIE AGAIN.",
+        "vin": ""
+    }
+]

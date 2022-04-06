@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "11/01/2018",
+        "dateOfIncident": "11/01/2018",
+        "fire": false,
+        "manufacturer": "Porsche Cars North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11144814,
+        "products": [
+            {
+                "manufacturer": "Porsche Cars North America, Inc.",
+                "productMake": "PORSCHE",
+                "productModel": "CAYENNE",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUEL GUAGE ERROR  EVEN WHEN TANK IS MORE THAN HALF FULL, FUEL GAUGE ERROR POPS UP INTERMITTENTLY WHILE DRIVING.",
+        "vin": "WP1AA2A20EL"
+    }
+]

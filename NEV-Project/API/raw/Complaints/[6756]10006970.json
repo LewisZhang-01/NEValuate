@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,EXTERIOR LIGHTING",
+        "crash": false,
+        "dateComplaintFiled": "02/11/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10006970,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CADILLAC",
+                "productModel": "DEVILLE",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE HEADLIGHTS AND STEERING DID NOT WORK PROPERLY.*JB",
+        "vin": "1G6KD54YX2U"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "06/12/2003",
+        "dateOfIncident": "06/12/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021503,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "RAM 1500",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE WITH AN UNSAFE POWER WINDOW SWITCH.   *JB",
+        "vin": ""
+    }
+]

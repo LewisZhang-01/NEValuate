@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "05/30/2003",
+        "dateOfIncident": "06/26/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021904,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SUBURBAN",
+                "productYear": "1989",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "STEELTEX RADIAL TIRE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE RIGHT REAR TIRE BLEW OUT.  STEELTEX RADIAL LT TIRES. *AK  THE TIRE PRESSURE HAD RUN LOW, BUT NEVER MORE THAN 2 PSI HIGH.  (NEVER ANY IMPACT)  THE BLOWOUT HAPPENED ON A SMOOTH ROAD AT A LOW SPEED.  THERE WERE NEVER ANY REPAIRS DONE TO THE TIRES.  THE BLOWOUT HAD A \"T\" SHAPED 4-5\" EDGE OF TREAD, WITH A LEG OF \"T\" THAT EXTENDED FROM THE TREAD NEAR THE BEAD.  FIRESTONE CONSIDERED THIS IMPACT DAMAGE AND WOULD NOT REPLACE.  *SCC   *JB",
+        "vin": "1GKGV26KXKF"
+    }
+]

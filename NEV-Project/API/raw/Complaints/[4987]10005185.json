@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "02/03/2003",
+        "dateOfIncident": "01/15/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005185,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "LEXUS",
+                "productModel": "IS 300",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Bridgestone Americas Tire Operations",
+                "productMake": "BRIDGESTONE",
+                "productModel": "POTENZA",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "TOTAL FAILURE OF TIRE WHILE GOING DOWN THE HIGHWAY - IN FACT TIRE CAME OFF THE RIM - TIRE WAS ONLY ABOUT 2 WEEKS OLD.BRIDGESTONE WITH UNI-T AQ/AQ 100528 POTENZA RE950 215/45R17 TLBL PS DOT # HYDKDFA2001",
+        "vin": "JTHBD182X10"
+    }
+]

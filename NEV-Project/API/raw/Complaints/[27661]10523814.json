@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "07/08/2013",
+        "dateOfIncident": "06/12/2013",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10523814,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERCURY",
+                "productModel": "MARINER",
+                "productYear": "2009",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CAR STALLS CONTINUOUSLY.  *TR",
+        "vin": "4M2CU87709K"
+    }
+]

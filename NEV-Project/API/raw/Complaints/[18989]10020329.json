@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "05/21/2003",
+        "dateOfIncident": "05/21/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020329,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAVALIER",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING IN WARM WEATHER THE VEHICLE SHUT OFF.  THE VEHICLE WAS ALLOWED TO SIT FOR A FEW MINUTES BEFORE IT STARTED UP AGAIN.   *NLM",
+        "vin": "1G1JC1241W7"
+    }
+]

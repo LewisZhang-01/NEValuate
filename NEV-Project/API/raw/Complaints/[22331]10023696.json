@@ -1,0 +1,24 @@
+[
+    {
+        "components": "PARKING BRAKE,ENGINE AND ENGINE COOLING,VISIBILITY,VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "06/24/2003",
+        "dateOfIncident": "06/11/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10023696,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "REAR WINDSHIELD WIPER MOTOR FAILED. CAUSED LOSS OF VISIBILITY THROUGH BACK WINDOW. REAR POWER WINDOW MOTOR FAILED. ACCELERATOR PEDAL VIBRATES ON ACCELERATION. (USUALLY WHILE MERGING ON TO HIGHWAYS) PARKING BRAKE INDICATOR LIGHT DOES NOT ALWAYS LIGHT WHEN PARKING BRAKE IS ACTIVE. RATTLE AND VIBRATION FROM CATALYTIC CONVERTER COVER. *JB",
+        "vin": "1FMDU34EXXZ"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "07/10/2003",
+        "dateOfIncident": "06/18/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10024474,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "E150",
+                "productYear": "1989",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "B.F. GOODRICH TIRE CO.",
+                "productMake": "B.F.GOODRICH",
+                "productModel": "B.F.GOODRICH",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHILE DRIVING, THE TIRE EXPERIENCED TREAD SEPARATION AND DAMAGED THE FRONT FENDER. *AK THE  VALVE STEM WAS ALSO REPLACED. *PH  *JB",
+        "vin": "1FDEE14N1KH"
+    }
+]

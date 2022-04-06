@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "07/11/2003",
+        "dateOfIncident": "05/23/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021923,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F250",
+                "productYear": "1990",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUEL PUMP MOTOR CONTINUED TO RUN,  AFTER THE ENGINE WAS SHUT OFF. THE CONSUMER DISCONNECTED BATTERY. APPLE FORD REPLACED THE RELAY PART BUT CLAIMED THE PART WAS NOT COVERED BY RECALL.       *AK    *CB  *JB",
+        "vin": "1FTHF2591KB"
+    }
+]

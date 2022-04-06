@@ -1,0 +1,46 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "01/13/2022",
+        "dateOfIncident": "01/11/2022",
+        "fire": false,
+        "manufacturer": "Forest River, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11447290,
+        "products": [
+            {
+                "manufacturer": "Forest River, Inc.",
+                "productMake": "FOREST RIVER",
+                "productModel": "CEDAR CREEK",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact owns a 2019 Forest River Cedar Creek. The contact stated that a manufacturer defect had caused all three slides on the trailer to independently close. The failure had caused damage to the inside furniture including the electric fireplace. Upon his own investigation, the contact stated that the hydraulic pump that controlled the slides had become defective due to water that entered the rocker switch. The contact also stated that he had sent an email to the manufacturer but had not yet received a response. The vehicle was not repaired. The failure mileage was unknown.",
+        "vin": "4x4tcrs27ks"
+    },
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "09/21/2021",
+        "dateOfIncident": "09/21/2021",
+        "fire": false,
+        "manufacturer": "Forest River, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11433888,
+        "products": [
+            {
+                "manufacturer": "Forest River, Inc.",
+                "productMake": "FOREST RIVER",
+                "productModel": "CEDAR CREEK",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact owns a 2012 Ford F-350 used for hauling a 2019 Forest River Cedar Creek travel trailer. The contact stated that while attempting to haul the travel trailer, the travel trailer detached from the frame. Water was also getting into the floors of the travel trailer, causing water damage to the floors. The dealer was made aware of the failure and submitted photos and videos to the manufacturer. The travel trailer was not repaired. The manufacturer was made aware of the failure and the General Manager informed the contact after reviewing the photos and videos that there were no seen issues and the one-year warranty had expired.",
+        "vin": "4x4fcrm23ks"
+    }
+]

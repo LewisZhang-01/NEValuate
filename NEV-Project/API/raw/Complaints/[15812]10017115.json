@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "05/06/2003",
+        "dateOfIncident": "06/01/2002",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017115,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "318I",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BOARD LEVEL FAILURE ON AUTOMATIC TEMPERATURE CONTROL UNIT. FAILURE SO WIDESPREAD THAT NO OEM OR RENEWED PARTS DEALER HAS INVENTORY.    *NLM",
+        "vin": "WBACC0326VE"
+    }
+]

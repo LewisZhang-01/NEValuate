@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "01/07/2003",
+        "dateOfIncident": "11/18/2002",
+        "fire": false,
+        "manufacturer": "Kia Motors America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002269,
+        "products": [
+            {
+                "manufacturer": "Kia Motors America",
+                "productMake": "KIA",
+                "productModel": "RIO",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE WAS INVOLVED IN AN ACCIDENT WHERE THE  DUAL AIRBAGS DIDN'T DEPLOY.  THE DEALER HAD BEEN NOTIFIED.  SCC",
+        "vin": "KNADC123216"
+    }
+]

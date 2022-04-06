@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "04/04/2003",
+        "dateOfIncident": "04/02/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015159,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "ESCAPE",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE STALLED WITHOUT WARNING WHICH MADE THE VEHICLE DIFFICULT TO CONTROL.   THE ENGINE WOULD REV WHEN THE ACCELERATOR WAS PRESSED BUT THE VEHICLE WOULD NOT MOVE.  THE DEALER REPROGRAMMED THE COMPUTER BUT THE PROBLEM RE-OCCURRED.   *JB  *NLM",
+        "vin": "1FMYU04132K"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING,VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "02/20/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10008954,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE SURGED FOWARD WHILE IN DRIVE. WHEN THE BRAKE WAS PRESSED SLIGHTLY THE ENGINE REVVED EXTREMELY HIGH. CONSUMER HAD TO PUT GEAR IN REVERSE THEN NEUTRAL TO STOP ENGINE FROM RACING.*JB",
+        "vin": ""
+    }
+]

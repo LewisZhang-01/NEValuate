@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "01/17/2003",
+        "dateOfIncident": "12/09/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004089,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "BLAZER",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING AT 55 MPH , VEHICLE WOULD NOT ACCELERATE AND IT FELT LIKE IT WAS IN NEUTRAL GEAR. VEHICLE ALMOST GOT HIT BY ONCOMING TRAFFIC.  A SENSOR IN ENGINE CAUSED TRANSMISSION TO GO OUT OF DRIVE GEAR.  *AK",
+        "vin": "1GNCS18X73K"
+    }
+]

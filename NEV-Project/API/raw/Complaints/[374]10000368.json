@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "12/26/2002",
+        "dateOfIncident": "12/21/2001",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000368,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "1997 FORD F150, HEATER/DEFROST DOES NOT FUNCTION PROPERLY ALL THE TIME, MORE OFTEN THAN NOT BLOWS COLD AIR. IN BAD WEATHER VISABILTY IS GREATLY REDUCED.",
+        "vin": "1FTDF1868VN"
+    }
+]

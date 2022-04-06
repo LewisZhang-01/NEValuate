@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/19/2003",
+        "dateOfIncident": "01/15/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002947,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "1996",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Bridgestone Americas Tire Operations",
+                "productMake": "FIRESTONE",
+                "productModel": "WILDERNESS HT",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "FORD EXPLORER WITH 4 FIRESTONE WILDERNESS HT TIRES.  WHILE DRIVING AT HIGHWAY SPEED ON INTERSTARE 12 NEAR MILEMARKER 75 THE LEFT REAR TIRE EXPERIENCED A BLOWOUT.  THE TREAD SEPARATED FROM THE SIDEWALLS OF THE TIRES.  I REPLACED ALL 4 TIRES BUT HAVE THE FAILED TIRE AND DIGITAL PHOTOS IF THEY ARE NEEDED",
+        "vin": "1FMDU32X2TZ"
+    }
+]

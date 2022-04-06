@@ -1,0 +1,54 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "02/12/2021",
+        "dateOfIncident": "10/21/2020",
+        "fire": false,
+        "manufacturer": "Forest River, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11395921,
+        "products": [
+            {
+                "manufacturer": "Forest River, Inc.",
+                "productMake": "FOREST RIVER",
+                "productModel": "PUMA",
+                "productYear": "2018",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE UNDERBODY OF THE 2018 PUMA RV HAD RUSTED SO BADLY THAT THE FRONT OF THE RV TORE OFF WHILE EXITING A GAS STATION. THIS TYPE OF THING SHOULD NEVER HAVE HAPPENED, PARTICULARLY SINCE IT'S ONLY A 2018 MODEL.  LUCKILY THEY WEREN'T ON A HIGHWAY TRAVELING AT 55 MPH.*DT*JB*DT",
+        "vin": "4X4TPUG29JP"
+    },
+    {
+        "components": "TIRES,WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "05/21/2020",
+        "dateOfIncident": "05/18/2020",
+        "fire": false,
+        "manufacturer": "Forest River, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11325439,
+        "products": [
+            {
+                "manufacturer": "Forest River, Inc.",
+                "productMake": "FOREST RIVER",
+                "productModel": "PUMA",
+                "productYear": "2018",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Lionshead Specialty Tire & Wheel LLC",
+                "productMake": "LIONSHEAD",
+                "productModel": "RADIAL ST",
+                "productYear": "9999",
+                "size": "225/75R15",
+                "type": "Tire"
+            }
+        ],
+        "summary": "CASTLE ROCK ST225/75R15 BLEW OUT AT NORMAL OPERATING PRESSURE. THE VEHICLE WAS OPERATING AT 65MPH ON I95. THE TIRE PASSED PRE TRIP INSPECTION AND PRESSURE CHECK. AFTER APPROXIMATELY 200 MILES, THE TIRE BLEW OUT ON CLEAN PAVEMENT. THE TIRE HAD APPROXIMATELY 3000 MILES OF USE ON TIME OF BLOW OUT. THE SIDE WALLS WERE NO COMPROMISED AND MANY OF THE \"NIBS\" WERE STILL PRESENT.*DT*JB  *TR",
+        "vin": "5ZT2PUVB7J4"
+    }
+]

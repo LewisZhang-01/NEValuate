@@ -1,0 +1,46 @@
+[
+    {
+        "components": "SERVICE BRAKES",
+        "crash": true,
+        "dateComplaintFiled": "04/04/2013",
+        "dateOfIncident": "03/30/2013",
+        "fire": false,
+        "manufacturer": "Lamborghini (Automobili Lamborghini)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10507192,
+        "products": [
+            {
+                "manufacturer": "Lamborghini (Automobili Lamborghini)",
+                "productMake": "LAMBORGHINI",
+                "productModel": "GALLARDO",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE WAS BEING RENTED FROM A BUSINESS TO DRIVE A FEW LAPS ON A PRIVATE RACE TRACK. ON THE SEVENTH LAP, THE BRAKES SUDDENLY AND COMPLETELY FAILED, LEADING TO THE VEHICLE LEAVING THE RACE TRACK AND CRASHING.  *TR",
+        "vin": ""
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "01/24/2008",
+        "dateOfIncident": "05/05/2006",
+        "fire": true,
+        "manufacturer": "Lamborghini (Automobili Lamborghini)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10215906,
+        "products": [
+            {
+                "manufacturer": "Lamborghini (Automobili Lamborghini)",
+                "productMake": "LAMBORGHINI",
+                "productModel": "GALLARDO",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE IN OPERATION WHEN FIRE OCCURRED IN ENGINE COMPARTMENT.  FIRE WAS CAUSED BY THE IGNITION OF FLUID FROM THE HYDRAULIC TRANSMISSION CONTROL ON THE HOT EXHAUST. PRESSURE LINE FAILURE WAS IDENTIFIED.  *TR",
+        "vin": "ZHWGU11S34L"
+    }
+]

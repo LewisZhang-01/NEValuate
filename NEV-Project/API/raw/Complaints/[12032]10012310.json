@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": true,
+        "dateComplaintFiled": "03/24/2003",
+        "dateOfIncident": "02/10/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10012310,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE SLID ON BLACK ICE AND THE CONSUMER LOST CONTROL OF THE VEHICLE.  THIS CAUSED A COLLISION WITH ANOTHER VEHICLE AND THE VEHICLE ROLLED OVER TWO TIMES.  THE DRIVER'S SEAT BELT CAME UNBUCKLED AND CAUSED THE DRIVER TO BE THROWN FROM THE SEAT.    NLM",
+        "vin": "1FTZF172XXN"
+    }
+]

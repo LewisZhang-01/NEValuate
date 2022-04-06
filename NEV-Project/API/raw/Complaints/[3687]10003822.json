@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/27/2003",
+        "dateOfIncident": "07/01/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003822,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F350",
+                "productYear": "1985",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE CONSUMER EXPERIENCED THE FOLLOWING WITH THE TIRES:  RIGHT REAR BLOWOUT, LEFT TIRE SEPARATION, RIGHT FRONT DEVELOPED A LARGE BUMP, FRONT LEFT WAS  TAKEN OFF FOR SAFETY, AND THE REAR LEFT BLEW OUT WHILE STANDING IN THE GARAGE.  (TIRES-KUHMO/MARSHAL VENTURE)  SCC",
+        "vin": "1FTH534LYFH"
+    }
+]

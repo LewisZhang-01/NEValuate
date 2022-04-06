@@ -1,0 +1,24 @@
+[
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "04/11/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Mack Trucks, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10015714,
+        "products": [
+            {
+                "manufacturer": "Mack Trucks, Inc.",
+                "productMake": "MACK",
+                "productModel": "RD",
+                "productYear": "1987",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE STEP WHICH WAS WELDED TO THE VEHICLE BROKE, WHICH CAUSED INJURY TO THE CONSUMER.  *JB",
+        "vin": ""
+    }
+]

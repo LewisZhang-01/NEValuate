@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": true,
+        "dateComplaintFiled": "02/24/2003",
+        "dateOfIncident": "02/15/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 2,
+        "odiNumber": 10009105,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "DURANGO",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE DRIVER AND PASSENGER SEAT BELTS FAILED TO RESTRAIN CONSUMER, WHEN THE VEHICLE WAS INVOLVED IN AN ACCIDENT.*JB *TS",
+        "vin": "1B4NS28Y7WF"
+    }
+]

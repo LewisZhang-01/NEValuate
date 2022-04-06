@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "06/10/2003",
+        "dateOfIncident": "06/08/2003",
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022732,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "TOWN CAR",
+                "productYear": "1988",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "IGNITION SWITCH FAILED CAUSING A SMALL FIRE UNDER THE DASHBOARD. DEALER NOTIFIED. *AK",
+        "vin": "1LNBM81F0JY"
+    }
+]

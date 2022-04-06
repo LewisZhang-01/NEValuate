@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "07/18/2003",
+        "dateOfIncident": "05/12/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021723,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "CAMRY",
+                "productYear": "1991",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Cooper Tire & Rubber Co.",
+                "productMake": "COOPER",
+                "productModel": "FUTURA 2000 RADIAL LTE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE SPARE TIRE WHICH WAS IN THE TRUNK BLEW UP AND POPPED OPEN THE TRUNK AND CAUSED DAMAGE ON THE LEFT REAR SIDE OF THE CAR.  ALSO THE VEHICLE EXPERIENCED 2 TIRE BLOW OUTS, WHICH CAUSED DAMAGE TO THE VEHICLE. *AK  *CB    *JB",
+        "vin": "4T1SV21E6MU"
+    }
+]

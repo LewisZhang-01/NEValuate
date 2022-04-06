@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "04/28/2003",
+        "dateOfIncident": "04/09/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017642,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CADILLAC",
+                "productModel": "SEVILLE",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING, THE STEERING WHEEL LOCKED UP.          *JB",
+        "vin": "1G6KY53B1NU"
+    }
+]

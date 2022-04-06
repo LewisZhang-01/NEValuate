@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "01/20/2003",
+        "dateOfIncident": "01/17/2003",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10006668,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "JETTA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FAILURE (CRACKED) OF MULTIPLE IGNITION COIL PACKS- CAUSES ENGINE TO MISFIRE/SPUTTER- ALLOWABLE EMISSIONS EXCEEDED (MIL-LIGHT INDICATOR).  SCC  ***DIMSII IVOQ ENTRY POSTED AFTER 12/12/02 CUT-OVER TO ARTEMIS****770863****",
+        "vin": "3VWVH69M43M"
+    }
+]

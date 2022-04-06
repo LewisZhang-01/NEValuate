@@ -1,0 +1,46 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,STRUCTURE,SEATS",
+        "crash": false,
+        "dateComplaintFiled": "10/08/2021",
+        "dateOfIncident": "01/26/2021",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11436029,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "IMPALA",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The air conditioner tube was off inside the vehicle and caused massive leaking in the carpets. Causing mold to grow excessively under the floor mats, in the carpets, under the seats, etc. Which as a result led to electrical issues. It\u2019s being looked into by a senior member at GM for months now, nothing is being done. Radley Chevy in Fredricksburg Virginia hasn\u2019t done anything for us either. My family is now having respiratory issues due to the mold issue.",
+        "vin": "2G1105S36L9"
+    },
+    {
+        "components": "EXTERIOR LIGHTING",
+        "crash": false,
+        "dateComplaintFiled": "08/31/2021",
+        "dateOfIncident": "08/27/2021",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11431190,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "IMPALA",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact rented a 2020 Chevrolet Impala. The contact stated that the headlamps failed to produce adequate lighting while driving. There were no warning lights illuminated. The local dealer was not contacted. The vehicle was not diagnosed or repaired. The manufacturer was not notified of the failure. The failure mileage was 40,433. The VIN was not available.",
+        "vin": ""
+    }
+]

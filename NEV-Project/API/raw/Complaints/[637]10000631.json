@@ -1,0 +1,32 @@
+[
+    {
+        "components": "SUSPENSION,TIRES",
+        "crash": false,
+        "dateComplaintFiled": "12/29/2002",
+        "dateOfIncident": "12/28/2002",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000631,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "PT CRUISER",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "EAGLE LS",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "SINCE DAY ONE HAVE HAD A \"WOBBLE\" IN FRONT END. STEERING WHEEL MOVES BACK AND FORTH. FEEL VIBRATION THROUGH FLOOR BOARD. THIS AT 35-40 MPH. NO \"WOBBLE\" OR VIBRATIONS AT HIGHER SPEEDS. TIRES ROTATED AND FRONT END BALANCED THREE TIMES. NO HELP. DODGE DEALER NO HELP. THEY SAID IT WAS THE GOODYEAR TIRES AND TO REPLACE THEM WITH MICHELIN. WILL BE LOOKING INTO FRONT AXLE OR DRIVELINE PROBLEMS NEXT.",
+        "vin": "3C8FY68BX2T"
+    }
+]

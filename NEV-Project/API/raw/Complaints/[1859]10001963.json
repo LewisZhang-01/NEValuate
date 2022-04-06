@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "01/03/2003",
+        "dateOfIncident": "01/03/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001963,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATED THAT DURING INSPECTION, MECHANIC DETERMINED THAT WHEEL BEARINGS WERE DEFECTIVE.  CONSUMER CONTACTED MANUFACTURER ABOUT RELATED RECALL 00V303000.  MFR  ADVISED CONSUMER'S V.I.N. DOES NOT FALL WITHIN MANUFACTURING DATE RANGE OF 3/5/99-5/5/00.  CONSUMER ADVISED THAT CERTIFICATION LABEL STATES VEHICLE WAS MANUFACTURED IN 09/99. TS",
+        "vin": "1FAFP3839YW"
+    }
+]

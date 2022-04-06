@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "07/03/2003",
+        "dateOfIncident": "03/27/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 2,
+        "odiNumber": 10022171,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "COROLLA",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER'S VEHICLE WAS INVOLVED IN A MINOR ACCIDENT AND THERE WAS A DELAY WITH THE AIR BAGS DEPLOYING, WHICH CAUSED INJURIES TO THE DRIVER AND PASSENGER.  *AK    *CB",
+        "vin": ""
+    }
+]

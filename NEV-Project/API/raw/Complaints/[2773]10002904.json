@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "01/18/2003",
+        "dateOfIncident": "01/15/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002904,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "DURANGO",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "INTERMEDIATE STEERING COLUMN FAILURE",
+        "vin": "1B4HS28Y6WF"
+    }
+]

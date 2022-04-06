@@ -1,0 +1,32 @@
+[
+    {
+        "components": "VISIBILITY,TIRES",
+        "crash": false,
+        "dateComplaintFiled": "03/01/2003",
+        "dateOfIncident": "03/01/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10008305,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "S10",
+                "productYear": "1994",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "RADIAL",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "EXTERIOR REAR VIEW MIRRORS ATTACHED TO VEHICLE WITH INSUFFICIENTLY STRONG MATERIALS THAT TEND TO BREAK DURING TEMPERATURE SWINGS  OR THROUGH APPLICATION OF LIGHT FORCE.  DRIVER'S SIDE MIRROR BROKE IN AUGUST OF 2001 OF UNKNOWN CIRCUMSTANCES, PASSENGER'S SIDE MIRROR BROKE ON MARCH 1 2003 DURING A CAR WASH.  INSPECTION OF MIRROR AND DOOR SHOWED PLASTIC HOUSING WAS CRACKED AND BOLTS WERE SHORN OFF. *JB",
+        "vin": "1GCCS1443R8"
+    }
+]

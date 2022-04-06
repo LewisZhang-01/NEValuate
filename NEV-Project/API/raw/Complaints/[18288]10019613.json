@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "05/12/2003",
+        "dateOfIncident": "01/31/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019613,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "OLDSMOBILE",
+                "productModel": "88",
+                "productYear": "1981",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "YOKOHAMA RUBBER CO. LTD.",
+                "productMake": "YOKOHAMA",
+                "productModel": "ALL SEASON RADIAL",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE LEFT REAR TIRE EXPERIENCED TREAD SEPARATION.  YOKOHAMA ALL SEASON RADIAL TIRE P215/75R15.      *JB",
+        "vin": ""
+    }
+]

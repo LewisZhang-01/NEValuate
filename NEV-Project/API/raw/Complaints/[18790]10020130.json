@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "05/19/2003",
+        "dateOfIncident": "05/19/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020130,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "300M",
+                "productYear": "9999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE DRIVERS SEAT MOVED WHILE DRIVING.  *NLM",
+        "vin": "2C3HE66GXXH"
+    }
+]

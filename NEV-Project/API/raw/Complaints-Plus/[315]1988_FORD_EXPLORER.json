@@ -1,0 +1,134 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC,TIRES",
+        "crash": false,
+        "dateComplaintFiled": "12/02/2001",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 755187,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "1988",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I WANTED TO KNOW IF THIS VEHICLE IS SAFE&I AM CONCERN ABOUT THE TIRE&THE BRAKE. *AK",
+        "vin": "2FMZA5145WB"
+    },
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "05/25/2000",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 723175,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "1988",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VISITED DEALER WITH COMPLAINT OF NOISE(GROWL) IN STEERING COLUMN.  WAS ADVISED THAT THIS WAS NORMAL.  ALSO, FRONT SUSPENSION HAS NUMEROUS SQUEAKS AS YOU WOULD EXPERIENCE IN AN OLDER VEHICLE THAT HAS NOT HAD PROPER LUBRICATION.  DEALER ADVISED THIS WAS NORMAL.  DOES NOT SEEM NORMAL.  I INTEND TO TAKE VEHICLE TO SPECIALIZED SUSPENSION REPAIR SHOP FOR EVALUATION. *AK",
+        "vin": ""
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "07/29/1999",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 709358,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "1988",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "IGNITION REPLACED ON RECALL 8/7/96. FUEL & TEMPERATURE GAUGES FREQUENTLY MALFUNCTION WHEN THE IGNITION SWITCH MALFUNCTIONS & OVERHEATS. THE TEMPERATURE GAUGE INDICATES OVERHEATING. FOCUSING ON OVERHEATING PROBLEM OVERLOOKS THE ACTUAL PROBLEM OF THE IGNITION WHICH WAS REPLACED ON RECALL. ALSO RADIATOR FAN WILL NOT ENGAGE & ACTUAL OVERHEATING WILL TAKE PLACE. LUCKILY NO IGNITION FIRE.  REPLACE IGNITION SWITCH & AVOID FORD PRODUCT IF POSSIBLE.",
+        "vin": "1FABP1798JW"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "02/26/1997",
+        "dateOfIncident": "01/13/1997",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 515145,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "1988",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "INCOMPLETE IGNITION RECALL REPAIR DUE TO LACK OF PARTS.",
+        "vin": "1FABP1799JW"
+    },
+    {
+        "components": "EXTERIOR LIGHTING",
+        "crash": false,
+        "dateComplaintFiled": "02/26/1997",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 515145,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "1988",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "HEADLIGHT SWITCH DEFECTIVE.",
+        "vin": "1FABP1799JW"
+    },
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "02/26/1997",
+        "dateOfIncident": "01/28/1997",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 515145,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "1988",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "POWER STEERING FAILED.",
+        "vin": "1FABP1799JW"
+    }
+]

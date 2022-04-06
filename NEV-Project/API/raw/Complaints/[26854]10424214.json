@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "09/08/2011",
+        "dateOfIncident": "09/08/2011",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10424214,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "BLAZER",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUEL GAUGE NOT WORKING AFTER 80,000 MILES.  *TR",
+        "vin": "1GNDT13S762"
+    }
+]

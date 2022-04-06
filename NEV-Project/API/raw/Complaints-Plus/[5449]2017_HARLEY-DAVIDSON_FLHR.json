@@ -1,0 +1,68 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "12/06/2018",
+        "dateOfIncident": "11/05/2018",
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11156690,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "FLHR",
+                "productYear": "2017",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE IS SUBJECT TO NHTSA RECALL NO.18V734. HAVE BEEN ON DEALERS LIST FOR RECALL COMPLETION FOR APPROXIMATELY A MONTH STILL WAITING. DEALERS NAME IS [XXX] IN [XXX]. DEALER ADVISES WAIT TIME MAY BE SEVERAL MORE MONTHS.    INFORMATION REDACTED PURSUANT TO THE FREEDOM OF INFORMATION ACT (FOIA), 5 U.S.C. 552(B)(6).  *TR",
+        "vin": "1HD1MAD16HB"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "09/03/2018",
+        "dateOfIncident": "09/01/2018",
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11124101,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "FLHR",
+                "productYear": "2017",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CLUTCH SAFETY SWITCH FAILURE.",
+        "vin": "1HD1FBC11HB"
+    },
+    {
+        "components": "FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "10/16/2017",
+        "dateOfIncident": "10/02/2017",
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11033898,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "FLHR",
+                "productYear": "2017",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE ENGINE WILL STALL AT A TRAFFIC LIGHT, AND ACCELERATING FROM THE LIGHT IT WILL ALSO STALL, AND TO RESTART THE ENGINE YOU HAVE TO STEP ON THE BRAKES, THEN A CAR BEHIND WILL ALMOST RUN INTO YOU.CREATING A DANGEROUS SITUATION.. AND I'VE TALKED TO A FEW PEOPLE WITH THE SAME MODEL VEHICLE AND THERE HAVING THE SAME STALLING PROBLEM..",
+        "vin": "1HD1MAD18HB"
+    }
+]

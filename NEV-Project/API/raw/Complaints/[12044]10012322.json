@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "03/24/2003",
+        "dateOfIncident": "03/24/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10012322,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CADILLAC",
+                "productModel": "CTS",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLES  STEERING SHAFT BOLT FAILED. THE DEALER WAS NOTIFIED.  *NLM",
+        "vin": "1G6DM57N130"
+    }
+]

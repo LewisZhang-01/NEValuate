@@ -1,0 +1,46 @@
+[
+    {
+        "components": "POWER TRAIN,ELECTRICAL SYSTEM,VISIBILITY,LATCHES/LOCKS/LINKAGES",
+        "crash": false,
+        "dateComplaintFiled": "02/08/2008",
+        "dateOfIncident": "02/02/2008",
+        "fire": true,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10217437,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "IMPALA",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "1. ELECTRONIC CONTROL MODULE (ECM) FAILURE , DRIVABILITY MALFUNCTION VEHICLE NOT OPERABLE. PROBLEMS WITH ELECTRIC DOOR LOCK AND REAR WINDOW DEFROSTER OPERATION,  INTERMIT OPERATION. VEHICLE ELECTRONIC RADIO MALFUNCTION.  2. VEHICLE  NOTED TO HAVE  DRIVABILITY PROBLEMS FOR LAST SEVERAL YEARS.  3. VEHICLE ECM WAS REPLACED ,  NEW RELAY AND WIRE CONNECTOR ORDERED FROM G.M. DEALERSHIP NOT YET INSTALLED.   ( RELAY AND WIRES AND CONNECTOR BURNT UP )  THIS VEHICLE IS A 1993 CHEVY CAVALIER, BUILT BY G.M. ( NOT IMPALA).  *TR",
+        "vin": "1G1JC1441P7"
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "01/30/2008",
+        "dateOfIncident": "01/15/1998",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10216522,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "IMPALA",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "1993 CHEVY CAVALIER-TRANSMISSION WOULD NOT DISENGAGE DURING STOPPING. I HAD A DEFECTIVE PART REMANUFACTURED AND REPLACED.  *TR",
+        "vin": ""
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "02/27/2003",
+        "dateOfIncident": "02/23/2003",
+        "fire": true,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009520,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "REGAL",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE CAUGHT ON FIRE WHILE PARKED, THE FIRE DEPARTMENT STATED THE FIRE WAS CAUSED BY AN ELECTRICAL SHORT.*JB",
+        "vin": "2G4WF5213V1"
+    }
+]

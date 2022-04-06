@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "09/28/2011",
+        "dateOfIncident": "09/09/2011",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10427714,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "RAINIER",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUEL GAUGE WORKS ERRATICALLY.  WHEN THE GAS TANK IS FILLED COMPLETELY THE FUEL GAUGE READS LOW AND DINGS THE \"LOW FUEL\" ALARM.  GAUGE THEN CLIMBS TOWARD FULL AS YOU SPEED UP AND THEN REPEATEDLY DROPS TO THE LOW FUEL ALARM.  THE FAULTY FUEL LEVEL COULD LEAVE YOU STRANDED ON THE HIGHWAY WITH NO GAS IF YOU ARE NOT TRACKING YOUR FUEL LEVEL.  *TT",
+        "vin": "5GADT13S362"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "02/19/2003",
+        "dateOfIncident": "02/19/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10007808,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "INTREPID",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DISHMAN DODGE; 7700 EAST SPRAGUE AVENUE; SPOKANE, WA 99212 FAILED TO PERFORM DOT MANUFACTURER DRIVERS SEAT RECALL SERVICE 19-FEB-2003 (REFERENCE INVOICE NO. DOCS66853) STATING NO KNOWLEDGE OF RECALL ANNOUNCEMENT.",
+        "vin": "2B3HD46R51H"
+    }
+]

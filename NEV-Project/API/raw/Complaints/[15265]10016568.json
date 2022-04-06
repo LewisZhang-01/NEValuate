@@ -1,0 +1,31 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "04/27/2003",
+        "dateOfIncident": "02/01/1992",
+        "fire": false,
+        "manufacturer": "UNKNOWN MANUFACTURER",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10016568,
+        "products": [
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN1",
+                "productYear": "9999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "AIR BAG SWITCH",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "THE PUMPING OF FUEL FROM BACK TANK TO FRONT TANK,EVEN AFTER THE RECALL. THE DEALERSHIP SAID THEY DIDN'T EXPECT IT WOULD BE FIXED BY THE RECALL AND THAT WAS ALL THEY WERE REQUIRED TO DO. THIS PUMPING OF FUEL DIDN'T START UNTIL THE FIRST RECALL FIX WAS DONE ON THE FUEL SYSTEM, AND I HAVE PUT UP WITH THIS UNSAFE SITUATION FOR THE LAST 12 YEARS.    *NLM",
+        "vin": ""
+    }
+]

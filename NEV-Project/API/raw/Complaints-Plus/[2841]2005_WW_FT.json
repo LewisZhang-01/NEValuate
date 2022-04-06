@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "07/08/2013",
+        "dateOfIncident": "03/30/2013",
+        "fire": false,
+        "manufacturer": "WEEKEND WARRIOR TRAILERS INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10523686,
+        "products": [
+            {
+                "manufacturer": "WEEKEND WARRIOR TRAILERS INC.",
+                "productMake": "WW",
+                "productModel": "FT",
+                "productYear": "2005",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "DURO TIRE & WHEEL",
+                "productMake": "DURO",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "size": "225/75D15",
+                "type": "Tire"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2005 WINNEBAGO MINNIE (N/A) MOTOR HOME, EQUIPPED WITH DURO ONVOY TIRES, SIZE LT225/75/R16. THE CONTACT STATED THAT WHILE DRIVING 55 MPH, THE INSIDE REAR PASSENGER TIRE BLEW. THE FAILURE RECURRED WITH THE INSIDE REAR DRIVER'S SIDE TIRE AS WELL.  IN ADDITION, THERE WAS A BLISTER ON THE SIDEWALL OF THE INSIDE OF THE REAR DRIVER'S SIDE TIRE. THE FAILURE WAS NOT REPORTED TO THE MANUFACTURER. THE TIRE FAILURE MILEAGE WAS 1,000. THE VEHICLE FAILURE MILEAGE WAS 39,000. THE CURRENT MILEAGE WAS 42,000. THE VIN WAS NOT AVAILABLE.",
+        "vin": ""
+    }
+]

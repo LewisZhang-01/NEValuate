@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "01/17/2003",
+        "dateOfIncident": "01/17/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004139,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "OLDSMOBILE",
+                "productModel": "BRAVADA",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE WIPERS FAILED INTERMITTENTLY WHILE IN OPERATION.  AS A RESULT THE DRIVER WAS FORCED TO PULL OVER DURING A RAIN STORM.   RECALL 98V150001 WAS ISSUED ON SIMILAR MAKE/MODEL VEHICLES, HOWEVER THIS VEHICLE WAS NOT INCLUDED DUE TO THE VIN#.  *TS   *NLM",
+        "vin": "1GHDT13W7W2"
+    }
+]

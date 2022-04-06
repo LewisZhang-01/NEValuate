@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "05/30/2003",
+        "dateOfIncident": "04/03/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021520,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "NAVIGATOR",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Continental Tire the Americas, LLC",
+                "productMake": "CONTINENTAL",
+                "productModel": "CONTITRAC AW",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE CONTINENTAL TIRES VIBRATED WHILE DRIVING.  THE VEHICLE WAS TAKEN TO THE DEALER WHO TOLD THE CONSUMER THAT THE STEEL TIRE BELT CAME APART.  THE CONSUMER WAS ALSO TOLD THAT THE TIRES WERE RECALLED BUT HE CONSUMER WAS NOT ELIGIBLE FRO THE RECALL BECAUSE IT EXPIRED 2 DAYS BEFORE THE VEHICLE WAS TAKEN TO THE DEALER.   *MR   *SCC   *NLM",
+        "vin": ""
+    }
+]

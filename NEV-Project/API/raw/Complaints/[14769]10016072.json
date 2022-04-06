@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "04/17/2003",
+        "dateOfIncident": "04/01/2001",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10016072,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "ESCORT",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SINCE VEHICLE WAS PURCHASE IN 1999 THE CONSUMER HAS REPLACED FOUR DEFECTIVE HEATER CORES.  THE FIRST FAILURE IN 04/01 RESULTED IN DAMAGE TO THE AIRBAG MODULE DUE TO LEAKAGE FROM THE HEATER CORE.  THE MOST RECENT FAILURE WAS IN 10/02.  NLM",
+        "vin": "1FALP13P1VW"
+    }
+]

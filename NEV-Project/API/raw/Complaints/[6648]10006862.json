@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "02/10/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10006862,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TAURUS",
+                "productYear": "1991",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AFTER THE RECALL FOR THE REAR LOWER SUBFRAME MOUNT WAS PERFORMED, THE PROBLEM RECURRED.*JB",
+        "vin": "1FACP54Y2MA"
+    }
+]

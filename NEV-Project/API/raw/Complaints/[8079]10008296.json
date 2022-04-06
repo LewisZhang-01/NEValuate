@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "03/01/2003",
+        "dateOfIncident": "07/01/2000",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10008296,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "ASTRO",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "STEERING AND BRAKING PROBLEMS BECAUSE OF A BENT REAR AXLE AND FRAME A HALF INCH DIFFERENT FROM ONE SIDE TO THE OTHER.*JB",
+        "vin": "1GNEL19W6YB"
+    }
+]

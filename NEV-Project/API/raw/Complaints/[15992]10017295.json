@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "04/21/2003",
+        "dateOfIncident": "04/21/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017295,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "GRAND MARQUIS",
+                "productYear": "1991",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING 35 MPH THE VEHICLES ELECTRICAL SYSTEM FAILED AND THE VEHICLE SHUT DOWN.  *NLM  *SCC",
+        "vin": "2MECM75F2MX"
+    }
+]

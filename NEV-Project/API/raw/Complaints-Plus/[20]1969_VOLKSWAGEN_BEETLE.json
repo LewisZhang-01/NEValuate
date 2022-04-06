@@ -1,0 +1,24 @@
+[
+    {
+        "components": "EXTERIOR LIGHTING",
+        "crash": true,
+        "dateComplaintFiled": "08/25/1997",
+        "dateOfIncident": "03/18/1997",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 518369,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "BEETLE",
+                "productYear": "1969",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKE LIGHT SWITCH BLEW OPEN, RELEASING BRAKE FLUID OUT OF FRONT CIRCUIT, CAUSING BRAKE FAILURE, CONTRIBUTING TO AN ACCIDENT. *AK",
+        "vin": ""
+    }
+]

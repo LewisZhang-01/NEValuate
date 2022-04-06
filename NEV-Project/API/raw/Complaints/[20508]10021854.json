@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "05/29/2003",
+        "dateOfIncident": "05/26/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021854,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "TOWN AND COUNTRY",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN DRIVING WITH CRUISE CONTROL ENGAGED, CRUISE CONTROL WILL DEACTIVATE BY ITSELF AND WITHOUT WARNING, DRASTICALLY REDUCING VEHICLE'S SPEED.*AK",
+        "vin": "1C4GP64L1VB"
+    }
+]

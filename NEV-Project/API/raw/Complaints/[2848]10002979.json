@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/19/2003",
+        "dateOfIncident": "01/17/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002979,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "1996",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "DUNLOP TIRE CORPORATION",
+                "productMake": "DUNLOP",
+                "productModel": "RADIAL ROVER",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE LEFT REAR DUNLOP RADIAL ROVER (LT235/75R15) TREAD SEPARATED FROM TIRE. OCCURRED ON FREEWAY AT 70MPH. THERE WAS A THUMPING NOISE JUST PRIOR TO INCIDENT. THE TIRE DID NOT LOSE PRESSURE. NO CRASH, NO INJURIES BUT SOME DAMAGE TO LEFT 1/4 PANEL & TRIM ON VEHICLE, 1996 FORD EXPLORER. ALL 4 TIRES REPLACED AT SAME TIME & HAD APPROXIMATELY 40,000 MILES ON THEM WHEN THIS OCCURRED.",
+        "vin": ""
+    }
+]

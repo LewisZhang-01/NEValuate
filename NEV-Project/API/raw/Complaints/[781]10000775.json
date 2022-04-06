@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "01/07/2003",
+        "dateOfIncident": "12/21/2002",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000775,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "CARAVAN",
+                "productYear": "1990",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "PAINT ON 1990 DODGE CARAVAN IS PEELING OFF.",
+        "vin": ""
+    }
+]

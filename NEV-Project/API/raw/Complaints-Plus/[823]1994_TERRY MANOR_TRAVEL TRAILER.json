@@ -1,0 +1,46 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "07/14/1998",
+        "dateOfIncident": "06/09/1998",
+        "fire": false,
+        "manufacturer": "MANSFIELD TIRE & RUBBER C",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 825372,
+        "products": [
+            {
+                "manufacturer": "MANSFIELD TIRE & RUBBER C",
+                "productMake": "TERRY MANOR",
+                "productModel": "TRAVEL TRAILER",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING TRAILER, THE DICO ESCAPADES TIRES WERE BECOMING UNRAVELED. HAD CALLED TRAILER COMPANY & WAS INFORMED TO CALL TIRE MANUFACTURER. NOTHING TRAILER COMPANY COULD DO ABOUT THE TIRES.   *AK",
+        "vin": ""
+    },
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "09/09/1994",
+        "dateOfIncident": "06/01/1993",
+        "fire": false,
+        "manufacturer": "MANSFIELD TIRE & RUBBER C",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 479388,
+        "products": [
+            {
+                "manufacturer": "MANSFIELD TIRE & RUBBER C",
+                "productMake": "TERRY MANOR",
+                "productModel": "TRAVEL TRAILER",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "LEFT RIGHT OUTER PANEL SKINS CRACKED DUE TO FATIGUE.  *SKD",
+        "vin": "1EA5X3022R2"
+    }
+]

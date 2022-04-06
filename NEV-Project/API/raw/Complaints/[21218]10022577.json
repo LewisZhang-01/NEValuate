@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "06/06/2003",
+        "dateOfIncident": "03/01/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022577,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "ESCORT",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FRONTAL AIR BAGS DEPLOYED WITHOUT WARNING WHILE DRIVING.*AK",
+        "vin": "1FALP13P6VW"
+    }
+]

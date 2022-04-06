@@ -1,0 +1,24 @@
+[
+    {
+        "components": "WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "06/10/2003",
+        "dateOfIncident": "06/06/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021349,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER SPORT TRAC",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEELS STUCK, CANNOT REMOVE WHEELS TO CHECK BRAKES OR ROTATE TIRES. I DON'T KNOW WHAT TO DO IF I GET A FLAT TIRE.*AK",
+        "vin": "1FMZU67E81U"
+    }
+]

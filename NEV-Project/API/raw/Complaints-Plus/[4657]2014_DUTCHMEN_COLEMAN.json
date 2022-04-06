@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "07/23/2019",
+        "dateOfIncident": "07/18/2019",
+        "fire": false,
+        "manufacturer": "Dutchmen Manufacturing, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11234196,
+        "products": [
+            {
+                "manufacturer": "Dutchmen Manufacturing, Inc.",
+                "productMake": "DUTCHMEN",
+                "productModel": "COLEMAN",
+                "productYear": "2014",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2014 COLEMAN DUTCHMAN 192RVS (NA) EQUIPPED WITH RIDGEWAY SPORT SP TIRES, SIZE: R14 (NA). THE CONTACT STATED THAT THE TREAD ON THE FRONT PASSENGER TIRE DETACHED AND ENTERED INTO THE CAMPER RV ITSELF. THE FAILURE DAMAGED THE SHELVING, WATER LINE, AND SEWER LINES, ALONG WITH THE FLOORING BY THE WHEEL WELL. THE MANUFACTURER WAS NOT NOTIFIED. THE VEHICLE WAS NOT DIAGNOSED OR REPAIRED. THE DOT NUMBER AND TIRE FAILURE MILEAGE WERE UNKNOWN. THE CAMPER FAILURE MILEAGE WAS 5,000.",
+        "vin": "4YDT19223FH"
+    }
+]

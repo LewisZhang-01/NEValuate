@@ -1,0 +1,46 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "10/27/2021",
+        "dateOfIncident": "10/01/2019",
+        "fire": true,
+        "manufacturer": "Forest River, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11438367,
+        "products": [
+            {
+                "manufacturer": "Forest River, Inc.",
+                "productMake": "FOREST RIVER",
+                "productModel": "SANDPIPER",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact owns a 2020 Forest River Sandpiper. The contact stated that the interior lights would flicker on and off. The contact also stated that they detected a burning odor that would emit from the circuit board. The contact stated no warning lights were illuminated in relation to the failure. The vehicle was taken to the dealer twice to have the circuit board replaced; however, the failure persisted. The contact also stated that unknown black soot had developed on the contact's clothes and the appliances inside the trailer. The RV was taken back to the dealer where they could not find the cause of the soot. The RV was then taken to the manufacturer for further testing and after several additional months of testing, the manufacturer sent an email that informed the contact that mold was discovered inside the RV. The manufacturer had been called several times about the matter but the contact had yet to receive an update. The vehicle had yet to be repaired and remained in the possession of the manufacturer. The failure mileage was 0. The VIN was not available.",
+        "vin": ""
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "07/13/2021",
+        "dateOfIncident": "04/24/2019",
+        "fire": true,
+        "manufacturer": "Forest River, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11424581,
+        "products": [
+            {
+                "manufacturer": "Forest River, Inc.",
+                "productMake": "FOREST RIVER",
+                "productModel": "SANDPIPER",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact owns a 2020 Forest River Sandpiper. The contact stated that the interior lights would flicker on and off. The contact also stated that they detected a burning odor and was relating it to the converter box and the fuse box shorting out not allowing electrical components to function in the vehicle. The contact stated no warning light was illuminated. The vehicle was not taken to the local dealer nor independent mechanic to be diagnosed or repaired. The manufacturer had been informed of the failure and informed the contact that they could not assist. The failure mileage was unknown.",
+        "vin": "4X4FSAP21LJ"
+    }
+]

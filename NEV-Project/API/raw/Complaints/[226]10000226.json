@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "12/18/2002",
+        "dateOfIncident": "12/05/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000226,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "ESCAPE",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "GENERAL TIRE & RUBBER CO.",
+                "productMake": "GENERAL TIRE",
+                "productModel": "295/75R22.5",
+                "productYear": "1993",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "MY 2001 FORD EXCAPE HAS 27,600 MILES ON IT.  MY TIRES HAVE WORN OUT FROM THE OUTSIDE IN.  I CARRIED IT TO THE LOCAL FORD DEALER AND WAS TOLD I NEEDED A 4 WHEEL ALIGNMENT.  MY DEALER SAID I HAD RECEIVED A CHECK BEFORE I BOUGHT IT.  I DID NOT.  I DROVE IT OFF THE SHOWROOM FLOOR.  NOW I HAVE TO BUY OVER $400 WORTH OF TIRES AND HAVE AN ALIGNMENT.  THE LOCAL DEALER SAID I WOULD HAVE TO HAVE HAD A PRETTY GOOD LICK FOR IT TO HAVE ALL 4 OUT OF ALIGNMENT.  I DO NOT HOTDOG THIS CAR.  I FEEL LIKE THIS IS A MANUFACTURERS DEFECT",
+        "vin": ""
+    }
+]

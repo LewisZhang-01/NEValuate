@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": true,
+        "dateComplaintFiled": "05/04/2003",
+        "dateOfIncident": "01/27/2000",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 1,
+        "numberOfInjuries": 1,
+        "odiNumber": 10016995,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "RAM PICKUP",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "GAS PEDAL STICKING ON 1996 DODGE RAM PICKUP CAUSING THE VEHICLE TO IMMEDIATELY ACCELERATE. PEDAL HAD TO BE MANUALLY PULLED \"UP\" TO STOP THE ACCELERATION.  *JB",
+        "vin": ""
+    }
+]

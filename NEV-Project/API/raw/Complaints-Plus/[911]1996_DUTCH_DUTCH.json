@@ -1,0 +1,90 @@
+[
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "09/09/1997",
+        "dateOfIncident": "07/01/1996",
+        "fire": false,
+        "manufacturer": "DUTCH CRAFT TRV. TRAILERS",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 606038,
+        "products": [
+            {
+                "manufacturer": "DUTCH CRAFT TRV. TRAILERS",
+                "productMake": "DUTCH",
+                "productModel": "DUTCH",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AIR CONDITIONER MOTOR FAILED.",
+        "vin": "47CF20R27T1"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "02/26/1997",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "DUTCH CRAFT TRV. TRAILERS",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 515146,
+        "products": [
+            {
+                "manufacturer": "DUTCH CRAFT TRV. TRAILERS",
+                "productMake": "DUTCH",
+                "productModel": "DUTCH",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKES FAILED, CAUSING ACCIDENT.",
+        "vin": "4S7NT9K0XTC"
+    },
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "02/26/1997",
+        "dateOfIncident": "07/16/1996",
+        "fire": false,
+        "manufacturer": "DUTCH CRAFT TRV. TRAILERS",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 515146,
+        "products": [
+            {
+                "manufacturer": "DUTCH CRAFT TRV. TRAILERS",
+                "productMake": "DUTCH",
+                "productModel": "DUTCH",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "APPLIED CRUISE CONTROL, APPLIED BRAKES PRIOR TO TURNING OFF ONTO THE EXIT ROAD, UNABLE TO SLOW DOWN, DUE TO STICKING CRUISE CONTROL.",
+        "vin": "4S7NT9K0XTC"
+    },
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "02/26/1997",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "DUTCH CRAFT TRV. TRAILERS",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 515146,
+        "products": [
+            {
+                "manufacturer": "DUTCH CRAFT TRV. TRAILERS",
+                "productMake": "DUTCH",
+                "productModel": "DUTCH",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE CRUISE CONTROL WAS SET, DRIVE TRIED TO APPLY THE BRAKE PRIOR TO TURN OFF AN EXIT RAMP BUT WAS UNABLE TO SLOW THE VEHICLE, DRIVER LOST CONTROL AND CRASHED INTO TREES CAUSING EXTENSIVE FRONT END DAMAGE AND INJURY TO PASSENGERS NECK AND BACK.",
+        "vin": "4S7NT9K0XTC"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,SEAT BELTS,VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "06/13/2003",
+        "dateOfIncident": "06/10/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10023006,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE NOT ONLY HAS STEERING, LINKAGE, SEAT BELT, AND BRAKE PROBLEMS AS REPORTED, BUT ALSO ACCELERATOR STICKS.  WAS REPAIRED LAST IN THE FALL OF 2002, BUT AS SOON AS TEMPERATURE OUTSIDE GOT TO 60 FAHRENHEIT THE PETAL BEGAN TO STICK AGAIN.  WHEN YOU DO GET PEDAL TO DEPRESS VEHICLE JUMPS FORWARD RAPIDLY.  DOES ALL THE TIME WHEN WEATHER IS WARM.   *NLM",
+        "vin": "3GNFK16T1YG"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "components": "WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "12/26/2017",
+        "dateOfIncident": "12/21/2017",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11056602,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "740LI",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2014 BMW 740LI. THE CONTACT NOTICED THAT THE REAR PASSENGER RIM FRACTURED AND THE AIR PRESSURE WARNING INDICATOR ILLUMINATED. THE VEHICLE WAS NOT TAKEN TO THE DEALER. THE VEHICLE WAS NOT DIAGNOSED OR REPAIRED. THE MANUFACTURER WAS CONTACTED AT 800-831-1117 AND STATED THAT THE VIN WAS NOT INCLUDED IN A RECALL; THEREFORE, THE CONTACT HAD TO PAY FOR THE REPAIR. A CASE NUMBER WAS NOT PROVIDED. THE APPROXIMATE FAILURE MILEAGE WAS 30,000.",
+        "vin": "WBAYE4C53ED"
+    },
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "03/13/2017",
+        "dateOfIncident": "02/17/2017",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10965729,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "740LI",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2014 BMW 740LI. THE CONTACT STATED THAT THE FRONT DRIVER'S SEAT BELT FEMALE CONNECTOR WOULD NOT LATCH. THE VEHICLE WAS TAKEN TO A DEALER WHERE IT WAS DIAGNOSED THAT THE FEMALE CONNECTOR FAILED AND NEEDED TO BE REPLACED. THE VEHICLE WAS NOT REPAIRED. THE MANUFACTURER WAS NOT MADE AWARE OF THE FAILURE. THE FAILURE MILEAGE WAS 60,000.",
+        "vin": "WBAYF4C58DD"
+    },
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "05/12/2015",
+        "dateOfIncident": "05/02/2015",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 2,
+        "odiNumber": 10715828,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "740LI",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TELL US WHAT HAPPENDED:  I WAS TRAVELING EAST BOUND ON A 3 LANE ROAD, WHEN A MOVING TRUCK PULLED OUT OF A SHOPPING CENTER IN A NON SIGNALED DRIVE ATTEMPTING TO CROSS ROAD TO HEAD WEST BOUND, WHAT SEEMED TO BE LAST MOMENT AS I WAS CONTINUING EAST BOUND THE TRUCK SUDDENLY PULLED OUT A CROSS ROAD, LEAVING ME MINIMAL TIME TO AVOID COLLISION, I BRAKED BUT HAD NO TIME TO SLOW DOWN, SINCE TRUCK PULLED OUT WHAT SEEMED WITHIN 10 FEET OF ME, I WAS TRAVELING APPROXIMATELY 40 MPH, MY CAR MADE IMPACT WITH SIDE OF MOVING TRUCKS CARGO BOX, CREATING SIGNIFICANT DAMAGE OF FRONT END (NON DRIVABLE), WHAT SEEMED TO BE ONE TO TWO SECONDS LATER I WAS THEN REAR ENDED BY A PICKUP TRUCK FROM BEHIND, 911 WAS DISPATCHED TO SEEN AND WE WERE CHECKED FOR INJURIES, I COMPLAINED OF NECK AND LOWER BACK PAIN, MY SON COMPLAINED OF PAIN AT TOP OF HIS HEAD AND LATER HAD SMALL BLACK EYE. OUR HEAD REST ON MY BMW EJECTED FORWARD, BUT AIRBAG DID NOT DEPLOY, MY COMPLAINT IS THE FAILURE OF AIR BAG DEPLOYMENT AT RATE OF SPEED OF ACCIDENT AND HIGH IMPACT. BMWS REPRESENTIVE ONLY RESPONSE IS THAT SENSORS ARE VERY LOW AND IS POSSIBLE WHY IT DID NOT DEPLOY. I WOULD LIKE THIS INVESTIGATED PRIOR TO MY VEHICLE BEING REPAIRED, MY CONCERN IS FOR FUTURE SAFETY.",
+        "vin": "WBAYE4C59ED"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS,SEAT BELTS",
+        "crash": true,
+        "dateComplaintFiled": "03/13/2003",
+        "dateOfIncident": "03/13/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10011658,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SAFARI",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE WAS INVOLVED IN A FRONTAL COLLISION, AND THE AIR BAGS FAILED TO DEPLOY, AND THE SEAT BELT DID NOT RESTRAIN THE PASSENGER, WHICH RESULTED IN INJURIES.   *JB",
+        "vin": "PROVIDE"
+    }
+]

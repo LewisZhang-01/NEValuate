@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "05/23/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020484,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "300M",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE POWER STEERING PUMP FAILED WHILE DRIVING AND CAUSED ALL OF THE FLUID TO BE DUMPED AND THE STEERING WHEEL TO LOCK UP.  THIS WAS THE 3RD FAILURE OF THE POWER STEERING PUMP SINCE THE VEHICLE WAS PURCHASED.  *NLM",
+        "vin": ""
+    }
+]

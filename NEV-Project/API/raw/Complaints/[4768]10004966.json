@@ -1,0 +1,31 @@
+[
+    {
+        "components": "SEAT BELTS,EQUIPMENT",
+        "crash": true,
+        "dateComplaintFiled": "01/30/2003",
+        "dateOfIncident": "07/17/2001",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 1,
+        "numberOfInjuries": 1,
+        "odiNumber": 10004966,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "DAKOTA",
+                "productYear": "1997",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Lotus Cars Limited",
+                "productMake": "SEAT BELT ASSEMBLY",
+                "productModel": "SEAT BELT ASSEMBLY",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "VEHICLE SEAT BEAL FAILED,DRIVER SIDE.",
+        "vin": "1B7GG23Y2VS"
+    }
+]

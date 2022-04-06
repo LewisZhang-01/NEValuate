@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC,PARKING BRAKE",
+        "crash": false,
+        "dateComplaintFiled": "01/30/2003",
+        "dateOfIncident": "01/30/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10006017,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "EMERGENCY BRAKE ADJUSTMENT PROBLEM HAS CAUSED EXCESSIVE BRAKE ROTOR WEAR, AFFECTING BRAKE OPERATION.    TS....*AK",
+        "vin": "2GCEC19T0X1"
+    }
+]

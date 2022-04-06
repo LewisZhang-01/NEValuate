@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "02/04/2003",
+        "dateOfIncident": "02/20/2001",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004297,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "CARAVAN",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CLOCK SPRING FAILED.     PH",
+        "vin": "2B4FP2534VR"
+    }
+]

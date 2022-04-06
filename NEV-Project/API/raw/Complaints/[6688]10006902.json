@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "02/10/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10006902,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "ESCAPE",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE BRAKE AND ACCELERATOR PEDAL WAS DESIGNED TO CLOSE TOGETHER, WHICH CAUSED CONSUMER TO PRESS THE ACCELERATOR WHEN THE BRAKE WAS BEING APPLIED.*JB  *JB",
+        "vin": "1FMCU94163K"
+    }
+]

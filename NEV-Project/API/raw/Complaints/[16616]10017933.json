@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "05/01/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017933,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA 1500",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE ANTI-LOCK BRAKE SYSTEM LIGHT ILLUMINATED.  THE VEHICLE WAS TAKEN TOT HE DEALER WHO DIAGNOSED THAT THE ABS PUMP MOTOR HAD SEIZED AND CAUSED THE ABS TO FAIL.  *NLM",
+        "vin": "1GTEK19T5XE"
+    }
+]

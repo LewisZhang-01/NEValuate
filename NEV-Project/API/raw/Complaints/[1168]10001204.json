@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "12/19/2002",
+        "dateOfIncident": "12/15/2002",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001204,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "INTREPID",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER'S VEHICLE IS HAVING SAME FUEL LEAKAGE PROBLEM AS  MENTIONED IN RECALL 98 V 184 000, BUT THIS VEHICLE NOT  INCLUDED IN RECALL DUE TO VIN.  *TS...*AK",
+        "vin": "2B3HD46T8VH"
+    }
+]

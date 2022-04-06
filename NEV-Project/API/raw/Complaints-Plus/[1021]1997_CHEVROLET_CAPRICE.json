@@ -1,0 +1,68 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "11/01/2004",
+        "dateOfIncident": "09/23/2004",
+        "fire": true,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10094240,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAPRICE",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING,THE CONSUMER SMELLED A BURNT ODOR COMING FROM THE FRONT.  THE DRIVER WAS ABLE TO PULL OVER AND LIFTED UP THE HOOD OF THE VEHICLE AND DISCOVERED SMOKE COMING FROM THE ENGINE.  THE VEHICLE CAUGHT FIRE.  THE DRIVER WAS ABLE TO EXTINGUISHED THE FIRE.  THE VEHICLE WAS TOWED TO THE DEALER FOR INSPECTION.  THE MECHANIC INFORMED THE CONSUMER THAT THE  ELECTRICAL WIRES HAD SHORTENED OUT FROM THE ALTERNATOR.  ELECTRICAL WIRES AND ALTERNATOR NEEDED REPLACEMENT.  PLEASE FILL IN ADDITIONAL INFORMATION.  *JB  *TC  *TR",
+        "vin": "PLEASE FILL"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "10/20/2004",
+        "dateOfIncident": "10/20/2004",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10097315,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAPRICE",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING, THE VEHICLE STALLED.  THE CONSUMER WAS ABLE TO RESTART THE VEHICLE AND DROVE IT TO A GAS STATION.  THE MECHANIC INFORMED THE CONSUMER THAT THE ENGINE NEEDED TO BE REPLACED.  PLEASE FILL IN ADDITIONAL INFORMATION.  *JB",
+        "vin": "PLEASE FILL"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "07/06/1998",
+        "dateOfIncident": "02/01/1997",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 537339,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAPRICE",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKE VALVE FAILED PRIOR TO RECALL NOTICE.",
+        "vin": ""
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "01/13/2003",
+        "dateOfIncident": "10/10/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003655,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "MALIBU",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "LOWER INTAKE MANIFOLD FAILED, CAUSING WATER TO LEAK IN TO OIL.*JB..*AK",
+        "vin": "2G1WL52M3V1"
+    }
+]

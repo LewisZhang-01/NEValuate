@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "12/30/2002",
+        "dateOfIncident": "12/12/2002",
+        "fire": false,
+        "manufacturer": "Kia Motors America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10001672,
+        "products": [
+            {
+                "manufacturer": "Kia Motors America",
+                "productMake": "KIA",
+                "productModel": "SEPHIA",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATES THAT WHEN THEY WAS HIT IN THE FRONT CENTER OF THE VEHICLE THE AIR BAG DID NOT DEPLOY CAUSING MINOR INJURIES TO THE CONSUMER. DEALER NOTIFIED.",
+        "vin": "KNAFE1219W5"
+    }
+]

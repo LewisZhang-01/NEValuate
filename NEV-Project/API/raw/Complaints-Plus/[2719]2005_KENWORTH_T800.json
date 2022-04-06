@@ -1,0 +1,68 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "10/22/2018",
+        "dateOfIncident": "10/19/2018",
+        "fire": false,
+        "manufacturer": "PACCAR Incorporated",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11141937,
+        "products": [
+            {
+                "manufacturer": "PACCAR Incorporated",
+                "productMake": "KENWORTH",
+                "productModel": "T800",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TAKARA RECALL- OPERATING DUMP TRUCK ON A LOCAL ROAD AT APPROXIMATELY 25 MPH.  DECELERATING TO A STOP AT A RED LIGHT.  AS THE VEHICLE SLOWED DOWN, THE LIGHT CHANGED AND AS I ATTEMPTED TO ACCELERATE THE REAR OF THE TRUCK CAME UP OFF THE GROUND.  WHEN I GOT OUT TO INSPECT WHAT HAPPENED, THE ENTIRE REAR AXEL DISCONNECTED FROM THE TRUCK AND WAS ON THE GROUND.",
+        "vin": "1NKDXBTX15J"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "08/29/2008",
+        "dateOfIncident": "08/18/2008",
+        "fire": true,
+        "manufacturer": "PACCAR Incorporated",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10240190,
+        "products": [
+            {
+                "manufacturer": "PACCAR Incorporated",
+                "productMake": "KENWORTH",
+                "productModel": "T800",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 2005 KENWORTH T800.  THE CONTACT STATED THAT THE CLAMPS THAT HOLD THE BATTERY CABLES, WHICH LEAD FROM THE BATTERY TO THE STARTER, WERE NOT ADJUSTED PROPERLY.  AS A RESULT, THE CABLES WERE CHAFFING.  A FIRE IGNITED AND SPREAD THROUGHOUT THE ENGINE AND CAB OF THE VEHICLE.  THE FIRE DEPARTMENT EXTINGUISHED THE FIRE.  THE INSURANCE ADJUSTER AND VEHICLE RE-BUILDER DIAGNOSED THE SOURCE OF THE FIRE.  A POLICE REPORT WAS FILED.  THE MANUFACTURER WAS NOT NOTIFIED AND THE VEHICLE HAS NOT BEEN REPAIRED.  THE FAILURE AND CURRENT MILEAGES WERE 250,000.",
+        "vin": "3WKDDB9X75F"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING,POWER TRAIN,STRUCTURE,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "08/24/2005",
+        "dateOfIncident": "08/01/2005",
+        "fire": false,
+        "manufacturer": "PACCAR Incorporated",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10134551,
+        "products": [
+            {
+                "manufacturer": "PACCAR Incorporated",
+                "productMake": "KENWORTH",
+                "productModel": "T800",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2004 AND 2005 T800 KENWORTH TRUCKS DEVELOPED A PROBLEM WHEN BACKING UP THERE IS A TWISTING OF THE ENGINE AND FRAME.***NO ANSWER REQUIRED***.  *MR  THE TWISTING ALSO CAUSED THE COOLING FAN TO STRIKE THE FAN SHROUD CAUSING DETERIORATION OF THE FAN AND LATER, FAILURE ALONG WITH THE RADIATOR.  REPEATED FAILURE OF THE A/C CONDENSERS.  THERE WERE SEVERAL FAILURES OF THE DRIVE-SHAFT CAUSING THE BOLTS ON THE REAR YOKE TO SHEAR OFF.  THE DRIVE SHAFT FELL OFF OF THE VEHICLE WHILE BEING DRIVEN ON THE HIGHWAY.  *SC",
+        "vin": ""
+    }
+]

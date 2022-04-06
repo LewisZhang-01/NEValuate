@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "01/07/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002286,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "UPON STARTING VEHICLE THERE IS A CONSTANT BANGING NOISE. TOOK TO DEALER AND DEALER STATES VEHICLE SPUN A ROD, AND CAUSE COOLANT TO GET IN OIL AND ENGINE. PLEASE PROVIDE ANY FURTHER INFORMATION. TS",
+        "vin": "1FTDF1723VN"
+    }
+]

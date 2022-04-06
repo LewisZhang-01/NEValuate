@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "12/31/2002",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001253,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "NAVIGATOR",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Continental Tire the Americas, LLC",
+                "productMake": "CONTINENTAL",
+                "productModel": "CONTINENTAL",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "CONSUMER STATED SHE HAD TO PURCHASE TIRES FOR THE VEHICLE BEFORE THERE WAS EVER A RECALL, DUE TO THE TIRES LOOSING TRACTION ON THE STREETS, HOWEVER THE COMPANY ONLY WANTS TO REIMBURSE 110.00 PLUS TAX WHEN THE COST OF THE REPLACEMENT TIRE WAS MORE. (CONTINENTAL CONTITRAC AW-DOT ADT044U4400)*JB",
+        "vin": ""
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "02/03/2003",
+        "dateOfIncident": "02/02/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005202,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "WINDSTAR",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AUTOMATIC TRANSMISSION FAILED @ 71,000 MILES, 3 1/2 YR OLD VEHICLE.  REVERSE STILL WORKED, FORWARD GEARS ACTED AS THOUGH IN NEUTRAL.",
+        "vin": ""
+    }
+]

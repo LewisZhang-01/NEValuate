@@ -1,0 +1,46 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "12/28/2000",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 558365,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "AMERICAN MOTORS",
+                "productModel": "EAGLE",
+                "productYear": "1982",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE PITMAN ARM TAPPERED STUD CONNECTING TO THE CENTER LINK SHEARED CAUSING LOSS OF STEERING CONTROL.   *MJS",
+        "vin": ""
+    },
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "05/03/2000",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 861305,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "AMERICAN MOTORS",
+                "productModel": "EAGLE",
+                "productYear": "1982",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ROLLOVER CHECK VALVE HAS FAILED, CAUSING EXCESSIVE PRESSURE TO BUILD UP WITHIN THE FUEL SYSTEM, RESULTING IN  A FUEL LEAK. CONSUMER HAS CONTACTED  DEALER AND THE MANUFACTURER. MANUFACTURE STATED THAT THEY NO LONGER MAKE THE PARTS TO CORRECT THE PROBLEM. PLEASE PROVIDE ANY FURTHER DETAILS.  *AK",
+        "vin": "NOT AVAILAB"
+    }
+]

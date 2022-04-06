@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "02/21/2003",
+        "dateOfIncident": "02/16/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10008984,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERCURY",
+                "productModel": "COUGAR",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE EXPERIENCED A PROBLEM WITH THE ELECTRICAL SYSTEM AS STATED IN RECALL #01V230000, HOWEVER THE VEHICLE IDENTIFICATION NUMBER WAS NOT INCLUDED. *JB",
+        "vin": "PLEASE PROV"
+    }
+]

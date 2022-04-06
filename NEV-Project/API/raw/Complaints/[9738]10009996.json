@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "03/06/2003",
+        "dateOfIncident": "12/15/2002",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009996,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "ELANTRA",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE JACK COLLAPSED, AND CENTER STEM FELL OVER AND PUNCTURED THE FUEL TANK WHILE IN USE.*JB",
+        "vin": "KMK9M45071U"
+    }
+]

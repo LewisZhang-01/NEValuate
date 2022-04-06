@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN,EQUIPMENT,UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "01/15/2004",
+        "dateOfIncident": "12/15/2002",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10069014,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "ACCORD",
+                "productYear": "1991",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "D4 GEAR INDICATOR LIGHT ON THE DASH FAILED:  BURNED BULB OR ELECTRONIC TRANSMISSION CONTROL UNIT FAILUTE (RECALL)?",
+        "vin": "JHMCB7650MC"
+    }
+]

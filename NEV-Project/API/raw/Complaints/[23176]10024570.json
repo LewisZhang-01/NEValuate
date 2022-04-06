@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "06/20/2003",
+        "dateOfIncident": "05/10/2003",
+        "fire": false,
+        "manufacturer": "PACCAR Incorporated",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10024570,
+        "products": [
+            {
+                "manufacturer": "PACCAR Incorporated",
+                "productMake": "PETERBILT",
+                "productModel": "PETERBILT",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATES VEHICLE'S LEFT AXLE SNAPPED, CAUSING VEHICLE TO LOSE CONTROL. DEALER NOTIFIED. *AK",
+        "vin": ""
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,SERVICE BRAKES, HYDRAULIC,ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "06/06/2003",
+        "dateOfIncident": "06/06/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022603,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "LS",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE APPLYING THE BRAKES  VEHICLE WILL STALL WITHOUT PRIOR WARNING. CONSUMER HAD NO POWER STEERING OR BRAKES.  *AK",
+        "vin": "1LNHM87A32Y"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/07/2011",
+        "dateOfIncident": "12/26/2010",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10375114,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "W4500",
+                "productYear": "2010",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "UNIROYAL TIRE CO.",
+                "productMake": "UNIROYAL",
+                "productModel": "LAREDO LTL TIRE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "OUR 2010 AMBULANCE HAS HAD THREE FLAT TIRES DUE TO VALVE STEM FAILURES.  WE RECENTLY REPLACED THE HEAVY DUTY RUBBER VALVE STEMS WITH STEEL VALVE STEMS.  I BELIEVE THIS IS A SERIOUS SAFETY ISSUE.  THESE THREE FAILURES ARE ON A VEHICLE WITH LESS THAN 7300 MILES. *TR",
+        "vin": "1GB9G5B64A1"
+    }
+]

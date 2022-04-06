@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/09/2003",
+        "dateOfIncident": "01/09/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000885,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "YUKON",
+                "productYear": "1999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "B.F. GOODRICH TIRE CO.",
+                "productMake": "B.F.GOODRICH",
+                "productModel": "RADIAL T/A",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "ALIGNMENT SHOP REPORTED TREAD SEPARATION ON ONE TIRE; HAD TIRE TREAD SEPARATION ON ANOTHER TIRE CONFIRMED BY DEALERSHIP BACK IN DEC. 2002; REPLACED A THIRD TIRE APPROX. SUMMER OF 2001 DUE TO TREAD SEPARATION. ALL TIRES ARE ORIGINAL EQUIPMENT ON 1999 GMC YUKON WITH APPROX. 35,000 MILES:  B.F. GOODRICH RADIAL LONG TRAIL T/A - SIZE 245/75R16",
+        "vin": ""
+    }
+]

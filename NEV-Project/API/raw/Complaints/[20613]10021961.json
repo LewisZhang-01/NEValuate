@@ -1,0 +1,31 @@
+[
+    {
+        "components": "CHILD SEAT",
+        "crash": false,
+        "dateComplaintFiled": "06/26/2003",
+        "dateOfIncident": "05/30/2003",
+        "fire": false,
+        "manufacturer": "UNKNOWN MANUFACTURER",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021961,
+        "products": [
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN1",
+                "productYear": "9999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "COSCO, INC.",
+                "productMake": "COSCO",
+                "productModel": "TOURIVA",
+                "productYear": "9999",
+                "type": "Child Seat"
+            }
+        ],
+        "summary": "CONSUMER NOTICED A PROBLEM WITH THE COSCO TOURIVA CHILD SEAT, MODEL# 02-019WAL, DOM  3/27/1999 SHIELD ARM SEPARATED WHILE DRIVING AND LEAVING THE CHILD UNRESTRAINED.  *AK  *TT  *JB",
+        "vin": ""
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "05/19/2003",
+        "dateOfIncident": "05/19/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020131,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "300M",
+                "productYear": "9999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING IN INCLEMENT WEATHER THE FRONT WINDOW ALLOWED WATER TO LEAK ONTO THE PANEL.    *NLM",
+        "vin": "2C3HE66GXXH"
+    }
+]

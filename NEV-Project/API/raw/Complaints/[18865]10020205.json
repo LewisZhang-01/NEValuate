@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS,SEAT BELTS",
+        "crash": true,
+        "dateComplaintFiled": "05/20/2003",
+        "dateOfIncident": "05/08/2003",
+        "fire": false,
+        "manufacturer": "Kia Motors America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 3,
+        "odiNumber": 10020205,
+        "products": [
+            {
+                "manufacturer": "Kia Motors America",
+                "productMake": "KIA",
+                "productModel": "RIO",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING AT 65/70 MPH ON THE FREEWAY, THE VEHICLE WAS INVOLVED IN AN ACCIDENT, THE AIR BAGS FAILED TO DEPLOY, AND THE SEAT BELTS DID NOT RESTRAIN THE OCCUPANTS IN THE VEHICLE.  *JB",
+        "vin": "KNADC163126"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/24/2015",
+        "dateOfIncident": "05/16/2015",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10730214,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "INFINITI",
+                "productModel": "Q50",
+                "productYear": "2014",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "DUNLOP TIRE CORPORATION",
+                "productMake": "DUNLOP",
+                "productModel": "SP SPORT",
+                "productYear": "9999",
+                "size": "P225/45R19",
+                "type": "Tire"
+            }
+        ],
+        "summary": "I PURCHASED A 2014 INFINITI Q50 NEW FROM THE DEALER.  THE CAR HAD APPROXIMATELY 6,500 MILES ON IT WHEN THE RIGHT FRONT TIRE SIDE WALL CRACKED.  THE REPAIR SHOP NOTICED THAT THE LEFT FRONT TIRE HAD A BUBBLE AND ALSO NEEDED TO BE REPLACED.  BOTH FRONT TIRES WERE REPLACED THE WEEK OF 5/17/15.  ONE MONTH AFTER THE REPLACEMENT, THE RIGHT FRONT TIRE SIDEWALL CRACKED AGAIN.",
+        "vin": "JN1BV7AR7EM"
+    }
+]

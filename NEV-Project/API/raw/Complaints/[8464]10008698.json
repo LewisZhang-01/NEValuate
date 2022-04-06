@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC,VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "02/19/2003",
+        "dateOfIncident": "09/15/2001",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10008698,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "RAV4",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKES WERE APPLIED  VEHICLE SUDDENLY ACCELERATED.*JB,...*AK",
+        "vin": "JTEHH20VX10"
+    }
+]

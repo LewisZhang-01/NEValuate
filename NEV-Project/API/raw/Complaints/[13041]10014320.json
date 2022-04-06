@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "04/13/2003",
+        "dateOfIncident": "02/25/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10014320,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "RAM 2500",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKES FAIL WHILE PANIC BREAKING. APPEARS TO BE COMPLETE HYDRAULIC/ ANTILOCK FAILURE FOR THE PERIOD OF BRAKING THAT WOULD BE UNDER ANTILOCK CONTROL.  *NLM",
+        "vin": "1B7KC2361XJ"
+    }
+]

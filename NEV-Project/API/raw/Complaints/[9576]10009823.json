@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "03/04/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009823,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE  INJECTIONS WERE DEFECTIVE WHICH CAUSED THE ENGINE LIGHT TO ILLUMINATE.  THERE WAS A RECALL RELATED TO THIS PROBLEM BUT THE CONSUMERS VEHICLE WAS NOT INCLUDED DUE TO VIN.  *NLM",
+        "vin": "1GNFK16R2VJ"
+    }
+]

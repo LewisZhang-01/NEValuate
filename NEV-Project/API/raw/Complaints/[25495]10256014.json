@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "01/22/2009",
+        "dateOfIncident": "01/20/2009",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10256014,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "MINI",
+                "productModel": "COOPER",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "POWER STEERING FAILED SOON AFTER STARTING. THE CAR HAD BEEN OUTSIDE ON A COLD DAY, BUT NOT UNUSUAL (~20 DEGREES F). IT FUNCTIONED AGAIN WHEN RE-STARTED. *TR",
+        "vin": ""
+    }
+]

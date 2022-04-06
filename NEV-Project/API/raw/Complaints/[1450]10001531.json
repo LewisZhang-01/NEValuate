@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "12/26/2002",
+        "dateOfIncident": "05/06/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001531,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE TRAVELING ON THE HIGHWAY THE REAR WHEEL WAS MAKING A LOUD NOISE.  DUE TO THE WHEEL BEARERS.  PLEASE FILL IN ADDITIONAL INFORMATION.  DEALER IS AWARE OF THE PROBLEM. TS",
+        "vin": "1FAHP3833YW"
+    }
+]

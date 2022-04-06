@@ -1,0 +1,31 @@
+[
+    {
+        "components": "SUSPENSION,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "06/11/2012",
+        "dateOfIncident": "06/10/2012",
+        "fire": false,
+        "manufacturer": "Genie Industries, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10461181,
+        "products": [
+            {
+                "manufacturer": "Genie Industries, Inc.",
+                "productMake": "GENIE",
+                "productModel": "TZ-50",
+                "productYear": "2004",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Genie Industries, Inc.",
+                "productMake": "GENIE",
+                "productModel": "MOTOR CONTROLLER",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2004 GENIE TZ50 TOWABLE LIFT. THE CONTACT STATED THAT WHILE DRIVING 65 MPH, THE ALUMINUM OUTRIGGER FELL OFF DURING TRANSPORT DUE TO THE DISINTEGRATION OF A RUBBER WASHER. THE MANUFACTURER WAS NOTIFIED AND AGREED TO REPLACE THE WASHER THAT WAS DAMAGED,  BUT WOULD NOT SUPPLY A KIT TO PREVENT THE OTHER THREE FROM HAVING THE SAME SAFETY ISSUE.  UPDATED 07/10/12*LJ",
+        "vin": ""
+    }
+]

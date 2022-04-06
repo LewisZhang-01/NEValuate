@@ -1,0 +1,32 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC,TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/29/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003784,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "1994",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "P23575R15",
+                "productYear": "9999",
+                "size": "P23575R15",
+                "type": "Tire"
+            }
+        ],
+        "summary": "REFER TO RECALL #'S 96V024001, 951007000, AND 00T005000.  SCC      PH",
+        "vin": "1FMDU34X2RU"
+    }
+]

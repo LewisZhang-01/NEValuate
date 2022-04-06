@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "02/28/2006",
+        "dateOfIncident": "02/27/2006",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10151414,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "ACCORD",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "DT*:  THE CONTACT STATED WHILE DRIVING 70 MPH THE REAR PASSENGER SIDE TIRE RAN FLAT WITHOUT WARNING.  UPON INSPECTION THE TIRE FELT HOT COMPARED TO THE OTHER TIRES.  THERE WAS NO ROAD DEBRIS PRESENT WHEN THE TIRE RAN FLAT.  THE FLAT TIRE WAS REPLACED BY THE SPARE AND THEN DRIVEN TO THE DEALERSHIP.  WHEN ATTEMPTING TO REFILL THE TIRE IT EXPLODED.  UPON INSPECTION THE DEALER DISCOVERED A SPLIT ON THE INSIDE OF THE SIDEWALL.  ALL FOUR TIRES WERE REPLACED PREVIOUSLY DUE TO NORMAL TREAD WEAR.  AFTER THE INCIDENT THE BLOWN TIRE WAS REPLACED AT THE CONSUMER'S EXPENSE.  THE TIRE IS A GOODYEAR ASSURANCE TRIPLE TREAD.    UPDATED 3/17/2006 - *NM",
+        "vin": "1HGCG56601A"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "01/09/1996",
+        "dateOfIncident": "01/01/1993",
+        "fire": false,
+        "manufacturer": "AM GENERAL LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 501056,
+        "products": [
+            {
+                "manufacturer": "AM GENERAL LLC",
+                "productMake": "AM GENERAL",
+                "productModel": "HUMMER",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "HEATER SYSTEM FAILED PREVENTING USE OF DEFROSTER, CAUSING POOR VISIBILITY. *SD",
+        "vin": "137XE8336NE"
+    }
+]

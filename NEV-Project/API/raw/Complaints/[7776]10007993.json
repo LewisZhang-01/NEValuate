@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "02/22/2003",
+        "dateOfIncident": "02/21/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10007993,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "TRAILBLAZER",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "B.F. GOODRICH TIRE CO.",
+                "productMake": "B.F.GOODRICH",
+                "productModel": "T/A",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "2002 CHEVROLET TRAILBLAZER LT WITH B.F. GOODRICH \"OPEN TRAIL T/A\" M+S TIRES (P245/70R16 WOL).   THIS INCIDENT MARKS THE THIRD TIME THIS HAS HAPPENED. WHEN THE TIRES ENCOUNTER FRESHLY-WETTED PAVEMENT OR ANY WET EARTH ON THE PAVEMENT ALL TIRE ADHESION VANISHES AND THE VEHICLE BECOMES AN UNCONTROLLABLE SLED AS IF IT WERE RACING ACROSS ICE. THIS EFFECT IS NOT SPEED DEPENDENT.  THE FIRST INCIDENT ALMOST RESULTED IN A REAR-END COLLISION. THE SECOND AND THIRD INCIDENTS NEARLY RESULTED IN THE VEHICLE LEAVING THE ROAD.  THESE TIRES APPEAR TO BE SAFE ONLY ON CLEAN DRY PAVEMENT.",
+        "vin": "1GNDS13S122"
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "components": "STEERING,SUSPENSION,SERVICE BRAKES, HYDRAULIC,FUEL SYSTEM, GASOLINE,ELECTRICAL SYSTEM,LATCHES/LOCKS/LINKAGES,VEHICLE SPEED CONTROL,TIRES",
+        "crash": true,
+        "dateComplaintFiled": "01/06/2003",
+        "dateOfIncident": "11/12/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002047,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Bridgestone Americas Tire Operations",
+                "productMake": "FIRESTONE",
+                "productModel": "FIREHAWK",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            },
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "CONSUMER WAS EXITING A PARKING GARAGE AND PLACED VEHICLE IN REVERSE.  WITHOUT WARNING, CAR SUDDENLY ACCELERATED AND REAR TAIL SPUN AROUND 2 TIMES THEN HIT A PARKED VEHICLE.  CONSUMER DID APPLY BRAKES WITH NO SUCCESS.    PH  INSURANCE COMPANY INFORMED DEALERSHIP THAT THERE WERE TWO RECALLS THAT DEALT WITH A  DEFECTIVE THROTTLE AND SPEED CONTROL WHICH WAS NOT PERFORMED ON THE VEHICLE PRIOR TO THE ACCIDENT.  OTHER PROBLEMS INCLUDED WEEZING NOISE WHILE TURNING.  POWER STEERING RACKED FAILED AND REPLACED.  LACK OF POWER STEERING IN STEERING WHEEL.  REAR BRAKE PAD REPLACEMENT.  REAR WHEEL BEARING NOISE.  DEFECTIVE WHEEL BEARINGS REPLACED.  TIRE PUNCTURED AND REPLACED.  HESITATION ON ACCELERATION. FUEL PUMP AND GASKET REPLACED.  TIRES ROTTED OUT.  KEY STUCK IN IGNITION.  REPLACED MALFUNCTIONED SHIFTER ASSEMBLY.  TRUNK LID WOULDN'T LATCH.  LATCH REPLACED.  *TT",
+        "vin": "1FAFP3837YW"
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "components": "TIRES,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "05/16/2003",
+        "dateOfIncident": "05/13/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018793,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE STEEL PROD. CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "FIRESTONE",
+                "productYear": "2003",
+                "size": null,
+                "type": "Tire"
+            },
+            {
+                "manufacturer": "Brake Parts Inc.",
+                "productMake": "BRAKE PARTS",
+                "productModel": "DISC BRAKE ROTOR",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "THERE IS A VIBRATION FELT IN STEERING WHEEL WHEN DRIVING AT FREEWAY SPEEDS.  I HAVE HAD THE CAR ALIGNED 2 TIMES, REPLACED THE TIRES 3-TIMES, REPLACED THE BRAKES 3-TIMES AND HAD THE TIRES ROTATED AND RE-BALANCED 6 TIMES, IN TWO YEARS.  I HAVE HAD ALL OF THE RECALLS COMPLETED.  THE VIBRATION STILL EXISTS AND THE DEALER CANNOT FIX IT.  THE DEALER JUST KEEPS TELLING ME TO GET THE TIRES RE-BALANCED, OR GET NEW TIRES AGAIN.   *NLM",
+        "vin": "1FAFP3438YW"
+    }
+]

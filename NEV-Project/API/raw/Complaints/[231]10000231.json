@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "12/18/2002",
+        "dateOfIncident": "12/15/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000231,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAVALIER",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN YOU DRIVE IT THE STEERING WHEEL WOBBLES AND YOU CAN FEEL IT IN YOUR FEET LIKE FRONT END IS LOOSE",
+        "vin": "1G1JF524XV7"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "06/20/2003",
+        "dateOfIncident": "05/15/2003",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10024526,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "ALTIMA",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATES VEHICLE WAS INVOLVED IN A HEAD ON COLLISION AND AIRBAGS DID NOT DEPLOY. DEALER NOTIFIED. *AK",
+        "vin": ""
+    }
+]

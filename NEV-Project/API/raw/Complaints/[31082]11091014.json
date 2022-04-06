@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "04/30/2018",
+        "dateOfIncident": "02/28/2018",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11091014,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "LEXUS",
+                "productModel": "LS",
+                "productYear": "2008",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ABS ACTUATOR IS MALFUNCTIONING/ DYSFUNCTIONAL. I SPOKE WITH THE DEALER AND THEY STATED THE PART WAS RECALLED.",
+        "vin": "JTHBL46F685"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "02/28/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009068,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "CHRYSLER",
+                "productYear": "9999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "A POTENTIAL FIRE HAZARD COULD OCCUR IF THE CONNECTOR ON THE WIRE FROM THE ALTERNATOR WAS INSTALLED INCORRECTLY.  RECALL #02V042000  SCC  *JB",
+        "vin": ""
+    }
+]

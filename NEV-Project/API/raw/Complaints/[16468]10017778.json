@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "04/29/2003",
+        "dateOfIncident": null,
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017778,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE REFUELING THE VEHICLE THE FUEL LINE MELTED AND CAUSED A FIRE.  *NLM",
+        "vin": "1FTEF14Y4SN"
+    }
+]

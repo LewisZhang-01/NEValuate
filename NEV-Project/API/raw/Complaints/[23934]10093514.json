@@ -1,0 +1,31 @@
+[
+    {
+        "components": "POWER TRAIN,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "10/03/2004",
+        "dateOfIncident": "09/29/2004",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10093514,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "ACURA",
+                "productModel": "TL",
+                "productYear": "2003",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "2003 ACURA TL TYPE-S, 36960 MILES:  RECURRING TRANSMISSION SLIPPAGE WHEN SHIFTING BETWEEN 2ND AND 3RD GEAR (AUTOMATIC 5-SPEED TRANSMISSION) AND NEARLY CAUSED CAR CRASH WHEN DRIVING ON HIGHWAY DURING RUSH HOUR TRAFFIC THREE TIMES.  CURRENTLY DRIVING A RENTAL WAITING TO HAVE REPLACEMENT TRANSMISSION INSTALLED.  (\"OIL JET KIT\" WAS INSTALLED BY DEALER 2 MONTHS AGO IN RESPONSE TO RECENT RECALL BY ACURA.)*AK",
+        "vin": "19UUA56833A"
+    }
+]

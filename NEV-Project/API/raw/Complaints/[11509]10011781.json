@@ -1,0 +1,24 @@
+[
+    {
+        "components": "PARKING BRAKE",
+        "crash": false,
+        "dateComplaintFiled": "03/14/2003",
+        "dateOfIncident": "03/12/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10011781,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE FAILED STATE INSPECTION DUE TO THE EMERGENCY BRAKE BEING INOPERATIVE.  TOOK VEHICLE TO DEALER WHO DIAGNOSED A MANUFACTURER'S DESIGN FLAW WITH THE EMERGENCY BRAKE.  THE DESIGN OF THE EMERGENCY BRAKE PLACED IT IN CONTACT WITH THE ROTORS WHICH CAUSED PREMATURE WEAR.   *JB",
+        "vin": "3GNFK16T91G"
+    }
+]

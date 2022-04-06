@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "04/19/2003",
+        "dateOfIncident": "04/13/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10016191,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS SVT",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Continental Tire the Americas, LLC",
+                "productMake": "CONTINENTAL",
+                "productModel": "SPORT CONTACT",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "POSSIBLE DEFECT IN CONTINENTAL'S CONTISPORT CONTACT OEM TIRES (SIZE 215/45ZR17) THAT CAME WITH MY NEW FORD FOCUS SVT. I RECENTLY HAD A SEVERE BLOW OUT ON A HIGHWAY I-90. LUCKILY FOR ME, IT DIDN'T RESULT IN ANY DEATH, INJURY OR DESTRUCTION OF THE PROPERTY BUT STILL THERE IS NO EXCUSE FOR THE ULTRA PERFORMANCE TIRE TO FAIL IN SUCH A SHORT PERIOD OF TIME (UNDER 6000 MILES.) AFTER FURTHER INSPECTION I ALSO DISCOVERED THAT ONE MORE TIRE DEVELOPED SIDEWALL CRACK AND WOULD HAVE TO BE REPLACED.   *JB",
+        "vin": "3FAHP39502R"
+    }
+]

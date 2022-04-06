@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES",
+        "crash": true,
+        "dateComplaintFiled": "08/15/2019",
+        "dateOfIncident": "08/13/2019",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 3,
+        "odiNumber": 11244164,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "LEXUS",
+                "productModel": "NX200T",
+                "productYear": "2017",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CAR FAILED TO STOP ON INCLINE AND HIT A GARAGE DOOR",
+        "vin": "JTJBARBZ0H2"
+    }
+]

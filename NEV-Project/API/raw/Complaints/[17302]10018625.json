@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "05/13/2003",
+        "dateOfIncident": "05/11/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018625,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "RAM 2500",
+                "productYear": "1995",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "WRANGLER",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THIRD TIRE SEPARATION FROM A SET OF FOUR TIRES PURCHASED FROM AMERICAN TIRES.  THE TIRE IS GOODYEAR WRANGLER GSA LT265/75R16 LOAD RANGE \"D\".  THE SECOND TIRE SEPARATION CAUSED DAMAGE TO THE VEHICLE.*JB",
+        "vin": "3B7KC23C0SM"
+    }
+]

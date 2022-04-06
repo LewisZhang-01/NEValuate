@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "06/09/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022645,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "COROLLA",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "STEERING SYSTEM HAS A FAILURE THAT CAUSES  VEHICLE TO CONTINUOUSLY PULL TO THE RIGHT OR LEFT WHILE DRIVING.*AK",
+        "vin": ""
+    }
+]

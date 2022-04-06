@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "05/08/2003",
+        "dateOfIncident": "10/16/2001",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019441,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA 1500",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE HAD AN ELECTRICAL SHORT WHICH CAUSED THE DOOR AJAR ALARM TO SOUND AND THE DASHBOARD GAUGES TO MALFUNCTION.  *JB",
+        "vin": "2GTEK19T811"
+    }
+]

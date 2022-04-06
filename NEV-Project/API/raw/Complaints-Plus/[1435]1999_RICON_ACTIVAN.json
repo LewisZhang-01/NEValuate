@@ -1,0 +1,31 @@
+[
+    {
+        "components": "SEATS,EQUIPMENT ADAPTIVE/MOBILITY",
+        "crash": true,
+        "dateComplaintFiled": "08/18/2010",
+        "dateOfIncident": "05/29/2010",
+        "fire": false,
+        "manufacturer": "Ricon Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 2,
+        "odiNumber": 10350432,
+        "products": [
+            {
+                "manufacturer": "Ricon Corporation",
+                "productMake": "RICON",
+                "productModel": "ACTIVAN",
+                "productYear": "1999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Ricon Corporation",
+                "productMake": "RICON",
+                "productModel": "R1209 (SEATBASE)",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "RICON TRANSFER SEAT BASE FAILED AND CAME APART ALLOWING SEAT TO TURN FREELY AND DRIVER TO FALL BACKWARD.  WHEN VEHICLE WAS REAR ENDED IN AN ACCIDENT.  CAUSING MINOR INJURY TO DRIVER. *TR",
+        "vin": "2B4GP44R6XR"
+    }
+]

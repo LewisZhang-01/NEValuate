@@ -1,0 +1,24 @@
+[
+    {
+        "components": "WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "04/09/2003",
+        "dateOfIncident": "03/12/2002",
+        "fire": false,
+        "manufacturer": "Big Dog Motorcycles, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015540,
+        "products": [
+            {
+                "manufacturer": "Big Dog Motorcycles, LLC",
+                "productMake": "BIGDOG",
+                "productModel": "PIT BULL",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING REAR TIRE FELL OFF.   *NLM",
+        "vin": "FULLFILL"
+    }
+]

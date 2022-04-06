@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "02/03/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004654,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "ACCORD",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE CONSUMER HAS EXPERIENCED AN IGNITION SWITCH AND STEERING RECALL WITH THIS VEHICLE.  (RECALL # FOR THE IGNITION PROBLEM IS-02V120000)  SCC",
+        "vin": "1H5C62257WA"
+    }
+]

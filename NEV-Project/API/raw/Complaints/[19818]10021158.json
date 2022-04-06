@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "06/06/2003",
+        "dateOfIncident": "06/07/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021158,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "S10",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WINSHIELD  WIPER MODULE/ INTERMITTENT FAILURE.  *AK",
+        "vin": "1GCCS144XR8"
+    }
+]

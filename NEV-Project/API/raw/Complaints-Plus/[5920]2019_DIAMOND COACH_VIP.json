@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "07/17/2019",
+        "dateOfIncident": "03/03/2019",
+        "fire": false,
+        "manufacturer": "Diamond Coach Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11232791,
+        "products": [
+            {
+                "manufacturer": "Diamond Coach Corporation",
+                "productMake": "DIAMOND COACH",
+                "productModel": "VIP",
+                "productYear": "2019",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "TRAILFINDER",
+                "productModel": "ALL TERRAIN",
+                "productYear": "9999",
+                "size": "215/75/R17.5",
+                "type": "Tire"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2019 DIAMOND COACH VIP TRAILER EQUIPPED WITH TRAILFINDER TF200 TIRES, SIZE: 215/75/R17.5. THE CONTACT STATED THAT SIX TIRES WERE DETERIORATED IN THE CENTER AND BLEW OUT. THE CONTACT CALLED TRAIL STAR TIRE AND WHEEL, THE DISTRIBUTOR THAT SELLS THE TIRES TO DIAMOND COACH AND IMPORTS THEM FROM CHINA. THE DISTRIBUTOR INFORMED THE CONTACT TO FILL OUT THE WARRANTY FORM. THE DISTRIBUTOR ADMITTED THAT THE TIRES WERE MADE WITH A TWO PART PROCESS IN DECEMBER OF 2018. THE PROCESS WAS CHANGED TO A ONE PART PROCESS AND DIAMOND COACH SWITCHED DISTRIBUTORS IN CHINA IN MARCH OF 2019. THE VEHICLE FAILURE MILEAGE WAS 1,000. THE VIN, TIRE FAILURE MILEAGE, AND DOT NUMBER WERE UNKNOWN.",
+        "vin": ""
+    }
+]

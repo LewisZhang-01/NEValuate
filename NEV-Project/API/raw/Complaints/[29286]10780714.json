@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS,STRUCTURE,SEATS",
+        "crash": false,
+        "dateComplaintFiled": "10/08/2015",
+        "dateOfIncident": "10/02/2014",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10780714,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2001 FORD EXPLORER. WHILE DRIVING, THE FRONT DRIVER SIDE SEAT BELT WOULD SUDDENLY UNLOCK. IN ADDITION, THE DRIVER SIDE AND PASSENGER SIDE FRONT SEATS WOULD MOVE FORWARD WHEN MAKING A SUDDEN STOP AND THE PASSENGER SIDE DOOR AND HATCH DOOR WOULD NOT OPEN. THE VEHICLE WAS NOT DIAGNOSED AND REPAIRED. THE MANUFACTURER WAS NOT NOTIFIED OF THE FAILURES. THE VIN WAS NOT AVAILABLE. THE FAILURE MILEAGE WAS 166,694.",
+        "vin": ""
+    }
+]

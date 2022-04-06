@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "06/05/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022482,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "ENVOY",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE CONSUMER WAS NOT NOTIFIED BY GMC ABOUT THE RECALL FOR THE AIR BAG 02 V 222 000 AND MECHANICAL OVER RIDE 03 V 075 000, ALTHOUGH THE RECALL  APPLIED TO THE VEHICLE IDENTIFICATION NUMBER.    *JB",
+        "vin": "1JKDS13S022"
+    }
+]

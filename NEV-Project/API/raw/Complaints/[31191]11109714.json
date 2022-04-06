@@ -1,0 +1,24 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "07/05/2018",
+        "dateOfIncident": "06/16/2016",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11109714,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "CAMRY",
+                "productYear": "2009",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "OIL CONSUMPTION. I NEED TO ADD OIL EVERY 1100 TO 1250 MILAGE.",
+        "vin": "4T1BE46K39U"
+    }
+]

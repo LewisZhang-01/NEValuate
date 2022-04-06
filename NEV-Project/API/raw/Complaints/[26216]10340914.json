@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "07/01/2010",
+        "dateOfIncident": "06/27/2010",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10340914,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EDGE",
+                "productYear": "2007",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Hankook Tire & Technology Co., Ltd.",
+                "productMake": "HANKOOK",
+                "productModel": "DYNAPRO AS",
+                "productYear": "9999",
+                "size": "P235/70R17S",
+                "type": "Tire"
+            }
+        ],
+        "summary": "1. WAS DRIVING TO WORK IN MY 2007 FORD EDGE SEL WITH HANKOOK TIRES, WHEN THE LOW TIRE PRESSURE INDICATOR LIGHT TURNED ON.   2. AT WORK, I FOUND A TIRE WAS AT 20 PSI AND LEAKING FROM A CRACK AT THE BASE OF THE VALVE STEM. I INSPECTED THE THREE OTHER STEMS AND FOUND THEM WITH CRACKS AT THE BASE OF THE VALVE STEM.  3. I TOOK THE CAR INTO THE LOCAL FORD DEALERSHIP. THEY CHARGED ME FOR THE REPLACEMENT OF THE LEAKING VALVE STEM. THEY DID NOT TOUCH THE OTHER THREE VALVE STEMS.    THE VERY NEXT DAY, ANOTHER VALVE STEM FAILED AND BEGAN TO LEAK. *TR",
+        "vin": "2FMDK38C97B"
+    }
+]

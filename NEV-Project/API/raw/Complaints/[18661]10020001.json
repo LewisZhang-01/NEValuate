@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "05/16/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020001,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "VENTURE",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE INTEGRATED CHILD SEAT HARNESS DID NOT LATCH SECURELY.  A 2 YEAR OLD CHILD IS ABLE TO PULL APART THE LATCH AND CLIMB OUT OF THE SEAT WHILE THE VEHICLE WAS IN MOTION.  THE INTEGRATED CHILD SAFETY SEAT IS IN THE REAR PASSENGER OUTBOARD POSITION.   *NLM",
+        "vin": "1GNDX03E2YD"
+    }
+]

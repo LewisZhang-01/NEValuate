@@ -1,0 +1,46 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "12/16/2004",
+        "dateOfIncident": "12/11/2004",
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10103076,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "FLSTC",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I HAVE AN  HARLEY DAVIDSON FLSTCI 2002. I HAD A NEED TO OPEN THE FUEL TANK UP FOR MAINTENANCE. WHEN I OPENED IT I FOUND THAT THE LINER INSIDE THE FUEL TANK HAD COME LOOSE OVER 80% OF THE TANK. THIS WAS STARTING TO BREAK APART INTO SMALL PIECES AND HAD STARTED PLUGGING THE FUEL FILTER. THIS HAS A REAL POTENTIAL TO CAUSE ENGINE FUEL STARVATION ESPECIALLY AT HIWAY SPEEDS AND CAN CONTRIBUTE TO A SERIOUS REAR END COLLISION. THROUGH THE INTERNET HARLEY GROUPS I HAVE BEEN INFORMED THIS IS A COMMON PROBLEM WITH THESE MOTORCYCLES.",
+        "vin": "1HD1BWB142Y"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "08/14/2002",
+        "dateOfIncident": "07/26/2002",
+        "fire": true,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 765649,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "FLSTC",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FIRE HAZARD IF CABLES ARE NOT INSULATED BETWEEN TANK. *AK",
+        "vin": "1HD1BWB112Y"
+    }
+]

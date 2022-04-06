@@ -1,0 +1,24 @@
+[
+    {
+        "components": "CHILD SEAT",
+        "crash": false,
+        "dateComplaintFiled": "02/28/2003",
+        "dateOfIncident": "02/05/2003",
+        "fire": false,
+        "manufacturer": "FISHER-PRICE, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009629,
+        "products": [
+            {
+                "manufacturer": "FISHER-PRICE, INC.",
+                "productMake": "FISHER PRICE",
+                "productModel": "79700",
+                "productYear": "9999",
+                "type": "Child Seat"
+            }
+        ],
+        "summary": "THE HARNESS STRAP BROKE, WHICH CAUSED THE CHILD TO BE EJECTED FROM THE VEHICLE.*JB",
+        "vin": null
+    }
+]

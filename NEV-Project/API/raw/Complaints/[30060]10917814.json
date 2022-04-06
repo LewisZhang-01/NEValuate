@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "10/21/2016",
+        "dateOfIncident": "06/06/2013",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10917814,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "EXPRESS 1500",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "HINGES BROKE; DOORS ARE UNSAFE.",
+        "vin": "1GBFG15TX31"
+    }
+]

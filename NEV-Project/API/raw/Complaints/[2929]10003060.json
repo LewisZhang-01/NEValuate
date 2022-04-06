@@ -1,0 +1,31 @@
+[
+    {
+        "components": "VISIBILITY,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "01/20/2003",
+        "dateOfIncident": "01/15/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003060,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "ESCORT",
+                "productYear": "1997",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "PRO AIR, INC.",
+                "productMake": "HEAT_COOL MOTOR",
+                "productModel": "PRO AIR",
+                "productYear": "1991",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "THE HEATER CORE SPRUNG A LEAK.  THIS IS THE SECOND TIME THIS HAS HAPPENED WITHIN 15 MONTHS.  I CAUGHT THE PROBLEM BEFORE ANY DAMAGE OCCURED.  THE FIRST TIME THERE WAS EXTENSIVE DAMAGE.  THE AIR BAG AND PCM MODULES WERE DAMAGED BY THE HEATER CORE LEAK.  THERE ALSO WAS A FIRE FROM THE PCM AND AIR BAG MODULE.  THIS DAMAGE COST $1500.  THE DEALER WILL NOT FIX THE PROBLEM BECAUSE IT IS OUT OF WARRANTY BY 3 MONTHS.  I HAVE FOUND OUT THAT THERE ARE MANY CARS THAT ARE EXPIERENCING THIS PROBLEM.",
+        "vin": "1FALP13P1VW"
+    }
+]

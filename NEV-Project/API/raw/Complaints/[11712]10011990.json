@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "03/18/2003",
+        "dateOfIncident": "03/12/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10011990,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "MALIBU",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN THE CONSUMER APPLIED THE BRAKES THE PEDAL WENT TO THEE FLOOR CAUSING THE VEHICLE TO EXPERIENCE EXTENDED STOPPING DISTANCE.  *NLM",
+        "vin": "FULLFILL"
+    }
+]

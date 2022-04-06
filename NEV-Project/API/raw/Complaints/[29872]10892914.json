@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "08/03/2016",
+        "dateOfIncident": "07/28/2016",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10892914,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CADILLAC",
+                "productModel": "STS",
+                "productYear": "2008",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "POWER ASSISTED STEERING FLUCTUATES.  SOMETIMES IT WORKS.  IT MAY START OR STOP WORKING AT ANY TIME, AND IS INCONSISTENT.",
+        "vin": "1G6DW67V380"
+    }
+]

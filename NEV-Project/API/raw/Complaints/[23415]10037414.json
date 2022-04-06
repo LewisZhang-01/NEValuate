@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": true,
+        "dateComplaintFiled": "09/08/2003",
+        "dateOfIncident": "05/06/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 7,
+        "odiNumber": 10037414,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "RAM VAN",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "NANKANG RUBBER & TIRE CORP.",
+                "productMake": "NANKANG",
+                "productModel": "NANKANG",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "NANKANG SUPER TRIPPERRADIAL H/T LT 225/75R16 M+S, DOT # K08052002601,  TREAD SEPARATION FROM CASING .  *AK",
+        "vin": "2B4JB25Y7YK"
+    }
+]

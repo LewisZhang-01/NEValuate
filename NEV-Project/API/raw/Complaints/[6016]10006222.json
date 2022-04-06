@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "02/03/2003",
+        "dateOfIncident": "10/01/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10006222,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "BLAZER",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THERE WAS A CONSTANT SMELL OF GAS WHILE OPERATING THE VEHICLE.  CONSUMER NOTICED  FUEL WAS \"BUILDING\" ON TOP OF ENGINE.  DEALER DIAGNOSED PROBLEM AS A DEFECTIVE FUEL INJECTION SYSTEM.  *PH  THE DEALER INSTALLED A NEW CENTRAL PORT INJECTOR. *JB",
+        "vin": "1GNCS18W0S2"
+    }
+]

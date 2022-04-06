@@ -1,0 +1,68 @@
+[
+    {
+        "components": "STEERING,VISIBILITY,SEAT BELTS,SEATS,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "04/11/1996",
+        "dateOfIncident": "06/04/1994",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 982613,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "SONATA",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE DRIVIER SIDE SEAT RETRACTOR SOMETIMES DOESN'T RETRACT, SOMETIMES THE RETRACTOR LOCK YOU IN.     *AK  CONSUMER STATES BELT LOCKS SO HARD ONE CAN NOT MOVE.  POWER STEERING PUMP REPLACED, HARD TO TURN AND NOISY.  DOOR WINDOW WOULD NOT COME UP INTERMITTENTLY, WINDOW SWITCH WORKS INTERMITTENTLY.  DRIVER SIDE SEAT MOVES WHILE DRIVING.  ANTENNA WOULD NOT GO UP ALL THE WAY.   *SLC",
+        "vin": "2HM6F32T7R6"
+    },
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "12/01/1995",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 975957,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "SONATA",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BOTH FRONT SEAT RAILS ARE WEAKENING ALLOWING SEAT TO ROCK BACK AND FORTH. PLEASE DESCRIBE DETAILS.  TT",
+        "vin": ""
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "06/06/1995",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 966342,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "SONATA",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "OIL IS DISAPPEARING WITH CAUSE UNKNOWN. DEALER HAS HAD VEHICLE FOR MONTHS TRYING TO DETECT CAUSE. PLEASE DESCRIBE DETAILS.  TT",
+        "vin": ""
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "05/19/2003",
+        "dateOfIncident": "04/07/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019493,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "PLYMOUTH",
+                "productModel": "GRAND VOYAGER",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TRANSMISSION FAILED BECAUSE THE DIFFERENTIAL PIN SHOT THROUGH THE TRANSMISSION. *AK  *JB",
+        "vin": "1P4GP44R2XB"
+    }
+]

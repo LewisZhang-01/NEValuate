@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "05/21/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020267,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "RAM 2500",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN THE CRUISE CONTROL WAS ENGAGED THE VEHICLE CONTINUED TO INCREASE IN SPEED, MOSTLY IN COLD WEATHER.  THIS WAS CAUSED BY OIL FROM THE VACUUM PUMP GOING INTO THE SERVO VACUUM LINES.   *NLM",
+        "vin": "3B7KC23D5VM"
+    }
+]

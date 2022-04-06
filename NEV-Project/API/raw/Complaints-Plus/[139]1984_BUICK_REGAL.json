@@ -1,0 +1,134 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "04/10/2002",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 8007341,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "REGAL",
+                "productYear": "1984",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENGINE FELL OUT WHILE TRAVELING ON  HIGHWAY.   CRADDLE BOLTS ATTACHED TO  VEHICLE WERE ROTTEN.*AK",
+        "vin": "2G4WB14W7K1"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "09/01/2000",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 552873,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "REGAL",
+                "productYear": "1984",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DELCO BATTERY IS LEAKING ACID.  NLM",
+        "vin": ""
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "05/04/2000",
+        "dateOfIncident": "04/12/2000",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 861442,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "REGAL",
+                "productYear": "1984",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER  BOUGHT FOUR NEW TIRES FROM A COMPANY.  THE TWO FRONT TIRES'  TREAD WAS SPLITTING ON THE OUTSIDE OF THE TIRES.  *AK",
+        "vin": "1G4AN4742EH"
+    },
+    {
+        "components": "LATCHES/LOCKS/LINKAGES",
+        "crash": false,
+        "dateComplaintFiled": "02/11/1997",
+        "dateOfIncident": "11/03/1996",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 806432,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "REGAL",
+                "productYear": "1984",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVER'S SIDE DOOR WHEN CLOSED WON'T LATCH, WEIGHT OF POST IS TOO HEAVY FOR HINGE, MUST LIFT UP DOOR TO MEET LATCH TO SHUT DOOR, TOOK TO BODY SHOP TO HAVE IT FIXED.   *AK",
+        "vin": "1G4AJ47AXEH"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "10/18/1995",
+        "dateOfIncident": "09/05/1995",
+        "fire": true,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 488966,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "REGAL",
+                "productYear": "1984",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENGINE COMPARTMENT FIRE. (OHIO STATE POLICE REPORT) *SD",
+        "vin": ""
+    },
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "02/07/1995",
+        "dateOfIncident": "02/07/1995",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 480326,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "REGAL",
+                "productYear": "1984",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVER' SEAT BACK FAILED TO HOLD DURING ACCIDENT, FORCING DRIVER INTO STEERING WHEEL/WINDSHIELD, RESULTING IN INJURY.  *SKDD",
+        "vin": "1G4AM47ABEH"
+    }
+]

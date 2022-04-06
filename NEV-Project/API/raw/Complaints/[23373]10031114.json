@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "08/08/2003",
+        "dateOfIncident": "08/03/2003",
+        "fire": false,
+        "manufacturer": "Carriage, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10031114,
+        "products": [
+            {
+                "manufacturer": "Carriage, Inc.",
+                "productMake": "CARRIAGE",
+                "productModel": "CARRI LITE",
+                "productYear": "2001",
+                "type": "Equipment"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "STEELTEX RADIAL TIRE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "FIRESTONE STEELTEX R4S LT 225/75 R 16 SEPERATED AND BLEW OUT CAUSING DAMAGE TO MY TRAILER.",
+        "vin": "16F62E3R011"
+    }
+]

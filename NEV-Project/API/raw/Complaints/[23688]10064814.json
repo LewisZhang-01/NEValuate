@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": true,
+        "dateComplaintFiled": "03/24/2004",
+        "dateOfIncident": "10/25/2003",
+        "fire": false,
+        "manufacturer": "Big Dog Motorcycles, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10064814,
+        "products": [
+            {
+                "manufacturer": "Big Dog Motorcycles, LLC",
+                "productMake": "BIGDOG",
+                "productModel": "CHOPPER",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING 40 MPH, THE VEHICLE CRASHED INTO A METAL DEBRIS WHICH CAUSED THE KICK STAND TO BRAKE.  THE VEHICLE WAS TOWED TO THE DEALER.  THE MECHANIC STATED, THE DRIVER HAD LEFT THE KICK STAND OUT.  PLEASE PROVIDE FURTHER DETAILS.  *JB",
+        "vin": "5J11NBJ173W"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, AIR",
+        "crash": false,
+        "dateComplaintFiled": "01/03/2003",
+        "dateOfIncident": "01/02/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000496,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE ABS MOTOR CONTINUES TO RUN AFTER SHUTTING THE VEHICLE OFF.  THIS CAUSES THE BATTERY TO RUN DOWN MAKING THE VEHICLE INOPERATIVE.  THE ABS SYSTEM NO LONGER IS OPERATIVE. THE COST TO REPAIR IS APPROXIMATELY $1000. TS",
+        "vin": ""
+    }
+]

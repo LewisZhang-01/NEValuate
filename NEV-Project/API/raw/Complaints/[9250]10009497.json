@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "02/27/2003",
+        "dateOfIncident": "02/23/2003",
+        "fire": false,
+        "manufacturer": "Subaru of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009497,
+        "products": [
+            {
+                "manufacturer": "Subaru of America, Inc.",
+                "productMake": "SUBARU",
+                "productModel": "OUTBACK",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE STEEL PROD. CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "FIRESTONE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE FRONT PASSENGER TIRE BLEW OUT, WHICH CAUSED THE CONSUMER TO PULL OVER. *JB",
+        "vin": "PLEASE PROV"
+    }
+]

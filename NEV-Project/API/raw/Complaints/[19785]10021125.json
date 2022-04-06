@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "06/05/2003",
+        "dateOfIncident": "11/15/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021125,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "BLAZER",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVER'S SEAT HANDLE SHEARED OFF DURING USE DUE TO COMPONENT MANUFACTURING OF SOFT METAL.*AK",
+        "vin": "1GNCS13W5W2"
+    }
+]

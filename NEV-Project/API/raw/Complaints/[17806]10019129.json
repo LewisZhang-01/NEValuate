@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "05/22/2003",
+        "dateOfIncident": "05/11/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019129,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "MONTE CARLO",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TURN SIGNALS WILL NOT WORK WHEN WINDSHIELD WIPERS ARE OPERATING.  *NLM",
+        "vin": "2G1WX15K419"
+    }
+]

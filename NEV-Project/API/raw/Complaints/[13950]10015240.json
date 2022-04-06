@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES,WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "08/22/2003",
+        "dateOfIncident": "03/30/2003",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015240,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "ACCORD",
+                "productYear": "1991",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "SUMITOMO CORP OF AMERICA",
+                "productMake": "SUMITOMO",
+                "productModel": "SUMITOMO",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE CONSUMER'S VEHICLE HIT A POT HOLE, AND DAMAGED TWO TIRES AND BENT A RIM.*AK THE CONSUMER REQUESTED REIMBURSEMENT.  *JB",
+        "vin": "1HGCB7167MA"
+    }
+]

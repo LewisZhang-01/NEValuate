@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "05/19/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020125,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "DAKOTA",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ALTHOUGH THE CRUISE CONTROL WAS SET THE VEHICLE WOULD SPEED UP TO ANOTHER SPEED.  *NLM",
+        "vin": "1B7GL22XX1S"
+    }
+]

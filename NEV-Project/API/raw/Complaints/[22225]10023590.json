@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/23/2003",
+        "dateOfIncident": "06/21/2003",
+        "fire": false,
+        "manufacturer": "UNKNOWN MANUFACTURER",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10023590,
+        "products": [
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "1999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "CARLISLE TIRE & RUBBER CO",
+                "productMake": "CARLISLE",
+                "productModel": "CARLISLE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "TIRE TREAD SEPARATED; CARLISLE ST205/75R14 PURCHASED NEW WITH EAGLE BRAND BOAT TRAILER (VIN [XXX], MODEL B20-50TB) MANUFACTURED DECEMBER 1998 BY JOHNSTON ACQUISITION CORP., 13TH STREET, WYANDOTTE, MI.  THIS IS THE SECOND TIRE TO FAIL IN THIS WAY.  THE FIRST ONE FAILED APPROX. JULY 4, 2002.   *NLM    INFORMATION REDACTED PURSUANT TO THE FREEDOM OF INFORMATION ACT (FOIA), 5 U.S.C. 552(B)(6).  *TR",
+        "vin": "4JEBB2026X1"
+    }
+]

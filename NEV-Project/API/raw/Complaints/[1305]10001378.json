@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "12/23/2002",
+        "dateOfIncident": "12/01/2002",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001378,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "LEXUS",
+                "productModel": "LS400",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE LIGHTS DID NOT ILLUMINATE ON THE DASHBOARD UNTIL THE VEHICLE WAS WARMED UP FOR AT LEAST 30 MINUTES, AND WAS UNABLE TO SEE THE READINGS WHILE DRIVING AT NIGHT.  TS  SCC",
+        "vin": "JP8UF11E1P0"
+    }
+]

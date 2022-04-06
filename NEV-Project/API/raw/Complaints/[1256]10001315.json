@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "12/20/2002",
+        "dateOfIncident": "12/16/2002",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001315,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "PASSAT",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING GAS AND FUMES BEGAN EMITTING FROM VENTS CAUSING WINDOWS TO FOG ELIMINATING CONSUMER'S VISIBILITY.  DEALER DIAGNOSED THAT HAD A BROKEN HEATER CORE. TS",
+        "vin": "4WVWFB4312N"
+    }
+]

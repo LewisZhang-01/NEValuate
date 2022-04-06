@@ -1,0 +1,31 @@
+[
+    {
+        "components": "POWER TRAIN,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "10/24/2004",
+        "dateOfIncident": "09/28/2004",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10096314,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "GTI",
+                "productYear": "2003",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "SEAT BELTS",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "THIS IS THE SECOND TIME MY CLUTCH ASSEMBLY FAILED. FIRST TIME AT 4500 MILES IN DECEMBER 2003. VW DEALERSHIP REPLACED CLUTCH.  CLUTCH ASSEMPLY AGAIN BECAME SPONGY AND RPMS INCREASED TO DANGEROUS LEVELS.  VOLKSWAGEN AMERICA REFUSED TO REPAIR MALFUNCTUION IN EQUIPMENT. MANY SPECIALTY REPAIR SHOPS ARE SAYING THIS IS CAUSED BY THE DUAL MASS FLY WHEEL STICKING OPEN. *AK",
+        "vin": "9BWDE61J534"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "04/18/2003",
+        "dateOfIncident": "08/28/2001",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 2,
+        "odiNumber": 10016180,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "325IS",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AIRBAG FAILURE IN BMW 1993 325IS 40 MPH HEAD ON COLLISION.   *NLM",
+        "vin": ""
+    }
+]

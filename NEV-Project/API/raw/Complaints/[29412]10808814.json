@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY/WIPER",
+        "crash": false,
+        "dateComplaintFiled": "12/07/2015",
+        "dateOfIncident": "12/04/2015",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10808814,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "HUMMER",
+                "productModel": "H3",
+                "productYear": "2007",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2007 HUMMER H3. WHEN THE CONTACT STARTED THE VEHICLE, THE HEATER CONTROL MECHANISM WAS ACTIVATED AND THE BLOWER MOTOR FAILED TO OPERATE. THE VIN WAS INCLUDED IN NHTSA CAMPAIGN NUMBER: 15V421000 (VISIBILITY) HOWEVER, THE PART NEEDED TO PERFORM THE REPAIR WAS UNAVAILABLE. THE CONTACT STATED THAT THE MANUFACTURER EXCEEDED A REASONABLE AMOUNT OF TIME FOR THE RECALL REPAIR. THE MANUFACTURER WAS NOT NOTIFIED OF THE FAILURE. THE APPROXIMATE FAILURE MILEAGE WAS 102,000. VIN TOOL CONFIRMS PARTS NOT AVAILABLE.",
+        "vin": "5GTDN13E378"
+    }
+]

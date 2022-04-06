@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "05/21/2003",
+        "dateOfIncident": "04/17/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020305,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "TAHOE",
+                "productYear": "1999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "B.F. GOODRICH TIRE CO.",
+                "productMake": "B.F.GOODRICH",
+                "productModel": "B.F.GOODRICH",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE RIGHT FRONT TIRE AND  BOTH REAR TIRE TREADS SEPARATED AT THE SAME TIME.  CONSUMER ALSO REPORTING SIDEWALL FAILURE OF TIRES.  THE VEHICLE HAS HAD THE TIRES REPLACED THREE TIMES (BF GOODRICH LONG TREAD WEAR TIRES).   *NLM    PLEASE PROVIDE ANY ADDITIONAL INFORMATION / DOCUMENTATION. *MJJ  RETURNED USPS, 2ND ATTEMPT MADE 06/08/07 FAILED.  *LJ",
+        "vin": "1GNEK13R9XJ"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "01/18/2003",
+        "dateOfIncident": "06/25/2001",
+        "fire": false,
+        "manufacturer": "Subaru of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002900,
+        "products": [
+            {
+                "manufacturer": "Subaru of America, Inc.",
+                "productMake": "SUBARU",
+                "productModel": "OUTBACK",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TWO CATASTROPHIC WIRING FAILURES IN MAIN COMPUTER WIRING LED TO VEHICLE SUDDENLY GOING DEAD.  FIRST AT 3000 MILES TRACED TO SHORT IN MAIN RELAY WHICH WAS REPLACED. SECOND AT 16,000 MILES TRACED TO SHORT IN WIRE HARNESS UNDER THE PASSENGER FOOTWELL.  POOR DESIGN PLACED THE ESSENTIAL COMPUTER WIRES UNDER THE PASSENGER FOOTWELL WHERE IT GETS CONSTANT PRESSURE WEAR. DEALER REPLACED WIRES INSIDE HARNESS AND ADDED CUSHIONING AROUND IT. THE SECOND FAILURE CREATES DOUBT THAT THE FIRST FAILURE WAS DUE TO A DEFECTIVE MAIN RELAY. BOTH FAILURE CAUSED THE VEHICLE TO BE DEAD. BOTH HAD NO WARNING EXCEPT THE FIRST TIME THE TEMPERATURE LIGHT CAME ON IMMEDIATELY BEFORE THE CAR WENT DEAD.",
+        "vin": "4S3BH806817"
+    }
+]

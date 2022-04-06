@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "03/20/2003",
+        "dateOfIncident": "01/01/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10012135,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "BRONCO",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE DRIVER'S SEAT COLLAPSED BACKWARD WITHOUT WARNING. A RELATED RECALL WAS ISSUED (96E010000) BUT THE CONSUMER'S VEHICLE WAS NOT INCLUDED DUE TO VIN.  *NLM",
+        "vin": "1FMEU15N5SL"
+    }
+]

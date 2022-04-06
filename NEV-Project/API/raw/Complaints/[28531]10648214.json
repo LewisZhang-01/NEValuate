@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "10/16/2014",
+        "dateOfIncident": "10/16/2014",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10648214,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "DURANGO",
+                "productYear": "2012",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CAR BATTERY IS DEAD, BATTERY IS FINE, POSSIBLE FAULTY TIPM.L  *TR",
+        "vin": "1C4RDHDG2CC"
+    }
+]

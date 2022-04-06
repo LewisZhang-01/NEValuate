@@ -1,0 +1,46 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "06/26/2006",
+        "dateOfIncident": "06/21/2006",
+        "fire": false,
+        "manufacturer": "FREIGHTLINER LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10160779,
+        "products": [
+            {
+                "manufacturer": "FREIGHTLINER LLC",
+                "productMake": "WESTERN STAR",
+                "productModel": "4900",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "PASSENGER SIDE STEER AXLE HUB FAILED. IT CRACKED IN A CIRCULAR PATTERN BETWEEN THE SPINDLE WHEEL STUDS AND THE BEARING FLANGE 360 DEGREES.  *JB",
+        "vin": "5KKHAECK65P"
+    },
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "02/25/2006",
+        "dateOfIncident": "02/17/2006",
+        "fire": false,
+        "manufacturer": "FREIGHTLINER LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10151196,
+        "products": [
+            {
+                "manufacturer": "FREIGHTLINER LLC",
+                "productMake": "WESTERN STAR",
+                "productModel": "4900",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AIR CONDITIONING CONDENSER AND A/C HOSE HARNES WITH BRACKET ARE FAILING.  IN WARM RAINY WEATHER THERE IS A HAZARD AS DEFOGGING OF WINDSHIELD IS MINIMAL.  FIRST OF 4 INCIDENTS OCCURRED SEPTEMBER 25,2005.",
+        "vin": "5KKHAECK55P"
+    }
+]

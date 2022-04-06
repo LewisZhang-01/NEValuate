@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "01/28/2019",
+        "dateOfIncident": "01/28/2019",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11172564,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "2018",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DOOR LATCH DOESN'T WORK/KEEP DOOR CLOSED WHEN IT'S BELOW FREEZING OUTSIDE. THIS ONLY OCCURS WHEN IT'S BELOW FREEZING OUTSIDE.",
+        "vin": "1FTEW1EG4JK"
+    }
+]

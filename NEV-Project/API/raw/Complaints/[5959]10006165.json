@@ -1,0 +1,24 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "02/12/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10006165,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "CROWN VICTORIA",
+                "productYear": "1991",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE CONSUMER NOTICED AN INDENTION IN THE SIDEWALL OF THE SPARE TIRE.  THE SPARE TIRE WAS DAMAGED ON THE BRACKET THAT HOLDS THE JACK POLE.  *SCC *JB",
+        "vin": ""
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "07/19/1999",
+        "dateOfIncident": "06/18/1999",
+        "fire": true,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 547425,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "IMPALA",
+                "productYear": "1969",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENGINE FIRE. (OHIO TRAFFIC CRASH REPORT). MJS",
+        "vin": ""
+    },
+    {
+        "components": "SUSPENSION,ENGINE AND ENGINE COOLING,TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/16/1998",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 528393,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "IMPALA",
+                "productYear": "1969",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FAULTY MOTOR MOUNTS, WHIILE HAVING AN ALIGNMENT WAS INFORMED THE TIRES WERE FEATHERING AND ARE VERY DANGEROUS, EXPERIENCED A BLOWOUT,HAD REAR SHOCKS REPLACED AND AN ADDITIONAL ALIGNMENT, CONSUMER IS AWAITING REIMBURSEMENT OF MONIES FOR TIRES.  *JG",
+        "vin": ""
+    }
+]

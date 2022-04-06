@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/19/2003",
+        "dateOfIncident": "01/15/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002980,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "LEXUS",
+                "productModel": "LX470",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "MICHELIN TIRE CORP.",
+                "productMake": "MICHELIN",
+                "productModel": "M+S ALL SEASON",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "TIRE BLEW OUT ON FREEWAY WHILE DRIVING AT 65MPH.  TIRE: MICHELIN LTX M/S 275/70R16 ON A 2000 LEXUS LX470.  I HAVE ALSO NOTICED UNEVEN TIRE WEAR ON THE OUTSIDE OF THE TIRE AND NOTIFED THE DEALER A COUPLE OF TIMES BUT THEY SAY IT IS NORMAL.",
+        "vin": "JT6HT00W5Y0"
+    }
+]

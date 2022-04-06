@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "12/20/2002",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001350,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "ELANTRA",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING  AT  45MPH  THE VEHICLE WILL MAKE FRONT END VIBRATION. DEALER HAS INSPECTED THE VEHICLE AND COULD NOT DUPLICATE OR CORRECT THE PROBLEM. PLEASE PROVIDE FURTHER INFORMATION. TS",
+        "vin": "KMHDN45D31U"
+    }
+]

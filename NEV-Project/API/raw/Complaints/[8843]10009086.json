@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "02/28/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009086,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "E150",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE CRUISE CONTROL VACUUM LINE HAD KINKED WHILE THR CRUISE WAS ON, THE THROTTLE BODY HAD STUCK, AND THE BRAKE PEDAL HAD BECOME INOPERATIVE.  SCC  *JB",
+        "vin": ""
+    }
+]

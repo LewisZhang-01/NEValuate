@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "09/06/2011",
+        "dateOfIncident": "07/15/2011",
+        "fire": false,
+        "manufacturer": "Big Tex Trailer Manufacturing, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10423954,
+        "products": [
+            {
+                "manufacturer": "Big Tex Trailer Manufacturing, Inc.",
+                "productMake": "BIG TEX",
+                "productModel": "25DU",
+                "productYear": "2003",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "CARLISLE TIRE & RUBBER CO",
+                "productMake": "CARLISLE",
+                "productModel": "RADIAL TRAIL",
+                "productYear": "9999",
+                "size": "ST235/85R16",
+                "type": "Tire"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2003 BIG TEX 25DU WITH CARLISLE RADIAL TRAIL(LT235/85/R16 DOT 3E0R TIRES. WHILE PARKED, THE CONTACT NOTICED THAT THE FRONT PASSENGER AND REAR DRIVER SIDE TIRES WERE BLOWN OUT. THE TIRES WERE NOT REPLACED.  THE APPROXIMATE FAILURE MILEAGE WAS 3,000.  UPDATED 10/21/11",
+        "vin": "16VDX162042"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, AIR",
+        "crash": false,
+        "dateComplaintFiled": "04/03/2003",
+        "dateOfIncident": "11/15/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10013936,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "1999 CHEVROLET SILVERADO - ABS MODULE RUNS EVEN WHEN THE IGNITION IS TURNED OFF CAUSING A FAILURE.",
+        "vin": "2GCEK19V9X1"
+    }
+]

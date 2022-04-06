@@ -1,0 +1,31 @@
+[
+    {
+        "components": "VISIBILITY,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "06/16/2003",
+        "dateOfIncident": "06/15/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10023134,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "ASTRO",
+                "productYear": "1997",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "GM PRODUCTS DIV. GM CORP.",
+                "productMake": "GM PRODUCTS",
+                "productModel": "GM PRODUCTS",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "MY WIPERS ON MY 1997 ASTRO VAN STOP WORKING DURING USE WHICH IS OF COURSE IS VERY DANGEROUS. AFTER READING SOME OF THE OTHER PEOPLES PROBLEMS IT IS APPARENT THAT THIS IS A KNOWN PROBLEM WITH THIS VEHICLE..  WHY WONT GM DO ANYTHING ABOUT IT? DOES SOMEONE NEED TO DIE?  *NLM",
+        "vin": ""
+    }
+]

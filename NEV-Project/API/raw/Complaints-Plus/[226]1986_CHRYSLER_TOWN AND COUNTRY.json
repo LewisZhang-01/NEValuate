@@ -1,0 +1,68 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "07/09/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10026915,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "TOWN AND COUNTRY",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER NOTICED A BURNING SMELL WHILE DRIVING. VEHICLE WAS SERVICED,   CATALYTIC CONVERTER NEEDED TO BE REPLACED.*AK",
+        "vin": ""
+    },
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "07/09/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10026916,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "TOWN AND COUNTRY",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATES WHEN DEPRESSING GAS PEDAL VEHICLE WOULD NOT ACCELERATE. CONSUMER WOULD HAVE TO APPLY FORCE TO ACCELERATE PEDAL TO GAIN SPEED. *AK",
+        "vin": ""
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "08/30/2000",
+        "dateOfIncident": "08/13/2000",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 869148,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "TOWN AND COUNTRY",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER  WAS DRIVING AND  WITHOUT PRIOR WARNING TRANSMISSION WENT OUT.   VEHICLE WOULD MOVE ON IN SECOND GEAR.   REST OF THE GEARS WERE FROZEN AND WOULD NOT MOVE.  *AK",
+        "vin": ""
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": true,
+        "dateComplaintFiled": "04/08/2006",
+        "dateOfIncident": "02/12/2006",
+        "fire": false,
+        "manufacturer": "AM GENERAL LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 3,
+        "odiNumber": 10154882,
+        "products": [
+            {
+                "manufacturer": "AM GENERAL LLC",
+                "productMake": "AM GENERAL",
+                "productModel": "HUMMER",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "UNINTENDED REARWARD MOVEMENT OF 2000 M.Y. HUMVEE H-1 WHILE IDLING, WITH TRANSMISSION SELECTOR MID-WAY BETWEEN PARK AND REVERSE POSITIONS. VEHICLE HAD REMAINED STATIONARY FOR SEVERAL MINUTES BEFORE TRANSMISSION INTERNALLY SHIFTED INTO REVERSE, CAUSING VEHICLE TO MOVE REARWARD AT INCREASING SPEEDS, STRIKING A SECURITY FENCE AT 7- TO 10 MPH; THE FENCE & GATE TOPPLED ONTO SIDEWALK, STRIKING 3 PEDESTRIANS WALKING ALONG THE OPPOSITE SIDE OF THE FENCE.    OUR ACCIDENT RECONSTRUCTION TEAM RECREATED EVENT SEQUENCE MULTIPLE TIMES -- WITH DELAY BEFORE MOVEMENT RANGING FROM SECONDS TO MINUTES. TRANSMISSION SHIFT MECHANISM OR INTERNAL VALVE BODY CONTROLS EVIDENTLY MIS-ADJUSTED.  *NM",
+        "vin": "137ZA8433YE"
+    },
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "03/05/2004",
+        "dateOfIncident": "03/02/2004",
+        "fire": false,
+        "manufacturer": "AM GENERAL LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10060526,
+        "products": [
+            {
+                "manufacturer": "AM GENERAL LLC",
+                "productMake": "AM GENERAL",
+                "productModel": "HUMMER",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BARELY AVOIDED ACCIDENT DUE TO A KNOWN STEERING DEFECT THAT THE MANUFACTURER WILL NOT REPAIR. THEY CLAIM MY FAULTY STEERING CONDITION IS \"ACCEPTABLE\". *JB",
+        "vin": "137ZA843XYE"
+    }
+]

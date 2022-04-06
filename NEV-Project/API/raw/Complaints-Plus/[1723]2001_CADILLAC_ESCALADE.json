@@ -1,0 +1,68 @@
+[
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "10/12/2015",
+        "dateOfIncident": "10/11/2015",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10781474,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CADILLAC",
+                "productModel": "ESCALADE",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKE LINES CORROSION. CAUSED TOTAL BRAKE FAILURE. LUCKILY NO OTHER VEHICLES WERE PRESENT AT STOP LIGHT WE RAN. THIS IS THE MOST DANGEROUS SITUATION I'VE EVER ENCOUNTERED.",
+        "vin": "1GYEK13ROYR"
+    },
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "03/14/2006",
+        "dateOfIncident": "03/12/2006",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10152678,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CADILLAC",
+                "productModel": "ESCALADE",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DT*: THE CONTACT STATED AFTER DRIVING, THE VEHICLE LEAKS GASOLINE AT A SLOW RATE.  THIS HAPPENED EVERY TIME THE VEHICLE WAS SHUT OFF.  UPON INSPECTION UNDER THE HOOD, IT WAS OBSERVED THAT THE LEAK WAS NEAR SOME WIRES.  THE VEHICLE LEAKED APPROXIMATELY 1/2 LITER OF GASOLINE BEFORE IT WAS TAKEN TO A SERVICE DEALER, WHERE THEY DETERMINED THE LEAK WAS NORMAL.",
+        "vin": "1GYEK63R6YR"
+    },
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "02/09/2004",
+        "dateOfIncident": "02/09/2004",
+        "fire": true,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10057768,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CADILLAC",
+                "productModel": "ESCALADE",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING RIGHT REAR PASSENGER SEAT CAUGHT ON FIRE.  CONSUMER WAS ABLE TO MAINTAIN CONTROL OF THE VEHICLE AND PULLED OVER. VEHICLE WAS TOWED TO THE DEALER FOR INSPECTION.  THE  DEALER REPLACED  THE SEAT.  CONSUMER STATED THIS INCIDENT HAPPENED THREE TIMES EARLIER.  *AK",
+        "vin": ""
+    }
+]

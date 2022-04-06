@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "05/29/2003",
+        "dateOfIncident": "05/26/2003",
+        "fire": false,
+        "manufacturer": "Mazda North American Operations",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020687,
+        "products": [
+            {
+                "manufacturer": "Mazda North American Operations",
+                "productMake": "MAZDA",
+                "productModel": "PROTEGE",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CABLE THAT MOVES SHOULDER RESTRAINT BACK AND FORTH CAME OUT OF ITS TRACK CREATING A NOOSE ACROSS THE WINDOW SHOULDER BELT IS NOW INOPERABLE",
+        "vin": ""
+    }
+]

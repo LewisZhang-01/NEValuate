@@ -1,0 +1,31 @@
+[
+    {
+        "components": "AIR BAGS,EQUIPMENT",
+        "crash": true,
+        "dateComplaintFiled": "05/30/2003",
+        "dateOfIncident": "05/23/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 4,
+        "odiNumber": 10020745,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "AIRBAG SYSTEMS, INC.",
+                "productMake": "AIRBAG",
+                "productModel": "SWITCH",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "FRONTAL IMPACT ON FREEWAY AT 45 MPH CHEVROLET, SILVERADO 4X4 TOTALED.  AIRBAGS DID NOT DEPLOY UPON IMACT.*AK",
+        "vin": "1GCEK19TX1E"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "01/23/2003",
+        "dateOfIncident": "12/23/2002",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004482,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "PICKUP",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "INTERMITTENTLY WHILE DRIVING AND  BRAKES ARE APPLIED THE ABS WARNING LIGHTS START FLASHING AND THE BRAKES DON'T HOLD. THE DEALERSHIP  CANNOT FIX PROBLEM, CAUSE IT CANNOT BE DUPLICATED. MODEL B2200.        TS   CONSUMER FOUND TSB REGARDING LEAKING VACUUM HOSE AT SPEED CONTROL SERVO LOCATED UNDER BATTERY AND THIS SEEMED TO REMEDY THE PROBLEM.   *TT",
+        "vin": "387KC23C3TM"
+    }
+]

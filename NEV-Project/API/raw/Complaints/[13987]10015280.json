@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "07/10/2003",
+        "dateOfIncident": "10/01/2002",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015280,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "ACCORD",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE AIR BAG WARNING LIGHT ILLUMINATED WHILE DRIVING.  THE DEALER DIAGNOSED THE DRIVER'S FRONT AIR BAG HAD FAILED AND MIGHT NOT DEPLOY IF THE VEHICLE WAS INVOLVED IN A FRONTAL COLLISION.   *NLM   *SCC  *JB",
+        "vin": "JHMCG5644XC"
+    }
+]

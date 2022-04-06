@@ -1,0 +1,24 @@
+[
+    {
+        "components": "PARKING BRAKE",
+        "crash": true,
+        "dateComplaintFiled": "03/21/2003",
+        "dateOfIncident": "03/21/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10012223,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "COMANCHE",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE PARKING BRAKE WORKS ONLY INTERMITTENTLY.  THE CONSUMER PARKED VEHICLE, WHICH HAS A MANUAL TRANSMISSION, AND APPLIED THE PARKING BRAKE YET THE VEHICLE ROLLED FORWARD AND COLLIDED WITH ANOTHER CAR.   *NLM",
+        "vin": "1G7FT26S7NL"
+    }
+]

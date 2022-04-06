@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "08/19/2018",
+        "dateOfIncident": "08/19/2018",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11120914,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "COMPASS",
+                "productYear": "2018",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENGINE SHUT OFF WITHOUT WARNING WHILE DRIVING ON INTERSTATE HIGHWAY. RECEIVED MESSAGES SERVICE TRANSMISSION AND SERVICE ENGINE. COASTED TO STOP ON SHOULDER OF ROAD. CAR WOULD NOT RESTART FOR ABOUT 10 MINUTES. CHECKED CODES AFTERWARDS; SHOWS P0339 CRANKSHAFT POSITION SENSOR A CIRCUIT INTERMITTENT AND P0335 CRANKSHAFT POSITION SENSOR A CIRCUIT.      THIS PRESENTS A SERIOUS SAFETY ISSUE WHEN CAR ENGINE STOPS WITHOUT WARNING.",
+        "vin": "3C4NJCBBXJT"
+    }
+]

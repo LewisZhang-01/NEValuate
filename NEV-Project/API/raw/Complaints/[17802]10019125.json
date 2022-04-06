@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "05/22/2003",
+        "dateOfIncident": "11/12/2001",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019125,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ELECTRICAL BUTTONS ON STEERING WHEEL PAD CEASED TO FUNCTION, HORN DOES NOT WORK, CRUISE CONTROLS DO NOT WORK, AND AIR BAG LIGHT IS FLASHING.  *NLM",
+        "vin": "1FTEF15N3RL"
+    }
+]

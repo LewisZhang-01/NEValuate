@@ -1,0 +1,31 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "06/23/2003",
+        "dateOfIncident": "02/13/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10023602,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "S10",
+                "productYear": "1993",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "DELCO ELECT. DIV., GM",
+                "productMake": "DELCO",
+                "productModel": "DELCO",
+                "productYear": "2003",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "CENTRAL MULTIPORT FUEL INJECTOR ASSEMBLY FAILED, CAUSING FUEL TO ENTER THE OIL PAN AND  DAMAGE THE MOTOR. FUEL WAS SPRAYING UNDER THE PHLENEM AND COULD HAVE CAUSED A FIRE. SAME UNIT HAS FAILED JUST OVER 15 MONTHS LATER, AGAIN SPRAYING GAS UNDER THE PHLENEM, THANKFULLY AGAIN NO FIRE,JUST SPRAYING OF GAS.  *NLM",
+        "vin": "1GNDT13W0P2"
+    }
+]

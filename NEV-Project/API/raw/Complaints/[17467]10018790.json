@@ -1,0 +1,31 @@
+[
+    {
+        "components": "LATCHES/LOCKS/LINKAGES,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "05/16/2003",
+        "dateOfIncident": "02/01/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018790,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "AZTEK",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "AUTOMATIC EQUIP. MFG. CO.",
+                "productMake": "UNKNOWN",
+                "productModel": "AUTOMATIC",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "REAR HATCH DEFECTIVE. WILL NOT OPEN.  *NLM",
+        "vin": ""
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN,ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "04/03/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10012372,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "CROWN VICTORIA",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN 15 AMP FUSE BLEW, TRANSMISSION LOCKED IN PARK. CONSUMER WAS UNABLE TO SWITCH GEARS. *AK",
+        "vin": "2FAFP74WXYX"
+    }
+]

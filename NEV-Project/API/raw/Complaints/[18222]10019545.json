@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "05/09/2003",
+        "dateOfIncident": "05/08/2003",
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019545,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "ESCORT",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE CONSUMER TOOK THE VEHICLE FOR RECALL REPAIRS ON THE AIR BAG MODULE ON 5/5/2003 TO THE DEALER.  THE DEALER REFUSED TO DO THE REPAIRS WITHOUT AN EXPLANATION.  ON 5/8/2003 THE AIR BAG MODULE SHORT CIRCUITED AND CAUGHT ON FIRE.  THE VEHICLE EXPLODED.  RECALL # 02V323000.  *JB",
+        "vin": "1FALP13P2VW"
+    }
+]

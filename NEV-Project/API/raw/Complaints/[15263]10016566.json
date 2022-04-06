@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "04/27/2003",
+        "dateOfIncident": "10/10/2002",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10016566,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "BMW MOTORCYCLE",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "REAR DRIVE BEARING - DEALER FOUND THE BEARING BAD AT SCHEDULED SERVICE.    *NLM",
+        "vin": "WB10555A5YZ"
+    }
+]

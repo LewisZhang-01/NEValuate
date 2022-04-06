@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "01/23/2003",
+        "dateOfIncident": "01/08/2003",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004514,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "ALTIMA",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING AT 30/35 MPH ,VEHICLE WAS IN A FRONTAL COLLISION, AND NONE OF THE AIRBAGS DEPLOYED UPON IMPACT. VEHICLE  WAS TOTALED.      TS",
+        "vin": "1N4D001D3WL"
+    }
+]

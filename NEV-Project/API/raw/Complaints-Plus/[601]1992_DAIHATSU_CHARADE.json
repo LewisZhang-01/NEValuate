@@ -1,0 +1,46 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": true,
+        "dateComplaintFiled": "08/23/1995",
+        "dateOfIncident": "08/23/1995",
+        "fire": false,
+        "manufacturer": "DAIHATSU AMERICA, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 483369,
+        "products": [
+            {
+                "manufacturer": "DAIHATSU AMERICA, INC.",
+                "productMake": "DAIHATSU",
+                "productModel": "CHARADE",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SEAT BELTS FAILED DURING AN ACCIDENT, RESULTING IN AN INJURY.  *AK",
+        "vin": "JD1FG1106N4"
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "06/05/1995",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "DAIHATSU AMERICA, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 966404,
+        "products": [
+            {
+                "manufacturer": "DAIHATSU AMERICA, INC.",
+                "productMake": "DAIHATSU",
+                "productModel": "CHARADE",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN TRY TO SHIFT CAR INTO THE GEAR IT IS TOO HARD.  TT",
+        "vin": ""
+    }
+]

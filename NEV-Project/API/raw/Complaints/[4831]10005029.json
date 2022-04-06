@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": true,
+        "dateComplaintFiled": "01/31/2003",
+        "dateOfIncident": "11/08/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10005029,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "AEROSTAR",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TOLD BY MECHANIC THAT POWER TRAIN SNAPPED AND CAR DROVE OUT OF CONTROL.  WAS UNABLE TO PUT THE CAR IN PARK OR NEUTRAL. THE CAR ONLY STOPPED WHEN MECHANIC TURNED THE IGNITION KEY OFF.",
+        "vin": "1FMCA11UXPZ"
+    }
+]

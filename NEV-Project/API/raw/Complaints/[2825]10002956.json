@@ -1,0 +1,31 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "01/19/2003",
+        "dateOfIncident": "12/26/2002",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10002956,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "CRESSIDA",
+                "productYear": "1989",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "CROWN",
+                "productYear": "1969",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "THE TRANSMISSION FAILS TO SHIFT GEARS FOR NO REASON, NO-ONE REALIZE WHAT'S THE CAUSES.  THE CAR DIES WHEN MAKING TURNS VERY OFTEN, AGAIN, NO ONE CAN FIND OUT THE REASONS.",
+        "vin": ""
+    }
+]

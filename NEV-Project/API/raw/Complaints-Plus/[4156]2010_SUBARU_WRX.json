@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE,UNKNOWN OR OTHER,SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "11/08/2017",
+        "dateOfIncident": "04/15/2017",
+        "fire": false,
+        "manufacturer": "Subaru of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11044528,
+        "products": [
+            {
+                "manufacturer": "Subaru of America, Inc.",
+                "productMake": "SUBARU",
+                "productModel": "WRX",
+                "productYear": "2010",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CLUTCH AND BRAKE PEDAL BRACKETS AFFIXED TO FIREWALL BREAK LOOSE AND CAUSE BRAKE PEDAL TO SHIFT TOWARDS THE CLUTCH, WHICH COULD LEAD TO ISSUES STOPPING IN EMERGENCY SITUATION.",
+        "vin": "JF1GE7G65AG"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "03/05/2016",
+        "dateOfIncident": "03/05/2016",
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10840047,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "FLSTFB",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE RIDING ON ANY GEAR THE CLUTCH FAILS TO DISENGAGE AND BIKE MOVES ERRATICALLY. THE PROBLEM HAPPENS FROM THE START OF THE RIDE ALL THE WAY TO 55 60 MILES PER HOUR. HAD TO PULL OVER AND TOW THE BIKE TO THE HARLEY DEALER. SIMILAR TO NHTSA CAMPAIGN 15V216000",
+        "vin": "1HD1JNV18EB"
+    },
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "09/07/2014",
+        "dateOfIncident": "08/31/2014",
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10631369,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "FLSTFB",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WOBBLES AT 40/45MPH.  *TR",
+        "vin": "1HD1JNV10EB"
+    }
+]

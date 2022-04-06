@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "03/18/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010011,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "ACCORD",
+                "productYear": "1992",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Toyo Tire Holdings of Americas, Inc.",
+                "productMake": "TOYO",
+                "productModel": "TOYO",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE RIGHT FRONT TIRE CONTAINED A BULGE.  *AK   *JB",
+        "vin": "1HGCB7677NA"
+    }
+]

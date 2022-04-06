@@ -1,0 +1,46 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": true,
+        "dateComplaintFiled": "04/03/2001",
+        "dateOfIncident": "08/19/2000",
+        "fire": false,
+        "manufacturer": "TITAN MOTORCYCLE CO OF AMERICA",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 2,
+        "odiNumber": 884995,
+        "products": [
+            {
+                "manufacturer": "TITAN MOTORCYCLE CO OF AMERICA",
+                "productMake": "TITAN",
+                "productModel": "PHOENIX",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE BEARING TO  LEFT AT 45-50 MPH  FRAME HIT  GROUND WITH  DRIVER AND PASSENGER, INSIDE. PASSENGER FELL OUT. THEN,  FRONT END DROPPED OFF, AND FLIPPED  DRIVER OFF MOTORCYCLE.  DEALER / MANUFACTURER WERE NOT NOTIFIED AT THIS TIME.    *AK",
+        "vin": "5TMBS1332YD"
+    },
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "01/12/2001",
+        "dateOfIncident": "01/01/2000",
+        "fire": false,
+        "manufacturer": "TITAN MOTORCYCLE CO OF AMERICA",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 878076,
+        "products": [
+            {
+                "manufacturer": "TITAN MOTORCYCLE CO OF AMERICA",
+                "productMake": "TITAN",
+                "productModel": "PHOENIX",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FRONT END THAT WAS ENGINEERED & MANUFACTURED WAS FLAWED IN DESIGN INCORRECTLY.  TORQUE WILL WOBBLE/SHAKE DUE TO BEING WRONG PART OR DESIGN WHEN GOING AROUND CURBS OR CORNERS, THIS CAUSES THE MOTORCYCLE TO BUCKLE & THEN SLIDE FROM UNDERNEATH DRIVER.  RESULTED IN  SEVERE INJURIES AND  DAMAGE TO MOTORCYCLE.  *AK",
+        "vin": "5TMBF51334X"
+    }
+]

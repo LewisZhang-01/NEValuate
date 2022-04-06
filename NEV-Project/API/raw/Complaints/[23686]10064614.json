@@ -1,0 +1,31 @@
+[
+    {
+        "components": "SEAT BELTS,CHILD SEAT",
+        "crash": true,
+        "dateComplaintFiled": "03/22/2004",
+        "dateOfIncident": "03/16/2004",
+        "fire": false,
+        "manufacturer": "Mitsubishi Motors North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10064614,
+        "products": [
+            {
+                "manufacturer": "Mitsubishi Motors North America, Inc.",
+                "productMake": "MITSUBISHI",
+                "productModel": "GALANT",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Graco Children's Products, Inc.",
+                "productMake": "GRACO",
+                "productModel": "SNUGRIDE",
+                "productYear": "9999",
+                "type": "Child Seat"
+            }
+        ],
+        "summary": "GRACO SNUGRIDE MODEL # 7464-CEL. ON 3/16/2004, DURING A FOUR CAR PILE UP, CONSUMER'S VEHICLE  WAS REAR ENDED.  DURING THE COLLISION, THE INFANT CHILD SEAT TURNED OVER ON ITS SIDE.  THE CHILD SEAT WAS INSTALLED AT AN INSPECTION STATION BY A CERTIFIED CHILD SEAT TECHNICIAN PRIOR TO TH ECOLLISION.  ALSO, ON 3/21/2004, WHILE MAKING A RIGHT TURN, THE CHILD SEAT FELL OVER ON ITS SIDE.  *AK",
+        "vin": "4A3AA46G22E"
+    }
+]

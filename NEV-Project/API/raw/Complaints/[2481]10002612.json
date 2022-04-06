@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/13/2003",
+        "dateOfIncident": "01/11/2003",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002612,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "AUDI",
+                "productModel": "A6",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Continental Tire the Americas, LLC",
+                "productMake": "CONTINENTAL",
+                "productModel": "SPORT CONTACT",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHILE DRIVING 35 TO 40 MPH, RIGHT FRONT TIRE WENT FLAT.  UPON INSPECTION IT WAS OBSERVED THAT SIDEWALL HAD CRACKED AND SEPARATED FROM TREAD ALONG THE ENTIRE INSIDE CIRCUMFERENCE.  THIS IS THE SECOND TIME THAT THIS HAS OCCURRED ON THIS CAR.  THE FIRST SEPARATION OCCURRED AT APPROXIMATELY 26,000 MILES (COMPLAINT ODI 769362) WHILE THIS ONE OCCURRED AT 36,000 MILES.",
+        "vin": ""
+    }
+]

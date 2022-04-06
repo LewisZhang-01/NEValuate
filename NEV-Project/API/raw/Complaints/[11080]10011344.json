@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "03/05/2003",
+        "dateOfIncident": "01/01/1901",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10011344,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "GRAND CARAVAN",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NAR 03/05/2003    THE CONSUMER EXPERIENCED INTERMITTENT ILLUMINATION. CLOCK SPRING NEEDED TO BE REPLACED.    *CB",
+        "vin": "9999"
+    }
+]

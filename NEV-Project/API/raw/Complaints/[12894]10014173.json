@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "04/09/2003",
+        "dateOfIncident": "03/09/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10014173,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "1996 FORD EXPLORER, DRIVERS SIDE SEAT BELT WILL NOT STAY LATCHED. *JB",
+        "vin": "1FMDU32P6TZ"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "07/11/2003",
+        "dateOfIncident": "05/28/2003",
+        "fire": false,
+        "manufacturer": "Dodgen Industries, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021896,
+        "products": [
+            {
+                "manufacturer": "Dodgen Industries, Inc.",
+                "productMake": "DODGEN",
+                "productModel": "BORN FREE",
+                "productYear": "1999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE STEEL PROD. CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "FIRESTONE",
+                "productYear": "1999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHILE DRIVING, THE LEFT REAR INSIDE TIRE BLEW OUT. DEALER NOTIFIED. SIZE LT22575R16 DOT#VDIL-1XD-448.   PH *JB",
+        "vin": "1FDXE40S9XH"
+    }
+]

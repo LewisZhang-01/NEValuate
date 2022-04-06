@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "01/22/2003",
+        "dateOfIncident": "01/11/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003154,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "S10",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BEGINNING DECEMBER 2002, VEHICLE WILL UNEXPECTEDLY LOSE POWER AND LACK ACCELERATOR RESPONSE.  CODE P0123 ACTIVE AND PRESENT INDICATING PROBLEM IN THE THROTTLE POSITION SENSOR CIRCUIT.  SENSOR REPLACED AND WIRING INSPECTED.  PROBLEM PERSISTS.",
+        "vin": ""
+    }
+]

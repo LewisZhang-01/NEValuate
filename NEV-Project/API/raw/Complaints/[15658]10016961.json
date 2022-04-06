@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS,SEAT BELTS",
+        "crash": true,
+        "dateComplaintFiled": "05/03/2003",
+        "dateOfIncident": "04/08/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 2,
+        "odiNumber": 10016961,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "BLAZER",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "HEAD ON COLLISION WITH SOLID CEMENT BRIDGE AT 40+ MPH.  AIR BAGS DID NOT DEPLOY, SEAT BELTS DID NOT LOCK IN PLACE ON IMPACT NOR DURING ROLL OVER ON MY 2000 CHEVY BLAZER.  *JB",
+        "vin": "1GNDT13W3Y2"
+    }
+]

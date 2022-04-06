@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": true,
+        "dateComplaintFiled": "12/23/2002",
+        "dateOfIncident": "10/01/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001391,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "LESABRE",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATES WAS HIT FROM THE REAR BY ANOTHER VEHICLE.  BOTH DRIVER AND PASSENGER FRONT SEATS SHOOK BACK AND FORTH EXCESSIVELY CAUSING OCCUPANTS TO HIT HEADS ON ROOF OF VEHICLE.  COLLISION WAS VERY MINOR AND SEATS SHOULD NOT HAVE MOVED. TS",
+        "vin": "1G4HP54K21U"
+    }
+]

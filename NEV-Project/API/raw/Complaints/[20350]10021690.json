@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "07/03/2003",
+        "dateOfIncident": "11/20/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021690,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "GRAND PRIX",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE EXPERIENCED THE SAME DEFECT WITH ITS STEERING RACK AND PINION AS STATED IN RECALL 02 V 286 000, BUTTHE VIN NUMBER WAS NOT INCLUDED.    *TT   THE STEERING WAS EXTREMELY DIFFICULT FROM A STOPPED POSITION AND WAS A LITTLE LESS DIFFICULT WHILE IN MOTION.   *SCC  *JB",
+        "vin": "1G2WP52K4WF"
+    }
+]

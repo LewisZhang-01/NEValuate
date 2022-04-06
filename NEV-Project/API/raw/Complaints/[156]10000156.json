@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "12/17/2002",
+        "dateOfIncident": "11/09/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000156,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "MALIBU",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "INTERMITTENT WINDSHIELD WIPER FAILURE",
+        "vin": "1G1ND52JXX6"
+    }
+]

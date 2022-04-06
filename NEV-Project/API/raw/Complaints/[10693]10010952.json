@@ -1,0 +1,24 @@
+[
+    {
+        "components": "LATCHES/LOCKS/LINKAGES",
+        "crash": false,
+        "dateComplaintFiled": "03/24/2003",
+        "dateOfIncident": "03/10/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010952,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "C/K PICKUPS",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DOOR LATCH ASSEMBLY CRACKED.   *JB",
+        "vin": "2GCEC19R1V1"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "01/27/2003",
+        "dateOfIncident": "01/21/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004732,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "SATURN",
+                "productModel": "SC",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING VEHICLE WAS IN A FRONTAL COLLISION, BUT NONE OF THE AIRBAGS  DEPLOYED UPON IMPACT.   VEHICLE WAS TOTALED. PLEASE PROVIDE MORE DETAILS.*AK",
+        "vin": ""
+    }
+]

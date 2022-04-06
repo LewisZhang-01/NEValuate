@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "01/26/2015",
+        "dateOfIncident": "01/26/2015",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10678814,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "COBALT",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE DOOR DOESN'T OPEN FROM EITHER THE INSIDE OR OUTSIDE, EVEN WHEN THE CAR IS UNLOCKED.  *TR",
+        "vin": ""
+    }
+]

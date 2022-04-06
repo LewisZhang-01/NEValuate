@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "06/29/2019",
+        "dateOfIncident": "07/27/2018",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11228364,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO 1500",
+                "productYear": "2018",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TRANSMISSION CLUNKS WHEN SLOWING DOWN",
+        "vin": "2GCRCREC8J1"
+    }
+]

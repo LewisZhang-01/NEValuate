@@ -1,0 +1,46 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "07/01/2019",
+        "dateOfIncident": "06/11/2019",
+        "fire": false,
+        "manufacturer": "Thor Motor Coach",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11228739,
+        "products": [
+            {
+                "manufacturer": "Thor Motor Coach",
+                "productMake": "THOR",
+                "productModel": "WINDSPORT",
+                "productYear": "2017",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TRIMARK DOOR LATCH STRIKER (MADE OF CHEAP POTMETAL) BROKE WHILE REFUELING.  AS THE VEHICLE ONLY HAS ONE DOOR THIS TAPPING OCCUPANTS INSIDE RV UNTIL TOOLS COULD BE LOCATED AND THE DOOR DISASSEMBLED FROM THE INSIDE.  TRIMARK 1650 IS THE PROBLEM, IT HAPPENS QUITE OFTEN TO MANY RV'S AND SHOULD BE INVESTIGATED AND RECALLED BEFORE SOMEONE BURNS TO DEATH IN AN RV.",
+        "vin": "1F66F5DY7G0"
+    },
+    {
+        "components": "VISIBILITY/WIPER",
+        "crash": false,
+        "dateComplaintFiled": "05/22/2019",
+        "dateOfIncident": "10/20/2018",
+        "fire": false,
+        "manufacturer": "Thor Motor Coach",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11209264,
+        "products": [
+            {
+                "manufacturer": "Thor Motor Coach",
+                "productMake": "THOR",
+                "productModel": "WINDSPORT",
+                "productYear": "2017",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WINDSHIELD WIPER TOGGLED - RIGHT WIPER GETS STUCK UNDER LEFT ARM - MAKING WIPERS STOP UNTIL PHYSICALLY RELEASED- NOT VERY GOOD STOPPING ON INTERSTATE 80 IN THE RAIN",
+        "vin": "1F65F5DY8G0"
+    }
+]

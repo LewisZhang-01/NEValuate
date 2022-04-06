@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "12/21/2002",
+        "dateOfIncident": "07/19/2002",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000339,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "AUDI",
+                "productModel": "A4",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ELECTRICAL SYSTEM: IGNITION - TWO IGNITION COILS FAILED AND HAD TO BE REPLACED.  WAS ON FREEWAY IN FAST TRAFFIC WHEN COIL FAILED.  CAR SLOWED DOWN ABRUPTLY AND TWO CARS BEHIND HAD TO SWERVE TO AVOID COLLISION. TS",
+        "vin": "WAUJC68E42A"
+    }
+]

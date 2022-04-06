@@ -1,0 +1,24 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "03/10/2003",
+        "dateOfIncident": "12/01/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010206,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "SATURN",
+                "productModel": "SL",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "MILEAGE ODOMETER STOPS WORKING, THEN STARTS WORKING, AND THEN STOPS WORKING.  VARIOUS SATURN SL OWNERS ARE HAVING THE SAME PROBLEM.*JB",
+        "vin": ""
+    }
+]

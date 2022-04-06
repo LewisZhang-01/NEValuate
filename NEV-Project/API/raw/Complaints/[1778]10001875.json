@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "01/02/2003",
+        "dateOfIncident": "01/02/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001875,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NHTSA#8990-98-V-15-001:WINSHIELD WIPER WIRING. THIS CONDITION CAN RESULT IN INOPERATIVE WIPERS REDUCING  A DRIVER'S VISIBILITY AND INCREASING THE RISK OF VEHICLE CRASH. CONSUMER STATES HAS THE SAME PROBLEM, INTERMITTENTLY WINDSHIELD WIPERS BECOME INOPERABLE. DEALER HAS BEEN NOTIFIED. PLEASE PROVIDE FURTHER INFORMATION. TS",
+        "vin": "1GNSK16K3RG"
+    }
+]

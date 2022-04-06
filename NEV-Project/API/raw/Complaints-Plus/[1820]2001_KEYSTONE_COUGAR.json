@@ -1,0 +1,76 @@
+[
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "07/24/2008",
+        "dateOfIncident": "10/01/2004",
+        "fire": false,
+        "manufacturer": "Keystone RV Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10236061,
+        "products": [
+            {
+                "manufacturer": "Keystone RV Company",
+                "productMake": "KEYSTONE",
+                "productModel": "COUGAR",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2001 KEYSTONE COUGAR RV HAD REFRIGERATORS FAILURE.    CONSUMER WANTS TO KNOW WHY HIS CLAIM FOR REIMBURSEMENT WAS DENIED.   *NJ  THERE WAS A YELLOW DISCOLORATION AT THE BACK SIDE OF THE UNIT.  THE CONSUMER RECEIVED A DENIAL LETTER WHICH STATED THE PRE-NOTIFICATION REPAIR OCCURRED EARLIER THAN AUGUST 25, 2005.  *JB",
+        "vin": "4YDF2762512"
+    },
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "09/26/2006",
+        "dateOfIncident": "07/01/2006",
+        "fire": false,
+        "manufacturer": "Keystone RV Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10169314,
+        "products": [
+            {
+                "manufacturer": "Keystone RV Company",
+                "productMake": "KEYSTONE",
+                "productModel": "COUGAR",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DT*: THE CONTACT STATED WHILE TRAVELING 62 MPH, THE TRAILER DIPPED ON THE REAR PASSENGER SIDE.  THE VEHICLE WAS PULLED OVER AND THE CONTACT DETERMINED THE MAIN LEAF SPRING WAS FRACTURED.  THE TRAILER WAS TOWED TO AN INDEPENDENT REPAIR SHOP, WHO REPLACED THE SPRING.  A YEAR LATER THE DRIVER SIDE HAD THE SAME PROBLEM AND THAT SPRING WAS REPLACED.  THEN, THE FRONT AXLE SPRINGS FRACTURED SIMULTANEOUSLY.  THE VEHICLE WAS TAKEN TO AN INDEPENDENT REPAIR SHOP, AND BOTH SPRINGS WERE REPLACED.  THE PROBLEM OCCURRED ANOTHER TIME ON THE DRIVER SIDE REAR LEAF ASSEMBLY, WHICH WAS THE ONLY ASSEMBLY REPAIRED WITH A FACTORY PART.",
+        "vin": "4YDF2452912"
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "09/17/2005",
+        "dateOfIncident": "09/09/2005",
+        "fire": false,
+        "manufacturer": "Keystone RV Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10136830,
+        "products": [
+            {
+                "manufacturer": "Keystone RV Company",
+                "productMake": "KEYSTONE",
+                "productModel": "COUGAR",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "TRAILER MARATHON RAD",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "TIRE SEPARATION. *JB",
+        "vin": ""
+    }
+]

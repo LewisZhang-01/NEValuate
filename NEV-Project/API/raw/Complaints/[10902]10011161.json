@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "03/10/2003",
+        "dateOfIncident": "03/03/2003",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10011161,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "BEETLE",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "1 OF THE 4 IGNITION COILS FAILED, THE DEALER REFUSED TO REPLACE THE OTHER 3 UNTIL THEY FAIL.*JB",
+        "vin": "3VWFE21C12M"
+    }
+]

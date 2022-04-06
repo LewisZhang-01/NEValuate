@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/14/2003",
+        "dateOfIncident": "09/02/2002",
+        "fire": false,
+        "manufacturer": "FOUR WINDS CMPR. MFG. CO.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002675,
+        "products": [
+            {
+                "manufacturer": "FOUR WINDS CMPR. MFG. CO.",
+                "productMake": "FOUR WINDS",
+                "productModel": "FOUR WINDS",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "STEELTEX R4S",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "DEVELOPED LARGE 'BULGE' ON SIDEWALL OF FIRESTONE STEELTEX RADIAL R4S LT225/75R16 M/S TIRE WHILE TRAVELING AT INTERSTATE SPEED IN MOTORHOME.  10K MILES ON TIRES.  OTHER TIRES DEVELOPING CRACKS IN SIDEWALLS.",
+        "vin": ""
+    }
+]

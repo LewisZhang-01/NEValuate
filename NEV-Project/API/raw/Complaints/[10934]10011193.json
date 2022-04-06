@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "03/10/2003",
+        "dateOfIncident": "02/20/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10011193,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "ASTRO",
+                "productYear": "1993",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "YOKOHAMA RUBBER CO. LTD.",
+                "productMake": "YOKOHAMA",
+                "productModel": "ALL SEASON RADIAL",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE TIRE REAR TIRES CONTAINED SPLITS IN THE SIDE WALLS.*JB *TS",
+        "vin": "1GCDM19Z6PB"
+    }
+]

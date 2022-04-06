@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "05/09/2003",
+        "dateOfIncident": "03/15/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019546,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "MONTANA",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE PASSENGER SIDE SLIDING DOOR DID NOT LOCK WHEN THE CONSUMER PUSHED THE AUTOMATIC KEY CONTROL BUTTON. *JB *TS",
+        "vin": "1GMDX02Z6XD"
+    }
+]

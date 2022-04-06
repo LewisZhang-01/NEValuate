@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "09/29/2003",
+        "dateOfIncident": "06/04/2002",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10040914,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "DURANGO",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THREE OF THE FOUR POWER WINDOWS FAILED AT THE SAME TIME. WILL COST ALMOST $1K TO FIX ALL 3.",
+        "vin": "1B4HS28Y7XF"
+    }
+]

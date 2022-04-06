@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "09/12/2016",
+        "dateOfIncident": "05/16/2016",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10905814,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "CHEROKEE",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2014 JEEP CHEROKEE. WHILE DRIVING APPROXIMATELY 15 MPH, THE VEHICLE LOST POWER AND THE DTC WARNING INDICATOR ILLUMINATED. THE VEHICLE RESTARTED AFTER SEVERAL ATTEMPTS, BUT THE FAILURE RECURRED SEVERAL TIMES. THE VEHICLE WAS TAKEN TO THE DEALER WHERE THE FAILURE COULD NOT BE DUPLICATED.THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 16V529000 (POWER TRAIN); HOWEVER, THE REMEDY WAS NOT YET AVAILABLE. THE MANUFACTURER WAS NOT NOTIFIED OF THE FAILURE. THE APPROXIMATE FAILURE MILEAGE WAS 20,000. VIN TOOL CONFIRMS PARTS NOT AVAILABLE.",
+        "vin": "1C4PJMAB7EW"
+    }
+]

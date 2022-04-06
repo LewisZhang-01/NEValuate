@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "01/30/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003922,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "ESCAPE",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE CONSUMER'S DAUGHTER WAS DRIVING THE VEHICLE WHEN THE ENGINE LIGHTS BEGAN TO BLINK THEN THE STEERING WHEEL LOCKED UP.  SCC",
+        "vin": "1FMCU04151K"
+    }
+]

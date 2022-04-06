@@ -1,0 +1,68 @@
+[
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "09/26/1997",
+        "dateOfIncident": "06/01/1997",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 521369,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FIESTA",
+                "productYear": "1991",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "STUCK ACCELERATOR, CAUSING VEHICLE TO ACCELERATE.  *AK",
+        "vin": ""
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "02/27/1996",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 979802,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FIESTA",
+                "productYear": "1991",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE TRYING TO START THE CAR, THE ENGINE LOCKED UP. PLEASE DESCRIBE.     *AK",
+        "vin": ""
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "02/27/1996",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 979802,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FIESTA",
+                "productYear": "1991",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE TRYING TO START THE CAR, THE ENGINE LOCKED UP. PLEASE DESCRIBE.     *AK",
+        "vin": ""
+    }
+]

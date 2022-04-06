@@ -1,0 +1,31 @@
+[
+    {
+        "components": "CHILD SEAT",
+        "crash": false,
+        "dateComplaintFiled": "04/18/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015483,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "CAMRY",
+                "productYear": "1995",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Evenflo Company, Inc.",
+                "productMake": "EVENFLO",
+                "productModel": "207 (ON MY WAY)",
+                "productYear": "9999",
+                "type": "Child Seat"
+            }
+        ],
+        "summary": "THE STRAPS ON CAR SEAT WERE NOT ADJUSTABLE FOR SMALLER BABIES (EVENFLO ON MY WAY 207106P2, MANUFACTURED MAY 15, 1997).  *MR   *PH   *NLM",
+        "vin": ""
+    }
+]

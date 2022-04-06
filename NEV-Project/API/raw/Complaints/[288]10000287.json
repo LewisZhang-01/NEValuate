@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "12/19/2002",
+        "dateOfIncident": "12/19/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000287,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350 SD",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TRUCK DRIFTS TO SIDE OF ROAD OR PULLS HARD AND SUDDEN WHEN MODERATE TO HARD BRAKING IS APPLIED.  EFFECT IS NOT AS APPARENT AFTER ALIGNMENT IS PERFORMED.  APPROXIMATELY 7 ATTEMPTS WERE MADE TO REPAIR.  TIE ROD PULLED APART WHILE DRIVING.",
+        "vin": ""
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "10/24/2017",
+        "dateOfIncident": "07/01/2016",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11036014,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FUSION",
+                "productYear": "2011",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TAKATA RECALL.  RECEIVED NOTICE OF RECALL FOR PASSENGER FRONTAL AIRBAG INFLATOR JULY 2016.  FORD CONTINUES TO TELL ME THIS CANNOT BE FIXED AS THEY DO NOT HAVE REPLACEMENT PARTS.",
+        "vin": "3FAHP0JG4BR"
+    }
+]

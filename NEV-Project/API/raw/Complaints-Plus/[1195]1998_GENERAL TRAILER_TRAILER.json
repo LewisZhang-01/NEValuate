@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "04/04/2016",
+        "dateOfIncident": "03/31/2016",
+        "fire": false,
+        "manufacturer": "GENERAL TRAILER PARTS LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10853408,
+        "products": [
+            {
+                "manufacturer": "GENERAL TRAILER PARTS LLC",
+                "productMake": "GENERAL TRAILER",
+                "productModel": "TRAILER",
+                "productYear": "1998",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "TOWMASTER",
+                "productMake": "TOWMASTER",
+                "productModel": "TOWMASTER",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "4 TOW MASTER TRAILER RADIALS HAVE FAILED IN A PERIOD OF JUST OVER 1 YEAR.  THESE ARE USED ON A BOAT TRAILER AND THEY ARE VERY LOW MILEAGE.  I AM CONVINCED THESE TIRES ARE JUST POOR QUALITY AND MIGHT BE CONSIDERED DANGEROUS.",
+        "vin": "4WRBD191XW1"
+    }
+]

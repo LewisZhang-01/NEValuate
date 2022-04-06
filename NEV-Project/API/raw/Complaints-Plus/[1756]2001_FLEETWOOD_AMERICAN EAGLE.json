@@ -1,0 +1,54 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "09/02/2010",
+        "dateOfIncident": "07/27/2010",
+        "fire": false,
+        "manufacturer": "FLEETWOOD ENTERPRISES, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10353456,
+        "products": [
+            {
+                "manufacturer": "FLEETWOOD ENTERPRISES, INC.",
+                "productMake": "FLEETWOOD",
+                "productModel": "AMERICAN EAGLE",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Bridgestone Americas Tire Operations",
+                "productMake": "BRIDGESTONE",
+                "productModel": "RADIAL",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 2001 FLEETWOOD AMERICAN EAGLE EQUIPPED WITH BRIDGESTONE RADIAL TIRES.  WHILE DRIVING APPROXIMATELY 45 MPH A LOUD POPPING NOISE WAS HEARD AND THE STEERING WHEEL BEGAN TO SHAKE. THE VEHICLE WAS DRIVEN ONTO THE EMERGENCY LANE AND SHUT OFF.  UPON EXAMINATION HE NOTICED THAT THE FRONT PASSENGER SIDE TIRE HAD BLOWN OUT DUE TO TREAD SEPARATION AND SIDE WALL DAMAGE.  THE DAMAGED TIRE WAS REPLACED WITH A SPARE.  THE VEHICLE WAS NOT TAKEN TO BE EXAMINED FOR THE CAUSE OF FAILURE BUT WAS TAKEN TO AN INDEPENDENT REPAIR SHOP TO HAVE THE BODY DAMAGES REPAIRED.  THE FAILURE AND CURRENT MILEAGES WERE 45,000.",
+        "vin": ""
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "08/04/2001",
+        "dateOfIncident": "10/30/2000",
+        "fire": false,
+        "manufacturer": "FLEETWOOD ENTERPRISES, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 749849,
+        "products": [
+            {
+                "manufacturer": "FLEETWOOD ENTERPRISES, INC.",
+                "productMake": "FLEETWOOD",
+                "productModel": "AMERICAN EAGLE",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN STOPPED, APPLICATION OF THE BRAKES CAUSES THE STEERING SYSTEM TO LOCK UP MAKING IT IMPOSSIBLE TO TURN THE WHEELS.THE MANUFACTURER OF THE CHASSIS HAS BEEN CONTACTED AND THEY SAY THAT THE MOTORHOME MUST BE MOVING IN ORDER TO TURN THE WHEELS. WITH A 40",
+        "vin": "4VZBR24941C"
+    }
+]

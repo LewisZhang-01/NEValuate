@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "05/06/2003",
+        "dateOfIncident": "05/06/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018269,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TAURUS",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE TRANSMISSION FAILED TO SHIFT PROPERLY. WHILE THE VEHICLE WAS UNDER WARRANTY, THE DEALER STATED THERE WAS NO PROBLEM, HOWEVER AFTER THE WARRANTY EXPIRED, THE DEALER STATED THE TRANSMISSION NEEDED TO BE REPLACED.  *JB",
+        "vin": ""
+    }
+]

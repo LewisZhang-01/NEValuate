@@ -1,0 +1,46 @@
+[
+    {
+        "components": "VISIBILITY/WIPER",
+        "crash": false,
+        "dateComplaintFiled": "02/21/2018",
+        "dateOfIncident": "02/01/2016",
+        "fire": false,
+        "manufacturer": "Keystone RV Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11074116,
+        "products": [
+            {
+                "manufacturer": "Keystone RV Company",
+                "productMake": "KEYSTONE",
+                "productModel": "OUTBACK",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THIRD TEAR BRAKE LIGHT'- GASKET ON BRAKE LIGHT LEAKS WATER DURING RAIN STORM.",
+        "vin": "4S4BRBKC3D3"
+    },
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "12/05/2016",
+        "dateOfIncident": "11/15/2016",
+        "fire": false,
+        "manufacturer": "Keystone RV Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10929917,
+        "products": [
+            {
+                "manufacturer": "Keystone RV Company",
+                "productMake": "KEYSTONE",
+                "productModel": "OUTBACK",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SUSPENSION SHACKLE BUSHINGS WEARING IN LESS THAN 3000 MILES MOUNTING BOLTS TO SHACKLES LOOSE LOCK NUT. NO MANUAL THAT STATES OPERATOR HAS TO HAVE SUSPENSION SERVICED . HAVE HAD WHEEL BEARING REPLACED IN SAME FRONT AXLE TWICE BECAUSE OF WHEEL OVERHEATING CAUSING BRAKE DUST.",
+        "vin": "4YDF33124DB"
+    }
+]

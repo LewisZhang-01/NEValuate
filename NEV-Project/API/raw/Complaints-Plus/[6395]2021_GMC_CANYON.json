@@ -1,0 +1,46 @@
+[
+    {
+        "components": "AIR BAGS,FORWARD COLLISION AVOIDANCE",
+        "crash": true,
+        "dateComplaintFiled": "10/29/2021",
+        "dateOfIncident": "10/10/2021",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 4,
+        "odiNumber": 11438689,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "CANYON",
+                "productYear": "2021",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I was involved in a MVA with another car. The other car had all their airbags deploy after they struck me. None of my airbags deployed.  I was hit in the right front corner ahead of my right tire. The secondary impact was to my right side between my rear passenger door and rear tire.  They hit me with enough force to bend the frame of my truck, crack my engine block and the appraisal from the repair shop came to over $34K without any engine work.  I was the only one in my vehicle, thankfully. I am not sure how many occupants were in the other vehicle. But they were transported to the hospital by ambulance. My wife took me in our other vehicle.  I was diagnosed with a concussion, assorted bruises, aches and pains.  What troubles me is that while my airbags didn't deploy, the other vehicles did! I was spun 90* to 180*  from the way I was traveling. (I don't recall any portion of the accident, I was planning on making a right hand turn and I ended up the opposite way from the way I intended to go.  I fell that there was sufficient force involved to have my airbags deploy and I did contact GMC to make them aware of it as well.",
+        "vin": "1GTG6EEN7M1"
+    },
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "05/04/2021",
+        "dateOfIncident": "04/19/2021",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 11415175,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "CANYON",
+                "productYear": "2021",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I WAS INVOLVED IN A SERIOUS FRONT END COLLISION THAT TOTALED MY VEHICLE. MY TRUCK WAS DEEMED NOT REPAIRABLE AND DECLARED TOTAL BY THE INSURANCE COMPANY.    I WAS DRIVING ON THE NJ GARDEN STATE PARKWAY WHEN THE ACCIDENT OCCURRED.    NOT ONE AIRBAG WAS DEPLOYED!",
+        "vin": "1GTG6EEN0M1"
+    }
+]

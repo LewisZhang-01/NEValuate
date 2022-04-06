@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "03/06/2003",
+        "dateOfIncident": "03/01/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10008507,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPEDITION",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SOMETIMES WHEN STARTING, VEHICLE WILL LUNG FOWARD AS IF IT WAS IN GEAR. IT MAY ONLY MOVE AND INCH OR SO BUT IT FEELS AS IF YOU ARE STARTING A CAR IN GEAR. *JB",
+        "vin": "1FMPU16L41L"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "03/18/2003",
+        "dateOfIncident": "12/01/2002",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10011315,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "CABRIO",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE DRIVER AND PASSENGER DOORS FAILED TO LOCK.  *AK   ON ANOTHER OCCASION WHEN LITTLE PRESSURE WAS APPLIED TO THE DOOR, IT OPENED WHILE THE CONSUMER WAS DRIVING.   *JB",
+        "vin": ""
+    }
+]

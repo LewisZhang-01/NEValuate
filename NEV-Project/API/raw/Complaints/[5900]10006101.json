@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "01/31/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10006101,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "LUMINA",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN TURNING THE STEERING WHEEL TO THE LEFT, IT WILL MAKE A NOISE.  THERE'S A RECALL, BUT THE  VIN WAS NOT INCLUDED.  TS  THE DEALER STATED THAT OTHERS HAVE EXPERIENCED THE SAME PROBLEM BUT THEIR NOT GOING TO COVER THE REPAIR.  SCC",
+        "vin": "2G1WL52M1T9"
+    }
+]

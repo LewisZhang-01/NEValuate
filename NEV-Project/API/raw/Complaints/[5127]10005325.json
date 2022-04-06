@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "02/05/2003",
+        "dateOfIncident": "01/28/2003",
+        "fire": false,
+        "manufacturer": "Volvo Car USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005325,
+        "products": [
+            {
+                "manufacturer": "Volvo Car USA, LLC",
+                "productMake": "VOLVO",
+                "productModel": "760",
+                "productYear": "1989",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "RADIAL",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "FIRESTONE RADIAL SPECIAL SPARE. BELT/TREAD DETACHED FROM TIRE ON 1990 VOLVO 760 TURBO WHILE VEHICLE WAS IN MOTION. NO DAMAGE OR INJURIES RESULTING FROM MALFUNCTION. TIRE SIZE 155  R15 89Q.",
+        "vin": ""
+    }
+]

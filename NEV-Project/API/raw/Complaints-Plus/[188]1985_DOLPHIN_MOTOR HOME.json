@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "09/08/1999",
+        "dateOfIncident": "07/01/1999",
+        "fire": false,
+        "manufacturer": "DOLPHIN RV PRODUCTS INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 548390,
+        "products": [
+            {
+                "manufacturer": "DOLPHIN RV PRODUCTS INC.",
+                "productMake": "DOLPHIN",
+                "productModel": "MOTOR HOME",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUEL HOSE CORRODED CAUSING LEAK.  *YC",
+        "vin": ""
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "06/10/2003",
+        "dateOfIncident": "06/07/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021336,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "C/K CHASSIS CAB",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "MOVABLE SEAT LATCH FOR FRONT DRIVER BROKE. LATCH THAT LOCKS IN PLACE TO MOVE THE SEAT CLOSER OR FARTHER AWAY FROM THE STEERING WHEEL. WHILE DRIVING THE LATCH BROKE CAUSING THE SEAT TO CONTINUOUSLY SLIDE BACK AND FORTH WHEN ACCLERATING OR BRAKING. *AK",
+        "vin": "1GCCS19X3V8"
+    }
+]

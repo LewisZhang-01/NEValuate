@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "06/12/2003",
+        "dateOfIncident": "10/28/1998",
+        "fire": false,
+        "manufacturer": "Subaru of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022985,
+        "products": [
+            {
+                "manufacturer": "Subaru of America, Inc.",
+                "productMake": "SUBARU",
+                "productModel": "LEGACY",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VIBRATION, FROM INITIAL ACCELERATION TO HIGH SPEED DRIVING.  *JB",
+        "vin": "4S3BK4353X7"
+    }
+]

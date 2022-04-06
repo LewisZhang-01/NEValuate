@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "04/21/2006",
+        "dateOfIncident": "04/20/2006",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10155814,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "NAVIGATOR",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "OEM CONTINENTAL AT 255/75-R17 TIRE SEPARATION ON 2000 LINCOLN NAVIGATOR 4X4.  TIRE BULGED ON TREAD (NOT SIDEWALL) AND STEEL BELTS WERE BROKEN SHOWING THROUGH THE TREAD.  VEHICLE HAD 36895 MILES. *NM",
+        "vin": "5LMFU28A5YL"
+    }
+]

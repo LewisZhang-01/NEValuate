@@ -1,0 +1,98 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "10/12/2021",
+        "dateOfIncident": "09/25/2021",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11436484,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "JOURNEY",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Driving on highway and my car started to lose power. When I pulled over and cut it off it wouldn't come on was making a sound as if it was trying to turn on. The engine light came on and a symbol that looked like a lighting bolt in-between two parentheses came on. I sat for 20 mins after trying numerous of times to turn it on and after calling a tow truck. Eventually it came on and I was able to get home but as I was driving the rmp kept going high and the it was making noises. I got home and looked up the symbol and it said it's the electric throttle.  I found it strange for this to be happening when I just purchased it last year and I only had 33120 miles on it.  I called the dodge dealership and got the run around and bringing it in to be fixed. Eventually I was able to find another dodge dealership and they kept my vehicle for a week straight.  Then they said it was the crankshaft sensor and connector that needed to be replaced I also had them do a oil change as well. Just got my truck back today 10/12/2021. whenever I go over 70 my rmp still goes up and it has a noise as if its having issues picking up speed and have a slight vibration with it.  I'm extremely nervous about driving it now. Asked the dealership is this normal and he told me basically all the new vehicles goes thru this because of the plastic parts that is used at manufacturers he also said that it could happen again who knows. That made me really uncomfortable.  I don't know what to do and the dodge dealership is not much help.",
+        "vin": "3C4PDCGB2LT"
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "08/17/2021",
+        "dateOfIncident": "08/03/2021",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11429471,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "JOURNEY",
+                "productYear": "2020",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Nexen Tire Corporation",
+                "productMake": "NEXEN",
+                "productModel": "N PRIZ RH7",
+                "productYear": "9999",
+                "size": "225/55R19",
+                "type": "Tire"
+            }
+        ],
+        "summary": "I was driving in morning traffic on one of the main streets in my area. My tire suddenly blew out, in the moment after it happened, it felt like my steering wheel locked up. After a few seconds the steering wheel was able to be steered again, and I was able to steer off to the side of the road to get out of traffic.  My car is currently still at the dealership. Below I have uploaded some of the communication with dealership (a service advisor) via text.   Tire information that I have: Nexen N Priz RH7 225/55R19",
+        "vin": "3C4PDCGB8LT"
+    },
+    {
+        "components": "STEERING,SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "02/18/2021",
+        "dateOfIncident": "02/01/2021",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11396817,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "JOURNEY",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2020 DODGE JOURNEY. THE CONTACT STATED THAT WHILE DRIVING AT VARIOUS SPEEDS, THE FRONT END OF THE VEHICLE BOUNCED, VIBRATED AND SHOOK UP AN DOWN. ADDITIONALLY, WHILE TURNING THE STEERING WHEEL IN EITHER DIRECTION, A LOUD SQUEALING SOUND WAS PRESENT COMING FROM STEERING RACK AND THE FRONT WHEELS. THE CAUSE OF THE FAILURES WERE NOT DETERMINED. THE LOCAL DEALER KUNES CHRYSLER LOCATED AT 1615 N STATE ST, BELVIDERE, IL 61008 WAS NOTIFIED OF THE FAILURE. THE MANUFACTURER WAS NOT NOTIFIED OF THE FAILURE. THE FAILURE MILEAGE WAS 100.",
+        "vin": "3C4PDCAB8LT"
+    },
+    {
+        "components": "AIR BAGS,SERVICE BRAKES",
+        "crash": true,
+        "dateComplaintFiled": "02/12/2021",
+        "dateOfIncident": "02/09/2021",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 11395877,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "JOURNEY",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AS I WAS DRIVING DOWN THE ROAD APPROACHING STANDSTILL TRAFFIC, I ATTEMPTED TO STEP ON THE BREAK TO SLOW DOWN TO COME TO A STOP. AS I PUSHED ON THE BRAKES I GOT ABOUT HALFWAY DOWN AND I NOTICED MORE PLAY IN THE BRAKES THAN USUAL, SO I ATTEMPTED TO PUSH THE BRAKES FURTHER DOWN TO COME TO A STOP AS I WAS GETTING CLOSER TO A STOPPED CAR. IN DOING SO AS I GOT THE BRAKE PEDAL ALMOST COMPLETELY TO THE FLOOR THE AIRBAG JUST IN FRONT OF THE PEDALS DEPLOYED, PUSHING MY FOOT OFF THE BREAK, PUTTING A GASH IN MY ANKLE, AND CAUSED ME TO REAR END SOMEBODY.*DT*JB*DT*JB",
+        "vin": "3C4PDCAB9LT"
+    }
+]

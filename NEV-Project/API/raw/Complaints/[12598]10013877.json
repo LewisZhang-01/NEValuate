@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "04/03/2003",
+        "dateOfIncident": "03/30/2002",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10013877,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "SENTRA",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AIR BAG DID NOT DEPLOY AFTER A VERY HARD STOP AND COLLISION WITH A BIKE A MONTH LATER AIR BAG LIGHT STARTED TO BLINK NON STOP",
+        "vin": "1N4AB41D8VC"
+    }
+]

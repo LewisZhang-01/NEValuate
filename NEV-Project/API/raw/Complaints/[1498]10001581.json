@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "01/08/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001581,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "LANDAU SALON",
+                "productYear": "1990",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DEFECTIVE CLOCK SPRING CAUSING AIR BAG WARING LIGHT TO STAY ON, AND CRUISE CONTROL AND HORN TO BE INOPERATIVE.    *TT   *NLM",
+        "vin": "1C3XC46R1LD"
+    }
+]

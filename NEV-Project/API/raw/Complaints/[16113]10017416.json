@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "04/23/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017416,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPEDITION",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Continental Tire the Americas, LLC",
+                "productMake": "CONTINENTAL",
+                "productModel": "GRABBER AW",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE CONSUMER RECEIVED A RECALL NOTICE CAMPAIGN # 02T012000 FOR THE TIRES ON THE VEHICLE.  THE VEHICLE WAS TAKEN TO THE DEALER FOR REPAIR WHICH STATED THAT THE TIRE REPLACEMENT PROGRAM ENDED 4/1/03.  THE DEALER IS REQUIRING PAYMENT TO REPLACE THE TIRES.   *NLM",
+        "vin": "1FMRU1760YL"
+    }
+]

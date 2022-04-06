@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": true,
+        "dateComplaintFiled": "04/29/2003",
+        "dateOfIncident": "04/15/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022123,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TAURUS",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN TRYING TO APPLY THE BRAKES, THE PEDAL WENT TO THE FLOOR, WHICH CAUSED THE CONSUMER TO EXPERIENCE EXTENDED STOPPING DISTANCE.*AK   THE CONSUMER HAD AN ACCIDENT.*JB",
+        "vin": "1FAFP55463A"
+    }
+]

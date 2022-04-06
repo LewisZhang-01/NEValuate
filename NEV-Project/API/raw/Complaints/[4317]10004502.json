@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "01/23/2003",
+        "dateOfIncident": "01/23/2003",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 2,
+        "odiNumber": 10004502,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "SENTRA",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING AT 35 MPH VEHICLE WAS INVOLVED IN A FRONTAL COLLISION. UPON IMPACT, AIR BAGS FAILED TO DEPLOY, RESULTING IN INJURIES. ALSO, VEHICLE WAS TOTALED.  *AK",
+        "vin": "1N4AB41D5SC"
+    }
+]

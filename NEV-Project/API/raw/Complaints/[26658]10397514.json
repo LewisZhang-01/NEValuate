@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "04/26/2011",
+        "dateOfIncident": "04/25/2011",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10397514,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "TRAILBLAZER EXT",
+                "productYear": "2003",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Michelin North America, Inc.",
+                "productMake": "AMERICAN PROSPECTOR AP",
+                "productModel": "P255/70R16",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "TIRE BLOWOUT AND DISINTEGRATION ON AMERICAN PROSPECTOR SUV 245-65-R17. TIRE HAD LESS THAN 3000 MILES ON IT. THIS IS SIMILAR TO AN EARLIER RECALL OF A DIFFERENT SIZE.  *TR",
+        "vin": "1GNES16S436"
+    }
+]

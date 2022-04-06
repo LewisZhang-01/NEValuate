@@ -1,0 +1,46 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "07/21/2021",
+        "dateOfIncident": "07/15/2021",
+        "fire": false,
+        "manufacturer": "Tiffin Motorhomes, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11425781,
+        "products": [
+            {
+                "manufacturer": "Tiffin Motorhomes, Inc.",
+                "productMake": "TIFFIN",
+                "productModel": "PHAETON",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Engine Fault Codes 3364, 3031 & 1761. DEF Head Senor Failed.  Derated the engine. Travel speed reduced to 5 MPH. Replacement Part backorder from Tiffin Motorhomes. Limited information when availability.",
+        "vin": "5VBPA57A4KA"
+    },
+    {
+        "components": "WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "01/27/2020",
+        "dateOfIncident": "09/27/2019",
+        "fire": false,
+        "manufacturer": "Tiffin Motorhomes, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11302307,
+        "products": [
+            {
+                "manufacturer": "Tiffin Motorhomes, Inc.",
+                "productMake": "TIFFIN",
+                "productModel": "PHAETON",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS 2019 TIFFIN PHAETON 35BH. THE CONTACT WAS DRIVING AT APPROXIMATELY 54 MPH WHEN THE TMPS INDICATED THAT THE REAR PASSENGER TIRE PRESSURE WAS LOW. UPON STOPPING THE VEHICLE AND INVESTIGATING, THE CONTACT NOTICED THAT REAR PASSENGER'S SIDE VALVE STEM EXTENSION INNER TIRE WAS DISLODGED. THE CONTACT ALSO NOTICED THAT THE REAR DRIVER SIDE STABILIZER WAS ALSO DISLODGED BUT NO AIR WAS LOST. THE MANUFACTURER WAS NOTIFIED AND INFORMED THE CONTACT THAT THE VIN WAS NOT INCLUDED IN NHTSA CAMPAIGN NUMBER: 18V194000 (TIRES). THE CONTACT WAS INFORMED TO EMAIL PICTURES OF THE FAILURE. THE VEHICLE WAS TAKEN TO VELOCITY TRUCK CENTER-OXNARD (2501 CAMINO DEL SOL, OXNARD, CA 93030) WHERE THE REAR DRIVER AND PASSENGER SIDE RIMS WERE REPLACED. THE CONTACT STATED THE FAILURE RECURRED WHILE AWAITING A RESOLUTION FROM THE MANUFACTURER. THE APPROXIMATE FAILURE MILEAGE WAS 8,800.",
+        "vin": "4UZACGFE6KC"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "LATCHES/LOCKS/LINKAGES",
+        "crash": false,
+        "dateComplaintFiled": "01/10/2007",
+        "dateOfIncident": "12/15/2006",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10178314,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TAURUS",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "IN COLD WEATHER, THE SIDE DOOR LATCH MECHANISMS SOMETIMES FREEZE AND DO NOT RETURN TO THE LATCH POSITION WHEN THE DOOR IS CLOSED. THE DOORS CAN OPEN WHILE THE VEHICLE IS MOVING.  THIS IS SIMILAR TO TSB# 05224 AND NHTSA# 10018738 BUT IS OCCURING IN A 2004 FORD TAURUS. THE OTHER INCIDENTS APPLY TO FORD FIVE HUNDRED, FREESTYLE, AND MERCURY MONTEGO MODELS.   *JB",
+        "vin": "1FAHP55284G"
+    }
+]

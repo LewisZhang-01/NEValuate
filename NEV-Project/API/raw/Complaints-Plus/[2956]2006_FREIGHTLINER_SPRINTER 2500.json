@@ -1,0 +1,76 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "08/23/2018",
+        "dateOfIncident": "07/08/2018",
+        "fire": false,
+        "manufacturer": "Daimler Vans USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11121968,
+        "products": [
+            {
+                "manufacturer": "Daimler Vans USA, LLC",
+                "productMake": "FREIGHTLINER",
+                "productModel": "SPRINTER 2500",
+                "productYear": "2006",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Zhaoqing Junhong Co., Ltd.",
+                "productMake": "ANTARES",
+                "productModel": "COMFORT A5",
+                "productYear": "9999",
+                "size": "LT225/75R16 118/116S 10PR",
+                "type": "Tire"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2006 FREIGHTLINER SPRINTER 2500 EQUIPPED WITH ANTARES COMFORT A5 TIRES, SIZE: LT225/75R16 118/16S 10PR, DOT NUMBERS: KBU5114 (PASSENGER SIDE) AND KBU51214 (DRIVER SIDE). WHILE DRIVING VARIOUS SPEEDS, THE VEHICLE SHOOK VIOLENTLY. THE CONTACT STOPPED THE VEHICLE AND DISCOVERED BULGES IN THE FRONT DRIVER AND PASSENGER SIDE TIRES. THE TIRES WERE CHANGED, BUT THE BULGES RETURNED IN BOTH TIRES. THE TIRES WERE NOT TAKEN TO A DEALER OR INDEPENDENT MECHANIC FOR DIAGNOSTIC TESTING. THE VEHICLE AND TIRE MANUFACTURERS WERE NOT NOTIFIED OF THE FAILURE. THE VEHICLE FAILURE MILEAGE WAS 73,443. THE TIRE FAILURE MILEAGE AND VIN WERE NOT AVAILABLE.",
+        "vin": ""
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING,FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "05/03/2012",
+        "dateOfIncident": "02/08/2008",
+        "fire": false,
+        "manufacturer": "DAIMLERCHRYSLER MANUFACTURING INTL",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10457354,
+        "products": [
+            {
+                "manufacturer": "DAIMLERCHRYSLER MANUFACTURING INTL",
+                "productMake": "FREIGHTLINER",
+                "productModel": "SPRINTER 2500",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE TURBO RESONATOR ON THESE VEHICLES IS A KNOWN FAILURE ISSUE, THIS VEHICLE HAS EXPERIENCED TWO FAILURES WHILE STILL UNDER WARRANTY. THE 2ND FAILED AT 70,000, THE MANUFACTURER IS QUITE WILLING TO REPLACE UNDER WARRANTY BUT DESPITE NUMEROUS PRODUCT CHANGES THE (Q5 IS THE LATEST VARIANT) THE COMPONENT CONTINUES TO FAIL UNPREDICTABLY POTENTIAL RESULTING IN A SERIOUS TRAFFIC INCIDENT. THE TURBO RESONATOR IS UNDER FULL TURBO BOOST PRESSURE (APPROXIMATELY 35\"MAP) THUS IS MOST LIKELY TO FAIL WHEN UNDER MAX LOAD I.E. CLIMBING HILLS, ETC. AND IN HOT CONDITIONS. WHEN FAILURE OCCURS THE VEHICLE WILL IMMEDIATELY GO INTO \"LIMP HOME MODE\", SPEED WILL IMMEDIATELY DROP TO DANGEROUSLY LOW MPH (18MPH IN MY LAST EXPERIENCE) AND THE VEHICLE BECOMES A MAJOR TRAFFIC IMPEDIMENT. THIS LONG STANDING PROBLEM HAS BEEN WIDELY IGNORED BY MERCEDES TO DATE AND NEEDS TO BE CORRECTED BEFORE SOMEONE IS SERIOUSLY INJURED OR KILLED.  *TR",
+        "vin": "WDYPD744265"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "05/26/2009",
+        "dateOfIncident": "04/04/2009",
+        "fire": false,
+        "manufacturer": "DAIMLERCHRYSLER MANUFACTURING INTL",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10270013,
+        "products": [
+            {
+                "manufacturer": "DAIMLERCHRYSLER MANUFACTURING INTL",
+                "productMake": "FREIGHTLINER",
+                "productModel": "SPRINTER 2500",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I WAS DRIVING ON I-10 JUST WEST OF PALM SPRINGS CLIMBING A HILL WHEN MY VEHICLE SUDDENLY LOST POWER.  THE TURBO RESONATOR HAD FAILED, CAUSING LACK OF ENGINE POWER.  MY VAN SUDDENLY SLOWED FROM 70 MPH TO 35 MPH.  TRAFFIC FROM BEHIND ME HAD TO REACT QUICKLY TO PASS ME.  I WAS ABLE TO CONTINUE TO A DODGE DEALER, AND PURCHASED A REPLACEMENT TURBO RESONATOR.  THE OLD ONE HAD A SPLIT IN IT, WHICH I FOUND WAS COMMON BASED ON A SEARCH ON THE INTERNET.  THE COST OF THE PART WAS ABOUT $100 AND I WAS ABLE TO REPLACE IT -- AGAIN BASED ON INSTRUCTIONS FOUND ON THE INTERNET.  I STILL HAVE THE OLD DEFECTIVE PART. *TR",
+        "vin": "WDYPD744165"
+    }
+]

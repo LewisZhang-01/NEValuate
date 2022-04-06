@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "04/20/2003",
+        "dateOfIncident": "04/19/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10016225,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "CAMRY",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "INVOLVED IN FRONTAL CRASH AT 35 MPH AND AIRBAGS DID NOT DEPLOY.      *JB",
+        "vin": "4T1BF30KX2U"
+    }
+]

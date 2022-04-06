@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "06/10/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Kia Motors America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022802,
+        "products": [
+            {
+                "manufacturer": "Kia Motors America",
+                "productMake": "KIA",
+                "productModel": "RIO",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING VEHICLE SUDDENLY LOST POWER STEERING.  THIS WAS CAUSED BY AXLE FAILURE.*AK",
+        "vin": "KNADC123016"
+    }
+]

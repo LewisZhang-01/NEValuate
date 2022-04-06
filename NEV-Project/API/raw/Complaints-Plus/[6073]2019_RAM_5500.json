@@ -1,0 +1,68 @@
+[
+    {
+        "components": "FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "07/29/2021",
+        "dateOfIncident": "03/04/2021",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11427075,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "RAM",
+                "productModel": "5500",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "HIGH PRESSURE FUEL PUMP WENT OUT CONTAMINATING THE WHOLE FUEL SYSTEM WITH METAL FRAGEMENTS. TRUCK DERATED TO 5MPH. SAT AT DEALERSHIP FOR OVER 3 MONTHS DEALER WAS NOT ABLE TO CORRECT PROBLEM.",
+        "vin": "3C7WRNFL4KG"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "07/20/2021",
+        "dateOfIncident": "05/04/2021",
+        "fire": true,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11425612,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "RAM",
+                "productModel": "5500",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact's husband owns a 2019 Ram 5500. While her husband was driving 45 mph, he heard an abnormal sound coming from the engine as the check engine warning light illuminated. The vehicle stalled while depressing the accelerator pedal. Her husband pulled over to the side of the road and upon inspection, he discovered that smoke and a fire had started in the engine compartment. Her husband grabbed the fire extinguisher and extinguished the fire. The contact owns a towing company and was able to tow the vehicle to a dealer. The dealer informed the contact and her husband that a rod had gone through the engine block. The contact and her husband were provided an estimate for the repair which they declined. The contact had the engine replaced by an independent mechanic. Upon investigation, the contact discovered the vehicle had been placed under NHTSA Campaign Number: 21V439000 (Engine and Engine Cooling) which she linked to the failure. The manufacturer was notified of the failure and the contact was initially provided a case number. The contact then received a call from the manufacturer that her claim was denied. The vehicle was repaired. The failure mileage was 164,716",
+        "vin": "3c7wrmdl6kg"
+    },
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "10/30/2020",
+        "dateOfIncident": "10/27/2020",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11372368,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "RAM",
+                "productModel": "5500",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2019 RAM 5500. THE CONTACT STATED THAT WHEN THE BRAKES WERE APPLIED WHILE DRIVING ON WET SURFACES, THE BRAKES LOCKED UP CAUSING THE VEHICLE TO SLIDE FROM SIDE TO SIDE. THE CONTACT STATED THAT THE FAILURE RECURRED WHILE DRIVING ON DRY PAVEMENT HOWEVER, THE VEHICLE WAS MORE CONTROLLABLE WHILE DRIVING ON DRY PAVEMENT. AN UNKNOWN DEALER WAS CONTACTED HOWEVER, AN APPOINTMENT TO DIAGNOSE OR REPAIR THE VEHICLE WAS STILL PENDING. THE VEHICLE WAS NOT REPAIRED. THE MANUFACTURER WAS NOT NOTIFIED OF THE FAILURE. THE APPROXIMATE FAILURE MILEAGE WAS 110,000.",
+        "vin": "3C7WRNFL5KG"
+    }
+]

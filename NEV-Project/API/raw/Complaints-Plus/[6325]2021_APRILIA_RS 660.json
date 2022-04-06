@@ -1,0 +1,68 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": true,
+        "dateComplaintFiled": "09/01/2021",
+        "dateOfIncident": "08/09/2021",
+        "fire": false,
+        "manufacturer": "Piaggio Group Americas, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 11431387,
+        "products": [
+            {
+                "manufacturer": "Piaggio Group Americas, Inc.",
+                "productMake": "APRILIA",
+                "productModel": "RS 660",
+                "productYear": "2021",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact owns a 2021 Aprilia RS660 motorcycle. The contact stated while riding at 80 mph on a closed track, the contact was approaching a left turn when attempting to brake but the electronic control unit of the braking system did not work which caused the motorcycle to cartwheel and crash landing on the contact from the right side. The contact fractured his collar bone and was taken by ambulance to the hospital for the injury. No police report was filed. The motorcycle was placed on the contacts trailer and was taken to their residence. The motorcycle was not diagnosed or repaired. The manufacturer was not made aware of the failure. The failure mileage was approximate 1100. Invalid VIN.",
+        "vin": "zd4ksua07ms"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "07/29/2021",
+        "dateOfIncident": "07/28/2012",
+        "fire": false,
+        "manufacturer": "Piaggio Group Americas, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11426968,
+        "products": [
+            {
+                "manufacturer": "Piaggio Group Americas, Inc.",
+                "productMake": "APRILIA",
+                "productModel": "RS 660",
+                "productYear": "2021",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact owns a 2021 Aprilia Motorcycle. The contact stated while riding 30 mph, the motorcycle abruptly stalled. The contact was able to restart the motorcycle and rode to the dealer. The contact had not received a diagnostic report. The contact stated that the motorcycle had been taken to the dealer for a recall repair on the same day that the failure occurred. The contact was not sure what recall repair was performed on the motorcycle. The motorcycle was not repaired. The manufacturer was not contacted. The failure mileage was 664.",
+        "vin": "zd4ksua0xms"
+    },
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "06/02/2021",
+        "dateOfIncident": "05/28/2021",
+        "fire": false,
+        "manufacturer": "Piaggio Group Americas, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11419394,
+        "products": [
+            {
+                "manufacturer": "Piaggio Group Americas, Inc.",
+                "productMake": "APRILIA",
+                "productModel": "RS 660",
+                "productYear": "2021",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact owns a 2021 Aprilia RS 660. The contact stated that while driving 75 MPH, the vehicle began to make an abnormal vibrating sound as the alarm pressure warning light illuminated. Due to the failure, the contact initially had the vehicle towed to his house, and then the dealer informed him that there was a fractured connecting rod in the engine. The dealer contacted the manufacturer who agreed to repair the failure under warranty. The vehicle remained in the possession of the dealer and was not yet repaired. The failure mileage was 1,400. The vehicle lost power and the oil ejected from a quarter-sized hole in the engine casing caused by the fractured connecting rod. The vehicle is inoperable.",
+        "vin": "ZD4KSUA09MS"
+    }
+]

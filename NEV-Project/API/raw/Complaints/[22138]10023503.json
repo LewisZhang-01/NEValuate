@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "06/21/2003",
+        "dateOfIncident": "02/01/2001",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10023503,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "BLAZER",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "STEERING PULLS SEVERELY TO THE RIGHT. UNSUCCESSFUL IN OBTAINING AN ALIGNMENT TO PRECLUDE THE SITUATION.    *NLM",
+        "vin": "1GNCS13W5W2"
+    }
+]

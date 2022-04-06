@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "05/23/2003",
+        "dateOfIncident": "05/14/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020465,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "PLYMOUTH",
+                "productModel": "VOYAGER",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "IF THE VEHICLE WAS ON HALF A TANK IT WOULD SHUT OFF.  *NLM",
+        "vin": "PLEASE FILL"
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "components": "SUSPENSION,UNKNOWN OR OTHER,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "03/06/2022",
+        "dateOfIncident": "03/06/2022",
+        "fire": false,
+        "manufacturer": "Bombardier Recreational Products, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11455445,
+        "products": [
+            {
+                "manufacturer": "Bombardier Recreational Products, Inc.",
+                "productMake": "CAN-AM",
+                "productModel": "RYKER",
+                "productYear": "2021",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Bike threw code c0063. Vss fault. Limp mode. While researching possible causes I see this problem appears to happen with quite a few bikes",
+        "vin": "3jb2feg26mj"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM,WHEELS,ELECTRONIC STABILITY CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "01/14/2022",
+        "dateOfIncident": "08/26/2021",
+        "fire": false,
+        "manufacturer": "Bombardier Recreational Products, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11447438,
+        "products": [
+            {
+                "manufacturer": "Bombardier Recreational Products, Inc.",
+                "productMake": "CAN-AM",
+                "productModel": "RYKER",
+                "productYear": "2021",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "On sweeping left turns the rear tire shudders and skips across the road.  Dealership reset YAW rate sensor and adjusted front steering rack. This corrected the issue for a day. The online forums for Can Am Rykers show numerous complaints about this specific issue but dealerships and Can Am state there is no issue and don't have a long term correction for the issue.  It seems that the YAW rate sensor is triggered due to loose front end steering components.  The technical service bulletin provided to dealers is Ryker YAW rate -SAS Sensor Faults 137209. The bike is unsafe and Can Am knows about the issue but will not issue a recall.",
+        "vin": "3JB2GEG25MJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC,VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "12/03/2021",
+        "dateOfIncident": "12/03/2021",
+        "fire": false,
+        "manufacturer": "Bombardier Recreational Products, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11442580,
+        "products": [
+            {
+                "manufacturer": "Bombardier Recreational Products, Inc.",
+                "productMake": "CAN-AM",
+                "productModel": "RYKER",
+                "productYear": "2021",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact owns a 2021 Can-Am Ryker Rally Motorcycle. The contact stated that while driving at 35 MPH, the brakes inadvertently engaged, causing the rear-end of the motorcycle to wobble. The vehicle was taken to the dealer. The dealer tightened the front brakes; however, the failure recurred. Upon investigation, the contact related the failure to the speed sensor traction control. The manufacturer was made aware of the failure and informed the contact to take the vehicle to a dealer. The failure mileage was approximately 3,000.",
+        "vin": "3jb2geg28mj"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "12/02/2021",
+        "dateOfIncident": "12/02/2021",
+        "fire": false,
+        "manufacturer": "Bombardier Recreational Products, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11442467,
+        "products": [
+            {
+                "manufacturer": "Bombardier Recreational Products, Inc.",
+                "productMake": "CAN-AM",
+                "productModel": "RYKER",
+                "productYear": "2021",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I keep getting a vss default on screen. Trike wont start.",
+        "vin": "3jb2feg27mj"
+    },
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "09/10/2021",
+        "dateOfIncident": "08/23/2021",
+        "fire": false,
+        "manufacturer": "Bombardier Recreational Products, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11432544,
+        "products": [
+            {
+                "manufacturer": "Bombardier Recreational Products, Inc.",
+                "productMake": "CAN-AM",
+                "productModel": "RYKER",
+                "productYear": "2021",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Three months old 4,500 miles. Back road riding. At 40-45 mph left/right turns at times feels like the rear tire collapsing and skipping. Same turn at 60-80 nada rides fine.   Rust leaking from muffler. Brp told dealer it\u2019s bad gas\u2026\u2026   I\u2019ve now reported this to Brp and dealer and my bike does not fall within there known issue vins\u2026..  Consumer stated manufacture will not warranty engine and vehicle. Dealer has stated unless engine is fixed he would not repair the vehicle.*JB",
+        "vin": "3jb2geg29mj"
+    },
+    {
+        "components": "WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "08/15/2021",
+        "dateOfIncident": "08/11/2021",
+        "fire": false,
+        "manufacturer": "Bombardier Recreational Products, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11429164,
+        "products": [
+            {
+                "manufacturer": "Bombardier Recreational Products, Inc.",
+                "productMake": "CAN-AM",
+                "productModel": "RYKER",
+                "productYear": "2021",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I heard a loud tapping and rubbing sound coming from the right front wheel at 45 miles per hour. I immediately pulled to the side of the road. I noticed the red locking pin was missing and the wheel lug was loose.",
+        "vin": "3jb2feg2xmj"
+    }
+]

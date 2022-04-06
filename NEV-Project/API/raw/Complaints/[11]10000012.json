@@ -1,0 +1,32 @@
+[
+    {
+        "components": "SUSPENSION,TIRES",
+        "crash": false,
+        "dateComplaintFiled": "12/13/2002",
+        "dateOfIncident": "12/13/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000012,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "EAGLE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "REAR END FISH TALES AND WANDERS THROUGH TURNS AND ON STRAIGHTS. IS SCALLOPING REAR END TIRES. CAR IS DRIVEN ON ASPHALT ROADS AND HIGHWAYS ONLY. DELONG FORD IN WINNEMUCCA  TELLS US NOTHING IS WRONG WITH IT. PURCHASING DEALER, JONES-WEST TOLD US WE COULD TAKE IT TO ANY FORD DEALER TO BE SERVICED.",
+        "vin": "1FAHP34P22W"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC,AIR BAGS,VEHICLE SPEED CONTROL,EQUIPMENT",
+        "crash": true,
+        "dateComplaintFiled": "01/27/2003",
+        "dateOfIncident": "12/05/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10003812,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CADILLAC",
+                "productModel": "CTS",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE CONSUMER STOPPED AT A RED LIGHT, WHEN THE LIGHT TURNED GREEN HE PROCEEDED AND BEGAN TO SKID ON UNSEEN ICE AND HIT A UTILITY POLE.  THE VEHICLE WAS TOTALED.   THE CONSUMER STATED THAT NONE OF THE SAFETY FEATURES WORKED, AND THEY ARE AS FOLLOWED:  AIR BAGS, ABS BRAKES, TRACTION CONTROL, AND THE ADDITIONAL WINTER DRIVING MODE FROM SKID.  SCC",
+        "vin": "1G6DM57N430"
+    }
+]

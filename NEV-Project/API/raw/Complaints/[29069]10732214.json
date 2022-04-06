@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "07/06/2015",
+        "dateOfIncident": "07/31/2014",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10732214,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "GRAND CARAVAN",
+                "productYear": "2011",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TROUBLE STARTING VEHICLE, DRAINING BATTERY, FUEL PUMP CONTINUOUSLY RUNNING AFTER VEHICLE IS SHUT OFF AND KEY IS REMOVED FROM IGNITION. I HAVE LOOKED UP COMPLAINTS ONLINE AND HUNDREDS OF OTHER OWNERS HAVE EXPERIENCED THE SAME PROBLEM FOR FAULTY TIPM.",
+        "vin": "2D4RN5DG1BR"
+    }
+]

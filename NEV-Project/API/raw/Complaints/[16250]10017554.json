@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "04/24/2003",
+        "dateOfIncident": "04/24/2003",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017554,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "ALTIMA",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE STEEL PROD. CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "FIRESTONE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE LEFT FRONT TIRE EXPERIENCED TREAD SEPARATION.  *JB  ALL FOUR TIRES EXPERIENCED TREAD SEPARATION ON THE SIDEWALL.  ONE TIRE BLEW OUT WHEN THE SEPARATION OCCURRED WHILE IN MOTION.  FIRESTONE REPLACED ALL FOUR TIRES.  *SCC",
+        "vin": "9999"
+    }
+]

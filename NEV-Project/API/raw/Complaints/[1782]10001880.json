@@ -1,0 +1,24 @@
+[
+    {
+        "components": "PARKING BRAKE",
+        "crash": false,
+        "dateComplaintFiled": "01/02/2003",
+        "dateOfIncident": "10/11/2001",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001880,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATES THAT WHILE PARKED IN A DOWN HILL POSITION IN DRIVEWAY AND THE EMERGENCY BRAKE CABLE SNAP AND VEHICLE ROLLED DOWN HILL. DEALER CONTACTED. PLEASE PROVIDE ADDITIONAL INFORMATION.",
+        "vin": "1FTSX31F8XE"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/26/2003",
+        "dateOfIncident": "11/02/2002",
+        "fire": false,
+        "manufacturer": "FOUR WINDS INTERNATIONAL",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021609,
+        "products": [
+            {
+                "manufacturer": "FOUR WINDS INTERNATIONAL",
+                "productMake": "FOUR WINDS",
+                "productModel": "CHATEAU",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "STEELTEX RADIAL TIRE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHILE DRIVING, THE TWO REAR TIRE VALVES BROKE AND THE TIRES WENT FLAT (FIRESTONE STEEL RADIAL F4S SIZE#LT22575R16-MS, PLEASE PROVIDE THE DOT NUMBER).  *NLM.  *AK   PH   *JB",
+        "vin": "1FDXE45S1YH"
+    }
+]

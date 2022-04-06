@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS,SEAT BELTS",
+        "crash": true,
+        "dateComplaintFiled": "12/17/2002",
+        "dateOfIncident": "11/24/2002",
+        "fire": false,
+        "manufacturer": "Mazda Motor Corp.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10001052,
+        "products": [
+            {
+                "manufacturer": "Mazda Motor Corp.",
+                "productMake": "MAZDA",
+                "productModel": "626",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE WAS HIT A 30 MPH IN THE FRONT CENTER OF THE VEHICLE BUT THE AIR BAG DID NOT DEPLOY CAUSING MINOR INJURIES TO THE CONSUMER.  THE DRIVERS SEAT BELT DID NOT HOLD AND AS A RESULT THE DRIVER HEAD WENT THROUGH HE WINDSHIELD.  THE DEALER WAS NOTIFIED.   TS   *NLM",
+        "vin": "1YVGF22C515"
+    }
+]

@@ -1,0 +1,76 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "02/08/2004",
+        "dateOfIncident": "02/02/2004",
+        "fire": false,
+        "manufacturer": "TRADEWINDS CONVERSIONS",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10056761,
+        "products": [
+            {
+                "manufacturer": "TRADEWINDS CONVERSIONS",
+                "productMake": "TRADEWINDS",
+                "productModel": "MOTORHOME",
+                "productYear": "1998",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "MICHELIN TIRE CORP.",
+                "productMake": "MICHELIN",
+                "productModel": "XRV",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "TIRE MICHELIN 235 R80 22.5 ON CLASS A MOTORHOME - DOT 3497 - 51000 MILES - GOOD TREAD - \"ZIPPER BLOW OUT\" ON RIGHT FRONT TIRE - PREVIOUS OWNER HAD SIMILAR BLOWOUT NOV 03 ON OUTSIDE LEFT REAR TIRE ~49,500 MILEAGE.  *AK",
+        "vin": "4UZ6XJCA2WC"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "09/28/2000",
+        "dateOfIncident": "08/05/2000",
+        "fire": true,
+        "manufacturer": "TRADEWINDS CONVERSIONS",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 555616,
+        "products": [
+            {
+                "manufacturer": "TRADEWINDS CONVERSIONS",
+                "productMake": "TRADEWINDS",
+                "productModel": "MOTORHOME",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE POSITIVE BATTERY CABLE INSULATION EXPERIENCED EXCESSIVE WEAR FROM RUBBING AGAINST THE FRAME OF THE VEHICLE WHICH RESULTED IN A SHORT AND FIRE.  NLM",
+        "vin": ""
+    },
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "02/01/1999",
+        "dateOfIncident": "07/01/1998",
+        "fire": false,
+        "manufacturer": "TRADEWINDS CONVERSIONS",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 606821,
+        "products": [
+            {
+                "manufacturer": "TRADEWINDS CONVERSIONS",
+                "productMake": "TRADEWINDS",
+                "productModel": "MOTORHOME",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "PROPANE TANK REGULATOR FAILED. MJS",
+        "vin": "4UZ6XJCA1WC"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "06/13/2003",
+        "dateOfIncident": "06/11/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10023044,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "PROBE",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "INVOLVED IN AUTOMOBILE ACCIDENT IN LEXINGTON KY APPROXIMATE SPEED AT 20 MPH CRASHED THE FRONT OF VEHICLE AND THE AIRBAGS DID NOT DEPLOYED FRONT OF VEHICLE SUSTAINED MAJOR DAMAGE.  *NLM",
+        "vin": "1ZVLT20A6V5"
+    }
+]

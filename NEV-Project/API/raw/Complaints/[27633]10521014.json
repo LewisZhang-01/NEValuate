@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "06/21/2013",
+        "dateOfIncident": "03/01/2012",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10521014,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "300C",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLES STALLING WHILE DRIVING, MOSTLY WHILE DECELERATING.  SEEMS TO OCCUR MORE FREQUENTLY WITH A FULL FUEL TANK AND WHILE PULLING A TRAILER, BUT HAS ALSO OCCURRED WITH A HALF A TANK.  NO PROBLEM RESTARTING AFTER STALL.  STARTED OCCURRING MORE FREQUENTLY IN JUNE OF 2013.  HAS HAPPENED AT LEAST 6 TIMES IN THE PAST 18 MONTHS.  *TR",
+        "vin": ""
+    }
+]

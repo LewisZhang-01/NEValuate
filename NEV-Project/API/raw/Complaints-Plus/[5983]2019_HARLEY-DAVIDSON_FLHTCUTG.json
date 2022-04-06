@@ -1,0 +1,90 @@
+[
+    {
+        "components": "EXTERIOR LIGHTING,SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "07/26/2021",
+        "dateOfIncident": "05/01/2021",
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11426453,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "FLHTCUTG",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact owns a 2019 Harley-Davidson FLHTCUTG Tri Glide Ultra motorcycle. The contact stated that while starting the motorcycle, the brake light was illuminated. The vehicle was hauled by trailer to the dealer and diagnosed that the brake sensor for the ABS was faulty however, the sensor part for the repair was on backorder. The vehicle was not repaired. The contact stated that the failure may be related to a software update that was performed on the traction control. The manufacturer was made aware of the failure. The failure mileage was 9,477.",
+        "vin": "1HD1MAF16KB"
+    },
+    {
+        "components": "TRACTION CONTROL SYSTEM",
+        "crash": true,
+        "dateComplaintFiled": "07/09/2020",
+        "dateOfIncident": "06/06/2020",
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 1,
+        "numberOfInjuries": 1,
+        "odiNumber": 11339110,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "FLHTCUTG",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2019 FLHTCUTG TRIKE. CONSUMER WRITES IN REGARDS TO ISSUES WITH THE TRACTION CONTROL SOFTWARE. *LD    THE CONSUMER'S ATTORNEY STATED THE VEHICLE WAS INVOLVED IN A CRASH, LEAVING THE OWNER IN CRITICAL CONDITION AND CAUSING THE DEATH OF THE PASSENGER. THE FIRST FAILURE OCCURRED TWO MONTHS AFTER PURCHASING THE VEHICLE. ON FEBRUARY 18, 2019, THE VEHICLE WAS INVOLVED IN A CRASH WHERE THE CONSUMER AND PASSENGER WERE EJECTED AND INJURED. THE BRAKES LOCKED UP CAUSING THE VEHICLE TO SWERVE INTO ONCOMING TRAFFIC. THE MANUFACTURER WAS NOTIFIED, BUT DENIED RESPONSIBILITY. *JS",
+        "vin": "1HD1MAF12KB"
+    },
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": true,
+        "dateComplaintFiled": "06/26/2020",
+        "dateOfIncident": "06/06/2020",
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 1,
+        "numberOfInjuries": 1,
+        "odiNumber": 11331036,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "FLHTCUTG",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SEE ATTACHED LETTER.  *TR",
+        "vin": "1HD1MAF12KB"
+    },
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "01/17/2020",
+        "dateOfIncident": "01/14/2020",
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11300020,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "FLHTCUTG",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I PURCHASED A 2019 HARLEY DAVIDSON TRI GLIDE TRIKE. ON MY SECOND TRIP OUT, I WAS GOING UPHILL AND NEEDED TO DOWNSHIFT TO GET MORE POWER.  MY CLUTCH HAD COMPLETELY GONE OUT. I WAS TRAVELING AT 60 MPH, AND WAS STUCK IN 6TH GEAR. I COULD NOT SHIFT DOWN, NOR COULD I SLOW DOWN, AS THE ENGINE WOULD ABRUPTLY DIE GOING SLOWER IN 6TH GEAR. AFTER SEVERAL TERRIFYING MOMENTS, I DECIDED TO REV THE ENGINE AND SEE IF I COULD MANUALLY SHIFT THE GEARS LOWER. ONE GEAR AT A TIME, WITH TRAFFIC BUILDING BEHIND ME AS I SLOWED DOWN ON A MAJOR HIGHWAY, I GOT THE BIKE INTO 3RD GEAR, PULLED OVER AND PUT ON THE BRAKE, ABRUPTLY KILLING THE ENGINE.  I CAME TO A VERY HARD STOP.      HARLEY DAVIDSON RECALLED THE 2017-2018 HARLEY DAVIDSON TRI GLIDE FOR CLUTCH ISSUES, HOWEVER, THEY DID NOT RECALL THE 2019, WHICH TO MY KNOWLEDGE USES THE SAME HYDRAULIC CLUTCH SYSTEM. MY EXPERIENCE WAS VERY DANGEROUS, AS I WAS ONLY A FEW MILES AWAY FROM SHARP CURVES AND IT WAS CRITICAL TO SLOW DOWN BEFORE I CAME TO THOSE CURVES. HAD I NOT TRIED TO DOWNSHIFT SEVERAL MILES AWAY FROM THOSE CURVES, I WOULD NOT HAVE DISCOVERED MY CLUTCH HAD GONE OUT UNTIL I WAS RIGHT ON THOSE CURVES. I WOULD HAVE CERTAINLY LOST CONTROL AND CRASHED.",
+        "vin": "1HD1MAF12KB"
+    }
+]

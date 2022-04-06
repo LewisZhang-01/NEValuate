@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "02/13/2003",
+        "dateOfIncident": "02/13/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10007385,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAVALIER",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NHTSA#02-V-286-000 CONSUMER WAS INFORMED THE RECALL REPLACEMENT WOULD BE PERFORMED IN MARCH OR THE FIRST WEEK IN APRIL.  *JB  SCC",
+        "vin": "1G1JC1247W7"
+    }
+]

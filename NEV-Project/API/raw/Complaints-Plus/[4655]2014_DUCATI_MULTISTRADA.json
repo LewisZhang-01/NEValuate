@@ -1,0 +1,46 @@
+[
+    {
+        "components": "SERVICE BRAKES,FORWARD COLLISION AVOIDANCE",
+        "crash": false,
+        "dateComplaintFiled": "06/15/2021",
+        "dateOfIncident": "04/22/2015",
+        "fire": false,
+        "manufacturer": "Ducati North America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11421007,
+        "products": [
+            {
+                "manufacturer": "Ducati North America",
+                "productMake": "DUCATI",
+                "productModel": "MULTISTRADA",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The rear brake has never worked--at all--since I bought this motorcycle new.  The rear brake lever simply \"goes to the floor\" with no resistance against the foot or any application of the brake caliper.  It is fundamentally useless.    The front brakes work superbly.  I am a mechanical engineer and am high skilled in the repair, modification, and maintenance of automobiles, airplanes and motorcycles.  After a thorough bleed of the system, including the installation of additional bleed nipples on the master cylinder and the ABS unit to get ALL air out of the system, the rear brake will work for perhaps 50 miles, then it returns to mush.    In addition to the added bleed nipples I have tried all manner of other equipment improvements and procedural changes including reverse bleeding from the caliper--as many other owners have done--with the same result.  No rear brake.  The dealer admits defeat, too.",
+        "vin": "ZDM12BSW8EB"
+    },
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "06/07/2021",
+        "dateOfIncident": "06/05/2021",
+        "fire": false,
+        "manufacturer": "Ducati North America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11419969,
+        "products": [
+            {
+                "manufacturer": "Ducati North America",
+                "productMake": "DUCATI",
+                "productModel": "MULTISTRADA",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The rear brake is terrible on this model bike, even after having it bled properly by the dealership.",
+        "vin": "zdm12bsw1eb"
+    }
+]

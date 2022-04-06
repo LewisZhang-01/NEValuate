@@ -1,0 +1,68 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "04/23/2003",
+        "dateOfIncident": "04/01/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017432,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "TAHOE",
+                "productYear": "1991",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE BATTERY FAILED AND LEAKED ACID ALL OVER ENGINE COMPARTMENT.  *NLM",
+        "vin": ""
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "04/18/2002",
+        "dateOfIncident": "04/13/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 760847,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "TAHOE",
+                "productYear": "1991",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "UPON ACCELERATION THE TAHOE WOULD NOT SHIFT DOWN INTO A LOW ENOUGH GEAR TO GO.   NLM",
+        "vin": "1GNEC13ROXJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "06/07/2001",
+        "dateOfIncident": "08/01/1999",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 889969,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "TAHOE",
+                "productYear": "1991",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ABS BRAKE LIGHT CAME ON.  WHEN APPLYING BRRAKES THERE IS NO BRAKING ACTION, PEDAL GOES TO THE FLOOR.  CONSUMER REPLACED BRAKE PADS AND SHOES AND MASTER CYLINDER. BUT, IT DID NOT SOLVE PROBLEM.  ANTI LOCK SYSTEM WAS REPLACED ONCE BEFORE IN 1994.  *AK",
+        "vin": "1GNDT13ZXM2"
+    }
+]

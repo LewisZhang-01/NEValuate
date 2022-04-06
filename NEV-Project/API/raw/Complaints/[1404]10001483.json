@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": true,
+        "dateComplaintFiled": "01/10/2003",
+        "dateOfIncident": "07/12/2002",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 2,
+        "odiNumber": 10001483,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "CARAVAN",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE IN MOTION BOTH THE DRIVER AND PASSENGER SIDE SEATS BROKE AND COLLAPSED CAUSING SEVERE INJURIES.  *JG  *JB",
+        "vin": ""
+    }
+]

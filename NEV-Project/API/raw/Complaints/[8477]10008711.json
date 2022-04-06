@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,SUSPENSION,POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "03/04/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10008711,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "RAM",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLES STEERING, TRANSMISSION AND  SUSPENSION FAILED.  *AK   *NLM",
+        "vin": ""
+    }
+]

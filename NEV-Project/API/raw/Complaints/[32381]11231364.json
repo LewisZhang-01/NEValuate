@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "07/12/2019",
+        "dateOfIncident": "07/12/2019",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11231364,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERCURY",
+                "productModel": "MONTEGO",
+                "productYear": "2007",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "REFERENCE TSB 11-10-21,  THE CAR WILL SURGE AND TRY TO MOVE FORWARD QUICKLY WHEN AT LOW IDLE AND SLOWLY MOVING AT TIMES WHEN THE CAR IS CLOSE TO ANOTHER CAR SUCH AS PARKING IN A PARKING LOT.  IF THE DRIVER ISN'T QUICK-REACTING WITH THE FOOT ALREADY ON THE BRAKE PEDAL, THE AUTO COULD MOVE QUICKLY AND CONTACT THE NEARBY AUTO OR STRUCTURE BEFORE THE BRAKE IS PRESSED STOPPING THE VEHICLE FROM LURCHING/SURGING FORWARD.  THERE IS A TSB ISSUED, BUT IT SHOULD BE A SAFETY RECALL DUE TO THE RISK OF CONTACTING ANOTHER NEARLY VEHICLE OR STRUCTURE. IT HAS STEADILY GROWN MORE FREQUENT OVER THE PAST YEAR.",
+        "vin": "1MEHM42147G"
+    }
+]

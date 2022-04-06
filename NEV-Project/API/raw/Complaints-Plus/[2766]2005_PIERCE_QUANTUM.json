@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "09/22/2017",
+        "dateOfIncident": "09/15/2017",
+        "fire": false,
+        "manufacturer": "Pierce Manufacturing",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 11025092,
+        "products": [
+            {
+                "manufacturer": "Pierce Manufacturing",
+                "productMake": "PIERCE",
+                "productModel": "QUANTUM",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AFTER PARKING THE TRUCK WHEN THE DRIVER OPENED HIS DOOR THE STEPS DID NOT OPEN UP AND HE FELL TO THE GROUND.  AFTER INVESTIGATING THE ACCIDENT WE FOUND THAT THE ACTUATING ROD THAT RAISED AND LOWERS THE STEPS WAS BENT AND PREVENTED THE STEPS FROM LOWERING.  WE FEEL THAT THE SYSTEM SHOULD HAVE A FAIL SAFE AND THERE SHOULD BE A LARGER WARNING LABEL THAT CAN BE SEEN FROM THE RIDING POSITION.",
+        "vin": "4P1CU01S95A"
+    }
+]

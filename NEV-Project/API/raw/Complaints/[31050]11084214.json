@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "04/09/2018",
+        "dateOfIncident": "12/01/2017",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11084214,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "HHR",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ELECTRIC STEERING MOTOR STOPS WORKING AFTER 3 -5 MINUTES OF DRIVING, AND REMAINS INOPERABLE FOR DURATION OF THE DRIVE. WILL RESTART AFTER IGNITION IS CYCLED, THEN WILL REPEAT THIS SCENARIO, THERE IS NO WARNING WHEN THIS WILL OCCUR AND IS VERY HARD TO TURN,MAKING FOR SOME VERY DANGEROUS SITUATIONS",
+        "vin": "3GNDA23P66S"
+    }
+]

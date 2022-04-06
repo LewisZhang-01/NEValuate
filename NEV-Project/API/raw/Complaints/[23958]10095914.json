@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "10/17/2004",
+        "dateOfIncident": "10/17/2004",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10095914,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO 2500 HD",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "B.F. GOODRICH TIRE CO.",
+                "productMake": "B.F.GOODRICH",
+                "productModel": "T/A RADIAL TIRE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "BFGOODRICH P245/75R16 TIRE - RADIAL LONG TRAIL T/A  TREAD AND OUTSIDE SIDE WALL CAME APART ON INTERSTATE AT 70 MPH. WAS ABLE TO CONTROL TRUCK AND PULLOVER SAFELY. TIRES / LESS THAN 5 MONTHS OLD.  *JB",
+        "vin": ""
+    }
+]

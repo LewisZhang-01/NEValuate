@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "01/03/2003",
+        "dateOfIncident": "01/02/2003",
+        "fire": false,
+        "manufacturer": "Subaru of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001926,
+        "products": [
+            {
+                "manufacturer": "Subaru of America, Inc.",
+                "productMake": "SUBARU",
+                "productModel": "LEGACY",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN THE RECALL WAS PERFORMED ON THE TRANSMISSION, THE DEALER BROKE THE TRANSMISSION PAN BOLT, WHICH CAUSED FLUID TO LEAK OUT, CONSUMER STATED TRANSMISSION MAY HAVE INTERNAL DAMAGE.*JB",
+        "vin": "4S3BH635437"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,AIR BAGS,ELECTRONIC STABILITY CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "04/21/2016",
+        "dateOfIncident": "04/20/2016",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10860814,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENTIRE INSTRUMENT CLUSTER WENT OUT WHILE DRIVING CAUSING LOSS OF NEEDED INFORMATION SUCH AS SPEED AND OTHER PERTINENT INFORMATION.  DEALER SAYS THERE IS A TSB THAT THE ENTIRE TRUCK HAS TO BE RE-FLASHED INCLUDING ALL MODULES IN THE VEHICLE BECAUSE IT DOES NOT RECOGNIZE THE INSTRUMENT CLUSTER.  DURING THIS TIME, ALL SAFETY SYSTEMS FLASHED AND APPEARED TO BE INACTIVE.  AIR BAG, TRACTION CONTROL, ABS, TRAILER BRAKING ETC.  THIS NEEDS TO BE INVESTIGATED TO SEE IF A RECALL MUST HAPPEN.  IF WE GOT IN AN ACCIDENT DURING THIS OCCURRENCE WHO KNOWS IF ANY OF THE SAFETY SYSTEMS ON THE VEHICLE WERE FUNCTIONING.",
+        "vin": "3GCUKREC9GG"
+    }
+]

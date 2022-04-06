@@ -1,0 +1,24 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/13/2003",
+        "dateOfIncident": "01/01/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10006162,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "TOWN CAR",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER TOOK VEHICLE TO NEAREST DEALER PERTAINING TO A RECALL. DEALER STATED THEY HAD NEVER SEEN THE RECALL BEFORE.. RECALL# 00V356000.  *JB",
+        "vin": "1LNHM82W7YY"
+    }
+]

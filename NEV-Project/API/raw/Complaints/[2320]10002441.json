@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "01/09/2003",
+        "dateOfIncident": "01/05/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002441,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "RAM",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE TRANSMISSION FAILED WITHOUT WARNING WHILE ATTEMPING TO DRIVE FROM A RED LIGHT.  THE DEALER WAS NOTIFIED. PLEASE PROVIDE ADDITIONAL INFORMATION.  *NLM",
+        "vin": "3B7HF13Y5WG"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "04/06/2003",
+        "dateOfIncident": "04/05/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10014035,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "ESCAPE",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Continental Tire the Americas, LLC",
+                "productMake": "CONTITRAC SUV",
+                "productModel": "P26570R16",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "TIRE BLEW OUT IN THE SIDEWALL. TIRE IS A CONTINENTAL CONTITRAC SUV 235/70R16 (NOTE THAT YOU DO NOT HAVE THIS TIRE SIZE LISTED FOR THIS TIRE MODEL BUT THIS IS THE CORRECT SIZE). AREA WHERE DEFECT OCCURRED APPEARS TO BE WHERE TREAD AND SIDEWALL MEET. THERE IS NO EVIDENCE OF PRIOR DAMAGE TO TIRE. I DID NOT HIT ANYTHING PRIOR TO THE BLOWOUT.  DEFECT IS APPROXIMATELY 6 INCHES LONG.*JB",
+        "vin": "1FMYU04112K"
+    }
+]

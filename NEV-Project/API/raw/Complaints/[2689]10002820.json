@@ -1,0 +1,31 @@
+[
+    {
+        "components": "EQUIPMENT,UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "01/16/2003",
+        "dateOfIncident": "01/01/2001",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002820,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "CAMRY",
+                "productYear": "1991",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "CROWN",
+                "productYear": "1969",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "I WAS NOT NOTIFIED OF RECALL ON MY RADIO/TAPE DECK AND NOW MY TAPE DECK DOES NOT WORK.  PLEASE ADVISE AS TO HOW THIS WILL BE HANDLED.  WILL THE RECALL BE COVERED, IS THERE A SERIOUS RISK TO ME?",
+        "vin": "4T1SV21EXMU"
+    }
+]

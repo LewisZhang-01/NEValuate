@@ -1,0 +1,32 @@
+[
+    {
+        "components": "STEERING,TIRES",
+        "crash": false,
+        "dateComplaintFiled": "02/10/2003",
+        "dateOfIncident": "02/10/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005649,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "CAMRY",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "GOODYEAR",
+                "productYear": "1982",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "REGARDING 2002 TOYOTA CAMRY.  STARTED EXPERIENCING PULLING AND BUMPING SENSATIONS FROM FRONT SOON AFTER 5000 MILES.  HAD TIRES REBALANCED AND ROTATED, PROBLEM CONTINUED.  TOOK CAR TO DEALER WHO SAID ALIGNMENT WAS OFF AND SUPPOSEDLY CORRECTED.  NO CHANGE, IN FACT, STEERING WHEEL WAS STILL SLIGHTLY OFF CENTER.  TOOK CAR BACK TO DEALER WHO SAID NOTHING WAS WRONG BUT DID ANOTHER ALIGNMENT, THIS TIME STRAIGHTENING OUT THE STEERING WHEEL.  PROBLEM DID NOT GO AWAY.  WE ARE NOW AT 19000 MILES HAVING JUST ROTATED THE TIRES AGAIN IN HOPES IT WOULD SOLVE THE PROBLEM, BUT IT HAS NOT.  ADDITIONALLY, WE HAVE RECENTLY NOTICED POOR BRAKING TRACTION EVEN AT SLOW SPEEDS IN WET CONDITIONS AND A SPINNING OUT OF A WHEEL GOING AROUND CORNERS AT SLOW SPEED.  WE ARE FRUSTATED BY THE INABILITY OF TOYOTA NORTH OF MT. KISCO, NY TO SOLVE THIS PROBLEM.",
+        "vin": "4T1BE32K92U"
+    }
+]

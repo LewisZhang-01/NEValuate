@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "02/11/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10006297,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "AVALANCHE",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN THE VEHICLE MADE A LEFT OR RIGHT HAND TURN, THE VEHICLE MADE A CLUNK AND POP SOUND, THE DEALER WAS UNABLE TO DUPLICATE THE PROBLEM.*JG  *JB",
+        "vin": "3GNEC13T92G"
+    }
+]

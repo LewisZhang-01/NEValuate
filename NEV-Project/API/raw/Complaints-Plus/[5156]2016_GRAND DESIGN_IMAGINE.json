@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "07/25/2021",
+        "dateOfIncident": "07/17/2021",
+        "fire": false,
+        "manufacturer": "Grand Design RV, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11426336,
+        "products": [
+            {
+                "manufacturer": "Grand Design RV, LLC",
+                "productMake": "GRAND DESIGN",
+                "productModel": "IMAGINE",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Trailer braking began to diminish most noticeably at highway speeds, making stopping distances much longer.  Inspection of the brakes and wiring revealed two of the four electric brake wires had come loose from their type 314 connectors and were completely disconnected.  The two affected brakes were the left and right side front wheels.  Replacement of the connectors remedied the poor braking. I found the loose wiring myself while inspecting the tires before an upcoming trip.  Attached photo shows connectors on the left front wheel with the loose wiring to the right.",
+        "vin": "573TE2729G3"
+    }
+]

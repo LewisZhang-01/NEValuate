@@ -1,0 +1,46 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER,LANE DEPARTURE,FORWARD COLLISION AVOIDANCE",
+        "crash": false,
+        "dateComplaintFiled": "02/11/2022",
+        "dateOfIncident": "02/10/2022",
+        "fire": false,
+        "manufacturer": "Daimler Trucks North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11451612,
+        "products": [
+            {
+                "manufacturer": "Daimler Trucks North America, LLC",
+                "productMake": "FREIGHTLINER",
+                "productModel": "CASCADIA",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The system isn't working properly. The AEB(automatic emergency braking) has been braking when I was driving on ice for no reason almost making cars get skids. It's essential to not brake hard on a slippery road. But that system put me in dangerous conditions. Not only one time but several. I was afraid to drive with them on. Also, I tried to see how the truck goes without it, I unplugged it and the truck was braking properly and never had skidded on slippery roads. And funny thing my acceleration was better, and fuel consumption mile/gallons increased from 5.6 to 6.7. I know manufacturers are forced to install AEB, but I don't want to die from it. I don't need AEB and want you like the government to protect my life and right to disable legally AEB and lane changing system from the truck. I want to take responsibility 100% for any accidents front end collisions or losing control of a vehicle. I am a rally driver, I know how to handle equipment in severe conditions, I know physics and know-how to go off-road, drift. I don't want some system like AEB to held me liable if there would be an accident caused by it. I want you, as protector of our rights of life, liberty and pursuit of happiness to allow drivers to choose by the will to legally disable the AEB system taking responsibility. I take care of road safety and even want to buy one day a Cab Over Engine semi-truck because I am watching the road all the time. I hold a safe following distance and never did a hard brake in 3 years of driving to avoid a collision. I want an AEB system only when it gonna surpass my professional approach to safe driving. It needs more development and calibration, and cameras surrounding systems to do it better. As for now, I don't want to risk my life being an experiment in the eyes of big manufacturing companies.",
+        "vin": "3AKJHHDR7NS"
+    },
+    {
+        "components": "UNKNOWN OR OTHER,FORWARD COLLISION AVOIDANCE",
+        "crash": false,
+        "dateComplaintFiled": "12/31/2021",
+        "dateOfIncident": "12/30/2021",
+        "fire": false,
+        "manufacturer": "Daimler Trucks North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11445705,
+        "products": [
+            {
+                "manufacturer": "Daimler Trucks North America, LLC",
+                "productMake": "FREIGHTLINER",
+                "productModel": "CASCADIA",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FYI, this is the second 2022 Cascadia I\u2019ve driven with this issue. The forward radar sensor detects a target 3 feet in front of me and slams on the brakes if the cruise control is set. I can over ride it by turning off the CC, but then I get constant alarms for following too closely and collision alerts. The issue has generated 4 critical events to my company. This happens randomly, with no warning whether I am in traffic or not. I believe this to be a significant safety issue at worst, and a very unpleasant driving environment at best. According to my company, this is not the only two tractors in which this occurs. My previous tractor was looked at by a Freightliner dealer who failed to repair the issue.",
+        "vin": "1fujhhdrxnl"
+    }
+]

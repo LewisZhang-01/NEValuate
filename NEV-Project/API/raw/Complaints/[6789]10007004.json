@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "10/14/2000",
+        "dateOfIncident": "10/13/2000",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10007004,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "SEBRING",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "IMPROPER REGISTRATION OF FUEL GAUGE.  FUEL GAUGE REGISTERS 1/4 FULL BUT TANK IS ACTUALLY EMPTY.   *NLM      **DIMSII IVOQ ENTRY POSTED AFTER 12/12/02 CUT-OVER TO ARTEMIS*734329",
+        "vin": "3C3F155HXWT"
+    }
+]

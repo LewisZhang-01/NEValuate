@@ -1,0 +1,46 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "08/01/2006",
+        "dateOfIncident": "08/01/2006",
+        "fire": false,
+        "manufacturer": "UD Trucks Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10164787,
+        "products": [
+            {
+                "manufacturer": "UD Trucks Corporation",
+                "productMake": "UD",
+                "productModel": "UD1800",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2005 NISSAN 1800 EXHAUST BRAKES DO NOT WORK ON ROUGH ROADS.  *TS  *NM",
+        "vin": "JNAMA80H3SA"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "07/13/2006",
+        "dateOfIncident": "07/13/2006",
+        "fire": false,
+        "manufacturer": "UD Trucks Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10162347,
+        "products": [
+            {
+                "manufacturer": "UD Trucks Corporation",
+                "productMake": "UD",
+                "productModel": "UD1800",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DT*:  THE CONTACT STATED WHILE APPLYING BRAKE PRESSURE AT VARIOUS SPEEDS, THERE WAS AN INCREASED STOPPING DISTANCE.  THE VEHICLE WAS INSPECTED NUMEROUS TIMES BY A DEALERSHIP, BUT WAS UNABLE TO DUPLICATE THE PROBLEM.  THE MANUFACTURER WAS ALERTED.  A MANUFACTURER REPRESENTATIVE INSPECTED THE VEHICLE, BUT THE FINDINGS WERE NOT DIVULGED.",
+        "vin": "JNAMA80H35A"
+    }
+]

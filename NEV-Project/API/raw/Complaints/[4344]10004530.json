@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/23/2003",
+        "dateOfIncident": "01/20/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004530,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "1992",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE STEEL PROD. CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "FIRESTONE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "CONSUMER STATED THAT WHILE DRIVING AND WITHOUT WARNING THE FRONT TIRES HAVE TREAD SEPERATION AND IT WILL BE HARD FOR THE CONSUMER TO CONTROL THE VEHICLE DEALER NOTIFIED SIZE# P23575R15 PLEASE PROVIDE THE DOT#.                  TS",
+        "vin": "PLEASE PROV"
+    }
+]

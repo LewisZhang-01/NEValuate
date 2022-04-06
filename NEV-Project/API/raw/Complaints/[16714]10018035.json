@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "05/02/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018035,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERCURY",
+                "productModel": "MYSTIQUE",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AFTER THE VEHICLE WAS FILLED WITH FUEL THE CONSUMER NOTICED THAT THE FUEL LEAKED FROM UNDER THE VEHICLE.  THE DEALER SERVICED THE VEHICLE.  *NLM",
+        "vin": ""
+    }
+]

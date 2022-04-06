@@ -1,0 +1,46 @@
+[
+    {
+        "components": "WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "01/12/2019",
+        "dateOfIncident": "01/11/2019",
+        "fire": false,
+        "manufacturer": "FLEETWOOD ENTERPRISES, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11166630,
+        "products": [
+            {
+                "manufacturer": "FLEETWOOD ENTERPRISES, INC.",
+                "productMake": "FLEETWOOD",
+                "productModel": "STORM",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WE HAD JUST COMPLETED A 7 HOUR DRIVE IN OUR 1998 FLEETWOOD STORM RV, RETURNING HOME FROM VACATION.  WE MADE FREQUENT REST STOPS DURING THAT TIME.  AFTER SITTING IN THE DRIVEWAY FOR APPROX. 24 HOURS THE LEFT FRONT TIRE SIDEWALL RUPTURED LEAVING A GASH APPROX. 4 INCHES IN LENGTH.",
+        "vin": "3FCMF53SOXJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "07/29/2002",
+        "dateOfIncident": "01/02/2002",
+        "fire": false,
+        "manufacturer": "FLEETWOOD ENTERPRISES, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 8015025,
+        "products": [
+            {
+                "manufacturer": "FLEETWOOD ENTERPRISES, INC.",
+                "productMake": "FLEETWOOD",
+                "productModel": "STORM",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FORD CHASSEY F53. PASSENGER'S RIGHT FRONT SIDE OF VEHICLE WAS MAKING A GRINDING NOISE. ONCE WHEN BRAKING BRAKES LOCKED UP AND JERKED STEERING WHEEL OUT OF DRIVERS HAND. PLEASE PROVIDE ANY FURTHER INFORMATION.  3FCMF53S0XJAO6240. *AKI",
+        "vin": "3FCMF53S0XJ"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "05/28/2003",
+        "dateOfIncident": "04/03/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021719,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CADILLAC",
+                "productModel": "DEVILLE",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NAR 05/28/2003  *MR    THE CONSUMER EXPERIENCED PROBLEMS WITH VIBRATIONS AND PULLING, THE TIRES WERE BALANCED AND SERVICE BRAKES WERE REPLACED. DEALER NOTIFIED.   *CB",
+        "vin": "1G6KF57991U"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "09/15/1997",
+        "dateOfIncident": "01/05/1994",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 816343,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "PLYMOUTH",
+                "productModel": "GRAND VOYAGER",
+                "productYear": "1987",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING THE TRUCK AND  PUTTING FOOT ON THE BRAKES TO STOP, THE SEAT ADVANCED FORWARD, JAMMING THE DRIVER AGAINST THE STEERING WHEEL.  WHEN  ADJUSTING THE SEAT, IT CLICKS INTO POSITION, BUT WHEN TRYING TO STOP THE SEAT MOVES FORWARD.   *AK",
+        "vin": ""
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "08/19/1997",
+        "dateOfIncident": "07/16/1997",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 815925,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "PLYMOUTH",
+                "productModel": "GRAND VOYAGER",
+                "productYear": "1987",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "STEPPED IN VEHICLE AND STARTED IT, HEARD CLICKING NOISE, LOOKED UNDER HOOD AND CHECKED RADIATOR WHICH WAS LEANING ON ENGINE AND FAN BLADES BEING CLIPPED BY ENGINE. BOLTS SUPPORTING RADIATOR FELL OUT, REPLACED BOLTS, BUT NOT HOLDING. HAS NOT TAKEN TO DEALER.   *AK *JB",
+        "vin": "1P4FH5137HX"
+    }
+]

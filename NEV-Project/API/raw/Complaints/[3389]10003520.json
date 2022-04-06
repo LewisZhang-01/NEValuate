@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "01/28/2003",
+        "dateOfIncident": "09/20/2000",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003520,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SUBURBAN",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WEAK BRAKES REQUIRING EXCESSIVE PEDAL PRESSURE TO STOP VEHICLE.  RANDOM BRAKE PULL ROTATING THE STEERING WHEEL WHILE BRAKING.  LOCKING FRONT WHEELS ACTIVATING ABS WITH LITTLE OR NO REAR BRAKE INVOLVEMENT.",
+        "vin": "1GKGK26J5XJ"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "04/01/2004",
+        "dateOfIncident": "01/01/2003",
+        "fire": false,
+        "manufacturer": "OVERLAND MOTOR COACH",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10059723,
+        "products": [
+            {
+                "manufacturer": "OVERLAND MOTOR COACH",
+                "productMake": "OVERLAND",
+                "productModel": "LORADO",
+                "productYear": "1998",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "MICHELIN TIRE CORP.",
+                "productMake": "MICHELIN",
+                "productModel": "XRV",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHILE DRIVING ON TWO SEPARATE OCCASIONS TIRES BLEW OUT.   MICHELIN TIRES WERE MADE TO HOLD THE CAPACITY OF A MOTOR HOME, AND SHOULD NOT HAVE BLOWN OUT.  THE MOTOR HOME WAS NOT OVERLOADED, AND HAD THE PROPER TIRE PRESSURE.   *AK   THE TIRES FAILED WITH AN EXPLOSIVE FORCE AND CAUSED EXTENSIVE DAMAGE TO THE VEHICLE.  MICHELIN REFUSED TO ACCEPT RESPONSIBILITY.  (THE NEWMAR CORP. RECALLED THESE TIRES DUE TO THE DEFECT)  THE TIRES BLEW ON BOTH THE DRIVER AND PASSENGER SIDE.   *SC",
+        "vin": "4UV6VLCA7WC"
+    }
+]

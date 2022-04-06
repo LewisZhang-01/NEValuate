@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "01/15/2003",
+        "dateOfIncident": "05/20/2002",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002717,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "4 RUNNER",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TRANSMISSION SLIPPING AT TIMES",
+        "vin": "JT3HN86R519"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "05/21/2003",
+        "dateOfIncident": "09/07/2001",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019060,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "MUSTANG",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "PASSIVE RESTRAINT SYSTEM DISABLES MY IGNITION (IT SEEMS) SOMETIMES WHEN I PUT MY KEY IN TO START THE CAR. THE ALARM LIGHT BLINKS RAPIDLY AND IF I TAKE OUT MY KEY AND RE INSERT IT,  I WILL HEAR A SMALL NOISE LIKE A MECHANISM RESETTING AND THEN MY CAR WILL START. 3 ATTEMPTS TO PUT ON DIAGNOSTIC MACHINE..FAILED TO DIAGNOSE.  *JB",
+        "vin": "1FAFP4049WF"
+    }
+]

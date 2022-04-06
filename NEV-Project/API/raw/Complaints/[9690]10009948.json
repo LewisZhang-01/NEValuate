@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "03/05/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009948,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "GRAND PRIX",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "RECALL #0 2 V 28 6000.  CONSUMER WAS INFORMED BY DEALER THAT HIS VEHICLE HAS THE SAME PROBLEM BUT THE RECALL REGARDING THE RACK AND PINION DID NOT APPLY TO VEHICLE, THE VEHICLE IDENTIFICATION NUMBER WAS NOT INCLUDED IN THE RECALL. SC",
+        "vin": "1G2WJ52M5WF"
+    }
+]

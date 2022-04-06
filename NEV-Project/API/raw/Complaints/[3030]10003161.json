@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "01/22/2003",
+        "dateOfIncident": "01/06/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003161,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "REAR FUEL TANK BEGAN LEAKING, SPARE TIRE IS INSTALLED UNDER REAR FUEL TANK.  PRESSURE FROM SUPPORTING TIRE CAUSED FUEL TANK STRAP TO RUB THROUGH FUEL TANK.",
+        "vin": ""
+    }
+]

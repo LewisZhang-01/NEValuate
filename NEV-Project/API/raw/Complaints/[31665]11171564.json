@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "01/23/2019",
+        "dateOfIncident": "01/19/2019",
+        "fire": true,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11171564,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "TUNDRA",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2015 TOYOTA TUNDRA. THE CONTACT STATED THAT THE FRONT DRIVER'S SEAT HEATER WAS INOPERABLE AND THE AMP MODULE WAS MELTED. THE VEHICLE WAS NOT DIAGNOSED OR REPAIRED. ARLINGTON TOYOTA (10939 ATLANTIC BLVD, JACKSONVILLE, FL 32225, (904) 302-9611) WAS NOTIFIED. THE MANUFACTURER WAS NOT MADE AWARE OF THE FAILURE. THE APPROXIMATE FAILURE MILEAGE WAS 75,000.",
+        "vin": "5TFAW5F16FX"
+    }
+]

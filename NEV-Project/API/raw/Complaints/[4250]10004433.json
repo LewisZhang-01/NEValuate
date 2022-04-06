@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "01/22/2003",
+        "dateOfIncident": "01/22/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004433,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GEO",
+                "productModel": "PRIZM",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE DRIVER SEAT BELT LOCKED UP AND DID NOT RELEASE.  (THE LOCK MECHANISM  WAS BROKE) *TS.  THE REAR SEAT BELT ALSO EXPERIENCED THE SAME PROBLEM.  *JB",
+        "vin": "1Y1SK5265VZ"
+    }
+]

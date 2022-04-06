@@ -1,0 +1,112 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "03/30/2022",
+        "dateOfIncident": "03/23/2022",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11458916,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "YUKON XL",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Unknown. Rear driver door latch mechanism is faulty. Door will not open.",
+        "vin": "1GKS1JKL6NR"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM,AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "03/28/2022",
+        "dateOfIncident": "11/18/2021",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11458716,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "YUKON XL",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact owns a 2022 GMC Yukon XL. The contact stated that the component that controls the overhead console was not working. The contact stated that the warning light had illuminated that the air bag had a malfunction. The dealer diagnosed the failure, and advised her that the roof console needed to be replaced, however if she was involved in a crash the air bag would not deploy. The part was ordered however it had been 2 months since the order was placed. The contact also mentioned that the service safety restrain system warning light illuminated and the dealer replaced the fuse but the failure reoccurred. The contact stated that she then contacted the manufacturer who advised her they were not able to speak to her because of a lemon law suite she opened. The failure mileage was 858.",
+        "vin": "1GKS2GKD1NR"
+    },
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "03/24/2022",
+        "dateOfIncident": "03/23/2022",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11458129,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "YUKON XL",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "\u201822 Yukon XL (SLT). Driving out of state and engine started marking a metal knocking sound. Then traction control, emissions and ESC light came on. Dealer says engine lifters are faulty. Car is only 2 months old.",
+        "vin": "1GKS2GKD5NR"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM,EXTERIOR LIGHTING,AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "02/14/2022",
+        "dateOfIncident": "11/20/2021",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11451816,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "YUKON XL",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "\u201cService safety restraint system\u201d warning light message appears on dash. Airbag indicator light on indicating and advised airbags are inoperative due to faulty circuit. No power to roof console leading to inoperative sunroof, overhead lights,  rear hatch operating button, and garage opener.",
+        "vin": "1GKS2GKD1NR"
+    },
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "01/24/2022",
+        "dateOfIncident": "01/24/2022",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11448607,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "YUKON XL",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Vehicle was purchased Friday evening. Monday morning and 223 miles later, started vehicle, message \"service abs - do not drive over 43(?) MPH\" came to a stop sign, vehicle in front already at stop sign, applied brakes, vehicle did not stop, swerved into other lane (on coming traffic) went through the intersection, avoided getting t-boned, turned up hill and vehicle came to a stop.  towed to dealership, awaiting diagnostic.",
+        "vin": "1GKS2JKL3NR"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": true,
+        "dateComplaintFiled": "05/19/2003",
+        "dateOfIncident": "05/17/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020079,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CHEVROLET TRUCK",
+                "productYear": "1989",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "WILDERNESS AT III",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHILE DRIVING ON THE HIGHWAY THE DRIVERS REAR TIRE EXPERIENCED TREAD SEPARATION WHICH CAUSED THE VEHICLE TO LEAVE THE ROAD AND RUN INTO A DITCH.   *NLM",
+        "vin": ""
+    }
+]

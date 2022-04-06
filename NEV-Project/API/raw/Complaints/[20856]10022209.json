@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, OTHER,POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "05/13/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022209,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SAFARI",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "GAUGE READS HOT AND PROBLEMS WITH TRANSMISSION.   PH",
+        "vin": "1GKDM19W2WB"
+    }
+]

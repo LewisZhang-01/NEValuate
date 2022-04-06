@@ -1,0 +1,54 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "06/09/2016",
+        "dateOfIncident": "06/06/2016",
+        "fire": false,
+        "manufacturer": "Forest River, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10873430,
+        "products": [
+            {
+                "manufacturer": "Forest River, Inc.",
+                "productMake": "FOREST RIVER",
+                "productModel": "SALEM",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2004 FOREST RIVER SALEM. THE CONTACT STATED THAT WHILE IN PARK, THE METAL FRAME ON THE FRONT DRIVER SIDE HAD DETACHED FROM THE VEHICLE AND ENCOUNTERED THE TIRE. THE CONTACT WAS CONCERNED FOR THEIR SAFETY DUE TO THE METAL FRAME DETACHED FROM THE VEHICLE, WHICH MIGHT CAUSE THE TIRE TO BLOW OUT. THE VEHICLE WAS NOT DIAGNOSED OR REPAIRED. THE MANUFACTURER WAS NOT NOTIFIED OF THE FAILURE. THE FAILURE MILEAGE WAS NOT AVAILABLE.",
+        "vin": "4X4FSMH204B"
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "11/05/2013",
+        "dateOfIncident": "09/05/2013",
+        "fire": false,
+        "manufacturer": "Forest River, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10550984,
+        "products": [
+            {
+                "manufacturer": "Forest River, Inc.",
+                "productMake": "FOREST RIVER",
+                "productModel": "SALEM",
+                "productYear": "2004",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "CARLISLE TIRE & RUBBER CO",
+                "productMake": "CARLISLE",
+                "productModel": "RADIAL TRAIL",
+                "productYear": "9999",
+                "size": "225/75R15",
+                "type": "Tire"
+            }
+        ],
+        "summary": "CARLISLE TRAILER TIRES    2 OF 4 TIRES EXPLODED ON MY CAMPER  I HAVE A REMNANT FROM THE 1ST ONE & A PICTURE OF THE SECOND    THE 3RD TIRE HAS A DEFECTIVE BELT    I HAVE THE 3RD & 4TH TIRE IN MY GARAGE.  *TR",
+        "vin": "4X4FSMC273B"
+    }
+]

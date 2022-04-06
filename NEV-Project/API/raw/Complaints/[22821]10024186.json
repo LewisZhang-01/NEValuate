@@ -1,0 +1,31 @@
+[
+    {
+        "components": "CHILD SEAT",
+        "crash": false,
+        "dateComplaintFiled": "06/16/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10024186,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "ESCORT",
+                "productYear": "1998",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Graco Children's Products, Inc.",
+                "productMake": "GRACO",
+                "productModel": "8472CYP",
+                "productYear": "9999",
+                "type": "Child Seat"
+            }
+        ],
+        "summary": "GRACO 8442 CYP CHILD SAFETY SEAT.  *MR  PH",
+        "vin": ""
+    }
+]

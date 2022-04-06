@@ -1,0 +1,40 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING,STRUCTURE,TIRES",
+        "crash": false,
+        "dateComplaintFiled": "02/12/2003",
+        "dateOfIncident": "11/01/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10006294,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERCURY",
+                "productModel": "GRAND MARQUIS",
+                "productYear": "1989",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "MICHELIN TIRE CORP.",
+                "productMake": "MICHELIN",
+                "productModel": "XW4",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            },
+            {
+                "manufacturer": "MICHELIN TIRE CORP.",
+                "productMake": "MICHELIN",
+                "productModel": "MICHELIN",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE VEHICLE FRAME HAD APPROXIMATELY THREE FEET OF RUST AND CORROSION.  THE RUST WAS ALSO NOTICED  BY THE BRACKET THAT HOLDS THE TRANSMISSION SUPPORT CROSS MEMBER.  THE ENGINE OIL PAN RUSTED OUT WHICH CAUSED AN OIL LEAK.  ALSO TWO OF THE TIRES HAD ACQUIRED BULGES.  *JG  *JB",
+        "vin": "2MEBM74F9KX"
+    }
+]

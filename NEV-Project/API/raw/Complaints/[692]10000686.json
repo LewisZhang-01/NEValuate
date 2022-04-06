@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE,FUEL SYSTEM, OTHER",
+        "crash": false,
+        "dateComplaintFiled": "01/02/2003",
+        "dateOfIncident": "11/01/2001",
+        "fire": true,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000686,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "OLDSMOBILE",
+                "productModel": "AURORA",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE 1995 OLDSMOBILE AURORA WAS PARKED.  AFTER RESTARTED THE VEHICLE, HAD BACKFIRED AND THE STORE OWNER TOLD HER THAT THE VEHICLE CAUGHT ON FIRE FROM UNDERNEATH.  THE VEHICLE WAS TOTALED.",
+        "vin": ""
+    }
+]

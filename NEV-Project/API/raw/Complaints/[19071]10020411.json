@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS,SEAT BELTS",
+        "crash": true,
+        "dateComplaintFiled": "06/04/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 2,
+        "odiNumber": 10020411,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "AUDI",
+                "productModel": "TT",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DUE TO DEFECTIVE SEAT BELT EQUIPMENT AND AIR BAG NON-DEPLOYMENT THE CONSUMER AND HER DAUGHTER WASN'T RESTRAINED UPON IMPACT. BOTH DRIVER AND PASSENGER SUSTAINED INJURIES. INSURANCE COMPANY DIAGNOSED VEHICLE AS A TOTAL LOST. *MR   *PH",
+        "vin": "TRUTC28N3Y1"
+    }
+]

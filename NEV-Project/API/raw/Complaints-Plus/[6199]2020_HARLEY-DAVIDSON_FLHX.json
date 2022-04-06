@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "05/14/2021",
+        "dateOfIncident": "05/14/2021",
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11416637,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "FLHX",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BROKEN BOLT ON REMOVAL. TOO MUCH LOCTITE/WRONG LOCTITE. TAPPET CUFF (ANTI-ROTATIONAL) BOLT. CAUSES CATASTROPHIC ENGINE FAILURE.",
+        "vin": "1HD1KBC1XLB"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "05/28/2003",
+        "dateOfIncident": "03/28/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021704,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "S10",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE EXPERIENCED THE SAME DEFECT WITH IT'S WINDSHIELD WIPER MOTOR AS STATED IN RECALL 03 V 159 000, BUT THE VIN NUMBER WAS NOT INCLUDED.  *TT  THE WINDSHIELD WIPERS WERE INTERMITTENT.  *SCC    *JB",
+        "vin": "1GNCT18W3WK"
+    }
+]

@@ -1,0 +1,76 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC,ELECTRICAL SYSTEM,VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "01/17/2006",
+        "dateOfIncident": "08/07/2005",
+        "fire": false,
+        "manufacturer": "Volvo Car USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10147942,
+        "products": [
+            {
+                "manufacturer": "Volvo Car USA, LLC",
+                "productMake": "VOLVO",
+                "productModel": "780",
+                "productYear": "1988",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DT*: THE CONSUMER STATED AFTER PURCHASING THE VEHICLE SHE BEGAN HAVING NUMEROUS PROBLEMS. THE FIRST TIME THE VEHICLE WAS TAKEN TO THE DEALERSHIP THE DRIVER'S SIDE WINDOW MODULE AND THE TAIL LIGHT BULBS WERE REPLACED. THE VEHICLE WAS DRIVEN FOR A SHORT PERIOD OF TIME WHEN THE SIGNAL LIGHT DID NOT WORK PROPERLY. THE VEHICLE WAS TAKEN TO THE DEALERSHIP AND THE BULB HOUSING ASSEMBLIES WERE REPLACED. NOW THE CONSUMER IS HAVING PROBLEMS WITH THE BRAKES. THE VEHICLE HAS NOT BEEN TAKEN TO THE DEALERSHIP FOR THIS PROBLEM.  *JB",
+        "vin": "YV18A6925JD"
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/05/2006",
+        "dateOfIncident": "01/05/2006",
+        "fire": false,
+        "manufacturer": "Volvo Car USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10147041,
+        "products": [
+            {
+                "manufacturer": "Volvo Car USA, LLC",
+                "productMake": "VOLVO",
+                "productModel": "780",
+                "productYear": "1988",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "UPON ENTERING MY VEHICLE I NOTICED A LARGE BUBBLE IN THE SIDE WALL OF THE RIGHT REAR TIRE.  THE DECISION TO ATTEMPT TO DRIVE HOME WAS MADE AND WHILE TRAVELING AT APPROXIMATELY 55 MPH ON A PAVED ROAD THE FULDA ASSURO TIRE BLEW OUT IN THE SIDEWALL.   THERE HAS BEEN NO EXPLANATION FOR THE BUBBLE IN THE TIRE ALTHOUGH THE TIRES WERE OBSERVED TO BE IN GOOD CONDITION TWO DAYS PRIOR.  *NM",
+        "vin": "YV1HA6925JD"
+    },
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": true,
+        "dateComplaintFiled": "11/21/1995",
+        "dateOfIncident": "11/11/1995",
+        "fire": false,
+        "manufacturer": "Volvo Car USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 975270,
+        "products": [
+            {
+                "manufacturer": "Volvo Car USA, LLC",
+                "productMake": "VOLVO",
+                "productModel": "780",
+                "productYear": "1988",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE SUDDENLY ACCELERATED, RESULTING IN CRASHING INTO THE VEHICLE IN FRONT.  TT  *JB",
+        "vin": "YV1HA6925JD"
+    }
+]

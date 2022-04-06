@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "11/04/2003",
+        "dateOfIncident": "12/01/2002",
+        "fire": false,
+        "manufacturer": "Mercedes-Benz USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10046662,
+        "products": [
+            {
+                "manufacturer": "Mercedes-Benz USA, LLC",
+                "productMake": "MERCEDES BENZ",
+                "productModel": "SL",
+                "productYear": "1992",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "B.F. GOODRICH TIRE CO.",
+                "productMake": "B.F.GOODRICH",
+                "productModel": "B.F.GOODRICH",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "VEHICLE EXPERIENCED TIRE BLOW OUT WITH B.F. GOODRICH G-FORCE-KDWS 225/55/R16.*MR  (NAR)  3 OF THE 4 TIRE HAVE FAILED ON THE VEHICLE.  THE FIRST TIRE BLEWOUT AT 70 MPH WITH 12442 MILES ON IT.  THE SECOND TIRE BLEWOUT AT 17545 MILES.  THE THIRD TIRE HAD A PIECE OF RUBBER MISSING AT 18223 MILES.  *NM",
+        "vin": ""
+    }
+]

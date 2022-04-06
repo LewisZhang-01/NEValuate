@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "02/05/2003",
+        "dateOfIncident": "10/16/2002",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005341,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "AUDI",
+                "productModel": "A6",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TIE RODS ARE LOOSE AND WORN OUT, ALLOWING DUST TO ENTER INTO MECHANISM. A RECALL HAS BEEN ISSUED ON VEHICLE'S MAKE AND MODEL; HOWEVER, THIS VEHICLE IS NOT INCLUDED DUE TO VIN.",
+        "vin": "WAUBA24B2WN"
+    }
+]

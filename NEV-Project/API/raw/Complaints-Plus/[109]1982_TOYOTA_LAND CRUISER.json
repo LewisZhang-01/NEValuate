@@ -1,0 +1,46 @@
+[
+    {
+        "components": "TIRES",
+        "crash": true,
+        "dateComplaintFiled": "01/19/2001",
+        "dateOfIncident": "04/01/2000",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 878590,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "LAND CRUISER",
+                "productYear": "1982",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "PE00 048; CONSUMER WAS TRAVELING ABOUT 35MPH ON A CURB ONTO  HIGHWAY, AND HEARD A LOUD NOISE.   LEFT AND RIGHT TIRES EXPLODED AFTER HE HIT  CURB.  *AK",
+        "vin": ""
+    },
+    {
+        "components": "TIRES",
+        "crash": true,
+        "dateComplaintFiled": "11/02/2000",
+        "dateOfIncident": "08/09/1996",
+        "fire": true,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 735651,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "LAND CRUISER",
+                "productYear": "1982",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NO SUMMARY LISTED FOR ABOVE VEHICLE.  *AK( DOT NUMBER:  )",
+        "vin": "JT3FJ40C2C3"
+    }
+]

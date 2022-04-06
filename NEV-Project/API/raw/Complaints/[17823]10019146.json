@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "05/22/2003",
+        "dateOfIncident": "05/17/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019146,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERCURY",
+                "productModel": "COUGAR",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "IMRC (INTAKE MANIFOLD RUNNER CONTROL) UNIT SEEMS TO HAVE USED INSUFFICIENT CABLE STRENGTH.  FAULTY DESIGN CAUSED THE CABLE TO FRAY INSIDE THE UNIT EVENTUALLY BREAKING.   *NLM",
+        "vin": ""
+    }
+]

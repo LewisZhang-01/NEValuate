@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "01/23/2003",
+        "dateOfIncident": "01/17/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003260,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "BLAZER",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TRANSFER CASE, IN 4X4 FAILS TO MOVE OR OPERATE, THE VEHICHLE WILL NOT MOVE OR STEER IN 4 WHEEL DRIVE",
+        "vin": "1GNDT13W0X2"
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "04/17/2017",
+        "dateOfIncident": "02/20/2017",
+        "fire": false,
+        "manufacturer": "FOUR WINDS INTERNATIONAL",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10979509,
+        "products": [
+            {
+                "manufacturer": "FOUR WINDS INTERNATIONAL",
+                "productMake": "FOUR WINDS",
+                "productModel": "HURRICANE",
+                "productYear": "2005",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "SEARS ROEBUCK & CO.",
+                "productMake": "SEARS",
+                "productModel": "DIEHARD BATTERY",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "CPSC:ONE OF MY TWO SEARS DIE-HARD MARINE/RV (M4) BATTERIES EXPLODED, LIFTING THE TOP OFF THE BATTERY AND SPEWED ACID AROUND THE BATTERY COMPONENT.  *BF  UPDATED 04/21/2017*JS",
+        "vin": ""
+    },
+    {
+        "components": "STRUCTURE,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "06/14/2005",
+        "dateOfIncident": "05/12/2005",
+        "fire": false,
+        "manufacturer": "FOUR WINDS INTERNATIONAL",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10125211,
+        "products": [
+            {
+                "manufacturer": "FOUR WINDS INTERNATIONAL",
+                "productMake": "FOUR WINDS",
+                "productModel": "HURRICANE",
+                "productYear": "2005",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "AIR BAG SWITCH",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "WE OWN 2005 HURRICANE MOTORHOME .BUILT BY FOUR WINDS,FORD CHASSIS.WE ORDER SPARE TIRE .WHEN WE BROUGHT TO COMPANY TO INSTALL HITCH AND CAR DOLLY WE WERE INFORMED CAN NOT DO.\"FRAME CUT\" WE CONTACTED FOUR WINDS TO NO AVAIL,FORD MOTOR CO. STATEDOUR  WARRANITY VOID. NEED REPAIRED TO MEET HIGHWAY SAFETY GUIDELINES AND TO ENSURE THIS UNIT SAFE FOR OUR GRANDKIDS.",
+        "vin": "1F6LF53S040"
+    }
+]

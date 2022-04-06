@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "06/05/2003",
+        "dateOfIncident": "04/27/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022506,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TAURUS",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NAR 06/05/2003   *MR   MECHANICS  DIAGNOSED THE PROBLEMS AS A BROKEN TORQUE CONVERTER.  *CB",
+        "vin": "9999"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "04/29/2003",
+        "dateOfIncident": "04/18/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017769,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "MUSTANG",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE THE CONSUMER SAT IN THE DRIVERS SEAT THE DRIVERS CHEST SOMEHOW HIT THE AUTOMATIC SEAT ADJUSTMENT BUTTON AND CAUSED THE DRIVER TO BECOME PINNED BETWEEN THE STEERING COLUMN AND THE DRIVERS SEAT.   *NLM",
+        "vin": "NOT AVAILAB"
+    }
+]

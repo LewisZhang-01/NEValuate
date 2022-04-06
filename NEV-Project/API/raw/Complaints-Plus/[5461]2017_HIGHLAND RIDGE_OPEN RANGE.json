@@ -1,0 +1,54 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/25/2019",
+        "dateOfIncident": "03/08/2017",
+        "fire": false,
+        "manufacturer": "Highland Ridge RV",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11172126,
+        "products": [
+            {
+                "manufacturer": "Highland Ridge RV",
+                "productMake": "HIGHLAND RIDGE",
+                "productModel": "OPEN RANGE",
+                "productYear": "2017",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2017 HIGHLAND RIDGE OPEN RANGE TRAVEL TRAILER EQUIPPED WITH WESTLAKE SUPER ST TIRES, SIZE: 235/80/R16 (NA). WHILE DRIVING, THE FRONT PASSENGER SIDE TIRE TREAD BECAME PREMATURELY WORN. THE VEHICLE WAS TAKEN TO GENERAL RV CENTER (LOCATED AT 8285 HIGHLAND RD, WHITE LAKE, MI 48386, (248) 886-0015) WHERE THE CONTACT WAS INFORMED THAT THE UNIT WAS NOT UNDER WARRANTY. THE VEHICLE WAS LATER TAKEN TO AN INDEPENDENT MECHANIC, BUT WAS NOT DIAGNOSED OR REPAIRED. THE MANUFACTURER WAS NOTIFIED OF THE FAILURE AND INFORMED THE CONTACT THAT THE VIN WAS NOT INCLUDED IN NHTSA CAMPAIGN NUMBER: 17V065000 (SUSPENSION). NO FURTHER ASSISTANCE WAS OFFERED. THE TIRE FAILURE MILEAGE AND DOT NUMBER WERE UNKNOWN.",
+        "vin": "58TTL3624H5"
+    },
+    {
+        "components": "WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "03/17/2018",
+        "dateOfIncident": "07/25/2017",
+        "fire": false,
+        "manufacturer": "Highland Ridge RV",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11079989,
+        "products": [
+            {
+                "manufacturer": "Highland Ridge RV",
+                "productMake": "HIGHLAND RIDGE",
+                "productModel": "OPEN RANGE",
+                "productYear": "2017",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE IN MOTION (APPROX 55 MPH ON 2-LANE RURAL HIGHWAY) THE TRAILER BEGAN TO SWAY AND BECOME UNSTABLE.  ON FURTHER INVESTIGATION IT WAS NOTED THE REAR DRIVER SIDE TIRE HAS COME OFF.  AFTER STOPPING IT WAS NOTED ALL OF THE STUDS HOLDING THE LUG NUTS ON HAD SHEARED OFF.  MECHANIC WHO MADE ON SITE REPAIR CONFIRMED IT WAS NOT DUE TO LOOSE LUG NUTS AS OTHER LUGS ON REMAINING TIRES WERE TIGHT AND ALSO DUE TO LACK OF ALUMINUM (THERE WAS NONE) IMBEDDED ON REMAINING PART OF 1 STUD.  TIRE WAS NEVER RECOVERED.  INSPECTION OF BROKEN STUDS BY INDEPENDANT PARTY WITH BACKGROUND IN METALLURGY DETERMINED MOST LIKELY CAUSE OF FAILURE IS DUE TO IMPROPER HEAT TREATING OF STUDS.  MAJOR DAMAGE WAS CAUSED TO TRAILER AS A RESULT.  I HAVE FOUND SEVERAL OTHER OPEN RANGE RV OWNERS WHO HAVE HAD SIMILAR ISSUES WITH THE WHEELS FALLING OFF WHILE IN MOTION.",
+        "vin": "58TFE4226H5"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "04/08/2003",
+        "dateOfIncident": "10/08/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015420,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "FIREBIRD",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE EXPERIENCED THE SAME DEFECT AS STATED IN RECALL 99 V 239 000, REGARDING THE CLUTCH ASSEMBLY, HOWEVER THE VEHICLE IDENTIFICATION NUMBER WAS NOT INCLUDED IN THE RECALL.  *JB  SCC",
+        "vin": "2G2FV22G5X2"
+    }
+]

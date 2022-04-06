@@ -1,0 +1,68 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "05/18/2020",
+        "dateOfIncident": "08/01/2019",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11325018,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "ACURA",
+                "productModel": "RL",
+                "productYear": "2011",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "EXCESSIVE OIL CONSUMPTION DURING NORMAL CONDITIONS (NEARLY 1 QUART FOR EVERY 1000 MILES).  *TR",
+        "vin": "JH4KB2F62BC"
+    },
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "04/21/2017",
+        "dateOfIncident": "04/20/2017",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10979725,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "ACURA",
+                "productModel": "RL",
+                "productYear": "2011",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ON SEVERAL OCCASIONS, MULTIPLE WARNING SIGNALS AT ONCE CAME ON WHILE DRIVING ON AVERAGE ROADS, ACC, CMBS, CHECK TRANSMISSION, CHECK AIR BAGS AND OTHERS. THE GREEN D THAT SHOWS THE GEAR SETTING BEGAN CONSTANTLY BLINKING. WHEN I STOPPED AND SHUT OFF THE ENGINE AND STARTED AGAIN, ALL THE WARNING SIGNAL DID NOT REAPPEAR. WITHIN A PERIOD OF ABOUT 3 WEEKS, THIS HAPPENED ABOUT 7 TIMES. THE CAR RAN NORMALLY DESPITE ALL THESE WARNINGS.",
+        "vin": "JH4KB2F63BC"
+    },
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "09/12/2016",
+        "dateOfIncident": "03/01/2016",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10903994,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "ACURA",
+                "productModel": "RL",
+                "productYear": "2011",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2011 ACURA RL.  CONSUMER WRITES IN REGARDS TO REPLACEMENT PARTS NOT AVAILABLE TO REPAIR DRIVER FRONT AIRBAG INFLATOR RECALL NOTICE.  *SMD",
+        "vin": "JH4KB2F68BC"
+    }
+]

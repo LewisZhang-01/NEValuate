@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "03/29/2003",
+        "dateOfIncident": "03/22/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10013657,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TAURUS",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "INTERIOR LIGHTS REMAIN ON WHEN DRIVING (OVER HEAD AND REAR COMPARTMENT PLUS THE COURTESY LIGHTS ON THE FLOOR), LOCKS DO NOT AUTOMATICALLY LOCK.   *NLM",
+        "vin": "1FAFP57S2WA"
+    }
+]

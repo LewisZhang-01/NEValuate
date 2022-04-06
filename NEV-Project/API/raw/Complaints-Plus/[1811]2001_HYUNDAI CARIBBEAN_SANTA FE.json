@@ -1,0 +1,54 @@
+[
+    {
+        "components": "TIRES,WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "04/13/2006",
+        "dateOfIncident": "02/05/2003",
+        "fire": false,
+        "manufacturer": "HYUNDAI CARIBBEAN-PUERTO RICO",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10155256,
+        "products": [
+            {
+                "manufacturer": "HYUNDAI CARIBBEAN-PUERTO RICO",
+                "productMake": "HYUNDAI CARIBBEAN",
+                "productModel": "SANTA FE",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "MICHELIN TIRE CORP.",
+                "productMake": "MICHELIN",
+                "productModel": "ALL SEASON",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "I BROUGHT MY CAR BRAND NEW 2 YEARS LATER I STARTED HAVING THIS VIBRATION PROBLEM I THOUGHT IT WAS THE CHEAP FACTORY TIRES THAT WAS THE PROBLEM. I TOOK IT TO THE DEALERSHIP AND SAID THAT IT WAS THE FACTORY TIRES. WELL THE PROBLEM IS THE RIMS NOT THE TIRES AND NOT THE SUSPENSION. THIS NICE OLD MAN WHO HAS A TIRE GARAGE POINTED THIS OUT TO ME THESE CHEAP FACTORY RIMS BEND SO EASILY THAT THE TIRE MOVES FROM SIDE TO SIDE . I HAD OTHER PEOPLE LOOK AT THE RIMS AND THEY COULDN'T SEE ANY THING WRONG WITH THEM. THANKS TO THAT NICE OLD MAN I HOPE EVERYBODY TAKES A LOOK AT THERE RIMS.  *NM",
+        "vin": "KMHDN45D71U"
+    },
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "11/04/2004",
+        "dateOfIncident": "11/04/2004",
+        "fire": false,
+        "manufacturer": "HYUNDAI CARIBBEAN-PUERTO RICO",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10099444,
+        "products": [
+            {
+                "manufacturer": "HYUNDAI CARIBBEAN-PUERTO RICO",
+                "productMake": "HYUNDAI CARIBBEAN",
+                "productModel": "SANTA FE",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER NOTICED WHILE DRIVING STEERING WHEEL FAILED. CONSUMER WAS ABLE TO TURN IT BUT WITH FORCE. IN GENERAL, STEERING WHEEL WAS HARD TO TURN AND STEER.  ALSO, POWER STEERING LEAKED OUT. CONSUMER DROVE VEHICLE  TO THE DEALER FOR INSPECTION, AND MECHANIC DETERMINED THAT THE STEERING WHEEL PUMP NEEDED TO BE REPLACED.  *AK",
+        "vin": "KNSC83D3151"
+    }
+]

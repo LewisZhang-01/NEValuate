@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "04/24/2003",
+        "dateOfIncident": "01/02/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017540,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "DENALI",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "A \"WEIRD\" SOUND WAS HEARD.  THE TRUCK LOCKED UP AND THE FRONT END EXPLODED.  THE DEALER REPLACED THE DIFFERENTIAL.",
+        "vin": ""
+    }
+]

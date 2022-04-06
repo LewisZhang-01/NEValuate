@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "01/23/2003",
+        "dateOfIncident": "01/19/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004492,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "NEW YORKER",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATED THAT WHILE DRIVING AND WITHOUT WARNING  THE FUEL RAIL HAS CRACKS CAUSING FLUID TO LEAK OUT. DEALER NOTIFIED.         TS",
+        "vin": "2C3ED46F9RH"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "05/27/2003",
+        "dateOfIncident": "05/25/2003",
+        "fire": false,
+        "manufacturer": "Winnebago Industries, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020581,
+        "products": [
+            {
+                "manufacturer": "Winnebago Industries, Inc.",
+                "productMake": "WINNEBAGO",
+                "productModel": "MINNIE WINNIE",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "STEELTEX R4S",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE TREAD ON ONE OF MY TIRES SEPARATED WHILE DRIVING ON THE OPEN ROAD AT ABOUT 60 MPH.  THE TIRE IS NOT SERVICEABLE.  HERE ARE THE DETAILS.  MILEAGE ON TIRE - 10,000 MILES.  TIRE BRAND - FIRESTONE STEEL TEX RADIAL R4S II.   TIRE SIZE - LT225/75R16 115/112R M/S.  DOT NUMBER - 8X1L 1X1 3000.  VEHICLE - 2001 WINNEBAGO MINNIE WINNIE 27P BUILT ON FORD E450 CHASSIS.  VEHICLE WAS LIGHTLY LOADED WITH DRIVER AND ONE PASSENGER ON BOARD.  TIRE WAS LOCATED ON RIGHT REAR AXLE ON OUTSIDE.  TIRE PRESSURE WAS CHECKED ABOUT 2 HOURS BEFORE FAILURE OCCURRED AND WAS SET AT THE SPECIFIED COLD PRESSURE OF 80 PSI.  TIRE CAME AS ORIGINAL EQUIPMENT WHEN VEHICLE WAS PURCHASED NEW IN SEP 2001.      *TT",
+        "vin": "1FDXE45S11H"
+    }
+]

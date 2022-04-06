@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "02/24/2003",
+        "dateOfIncident": "02/24/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009062,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE FRONT TORSION BAR BROKE.  *JB  THE TORSION BAR HAD EXPERIENCED A BRITTLE FRACTURE AT THE HEXAGON TO CYLINDER INTERFACE.  *SCC",
+        "vin": "1FTRX08L3WK"
+    }
+]

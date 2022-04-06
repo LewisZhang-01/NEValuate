@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "01/09/2003",
+        "dateOfIncident": "12/16/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002454,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "GRAND PRIX",
+                "productYear": "1991",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATED THAT WHILE DRIVING THE BOLTS SECURING THE ENGINE CRADLE PULLED THROUGH RESULTING IN LOSS OF STEERING CONTROL.  RELATED RECALL 97V058000.  CONSUMER'S V.I.N. IS NOT INCLUDED.  *NLM",
+        "vin": "1G2WH54P4MF"
+    }
+]

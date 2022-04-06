@@ -1,0 +1,24 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "08/24/2005",
+        "dateOfIncident": "08/20/2005",
+        "fire": false,
+        "manufacturer": "Volvo Car USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10134014,
+        "products": [
+            {
+                "manufacturer": "Volvo Car USA, LLC",
+                "productMake": "VOLVO",
+                "productModel": "S60",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THIS IS THE SECOND SERIOUS INCIDENT RECORD.  PLEASE REFERENCE ODI NUMBER 10134007; THAT DOCUMENTED THE FIRST INCIDENT.",
+        "vin": "YV1RS58D812"
+    }
+]

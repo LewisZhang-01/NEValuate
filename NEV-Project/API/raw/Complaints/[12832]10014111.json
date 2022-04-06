@@ -1,0 +1,31 @@
+[
+    {
+        "components": "SEAT BELTS,CHILD SEAT",
+        "crash": false,
+        "dateComplaintFiled": "04/08/2003",
+        "dateOfIncident": "04/19/1995",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10014111,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERCURY",
+                "productModel": "GRAND MARQUIS",
+                "productYear": "1995",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "CHILD SAFETY SEAT",
+                "productModel": "CHILD SAFETY SEAT",
+                "productYear": "9999",
+                "type": "Child Seat"
+            }
+        ],
+        "summary": "1995 MERCURY GRAND MARQUIS VIN # [XXX]  FRONT AND REAR SEAT BELT DO NOT LOCK AND NEVER DID ,WE ASSUMED THEY WOULD  LOCK ON IMPACT.   *NLM    INFORMATION REDACTED PURSUANT TO THE FREEDOM OF INFORMATION ACT (FOIA), 5 U.S.C. 552(B)(6).  *TR",
+        "vin": "2MELM74W7SX"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "11/05/2001",
+        "dateOfIncident": "10/18/2001",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 754099,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "IMPALA",
+                "productYear": "1967",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE TRAVELLING AT APPROXIMATELY 70 MPH, FRONT DRIVER SIDE TIRE EXPERIENCED A TREAD SEPARATION INCIDENT.  PHOTOGRAPHS HAVE BEEN TAKEN OF TIRE AND TREAD (TREAD WAS RETRIEVED FROM FREEWAY FOR INSPECTION).  ALSO, SAID FAILURE CAUSED COSMETIC DAMGE TO FRONT FENDER AND HEADLIGHT.  OF WHICH, PHOTOGRAPHIC EVIDENCE ALSO HAS BEEN TAKEN.*AK (DOT NUMBER: HYHB3U6206  TIRESIZE: P215/75R14)",
+        "vin": "168677F2314"
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "10/31/2001",
+        "dateOfIncident": "10/18/2001",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 753929,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "IMPALA",
+                "productYear": "1967",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE TRAVELING AT APPROXIMATELY 70 MPH, DRIVER'S SIDE FRONT TIRE EXPERIENCED A \"TREAD SEPARATION INCIDENT\".  ALL COMPONENTS OF TIRE WERE RETRIEVED FROM ROAD, AND PHOTO EVIDENCE HAS BEEN TAKEN.  THE INCIDENT ALSO CAUSED COSMETIC DAMAGE TO LEFT FRONT FENDER, ALSO PHOTOGRAPHED FOR EVIDENCE.  REMAINING TIRES ON VEHICLE ARE SAME MAKE/MANUFACTURE AS THE ONE IN QUESTION.*AK",
+        "vin": "168677F2314"
+    }
+]

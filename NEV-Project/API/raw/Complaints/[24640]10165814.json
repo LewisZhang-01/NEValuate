@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY,STRUCTURE,VEHICLE SPEED CONTROL,TIRES",
+        "crash": false,
+        "dateComplaintFiled": "08/09/2006",
+        "dateOfIncident": "07/24/2006",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10165814,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "CROWN VICTORIA",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2005 FORD CROWN VICTORIA ACCELERATED WITHOUT WARNING. *KB  THE CONSUMER HAD OTHER PROBLEMS WITH THE VEHICLE SUCH AS A RIGHT FRONT DOOR RATTLE, THE AC CONTROL SWITCH NEEDED TO BE REPLACED AND A TIRE NEEDED TO BE REPAIRED.  *JB",
+        "vin": "2FAFP74WX5X"
+    }
+]

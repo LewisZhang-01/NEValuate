@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "12/20/2002",
+        "dateOfIncident": "01/01/1901",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001283,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-550 SD",
+                "productYear": "1999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "GENERAL TIRE & RUBBER CO.",
+                "productMake": "GENERAL",
+                "productModel": "LMT460",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "TIRE BLOW OUTS AND BULGE IN SIDEWALL OF TIRE.  THE CONSUMER HAS EXPERIENCED THREE DIFFERENT TIRE FAILURES.  TWO FAILURES WERE BLOWOUTS WHICH OCCURRED WHILE PULLING A TRAVEL TRAILER, THE THIRD WAS A BULGE IN THE SIDEWALL WHICH WAS DETECTED BEFORE THE TIRE COMPLETELY FAILED.  THE TIRE APPEARED TO BE IN GOOD PHYSICAL CONDITION WITH NO VISIBLE CRACKS OR DEFECTS.  *NM",
+        "vin": "1FDAW57F6XE"
+    }
+]

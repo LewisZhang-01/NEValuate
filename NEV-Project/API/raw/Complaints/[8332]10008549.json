@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "11/05/2002",
+        "dateOfIncident": "10/30/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10008549,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CRACKS IN DOOR ON F150, BOTH DOORS. ----DIMS 11 IVOQ ENTRY POSTED AFTER 12/12/01 CUT-OVER TO ARTEMIS--------769337. *AK",
+        "vin": "1FTZF1820XN"
+    }
+]

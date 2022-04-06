@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, AIR",
+        "crash": true,
+        "dateComplaintFiled": "01/18/2003",
+        "dateOfIncident": "12/14/2001",
+        "fire": false,
+        "manufacturer": "Mack Trucks, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002882,
+        "products": [
+            {
+                "manufacturer": "Mack Trucks, Inc.",
+                "productMake": "MACK",
+                "productModel": "CH600",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "INTERMITTENT BRAKE FAILURE ON MACK 2001 CH VIN [XXX]  BRAKE PEDAL FELT SPONGY, WENT ALL WAY TO FLOOR.  BRAKES WORKED FINE A SHORT DISTANCE AWAY PRIOR TO BRAKE FAILURE OCCURRENCE.  STRANGE THING, AT TIME WHEN BRAKE FAILURE OCCURRED BRAKE AIR PRESSURE GAUGE STAYED FIXED AND DID NOT DROP BACK SLIGHTLY AS YOU WOULD NORMALLY EXPECT IT TO DO.    INFORMATION REDACTED PURSUANT TO THE FREEDOM OF INFORMATION ACT (FOIA), 5 U.S.C. 552(B)(6).  *TR",
+        "vin": "1M1AA18Y81W"
+    }
+]

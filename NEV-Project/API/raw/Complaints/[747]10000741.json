@@ -1,0 +1,31 @@
+[
+    {
+        "components": "POWER TRAIN,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "01/05/2003",
+        "dateOfIncident": "11/15/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000741,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-550 SD",
+                "productYear": "1999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "BORG WARNER CORPORATION",
+                "productMake": "BORG WARNER",
+                "productModel": "BORG WARNER",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "SLAVE CYLINDER NEEDING TO BE REPLACED 4 TIMES DUE TO ROD LENGTH NOT BEING LONG ENOUGH FOR CLUTCH PEDAL TRAVEL ON 1999 F550 TRUCK WITH SIX SPEED TRANSMISSION.  ALSO FLYWHEEL SPRINGS BREAKING IN FLYWHEEL CAUSING UNDUE WEAR ON CLUTCH DISK AND NOT BEING COVERED UNDER WARRENTY. I HAVE TWO TRUCKS WHERE I HAVE THESE REACCURING PROBLEMS AND HAVE PAID EACH TIME TO REPAIR AT AN AUTHORIZED FORD DEALERSHIP",
+        "vin": "1FDAF57F1XE"
+    }
+]

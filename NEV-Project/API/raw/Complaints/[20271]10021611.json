@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "11/05/2003",
+        "dateOfIncident": "05/27/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021611,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING THE AIRBAG LIGHT APPEARED ON THE DASH AND WOULD NOT GO OFF UNTIL THE VEHICLE WAS SHUT OFF.  *NLM  *AK    *PH   *NLM",
+        "vin": "1FMCU70E6YU"
+    }
+]

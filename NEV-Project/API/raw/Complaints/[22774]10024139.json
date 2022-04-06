@@ -1,0 +1,31 @@
+[
+    {
+        "components": "CHILD SEAT",
+        "crash": false,
+        "dateComplaintFiled": "08/15/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10024139,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "GRAND AM",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "CHILD SAFETY SEAT",
+                "productModel": "CHILD SAFETY SEAT",
+                "productYear": "9999",
+                "type": "Child Seat"
+            }
+        ],
+        "summary": "THE CONSUMER WAS PUSHING STROLLER WITH CHILD SEAT ATTACHED IN PLACE.  (BABYTREND MODEL # 6076)  WITHOUT WARNING THE SEAT WAS EJECTED FROM CARRIER AND CAUSED THE CHILD TO FALL OUT.   *AK   *SCC  *JB",
+        "vin": ""
+    }
+]

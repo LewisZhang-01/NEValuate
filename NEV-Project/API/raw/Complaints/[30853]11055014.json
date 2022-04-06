@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "12/15/2017",
+        "dateOfIncident": "11/27/2017",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11055014,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "PASSAT",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE TRUNK LATCH HAS FAILED AND TRUNK WON'T OPEN.  THE SEAT RELEASE MECHANISM TO ACCESS TRUNK IS ALSO INSIDE THE TRUNK. SO NO WAY TO OPEN THE TRUNK",
+        "vin": "1VWBT7A33EC"
+    }
+]

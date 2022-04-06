@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/19/2003",
+        "dateOfIncident": "04/17/2003",
+        "fire": false,
+        "manufacturer": "UNKNOWN MANUFACTURER",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10024524,
+        "products": [
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "1999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "WILDERNESS",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHILE TRAVELING ABOUT 65MPH ON THE HIGHWAY AND WITHOUT PRIOR WARNING RIGHT REAR TIRE TREAD SEPARATED FROM WHEEL.CONSUMER  WAS ABLE TO PULL OVER TO THE SHOULDER. FIRESTONE WILDERNESS LT, P225/75R16, DOTVE1L1XD E RATE.   *AK COACHMEN E450 1999*TS",
+        "vin": "1FDXE40S2XH"
+    }
+]

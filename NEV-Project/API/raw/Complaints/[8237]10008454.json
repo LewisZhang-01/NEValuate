@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "03/05/2003",
+        "dateOfIncident": "02/28/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10008454,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "CAMRY",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AIR BAG COMPUTER SENSOR BAD AND SHUTS DOWN CAR WHILE ENGINE ON IN PARK. CAR DID NOT RESTART. SENSOR BLEW ENTIRE FUSE BOX FOR OPERATION OF VEHICLE.  *JB",
+        "vin": "4T1BG22K0VU"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "05/22/2003",
+        "dateOfIncident": "05/22/2003",
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019139,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F150",
+                "productYear": "1988",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ALTERNATOR FIRE ON 1988 FORD F150.   *NLM",
+        "vin": "2FTDF15Y8JC"
+    }
+]

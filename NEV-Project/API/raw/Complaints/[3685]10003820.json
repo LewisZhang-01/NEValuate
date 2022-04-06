@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "01/14/2003",
+        "dateOfIncident": "01/14/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003820,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "ESCORT",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATED THE ENGINE LIGHT ILLUMINATED AND THE VEHICLE STALLED, DUE TO ELECTRICAL PROBLEMS WITH THE VEHICLE.*JB",
+        "vin": "PROVIDE"
+    }
+]

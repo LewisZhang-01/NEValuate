@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "03/04/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009830,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAMARO",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING AT 50 MPH THE CONSUMER LOST CONTROL OF THE VEHICLE AND AS A RESULT HIT ANOTHER DRIVER.  NONE OF THE VEHICLES AIRBAGS DEPLOYED.   *NLM",
+        "vin": "2G1FP22K2V2"
+    }
+]

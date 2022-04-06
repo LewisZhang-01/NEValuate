@@ -1,0 +1,54 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "01/24/2014",
+        "dateOfIncident": "05/20/2013",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10561307,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA",
+                "productYear": "1976",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 1976 GMC SIERRA. THE CONTACT STATED THAT THE ENGINE WAS STARTED WHEN HE WENT UNDER THE HOOD TO MANUALLY ENGAGE THE THROTTLE. THE REMOVAL OF THE THROTTLE CAUSED THE COOLING FAN BLADE TO DISLODGE, STRIKING HIM IN THE HEAD AND FACE. THE CONTACT SUSTAINED SEVERE LACERATIONS TO BOTH THE FACE AND HEAD, AND HIS LEFT EYE WAS COMPLETELY SEVERED. IN ADDITION, THE CONTACT EXPERIENCED BLINDNESS IN THE RIGHT EYE AND SUSTAINED BRAIN INJURIES. THE VEHICLE WAS NEITHER DIAGNOSED NOR REPAIRED. THE MANUFACTURER WAS NOTIFIED OF THE PROBLEM. THE APPROXIMATE MILEAGE WAS 75,000. THE VIN WAS UNAVAILABLE.",
+        "vin": ""
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "05/13/2005",
+        "dateOfIncident": "08/29/2004",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10121556,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA",
+                "productYear": "1976",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "GOODYEAR TIRE EQUIPMENT ON 1976 GMC SIERRA FAILED.   *MR   ALL FOUR  TIRES WERE REPLACED.  THE SECOND INCIDENT INVOLVED THE FAILURE OF THE REPLACEMENT TIRES AFTER LESS THAN 7K MILES.  THE FRONT TIRE DELIMINATED BUT DID NOT GO FLAT.  THE RIGHT FRONT BULGED, DELIMINATED AND BLEWOUT.  THE RIGHT REAR LOST AIR FOR TWO TO THREE WEEKS.  THE LEFT FRONT TIRE DELIMINATED ONE MONTH BEFORE THE OTHER TWO TIRES.  THE RIGHT FRONT BULGED DIAGONALLY ACROSS THE TREAD.  A LARGE BULGE WAS IN THE SIDEWALL OF THE RIGHT REAR TIRE. THE CONSUMER REQUESTED TO BE COMPENSATED FOR THIS PROBLEM.  (GOODYEAR/WORKHOUSE LOAD RANGE E)   *SC  *JB",
+        "vin": ""
+    }
+]

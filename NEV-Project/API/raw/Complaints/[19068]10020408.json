@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "06/04/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020408,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERCURY",
+                "productModel": "TRACER",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE'S TACHOMETER AND RPM GAUGE STOPPED WORKING CAUSING THE ELECTRICAL SYSTEM TO FAIL.  *MR   *PH",
+        "vin": "1MELM13P2VW"
+    }
+]

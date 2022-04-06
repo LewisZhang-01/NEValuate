@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "04/10/2003",
+        "dateOfIncident": "01/01/1901",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015662,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FORD",
+                "productYear": "1988",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "STEELTEX FSR",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "NAR 04/10/2003  WHILE TRAVELING THE CONSUMER NOTICED THAT THE REAR TIRE WAS PARTIALLY SEPARATING FROM THE TREAD BEING UN REPAIRABLE A NEW TIRE HAD TO BE REPLACED. A FEW MONTHS LATER THE SECOND TIRE BEGIN TO TREAD. THE CONSUMER FELT THAT IT WAS AN CONSISTENT PROBLEM WITH FIRESTONE TIRES AND APPARENTLY THEY AREN'T RELIABLE TIRES FOR MOTOR HOMES.   APPROXIMATELY 3 TIRES HAD TO BE REPLACED.    *CB",
+        "vin": ""
+    }
+]

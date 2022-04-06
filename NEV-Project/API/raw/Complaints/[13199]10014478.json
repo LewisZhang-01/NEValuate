@@ -1,0 +1,31 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "04/16/2003",
+        "dateOfIncident": "12/01/2002",
+        "fire": false,
+        "manufacturer": "Volvo Car USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10014478,
+        "products": [
+            {
+                "manufacturer": "Volvo Car USA, LLC",
+                "productMake": "VOLVO",
+                "productModel": "S70",
+                "productYear": "1998",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "WAGNER ELEC. BRAKE/CLUTCH",
+                "productMake": "WAGNER",
+                "productModel": "BRAKE/CLUTCH",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "THE ABS LIGHT WAS COMING ON INTERMITTENTLY.  AFTER CONSULTING THE WEB I LEARNED THIS WAS A COMMON PROBLEM IN THE 98 S70'S.  VOLVO IS AWARE OF THE PROBLEM! WHILE DRIVING WITH THE CONDITION I NOTICED IF THE ABS PUMP CYCLED AND THE LIGHTS COME ON YOU LOSE BRAKING UNLESS YOU PUMP THE BRAKES.  EXTREMELY DANGEROUS CONDITION FOR A MANY DRIVERS.  I'M A LAW ENFORCEMENT OFFICER AND MY TRAINING HELPED ME AVOID THE ACCIDENT.    *NLM",
+        "vin": "YV1LS5343W1"
+    }
+]

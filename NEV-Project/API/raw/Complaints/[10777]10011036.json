@@ -1,0 +1,24 @@
+[
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "03/25/2003",
+        "dateOfIncident": "05/01/1996",
+        "fire": false,
+        "manufacturer": "DELCO ELECT. DIV., GM",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10011036,
+        "products": [
+            {
+                "manufacturer": "DELCO ELECT. DIV., GM",
+                "productMake": "DELCO",
+                "productModel": "DELCO",
+                "productYear": "2003",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "REPLACED ALTERNATOR FIVE TIMES OVER THE COURSE OF 9 YEARS.NEW AND REBUILT.",
+        "vin": null
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "components": "STEERING,TIRES,SERVICE BRAKES,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "01/09/2020",
+        "dateOfIncident": "06/12/2019",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11298126,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-650",
+                "productYear": "2017",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVER FEELS UNSAFE, BRAKES FEEL LIKE THEY ARE DRAGGING, DO NOT RELEASE ALL THE WAY.  BRAKE SYSTEM REPAIRED FOR $5,079.44 *DT*DT*JB*DT*JB",
+        "vin": "1FDNF6DC1HD"
+    },
+    {
+        "components": "STEERING,TIRES,SERVICE BRAKES,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "01/09/2020",
+        "dateOfIncident": "06/29/2019",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11298163,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-650",
+                "productYear": "2017",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVER FEELS UNSAFE, BRAKE PEDAL IS HARD AND IS HARD TO STOP THE TRUCK.  COST FOR REPAIR $4252*DT*JB*DT*JB*DT  VEHICLE HAS BEEN REPAIRED.*JB",
+        "vin": "1FDNF6DCXHD"
+    },
+    {
+        "components": "STEERING,TIRES,SERVICE BRAKES,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "01/09/2020",
+        "dateOfIncident": "11/15/2019",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11298181,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-650",
+                "productYear": "2017",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVER FEELS UNSAFE, BRAKE PEDAL IS SPONGY, UNIT DOES NOT STOP WELL.  COST FOR REPAIR $5806*DT*JB*DT*JB*DT*JB",
+        "vin": "1FDNF6DC7HD"
+    }
+]

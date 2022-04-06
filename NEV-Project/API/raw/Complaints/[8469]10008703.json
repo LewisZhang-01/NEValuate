@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "03/04/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10008703,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "K1500",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THREE MEN WERE SITTING ON OPEN TAILGATE WHEN THE TAIL GATE CABLE BROKE. ONE MAN FELL OFF BREAKING HIS NECK. *AK",
+        "vin": ""
+    }
+]

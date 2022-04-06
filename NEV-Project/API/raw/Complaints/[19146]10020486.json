@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "05/23/2003",
+        "dateOfIncident": "04/02/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020486,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "WINDSTAR",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE AUTOMATIC TRANSMISSION FAILED WHILE DRIVING AND CAUSED THE ENGINE TO CUT OFF AND THE VEHICLE WOULD ONLY GO INTO REVERSE GEAR.  *NLM",
+        "vin": "2FMDA5143YB"
+    }
+]

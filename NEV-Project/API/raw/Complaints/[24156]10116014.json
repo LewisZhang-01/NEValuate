@@ -1,0 +1,24 @@
+[
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "03/29/2005",
+        "dateOfIncident": "06/15/2002",
+        "fire": true,
+        "manufacturer": "SAMSUNG ELECTRONICS CO., LTD",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10116014,
+        "products": [
+            {
+                "manufacturer": "SAMSUNG ELECTRONICS CO., LTD",
+                "productMake": "SAMSUNG MICROWAVE",
+                "productModel": "MR5493G",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "SAMSUNG MICROWAVE MODEL MR4381G CAUGHT ON FIRE WITHOUT BEING TURNED ON",
+        "vin": null
+    }
+]

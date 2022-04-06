@@ -1,0 +1,112 @@
+[
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": true,
+        "dateComplaintFiled": "04/20/2010",
+        "dateOfIncident": "07/02/2008",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10326679,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "COROLLA",
+                "productYear": "1982",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I HAVE A 1982 TOYOTA COROLLA.  THE CAR HAD A DEFECT IN THE ACCELERATION PEDAL CAUSING IT TO GO OUT OF CONTROL. THE ONLY WAY I COULD GET IT TO STOP WAS TO SMASH INTO A CURB ON THE PROPERTY OF  A SENIOR HALL. I SUSTAINED AN INJURY AND THE CAR IS TOTALED. IT IS IN MY SHED CURRENTLY. IN THE HOSPITAL, I WAS VISITED BY AN OFFICER, WHO ACCUSED ME OF STEPPING ON THE BRAKE INSTEAD OF THE ACCELERATED PEDAL. HE SUBMITTED THIS TO THE DMV. *TR",
+        "vin": "JT2TE72E2C0"
+    },
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "12/03/1997",
+        "dateOfIncident": "10/01/1997",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 819649,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "COROLLA",
+                "productYear": "1982",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN THE VEHICLE'S TEMPERATURE IS BELOW  NORMAL, THE DEFECTIVE THROTTLE  CONTROL SLIPPED, CAUSING THE VEHICLE TO ACCELERATE UNEXPECTEDLY UP 60 RPMS WHICH ALMOST CAUSED AN ACCIDENT.  DEALER CANNOT DETERMINE PROBLEM.  *AK  CONSUMER STATES AS THE ENGINE COOLANT TEMPERATURE APPROACHES NORMAL, THE ACCELERATOR CAN BE FELT TO MOVE DOWNWARDS AND THE VEHICLE BEGINS TO ACCELERATE STRONGLY, CONSUMER HAS CLEANED AND LUBRICATED THE THROTTLE LINKAGE, HOWEVER THE PROBLEM STILL EXISTS.   *SLC",
+        "vin": "JT2TE75L8C0"
+    },
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "12/03/1997",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 526474,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "COROLLA",
+                "productYear": "1982",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DURING ENGINE WARMUP, ACCELERATOR PEDAL CAN BE FELT TO DESCEND  AND CAR BEGINS TO ACCELERATE STRONGLY.",
+        "vin": "JT2TE75L8C0"
+    },
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "01/15/1996",
+        "dateOfIncident": "10/08/1995",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 500628,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "COROLLA",
+                "productYear": "1982",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "COIL SPRING PROTRUDES THROUGH CORRODED CONTROL ARM, CAUSING MISALIGNMENT OF WHEELS/CRACKING NOISE. *DSH",
+        "vin": "JTZAL21E8C3"
+    },
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "06/30/1995",
+        "dateOfIncident": "06/30/1995",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 485988,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "COROLLA",
+                "productYear": "1982",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SEAT BELT FAILS TO RETRACT.  *AK",
+        "vin": "JT2TE72D4C0"
+    }
+]

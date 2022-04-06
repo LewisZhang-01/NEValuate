@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "03/30/2005",
+        "dateOfIncident": "03/18/2005",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 2,
+        "odiNumber": 10117114,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "BLAZER",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING AT 30 MPH CONSUMER'S VEHICLE WAS INVOLVED IN A COLLISION. UPON IMPACT,  AIR BAGS DID NOT DEPLOY. VEHICLE WAS TOTALED.*AK",
+        "vin": "1GNDT13WXS2"
+    }
+]

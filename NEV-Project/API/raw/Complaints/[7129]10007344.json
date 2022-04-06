@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "02/13/2003",
+        "dateOfIncident": "02/11/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10007344,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-550 SD",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "GENERAL TIRE & RUBBER CO.",
+                "productMake": "GENERAL",
+                "productModel": "GENERAL",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE TIRE EXPERIENCED THE SAME DEFECT AS STATED IN RECALL NO. 01 V 046 000, HOWEVER THE VEHICLE IDENTIFICATION NUMBER WAS NOT INCLUDED IN THE RECALL.  *JB  THE VALVE COVER HAD COME OUT OF THE RIM, IT WAS LOOSE, AND LEAKED AIR.  THE TIRES LOST ALL AIR AND HAD RUN FLAT, CAUSING THEM TO BE TOO DANGEROUS TO RE-INFLATE.  (BROKEN DOWN SIDEWALLS)  THE DEALER THOUGHT NOTHING WAS WRONG WITH THE VALVES.  SCC",
+        "vin": "1FDAW56F2YE"
+    }
+]

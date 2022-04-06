@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "05/25/2019",
+        "dateOfIncident": "05/11/2019",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11209964,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CADILLAC",
+                "productModel": "ATS",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DASH CONTROL UNIT STOP WORKING AND OVER HEATER",
+        "vin": "1G6AB5R35E0"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "12/31/2002",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001769,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "CAMRY",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE REAR LIFTGATE  DOOR HAS TWO HYDRAULIC POLES THAT SUPPORT  DOOR WHEN OPEN. THE HYDRAULIC POLE AND HINGE ON BOTH SIDES HAVE FALLEN OFF. CAUSE IS UNKNOWN. PLEASE PROVIDE ANY FURTHER INFORMATION. TS",
+        "vin": "1P4GP44G0WB"
+    }
+]

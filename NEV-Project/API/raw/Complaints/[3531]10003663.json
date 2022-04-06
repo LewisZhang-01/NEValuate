@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "01/13/2003",
+        "dateOfIncident": "01/07/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003663,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "GRAND CARAVAN",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN CONSUMER WAS FILLING UP THE GASOLINE TANK, THE DRIVER SIDE DOOR WOULD NOT OPEN.  PLEASE FURNISH ADDITIONAL INFORMATION.*JB",
+        "vin": "2B4P44R0TR8"
+    }
+]

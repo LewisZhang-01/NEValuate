@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "05/08/2003",
+        "dateOfIncident": "05/07/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018403,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TAURUS",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FRONT PASSENGER SPRING FAILURE ON 1999 FORD TAURUS, CAUSING TIRE AND COMPONENT DAMAGE.  THIS HAPPENED AT THE SAME MILEAGE OF ANOTHER COMPANY OWNED VEHICLE OF THE SAME MAKE AND MODEL, LAST YEAR IN 2002.  *NLM",
+        "vin": "1FAFP53U3XA"
+    }
+]

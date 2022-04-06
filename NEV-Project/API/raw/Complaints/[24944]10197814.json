@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "07/30/2007",
+        "dateOfIncident": "07/29/2007",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10197814,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "ALTIMA",
+                "productYear": "2007",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Continental Tire the Americas, LLC",
+                "productMake": "CONTINENTAL",
+                "productModel": "CONTI PRO CONTACT",
+                "productYear": "9999",
+                "size": "235/55R17 99 H",
+                "type": "Tire"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 2007 NISSAN ALTIMA.  THE VEHICLE HAS CONTINENTAL CONTI PRO CONTACT, SIZE 235/55R17 99 H TIRES.  WHILE DRIVING 45 MPH, THE CONTACT HEARD A THUMPING SOUND AND THE VEHICLE SLOWED DOWN.  SHE NOTICED THAT THERE WAS A BLOW OUT ON THE DRIVER SIDE FRONT TIRE.  THE DEALER WAS UNABLE TO DETERMINE THE CAUSE OF THE FAILURE.  THE CURRENT MILEAGE WAS 100 AND FAILURE MILEAGE WAS 65.",
+        "vin": "1N4AL21E67N"
+    }
+]

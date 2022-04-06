@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "01/09/2003",
+        "dateOfIncident": "01/01/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002455,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENGINE IDLE SURGES WITHOUT WARNING AT STOP SIGNS. IT IS VERY DANGEROUS, AND HAS ALMOST CAUSED FIVE ACCIDENTS. IT SURGES BEWEEN 3000-4000 RPMS. *AK",
+        "vin": "1FMDU3TC5VU"
+    }
+]

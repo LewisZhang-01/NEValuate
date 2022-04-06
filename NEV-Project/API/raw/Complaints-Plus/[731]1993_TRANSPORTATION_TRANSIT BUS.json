@@ -1,0 +1,112 @@
+[
+    {
+        "components": "FUEL SYSTEM, OTHER",
+        "crash": false,
+        "dateComplaintFiled": "02/21/1995",
+        "dateOfIncident": "06/01/1994",
+        "fire": false,
+        "manufacturer": "TRANSPORTATION MFG. CORP.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 481939,
+        "products": [
+            {
+                "manufacturer": "TRANSPORTATION MFG. CORP.",
+                "productMake": "TRANSPORTATION",
+                "productModel": "TRANSIT BUS",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "PRESSURE RELIEF VALVE FAILED AFTER FUELING, DUE TO BLOWN PRESSURE DISC.  *SKD",
+        "vin": "1TUMDTEA6PR"
+    },
+    {
+        "components": "FUEL SYSTEM, OTHER",
+        "crash": false,
+        "dateComplaintFiled": "02/21/1995",
+        "dateOfIncident": "04/19/1994",
+        "fire": false,
+        "manufacturer": "TRANSPORTATION MFG. CORP.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 481940,
+        "products": [
+            {
+                "manufacturer": "TRANSPORTATION MFG. CORP.",
+                "productMake": "TRANSPORTATION",
+                "productModel": "TRANSIT BUS",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "PRESSURE RELIEF VALVE/VENT MANIFOLD ASSEMBLY FAILED AFTER FUELING DUE TO MANIFOLD LINE T-CONNECTOR FITTING DISCONNECTING.  *SKD",
+        "vin": "1TUMDTEA2PR"
+    },
+    {
+        "components": "FUEL SYSTEM, OTHER",
+        "crash": false,
+        "dateComplaintFiled": "02/21/1995",
+        "dateOfIncident": "06/10/1994",
+        "fire": false,
+        "manufacturer": "TRANSPORTATION MFG. CORP.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 481941,
+        "products": [
+            {
+                "manufacturer": "TRANSPORTATION MFG. CORP.",
+                "productMake": "TRANSPORTATION",
+                "productModel": "TRANSIT BUS",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "PRESSURE RELIEF VALVE/VENT MANIFOLD ASSEMBLY FAILED AFTER FUELING DUE TO MANIFOLD LINE T-CONNECTOR DISCONNECTING.  *SKD",
+        "vin": "1TUMDTEA0PR"
+    },
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": true,
+        "dateComplaintFiled": "01/25/1995",
+        "dateOfIncident": "10/25/1994",
+        "fire": false,
+        "manufacturer": "TRANSPORTATION MFG. CORP.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 480810,
+        "products": [
+            {
+                "manufacturer": "TRANSPORTATION MFG. CORP.",
+                "productMake": "TRANSPORTATION",
+                "productModel": "TRANSIT BUS",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SUDDEN ACCELERATION WHEN TAKEN FROM PARK TO DRIVE GEAR, CAUSING LOSS OF CONTROL/ACCIDENT. (OTHER VEHICLE ON 479614)  *SKD",
+        "vin": "1FDKE37G2PH"
+    },
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": true,
+        "dateComplaintFiled": "01/25/1995",
+        "dateOfIncident": "12/12/1994",
+        "fire": false,
+        "manufacturer": "TRANSPORTATION MFG. CORP.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 479614,
+        "products": [
+            {
+                "manufacturer": "TRANSPORTATION MFG. CORP.",
+                "productMake": "TRANSPORTATION",
+                "productModel": "TRANSIT BUS",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SUDDEN ACCELERATION WHEN SHIFTED FROM PARK TO DRIVE GEAR, CAUSING LOSS OF CONTROL/ACCIDENT.  (OTHER VEHICLE ON 480810)  *SKD",
+        "vin": "1FDKE37G6PH"
+    }
+]

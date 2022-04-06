@@ -1,0 +1,24 @@
+[
+    {
+        "components": "PARKING BRAKE",
+        "crash": false,
+        "dateComplaintFiled": "02/06/2003",
+        "dateOfIncident": "01/06/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10006718,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "BRONCO",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER IS HAVING THE SAME DEFECT WITH THERE VEHICLE'S EMERGENCY PARKING BRAKES,  AS STATED IN RECALL NUMBER 94 V 169 000 BUT THERE VIN NUMBER IS NOT INCLUDED.         PH",
+        "vin": "1FMEU15H7NL"
+    }
+]

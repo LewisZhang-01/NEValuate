@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN,VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "02/11/2003",
+        "dateOfIncident": "12/02/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10006973,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "OLDSMOBILE",
+                "productModel": "ALERO",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE CRUISE CONTROL FAILED TO DISENGAGE.  *JB  THE THROTTLE HAD GOTTEN STUCK.  THE SHIFT LEVER CABLE ASSEMBLY WAS BINDING.  THE SHIFT CABLE WAS REPLACED.  *SCC",
+        "vin": "1G3NF52E8YC"
+    }
+]

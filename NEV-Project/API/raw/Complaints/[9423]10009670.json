@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "03/03/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009670,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "CONTOUR",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE STEERING WHEEL BECAME STUCK IN ONE DIRECTION. CONSUMER HAD TO USE EXCESSIVE FORCE TO GET STEERING BACK TO THE CENTER. *JB",
+        "vin": "NOT AVAILAB"
+    }
+]

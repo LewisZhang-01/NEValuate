@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "01/08/2003",
+        "dateOfIncident": "12/15/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002374,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TAURUS",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING AT 45 MPH, THE STEERING WHEEL SUDDENLY SHIMMIED FOR ABOUT 5-10 SECONDS.  DEALERS HAVE BEEN NOTIFIED. CAUSE UNKNOWN.  TS  *TT",
+        "vin": "1FAFP58U02G"
+    }
+]

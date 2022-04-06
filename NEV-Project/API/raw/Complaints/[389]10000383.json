@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "12/26/2002",
+        "dateOfIncident": "12/26/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000383,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "TRAILBLAZER",
+                "productYear": "2003",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "B.F. GOODRICH TIRE CO.",
+                "productMake": "B.F.GOODRICH",
+                "productModel": "B.F.GOODRICH",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "RIGHT REAR TIRE POPPED / BLEW OUT UNEXPECTEDLY WHILE DRIVING APPROX. 40 MPH.  VEHICLE IS A 17 DAY OLD 2003 CHEVY TRAILBLAZER.  I'M CONCERNED ABOUT THE SAFETY AND WELL BEING OF MY 6 YEAR OLD CHILD AS WELL AS MYSELF WHILE DRIVING ON A \"REPAIRED\" TIRE, THAT MAY POSSIBLY HAVE SOME TYPE OF DEFECT WITH THE TIRE. THE DEALER/SERVICE DEPARTMENT SEEM MORE CONCERNED ABOUT CONVINCING ME THAT I MUST HAVE RAN OVER SOMETHING AND EVERYTHING WILL BE OK, BECAUSE THEY WILL REPAIR THE TIRE.",
+        "vin": "1GNDT13S432"
+    }
+]

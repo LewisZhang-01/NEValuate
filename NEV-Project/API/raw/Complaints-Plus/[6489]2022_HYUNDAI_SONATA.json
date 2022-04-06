@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "08/27/2021",
+        "dateOfIncident": "08/20/2021",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11430706,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "SONATA",
+                "productYear": "2022",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Pirelli Tire, LLC",
+                "productMake": "PIRELLI",
+                "productModel": "P ZERO",
+                "productYear": "9999",
+                "size": "275/45/ZR19",
+                "type": "Tire"
+            }
+        ],
+        "summary": "The contact owns a 2022 Hyundai Sonata equipped with Pirelli tires, Tire Line: P Zero A/S, Tire Size: 245/40/R19, DOT Number: 93792K. The contact stated while driving 65 MPH, he heard an abnormal noise. The contact stated no warning light was illuminated. The contact stated he parked on the side of the road and noticed the tread on the driver\u2019s side rear tire had separated. The contact stated he contacted a towing company to replace the rear driver side tire with the spare tire. The contact took the vehicle to the local dealer and was unable to diagnose the cause of the failure. The contact attempted to call the manufacturer but was unable to speak to a representative. The failure mileage was approximately 500.",
+        "vin": "5NPEJ4J24NH"
+    }
+]

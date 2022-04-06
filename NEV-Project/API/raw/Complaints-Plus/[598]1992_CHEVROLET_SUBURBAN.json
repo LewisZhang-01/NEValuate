@@ -1,0 +1,4556 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "02/17/2005",
+        "dateOfIncident": "02/17/2005",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10111745,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN DRIVING IN RAINY WEATHER THE WINDSHIELD WIPERS WOULD COME ON AND OFF INTERMITTENTLY.  THE DRIVER WAS ABLE TO DRIVE TO THE DEALER.  THE MECHANIC INFORMED THE DRIVER THAT THE WINDSHIELD WIPER NEEDED REPLACEMENT.  PLEASE PROVIDE ADDITIONAL INFORMATION.   *NM",
+        "vin": "3GKFK16R7VG"
+    },
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "03/12/2003",
+        "dateOfIncident": "02/21/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10011507,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE WAS INVOLVED IN A FRONTAL COLLISION, AND NONE OF THE AIR BAGS DEPLOYED. THE DRIVER SUFFERED INJURIES.*JB",
+        "vin": ""
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "01/09/2003",
+        "dateOfIncident": "11/15/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002430,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATES WHILE DRIVING VEHICLE  ON WET SURFACE THE BRAKE PEDAL WILL GO TO THE FLOOR CAUSING THE VEHICLE TO HAVE EXTENDED STOPPING DISTANCE.   *NLM",
+        "vin": "1GKG26N1NJ7"
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "08/11/2002",
+        "dateOfIncident": "06/15/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 765495,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2 TIRE FAILURES OF TIRE TREAD SEPARATION: INCIDENT DATES 6/15/02 AND 8/10/02. *AK",
+        "vin": "1GNGC26N0NJ"
+    },
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "08/11/2002",
+        "dateOfIncident": "08/10/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10006937,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "1992 CHEVROLET SUBURBAN.   *AK    *PH    *NLM      **DIMSII IVOQ ENTRY POSTED AFTER 12/12/02 CUT OVER TO ARTEMIS**765494",
+        "vin": "1GNGC26N0NJ"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "02/12/2002",
+        "dateOfIncident": "02/07/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 758139,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NO SUMMARY LISTED FOR ABOVE VEHICLE. *AK",
+        "vin": ""
+    },
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "09/04/2001",
+        "dateOfIncident": "09/03/2001",
+        "fire": true,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 751630,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CLIMATE CONTROL WIRE BEHIND GLOVE BOX CAUGHT FIRE ALSO CC MODULE OVERHEATS/SHORTS W/O TRIPPING CIRCUIT FUSE. *AK",
+        "vin": "1GNFK16K5NJ"
+    },
+    {
+        "components": "STEERING,SERVICE BRAKES, HYDRAULIC,POWER TRAIN,ELECTRICAL SYSTEM,VISIBILITY",
+        "crash": true,
+        "dateComplaintFiled": "08/01/2001",
+        "dateOfIncident": "01/01/1998",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 749530,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN I BOUGHT THE TRUCK USED (85000 MLS)IT HAD A BAD FRONT END IDLER LINK AND A BAD A/C CLUTCH BEARING. NOT LONG AFTER I BOUGHT IT I HAD TO REPLACE THE ALTERNATOR. I ALSO NOTICED THAT THE BRAKES DIDN'T STOP THE VEHICLE LIKE THEY SHOULD AND I WAS SCARED TO LET MY WIFE DRIVE IT BECAUSE OF THE SPONGY BRAKES. I TOOK IT IN SEVERAL TIMES TO DIFFERENT SHOPS AND ALSO THE DEALER TO HAVE THEM LOOK AT THE BRAKES AND WAS ALWAYS TOLD THAT THE BRAKES ON THIS MODEL WERE JUST THAT WAY. I PUT NEW ROTORS AND PADS ON THE FRONT AND NEW REAR DRUMS AND SHOES AND REPEATEDLY BLED THE SYSTEM WITH SLIGHT IMPROVEMENT. IT ACTS AS THOUGH THERE IS A RESTRICTION IN THE BRAKE LINE TO BOTH FRONT AND REAR. IT ACTS AS THOUGH THEY DESIGNED THE THING NOT TO STOP QUICKLY. I UNPLUGGED THE MOTOR TO THE ABS SO THAT AT LEAST IT WOULD SQUEAL A TIRE. THE LACK OF SURE LOW SPEED STOPS HAS CAUSED 2 NEAR MISS ACCIDENTS AND 1 T BONE WHICH HAS RAISED OUR INSURANCE RATES. I HAVE LEARNED TO DRIVE THE THING ANTICIPATING STOPS AND PREBRAKING. I WENT TO THE DEALER AND JUST LIKE WITH THE WINDSHIELD WIPER CIRCUIT BOARD THAT SHORTED OUT WHEN IT GETS WET THEY TOLD ME THAT FOR MY SPECIFIC MODEL THERE WERE NO RECALLS AND THEY REFUSED TO LOOK AT IT. TO ADD INSULT TO INJURY LAST WEEK THEY SENT US A MAILER SAYING THAT THEY WOULD REPLACE MY BRAKE PEDAL WITH A DIFFERENT ONE TO GIVE ME A \"BETTER FEEL\". THAT WON'T DO ME MUCH GOOD IF I'M STUCK UNDER A BUS!!!!! I HAVE A VEHICLE WHICH HAS SUBSTANDARD BRAKES, WHICH WERE DESIGNED THAT WAY AND THEY WON'T DO A [XXX] THING ABOUT THEM. I LIKE A LOT OF THINGS ABOUT THE TRUCK BUT THE BRAKES SUCK BIG TIME.*AK    INFORMATION REDACTED PURSUANT TO THE FREEDOM OF INFORMATION ACT (FOIA), 5 U.S.C. 552(B)(6).  *TR",
+        "vin": "1GNFK16K1NJ"
+    },
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "08/01/2001",
+        "dateOfIncident": "01/01/2000",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 749566,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WINDSHIELD WIPERS DON'T WORK OR STOP WORKING IN RAIN. *AK",
+        "vin": ""
+    },
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "05/08/2001",
+        "dateOfIncident": "02/01/2001",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 887752,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN TURNING  WINDSHIELD WIPERS OFF BLADES WILL NOT GO  BACK TO A RESTING POSITION. IF TURNED BACK ON THEY WILL CONTINUE TO GO BACK AND FORTH ABOUT 15 TIMES INSTEAD OF ONCE BEFORE STOPPING. DEALER DIDN'T PULL UP A RECALL, AND  WARRANTY  DOESN'T COVER IT.*AK",
+        "vin": "1GNNFK16KXD"
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/31/2001",
+        "dateOfIncident": "11/01/2000",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 879523,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER  WAS TRAVELING ON HIGHWAY AND  VEHICLE STARTED TO VIBRATE. SHE WAS ABLE TO PULL OVER TO  SHOULDERS, NOTICED  TREAD SEPARATION AND WIRES HANGING OUT FROM TIRES.  THERE WERE NO INJURIES.  COOPER TIRES.  *AK",
+        "vin": "1GNEC16K1NJ"
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "10/05/2000",
+        "dateOfIncident": "09/22/2000",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 733537,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ON SEPTEMBER 22, 2000 AT ABOUT 9:00 P.M. I WAS ON I-10 WESTBOUND ABOUT 15 MILES EAST OF SAN ANTONIO CITY LIMITS.  MY DRIVER REAR SIDE FIREHAWK BLEW-OUT AT A SPEED OF ABOUT 65 M/P/H.  MY TRUCK SWIRVED SLIGHTLY BUT I MANAGED TO PULL IT ON THE SHOULDER.  I CAME OUT AND DISCOVERED THAT THE TIRE'S WHOLE TREAD HAD COMPLETELY CAME OFF, THIS BLOW-OUT ALSO MANAGED TO BREAK MY DRIVER'S SIDE RUNNING BOARD.  I CHANGED TIRES AND PROCEEDED TO LAREDO, TX, MY DESTINATION.  WHEN HOME, I CONTACTED FIRESTONE AND THEY ASKED FOR ME TO SEND THEM THE DAMAGED TIRE, RECIEPTS OF ANY CHARGED INCURRED DUE TO THE BLOW-OUT, TWO ESTIMATES TO REPAIR MY TRUCK, AND THE RECIEPT OF THE SHIPPING FEE.  I HAVE TRIED TO GET MY REMAINDING FOUR TIRES EXCHANGED AT A FIRESTONE TIRE LOCATION BUT DUE TO THEM NOT BEING THE ON RECALL, THEY CAN DO NOTHING FOR ME.  I WOULD APPRECIATE ANY AND ALL INFORMATION AVAILABLE ON THE PROBLEMS OF THE FIREHAWK SS10 TYPE OF TIRES.*AK (DOT NUMBER: VDR7JBAO98  TIRESIZE: P275/60R15)",
+        "vin": "1GNEC16K4NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "09/14/2000",
+        "dateOfIncident": "02/01/1999",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 870522,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ABS BRAKING SYSTEM IS DEFECTIVE. HOWEVER,  BRAKING SYSTEM WORKS.  SO WHEN TRAVELING IN SNOW OR ICE AND MAKING A SUDDEN STOP  ABS SYTEM TAKES LONGER. *AK",
+        "vin": ""
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "09/13/2000",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 554584,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TWO OF THE FIRESTONE WILDERNESS AT P255/70R16 TIRES ON THE VEHICLE WENT FLAT, WHEN TIRES WERE BROKEN DOWN TO PATCH, THE TIRES WERE SEPARATED ON THE INSIDE. *MJS",
+        "vin": "1GNGK26N4NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC,TIRES",
+        "crash": false,
+        "dateComplaintFiled": "08/08/2000",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 867215,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING 65MPH HEARD & FELT A BUMPING AGAINST  VEHICLE. STOPPED & CHECKED VEHICLE. NOTICED TIRES WERE BLISTERED & TREAD WAS PULLING FROM THE CASING. BOTH FRONT & REAR TIRES WERE SHOWING TREAD PROBLEMS. NOT POSITIVE IF ORIGINAL TIRES AT TIME OF PURCHASE  WERE USED. ALSO,  ABS BRAKE LIGHT COMES ON AND STAYS.  WHEN BRAKING VEHICLE WOULD PULL IMMEDIATELY TO THE LEFT. VEHICLE WAS CONTROLLABLE.*AK",
+        "vin": "1GNEC16K2NJ"
+    },
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "08/01/2000",
+        "dateOfIncident": "12/01/1996",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 726363,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DESIGN OF HVAC AND SOUND SYSTEM CONTROLS REQUIRES THE DRIVER TO HOLD A BUTTON AND WATCH A POINTER ON A DISPLAY TO ADJUST HVAC AND SOUND SYSTEM TO DESIRED SETTINGS WHILE DRIVING. THIS IS AN UNSAFE DESIGN FEATURE!",
+        "vin": "1GNFK16K2NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "07/21/2000",
+        "dateOfIncident": "06/01/1995",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 865832,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING ON HIGHWAY ABS BRAKES KICKED IN ON DRY PAVEMENT UNEXPECTEDLY, AND EXTENDED STOPPING DISTANCE 50 PERCENT.  CONTACT DEALER.*AK",
+        "vin": "1GDFK16K6NJ"
+    },
+    {
+        "components": "TRAILER HITCHES",
+        "crash": false,
+        "dateComplaintFiled": "05/18/2000",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 486747,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "A FACTORY INSTALLED HITCH PLATFORM  WAS FOUND TO HAVE FATIGUE CRACKS ON THE SIDE PLATES STARTING  AT THE REAR BEHIND THE REAR FRAM MOUNTING BOLT AND CONTINUING AT ABOUT 45 DEGREES TOWARD THE SQUARE TUBE. THES ECRACKS HAD COME WITHIN 1/4\" OF SQUAR ETUBE, VERY CLOSE TO FAILURE OF THE HITCH AND THE TRAILER COMING OFF THE TOW VEHICLE.  *AK",
+        "vin": "1GN6C26NXNJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": true,
+        "dateComplaintFiled": "01/31/2000",
+        "dateOfIncident": "12/21/1999",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 855793,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ABS BRAKING SYSTEM MALFUNCTIONED, CAUSING EXTENDED STOPPING DISTANCE WHICH RESULTED IN A CRASH. THE BRAKE MANUFACTURER IS AWARE OF THE PROBLEM BUT HAS YET TO FIX IT.  *AK *ML",
+        "vin": "1GNGK26N4NJ"
+    },
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "01/27/2000",
+        "dateOfIncident": "01/25/2000",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 855588,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING IN A RAINSTORM WINDSHIELD WIPERS WORKED INTERMITTENTLY. THIS HAS HAPPENED ON SEVERAL OCCASIONS.  HAVEN'T CONTACTED THE DEALER OR MANUFACTURER.  *AK",
+        "vin": "1GNGC26N5NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "01/19/2000",
+        "dateOfIncident": "12/11/1999",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 717573,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ON ANY SLICK ROAD SURFACES AT SPEED OF 10 MILES PER HOUR , WHEN THE BRAKES WERE APPLIED TO COME TO A COMPLETE STOP AT STOPSIGN.  THE ANTILOCK BRAKE SYSTEM KICKED IN. THE ANTILOCK BRAKE LIGHT AND THE BRAKE LIGHT TURN ON IN THE CONTROL PANEL.  THE ANTILOCK BRAKE SYSTEM IS SUPPOSED TO READJUST ITSELF AUTOMATICALLY IN  A FEW SECONDS AFTER IT HAS BEEN DEPLOYED.  BUT MY VEHICLE DOES NOT DO THIS.  THIS IS THE SECOND INCIDENT THAT THE ANTILOCK BRAKE SYSTEM  HAS KICKED IN  WITHIN A SIX MONTHS PERIOD SINCE THE VEHICLE WAS PURCHASED.  THE FIRST INCIDENT INVOLVED A COMPLETELY DIFFERENT SCENARIO.  THE FIRST TIME THE ROADS WERE SLICK AND THE VEHICLE WAS BEING DRIVEN ON THE HIGHWAY AT ABOUT 55 MPH.  ANOTHER VEHICLE WAS ENTERING THE HIGHWAY AT A HIGH RATE OF SPEED, DESPITE THE SLICK ROAD CONDITIONS. THIS VEHICLE HIT A SLICK SPOT ON THE HIGHWAY AND SLIDE COMPLETE ACROSS THE THREE LANE HIGHWAY, INWHICH I WAS TRAVELING ON THE FARTHEST LANE.  THERE WERE ABOUT 4 OTHER CARS THAT HAD TO SLAM ON THEIR BRAKES AND BASICALLY COME TO A COMPLETE STOP IN ORDER TO AVOID THE VEHICLE THAT WAS SKIDDING THROUGH THE HIGHWAY.  MY ANTILOCK BRAKES KICKED IN WITH A LOUD THUG. AND THE ANTILOCK LIGHT AND BRAKE LIGHT CAME ON TOO.  BUT IT NEVER READJUSTED ITSELF AFTER THIS INCIDENT.  THE VEHICLE HAD  TO BE TAKEN INTO REPAIR TO RESET THE ABS.  THE FIRST TIME HAPPENED IN JULY 1999 AND WAS REPAIRED IN EARLY AUGUST.  THIS SECOND INCIDENT DID NOT WARRENT THE ABS TO KICK IN.  I BELIEVE THAT THE ABS   ARE OVERLY SENSITIVE  AND NEED TO BE REPROGRAMED. I HEARD ON A NEWS REPORT THAT THE CHEVROLET SUBURBAN WAS BEING RECALLED FOR ITS FAULTY ABS BRAKES FROM 1999 THROUGH 1992.  HOWEVER, I HAVE BEEN UNABLE TO CONFIRM THAT THE 1992 CHEVROLET SUBURBAN  IS BEING RECALLED FOR THIS PROBLEM.  THE DEALERSHIP THAT I CALLED ABOUT REPAIRS SAID THE RECALL WAS FOR VEHICLES STARTING IN 1994, NOT 1992.  I WOULD LIKE TO GET THIS RESOLVED . PLEASE LET ME KNOW THE RESULTS. THANK YOU.",
+        "vin": "1GNEC16K6NJ"
+    },
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": true,
+        "dateComplaintFiled": "01/12/2000",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 2,
+        "odiNumber": 717262,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "EMERGENCY STOPS ON DRY PAVEMENT AT 30 MPH CAUSED ABS TO ENGAGE AND CAUSED 2 ACCIDENTS.  IN BOTH INCIDENTS, THE VEHICLE SEEMED TO \"ROLL\" INTO THE CAR IN FRONT.  AFTER DRIVING 30 YEARS, I HAVE A SENSE OF HOW LONG IT SHOULD TAKE TO STOP AS WELL AS BEING VERY AWARE OF HOW LONG IT TAKES TO STOP THIS HEAVIER VEHICLE AND HAVE ATTEMPTED TO COMPENSATE BY ALLOWING A GREAT DEAL OF STOPPING SPACE IN FRONT OF ME.  I DO NOT FOLLOW AS CLOSE AS MOST SEMIS.  WHEN THE BRAKES ARE PUSHED ALL THE WAY DOWN IN SUDDEN STOPS, THE ABS COMES ON AND MAKES A SORT OF POPPING/ROARING SOUND.  IT SEEMS LIKE SOMETHING SLIPPING.  I HAVE COMPLETE CONTROL OF THE STEERING AS I ROLL/CRASH INTO THE BACK OF THE VEHICLE IN FRONT OF ME!  BUT, I FEEL THAT I HAVE NO CONTROL OF THE BRAKES, AND THE DISTANCE IT TAKES TO GET STOPPED.  OTHER PEOPLE WHO HAVE DRIVEN MY VEHICLE  HAVE FELT THE ABS ARE UNSAFE IN SUDDEN STOPS.  FORTUNATELY, I HAVE NOT HAD TO MAKE SUDDEN STOPS AT HIGH SPEEDS BECAUSE WHO KNOWS HOW MANY HUNDREDS OF FEET WOULD BE REQUIRED.  SO FAR IN BOTH LOW SPEED CRASHES, TWO PEOPLE HAVE CLAIMED NECK AND BACK INJURIES, AND THEIR LEGAL SUITS ARE STILL PENDING WITH THE INSURANCE COMPANY.  I LIKE THE CAR BUT WOULD NOT BUY ANOTHER SUBURBAN BECAUSE OF THE LACK OF FEELING SAFE WITH THE ABS.  *AK",
+        "vin": "1GNEC16K5NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "01/04/2000",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 716881,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THIS VEHICLE HAS A TREMENDOUSLY LONG STOPPING DISTANCE, ESPECIALLY IN THE WET. ONE DEALER SAYS THERE IS NOTHING WRONG; THE OTHER SAYS TO TRY A NEW ANTILOCK UNIT. THEY SAY IT MIGHT HELP BUT IF IT DOESN'T MAKE ANY DIFFERENCE IT IS NON-RETURNABLE. IT WILL COST @ $1000 JUST TO TRIAL AND ERROR A FIX FOR A SERIOUS  SAFETY DEFECT.  *AK",
+        "vin": "1GNGK26N4NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": true,
+        "dateComplaintFiled": "12/30/1999",
+        "dateOfIncident": "12/21/1999",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 854576,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN THE BRAKES WERE  APPLIED  PEDAL WENT TO THE FLOOR, RESULTING IN EXTENDED STOPPING DISTANCE, CAUSING A COLLISION.   DEALER HAS BEEN NOTIFIED.  *AK",
+        "vin": "1GNEC16K4NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC,POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "12/24/1999",
+        "dateOfIncident": "12/19/1999",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 716396,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TRANSMISSION REAR SEAL LEAKING, DEALER ADIVISED SEAL WAS REPLACED WITH THE WRONG YEAR 95 SEAL.  HUSBAND REPLACED WITH RIGHT 92 SEAL.  STILL LEAKING.  ALSO THE MASTER CYLINDER IS KNOCKING LOUD NOISE.  SEEMS LIKE IT IS GOING OUT.  WHEN I DRIVE 35 MILES OR MORE BRAKES TEMPORARILY FAILS.  AND, THE ELECTRICAL SYSTEM WORKS TEMPORARILY ON THE RIGHT PASSENGER SIDE WINDOW.",
+        "vin": "1GNEC16K0NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "12/07/1999",
+        "dateOfIncident": "10/15/1999",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 715726,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FAILED ABS IMPACTS BRAKING ACTION - INCREASED STOPPING DISTANCE, SOFT PEDAL. SETS TROUBLE CODE 63. DEFINITE SAFETY HAZARD. 4WD ABS INSTALLED ON 2WD VEHICLE AT FACTORY. UNDERSTAND THAT RECALL TO REPLACE CORRECT ABS MAY BE PENDING.",
+        "vin": "1GNEC16K8NJ"
+    },
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "10/08/1999",
+        "dateOfIncident": "09/18/1999",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 712987,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVER'S SEAT FRAME/FLOOR HAS BROKEN; SEAT BACK HAS ALSO BROKEN.",
+        "vin": "1GNEC16K7NJ"
+    },
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "10/05/1999",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 849996,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN WINDSHIELD WIPERS ARE ACTIVATED  THEY DO NOT TURN OFF UNTIL THE VEHICLE IS SHUT OFF. SOMETIMES THEY WILL STOP IN THE MIDDLE OF THE WINDSHIELD WHILE THE VEHICLE IS RUNNING. DEALER HAS BEEN CONTACTED.  *AK",
+        "vin": ""
+    },
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "10/01/1999",
+        "dateOfIncident": "09/01/1999",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 849704,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "REAR LAP SEAT BELTS  BROKE IN MIDDLE ROW OF BACK SEATS. TOOK TO DEALER TO BE FIXED, THEN PART BROKE AGAIN, AND CURRENTLY  DEALER IS REFUSING TO FIX ANY OF THEM.  *AK",
+        "vin": ""
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC,ENGINE AND ENGINE COOLING,ELECTRICAL SYSTEM,VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "10/01/1999",
+        "dateOfIncident": "12/01/1996",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 712669,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE BRAKES HAVE ALWAYS BEEN MUSHY. I UNDERSTSAND THAT ABS WILL RESPOND DIFFERENTLY TO EMERGENCY BRAKEING THAN \"NORMAL\" BRAKES BUT THIS THING IS A REAL ADVENTURE TO DRIVE WHEN YOU'VE GOT TO MAKE PANIC STOPS.IT SEEMS TO RESIST YOUR FOOT THE HARDER YOU PUSH THE LESS BRAKING YOU FEEL.THE FRONT LEFT WHEEL BEARING MODULE WENT OUT WHICH CAUSED THE DISK BRAKE TO GRAB AND BOTH FRONT TIRES TO WEAR VERY BADLY. THE ELECTRIC WIPER CONTROL WENT OUT BECAUSET THE CONTROL BOX IS IN THE ENGINE COMPARTMENT AND GOT WET. DAH! THE DRAG LINK BUSHING RUSTED OUT BECAUSE THE GREASE FITTING WAS APPARENTLY INACCESSABLE TO SERVICE AND NEVER GOT ANY GREASE. THE RADIATOR BEGAN LEAKING AT 90000 MLS. AT WHICH TIME I RAN A STOP LEAK PRODUCT IN IT WHICH STOPPED IT SO FAR. THE WATERPUMP WENT OUT AT 110,000 MLS AND THE ALTERNATOR AT 95000 MLS. BRAKES ARE BIGGEST CONCERN!!!!!",
+        "vin": "1GNFK16K1NJ"
+    },
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "09/15/1999",
+        "dateOfIncident": "03/01/1997",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 847772,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WINDSHIELD ARE WORKING INTERMITTENTLY.  *AK",
+        "vin": "1GNGK26K7WJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": true,
+        "dateComplaintFiled": "09/01/1999",
+        "dateOfIncident": "09/01/1998",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 846300,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN  BRAKES ARE APPLIED IN EMERGENCY SITUATION THE PEDAL IS HARD. THE BRAKES REACT AND THEN RELEASE, CAUSING THE VEHICLE TO KEEP ON ROLLING.  DEALER HAS BEEN CONTACTED.  *AK *ML",
+        "vin": "1GNFK16K9NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "08/31/1999",
+        "dateOfIncident": "08/31/1997",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 846206,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKES SLIP DURING A NORMAL STOPPING,  CAUSING  EXTENDED STOPPING DISTANCE.DEALER HAS YET TO BE CONTACTED.  *AK",
+        "vin": "NOT AVAILAB"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "08/28/1999",
+        "dateOfIncident": "08/25/1999",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 710648,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NO SUMMARY",
+        "vin": "1GNEC16K7NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, AIR",
+        "crash": false,
+        "dateComplaintFiled": "08/28/1999",
+        "dateOfIncident": "08/25/1999",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 710649,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN BRAKES WERE APPLIED,THE BRAKES LOCKED UP,PULLING THE VEHICLE TO THE LEFT,AN INSPECTION BY MY MECHANIC ,REVEALED THAT THE ABS SYSTEM WAS NOT FUCTIONING CORRECTLY.",
+        "vin": "1GNEC16K7NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, AIR",
+        "crash": false,
+        "dateComplaintFiled": "08/19/1999",
+        "dateOfIncident": "04/15/1997",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 710242,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ABOUT TWO YEARS AGO DRIVING THROUGH A PUDDLE OF WATER MY CHECK ABS SYSTEM LIGHT SUDDENLY CAME ON.  WHEN MY BRAKES WERE SERVICED, NOT BY A DEALER, I WAS TOLD THAT MY BRAKES WERE WORKING BUT THAT THE ANTILOCK BRAKES WERE NOT.  WE WERE TOLD THAT IT WOULD COST OVER A THOUSAND DOLLARS TO FIX THE COMPUTER CHIP IN THE BRAKE SYSTEM.  SINCE WE DID NOT HAVE THE MONEY FOR THAT AND WE WERE TOLD THAT OUR BRAKES WERE WORKING PROPERLY (NOT THE ANTILOCK), WE HAVE NEVER TAKEN IT IN TO BE REPLACED.  WE HAVE NOT HAD AN ACCIDENT BECAUSE OF THIS PROBLEM, ONLY \"ALMOST\" ACCIDENTS.  WE DO, THOUGH, SEEM TO HAVE TO HAVE OUR BRAKES WORKED ON VERY OFTEN BECAUSE OF ONE THING OR ANOTHER.  I READ ABOUT THE RECALL AND WANTED TO REPORT THIS TO YOU FOR YOUR RECORDS.  I HOPE THAT THE MANUFACTURER OF OUR VEHICLE WILL REPAIR THIS PROBLEM FOR US WITHOUT CHARGE BEFORE AN ACCIDENT DOES HAPPEN, AS APPARENTLY THIS IS A MANUFACTURER DEFECT.  YOUR HELP IS GREATLY APPRECIATED.  THANK YOU.",
+        "vin": "1GNEC16KXNJ"
+    },
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "08/10/1999",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 842025,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WINDSHIELD WIPERS ARE WORKING INTERMITTENTLY, POOR VISIBILITY DUE TO FAILURE IN THE RAIN.  *YC",
+        "vin": "1GNFK16K4NJ"
+    },
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "07/31/1999",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 709431,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THIS IS NOT THE FIRST CHEVROLET VEHICLE THAT I HAVE HAD THAT HAS HAD WIPER PROBLEMS I HAVE HAD 2 OTHERS THAT HAVE HAD THE SAME EXACT PROBLEM AND HAVE HAD SEVERAL FRIENDS THAT HAVE ALSO. THE WIPERS DECIDE BY THEMSELVES WHEN THEIR GOING TO WORK IN THE RAIN. SOMETIMES THEY DO AND SOMETIMES THEY DONT. THEY HAVE JUST QUIT ON ME IN THE MIDDLE OF A RAIN STORM IN TRAFFIC AND ALMOST CAUSED A WRECK SEVERAL TIMES.",
+        "vin": "1GNFK16K9NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": true,
+        "dateComplaintFiled": "07/28/1999",
+        "dateOfIncident": "06/04/1999",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 709319,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE FIRST BRAKE FAILURE OCCURRED ON MARCH 30, 1999 AT THE INTERSECTION OF AL 150 AND I-459 IN HOOVER AL.  I TRIED TO STOP AT THE LIGHT BUT THE SUBURBAN JUST WOULD NOT STOP.  THE ANTI LOCK MECHANISM DID NOT ACTIVATE AND THERE WAS NO SLIDING OR SKIDDING.  I RAN INTO THE BACK OF THE CAR IN FRONT OF ME AT ABOUT 5 MPH.  THERE WAS RAIN PRESENT, BUT IT WAS LIGHT RAIN ITH NO WATER STANDING ON THE ROAD.  THE SECOND OCCASION WAS IN HOUSTON TX ON MAY 28, 1999.  MY DAUGHTER WAS DRIVING THE SUBURBAN ON THE SAM HOUSTON TOLL ROAD WHEN SHE WENT TO CHANGE LANES.  SHE DISCOVERED THAT SOMEONE WAS OVERTAKING HER FROM BEHIND AT A HIGH RATE OF SPEED IN THE LANE THAT SHE WANTED TO BE IN.  SHE PULLED THE WHEEL IN THE OPPOSITE DIRECTION, SAW SOMEONE IN THE ADJACENT LANE, PULLED THE WHEEL IN THE OPPOSITE DIRECTION AND APPLIED THE BRAKES, HARD.  THE SUBURBAN'S REAR WHEELS LOCKED, AND THE SUBURBAN MADE A 180 DEGREE TURN IN THE MIDDLE OF THE ROAD, AND EXITTED THE ROADWAY BACKWARD AT ABOUT 20 MPH STRIKING A CONCRETE BARRIER.  I HAVE SPENT ABOUT  $1000 MAKING THE SUBURBAN DRIVABLE, AND I HAVE NOT GOTTEN INTO THE BODY WORK YET.  I FEEL THAT BOTH OCCURANCES HAVE BEEN CAUSED AT LEAST IN PART BY FAILURE OF THE FOUR WHEEL ANTI LOCK BRAKE SYSTEM.  THE RIGHT REAR WHEEL THREW THE TREAD SIX DAYS LATER ON THE WAY HOME.  I DON'T THINK IT WAS DESIGNED TO GO SIDEWAYS.( DOT NUMBER: AN11LX1127 TIRE SIZE: LT24575R16 )",
+        "vin": "1GNGK26K3NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "07/26/1999",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 782570,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ON TWO OCCASIONS THE CONSUMER HAS SLAMMED ON BRAKES ABRUPTLY, THE BRAKE PEDAL WENT TO THE FLOOR AND THE ANTI LOCK BRAKES FAILED, DEALER CHECKED BUT SAID THEY LOOKED FINE.  NLM",
+        "vin": "1GNFK16K0NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "07/26/1999",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 782570,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ON TWO OCCASIONS THE CONSUMER HAS SLAMMED ON BRAKES ABRUPTLY, THE BRAKE PEDAL WENT TO THE FLOOR AND THE ANTI LOCK BRAKES FAILED, DEALER CHECKED BUT SAID THEY LOOKED FINE.  NLM",
+        "vin": "1GNFK16K0NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "07/23/1999",
+        "dateOfIncident": "01/01/1997",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 843228,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "EA95026, INTERMITTENTLY, THE ABS BRAKING SYSTEM MALFUNCTIONED, CAUSING BRAKE PEDAL TO THE FLOOR,    CAUSING EXTENDED STOPPING DISTANCE AND VIBRATION, WHICH MAY RESULT IN A CRASH.  DEALER REPLACED PARTS IN THE BRAKING SYSTEM.  PROBLEM IS STILL OCCURRING.  PLEASE PROVIDE FURTHER INFORMATION.  *AK",
+        "vin": "1GNGC26N5NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": true,
+        "dateComplaintFiled": "07/22/1999",
+        "dateOfIncident": "04/24/1999",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 708986,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ABS DOES NOT STOP MY SUBURBAN WHEN SYSTEM ACTIVATED.  THE VEHICLE TAKES A LOT LONGER TO STOP.  I HAVE TALKED TO THE DEALER AND SEVERAL BRAKE SHOPS AND THEY CLAIM THIS PHENOMENON IS NORMAL.  THIS PROBLEM HAS CAUSED 4 NEAR MISSES AND ONE ACCIDENT.  I JUST WANT TO KNOW HOW TO GET IT CORRECTED BEFORE WE GET IN A SERIOUS ACCIDENT. *AK",
+        "vin": "1GNFK16K9NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "07/13/1999",
+        "dateOfIncident": "07/10/1999",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 842226,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ONGOING / INTERMITTENT PROBLEM WITH ABS SYSTEM ACTIVATING BY ITSELF, AND CAUSING BRAKE SYSTEM TO FAIL.  DEALER INSPECTED VEHICLE AND INFORMED CONSUMER THAT THE COST OF REPAIRS WOULD BE AT CONSUMER'S EXPENSE OF APPROXIMATELY $1300.00. SEEKING HELP FROM NHTSA IN THIS MATTER.  *AK",
+        "vin": "1GNEC16K1NJ"
+    },
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "06/15/1999",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 839844,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THERE IS A RECALL FOR 1994 SUBURBANS CONCERNING ERRATIC OPERATION OF THE WINDSHIELD WIPERS. THIS VEHICLE HAS THE SAME PROBLEM, BUT IS NOT COVERED UNDER THE   RECAL DUE TO  DATE OF MAKE/MODEL.  DEALER HAS BEEN CONTACTED.   *AK",
+        "vin": ""
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "06/08/1999",
+        "dateOfIncident": "04/25/1999",
+        "fire": true,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 837340,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE VEHICLE WAS BEING DRIVEN  DRIVER EXPERIENCED A LOSS OF POWER. AFTER PULLING TO THE SIDE OF THE HIGHWAY,  DRIVER SAW  SMOKE AND FIRE COMING FROM THE BACK OF VEHICLE..  FIRE WAS PUT OUT BY THE FIRE DEPARTMENT. FIRE BELIEVED TO HAVE STARTED IN THE TRANSMISSION AREA. THE TRUCK HAS BEEN TOTALLED. PLEASE PROVIDE ANY FURTHER DETAILS.  *AK",
+        "vin": "1GNFK16K1NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "05/27/1999",
+        "dateOfIncident": "05/25/1999",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 838529,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN THE BRAKES ARE APPLIED INTERMITTENTLY A GRINDING NOISE IS HEARD, WHICH      RESULTS IN EXTENDED STOPPING DISTANCE.  BRAKES HAVE BEEN WORKED ON BY PRIVATE MECHANIC. MANUFACTURER HAS BEEN NOTIFIED.  *AK  *YC",
+        "vin": "1GNFK16K6PJ"
+    },
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "04/27/1999",
+        "dateOfIncident": "03/01/1999",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 837151,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DUE TO DEFECTIVE WINDSHIELD WIPER CIRCUIT BOARD, WHILE IN USE, THE WINDSHIELD WIPERS MALFUNCTIONED, CAUSING VISUAL DIFFICULTY WHICH MAY RESULT IN A CRASH.  PLEASE PROVIDE FURTHER INFORMATION.  *AK",
+        "vin": "1GNEC16KLNJ"
+    },
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "04/15/1999",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 836768,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THIS VEHICLE HAS A FAULTY WINDSHIELD WIPER  MOTOR  WHICH CAUSES THE WIPERS TO WORK INTERMITTENTLY.  DEALER HAS BEEN CONTACTED.  *AK",
+        "vin": ""
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": true,
+        "dateComplaintFiled": "02/24/1999",
+        "dateOfIncident": "02/12/1999",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 703718,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ABS SYSTEM FAILS TO OPERATE RESULTING IN BRAKE PEDAL GOING TO FLOOR, COMPLETE LOSS OF BRAKING, AND A LOUD SQUEALING NOISE FROM THE UNIT.  IN PRIOR INCIDENTS TO 2-12-99, VEHICLE HAS BEEN PUT UP ON CURB AND HOMEOWNER'S FRONT LAWN TO AVOID REAR END COLLISIONS.  ON 2-12-99 REARENDED A PICKUP TRUCK THAT STOPPED SUDDENLY IN FRONT OF ME.  HAD AT LEAST 50 FEET OF STOPPING DISTANCE.  WHEN CHEVROLET DEALER WAS QUESTIONED ABOUT SUBURBAN ABS PROBLEM, OWNER WAS TOLD PROBLEM DOES NOT EXIST.  SYSTEM IS SUPPOSED TO ACT LIKE IT DOES AND SQUEAL IS NORMAL.  UNLESS ABS LIGHT COMES ON, IT IS NOT VEHICLE ERROR.  MASTER CYLINDER HAS BEEN REPLACED ON VEHICLE, BUT DANGEROUS SITUATION CONTINUES TO PERSIST.",
+        "vin": "1GNFK16K6NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "02/18/1999",
+        "dateOfIncident": "04/04/1997",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 832699,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER HAS BEEN EXPERIENCING PROBLEMS WITH ANITLOCK BRAKES.   WHEN DRIVER APPLIED BRAKES DURING INCLEMENT WEATHER, VEHICLE SKIDDED.  ON DRY PAVEMENT, AND/OR DURING LOW SPEEDS, IT IS DIFFICULT TO STOP.  THE MANUFACTURER HAS YET TO BE CONTACTED.  *AK *ML",
+        "vin": "1GNGK26N6NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": true,
+        "dateComplaintFiled": "01/16/1999",
+        "dateOfIncident": "01/15/1999",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 702276,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WE HAVE HAD AN ONGOING PROBLEM WITH THE ANTI LOCK BRAKES MAKING A LOUD GROANING SOUND.  THIS TYPICALLY OCCURS RIGHT AFTER WE START THE ENGINE AND THEN SEEMS TO GO AWAY.  IT WILL ALSO OCCUR WHEN WE GO OVER A BUMP WITH THE BRAKES ENGAGED.  I REPORTED THIS TO THE DEALER(S) WHEN WE FIRST GOT THE VEHICLE AND THEY COULD NOT FIND ANYTHING WRONG.  ON JAN 15, 1999 I WAS FOLLOWING A CAR WHO STOPPED AT A YELLOW SIGNAL LIGHT.  WHEN I APPLIED  THE BRAKES,  THERE WAS A LOUD \"GROAN\" AND I BELIEVE THE PEDAL WENT TO FLOOR.  I HAD ADEQUATE ROOM TO STOP, BUT THE BRAKES SEEMED TO JUST NOT WORK PROPERLY.  WHEN I WENT OUT THIS MORNING TO CHECKTHE BRAKES, THEY FELT SPONGY AND THEN FINALLY GOT A NORMAL FEEL AGAIN.  I BELIEVE THAT THERE IS A PROBLEM WITH THE ANTI-LOCK BRAKES ON THIS VEHICLE.  FORTUNATELY THE ACCIDENT WAS RELATIVELY MINOR; HOWEVER,  I BELIEVE THAT GM SHOULD FIX BOTH MY VEHICLES BRAKES, AND TAKE CARE OF THE DAMAGE ON THE OTHER CAR.  I WILL BE OUT OF TOWN UNTIL THE 26TH OF JANUARY.",
+        "vin": "1GNGK26N1NJ"
+    },
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "11/04/1998",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 830118,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE WINDSHIELD WIPERS WILL WORK ONE WEEK AND THE NEXT WEEK THEY DON'T WORK  DUE TO AN OVERHEATED CIRCUITBOARD. DEALER HAS NOT SEEN VEHICLE.  *AK",
+        "vin": ""
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "09/23/1998",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 541622,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ANTI-LOCK BRAKE SYSTEM FAILED.",
+        "vin": "1GKEC16K5NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "09/19/1998",
+        "dateOfIncident": "09/15/1998",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 780465,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ABS MALFUNCTION.",
+        "vin": "1GNEC16K8NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "09/08/1998",
+        "dateOfIncident": "09/08/1998",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 540668,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ON WET PAVEMENT, ABS MALFUNCIONED WHILE BRAKING AND STRUCK VEHICLE IN FRONT OF HIM.",
+        "vin": "1GNEC16KXNJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "07/21/1998",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 538673,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE ANTILOCK BRAKE FAILURE LIGHTS ACTIVATE ABOUT EVERY SECOND TIME THE ANTILOCK BRAKES ARE ACTIVATED AND SOMETIMES JUST FROM DRIVING OVER A BUMP OR A POTHOLE.",
+        "vin": "1GNFK16K5NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "06/24/1998",
+        "dateOfIncident": "05/12/1997",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 823422,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING THE TRUCK APPLIED THE BRAKES AND THE PEDAL WENT TO THE FLOOR, NOT ALLOWING THE TRUCK TO STOP. THIS HAS HAPPENED SEVERAL TIMES. ALSO THE TRUCK HAS EXTENDED STOPPING DISTANCE WHILE THE BRAKES ARE APPLIED.  *AK",
+        "vin": "1GCEK14K1NE"
+    },
+    {
+        "components": "SUSPENSION,STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "05/27/1998",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 823677,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE CROSS MEMBER BAR BROKE FROM THE METAL,  AND A SHOCK ABSORBER WAS HANGING FROM NEAR THE GAS TANK. SHOP IS GOING TO REPLACE CROSSMEMBER BAR. *AK",
+        "vin": ""
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": true,
+        "dateComplaintFiled": "05/06/1998",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 823126,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE MAKING A SUDDEN STOP, THE VEHICAL EXPERIENCED EXTENDED STOPING DISTANCE, RESULTING IN AN  ACCIDENT.  *AK",
+        "vin": ""
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "05/04/1998",
+        "dateOfIncident": "03/01/1998",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 535178,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FIVE RADIATORS WERE REPLACED IN 6 YEARS.",
+        "vin": "1GNEC16K2NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "05/01/1998",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 822995,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "POOR BRAKE PERFORMANCE.  WHEN APPLYING THE BRAKES, ESPECIALLY DURING WET WEATHER THE BRAKES GRAB AND LET GO. *AK",
+        "vin": ""
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "04/07/1998",
+        "dateOfIncident": "12/16/1997",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 533661,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKE ROTOR FAILED, CAUSING VIBRATION WHILE BRAKING.",
+        "vin": "1GNFK16KXNJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "04/06/1998",
+        "dateOfIncident": "03/03/1998",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 533864,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ABS LOCKED UP/FAILED, PEDAL WENT TO THE FLOOR, CAUSING EXTENDED STOPPING DISTANCE.  *AK",
+        "vin": "1GNFK16K2NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "04/01/1998",
+        "dateOfIncident": "10/01/1997",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 533733,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ABS BRAKE PRESSURE MODULATOR FAILED.",
+        "vin": "1GNFK16K4NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "03/24/1998",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 821857,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN APPLYING THE BRAKES THE PEDALGETS HARD BUT VEHICLE WILL NOT STOP.  *AK",
+        "vin": "1GNFK16KXNJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "03/19/1998",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 822023,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE APPLYING THE BRAKES THEY STARTED PULSATING AND PULLING TO THE RIGHT. DEALER HAS BEEN CONTACTED.    *AK",
+        "vin": "1GNEC16KXNJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "03/03/1998",
+        "dateOfIncident": "12/01/1995",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 531699,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ANTI-LOCK BRAKES FAIL INTERMITTENTLY, CAUSING LOSS OF CONTROL, DUE TO FAULTY COMPUTER IN THE ABS UNIT.",
+        "vin": "1GNEC16KONJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "02/18/1998",
+        "dateOfIncident": "05/30/1995",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 530665,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ANTI LOCK BRAKES LOCK UP.",
+        "vin": "1GNGC26KONJ"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "02/18/1998",
+        "dateOfIncident": "05/16/1995",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 530665,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WATER PUMP FAILED, CAUSING LEAKAGE.",
+        "vin": "1GNGC26KONJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "02/17/1998",
+        "dateOfIncident": "01/15/1998",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 530551,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ANTI-LOCK BRAKES FAILED, CAUSING A COLLISION.",
+        "vin": "1GNEC16K3NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "02/10/1998",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 530690,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ANTI LOCK BRAKES LOCK UP AND CAUSED VEHICLE TO SKID ON SEVERAL OCCASIONS.",
+        "vin": ""
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "02/03/1998",
+        "dateOfIncident": "01/01/1998",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 820046,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN THE BRAKES ARE APPLIED IN AN EMERGENCY STOP THE PEDAL GOES TO THE FLOOR, RESULTING IN EXTENDED STOPPING DISTANCE. THE DEALER HAS INSPECTED THE VEHICLE.  *AK",
+        "vin": "1GNFK16K3NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "02/03/1998",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 821100,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN APPLYING THE ABS BRAKES ON WET OR DRY PAVEMENT THE PEDAL WILL TRAVEL TO THE FLOOR, CAUSING EXTENDED STOPPING DISTANCE. DEALER HAS NOT IDENTIFIED ANY PROBLEM.  PLEASE GIVE ANY FURTHER DETAILS.   *AK",
+        "vin": "1GNEC16K1NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "02/02/1998",
+        "dateOfIncident": "02/02/1997",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 821076,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN ATTEMPTING TO MAKE A  SUDDEN STOP WHEN TRAVELING ON WET PAVEMENT CONSUMER EXPERIENCED EXTENDED STOPPING DISTANCE. CONSUMER HAS CONTACTED THE DEALER, DEALER HAS YET TO REPLACE ANY PARTS. PLEASE PROVIDE ANY FURTHER DETAILS.   *AK",
+        "vin": "1GNFK16K8NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "01/25/1998",
+        "dateOfIncident": "11/15/1992",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 2,
+        "odiNumber": 529614,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ABS FAILED TO STOP VEHICLE FROM CRASHING INTO ANOTHER VEHICLE.",
+        "vin": "1GNEC16K7NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "01/20/1998",
+        "dateOfIncident": "10/26/1997",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 529170,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ABS FAILURE.",
+        "vin": "1GNFK16K1NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "01/15/1998",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 528906,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKES LOCK UP INTERMITTENTLY, AND YOU CAN HEAR THE ABS MOTOR PACK CYCLING.",
+        "vin": "1GNFK16K7NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": true,
+        "dateComplaintFiled": "01/06/1998",
+        "dateOfIncident": "01/05/1996",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 2,
+        "odiNumber": 819666,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING VEHICLE, APPLIED ABS BRAKES; VEHICLE FAILED TO STOP LIKE IT SUPPOSE TO. BRAKE PEDAL WENT  TO THE FLOOR. PROBLEM ONLY INTERMITTENT. ON ONE OCCASION VEHICLE  HIT CITY BUS IN REAR. SUBSEQUENTLY, WHILE DRIVING ON GRAVEL DETOUR ROAD, BRAKES GRABBED, CAUSING VEHICLE TO FISHTAIL. REPAIRMAN INDICATED VALVE FAILED ON ABS CONTROL.  *AK",
+        "vin": "1GNEC16K5NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "01/05/1998",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 2,
+        "odiNumber": 527377,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ANTI-LOCK BRAKES EXPERIENCE EXTENDED STOPPING DISTANCE, RESULTING IN AN ACCIDENT.",
+        "vin": "1GNFK16KXNJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "12/18/1997",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 526815,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "REAR DRUMS RUB AGAINST BRAKING PLATES.",
+        "vin": "1GNFK16K1NJ"
+    },
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "12/18/1997",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 526815,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "REAR AXLE SEAL LEAKS ON REAR BRAKE SHOES.",
+        "vin": "1GNFK16K1NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "12/17/1997",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 819226,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN THE BRAKES ARE APPLIED THE PEDAL GOES TO THE FLOOR, RESULTING IN EXTENDED STOPPING DISTANCE.  OWNER STATES THAT WHEN THE VEHICLE  WAS TAKEN IN FOR REPAIR  OF THE BRAKES , THE OWNER WAS INFORMED THAT THE  CALIPERS WERE DEFECTIVE.  THE DEALER HAS NOT BEEN NOTIFIED.   *AK",
+        "vin": "1GNFK16K5NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "12/15/1997",
+        "dateOfIncident": "12/01/1995",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 818405,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKES SOMETIMES DO NOT RESPOND WHEN DRIVER APPLIES THEM , SHE HAS TO PRESS THE PEDAL MORE THAN ONCE TO GET THE BRAKES TO RESPOND.   *AK",
+        "vin": "1GNGK26K1NJ"
+    },
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "12/04/1997",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 526417,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "INTERMITTENT WINSHIELD WIPERS FAILURE.  *AK",
+        "vin": ""
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": true,
+        "dateComplaintFiled": "11/28/1997",
+        "dateOfIncident": "10/18/1997",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 819545,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING 35 MPH THE DEFECTIVE ABS BRAKING SYSTEM FAILED, CAUSED THE PEDAL TO THE FLOOR AND EXTENDED STOPPING DISTANCE WHICH CAUSED AN ACCIDENT.   *AK",
+        "vin": ""
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "11/25/1997",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 525397,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ANTI LOCK BRAKES FAILED, RESULTING IN AN ACCIDENT, MASTER CYLINDER REPLACED, HOWEVER FAILURES STILL OCCUR.",
+        "vin": "1GNEC16K5NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "11/20/1997",
+        "dateOfIncident": "11/01/1994",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 819343,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING VEHICLE ABOUT 45 MPH THE CONSUMER TRIED TO STOP VEHICLE THE BRAKES DID NOT RESPOND FOR ABOUT 3 TO 4 SECOND,  ACCORDING TO CONSUMER .  *AK",
+        "vin": "1GKFK16K4NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "11/19/1997",
+        "dateOfIncident": "11/01/1997",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 819284,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING VEHICLE ABOUT ANY MPH BETWEEN 10 AND 20 THE BRAKES WILL NOT WORK AND CONSUMER WON'T BE ABLE TO STOP THE VEHICLE BECAUSE BRAKES FAILED.  THIS PROBLEM HAPPENED ALL THE TIME, ACCORDING TO CONSUMER.  VEHICLE WAS TAKEN TO DEALER,AND THEY SAID IT WAS NO PROBLEM WITH THE BRAKES, AND SEND CONSUMER BACK HOME.  *AK",
+        "vin": "1GNFK16K0NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "11/18/1997",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 819149,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN APPLYING THE BRAKES THE VEHICLE WOULD NOT STOP. DEALER SAID OWNER WAS DRIVING WRONG.  *AK",
+        "vin": ""
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": true,
+        "dateComplaintFiled": "11/17/1997",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 819108,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN THE BRAKES ARE APPLIED THE PEDAL GOES TO THE FLOOR , RESULTING IN EXTENDED STOPPING DISTANCES, CAUSING THE  VEHICLE TO COLLIDE. THE DEALER HAS  BEEN NOTIFIED.  *AK",
+        "vin": "1GNGC26K5NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "11/17/1997",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 524839,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ANTI-LOCK BRAKES LOCK UP WHEN BACKING UP AND AT SLOW SPEEDS.",
+        "vin": "1GNGK26NONJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "11/13/1997",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 818965,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ABS BRAKES; WHEN APPLYING THE BRAKES IN NORMAL CONDITIONS, THE PEDAL GOES TO THE FLOOR, AND THE BRAKES FAILED TO STOP THE VEHICLE.  PLEASE PROVIDE FURTHER DETAILS.   *AK",
+        "vin": "1GNGK269N2N"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "11/12/1997",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 818880,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN APPLYING THE BRAKES THE PEDAL GOES TO THE FLOOR AND VEHICLE DID NOT STOP. DEALER REPLACED ABS.  *AK",
+        "vin": ""
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "11/12/1997",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 524694,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKE PROBLEMS.",
+        "vin": "1GNFK16K9NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "11/12/1997",
+        "dateOfIncident": "08/25/1997",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 524731,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKES FAILED RESULTING IN AN ACCIDENT.",
+        "vin": "1GNEC16K5NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "11/10/1997",
+        "dateOfIncident": "11/10/1993",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 818643,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKES: WHEN DRIVING THE VEHICLE PULLED TO THE LEFT OR RIGHT SIDE WHILE  BRAKING. REAR BRAKES LOCKED UP, HAD TO DO FRONT BRAKE JOB EVERY FOUR TO SIX MONTHS.  *AK *SLC",
+        "vin": "1GNGK26NXNJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "11/10/1997",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 818739,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN APPLYING THE BRAKES THE PEDAL GOES ALMOST TO THE FLOOR AND MAKES A SQUEAKING NOISE. THE BRAKE PADS ARE REPLACED ABOUT EVERY 3 MONTHS.  DEALER SAYS IT'S NORMAL.  *AK",
+        "vin": ""
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "11/07/1997",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 818525,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING THE VEHICLE CONSUMER TRIED TO MAKE A SUDDEN STOP. PRESSED THE BRAKE PEDAL TO THE FLOORBOARD, THE VEHICLE CONTINUED TO STILL TRAVEL. CONSUMER TRIED PRESS THE BRAKE PEDAL AGAIN, THE VEHICLE STOPPED.   *AK",
+        "vin": ""
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "11/06/1997",
+        "dateOfIncident": "03/01/1997",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 818492,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "OWNER PRESSED ON THE BRAKES  AND THEY DIDN'T RESPOND THE FIRST TIME AFTER HE PRESSED THE BRAKES, MORE THAN ONCE THEY THEN RESPONDED.  *AK",
+        "vin": "1GNEC16K9NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "11/06/1997",
+        "dateOfIncident": "11/03/1997",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 818496,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING VEHICLE ABOUT 35 MPH THE CONSUMER TRIED TO SLOW DOWN AND THE BRAKES LOCKED UP. THE BRAKES GRABBED WHEN THE SHOULDN'T, ACCORDING TO THE CONSUMER .  *AK",
+        "vin": "1GNFK16KXNJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "11/04/1997",
+        "dateOfIncident": "10/28/1997",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 818255,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE ABS BRAKE LIGHT ILLUMINATED, INDICATING MALFUNCTION WITHIN THE SYSTEM.  TOOK THE VEHICLE TO THE DEALER WHO REPLACED THE MASTER CYLINDER WHICH DID NOT REMEDY THE PROBLEM.   *AK   *SLC",
+        "vin": "1GNEC16K1NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": true,
+        "dateComplaintFiled": "10/31/1997",
+        "dateOfIncident": "09/01/1996",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 526581,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ABS BRAKES FAILED TWICE, RESULTING IN COLLISIONS.",
+        "vin": "1GNGK26N2PJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "10/30/1997",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 818033,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN APPYLING THE ABS BRAKES ON WET PAVEMENT THE PEDAL WILL TRAVEL TO THE FLOOR, CAUSING EXTENDED STOPPING DISTANCE WHICH NEARLY CAUSED A COLLISION TO OCCUR.  *AK  CONSUMER STATES THIS HAS ALSO OCCURRED WHEN APPROACHING A LIGHT AT AN INTERSECTION, DEALER CAN NOT FIND ANY PROBLEMS.   *SLC",
+        "vin": "1GNEC16K3NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "10/29/1997",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 817913,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN APPLYING THE ABS BRAKES IN A PANIC STOP SITUATION, THERE IS AN EXTENDED AMOUNT OF BRAKING DISTANCE.  CAUSE UNKNOWN.   *AK",
+        "vin": ""
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": true,
+        "dateComplaintFiled": "10/29/1997",
+        "dateOfIncident": "07/06/1994",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 817932,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVING THE TRUCK DOWN THE ROAD AND A VEHICLE STOPPED IN FRONT OF THE TRUCK, AND WHEN APPLYING  FOOT TO THE BRAKE PEDAL TO STOP THE TRUCK, THE TRUCK JUST KEPT GOING. THE TRUCK REAR ENDED THE BACK OF THE VEHICLE THAT WAS IN FRONT.   *AK",
+        "vin": "1GNFK16K4NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "10/28/1997",
+        "dateOfIncident": "04/11/1997",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 817817,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN DRIVING THE TRUCK AND  PUTTING FOOT ON THE BRAKE PEDAL, PEDAL JUST GOES TO THE FLOORBOARD.  *AK   *SLC",
+        "vin": "1GNFK16K4NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "10/24/1997",
+        "dateOfIncident": "06/10/1992",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 817536,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "APLLIED THE BRAKES AND THE PEDAL WENT TO THE FLOOR.  THIS DOES NOT HAPPEN ALL THE TIME, JUST SOMRTIMES. WHEN THIS DOES HAPPEN THE TRUCK HAS EXTENDED STOPPONG DISTANCE.   *AK",
+        "vin": "1GCEK14K1NE"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "10/23/1997",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 817433,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "OWNER HAS ABS BRAKES.  BRAKES DO NOT OPERATE PROPERLY IN PANIC STOPS. BRAKE PEDAL MUST BE PUSHED DOWN WITH FORCE TO STOP VEHICLE. ALSO, THERE IS NOISE IN ABS WHEN BRAKES ARE APPLIED.  *AK",
+        "vin": "1GNGK26KONJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "10/23/1997",
+        "dateOfIncident": "10/07/1997",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 817485,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN ON A SLIGHT INCLINE & APPLYING THE BRAKES, BRAKES WOULD HOLD VEHICLE.  WHEN NOT ON AN INCLINE BRAKES FAIL TO STOP OR GRAB, CAUSING EXTENDED STOPPING DISTANCES. HAD NOT TAKEN TO DEALER.  *AK",
+        "vin": "1GKFK16K8NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "10/21/1997",
+        "dateOfIncident": "01/05/1997",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 817276,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN STARTING THE VEHICLE IN THE MORNING AND BACKING OUT OF DRIVEWAY AND  PUTTING  FOOT ON THE BRAKES, THEY LOCK UP.  ALSO WHEN DRIVING AND IN NORMAL STOPPING THE ANTI-LOCK BRAKES START FUNCTIONING, AND THE BRAKE PEDAL GOES TO THE FLOOR.   *AK",
+        "vin": "1GKGK26N2NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "10/15/1997",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 513693,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE ABS BRAKE SYSTEM DOES NOT OPERATE PROPERLY. WHEN TRAVELING DOWNHILL AND BRAKING,  ABS BRAKES ARE NOT EFFECTIVE.  *AK",
+        "vin": "1GNFK16K4NJ"
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "10/01/1997",
+        "dateOfIncident": "10/01/1995",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 816781,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "RIGHT SIDE REAR AXLE PETRUDES OUTWARD ONE QUATER OF AN INCH FROM BACKING PLATE.  SECOND INCIDENT:  26-SEP-97  MILEAGE :  87,000  NOTICEABLE RIDGE OF BRAKE SHOES.  *AK",
+        "vin": "1GNEC16K7NJ"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "09/17/1997",
+        "dateOfIncident": "04/22/1997",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 520311,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENGINE CYLINDER HEAD LEAKED COOLANT OUTSIDE ENGINE. ALSO, RADIATOR LEAKS DUE TO POOR ORIGINAL CONSTRUCTION BY GENERAL MOTORS.  *AK",
+        "vin": "1GNFK16K4NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": true,
+        "dateComplaintFiled": "06/23/1997",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 813378,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "IN ACCIDENT WHEN THE ABS BRAKING SYSTEM FAILED WITH PEDAL TO THE FLOOR AND WOULD NOT STOP. AT 20-30MPH WHEN THIS HAPPENED.   *AK",
+        "vin": "1GNFK16K6NJ"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "05/16/1997",
+        "dateOfIncident": "07/01/1996",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 517254,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENGINE RUNS ROUGHC/PERFORMS SLUGGISHLY.",
+        "vin": "1GNGC26N4NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "05/06/1997",
+        "dateOfIncident": "04/01/1997",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 809803,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "UPON APPLYING THE ABS BRAKES, THERE IS VIBRATION AND THE VEHICLE PULLS TO THE LEFT  DUE TO ROTORS SEPARATING FROM MOUNTING HUB CAUSED BY CORROSION.  *AK",
+        "vin": "1GNFK16K0NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": true,
+        "dateComplaintFiled": "04/25/1997",
+        "dateOfIncident": "04/20/1997",
+        "fire": true,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 811732,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE ANTI-LOCK BRAKE SYSTEM FAILED, CAUSING AN ACCIDENT.  DEALER SAID IT WAS DUE TO A  DEFECTIVE ANTI- LOCK SENSOR.   *AK",
+        "vin": "1GNEC16KXNJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "04/23/1997",
+        "dateOfIncident": "01/01/1993",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 811591,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AB, BRAKE FAILURE, WHEN DRIVING AT ANY SPEED WHEN ABS KICK IN, WHEEL BY WHEEL KICKS IN,  CAUISNG EXTENDED STOPPING DISTANCE . EA 95-026.   *AK",
+        "vin": "1GNFK16K0NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "04/02/1997",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 808467,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "#EA95-026,  WAS DRIVING AND APPLIED THE BRAKES AND THE ABS BRAKE SYSTEM  FAILED.   *AK",
+        "vin": "1GNFK16K4NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "04/01/1997",
+        "dateOfIncident": "08/12/1996",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 808927,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "KELSEY HAYES ABS BRAKE FAILURE; WHEN APPLYING THE BRAKES THE PEDAL WENT TO THE FLOOR AND THE VEHICLE WOULD NOT BRAKE. THIS HAPPENED TWICE ON DRY PAVEMENT.   *AK",
+        "vin": "1GNEC16K5NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "04/01/1997",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 810558,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "EXPERIENCED INTERMITTENT LOSS OF BRAKING POWER.",
+        "vin": ""
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "03/17/1997",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 808965,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "HAS ABS BRAKES,  BRAKES FAILED, CAUSING EXTENDED STOPPING DISTANCE AND VEHICLE WOULD NOT STOP.  ALSO, REPLACED FRONT DISC BRAKE PADS TWICE.  *AK",
+        "vin": "1GNGK26N4NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "02/06/1997",
+        "dateOfIncident": "01/11/1997",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 514564,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ANTILOCK BRAKES FAILED, CAUSING ACCIDENT.",
+        "vin": "1GNFK16KXNJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": true,
+        "dateComplaintFiled": "01/02/1997",
+        "dateOfIncident": "10/16/1995",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 807014,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ANOTHER VEHICLE STOPPED AT STOP SIGN, CHEVROLET DRIVER HIT BRAKES, VEHICLE KEPT GOING, DID NOT STOP UNTIL REARENDED VEHICLE IN FRONT, WAS APPROX. FIFTY FEET AWAY WHEN BRAKING. TOOK VEHICLE TO DEALERSHIP.   *AK",
+        "vin": "1GNFK16K3NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": true,
+        "dateComplaintFiled": "12/27/1996",
+        "dateOfIncident": "01/01/1992",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 806819,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ABS, BRAKE FAILURE, EA95-026 ACTIVE, CONTINUES TO HAVE BRAKE FAILURE,  IN FOR REPAIRS FOUR TIMES,  VEHICLE CONTINUES TO PULL TO RIGHT OR LEFT, IMPACT 12:00 POSITION 20MPH, APPLIED BRAKES PEDAL WENT TO FLOOR, EXTENDED STOPPING DISTANCE.",
+        "vin": "1GKGK26N6NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "11/25/1996",
+        "dateOfIncident": "11/24/1996",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 805532,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "OWNER HAS ABS BRAKE SYSTEM, UPON USING THE BRAKES OWNER HAD TOTAL BRAKE FAILURE.  HE NOTES THAT THE ABS LIGHT STAYED ON AFTER BRAKES WERE USED AND DID NOT GO OUT.  *AK",
+        "vin": "1GNFK16K5NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "11/22/1996",
+        "dateOfIncident": "11/21/1996",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 805474,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ABS: WHILE COMING DOWN HILL, APPLIED BRAKES,  PEDAL WENT TO FLOOR, FEW SECONDS LATER,  BRAKES WERE UP AND WORKING AGAIN,  NO WARNING, PUMPED BRAKES ABOUT 3 TIMES, NO EFFECT,  WET PAVEMENT.   *AK",
+        "vin": "1GNGC26K1NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "11/21/1996",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 805446,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ABS BRAKING SYSTEM FAILED WHILE TRAVELING ON ICY ROAD,  CAUSING EXTENDED STOPPING DISTANCE WHICH NEARLY CAUSED AN ACCIDENT.  PLEASE  GIVE FURTHER  DETAILS.",
+        "vin": "1GNEC16K4NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "11/18/1996",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 805226,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ON SEVERAL OCCASIONS WHEN ABS  BRAKES ARE APPLIED PEDAL HAS NO PRESSURE AND ALLOWS TRUCK TO GO THROUGH INTERSECTION.  THIS ALSO OCCURS WHEN PULLING A TRAILER.  PLEASE DESCRIBE DETAILS.  *AK",
+        "vin": ""
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "11/18/1996",
+        "dateOfIncident": "09/30/1996",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 805231,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "APPLIED THE ABS BRAKES AND VEHICLE WOULD NOT STOP,  SO WHEN STARTED PUMPING THE BRAKES THE VEHICLE CAME TO A STOP,  EA 95 026.   *AK",
+        "vin": "1GNFK16K6NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": true,
+        "dateComplaintFiled": "11/12/1996",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 804813,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE'S ABS BRAKING SYSTEM BECAME INOPERATIVE,  IT HAD A SKIDDING EFFECT ON THE ROAD,  THEN PEDAL WENT TO FLOOR,  A LOUD NOISE WAS HEARD.THE DRIVER LOST BRAKE CONTROL AND HIT CAR IN FRONT.   *AK",
+        "vin": "IGNEC16KONJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": true,
+        "dateComplaintFiled": "11/12/1996",
+        "dateOfIncident": "07/15/1995",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 804842,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "POOR ABS BRAKE PERFORMANCE. THE PEDAL WENT TO THE FLOOR, AND COMPLETE BRAKE FAILURE WAS EXPERIENCED, RESULTING IN AN ACCIDENT.   *AK",
+        "vin": "1GNFK16K2NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "10/21/1996",
+        "dateOfIncident": "09/01/1996",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 803748,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FAILURE ON THE ABS BRAKES, WHEN MAKING A STOP THE BRAKE PEDAL GOES TO THE FLOOR.    *AK",
+        "vin": "1GNFK16K4NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "09/17/1996",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 802531,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE ABS CONTINUES TO GO OUT.    PLEASE GIVE MORE DETAILS.  *AK",
+        "vin": "1GNEC16KONJ"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "09/04/1996",
+        "dateOfIncident": "08/25/1996",
+        "fire": true,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 508286,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE FIRE.",
+        "vin": ""
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC,ELECTRICAL SYSTEM",
+        "crash": true,
+        "dateComplaintFiled": "07/25/1996",
+        "dateOfIncident": "06/20/1996",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 967681,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE WILL STALL WHEN DRIVING LONG DISTANCES,  ALSO ANTI-LOCK BRAKES FAILED, PEDAL WENT LOW TO THE FLOOR, REAREND ANOTHER VEHICLE. *AK",
+        "vin": "1GKEC16K7NJ"
+    },
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "05/14/1996",
+        "dateOfIncident": "05/14/1996",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 504463,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FRAME CRACKED. *SD",
+        "vin": "1GNEC16KXNJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": true,
+        "dateComplaintFiled": "04/26/1996",
+        "dateOfIncident": "02/01/1995",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 504681,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKES FAILED, CAUSING ACCIDENT. *DH",
+        "vin": "1GNGC26NXNJ"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "04/24/1996",
+        "dateOfIncident": "03/15/1996",
+        "fire": true,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 983408,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AN ALLEGED MALFUNCTION IN THE ALTERNATOR, RESULTING IN AN ENGINE COMPARTMENT FIRE EA94-029A.    *AK",
+        "vin": "1GNEC16K5NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "04/11/1996",
+        "dateOfIncident": "12/01/1992",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 503476,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ANTILOCK BRAKES FAIL TO STOP VEHICLE ON WET ROADS. *DSH",
+        "vin": "1GNFK16K4NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "03/29/1996",
+        "dateOfIncident": "02/02/1996",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 503021,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ABS WARNING LIGHTS COME ON. *DSH",
+        "vin": "1GNFK16K2NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "03/06/1996",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 980301,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING THE BRAKES HAVE FAILED NUMBER OF FIVE TIMES, AND THE MASTER CYLINDER HAS BEEN REPLACED TWICE WITHIN 20000 MILES, THIS IS THE ABS BRAKES.  *AK",
+        "vin": "1GFK16KXNJ3"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "03/06/1996",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 980301,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING THE BRAKES HAVE FAILED NUMBER OF FIVE TIMES, AND THE MASTER CYLINDER HAS BEEN REPLACED TWICE WITHIN 20000 MILES, THIS IS THE ABS BRAKES.  *AK",
+        "vin": "1GFK16KXNJ3"
+    },
+    {
+        "components": "SEAT BELTS",
+        "crash": true,
+        "dateComplaintFiled": "01/17/1996",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 977698,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "UPON IMPACT, DURING A FRONTAL CRASH, DRIVER'S SHOULDER/LAP BELT FAILED TO RETRACT.  TT",
+        "vin": "1GNEC16KXNJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "01/04/1996",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 977436,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ABS BRAKING PROBLEMS.  PLEASE DESCRIBE.  TT",
+        "vin": ""
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": true,
+        "dateComplaintFiled": "01/02/1996",
+        "dateOfIncident": "12/20/1995",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 977220,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "POOR PERFORMANCE OF THE BRAKE SYSTEM CAN NOT STOP THE VEHICLE ON THE REAR BRAKES HAVE TO CHANGE FRONT BRAKE OFTEN.  TT",
+        "vin": "1GNEC16KSNJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": true,
+        "dateComplaintFiled": "01/02/1996",
+        "dateOfIncident": "12/20/1995",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 977220,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "POOR PERFORMANCE OF THE BRAKE SYSTEM CAN NOT STOP THE VEHICLE ON THE REAR BRAKES HAVE TO CHANGE FRONT BRAKE OFTEN.  TT",
+        "vin": "1GNEC16KSNJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "12/27/1995",
+        "dateOfIncident": "12/27/1995",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 490714,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKE PEDAL MUST BE PRESSED HARD IN ORDER TO STOP VEHICLE. *SD",
+        "vin": "1GNEC16K6NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "12/27/1995",
+        "dateOfIncident": "12/27/1995",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 490714,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKE PEDAL MUST BE PRESSED HARD IN ORDER TO STOP VEHICLE. *SD",
+        "vin": "1GNEC16K6NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "12/19/1995",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 976781,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ABS BRAKING PROBLEMS.  PLEASE DESCRIBE.  TT",
+        "vin": ""
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "12/19/1995",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 976775,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "#PE95-023 WHEN APPLYING THE BRAKE IT DOESN'T STOP IT SLOWS THE TRUCK DOWN .  TT",
+        "vin": ""
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "12/18/1995",
+        "dateOfIncident": "12/18/1995",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 490697,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "POOR PERFORMANCE OF ABS BRAKES, CAUSING EXTENDED STOPPING DISTANCE. *SD",
+        "vin": "1GNFK16KXNJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": true,
+        "dateComplaintFiled": "12/14/1995",
+        "dateOfIncident": "09/10/1995",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 976618,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "POOR PERFORMANCE OF THE ABS BRAKE PEA95-023 CAUSED CONSUMER TO HAVE AN ACCIDENT.  TT",
+        "vin": ""
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "12/08/1995",
+        "dateOfIncident": "11/17/1995",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 976350,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "POOR PERFORMANCE OF THE ABS BRAKE SYSTEM EA95-023 BRAKES LOCK UP.  TT",
+        "vin": "1GNG626N5NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": true,
+        "dateComplaintFiled": "12/05/1995",
+        "dateOfIncident": "11/01/1994",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 976058,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ABS, APPLIED BRAKES PEDAL WENT TO THE FLOOR, BRAKE RELEASE IMPACT 12:00 POSITION SPEED 30MPH.  TT",
+        "vin": "1GNEC16K2NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": true,
+        "dateComplaintFiled": "12/01/1995",
+        "dateOfIncident": "12/01/1995",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 487848,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ANTILOCK BRAKES FAILED, CAUSING ACCIDENT. *SD",
+        "vin": "1GNEC16K2NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "11/30/1995",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 975770,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "#PE95-023 POOR PERFORMANCE OF THE ABS ANTI-LOCK BRAKE SYSTEM .  TT",
+        "vin": ""
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": true,
+        "dateComplaintFiled": "11/21/1995",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 975276,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ABS BRAKING PROBLEMS.  PLEASE DESCRIBE.  TT",
+        "vin": ""
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": true,
+        "dateComplaintFiled": "11/20/1995",
+        "dateOfIncident": "10/01/1994",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 488066,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ABS BRAKE FAILED, CAUSING ACCIDENT RESULTING IN INJURY.  TT",
+        "vin": "1GNEC16KXNJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "11/20/1995",
+        "dateOfIncident": "10/01/1994",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 488066,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "PREMATURE WEAR OF BRAKE PADS.  TT",
+        "vin": "1GNEC16KXNJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": true,
+        "dateComplaintFiled": "11/13/1995",
+        "dateOfIncident": "11/13/1995",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 974887,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ABS SYSTEM FAILURE, INTERMITTENT FAILURE OF THE ABS SYSTEM.  TT",
+        "vin": "1GNEC16K1NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "11/08/1995",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 974763,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER IS AT 57,000 MILES  HAD TO REPLACE THE PADS ROTORS FOUR TIMES .  TT",
+        "vin": "1GNFK16KANJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "11/08/1995",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 974763,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER IS AT 57,000 MILES  HAD TO REPLACE THE PADS ROTORS FOUR TIMES .  TT",
+        "vin": "1GNFK16KANJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "11/06/1995",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 974569,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ABS BRAKING PROBLEM.  PLEASE DESCRIBE.  TT",
+        "vin": "1GNEC16K5PJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "11/06/1995",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 974587,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "APPLIED BRAKES, VEHICLE CONTINUED TO TRAVEL, HAD SEVERAL EXPERIENCES LIKE THIS.  TT",
+        "vin": ""
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC,VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "11/03/1995",
+        "dateOfIncident": "10/03/1995",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 974547,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ABS BRAKE SYSTEM LOCKING INTERMITTENTLY, REPLACED BRAKE LINER.  TT  WHEN ROAD IS WET, BRAKES MIGHT LOCK ON ALL FOUR WHEELS, VEHICLE ENTERS UNCONTROLLED SKID, ANTI-LOCK DASH LIGHT DOES NOT LIGHT TO  INDICATE SYSTEM FAILURE, CONDITION DOES NOTHAPPEN EVERY TIME, DEALER HAS CHECKED SYSTEM REPEATEDLY AND HAS STATED SYSTEM IS OPERATING AS NORMAL, FRONT BRAKES HAVE EEN REPLACED TWICE IN ONE YEAR, LEFT SIDE VIEW MIRROR HAD TO BE REPLACED.*JB",
+        "vin": "1GNGC26N4NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "11/03/1995",
+        "dateOfIncident": "10/03/1995",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 974547,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ABS BRAKE SYSTEM LOCKING INTERMITTENTLY, REPLACED BRAKE LINER.  TT",
+        "vin": ""
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": true,
+        "dateComplaintFiled": "10/30/1995",
+        "dateOfIncident": "08/01/1992",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 974101,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ABS BRAKING PROBLEMS.   TT  ABS FAILED AND CAUSED ACCIDENT, CONSUMER STATED THAT PREVIOUSLY WHEN ABS HAS FAILED, HE WAS ABLE TO JUMP CURBS TO AVOID AN ACCIDENT, HOWEVER THIS TIME HE HIT A VEHICLE IN FRONT OF HIM.   *SLC",
+        "vin": "1GDEC16K3NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "10/25/1995",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 973902,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ABS BRAKING SYSTEM MALFUNCTIONS CAUSING LONG AND EXTENDED STOPPING DISTANCES.PEDAL BECOMES SOFT.THE ABS SYSTEM BRAIN HAD TO BE REPLACED BEFORE.  TT   *SLC",
+        "vin": "1GNFK16KXNJ"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "10/18/1995",
+        "dateOfIncident": "10/13/1995",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 973554,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BATTERY FLUID LEAKED FROM THE SIDE POSITIVE POST, DOWN THE BATTERY CABLE, CAUSING CABLE TO CORRODE AND SEPARATE, RESULTING IN A TOTAL ELECTRICAL FAILURE.  TT",
+        "vin": "1GKFK16K9NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "10/11/1995",
+        "dateOfIncident": "01/15/1993",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 973258,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ABS: WHEN APPLYING BRAKES, ANTI LOCK SYSTEM WILL KICK IN, ACTUALLY MAKING LOUD NOISES; VEHICLE FAILS TO SLOW DOWN; PULLS TO LEFT; BRAKES WEAR OUT PREMATURELY.",
+        "vin": "1GNGK26K3NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "09/28/1995",
+        "dateOfIncident": "09/28/1995",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 972643,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ABS SYSTEM FAILURE, EXCESSIVE WEAR ON THE BRAKES, REPLACED ROTORS, AND PADS.  TT",
+        "vin": ""
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "09/28/1995",
+        "dateOfIncident": "09/28/1995",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 972643,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ABS SYSTEM FAILURE, EXCESSIVE WEAR ON THE BRAKES, REPLACED ROTORS, AND PADS.  TT",
+        "vin": ""
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "09/28/1995",
+        "dateOfIncident": "09/28/1995",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 972643,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ABS SYSTEM FAILURE, EXCESSIVE WEAR ON THE BRAKES, REPLACED ROTORS, AND PADS.  TT",
+        "vin": ""
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": true,
+        "dateComplaintFiled": "09/20/1995",
+        "dateOfIncident": "06/01/1995",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 972271,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ABS SYSTEM FAILURE, TOTAL LOSS OF BRAKES CAUSING ACCIDENT.  TT",
+        "vin": ""
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "09/18/1995",
+        "dateOfIncident": "08/18/1995",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 972149,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ABS SYSTEM FAILURE, PARTIAL LOSS OF BRAKING WHILE DRIVING.  TT",
+        "vin": "1GNFK16K3NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "09/13/1995",
+        "dateOfIncident": "09/05/1995",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 972019,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "EXCESSIVE WEAR OF THE FRONT BRAKE PADS, THEY NEED REPLACING EVERY 7K MILES.  TT",
+        "vin": "1GNGK25K4NK"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": true,
+        "dateComplaintFiled": "09/07/1995",
+        "dateOfIncident": "05/28/1995",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 2,
+        "odiNumber": 971681,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "#PE95-023 CONSUMER WAS BACKING OUT OF DRIVEWAY THE ABS ANTI-LOCK BRAKE FAILED CONSUMER HIT A PARKED TRUCK .  TT",
+        "vin": "1GNEC16K9NJ"
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "09/06/1995",
+        "dateOfIncident": "08/10/1995",
+        "fire": true,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 483937,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TRANSMISSION FAILED PRIOR TO/AFTER RECALL REPAIRS, RESULTING IN A FIRE (93V-016).   *AK",
+        "vin": "1GNFK16K4NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "09/06/1995",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 971633,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "REAR BRAKES LOCKED, HAD TO HAVE TENSION RELEASED, HAD A LOT OF VIBRATION.  TT",
+        "vin": ""
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "08/23/1995",
+        "dateOfIncident": "12/01/1992",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 970937,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKES WILL EITHER LOCK UP, PULL TO THE LEFT OR RIGHT OR THEY FEEL SPONGY.  TT",
+        "vin": "1GNGC26N8NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "08/22/1995",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 970911,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ABS BRAKES; SYSTEM DOESN'T HAVE ADEQUATE BRAKING. PLEASE DESCRIBE DETAILS.  TT",
+        "vin": ""
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "08/15/1995",
+        "dateOfIncident": "08/14/1995",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 970501,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ABS SYSTEM FAILURE, POOR BRAKE PERFORMANCE WITH THE ABS.  TT",
+        "vin": "1GNGK26KXNJ"
+    },
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "08/12/1995",
+        "dateOfIncident": "08/18/1994",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 483221,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "RIGHT FRONT SEAT BELT OCCASIONALLY TWISTS, CAUSING IT TO GET STUCK.",
+        "vin": "1GNEC16K0NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": true,
+        "dateComplaintFiled": "08/12/1995",
+        "dateOfIncident": "07/14/1995",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 483221,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ABS BRAKES FAILED, CAUSING ACCIDENT. *DSH",
+        "vin": "1GNEC16K0NJ"
+    },
+    {
+        "components": "EXTERIOR LIGHTING",
+        "crash": false,
+        "dateComplaintFiled": "08/12/1995",
+        "dateOfIncident": "08/18/1994",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 483221,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TURN SIGNALS OCCASIONALLY BLINK RAPIDLY DUE TO OPEN IN SWITCH CAUSED BY DAMAGED WIRING.",
+        "vin": "1GNEC16K0NJ"
+    },
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "08/12/1995",
+        "dateOfIncident": "08/18/1994",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 483221,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AIR CONDITIONER DOES NOT COOL WELL DUE TO AIR CONDITIONER BELT BEING ROUTED WRONG.",
+        "vin": "1GNEC16K0NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "07/13/1995",
+        "dateOfIncident": "06/01/1995",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 485956,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FRONT BRAKES OVERHEATED/SMOKED/FAILED.  *SKD",
+        "vin": "1GNFK16K6NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "07/07/1995",
+        "dateOfIncident": "07/07/1995",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 485940,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ANTILOCK BRAKES FAILED, CAUSING WHEELS TO LOCK. *SD",
+        "vin": ""
+    },
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "06/23/1995",
+        "dateOfIncident": "03/01/1992",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 967600,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE DRIVERS SIDE SHOULDER BELT DOES NOT RESTRAIN AND IS VERY LOOSE.   TT",
+        "vin": "2GCEK19K4N1"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "06/13/1995",
+        "dateOfIncident": "06/01/1995",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 966719,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "PE95-023 ACTIVE, ABS, BRAKE FAILURE OVER HEATING FRONT BRAKES CAUSING LOSS OF EFFECTIVENESS.  TT",
+        "vin": "1GNFK16K6NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "06/13/1995",
+        "dateOfIncident": "06/01/1995",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 966719,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FRONT BRAKES FAILED DUE TO OVERHEATING.  *AK",
+        "vin": "1GNFK16K6NJ"
+    },
+    {
+        "components": "SEAT BELTS",
+        "crash": true,
+        "dateComplaintFiled": "05/25/1995",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 965864,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DURING SIDE IMPACT, APPROX. 35MPH RIGHT FRONT, UPON IMPACT PASSENGER SHOULDER/LAP BELT FAIL TO RETRACT.  TT",
+        "vin": "1GKFK16K9NJ"
+    },
+    {
+        "components": "TRAILER HITCHES",
+        "crash": false,
+        "dateComplaintFiled": "05/09/1995",
+        "dateOfIncident": "05/03/1995",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 965006,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "HAVING PROBLEM WITH CRACKS IN THE HITCH OF THE SUBURBAN.  TT",
+        "vin": "1GNGK26N5NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "05/02/1995",
+        "dateOfIncident": "08/02/1992",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 964632,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "MODERATE TO LOW SPEED BRAKE PEDAL GOES TO THE FLOOR. NO RESPONSE FROM THE ANTI LOCK BRAKING SYSTEM.  TT",
+        "vin": "1GNFK16K5NJ"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "04/18/1995",
+        "dateOfIncident": "11/18/1993",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 963944,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE SURGES BETWEEN 30 TO 40 MPH LITTLE RESPONSE FROM BRAKES.  DIAGNOSIS DEFECTIVE PIECE IN STARTER MOTOR.  TT",
+        "vin": "1GNEC16K8NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "03/23/1995",
+        "dateOfIncident": "11/01/1993",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 962563,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVING IN WET WEATHER THE ABS ANTI-LOCK BRAKE SYSTEM FAIL .  TT",
+        "vin": ""
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "03/22/1995",
+        "dateOfIncident": "03/22/1995",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 962414,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENGINE IS RATTLING, EXCESSIVE NOISE, REPLACED ENGINE THREE TIMES.  TT",
+        "vin": "1GNEC16KXNJ"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "03/22/1995",
+        "dateOfIncident": "01/07/1993",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 962414,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ELECTRICAL SHORT CAUSED FUSE FOR REAR DEFOGGER/CLOCK/RADIO/COURTESY LIGHTS TO BLOW OUT.  *AK",
+        "vin": "1GNEC16KXNJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "03/22/1995",
+        "dateOfIncident": "03/21/1995",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 962414,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "REPLACED BRAKE MASTER CYLINDER.  *AK",
+        "vin": "1GNEC16KXNJ"
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "03/22/1995",
+        "dateOfIncident": "03/21/1995",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 962414,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NOISY DRIVESHAFT.   *AK",
+        "vin": "1GNEC16KXNJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "03/13/1995",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 961834,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ABS BRAKING SYSTEM ACTIVATES SOFT PEDAL PRESSURE OCCURS.  TT",
+        "vin": ""
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "03/13/1995",
+        "dateOfIncident": "02/03/1995",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 961942,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ABS ANTI-LOCK FAIL.  TT",
+        "vin": ""
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": true,
+        "dateComplaintFiled": "03/01/1995",
+        "dateOfIncident": "01/03/1995",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 481627,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ANTI-LOCK BRAKES FAILED TWICE, RESULTING IN LOSS OF CONTROL/ONE ACCIDENT.  *SKD",
+        "vin": "1GNSK16K5NJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": true,
+        "dateComplaintFiled": "02/10/1995",
+        "dateOfIncident": "01/03/1995",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 959938,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE ABS SYSTEM FAILED TWICE, ONCE RESULTING IN AN ACCIDENT/INJURY.   *AK",
+        "vin": "1GNSK16K5NJ"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "01/24/1995",
+        "dateOfIncident": "01/24/1995",
+        "fire": true,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 959101,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ALTERNATOR SEIZED AND CAUGHT FIRE UNDER THE HOOD DUE TO INADEQUATE SIZE BEARING AND FRICTION FROM BELT THAT IGNITED THE INTERNAL WIRING.  *AK",
+        "vin": "1GNEC16K9NJ"
+    }
+]

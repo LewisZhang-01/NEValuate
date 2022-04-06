@@ -1,0 +1,46 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "05/12/2010",
+        "dateOfIncident": "05/07/2010",
+        "fire": false,
+        "manufacturer": "Navistar, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10330078,
+        "products": [
+            {
+                "manufacturer": "Navistar, Inc.",
+                "productMake": "INTERNATIONAL",
+                "productModel": "CE",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2006 INTERNATIONAL CE BUS. WHILE DRIVING AT SPEEDS OF 50 MPH, THE VEHICLE STALLED. THE CONTACT MOVED THE VEHICLE FROM THE ROADWAY AND DISCOVERED A FUSE HAD FAILED. THE CONTACT REPLACED THE FUSE AND WHEN RESTARTING, THE VEHICLE RESUMED NORMAL OPERATION. THE VEHICLE WAS NOT TAKEN TO AN AUTHORIZED DEALER TO BE EXAMINED. THE FAILURE AND CURRENT MILEAGES WERE 35,000.",
+        "vin": "4DRBUAAN35B"
+    },
+    {
+        "components": "FUEL SYSTEM, DIESEL,ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "03/28/2009",
+        "dateOfIncident": "03/27/2009",
+        "fire": false,
+        "manufacturer": "Navistar, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10263320,
+        "products": [
+            {
+                "manufacturer": "Navistar, Inc.",
+                "productMake": "INTERNATIONAL",
+                "productModel": "CE",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUEL THERMOSTAT ON VT365 ENGINE LOCATED ON FUEL FILTER ASSEMBLY OVERHEATS, MELTING FUEL THERMOSTAT CASING.  FUEL LEAKS PAST ELEMENTS INTO CASING AND ALLOWS FUEL UNDER PRESSURE TO SPRAY OUT THE CRACKS AND/OR TWO SMALL HOLES IN EXTERNAL SIDE OF THERMOSTAT UNIT, COVERING ENGINE WITH DIESEL FUEL.  POTENTIAL FOR ENGINE FIRE.  THIS WAS NOTED ON TWO SEPARATE UNITS. *TR",
+        "vin": "4DRBUAFP86A"
+    }
+]

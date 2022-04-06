@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "01/18/2003",
+        "dateOfIncident": "01/15/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002891,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPEDITION",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "OIL LEAK FROM RH HEAD/BLOCK INTERFACE.  NUMBER OF COMPLAINTS AND TSB ABOUT THIS ISSUE INDICATE MANUFACTURING ASSYMBLY DEFECTS.  TSB NOTE \"CHIPS COULD BE PRESENT OR DIMPLES IN MATING SURFACE OF GASKET AREA\".  CUSTOMERS SHOULD NOT HAVE TO PAY FOR MANUFACTURING PROBLEMS THAT ARE NONE TO BE PRESENT.",
+        "vin": "1FMPU18L6XL"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "02/28/2014",
+        "dateOfIncident": "02/23/2014",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10566414,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "SATURN",
+                "productModel": "SL",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE STALLED FOR UNKNOWN REASON. NO CHECK-ENGINE LIGHT WENT ON, SO THE MECHANIC COULD NOT CHECK CODES.  *TR",
+        "vin": "1G8ZK5277WZ"
+    }
+]

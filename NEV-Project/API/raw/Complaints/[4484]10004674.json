@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES,WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "01/27/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004674,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "1991",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "GENERAL TIRE & RUBBER CO.",
+                "productMake": "GENERAL",
+                "productModel": "RADIAL TIRE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "CONSUMER  COMPLAINIED  ABOUT HAVING PROBLEMS WITH TIRES. STATED THAT TWO BACK TIRES BLEWOUT. TIRE SIZE  P235/75R15 FROM FIRESTONE WHICH WERE REPLACEMENTS FROM THE FIRESTONE TIRES THAT WERE RECALLED.MANUFACTURE WAS CONTACTED AND STATED THAT THERE WAS NOTHING THAT THEY COULD ABOUT IT.*AK",
+        "vin": "1FMCU22X5MU"
+    }
+]

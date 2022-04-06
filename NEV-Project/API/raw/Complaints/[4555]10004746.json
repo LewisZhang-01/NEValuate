@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "01/27/2003",
+        "dateOfIncident": "01/27/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004746,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "TRANS SPORT",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WINDSHIELD WIPER MOTOR WILL FAIL AND NOT PROPERLY OSCILLATE UNLESS WINDSHIELD IS VERY \"WET\".  PROBLEM OCCURS DURING LIGHT RAIN.*AK",
+        "vin": "1GMDU06L9RT"
+    }
+]

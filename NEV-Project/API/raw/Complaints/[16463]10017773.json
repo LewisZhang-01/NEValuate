@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "04/29/2003",
+        "dateOfIncident": "04/28/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10017773,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "JIMMY",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE WAS INVOLVED IN A FRONTAL COLLISION.  THE VEHICLE FLIPPED OVER AND LANDED ON ITS ROOF, AND NONE OF THE AIR BAGS DEPLOYED.   *NLM     PH   *JB",
+        "vin": "1GKDT13W312"
+    }
+]

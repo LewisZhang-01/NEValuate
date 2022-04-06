@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS,STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "04/25/2003",
+        "dateOfIncident": "04/24/2001",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10016510,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "BLAZER",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "LOAD NOISE COMING FROM REAR TAILGATE. SEAT BELT IN DRIVERS DOOR MAKING NOISE.           *JB",
+        "vin": "1GNCS18W41K"
+    }
+]

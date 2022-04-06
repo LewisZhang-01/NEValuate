@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "04/17/2003",
+        "dateOfIncident": "04/17/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10016065,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CORVETTE",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE DRIVER'S SEAT MOVED BACK AND FORTH WHEN THE BRAKES AND/OR GAS PEDAL WERE APPLIED.         *JB   ADJUSTER NEEDS TO BE REPLACED.    *TT",
+        "vin": "1G1YY22G0W5"
+    }
+]

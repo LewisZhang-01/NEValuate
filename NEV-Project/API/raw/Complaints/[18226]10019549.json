@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "10/27/2004",
+        "dateOfIncident": "05/08/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019549,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "OLDSMOBILE",
+                "productModel": "BRAVADA",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE WINDSHIELD WIPERS FAILED TO OPERATE, WHILE DRIVING IN THE RAIN.  *JB  WIPER MOTOR FAILED DUE TO A CRACKED WELD ON THE MOTOR.  *TC",
+        "vin": "1GHDT13W8W2"
+    }
+]

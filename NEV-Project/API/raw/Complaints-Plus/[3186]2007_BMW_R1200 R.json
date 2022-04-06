@@ -1,0 +1,112 @@
+[
+    {
+        "components": "FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "11/16/2017",
+        "dateOfIncident": "09/15/2017",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11046635,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "R1200 R",
+                "productYear": "2007",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVING ON THE HIGHWAY WITH FUEL INDICATOR SHOWING FULL TANK OF GAS. SUDDEN LOSS OF POWER DUE TO FUEL TANK RUNNING TO EMPTY ON ACCOUNT OF INCORRECT INDICATOR.",
+        "vin": "WB10398007Z"
+    },
+    {
+        "components": "FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "09/27/2017",
+        "dateOfIncident": "09/12/2017",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11030086,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "R1200 R",
+                "productYear": "2007",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "RIDING ON THE HIGHWAY (LEFT LANE) AT 65 MPH THE FUEL GAUGE SHOWED SLIGHTLY LESS THAN 1/4 TANK, THE COMPUTER SHOWED 50+ MILES OF GAS LEFT.  THE ENGINE QUIT AND I HAD TO SLOWLY DRIFT ACROSS 3 LANES OF TRAFFIC TO GET TO THE SHOULDER.  THE TANK WAS EMPTY.",
+        "vin": "WB10398087Z"
+    },
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "01/04/2014",
+        "dateOfIncident": "08/11/2013",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10558431,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "R1200 R",
+                "productYear": "2007",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKE FAILURE LIGHT CAME ON WHILE ON AN OUT OF STATE TRIP. AFTER GETTING HOME AND DOING SOME RESEARCH I HAVE FOUND THIS IS A PROBLEM CAUSED BY FAULTY BRUSHES IN THE ELECTRICAL MOTOR ON THE ABS PUMP. READING MANY ONLINE MOTORCYCLE FORUMS THIS APPEARS TO BE A KNOWN ISSUE ON ALL BMW R SERIES MOTORCYCLES.  *TR",
+        "vin": "WB10398017Z"
+    },
+    {
+        "components": "FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "03/03/2013",
+        "dateOfIncident": "02/25/2013",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10501125,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "R1200 R",
+                "productYear": "2007",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUEL GAUGE FAILED RESULTING IN RUNNING OUT OF FUEL WHEN AT SPEED ON A HIGHWAY, CREATING AN UNSAFE CONDITION. BEING STALLED ON A MOTORCYCLE IN THE MIDDLE OF HEAVY TRAFFIC IS UNSAFE. THIS HAS HAPPENED REPEATEDLY - THIS IS THE 6TH REPLACEMENT FUEL STRIP ON THIS MOTORCYCLE.  BMW CLAIMS THERE ISN'T A PROBLEM AND BLAMES US FUEL IF THERE IS A PROBLEM.  *TR",
+        "vin": "WB10398017Z"
+    },
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "02/14/2012",
+        "dateOfIncident": "12/05/2011",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10447943,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "R1200 R",
+                "productYear": "2007",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THIS IS THE WELL-KNOWN BMW MOTORCYCLE FUEL STRIP SENSOR PROBLEM.  THE GAS GAUGE SENSOR GOES DEFECTIVE AND WILL READ THAT YOU HAVE MORE GAS THAN YOU ACTUALLY DO, THUS RUNNING OUT OF GAS IN DANGEROUS SITUATIONS (FREEWAY, BAD PART OF CITIES, ETC.)  MANY, MANY BMW MOTORCYCLE OWNERS REPORT THIS, BUT IF BIKE IS OUT OF WARRANTY IT'S A $300 REPAIR ITEM THAT BMW WILL NOT HONOR.  *TR",
+        "vin": "WB10398077Z"
+    }
+]

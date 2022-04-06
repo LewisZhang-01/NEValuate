@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "03/10/2003",
+        "dateOfIncident": "02/15/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10011205,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "MUSTANG",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE MAKING A TURN, THE POWER RAIL UNDER  THE DRIVER SEAT  HAD BROKEN.  *JB  SCC",
+        "vin": "1FALP42T1RF"
+    }
+]

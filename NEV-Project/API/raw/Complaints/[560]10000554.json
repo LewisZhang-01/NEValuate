@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/06/2003",
+        "dateOfIncident": "12/31/2002",
+        "fire": false,
+        "manufacturer": "BOUNDER MOTORHOMES",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000554,
+        "products": [
+            {
+                "manufacturer": "BOUNDER MOTORHOMES",
+                "productMake": "BOUNDER",
+                "productModel": "MOTORHOME",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "MICHELIN TIRE CORP.",
+                "productMake": "MICHELIN",
+                "productModel": "RADIAL",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "MICHELIN 235-80R 22.5 WITH ONLY 16,000 MILES SIDE WALL BLOW OUT. I HAD ( 2 ) OF THESE TIRES TO BLOW OUT WITHIN 200 MILES OF EACH OTHER ON THE SAME TRIP.",
+        "vin": ""
+    }
+]

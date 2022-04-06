@@ -1,0 +1,46 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "02/22/1999",
+        "dateOfIncident": "10/01/1998",
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 835121,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "FLHTC",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "091. MOTORCYCLE  WOULD NOT START, THEN WHEN STARTED IT WOULD SHUT OFF. REPLACED SWITCH. NEW SWITCH ON RECALL. MFR CANNOT PROVIDE A REPLACEMENT SWITCH FOR FIVE MONTHS. VEHICLE CANNOT BE DRIVEN. PROVIDE FURTHER INFORMATION.  *AK",
+        "vin": "1HD1DJL14TY"
+    },
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "01/05/1998",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 527795,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "FLHTC",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ALL GAUGE PANELS FOG OVER MAKING READINGS IMPOSSIBLE.",
+        "vin": "1HD1DJL11TY"
+    }
+]

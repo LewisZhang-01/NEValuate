@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "04/09/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015516,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPEDITION",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN THE DRIVER ATTEMPTED TO AVOID AN ACCIDENT THE VEHICLE HIT A HIGHWAY WALL WHICH RESULTED IN THE DRIVERS SEAT BELT DISENGAGING.   *NLM",
+        "vin": ""
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,VEHICLE SPEED CONTROL,ELECTRONIC STABILITY CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "12/19/2016",
+        "dateOfIncident": "12/16/2016",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10936314,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "TRAVERSE",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CAR LOST POWER ON HIGHWAY DUE TO SERVICE STABILIZER MESSAGE.  THEN THE DEALERSHIP INFORMED ME THAT MY POWER STEERING WAS LEAKING AND NEEDS A 2400 REPAIR WHICH I SEE IS COVERED BY SERVICE BULLETIN SB-10052379-9767 BUT THEY SAY MY VIN NUMBER ISN'T COVERED.  *TR",
+        "vin": "1GNKVGKD6EJ"
+    }
+]

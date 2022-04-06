@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "06/03/2003",
+        "dateOfIncident": "07/11/2000",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020992,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "GRAND CHEROKEE",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "GAS GAUGE MALFUNCTIONS CONTINUOUSLY. PRESUMABLY FUEL SENDING UNIT FAILED AFTER ABOUT 2 YEARS.  GAUGE CONTINUOUSLY BOUNCES FROM \"FULL\" TO  \"EMPTY\" WITH THE WARNING BEEPER SOUNDING EACH TIME IT REACHES THE EMPTY MARK.  GAUGE IS COMPLETELY UNRELIABLE AND IS OF NO VALUE IN DETERMINING HOW MUCH GAS ACTUALLY REMAINS.   *NLM",
+        "vin": ""
+    }
+]

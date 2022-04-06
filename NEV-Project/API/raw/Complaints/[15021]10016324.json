@@ -1,0 +1,31 @@
+[
+    {
+        "components": "VEHICLE SPEED CONTROL,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "04/22/2003",
+        "dateOfIncident": "04/21/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10016324,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "TAHOE",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "DELCO ELECT. DIV., GM",
+                "productMake": "DELCO",
+                "productModel": "DELCO",
+                "productYear": "2003",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "CRUISE CONTROL DOES NOT WORK AFTER 3 DIFFERENT MODULES WERE REPLACED BY DEALER. WORKS INITIALLY BUT AFTER FEW DAYS STOPS FUNCTIONING. MAYBE ELECTRICAL PROBLEM SHORTING OUT CRUISE MODULE.  CHEVROLET NOT QUESTIONING 3 MODULES REPLACEMENTS IN 1 YEAR'S TIME.   *NLM",
+        "vin": "1GNEK13T6YJ"
+    }
+]

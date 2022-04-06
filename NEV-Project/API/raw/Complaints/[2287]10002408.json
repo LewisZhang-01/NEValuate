@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "01/09/2003",
+        "dateOfIncident": "12/02/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002408,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "MONTE CARLO",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE'S HORN IS UNSAFE, CONSUMER HAS TO APPLY EXCESSIVE FORCE TO THE HORN FOR IT TO WORK.  THE DEALERSHIP INDICATED THAT THIS PROBLEM IS CAUSED BY THE AIR BAG.  *NLM  *JG",
+        "vin": "2G1WX12K939"
+    }
+]

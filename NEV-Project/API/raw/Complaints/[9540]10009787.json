@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "03/04/2003",
+        "dateOfIncident": "03/03/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009787,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CADILLAC",
+                "productModel": "SEVILLE",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE GAS PEDAL WENT TO THE FLOOR WITHOUT WARNING AND THE CONSUMER WAS UNABLE TO STOP THE VEHICLE.  *NLM",
+        "vin": "1G6KS52B2PU"
+    }
+]

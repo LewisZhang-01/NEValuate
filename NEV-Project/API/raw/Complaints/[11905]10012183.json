@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "03/20/2003",
+        "dateOfIncident": "03/15/2003",
+        "fire": true,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10012183,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "OLDSMOBILE",
+                "productModel": "SILHOUETTE",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE WAS PARKED WHEN THE INTERIOR CAUGHT ON FIRE.  THE CONSUMER HAD PREVIOUSLY EXPERIENCED A PROBLEM WITH THE ELECTRICAL SYSTEM.  *NLM",
+        "vin": "1GHCU06D7MT"
+    }
+]

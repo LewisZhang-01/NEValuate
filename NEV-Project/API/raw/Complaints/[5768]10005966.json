@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "01/30/2003",
+        "dateOfIncident": "03/03/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005966,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "LESABRE",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE DRIVER'S SIDE SAFETY BELT DOES NOT FIT SECURELY AROUND LAP OR SHOULDER.  THE BELT ALSO DOES NOT LOCK.  IF BRAKE PEDAL IS DEPRESSED ABRUPTLY DOES NOT TIGHTEN.  THE BELT WAS  COMPLETELY REPLACED IN 09/02, BUT PROBLEM STILL EXISTS WITH NEW BELT.        TS",
+        "vin": "1G4HP54K12U"
+    }
+]

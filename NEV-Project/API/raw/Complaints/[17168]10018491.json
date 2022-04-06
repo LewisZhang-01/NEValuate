@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "05/10/2003",
+        "dateOfIncident": "05/03/2003",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018491,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "QUEST",
+                "productYear": "1999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "GENERAL TIRE & RUBBER CO.",
+                "productMake": "GENERAL",
+                "productModel": "RADIAL TIRE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "GENERAL AMERI GS 60 TIRE HAD TREAD SEPARATION ON THE HIGHWAY WHILE TRAVELING AT THE RECOMMEND SPEEDS OF 70 MILES AN HOUR.  THE TIRE THROUGH A LARGE CHUNK INTO THE CAR AND COULD HAVE LOST CONTROL OR WORSE.    *NLM",
+        "vin": "4N2XN11T2XD"
+    }
+]

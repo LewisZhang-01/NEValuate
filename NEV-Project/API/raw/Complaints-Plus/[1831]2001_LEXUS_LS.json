@@ -1,0 +1,46 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "06/12/2007",
+        "dateOfIncident": "06/12/2007",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10193079,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "LEXUS",
+                "productModel": "LS",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FAILURE OF LEXUS LS430 TRUNK STRUTS. TRUNK LID WILL NO LONGER REMAIN OPEN AND WILL OFTEN FALL ON MY HEAD WHILE PUTTING AND TAKING ITEMS OUT OF THE TRUNK.",
+        "vin": "JTHBN30F710"
+    },
+    {
+        "components": "LATCHES/LOCKS/LINKAGES",
+        "crash": false,
+        "dateComplaintFiled": "03/16/2007",
+        "dateOfIncident": "03/16/2007",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 2,
+        "odiNumber": 10185351,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "LEXUS",
+                "productModel": "LS",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE STRUTS (PISTONS) THAT ALLOW THE TRUNK LID TO OPEN AND CLOSE DO NOT HOLD THE TRUNK UP AND IT HAS SLAMMED SHUT NUMEROUS TIMES CAUSING MINOR BRUISES.",
+        "vin": ""
+    }
+]

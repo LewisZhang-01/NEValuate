@@ -1,0 +1,83 @@
+[
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "03/04/2008",
+        "dateOfIncident": "07/20/2003",
+        "fire": false,
+        "manufacturer": "Keystone RV Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10220052,
+        "products": [
+            {
+                "manufacturer": "Keystone RV Company",
+                "productMake": "KEYSTONE",
+                "productModel": "SPRINTER",
+                "productYear": "1998",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Dometic Corporation",
+                "productMake": "DOMETIC",
+                "productModel": "RM2652",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 1998 KEYSTONE SPRINTER FIFTH WHEEL.  THE CONTACT RECEIVED A RECALL NOTICE.  PRIOR TO RECEIVING THE NOTICE, THE CONTACT TOOK THE VEHICLE TO THE DEALER AND HAD THE FAILURE REPAIRED AT THE COST OF $1,000.  AFTER RECEIVING THE RECALL NOTICE, THE CONTACT CALLED THE DEALER REGARDING REIMBURSEMENT.  THE DEALER AGREED TO REIMBURSE THE CONTACT, BUT LATER DECLINED EVEN THOUGH HIS VEHICLE WAS INCLUDED IN THE RECALL.  THE RECALL NUMBER, FAILURE, AND VEHICLE INFORMATION WERE UNAVAILABLE.    UPDATED 3/19/08 *CN  THE CONSUMER STATED EVERYTHING WAS AVAILABLE TO DOMETIC AND REFUSE TO REIMBURSE CONSUMER ON RECALL. UPDATED 03/19/08  *TR",
+        "vin": "4YDF28026W1"
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/22/2005",
+        "dateOfIncident": "04/29/2004",
+        "fire": false,
+        "manufacturer": "Keystone RV Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10127913,
+        "products": [
+            {
+                "manufacturer": "Keystone RV Company",
+                "productMake": "KEYSTONE",
+                "productModel": "SPRINTER",
+                "productYear": "1998",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHILE DRIVING 45 MPH ONE OF THE TIRE TREAD SEPARATED FROM THE TRAVEL TRAILER THEN BLEWOUT, 1998 KEYSTONE SPRINTER TRAVEL TRAILER.  *NM    CONSUMER HAD THREE INCIDENTS WITH THE TIRE TREADS SEPARATING.  ALL THREE TIMES CONSUMER REPLACED THE TIRES WITH BRAND NEW TIRES AND INCIDENT STILL OCCURED WHEN IN USE.*SB",
+        "vin": "4YDT23528W1"
+    },
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "07/25/2000",
+        "dateOfIncident": "03/26/1999",
+        "fire": false,
+        "manufacturer": "Keystone RV Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 553193,
+        "products": [
+            {
+                "manufacturer": "Keystone RV Company",
+                "productMake": "KEYSTONE",
+                "productModel": "SPRINTER",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DEFECTIVE SUSPENSION CAUSED THE TRAILER TO SWAY WHILE BEING TOWED, RIGHT FRONT TIRE BLEWOUT AND CONSUMER LOST CONTROL OF THE ENTIRE UNIT SPUN SIDEWAYS AND OVERTURNED ONTO ROOF WITH TRAILER TURNED ON ITS LEFT SIDE.  NLM",
+        "vin": ""
+    }
+]

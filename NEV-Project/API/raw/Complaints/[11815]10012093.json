@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "03/19/2003",
+        "dateOfIncident": "03/08/2003",
+        "fire": false,
+        "manufacturer": "UNKNOWN MANUFACTURER",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10012093,
+        "products": [
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "1999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "STEELTEX R45",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE LEFT REAR INSIDE TIRE EXPERIENCED TREAD SEPARATION.  *JB  REMAINING TIRE DEPTH IS 11/32,\"  AND THE WEIGHT IS WELL WITHIN SPECIFICATIONS.  (DODGEN CLASSIC 26' 1999)  SCC",
+        "vin": "4055XHB7838"
+    }
+]

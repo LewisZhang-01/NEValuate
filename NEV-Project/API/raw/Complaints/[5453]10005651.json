@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "02/10/2003",
+        "dateOfIncident": "11/07/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005651,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "NAVIGATOR",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Continental Tire the Americas, LLC",
+                "productMake": "CONTITRAC AW",
+                "productModel": "P27560R17",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "MY TIRES WERE SUBJECT TO A VOLUNTARY RECALL AND WHEN TAKEN TO THE DEALER WERE FOUND TO BE DEFECTIVE. I WAS INFORMED BY THE DEALER THAT IT WOULD BE WEEKS BEFORE REPLACEMENT CONTINENTAL TIRES WOULD BE AVAILABLE SO I PURCHASE GOOD YEAR TIRES. I SUBMITTED ALL THE REQUIRED PAPER WORK FOR A REFUND AND THE BILL OF SALE SHOWS THE NEW TIRES WERE PURCHASED 10/4/02. I RECEIVED A REPLY FORM LETTER FROM CONTINENTAL WITH A BOX CHECKED THAT STATES; \"THE PURCHASE DATE OF THE RECEIPT YOU SUPPLIED DOES NOT QUALIFY. THE ONLY PREVIOUSLY PURCHASED TIRES ELIGIBLE FOR REIMBURSEMENT ARE THOSE TIRE(S) PURCHASED BETWEEN AUGUST 19, 2001 AND OCTOBER 10, 2002 AS STATED IN YOUR NOTIFICATION LETTER.\" I DO NOT UNDERSTAND WHY THEY CANNOT SEE WITH THEIR OWN EYES THE RECEIPT I SUPPLIED HAS A PURCHASE DATE OF 10/4/02 AND DOES QUALIFY.",
+        "vin": "5LMFU28R41L"
+    }
+]

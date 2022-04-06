@@ -1,0 +1,31 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "05/13/2003",
+        "dateOfIncident": "05/13/2003",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018605,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "CIVIC",
+                "productYear": "1993",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "WAGNER ELEC. BRAKE/CLUTCH",
+                "productMake": "WAGNER",
+                "productModel": "BRAKE/CLUTCH",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "1993 HONDA CIVIC LX STALLED WHILE IN MOTION.  THE FIRST INCIDENT OCCURRED WHEN THE ODOMETER READ ABOUT 100,000 MILES BACK IN 2000.  THE PROBLEM WAS PINPOINTED TO A FAULTY IGNITOR WHICH WAS PROMPTLY REPLACED.  LUCKILY NO ONE WAS INJURED NOR WAS THERE AN ACCIDENT.    RECENTLY IN MAY 13, 2003 THE SAME PART FAILED WITH THE ODOMETER READING 165,000 MILES.  OBVIOUSLY THIS IS A DESIGN FLAW.  THIS PART AND/OR DISTRIBUTOR PREMATURELY CAUSED SUCH FAILURE.  ASIDE FROM THIS VEHICLE, A 1993 HONDA ACCORD EX COUPE ALSO HAD THE SIMILAR PART REPLACED BEFORE THE ODOMETER REACHED 100,000 MILES.*JB",
+        "vin": "JHMEG865XPS"
+    }
+]

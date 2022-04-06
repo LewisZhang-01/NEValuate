@@ -1,0 +1,68 @@
+[
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "04/09/2018",
+        "dateOfIncident": "04/08/2018",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11084045,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "AUDI",
+                "productModel": "S4",
+                "productYear": "2018",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE'S PRE SENSE AUTO-BRAKING AND BRAKING ALERT JOLT HAS BEEN ACTIVATING ERRONEOUSLY AND HAVE ALMOST CAUSED ACCIDENTS AT SPEED.  THE SYSTEM CANNOT BE PERMANENTLY DISABLED, IT DEACTIVATES UPON IGNITION RESTART.  THE SYSTEM HAS ERRONEOUSLY AND AGGRESSIVELY JOLTED THE BREAKS ON SEVERAL OCCASIONS ON CURVES, ESPECIALLY WHEN CRESTING A HILL WITH VEHICLES PARKED ON THE DOWNWARD SLOAP.  CLEARLY, IT IS MISTAKEN THE PARKED VEHICLES FOR A POTENTIAL IMPACT, EITHER AGGRESSIVELY JOLTING THE BREAKERS AND/OR BREAKING.  THIS IS NOT ONLY VERY FRIGHTENING BUT ON A SLIPPERY SURFACE, WOULD HAVE CAUSED AN ACCIDENT.  THIS FEATURE ALSO ACTIVATED ON THE HIGHWAY AT 65+ MPH WHILE SAFELY CHANGING LANES, AND ALMOST LED TO MY VEHICLE BEING REAR-ENDED.  THERE SHOULD BE A WAY FOR A DRIVER TO PERMANENTLY DISABLE OR CUSTOMIZE THIS FEATURE TO BETTER ADAPT TO ENVIRONMENTAL AND/OR UNIQUE DRIVER CONDITIONS.  AS IS, THIS FEATURE HAS BEEN DANGEROUS!",
+        "vin": "WAUB4AF48JA"
+    },
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "02/15/2018",
+        "dateOfIncident": "02/14/2018",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11073046,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "AUDI",
+                "productModel": "S4",
+                "productYear": "2018",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THERE ARE TWO LARGE \"UNDERRIDE GUARD\" PANELS ON THE UNDERSIDE OF THE VEHICLE THAT ARE FASTENED BY SMALL, LOOSE-FITTING PLASTIC CLIPS. THERE IS ALSO FELT SOUND-DEADENING MATERIAL ON THE EXTERIOR SIDE OF THIS PANEL. WHEN THE VEHICLE IS DRIVEN IN RAIN OR SNOW, THE PANEL COLLECTS SNOW OR WATER UNDER NORMAL DRIVING CONDITIONS AND BREAKS FREE UNEXPECTEDLY, CAUSING THE PANEL TO CONTACT THE ROAD AND DRAG ON THE GROUND. THIS DRAGGING CAUSES A \"RUDDER EFFECT,\" PULLING THE VEHICLE RAPIDLY AND UNEXPECTEDLY IN AN UNPREDICTABLE DIRECTION. THE VEHICLE IS IN MOTION AT VARYING SPEEDS WHEN THIS OCCURS; IT HAS OCCURRED AT APPROXIMATELY 30 MILES PER HOUR, 40 MILES PER HOUR AND 65 MILES PER HOUR.",
+        "vin": "WAUB4AF41JA"
+    },
+    {
+        "components": "POWER TRAIN,VEHICLE SPEED CONTROL,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "11/28/2017",
+        "dateOfIncident": "11/14/2017",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11051028,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "AUDI",
+                "productModel": "S4",
+                "productYear": "2018",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN DRIVING IN MANUAL MODE AND TRANSITION FROM ON THE THROTTLE TO OFF-THROTTLE, THERE IS A 1-2 SECOND DELAY BEFORE THE ENGINE STOPS ACCELERATING AND TRANSITIONS TO DECELERATION.  ESPECIALLY IN FIRST GEAR, THIS MEANS THAT THE VEHICLE CONTINUES TO ACCELERATE FOR THAT PERIOD OF TIME.  I DROVE ANOTHER MODEL OF AUDI WITH THE SAME ENGINE/TRANSMISSION (2018 S5) AND IT EXHIBITS THE SAME BEHAVIOR.  SINCE THE CAR DOES NOT HAVE A PHYSICAL THROTTLE CABLE, THIS WOULD SEEM TO BE CAUSED BY THE THROTTLE NOT CLOSING AS COMMANDED BY THE ECU OR THERE BEING A DELAY IN THE THROTTLE BEING COMMANDED TO CLOSE.  THIS HAS NOT CAUSED A COLLISION BUT EASILY COULD.",
+        "vin": "WAUC4BF43JA"
+    }
+]

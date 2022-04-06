@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "04/08/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10015414,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "ACCORD",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE CONSUMER'S VEHICLE REAR ENDED ANOTHER MOTORIST AND THE AIR BAGS FAILED TO DEPLOY, THE CONSUMER WAS INJURED.  *JB",
+        "vin": "1HGCB7657NA"
+    }
+]

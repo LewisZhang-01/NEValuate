@@ -1,0 +1,68 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "11/22/2008",
+        "dateOfIncident": "05/10/1973",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10249563,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "MUSTANG",
+                "productYear": "1967",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FORD, 1967 MUSTANG,  SIX CYL AUTO TRANS.  WHILE I WAS STOPPED FOR A LIGHT,  THE CARBURETOR RETURN SPRING LET GO.  LUCKY FOR ME, I HAD MY FOOT ON THE BRAKE AND OFF THE GAS PEDAL AS I WAS STILL IN DRIVE.  I HEARD THE SPRING BOUNCE OFF THE FAN AND THE ENGINE SPEED UP. I SHUT OFF THE ENGINE, TOOK THE  SHIFT OUT OF DRIVE AND COASTED TO THE CURB.. I COULD NOT FIND ANY PART OF THE SPRING OR ANCHOR POINT.    I TOOK A SPRING OUT FROM UNDER THE PASSENGER SEAT AND USED THAT ARRANGEMENT FOR A NUMBER OF YEARS.  I STILL HAVE THE CAR IN THE GARAGE BUT HAVE NOT USED IT FOR ABOUT 30 YEARS.    AT THE TIME THERE WERE A NUMBER OF INCIDENTS WHERE THESE MUSTANGS SPED UP OUT OF CONTROL, WITH SERIOUS CONSEQUENCES.    FORD WOULD NOT OWN UP TO THE PROBLEM.  I HAD GONE TO FORD ASKING FOR REPLACEMENT PARTS, BUT NO RESPONSE.  I HAD WRITTEN TO NTSB A NUMBER OF YEARS AGO, BUT NO RESPONSE THERE EITHER.    STATUE OF LIMITATIONS HAS MOST LIKELY RUN OUT FOR REPARATIONS TO THE ACCIDENT VICTIMS.    OF COURSE THE PROBLEM WAS EVENTUALLY RECOGNIZED WITHOUT HONOR TO THE VICTIMS AND THE TENSION SPRINGS REPLACED BY A SERIES OF COMPRESSION SPRINGS ON LATER MODELS THEREAFTER.    NEVER HAVE RECEIVED A RECALL NOTICE BY FORD. *TR",
+        "vin": ""
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "01/08/1999",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 543296,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "MUSTANG",
+                "productYear": "1967",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKE DRUM INSTALLED IMPROPERLY CAUSING DAMAGE TO OTHER BRAKE COMPONENTS.",
+        "vin": ""
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "01/08/1999",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 543296,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "MUSTANG",
+                "productYear": "1967",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BROKEN BLEED VALVE STEM RESULTING IN LEAKAGE.",
+        "vin": ""
+    }
+]

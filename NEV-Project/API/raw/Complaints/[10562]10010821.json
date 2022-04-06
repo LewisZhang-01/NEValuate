@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": true,
+        "dateComplaintFiled": "03/21/2003",
+        "dateOfIncident": "03/01/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 2,
+        "odiNumber": 10010821,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "WINDSTAR",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "22575R15",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "TIRES WERE REPLACED WITH WRONG SIZE BY 2 SEPARATE DEALERS CAUSING TIRE SENSOR LIGHT TO BE ON . AFTER OVER 25 SERVICE VISITS PROBLEM DISCOVERED .DEALER SENT HOME WITH KNOWN SAFETY PROBLEM \"WOULD NOT CORRECT PROPERLY\" 4 DAYS LATER ACCIDENT RESULTED.  *NLM",
+        "vin": "2FMZA53401B"
+    }
+]

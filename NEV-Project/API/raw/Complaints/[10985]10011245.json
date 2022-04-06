@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "03/27/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10011245,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TAURUS",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING IN THE RAIN THE WINDSHIELD WIPERS MALFUNCTIONED.  THE WINDSHIELD WIPER MOTOR WAS REPLACED AND NOW THE WIPERS COME ON BY THEMSELVES.  *NLM   *NLM",
+        "vin": "1FAFP53S1XG"
+    }
+]

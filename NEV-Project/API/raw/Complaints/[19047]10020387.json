@@ -1,0 +1,31 @@
+[
+    {
+        "components": "CHILD SEAT",
+        "crash": false,
+        "dateComplaintFiled": "09/12/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "UNKNOWN MANUFACTURER",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020387,
+        "products": [
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN1",
+                "productYear": "9999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "COSCO, INC.",
+                "productMake": "COSCO",
+                "productModel": "CHILD SAFETY SEAT",
+                "productYear": "9999",
+                "type": "Child Seat"
+            }
+        ],
+        "summary": "THE CHEST CLIP BROKE ON THE CHILD SEAT.  COSCO CONVERTIBLE SEAT MODEL #02537MBP.   JB   THE TAB THAT SECURED THE CLIP HAD BROKEN OFF AT THE POINT OF ATTACHMENT DUE TO FLEXING WHICH OCCURRED DURING NORMAL USE THE MANUFACTURER SENT A NEW CLIP WITH A NEW DESIGN.   *SCC     *JB",
+        "vin": ""
+    }
+]

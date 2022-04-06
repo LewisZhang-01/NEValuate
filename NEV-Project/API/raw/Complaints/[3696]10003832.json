@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "01/14/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Mercedes-Benz USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003832,
+        "products": [
+            {
+                "manufacturer": "Mercedes-Benz USA, LLC",
+                "productMake": "MERCEDES BENZ",
+                "productModel": "300",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WITHOUT WARNING THE REAR BRAKE LIGHTS FAILED TO ILLUMINATE DUE TO A FAULTY BASE CIRCUIT. *JB   *TS",
+        "vin": "WDBJF25HXXA"
+    }
+]

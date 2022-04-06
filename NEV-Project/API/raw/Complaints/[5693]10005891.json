@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": true,
+        "dateComplaintFiled": "02/04/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 1,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005891,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "GMC",
+                "productYear": "9999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "GMC DESIGN FLAW CAUSED A FATALITY. *AK",
+        "vin": ""
+    }
+]

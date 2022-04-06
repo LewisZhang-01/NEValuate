@@ -1,0 +1,46 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "12/19/2002",
+        "dateOfIncident": "12/02/2002",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001226,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "AUDI",
+                "productModel": "A6",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING THE CHECK LIGHT CAME ON AND STARTED BLINKING.  THE DEALERSHIP INDICATED THAT CONSUMER SHOULD STOP DRIVING VEHICLE IMMEDIATELY AND HAVE IT TOWED.  THE ENGINE COLD PACK WAS FAULTY. PLEASE PROVIDE MORE DETAILS. TS",
+        "vin": "WAULT64B52N"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "09/27/2000",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 871607,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "AUDI",
+                "productModel": "A6",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN DRIVING ON  HIGHWAY AT HIGH SPEEDS  AND MAKING SUDDEN STOPS  VEHICLE  WILL COMPLETELY SHUTDOWN, AND AFTER 60 SECONDS RETURN TO NORMAL CONDITIONS. PLEASE GIVE ANY FURTHER DETAILS.*AK",
+        "vin": ""
+    }
+]

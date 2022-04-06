@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "06/06/2003",
+        "dateOfIncident": "01/19/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021148,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "EAGLE",
+                "productModel": "VISION",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUEL LEAK AT PLASTIC FUEL INJECTOR RAIL (SEATS FUEL INJECTOR) WHICH CAN RESULT IN POSSIBLE ENGINE FIRE. *AK",
+        "vin": "2E3ED66F6RH"
+    }
+]

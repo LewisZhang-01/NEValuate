@@ -1,0 +1,32 @@
+[
+    {
+        "components": "POWER TRAIN,TIRES",
+        "crash": false,
+        "dateComplaintFiled": "02/04/2003",
+        "dateOfIncident": "07/08/2002",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005247,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "LIBERTY",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "EAGLE TIRE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "PURCHASED 4/02 AND BY 7/02 WITH APPROX. 6,000K EXPERIENCED HARD DOWNSHIFTING WHEN STOPPING AS WELL AS BETWEEN GEARS.  DEALER SERVICE \"REMOVED BURRS FROM DRIVESHAFT\".  RETURNED FOR SERVICE 8/02 WITH SAME PROBLEM.  AGAIN \"REMOVED BURRS FROM DRIVESHAFT\".  ON 3RD VISIT IN 9/02 I WAS TOLD THEY COULDN'T REPAIR ANYTHING AND THAT\" THE VEHICLE HAD A PROGRAMMABLE TRANSMISSION AND IT'S MEMORY WAS LIKELY RESPONDING TO A PREVIOUS SIMILAR DRIVING SESSION\"...HENCE THE GEAR SLAMMING!  RETURNED 4TH TIME 2 WEEKS LATER AND THIS TIME WAS TOLD THERE WERE NO RECALLS ON THE COMPLAINT AND THE DEALER WOULD FILE A COMPLAINT ON MY BEHALF TO DAIMLER/CHRYSLER AND I'D BE CONTACTED WHEN THEY HEARD SOMETHING.  I HAVE NOT HEARD FROM ANYONE EVEN AFTER SENDING MY OWN COMPLAINT LETTER TO D/C IN 11/02.  HAVE ALSO EXPERIENCED MANY INCIDENTS OF REAR TIRES SLIPPING AND FISHTAILING IN VARIOUS ROAD/WEATHER CONDITIONS AS WELL AS CONSTANT RIGHT PULL AND HAVE TO FIGHT STEERING WHEEL TO DRIVE STRAIGHT.",
+        "vin": "1J8GL58K62W"
+    }
+]

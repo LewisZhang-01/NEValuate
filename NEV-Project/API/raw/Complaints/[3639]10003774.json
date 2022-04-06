@@ -1,0 +1,32 @@
+[
+    {
+        "components": "STRUCTURE,TIRES,INTERIOR LIGHTING",
+        "crash": false,
+        "dateComplaintFiled": "01/28/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Volvo Car USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003774,
+        "products": [
+            {
+                "manufacturer": "Volvo Car USA, LLC",
+                "productMake": "VOLVO",
+                "productModel": "V70",
+                "productYear": "1998",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "MICHELIN TIRE CORP.",
+                "productMake": "MICHELIN",
+                "productModel": "MICHELIN",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE CONSUMER HAS EXPERIENCED THE FOLLOWING:  DEFECTIVE TIRES PER DEALER, LIGHTING, AND THE FRONT RIGHT PASSENGER SIDE DOOR LOCK-INOP(CONTINUOUS).  SCC",
+        "vin": "YV1LW5570W2"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "09/07/2005",
+        "dateOfIncident": "04/01/2005",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10135714,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "UNWANTED ANTI-LOCK BRAKE SYSTEM ACTIVATION DURING LOW-SPEED BRAKE APPLICATION THAT STARTED IN APRIL OF 2005.  *JB",
+        "vin": "2GCEK19T5X1"
+    }
+]

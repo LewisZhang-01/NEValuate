@@ -1,0 +1,46 @@
+[
+    {
+        "components": "SUSPENSION,STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "06/01/2013",
+        "dateOfIncident": "05/01/2013",
+        "fire": false,
+        "manufacturer": "POLARIS INDUSTRIES, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10514613,
+        "products": [
+            {
+                "manufacturer": "POLARIS INDUSTRIES, INC.",
+                "productMake": "POLARIS",
+                "productModel": "SPORTSMAN 850XP",
+                "productYear": "2010",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CRACKED WELDS ON MY A-ARMS.  *TR",
+        "vin": ""
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "01/04/2012",
+        "dateOfIncident": "12/27/2011",
+        "fire": false,
+        "manufacturer": "POLARIS INDUSTRIES, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10442319,
+        "products": [
+            {
+                "manufacturer": "POLARIS INDUSTRIES, INC.",
+                "productMake": "POLARIS",
+                "productModel": "SPORTSMAN 850XP",
+                "productYear": "2010",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONDENSATION FROZE IN A BREATHE LINE AND CREATED PRESSURE IN THE CRANK CASE AND BLEW OUT THE WELCH PLUG.  *TR",
+        "vin": "4XAZN85A9AA"
+    }
+]

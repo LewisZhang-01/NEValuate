@@ -1,0 +1,31 @@
+[
+    {
+        "components": "CHILD SEAT",
+        "crash": false,
+        "dateComplaintFiled": "06/27/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "UNKNOWN MANUFACTURER",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022013,
+        "products": [
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN1",
+                "productYear": "9999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Britax Child Safety, Inc.",
+                "productMake": "BRITAX",
+                "productModel": "161 (ROUNDABOUT)",
+                "productYear": "9999",
+                "type": "Child Seat"
+            }
+        ],
+        "summary": "THE SEAT WAS NOT EQUIPPED WITH A LATCH SYSTEM.  THE VEHICLE DID NOT HAVE A DEVISE FOR TETHERING.  THE SEAT WAS FASTENED WITH THE SHOULDER BELT.  THE SEAT LURCHED FORWARD WHILE GOING UP A STEEP HILL.  THE SEAT WOULD NOT LOCK INTO PLACE IN EITHER RECLINE OR UPRIGHT POSITION.  THE MANAGER FOUND A MISSING PIECE OF THE ROD THAT APPEARED TO HOLD IN PLACE.  *AK  *SCC   *JB",
+        "vin": "9999"
+    }
+]

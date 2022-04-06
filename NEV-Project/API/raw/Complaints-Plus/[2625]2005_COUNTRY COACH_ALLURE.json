@@ -1,0 +1,32 @@
+[
+    {
+        "components": "SUSPENSION,STRUCTURE,TIRES",
+        "crash": false,
+        "dateComplaintFiled": "11/06/2007",
+        "dateOfIncident": "10/02/2007",
+        "fire": false,
+        "manufacturer": "COUNTRY COACH INC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10208093,
+        "products": [
+            {
+                "manufacturer": "COUNTRY COACH INC",
+                "productMake": "COUNTRY COACH",
+                "productModel": "ALLURE",
+                "productYear": "2005",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Toyo Tire Holdings of Americas, Inc.",
+                "productMake": "TOYO",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "HIT A POTHOLE AT APPROX 45-50 MPH...FRONT/RIGHT SHOCK FAILED..AFTER REACHING REPAIR FACILITY WE DISCOVERED THE ENTIRE FRONT END (NEW HOLLAND) HAD BEEN COMPROMISED....BENT AND CRACKED  HOW COULD A POTHOLE CAUSE THIS TYPE OF DAMAGE UNLESS THERE WAS AN INHERENT WEAKNESS WITHIN THE STRUCTURE?  *TR",
+        "vin": ""
+    }
+]

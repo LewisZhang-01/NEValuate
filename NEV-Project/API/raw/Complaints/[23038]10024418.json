@@ -1,0 +1,24 @@
+[
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "06/19/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10024418,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "ACCORD",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE WAS TAKING IN FOR A RECALL, UPON PICKING UP VEHICLE CONSUMER NOTICED THAT THE ALARM WAS NOT WORKING.  DEALER REFUSED TO RECONNECT ALARM AFTER RECALL WAS PERFORMED.*AK",
+        "vin": ""
+    }
+]

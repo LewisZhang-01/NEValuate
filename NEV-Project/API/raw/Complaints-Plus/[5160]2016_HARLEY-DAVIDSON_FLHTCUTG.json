@@ -1,0 +1,46 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "09/09/2019",
+        "dateOfIncident": "08/01/2019",
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11254218,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "FLHTCUTG",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2016 HARLEY-DAVIDSON FLHTCUTG TRI GLIDE UTRA MOTORCYCLE. WHILE OPERATING THE MOTORCYCLE, THE HORN RANDOMLY MALFUNCTIONED. AFTER REPEATED USE, THE HORN SOUND SUDDENLY BECAME MUTED BEFORE EVENTUALLY BECOMING SILENT. MOMENTS LATER, THE HORN OPERATED NORMALLY. THE MOTORCYCLE WAS TAKEN TO LAKE ERIE HARLEY-DAVIDSON (38401 CHESTER RD, AVON, OH), BUT THE FAILURE COULD NOT BE DUPLICATED. THE MANUFACTURER WAS ALSO NOTIFIED OF THE FAILURE. THE VEHICLE WAS NOT DIAGNOSED OR REPAIRED. THE FAILURE MILEAGE WAS 13,500.",
+        "vin": "1HD1MAL11GB"
+    },
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "07/20/2016",
+        "dateOfIncident": "04/14/2016",
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10886225,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "FLHTCUTG",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THERE IS A CONTINUOUS TAPPING NOISE COMING FROM THE MOTOR.  IT STARTS AS SOON AS THE ENGINE IS STARTED AND LASTS APPROXIMATELY 2 MILES WHILE RIDING.  IT SOUNDS TO BE THE LIFTERS.  THE MOTORCYCLE WAS TAKEN TO THE LOCAL DEALER ON NUMEROUS OCCASIONS FOR THE SAME COMPLAINT WITHOUT IT BEING FIXED.  THE DEALER ADVISED THEY CONTACTED HARLEY-DAVIDSON TECH SERVICE BUT THERE SEEMS TO BE NO \"FIX\" TO THE PROBLEM.",
+        "vin": "1HD1MAL10GB"
+    }
+]

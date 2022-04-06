@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "04/18/2019",
+        "dateOfIncident": "02/21/2019",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11197160,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "E-350",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SEVERE OVERSTEER, SWAYING AND STABILITY AT 55MPH.  THIS IS A CLASS C RV ON A FORD E350 CHASSIS.  IN SHORT, THE RV IS ABSOLUTELY DANGEROUS TO DRIVE WITHOUT A SUSPENSION UPGRADE.",
+        "vin": "1FDWE3FS8KD"
+    }
+]

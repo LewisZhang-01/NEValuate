@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "04/29/2003",
+        "dateOfIncident": "11/29/2001",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10016721,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "CIVIC",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DISTRIBUTOR CAP BEARING FAILURE RESULTED IN DISTRIBUTOR CAP / ROTOR WELDED TOGETHER, ENGINE STALLED WHILE DRIVING.  *NLM",
+        "vin": "2HGEH2461PH"
+    }
+]

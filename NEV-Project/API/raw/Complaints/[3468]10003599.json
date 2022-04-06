@@ -1,0 +1,32 @@
+[
+    {
+        "components": "POWER TRAIN,TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/29/2003",
+        "dateOfIncident": "01/20/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003599,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "TAHOE",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Bridgestone Americas Tire Operations",
+                "productMake": "FIRESTONE",
+                "productModel": "P26570R16",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THERE SEEMS TO BE A PROBLEM WITH MY TRANSFER CASE FOR THE 4 WHEEL DRIVE. 4 WHEEL DRIVE DOES NOT WANT TO ENGAGE WHEN IT IS PRESSED.",
+        "vin": ""
+    }
+]

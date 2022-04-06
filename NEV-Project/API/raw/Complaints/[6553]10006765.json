@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "02/07/2003",
+        "dateOfIncident": "02/22/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10006765,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "CAMRY",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER  HIT A STOPPED VEHICLE, NONE OF THE VEHICLES AIRBAGS DEPLOYED. AS A RESULT DRIVER WAS INJURED. PLEASE PROVIDE ANY FURTHER INFORMATION.        PH",
+        "vin": "4T1BF30K92U"
+    }
+]

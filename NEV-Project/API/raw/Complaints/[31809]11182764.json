@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,EXTERIOR LIGHTING,ELECTRONIC STABILITY CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "02/27/2019",
+        "dateOfIncident": "02/27/2019",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11182764,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING ON A BUSY STREET THE CAR MADE A SOUND WITH THE WORDS 'ENGINE FAULT: ...'  THE CARS ELECTRICAL FUNCTIONS WENT HAYWIRE WITHIN A MINUTE OF THE FIRST WARNING AND THE CAR DIED.",
+        "vin": "1FADP3K25EL"
+    }
+]

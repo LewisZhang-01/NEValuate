@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN,VEHICLE SPEED CONTROL,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "11/02/2013",
+        "dateOfIncident": "07/01/2012",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10550614,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2012",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE VIBRATES WHEN TRYING TO ACCELARATE FROM A COMPLETE STOP. HESITATES AND DOES NOT WANT TO ACCELARATE. APPEARS TO NOT WANT TO SHIFT GEARS. DOES THE SAME THING AT LOW SPEEDS AS WELL.  *TR",
+        "vin": "1FAHP3K29CL"
+    }
+]

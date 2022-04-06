@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "01/23/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003847,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "GRAND CARAVAN",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE CONSUMER STATES THE DRIVER'S SIDE DOOR HAS A DEFECTIVE HINGE, THAT CAUSES THE LATCH/LOCK TO BE COME INOPERATIVE.  THE DOOR WILL NOT SHUT AND WILL OPEN WHILE DRIVING.  (THE DOOR IS CRACKING AT THE HINGE AND IS BEGINNING TO DETERIORATE)  SCC",
+        "vin": "1B4GH2430SX"
+    }
+]

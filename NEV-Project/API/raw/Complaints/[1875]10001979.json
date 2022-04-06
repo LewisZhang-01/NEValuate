@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "01/03/2003",
+        "dateOfIncident": "12/30/2002",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001979,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "ECHO",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER WAS INVOLVED IN A HEAD-ON COLLISION TRAVELING APPROXIMATELY 40MPH.  BOTH DRIVER AND PASSENGER AIR BAGS DID NOT DEPLOY. TS *JG",
+        "vin": "JTDBT123XY0"
+    }
+]

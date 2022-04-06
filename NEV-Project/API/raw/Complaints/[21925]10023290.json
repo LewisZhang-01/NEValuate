@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "06/18/2003",
+        "dateOfIncident": "06/16/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10023290,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "ASTRO",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "RIGHT TORSION BAR FAILED. HAD TO REPLACE BOTH BARS SINCE GM REDESIGNED THEM. COST $725. POWER STEERING SEEMS TO BE AFFECTED, BUT MECHANIC COULD NOT PIN POINT PROBLEM.    *NLM",
+        "vin": ""
+    }
+]

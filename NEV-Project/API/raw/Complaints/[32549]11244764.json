@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "08/18/2019",
+        "dateOfIncident": "08/18/2019",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11244764,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "PACIFICA",
+                "productYear": "2017",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN PARKED, THE CAR WOULD NOT INITIALLY \"PUSH TO START\" AND WHEN IT DID START IT DISPLAYED ERRORS TO \"SERVICE SHIFTER, \" \"SERVICE PARKING BRAKE, \" \"PARKING BREAK UNAVAILABLE.\" VEHICLE WAS PARKED IN GARAGE.",
+        "vin": "2C4RC1EG4HR"
+    }
+]

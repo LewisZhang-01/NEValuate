@@ -1,0 +1,46 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "02/21/1995",
+        "dateOfIncident": "09/30/1994",
+        "fire": false,
+        "manufacturer": "NU-WAY INDUSTRIES, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 960263,
+        "products": [
+            {
+                "manufacturer": "NU-WAY INDUSTRIES, INC.",
+                "productMake": "NU-WAY",
+                "productModel": "TRAILER",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "U BOLTS PULLED LOOSE FROM THE TANDOM AXLE.  TT",
+        "vin": "1NW32CRO8RA"
+    },
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "10/05/1994",
+        "dateOfIncident": "10/05/1994",
+        "fire": false,
+        "manufacturer": "NU-WAY INDUSTRIES, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 474060,
+        "products": [
+            {
+                "manufacturer": "NU-WAY INDUSTRIES, INC.",
+                "productMake": "NU-WAY",
+                "productModel": "TRAILER",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TRAILER WEAVES WHEN ON HIGHWAY.  *TW",
+        "vin": "1NW32LR01RC"
+    }
+]

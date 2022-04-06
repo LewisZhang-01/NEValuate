@@ -1,0 +1,98 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,STRUCTURE,FUEL/PROPULSION SYSTEM",
+        "crash": true,
+        "dateComplaintFiled": "12/26/2016",
+        "dateOfIncident": "12/13/1975",
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 1,
+        "numberOfInjuries": 0,
+        "odiNumber": 10937513,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "MUSTANG",
+                "productYear": "1965",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "1965 FORD MUSTANG STALLED DURING RAINY EVENING AND CAME TO A STOP. VEHICLE WAS THEN HIT FROM BEHIND BY ANOTHER VEHICLE. THE MUSTANG EXPLODED AND INCINERATED THE DRIVER.",
+        "vin": ""
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "07/10/2003",
+        "dateOfIncident": "05/31/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022583,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "MUSTANG",
+                "productYear": "1965",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "MICHELIN TIRE CORP.",
+                "productMake": "MICHELIN",
+                "productModel": "MICHELIN",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "VEHICLE WAS PARKED, THE OWNER HEARD A BIG \"BANG\" NOISE COMING  FROM THE CAR.  A MICHELIN  REGAL SPORT TIRE BLEWOUT WITH  OUT ANY REASON.   *AK  THE CONSUMER DISCOVERED THE DRIVER'S SIDE FRONT TIRE EXPERIENCED A BLOW OUT.  (TIRE MODEL/REGAL SPORT CHALLENGER)   *SCC   *JB",
+        "vin": "SF07A362335"
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "10/05/2000",
+        "dateOfIncident": "08/01/1998",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 733514,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "MUSTANG",
+                "productYear": "1965",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TIRE ONLY HAD 5-6000 MILES USE, ENTIRE TRED AREA DETACHED AS DONUT WRAPPED AROUND AXLE AND DAMAGED FENDER .*AK (TIRESIZE: P185/75SR1)( DOT NUMBER:   TIRE SIZE: P185/75SR1 )",
+        "vin": "5R08A203647"
+    },
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "07/16/1998",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 538398,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "MUSTANG",
+                "productYear": "1965",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "OWNER CONCERNED THAT FUEL TANK WILL RUPTURE IN A REAR END COLLISION AND RESULT IN A FIRE.",
+        "vin": "5RO7C219764"
+    }
+]

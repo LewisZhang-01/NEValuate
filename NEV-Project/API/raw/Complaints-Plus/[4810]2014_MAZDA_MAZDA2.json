@@ -1,0 +1,134 @@
+[
+    {
+        "components": "STEERING,SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "09/10/2021",
+        "dateOfIncident": "07/01/2021",
+        "fire": false,
+        "manufacturer": "Mazda Motor Corp.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11432440,
+        "products": [
+            {
+                "manufacturer": "Mazda Motor Corp.",
+                "productMake": "MAZDA",
+                "productModel": "MAZDA2",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The steering was making loud knocking noises at low-speed turns. When looked up Mazda2 issues, found that there was a recall for Steering, Recall no. 16V203000, dated 2016-04-10,  states: If the steering knuckle separates from the strut assembly, it can cause a loss of steering control, increasing the risk of a crash. When the dealership looked up my VIN, it was not a serial number listed under the recall list. However, it had the same issues as the recall. These issues were listed as \"requires immediate attention.\" The Steering rack and pinion, and also the front struts with bearing mounts have all been replaced by the dealership and an alignment was performed. I had to pay for this safety issue out of pocket because my VIN was not listed under the recall list. I would like to report this VIN under the recall list and request a refund for the work performed.",
+        "vin": "JM1DE1KY7E0"
+    },
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": true,
+        "dateComplaintFiled": "07/21/2020",
+        "dateOfIncident": "05/23/2020",
+        "fire": false,
+        "manufacturer": "Mazda Motor Corp.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11340631,
+        "products": [
+            {
+                "manufacturer": "Mazda Motor Corp.",
+                "productMake": "MAZDA",
+                "productModel": "MAZDA2",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I WAS TURNING LEFT ON A PROTECTED GREEN ARROW WHEN A TRUCK ON THE LEFT LANE SPED UP AND I NOTICED T MERGED AND I WOULD GET HIT I TRIED TO GO OFF TO THE SIDE OF THE ROAD BUT THE STEERING WHEEL WAS STIFF AND WHEN I PRESSED ON THE GAS IT DID NOT MOVE THEN IT JERKED ME FORWARD.",
+        "vin": "JM1DE1KY5E0"
+    },
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "12/21/2018",
+        "dateOfIncident": "08/12/2017",
+        "fire": false,
+        "manufacturer": "Mazda Motor Corp.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 11162948,
+        "products": [
+            {
+                "manufacturer": "Mazda Motor Corp.",
+                "productMake": "MAZDA",
+                "productModel": "MAZDA2",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNED A 2014 MAZDA 2. WHILE DRIVING AT AN UNKNOWN SPEED IN REVERSE, THE CONTACT STRUCK AN EMBANKMENT AND THE VEHICLE FLIPPED OVER. THE AIR BAGS DID NOT DEPLOY. THE CONTACT SUSTAINED A CHEST INJURY THAT REQUIRED MEDICAL ATTENTION. A POLICE REPORT WAS FILED. THE VEHICLE WAS TOWED TO A TOW YARD. THE VEHICLE WAS NOT TAKEN TO A DEALER TO BE DIAGNOSED OR REPAIRED AS THE INSURANCE COMPANY DEEMED THE VEHICLE A TOTAL LOSS. THE MANUFACTURER WAS NOTIFIED OF THE FAILURE. THE FAILURE MILEAGE WAS APPROXIMATELY 9,700. THE VIN WAS NOT AVAILABLE.",
+        "vin": ""
+    },
+    {
+        "components": "SUSPENSION,POWER TRAIN",
+        "crash": true,
+        "dateComplaintFiled": "10/27/2015",
+        "dateOfIncident": "10/01/2015",
+        "fire": false,
+        "manufacturer": "Mazda Motor Corp.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10763630,
+        "products": [
+            {
+                "manufacturer": "Mazda Motor Corp.",
+                "productMake": "MAZDA",
+                "productModel": "MAZDA2",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2014 MAZDA 2.  CONSUMER WRITES IN REGARDS TO VEHICLE STEERING SYSTEM ISSUES.  *SMD  THE CONSUMER STATED THE RIGHT AXLE BROKE WHICH CAUSED HIM TO LOOSE CONTROL OF THE VEHICLE. CONSEQUENTLY, HE HIT ANOTHER VEHICLE.  THE VEHICLE WAS TOTALED. *JB",
+        "vin": "JM1DE1KY1E0"
+    },
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "08/15/2015",
+        "dateOfIncident": "01/01/2015",
+        "fire": false,
+        "manufacturer": "Mazda Motor Corp.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10748876,
+        "products": [
+            {
+                "manufacturer": "Mazda Motor Corp.",
+                "productMake": "MAZDA",
+                "productModel": "MAZDA2",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THERE WAS/IS NO INFORMATION ON THE DOOR OR IN THE OWNERS MANUAL TO INDICATE TIRE PRESSURE FOR THIS VEHICLE. HAD TO OBTAIN INFORMATION FROM THE DEALER.",
+        "vin": ""
+    },
+    {
+        "components": "EQUIPMENT ADAPTIVE/MOBILITY",
+        "crash": false,
+        "dateComplaintFiled": "09/06/2014",
+        "dateOfIncident": "09/06/2014",
+        "fire": false,
+        "manufacturer": "Mazda Motor Corp.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10631296,
+        "products": [
+            {
+                "manufacturer": "Mazda Motor Corp.",
+                "productMake": "MAZDA",
+                "productModel": "MAZDA2",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TIRE PRESSURE MONITORING SYSTEM DID NOT ALERT ME TO MY FRONT LEFT TIRE THAT WAS BLOWING OUT.   *TR",
+        "vin": "JM1DE1KZ9E0"
+    }
+]

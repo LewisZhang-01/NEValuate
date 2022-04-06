@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "05/28/2003",
+        "dateOfIncident": "05/25/2003",
+        "fire": true,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021671,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "INTREPID",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE CAUGHT FIRE IN FROM THE IGNITION SWITCH WITHOUT WARNING.   *TT",
+        "vin": "3B7HC13Y9SG"
+    }
+]

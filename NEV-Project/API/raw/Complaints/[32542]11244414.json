@@ -1,0 +1,24 @@
+[
+    {
+        "components": "WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "08/16/2019",
+        "dateOfIncident": "08/16/2019",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11244414,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CORVETTE",
+                "productYear": "2017",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CRACKED RIM ON 2017 CORVETTE GRAND SPORT",
+        "vin": "1G1YX3D76H5"
+    }
+]

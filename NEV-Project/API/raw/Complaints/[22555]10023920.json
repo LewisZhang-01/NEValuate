@@ -1,0 +1,24 @@
+[
+    {
+        "components": "WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "06/28/2003",
+        "dateOfIncident": "06/27/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10023920,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "300M",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SEVERE CORROSION ON BEAD AREA OF CHROME RIM, RESULTING IN A \"SLOW LEAK\"  (1-2 PSI DAILY).   *NLM",
+        "vin": "2C3HE66GXYH"
+    }
+]

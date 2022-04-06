@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "05/22/2003",
+        "dateOfIncident": "05/21/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019120,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-250 SD",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "STEELTEX RADIAL TIRE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "45000 MI. ON A SET OF FIRESTONE STEELTEX RADIAL TIRES, 265/75R16LT. INFLATION WAS CHECKED REGULARLY, TIRES BALANCED AND ROTATED AT REGULAR INTERVALS. EXPERIENCED UNEVEN TREAD WEAR AND A 8\" X 2\" TREAD SEPARATION ON OUTSIDE TREAD SHOULDER.  *NLM",
+        "vin": ""
+    }
+]

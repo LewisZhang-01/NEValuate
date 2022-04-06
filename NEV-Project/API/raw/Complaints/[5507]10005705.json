@@ -1,0 +1,31 @@
+[
+    {
+        "components": "POWER TRAIN,STRUCTURE,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "02/11/2003",
+        "dateOfIncident": "01/07/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005705,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "PLYMOUTH",
+                "productModel": "VOYAGER",
+                "productYear": "1992",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "PLYMOUTH",
+                "productModel": "C BODY",
+                "productYear": "1969",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "AXLE WAS REPLACED 3 TIMES-NOW IT'S MAKING NOISE AGAIN.  TECHNICIAN CHECKED AND FOUND TRANS/ DIFFERENTIAL PROBLEM. LOOSENESS IN DIFFERENTIAL SECTION OF TRANS CAUSED PROBLEM W/AXLE.  ALSO RECOMMEND REPLACING TRANSMISSION AND MOTOR MOUNTS. TOO MUCH PLAY IS CAUSING STRESS ON AXLE.   *NLM",
+        "vin": "1P4GH54R0NX"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "09/24/2003",
+        "dateOfIncident": "09/15/2003",
+        "fire": false,
+        "manufacturer": "J&J SALES, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10040518,
+        "products": [
+            {
+                "manufacturer": "J&J SALES, INC.",
+                "productMake": "MONTO",
+                "productModel": "AVANTI",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "ARRIVA TIRE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHILE DRIVING  LEFT FRONT TIRE BLEW OUT WITHOUT WARNING. DEALER NOTIFIED. *AK",
+        "vin": ""
+    }
+]

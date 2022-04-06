@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "02/19/2016",
+        "dateOfIncident": "02/01/2016",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10837214,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "RAM 1500",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Cooper Tire & Rubber Co.",
+                "productMake": "COOPER TIRE & RUBBER CO.",
+                "productModel": "FUTURA DAKOTA RVT",
+                "productYear": "9999",
+                "size": "33X12.50R16.5LT",
+                "type": "Tire"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2001 DODGE RAM 1500 EQUIPPED WITH COOPER DAKOTA MT (NA) TIRES, SIZE LT285/75R16 (NA). WHILE DRIVING APPROXIMATELY 70 MPH, A NOISE WAS HEARD COMING FROM THE FRONT PASSENGER WHEEL AND THE VEHICLE PULLED TO THE RIGHT. AFTER STOPPING THE VEHICLE, THE CONTACT DISCOVERED THAT THE TREAD SEPARATED FROM THE TIRE. THE TIRE WAS EXAMINED BY THE MANUFACTURER WHO INDICATED THAT THE FAILURE WAS CAUSED BY AGE, DRYNESS, AND WEAR. THE VIN WAS UNKNOWN. THE VEHICLE AND TIRE FAILURE MILEAGE WAS 80,000.",
+        "vin": ""
+    }
+]

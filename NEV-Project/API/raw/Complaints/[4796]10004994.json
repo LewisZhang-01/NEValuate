@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "01/31/2003",
+        "dateOfIncident": "09/20/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004994,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "TAHOE",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN TURNING WHEEL EITHER LEFT OR RIGHT, A MOMENTARY LOSS OF CONTROL CAUSES THE VEHICLE TO OVERSTEER.  FEELS LIKE THE STEERING WHEEL HAS BECOME DISCONNECTED OR THE POWER STEERING HAS SURGED.",
+        "vin": ""
+    }
+]

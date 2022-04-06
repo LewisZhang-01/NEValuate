@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "11/24/2015",
+        "dateOfIncident": "11/24/2015",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10806414,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "330XI",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE IN MOTION AT ALL SPEEDS, WITH PASSENGER USING SAFETY RESTRAINT SYSTEM, PASSENGER AIRBAG TURNS OFF. PASSENGER IS THEN UNPROTECTED IN THE EVENT OF AN ACCIDENT.  VIN EXCLUDED FROM ORIGINAL RECALL.",
+        "vin": "WBAVD33586K"
+    }
+]

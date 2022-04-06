@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/23/2003",
+        "dateOfIncident": "05/29/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10023582,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "PRIUS",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Bridgestone Americas Tire Operations",
+                "productMake": "BRIDGESTONE",
+                "productModel": "POTENZA",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE TIRES ON OUR 2001 PRIUS CONTINUALLY FAIL AFTER ABOUT 15,000 MILES. WE HAVE HAD STATE INSPECTIONS FAIL BECAUSE OF TREAD WEAR, REFUSED SERVICE AT BRIDGESTONE DEALERS BECAUSE OF TREAD WEAR. WITH LESS THAN 50K MILES WE ARE WORKING ON THE THIRD SET OF TIRES. WE CHECK PRESSURE AND ROTATE OUR TIRES REGULARLY.  SINCE TOYOTA CLAIMS THERE ARE NO REPLACEMENTS AND NO TREAD WEAR WARRANTIES, WE THINK THE CAR SHOULD NO LONGER BE ALLOWED ON THE US MARKET.    *NLM",
+        "vin": "JT2BK12U710"
+    }
+]

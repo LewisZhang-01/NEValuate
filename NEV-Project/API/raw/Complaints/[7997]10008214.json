@@ -1,0 +1,32 @@
+[
+    {
+        "components": "ELECTRONIC STABILITY CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "02/27/2003",
+        "dateOfIncident": "01/29/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10008214,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "TOYOTA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Bridgestone Americas Tire Operations",
+                "productMake": "BRIDGESTONE",
+                "productModel": "POTENZA",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "2003 TOYOTA MR2 SPYDER - COMPLETE LOSS OF CONTROL OF VEHICLE, BOTH STEERING AND BRAKING CONTROL, WITHOUT WARNING OR UNUSUAL CAUSE UNDER NORMAL DRIVING CONDITIONS AT SPEEDS LESS THAN 25 MPH. TOYOTA DEALER EXAMINED VEHICLE AND STATES THAT VEHICLE IS DRIVABLE AND MEETS DESIGN INTENT. TOYOTA DEALER STATES THAT PROBLEM CAN NOT BE REPAIRED AND RECOMMENDS SNOW TIRES. SNOW TIRES THAT MEET TOYOTA SPECS ARE NOT COMMERCIALLY AVAILABLE.*JB",
+        "vin": "JTDFR320030"
+    }
+]

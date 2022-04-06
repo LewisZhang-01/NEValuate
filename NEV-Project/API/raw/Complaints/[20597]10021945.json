@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "05/30/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021945,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TAURUS",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "HEATER CORE WAS PREVIOUSLY LEAKING AND WAS REPLACED IN 08/02.  HEATER CORE IS NOW LEAKING AGAIN CAUSING FUMES TO ENTER PASSENGER CABIN.*AK",
+        "vin": ""
+    }
+]

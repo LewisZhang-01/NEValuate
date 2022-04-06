@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "03/21/2003",
+        "dateOfIncident": "01/31/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009881,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FORD",
+                "productYear": "9999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THERE WERE HOLE(S) FOUND ON THE FUEL TANK STEPS.  THE CONSUMER WAS GETTING THE DUMP TRUCK INSPECTED WHEN HE WAS TOLD THAT THIS PROBLEM WAS NOT COVERED BY WARRANTY.    *SCC   *NLM",
+        "vin": "2FNNEDB4XAA"
+    }
+]

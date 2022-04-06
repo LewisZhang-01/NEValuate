@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/08/2003",
+        "dateOfIncident": "06/07/2003",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021243,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "SENTRA",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "DUNLOP TIRE CORPORATION",
+                "productMake": "DUNLOP",
+                "productModel": "SP20FE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "DUNLOP TIRES SP20FE CAME COMPLETELY APART WHILE TRAVELING DOWN THE HIGHWAY.  THIS TIRE FAILURE CAUSED SIGNIFICANT DAMAGE TO MY CAR AND POTENTIAL LIFE THREATENING SITUATION WHILE I WAS GOING OVER A SEVEN MILE BRIDGE.  *TT",
+        "vin": ""
+    }
+]

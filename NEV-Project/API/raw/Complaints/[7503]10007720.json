@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "02/18/2003",
+        "dateOfIncident": "06/16/1997",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10007720,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "1500",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WINDSHIELD WIPERS MALFUNTIONED STOPED WORKING.  HAS BEEN UNRELIABLE SINCE THEN.",
+        "vin": "1GTEC14K3RZ"
+    }
+]

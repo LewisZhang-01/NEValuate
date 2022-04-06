@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "06/26/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019923,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "INTREPID",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE CONSUMER RECEIVED A RECALL NOTICE # 03V035000.  THE DEALER WAS CONTACTED ON 5/15/2003 AND STATED THE PARTS WOULD NOT BE AVAILABLE FOR AT LEAST THREE WEEKS.    *NLM    PH  *JB",
+        "vin": "2B3HD46R2XH"
+    }
+]

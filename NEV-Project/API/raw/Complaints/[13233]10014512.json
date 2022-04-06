@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "04/17/2003",
+        "dateOfIncident": "11/25/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10014512,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAVALIER",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FAILURE OF WHEEL BEARINGS.   *JB",
+        "vin": "1G1JC5242T7"
+    }
+]

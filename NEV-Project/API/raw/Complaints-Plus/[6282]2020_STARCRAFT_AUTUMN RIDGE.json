@@ -1,0 +1,46 @@
+[
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "10/04/2021",
+        "dateOfIncident": "08/01/2021",
+        "fire": false,
+        "manufacturer": "Starcraft RV",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11435357,
+        "products": [
+            {
+                "manufacturer": "Starcraft RV",
+                "productMake": "STARCRAFT",
+                "productModel": "AUTUMN RIDGE",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact owns a 2020 StarCraft Autumn Ridge RV. The contact received notification of NHTSA Campaign Number: 21V425000 (Equipment) however, the part to do the recall repair was unavailable. The contact took the RV to the local dealer and it was confirmed that the part was not available. The contact stated that the manufacturer had exceeded a reasonable amount of time for the recall repair. The manufacturer was not made aware of the issue. The contact had not experienced a failure. Parts distribution disconnect.",
+        "vin": "1SABS0BN8L2"
+    },
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "08/06/2021",
+        "dateOfIncident": "05/01/2021",
+        "fire": false,
+        "manufacturer": "Starcraft RV",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11428091,
+        "products": [
+            {
+                "manufacturer": "Starcraft RV",
+                "productMake": "STARCRAFT",
+                "productModel": "AUTUMN RIDGE",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact owns a 2020 StarCraft Autumn Ridge Travel Trailer. The contact received notification of NHTSA campaign number: 21V431000 (Equipment) however, the part to do the recall repair was unavailable. The vehicle was taken to the local dealer and it was confirmed that the part was not yet available. The contact stated that the manufacturer had exceeded a reasonable amount of time for the recall repair. The manufacturer was notified of the issue. The contact had not experienced a failure. Parts distribution disconnect.",
+        "vin": "1SABS0BN9L1"
+    }
+]

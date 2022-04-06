@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "06/03/2003",
+        "dateOfIncident": "12/02/2001",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020987,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERCURY",
+                "productModel": "MOUNTAINEER",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "MOON ROOF MAKES NOISE CAN NOT TRAVEL WITH WINDOWS DOWN.  *NLM",
+        "vin": "4M2ZU86E32Z"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "07/10/2003",
+        "dateOfIncident": "06/02/2003",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022417,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "325XI",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE SEAT BELT LATCH TRIGGERED THE AIR BAG DEFAULT AND THE AIR BAG HAD BECOME INOPERATIVE.  THE SERVICE CHECK FAILED TO CORRECT THE PROBLEM.  EVEN THOUGH THE SYSTEM WAS CLEARED, DEFAULT/INOPERATIVE AIR BAG OCCURRED WITH THE NEXT SEAT BELT LATCH.  (MODEL 325XI)   *JB   *SCC   *JB",
+        "vin": "WBAEV334X3T"
+    }
+]

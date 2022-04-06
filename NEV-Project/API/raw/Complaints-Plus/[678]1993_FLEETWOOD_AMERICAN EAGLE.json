@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "10/15/2004",
+        "dateOfIncident": "10/14/2004",
+        "fire": false,
+        "manufacturer": "FLEETWOOD ENTERPRISES, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10095844,
+        "products": [
+            {
+                "manufacturer": "FLEETWOOD ENTERPRISES, INC.",
+                "productMake": "FLEETWOOD",
+                "productModel": "AMERICAN EAGLE",
+                "productYear": "1993",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "MICHELIN TIRE CORP.",
+                "productMake": "MICHELIN",
+                "productModel": "TRUCK TIRE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THIS IS THE SECOND MICHELIN TIRE ON MY MOTOR HOME TO BLOW OUT BOTH ON THE INSIDE REAR OF THE VEHICLE AND BOTH IN THE SAME LOCATION ON THE TIRE.  IT WAS THE SIDEWALL.  I CHECKED THE TIRE PRESSURE REGULARLY AND DID NOT HIT ANYTHING WHICH WOULD HAVE CAUSED THE PROBLEM.  *AK",
+        "vin": "4S7MT9K06PC"
+    }
+]

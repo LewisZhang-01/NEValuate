@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "08/07/2003",
+        "dateOfIncident": "09/05/1999",
+        "fire": false,
+        "manufacturer": "Sundowner Trailers, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022061,
+        "products": [
+            {
+                "manufacturer": "Sundowner Trailers, Inc.",
+                "productMake": "SUNDOWNER",
+                "productModel": "710",
+                "productYear": "1996",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "GENERAL TIRE & RUBBER CO.",
+                "productMake": "GENERAL",
+                "productModel": "AMERI 550",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE TRAILER EXPERIENCED TREAD SEPARATIONS ON FIVE SEPARATE OCCASIONS.  ALL FAILURES OCCURRED ON MULTILANE INTERSTATE HIGHWAYS.   *AK  *PH   *NLM",
+        "vin": "13SAH3028T1"
+    }
+]

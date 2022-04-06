@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "05/21/2003",
+        "dateOfIncident": "05/01/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020374,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "PARK AVENUE",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NAR 05/21/2003  *MR    DANGEROUS OPERATIONAL DEFECT. THE HYDRAULIC SYSTEM FOR STEERING AND BRAKING IS LOSE.     *CB",
+        "vin": "1G4CU5213Y4"
+    }
+]

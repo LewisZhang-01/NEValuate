@@ -1,0 +1,24 @@
+[
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "02/11/2003",
+        "dateOfIncident": "02/04/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005709,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FORD TRUCK",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SPARK PLUGS COMING OUT OF HEADS ON MY 2001 FORD F150 LIGHTNING",
+        "vin": "2FTZF07301C"
+    }
+]

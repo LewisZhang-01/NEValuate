@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "01/29/2003",
+        "dateOfIncident": "01/01/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004860,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "CARAVAN",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE ANTI-LOCK BRAKE SYSTEM WARNING LIGHT ILLUMINATED.  DEALER DIAGNOSED THAT ABS HAD FAILED.  VEHICLE WAS PREVIOUSLY REMEDIED UNDER RECALL 96V099000.    PH",
+        "vin": "2B4GH55RXPR"
+    }
+]

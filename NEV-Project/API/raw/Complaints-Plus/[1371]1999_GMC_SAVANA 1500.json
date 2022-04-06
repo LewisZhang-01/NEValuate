@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "07/25/2011",
+        "dateOfIncident": "07/22/2011",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10414955,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SAVANA 1500",
+                "productYear": "1999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Cooper Tire & Rubber Co.",
+                "productMake": "COOPER",
+                "productModel": "DISCOVERY H/T",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "TL* THE CONTACT  OWNS A 1999 GMC SAVANA 1500. THE CONTACT STATED WHILE DRIVING 68 MPH, THE DRIVERS REAR TIRE TREAD SEPARATED. THE TIRE WAS MANUFACTURED BY COOPER, TIRE LINE DISCOVERER HT, TIRE SIZE P235-75-R15, AND DOT UTHLC5U4206. THE MANUFACTURER STATED THE TIRE FAILURE WAS NOT RELATED TO ANY RECALLS. UPDATED 09/20/2011 *LN  *TR",
+        "vin": "1GDFG15R7X1"
+    }
+]

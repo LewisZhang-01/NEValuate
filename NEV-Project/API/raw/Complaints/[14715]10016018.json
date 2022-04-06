@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "04/16/2003",
+        "dateOfIncident": "04/16/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10016018,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE BOLTS FELL OUT OF THE SEAT, WHICH CAUSED THE BOTTOM OF THE SEAT TO COLLAPSE .  *JB",
+        "vin": "1FAFP33P7YW"
+    }
+]

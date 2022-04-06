@@ -1,0 +1,62 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "07/18/2008",
+        "dateOfIncident": "07/17/2008",
+        "fire": false,
+        "manufacturer": "Gulf Stream Coach, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10234835,
+        "products": [
+            {
+                "manufacturer": "Gulf Stream Coach, Inc.",
+                "productMake": "GULF STREAM",
+                "productModel": "KINGSPORT",
+                "productYear": "2004",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "CARLISLE TIRE & RUBBER CO",
+                "productMake": "CARLISLE",
+                "productModel": "RADIAL TRAIL",
+                "productYear": "9999",
+                "size": "ST225/75R15",
+                "type": "Tire"
+            }
+        ],
+        "summary": "THIS TIRE WAS A BLOW OUT, 1 WEEK AFTER THE LAST FAILURE, AND TIRE WAS ONLY ON THE ROAD 6 MILES FROM MY HOUSE.  PRESSURE WAS CHECKED BEFORE WE LEFT.  TIRE BLEW OUT THROUGH THE TOP/ AND A SMALL PART OF THE SIDE WALL. BELT FAILURE UNDER THE TREAD.  *TR",
+        "vin": ""
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "07/14/2008",
+        "dateOfIncident": "07/10/2008",
+        "fire": false,
+        "manufacturer": "Gulf Stream Coach, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10234204,
+        "products": [
+            {
+                "manufacturer": "Gulf Stream Coach, Inc.",
+                "productMake": "GULF STREAM",
+                "productModel": "KINGSPORT",
+                "productYear": "2004",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "CARLISLE TIRE & RUBBER CO",
+                "productMake": "CARLISLE",
+                "productModel": "RADIAL TRAIL",
+                "productYear": "9999",
+                "size": "ST225/75R15",
+                "type": "Tire"
+            }
+        ],
+        "summary": "TIRE FAILURE, AT FULL PRESSURE, 51PSI, ALWAYS MAINTAINED FULL PRESSURE, BECAUSE I SAW A TRAILER JUST LIKE MINE DESTROYED BY A LOW TIRE.  BELTS CAME THROUGH THE TIRE, TREAD SEPARATION, AND A FOOTBALL SIZED BULGE.  *TR",
+        "vin": ""
+    }
+]

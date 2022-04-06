@@ -1,0 +1,24 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "03/01/2003",
+        "dateOfIncident": "08/12/2002",
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10008293,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FORD",
+                "productYear": "1989",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "89 FORD TAURUS  4DR 3.0    *JB",
+        "vin": "1FABP52U7KG"
+    }
+]

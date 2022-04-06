@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/03/2003",
+        "dateOfIncident": "11/01/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021551,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "AVALANCHE",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "WRANGLER",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE FRONT PASSENGER SIDE TIRE EXPERIENCED TREAD SEPARATION.  THIS WAS THE THIRD SEPARATION FAILURE OUT OF THE EIGHT ORIGINAL TIRE SUPPLIED AS ORIGINAL EQUIPMENT WITH THE CONSUMERS TWO VEHICLES.  (GOODYEAR WRANGLER, P265/70R171132, SERIAL # T306731-GRF88M4MP).  *MR   *SCC  *NLM",
+        "vin": ""
+    }
+]

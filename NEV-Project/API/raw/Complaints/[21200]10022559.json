@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "06/06/2003",
+        "dateOfIncident": "06/03/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10022559,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "GRAND CHEROKEE",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE ON THE HIGHWAY VEHICLE WAS HIT AND CRASHED INTO A TREE.  UPON IMPACT, AIR BAGS DID NOT DEPLOY.  THIS WAS AN HIT AND RUN ACCIDENT.  *AK",
+        "vin": "1J4FX58S9TC"
+    }
+]

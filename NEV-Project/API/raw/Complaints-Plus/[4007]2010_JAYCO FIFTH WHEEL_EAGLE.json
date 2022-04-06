@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "11/10/2014",
+        "dateOfIncident": "11/06/2014",
+        "fire": false,
+        "manufacturer": "Jayco, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10653895,
+        "products": [
+            {
+                "manufacturer": "Jayco, Inc.",
+                "productMake": "JAYCO FIFTH WHEEL",
+                "productModel": "EAGLE",
+                "productYear": "2010",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "MARATHON",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "STOPPED AT REST STOP ON I-4 CHECKED TIRES EVERYTHING OK. TRAVELED 18 MILES TO I-75 HEADED SOUTH ABOUT 10 MILES WHEN SOMEONE PULLED UP NEXT TO US AND POINTED BACK AT OUR FIFTH WHEEL AND SAID TIRE. PULLED OVER AND TIRE WAS LOW. A ROAD RANGER STOPPED AND TRIED TO PUT AIR IN TIRE AND WE HEARD AIR COMING OUT OF TIRE, SAW TIRE TREAD SEPARATION. SECOND TIRE FROM THIS GROUP TO SEPARATE. NHTSA ID # 10625115.  *TR",
+        "vin": "1UJCJ0BS9A1"
+    }
+]

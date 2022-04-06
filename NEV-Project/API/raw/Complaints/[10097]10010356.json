@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "03/12/2003",
+        "dateOfIncident": "03/08/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010356,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "PASSENGER SIDE BALL JOINT IS BROKEN AT 48,000 MILES. APPEARS THERE IS A SAFETY RECALL, BUT FORD DEALERSHIP WILL NOT REPLACE PART WITHOUT CHARGING ME. *JB",
+        "vin": "1FAHP343XYW"
+    }
+]

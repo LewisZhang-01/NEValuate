@@ -1,0 +1,68 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "12/14/2020",
+        "dateOfIncident": "04/01/2020",
+        "fire": false,
+        "manufacturer": "Keystone RV Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11383319,
+        "products": [
+            {
+                "manufacturer": "Keystone RV Company",
+                "productMake": "KEYSTONE",
+                "productModel": "BULLET",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2016 KEYSTONE BULLET. THE CONTACT STATED THAT THE FLOORBOARDS WERE ROTTING DUE TO WATER DAMAGE. THE CONTACT CALLED TERRYTOWN RV SUPERSTORE (7145 DIVISION AVE S, GRAND RAPIDS, MI 49548; (616) 455-5590) AND NOTIFIED THE DEALER OF THE FAILURE. THE RV HAD NOT BEEN DIAGNOSED NOR REPAIRED. THE MANUFACTURER WAS INFORMED OF THE FAILURE.",
+        "vin": "4YDT30R21GD"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "06/01/2018",
+        "dateOfIncident": "06/01/2018",
+        "fire": false,
+        "manufacturer": "Keystone RV Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11099672,
+        "products": [
+            {
+                "manufacturer": "Keystone RV Company",
+                "productMake": "KEYSTONE",
+                "productModel": "BULLET",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "KEYSTONE BULLET TRAVEL TRAILER. CONSUMER WRITES IN REGARDS TO SAFETY RECALL 16V-600. *LD    THE CONSUMER WAS UNABLE TO GET IN CONTACT WITH A DEALER TO HAVE THE VEHICLE REPAIRED. THE MANUFACTURER WAS NOTIFIED AND SUGGESTED ANOTHER DEALER, THAT ALSO DID NOT RETURN THE CONSUMER'S PHONE CALL. *JS",
+        "vin": "4YDT26R20GD"
+    },
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "05/04/2017",
+        "dateOfIncident": "04/15/2017",
+        "fire": false,
+        "manufacturer": "Keystone RV Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10983543,
+        "products": [
+            {
+                "manufacturer": "Keystone RV Company",
+                "productMake": "KEYSTONE",
+                "productModel": "BULLET",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FLOOR IS BUCKLING, COULD LEAD TO FOOT GOING THROUGH FLOOR.",
+        "vin": ""
+    }
+]

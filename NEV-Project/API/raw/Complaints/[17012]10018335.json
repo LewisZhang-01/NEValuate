@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "05/07/2003",
+        "dateOfIncident": "04/02/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018335,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "S10",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WINDSHIELD WIPERS FAIL IN MID SWEEP.  MIST SETTING SPEEDS UP TO FAST.  *JB",
+        "vin": "1GCCS1944WK"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "07/26/2019",
+        "dateOfIncident": "05/10/2018",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11234964,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO 1500",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "PAINT PEELING..PAINT ON HOOD, SIDE DOORS BY WINDOWS ARE PEELING",
+        "vin": ""
+    }
+]

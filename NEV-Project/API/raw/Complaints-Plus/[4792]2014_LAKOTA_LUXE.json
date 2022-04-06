@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "12/13/2016",
+        "dateOfIncident": "10/29/2016",
+        "fire": false,
+        "manufacturer": "Lakota Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10935027,
+        "products": [
+            {
+                "manufacturer": "Lakota Corporation",
+                "productMake": "LAKOTA",
+                "productModel": "LUXE",
+                "productYear": "2014",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Sailun Tire Americas, Inc.",
+                "productMake": "DYNAMIC TIRE",
+                "productModel": "DYNAMIC",
+                "productYear": "9999",
+                "size": "235/80R16",
+                "type": "Tire"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2015 LAKOTA TRAILER (NA) EQUIPPED WITH TOWMAX STR ST TIRES, SIZE: ST235/80/R16 (NA). WHILE DRIVING 60 MPH, ONE OF THE TIRES BLEW OUT AND DAMAGED THE FENDER. THE TIRE MANUFACTURER DIAGNOSED THAT TOO MUCH OF THE SIDEWALL WAS MISSING TO COMPLETE A DIAGNOSTIC TEST. THE VIN WAS UNKNOWN. THE TIRE AND VEHICLE FAILURE MILEAGE WAS 8,000.  *TR",
+        "vin": ""
+    }
+]

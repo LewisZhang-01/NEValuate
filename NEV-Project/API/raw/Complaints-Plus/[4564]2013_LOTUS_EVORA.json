@@ -1,0 +1,46 @@
+[
+    {
+        "components": "POWER TRAIN,ELECTRICAL SYSTEM,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "05/15/2018",
+        "dateOfIncident": "03/24/2018",
+        "fire": false,
+        "manufacturer": "Lotus Cars Limited",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11093982,
+        "products": [
+            {
+                "manufacturer": "Lotus Cars Limited",
+                "productMake": "LOTUS",
+                "productModel": "EVORA",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "IPS WIRING HARNESS ISSUE - VEHICLE EQUIPPED WITH THE AUTOMATIC TRANSMISSION WOULD RANDOMLY LOSE COMPLETE POWER IN THE MIDDLE OF DRIVING. VEHICLE STUCK IN THIS LIMP MODE ARE UNABLE TO GO BACK INTO GEAR AND IS LOCKED OUT FROM DRIVING, THUS REQUIRE THE VEHICLE TO BE TOWED. THIS CREATES A HAZARDOUS CONDITION THAT IN AN EVENT IF AN INDIVIDUAL WAS TO MERGE INTO A LANE AND LOSES COMPLETE POWER AS A RESULT, ACCIDENT WILL LIKELY TO OCCUR DUE TO THE FACT THAT THE VEHICLE CANNOT GAIN SPEED OR MOMENTUM IN ORDER TO MERGE.     MANY OWNERS WITH THE AUTOMATIC (IPS) VARIATION ARE EXPERIENCING THE LIMP MODE AND IS EXPRESSING THEIR FRUSTRATION ON THE INTERNET. LOTUS IS WELL AWARE OF THE ISSUE AND IS REFUSING TO OFFER COMPENSATION TO ALLEVIATE OR ADDRESS THIS ISSUE KNOWING WELL ENOUGH THIS IS A SAFETY ISSUE. FOR MORE DETAILS IN REGARDS TO THIS, YOU CAN SIMPLY GOOGLE: LOTUS EVORA WIRING HARNESS",
+        "vin": "SCCLMDTUXDH"
+    },
+    {
+        "components": "STEERING,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "07/11/2015",
+        "dateOfIncident": "07/04/2015",
+        "fire": false,
+        "manufacturer": "Lotus Cars Limited",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10733418,
+        "products": [
+            {
+                "manufacturer": "Lotus Cars Limited",
+                "productMake": "LOTUS",
+                "productModel": "EVORA",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DECELERATING TO A STOP, SHIFTING DOWN IN GEARS, SHIFT INTO FIRST AND BRING VEHICLE TO A COMPLETE STOP AND NOTICE RPM'S DROP TO ZERO AND ENGINE STALLS. HAS HAPPENED TWICE IN TWO WEEKS, CAR IS BRAND NEW.",
+        "vin": "SCCLMDSU3DH"
+    }
+]

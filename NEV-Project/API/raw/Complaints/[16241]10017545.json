@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "04/24/2003",
+        "dateOfIncident": "04/24/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017545,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "WINDSTAR",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE DEALER REPLACED THE FUEL TANK UNDER RECALL IN 1999, HOWEVER THE STRAP WAS NOT REPLACED, AND THE FUEL TANK CRACKED AGAIN.  RECALL #99V309000.       *JB",
+        "vin": "2FMDA5140SB"
+    }
+]

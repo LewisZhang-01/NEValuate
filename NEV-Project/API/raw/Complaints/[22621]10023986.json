@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "06/12/2003",
+        "dateOfIncident": "06/12/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10023986,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "OUTSIDE HANDLE  ON DRIVER'S SIDE FELL OFF WITHOUT PRIOR WARNING.  WHEN SHE WENT TO OPEN THE DOOR FOR ACCESS.  *AK",
+        "vin": "1FAFP34P91W"
+    }
+]

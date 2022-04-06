@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION,POWER TRAIN,ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "06/27/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10012476,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE FAILED TO START, THE DEALER REROUTED THE BATTERY CABLES.   *JB  THE VEHICLE ALSO HAD SUSPENSION AND TRANSMISSION PROBLEMS  PH    *JB",
+        "vin": "1FAFP3439YW"
+    }
+]

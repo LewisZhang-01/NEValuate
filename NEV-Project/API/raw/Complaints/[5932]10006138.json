@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "01/31/2003",
+        "dateOfIncident": "01/29/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10006138,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERCURY",
+                "productModel": "MYSTIQUE",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING INSTRUMENT PANEL WOULD FOG UP, CAUSING A DISTRACTION.*AK  UNDERSIDE OF DASH BECAME UNGLUED ON DRIVER'S SIDE DEFOGGER OPENING NEAREST THE WINDSHIELD.   *TT",
+        "vin": "1MEFM6534YK"
+    }
+]

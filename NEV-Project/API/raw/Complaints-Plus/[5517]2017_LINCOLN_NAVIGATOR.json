@@ -1,0 +1,112 @@
+[
+    {
+        "components": "SUSPENSION,STRUCTURE,WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "03/23/2022",
+        "dateOfIncident": "06/29/2021",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11457972,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "NAVIGATOR",
+                "productYear": "2017",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Major rust problems that effect the safety of driving the vehicle. Vehicle will not pass PA State Inspection.  Hood latch rusted. possibility of hood opening.  Rust holes in rocker panels. FRAME cross supports.  No enough space to explain.  Please see attached PDF.",
+        "vin": "5LMJJ3LT9HE"
+    },
+    {
+        "components": "SERVICE BRAKES",
+        "crash": true,
+        "dateComplaintFiled": "09/29/2021",
+        "dateOfIncident": "09/25/2021",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11434939,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "NAVIGATOR",
+                "productYear": "2017",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The brakes on my car stopped working and this caused me to crash into a wall. This accident caused by my brakes failing nearly killed me and put others at risk. There were no recalls, or warnings about the brakes failing before the accident.",
+        "vin": "5LMJJ3LT2HE"
+    },
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "08/04/2020",
+        "dateOfIncident": "11/22/2016",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 11343220,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "NAVIGATOR",
+                "productYear": "2017",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2017 FORD NAVIGATOR. THE CONTACT STATED THAT WHILE DRIVING 55 MPH, THE VEHICLE WAS CUT OFF BY AN 18-WHEELER, WHICH FORCED THE CONTACT'S VEHICLE INTO THE LEFT LANE, CAUSING THE VEHICLE TO CRASH INTO THE REAR OF THE VEHICLE IN FRONT ON THE FREEWAY, WHICH IN TURN SET OFF A CHAIN REACTION. THE AIR BAGS DID NOT DEPLOY, HOWEVER, THE COMPUTER INDICATED THAT THE AIR BAG DEPLOYED. THE CONTACT SUSTAINED A SPINAL CORD AND HAND INJURY THAT REQUIRED MEDICAL ATTENTION. A POLICE REPORT WAS FILED. THE VEHICLE WAS DAMAGED BUT WAS NOT TOWED. THE DEALER AND THE MANUFACTURER WERE NOT MADE AWARE OF THE FAILURE. THE VEHICLE WAS NOT REPAIRED. THE FAILURE MILEAGE WAS 80. THE VIN WAS NOT PROVIDED.",
+        "vin": ""
+    },
+    {
+        "components": "AIR BAGS,SEAT BELTS,SEATS",
+        "crash": false,
+        "dateComplaintFiled": "09/03/2019",
+        "dateOfIncident": "08/28/2019",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11253030,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "NAVIGATOR",
+                "productYear": "2017",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THERE IS NO WEIGHT SENSOR IN THE FRONT PASSENGER SEAT. THERE IS NO NOTIFICATION THAT THE SEAT BELT IS NOT FASTENED. THE AIR BAG DOES NOT WORK UNLESS THE SEAT BELT IS FASTENED. MY GRANDCHILDREN'S WEIGHT IS NOT REGISTERED AND THEREFORE THE AIR BAG WILL DEPLOY IF THEY ARE IN THE PASSENGER FRONT SEAT AND SEAT BELTED IN. I WAS TOLD BY LINCOLN NAVIGATOR DIVISION AT FORD MOTOR COMPANY THAT THIS IS THE WAY THE VEHICLE WAS DESIGNED AND REMARKED THAT I FELT THIS CONDITION OF 1L. NO NOTIFICATION THAT THE SEAT BELT IS NOT FASTENED, 2. THAT IF THE SEAT BELT IS NOT FASTENED, THE AIRBAG DOES NOT WORK, 3. THAT IF MY GRANDSON IS IN THE PASSENGER SEAT WITH SEAT BELT FASTENED, THE AIR BAG WILL DEPLOY CAUSING HIM INJURY OR DEATH. THEY DID NOT SEEM TO CARE AND TOLD ME THERE WAS NOTHING THEY COULD DO ABOUT IT.  NOTHING HAS HAPPENED YET BUT THIS VEHICLE AND ITS DESIGN IS UNSAFE IN MY OPINION. THE DEALERSHIP SAYS THEY CANNOT FIX THE ISSUE.",
+        "vin": "5LMJJ2JT1HE"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM,EXTERIOR LIGHTING",
+        "crash": false,
+        "dateComplaintFiled": "12/08/2017",
+        "dateOfIncident": "11/24/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11053580,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "NAVIGATOR",
+                "productYear": "2017",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "F THE TURN SIGNAL CONTROL ARM IS MOVED PARTIALLY IN ANY DIRECTION, AND IMMEDIATELY MOVED INTO THE FULLY OPPOSITE DIRECTION, THE TURN SIGNALS WILL BE DISABLED.    IF THE OPERATOR ADJUSTS THE HIGH BEAMS, OR SIMPLY MAKES A MISTAKE WHEN TRYING TO SIGNAL, (BY SELECTING THE WRONG DIRECTION FIRST) THE TURN SIGNAL WILL NOT OPERATE EVEN THOUGH THE CONTROL ARM IS IN THE FULLY LOCKED POSITION.    LINCOLN SERVICE STATES THAT WHEN THEY CONNECT THE VEHICE TO THE COMPUTER, IT SHOWS THAT THE BLINKERS ARE ACTIVE, EVEN THOUGH THEY ARE VISUALLY NOT BLINKING.    THEY FURTHER STATED THAT THE ISSUE EXISITS ON ALL VEHICLES.",
+        "vin": "5LMJJ3JT9HE"
+    }
+]

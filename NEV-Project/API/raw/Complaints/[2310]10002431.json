@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "01/09/2003",
+        "dateOfIncident": "12/27/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002431,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "OLDSMOBILE",
+                "productModel": "88",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER WAS INVOLVED IN A SINGLE CAR ACCIDENT WHERE THE VEHICLE FLIPPED OVER WHILE DRIVING APPROXIMATELY 45-53 MPH.  BOTH THE DRIVER AND PASSENGER AIR BAGS DID NOT DEPLOY.  *NLM",
+        "vin": "1G3CX5321P4"
+    }
+]

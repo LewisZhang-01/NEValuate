@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "06/19/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10024433,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPEDITION",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE WAS PARKED IN DRIVEWAY WITH KEY REMOVED FROM IGNITION.   WINDSHIELD WIPERS, RADIO,AND DVD ACCESSORY BEGAN OPERATING WITHOUT WARNING.*AK",
+        "vin": "1FMRU15L61L"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "05/22/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020347,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "318",
+                "productYear": "1984",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE ENGINE IDLED HIGH.  THE DEALER STATED IT WAS DUE TO THE IDLE CONTROL VALVE WHICH NEEDED TO BE REPLACED.  *JB",
+        "vin": ""
+    }
+]

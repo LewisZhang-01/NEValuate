@@ -1,0 +1,24 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/11/2001",
+        "dateOfIncident": "04/06/2001",
+        "fire": false,
+        "manufacturer": "INTERNATIONAL TRUCK & ENGINE CORPORATION",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 561543,
+        "products": [
+            {
+                "manufacturer": "INTERNATIONAL TRUCK & ENGINE CORPORATION",
+                "productMake": "INTERNATIONAL HARVESTER",
+                "productModel": "INTERNATIONAL",
+                "productYear": "1991",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NEW LEFT STEER TIRE WITH LESS THAN 600 MILES ON IT BLEWOUT WHILE DRIVING (TIRE MAKE/MODEL NOT GIVEN - OHIO TRAFFIC CRASH REPORT).  NLM",
+        "vin": ""
+    }
+]

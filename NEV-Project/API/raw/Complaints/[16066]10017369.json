@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "10/01/2003",
+        "dateOfIncident": "07/29/2002",
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10017369,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "E-150",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE LOST POWER STEERING AND BRAKES WHEN A  LEFT TURN WAS MADE. WHICH WAS AS A RESULT OF STEERING  BOX FAILURE.   ALSO THE VEHICLE CAUGHT ON FIRE AND THE CONSUMER WAS INJURED.  *JB",
+        "vin": "1FDEE14N7RH"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "03/01/2003",
+        "dateOfIncident": "03/01/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10008302,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "GRAND CARAVAN",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "POWER STEERING FAILED.  HEARD A WHINING SOUND WHILE AT A STOP LIGHT,  A SHORT TIME LATER I WAS ALMOST UNABLE TO MAKE A TURN INTO A PARK, BECAUSE THE POWER STEERING WAS GONE.  *JB",
+        "vin": "2B4GT54L42R"
+    }
+]

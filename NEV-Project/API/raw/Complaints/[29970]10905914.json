@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "09/12/2016",
+        "dateOfIncident": "05/13/2016",
+        "fire": false,
+        "manufacturer": "Kia Motors America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10905914,
+        "products": [
+            {
+                "manufacturer": "Kia Motors America",
+                "productMake": "KIA",
+                "productModel": "OPTIMA",
+                "productYear": "2011",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE ENGNE LOCKED UP AT 87K! I HAD NO OIL IN IT",
+        "vin": "KNAGR4A62B5"
+    }
+]

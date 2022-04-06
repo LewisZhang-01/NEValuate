@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC,VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "08/30/2006",
+        "dateOfIncident": "04/27/2004",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10167114,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "OLDSMOBILE",
+                "productModel": "BRAVADA",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ABS SENSORS FAILED CAUSING BRAKE PULSATION AND FAILURE.  REAR WIPER MOTOR FAILED (STILL ON VEHICLE).  *NM",
+        "vin": "1GHDT13W4T2"
+    }
+]

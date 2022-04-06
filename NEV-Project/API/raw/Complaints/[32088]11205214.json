@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VEHICLE SPEED CONTROL,ELECTRONIC STABILITY CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "05/02/2019",
+        "dateOfIncident": "05/02/2019",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11205214,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "CHARGER",
+                "productYear": "2011",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "MY ABS AND STABILITY CONTROL LIGHTS COME ON BUT THEY GO OFF. BUT WHEN DRIVING THEY COME ON SUDDENLY I DONT HAVE BRAKES FOR SEVERAL CRUCIAL SECONDS WHEN ATTEMPTING TO STOP. THEN THE LIGHTS GO OFF AGAIN.",
+        "vin": "2B3CL5CT3BH"
+    }
+]

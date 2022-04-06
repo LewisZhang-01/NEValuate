@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "02/08/2018",
+        "dateOfIncident": "02/06/2018",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11071714,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "GRAND CHEROKEE",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2013 JEEP GRAND CHEROKEE. WHILE STARTING THE VEHICLE, IT STALLED AND THE CHECK ENGINE WARNING INDICATOR ILLUMINATED. THE VEHICLE WAS ABLE TO RESTART WHEN THE BRAKE PEDAL WAS APPLIED. THE FAILURE OCCURRED NUMEROUS TIMES. THE VEHICLE WAS NOT REPAIRED. THE VEHICLE WAS NOT TAKEN TO A DEALER. THE MANUFACTURER WAS MADE AWARE OF THE FAILURE. THE FAILURE MILEAGE WAS 65,000.",
+        "vin": "1C4RJEBT2DC"
+    }
+]

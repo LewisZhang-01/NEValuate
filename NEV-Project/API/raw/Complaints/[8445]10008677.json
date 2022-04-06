@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "02/19/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10008677,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER WAS INFORMED ON TWO SEPARATE OCCASIONS THAT NO PARTS WERE AVAILABLE REGARDING THE FUEL TANK, RECALL #93 V 125 000.*JB",
+        "vin": "2FTEF15N4PC"
+    }
+]

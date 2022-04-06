@@ -1,0 +1,46 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "03/08/2020",
+        "dateOfIncident": "03/07/2020",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11316868,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "335XI",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVER AND PASSENGER DOOR LOCK INTERMITTENTLY FAILS TO OPEN AFTER BEING DRIVEN BY PULLING ON THE DOOR HANDLE TWICE.  ONLY REMEDY IS TO USE THE CENTRAL LOCKING/UNLOCKING SWITCH ON THE DASH TO OPEN THE DOOR.",
+        "vin": "WBA3B9G5XFN"
+    },
+    {
+        "components": "VEHICLE SPEED CONTROL,TRACTION CONTROL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "10/05/2016",
+        "dateOfIncident": "09/15/2016",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10913929,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "335XI",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2015 BMW 335XI. WHILE DRIVING APPROXIMATELY 25 MPH, THE TRACTION CONTROL WARNING INDICATOR ILLUMINATED. THE CONTACT STATED THAT THE ACCELERATOR PEDAL WAS DEPRESSED, BUT FAILED TO OPERATE AS INTENDED. THE CONTACT STATED THAT THE VEHICLE SLOWED DOWN AND LOST MOMENTUM. THE VEHICLE WAS TAKEN TO THE DEALER TO BE DIAGNOSED. THE TECHNICIAN WAS UNABLE TO DUPLICATE THE FAILURE OR PRODUCE A FAULT CODE. THE VEHICLE WAS NOT REPAIRED. THE MANUFACTURER WAS NOT NOTIFIED OF THE FAILURE. THE APPROXIMATE FAILURE MILEAGE WAS 28,000.",
+        "vin": "WBA3B9C52FF"
+    }
+]

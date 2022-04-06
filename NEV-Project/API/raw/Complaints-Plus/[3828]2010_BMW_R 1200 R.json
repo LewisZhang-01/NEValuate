@@ -1,0 +1,68 @@
+[
+    {
+        "components": "FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "12/03/2021",
+        "dateOfIncident": "12/03/2021",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11442598,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "R 1200 R",
+                "productYear": "2010",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Experienced a catastrophic failure of the throttle body cable cam mechanism on the throttle body of the motorcycle.  In fact, both cams (2-cylinder motorcycle) are made of plastic, which degrades over time, and failed simultaneously, leaving me without the use of the throttle.  This can be a catastrophic failure if happens at highway speeds or heavy traffic.  Luckily for me, it happened close to home and I was able to push the bike home.   As this is a frequent and common occurrence for BMW motorcycles equipped with BING carburetors with a plastic cam mechanism, it would seem appropriate to enact a recall for affected models.",
+        "vin": "WB1039808AZ"
+    },
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "09/05/2013",
+        "dateOfIncident": "09/04/2013",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10542181,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "R 1200 R",
+                "productYear": "2010",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUEL STRIP FAILED FOR 3RD TIME.  COMPUTER NO LONGER DISPLAYS MILES TO EMPTY AND LOW FUEL WARNING LIGHT STAYS ON.  MANUFACTURER SHOULD RETROFIT WITH SAME SYSTEM THEY USE ON OTHER MODELS WITH SAME ENGINE. *JB",
+        "vin": "WB1039807AZ"
+    },
+    {
+        "components": "FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "08/19/2013",
+        "dateOfIncident": "10/12/2011",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10536114,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "R 1200 R",
+                "productYear": "2010",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUEL STRIP FAILURE (MEASURES THE AMOUNT OF FUEL IN THE GAS TANK). FUEL GAGE WAS EITHER OFF OR INCORRECT. COMPUTER COULD NOT CALCULATE DISTANCE TO EMPTY. IT WAS REPLACED AT DEALER.  FAILED AGAIN AT 9/10/2012 AT 30,000 MILES. *TR",
+        "vin": "WB1039807AZ"
+    }
+]

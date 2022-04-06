@@ -1,0 +1,32 @@
+[
+    {
+        "components": "AIR BAGS,TIRES",
+        "crash": true,
+        "dateComplaintFiled": "04/16/2003",
+        "dateOfIncident": "01/18/2003",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 2,
+        "odiNumber": 10015959,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "QUEST",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Continental Tire the Americas, LLC",
+                "productMake": "CONTINENTAL",
+                "productModel": "CONTINENTAL",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE LEFT REAR TIRE EXPERIENCED A BLOWOUT AND SPLITTED AT THE SIDEWALL , WHICH CAUSED AN ACCIDENT, AND THE AIR BAGS FAILED TO DEPLOY.  *JB   CONTINENTAL TOURING CONTACT AS.  DOT # UNKNOWN.  *TT",
+        "vin": "4N27N17T720"
+    }
+]

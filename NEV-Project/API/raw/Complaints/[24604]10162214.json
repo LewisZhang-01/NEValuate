@@ -1,0 +1,24 @@
+[
+    {
+        "components": "TRAILER HITCHES",
+        "crash": true,
+        "dateComplaintFiled": "07/12/2006",
+        "dateOfIncident": "07/09/2006",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 3,
+        "odiNumber": 10162214,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "YUKON XL",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "GM TRAILER HITCH FAILURE.  *JB",
+        "vin": "3GKEC16Z95G"
+    }
+]

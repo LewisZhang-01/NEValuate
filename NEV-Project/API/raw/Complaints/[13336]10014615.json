@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS,VEHICLE SPEED CONTROL",
+        "crash": true,
+        "dateComplaintFiled": "03/27/2003",
+        "dateOfIncident": "03/27/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10014615,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "LIBERTY",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE ACCELERATED FOWARD AND COLLIDED WITH ANOTHER VEHICLE, ALSO THE SEAT BELT FAILED TO RESTRAIN THE CONSUMER PROPERLY AND WAS SUBSEQUENTLY INJURED.   *JB",
+        "vin": ""
+    }
+]

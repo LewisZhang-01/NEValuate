@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/29/2003",
+        "dateOfIncident": "01/27/2003",
+        "fire": false,
+        "manufacturer": "TRUCK TRAILER EQUIP. CO.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003609,
+        "products": [
+            {
+                "manufacturer": "TRUCK TRAILER EQUIP. CO.",
+                "productMake": "TRUCK TRAILER",
+                "productModel": "TRUCK TRAILER",
+                "productYear": "9999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "KELLY SPRINGFIELD TIRE CO",
+                "productMake": "OK",
+                "productModel": "OK",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THIS DOES NOT PERTAIN TO ANY ONE MANUFACTURER, BUT APPLIES TO ALL TRAVELERS ON OUR NATION'S HIGHWAYS.  WHY ARE TRUCK RETREAD TIRES LEGAL?  THEY PRESENT A CONSTANT HAZARD TO MOTORISTS ON MAJOR HIGHWAYS THROUGHOUT THE COUNTRY.  I ENCOUNTERED ANOTHER ON THE PA TURNPIKE ON MAY WAY TO WORK MONDAY, AND SEVERAL CARS SWERVED TO AVOID THE RETREAD LYING ON THE DRIVING LANES.",
+        "vin": ""
+    }
+]

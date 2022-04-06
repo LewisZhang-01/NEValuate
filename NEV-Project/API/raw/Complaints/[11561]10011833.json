@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "03/14/2003",
+        "dateOfIncident": "03/14/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10011833,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "S PICKUP",
+                "productYear": "9999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE STEERING SHAFT BROKE, WHICH CAUSED CONSUMER TO LOSE CONTROL OF THE VEHICLE. *JB",
+        "vin": "3GNEC16R0XG"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "11/05/2002",
+        "dateOfIncident": "03/03/2002",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10007158,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "MAXIMA",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FAULTY PART SEEMS TO BE THE VENT CONTROL VALVE TO THE EVAP CANISTER, BUT ODB-II RESULTS IN MANY FAULTY CODES. DEALER WANTS TO REPLACE THE WHOLE SYSTEM (APPROX. $500.00) SEEMS TO BE A COMMON PROBLEM ON THIS CAR ACCORDING TO THE DEALER.     *JB    ***DIMSII IVOQ ENTRY POSTED AFTER 12/12/02 CUT-OVER TO ARTEMIS****769313",
+        "vin": "JN1CA21D3VT"
+    }
+]

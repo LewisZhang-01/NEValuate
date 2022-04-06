@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "04/12/2006",
+        "dateOfIncident": "04/12/2006",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10155214,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPEDITION",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DT*:  THE CONTACT STATED WHILE DRIVING VARIOUS SPEEDS, THE WINDSHIELD WIPERS INTERMITTENTLY ACTIVATED BY THEMSELVES.  THE VEHICLE WAS SEEN BY A DEALER FOR INSPECTION, BUT WAS UNABLE TO DUPLICATE THE PROBLEM.",
+        "vin": "1FMEU17W14L"
+    }
+]

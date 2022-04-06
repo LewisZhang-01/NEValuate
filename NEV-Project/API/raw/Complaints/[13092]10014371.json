@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "04/14/2003",
+        "dateOfIncident": "01/04/2003",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10014371,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "PRELUDE",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "LOUD SQUEAK COMING FROM BACK OF CAR POSSIBLY UNDER TRUNK OR RIGHT WHEEL WELL INCREASES WITH COLD WEATHER.  *NLM",
+        "vin": ""
+    }
+]

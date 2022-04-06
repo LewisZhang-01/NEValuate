@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "02/04/2003",
+        "dateOfIncident": "02/01/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10006273,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "BLAZER",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE WAS IN A FRONTAL COLLISION, BUT NONE OF THE AIRBAG DEPLOYED UPON IMPACT.   THE DRIVER SUSTAINED HEAD,NECK AND BACK INJURIES. PLEASE PROVIDE MORE DETAILS.",
+        "vin": "1GNDT13W7X2"
+    }
+]

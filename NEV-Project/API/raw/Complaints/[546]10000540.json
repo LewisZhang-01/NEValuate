@@ -1,0 +1,31 @@
+[
+    {
+        "components": "FUEL SYSTEM, OTHER,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "01/06/2003",
+        "dateOfIncident": "12/24/2002",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000540,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "PLYMOUTH",
+                "productModel": "VOYAGER",
+                "productYear": "1996",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VANTAGE CONVERSION VAN FUEL LINE FAILURE.  SERVICE ORDER READS: \"SS RUBBER FUEL LINE WAS INSTALLED BY WHOMEVER INSTALL WHEEL CHAIR CARRIAGE FROM GAS TANK TO FRT OF ENGINE.  RUBBER LINE ROTTED AWAY.  FOUND FUEL LINE LEAKING FROM TOP OF ENGINE REPLACED LINE FROM FUEL TANK TO FUEL RAIL.\"",
+        "vin": "1P4GP44R1TB"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "10/13/2004",
+        "dateOfIncident": "10/09/2004",
+        "fire": false,
+        "manufacturer": "Carriage, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10095725,
+        "products": [
+            {
+                "manufacturer": "Carriage, Inc.",
+                "productMake": "CARRIAGE",
+                "productModel": "CAMEO",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "STEELTEX R4S",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "FIRESTONE, STEELTEX RADIAL R4S BLEW OUT AND LOST COMPLETE TREAD ON HWY.  TIRE MOUNTED ON RV TRAILER (5TH WHEEL) AND WAS 1 OF 4 THAT CAME WITH THE TRAILER.  PRESSURE WAS CHECKIN IN THE MORNING PRIOR TO TRAVEL AND WAS AT 80PSI.  THE FAILURE OCCURED AT A SPEED OF 65 MPH WITH THE TEPERATURE OUTSIDE APPROXIMATELY 70DEG F.    THE FAILURE CAUSED MINOR BODY DAMAGE TO THE SIDE OF THE WHEEL WELL AND RV WHERE THEY JOIN.  COST OF REPAIR HAS NOT YET BEEN DETERMINED.    I STILL HAVE THE DEFECTIVE TIRE CARCASS BUT NOT THE TREAD AS IT HAS BEEN LOST ON THE HIGHWAY AND NOT RECOVERABLE.",
+        "vin": "16F62E3P4Y1"
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "09/12/2003",
+        "dateOfIncident": "10/22/2002",
+        "fire": false,
+        "manufacturer": "Carriage, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10034344,
+        "products": [
+            {
+                "manufacturer": "Carriage, Inc.",
+                "productMake": "CARRIAGE",
+                "productModel": "CAMEO",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "STEELTEX RADIAL TIRE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHILE DRIVING  AT 70 MPH, THE RIGHT FRONT TIRE TREAD SEPARATED AND CAUSED THE  TIRE TO BLOWOUT. THE CONSUMER HAD TO PULL OVER. FIRESTONE, SIZE# LT225 75 R16, DOT# UNKNOWN. DEALER HAS BEEN NOTIFIED. *AK *TS   *JB",
+        "vin": "16F62E3RXY1"
+    }
+]

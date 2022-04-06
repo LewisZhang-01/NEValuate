@@ -1,0 +1,24 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "01/08/2003",
+        "dateOfIncident": "11/16/2001",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002379,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "LESABRE",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATES WHEN STARTING THE VEHICLE WILL BACK FIRE. TS  *DT",
+        "vin": "1G4HP54K524"
+    }
+]

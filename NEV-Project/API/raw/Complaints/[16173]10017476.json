@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "04/23/2003",
+        "dateOfIncident": "04/23/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017476,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING THE TRACTION CONTROL MODULE FAILED.  *NLM  WHICH FAILED EVERY FEW DAYS.  THE VEHICLE WOULD SHUT DOWN WITH DASH LIGHT WARNINGS.  *SCC",
+        "vin": "3FAFP31382R"
+    }
+]

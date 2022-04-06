@@ -1,0 +1,46 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "04/24/2001",
+        "dateOfIncident": "06/01/1998",
+        "fire": false,
+        "manufacturer": "Tiffin Motorhomes, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 886656,
+        "products": [
+            {
+                "manufacturer": "Tiffin Motorhomes, Inc.",
+                "productMake": "TIFFIN",
+                "productModel": "ALLEGRO",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THERE IS PLAY IN  STEERING WHEEL WHICH CAUSES  VEHICLE TO WANDER BETWEEN LANES WHEN TRAVELING AT HIGHER SPEEDS.  CONSUMER FEELS THAT THIS IS UNSAFE TO OPERATE WITH OTHER VEHICLES ON THE ROAD.  DEALERSHIP INFORMED  CONSUMER OF A FEW ITEMS THAT COULD RESULT IN THIS DEFECT, HOWEVER,  CONSUMER FELS  IT IS POWER STEERING BOX WHICH WORE OUT, AND NEEDS TO BE REPLACED, NOT  VARIOUS ITEMS THAT DEALERSHIP IS TELLING HIM.  PLEASE PROVIDE ANY ADDITIONAL INFORMATION/ATTACHMENTS.*AK",
+        "vin": "1GBJP37N7P3"
+    },
+    {
+        "components": "PARKING BRAKE",
+        "crash": false,
+        "dateComplaintFiled": "10/08/1999",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Tiffin Motorhomes, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 548942,
+        "products": [
+            {
+                "manufacturer": "Tiffin Motorhomes, Inc.",
+                "productMake": "TIFFIN",
+                "productModel": "ALLEGRO",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DESIGN OF THE VEHICLE DOES NOT CONTAIN TWO INDEPENDENT BRAKING SYSTEMS AS REQUIRED BY NTSB, ALSO HAS AN ALLISON AT542 TRANSMISSION WHICH IS FREE WHEELING AND PREVENTS SHIFTING DOWN FOR ENGINE BRAKING, IN THE EVENT OF BRAKE FAILURE THERE IS NO ADDITIONAL BRAKE CAPABILITY PROVIDED DUE TO DESIGN (LACK OF EMERGENCY BRAKE/DESIGN FLAW). MJS",
+        "vin": "4CDR5BM22P2"
+    }
+]

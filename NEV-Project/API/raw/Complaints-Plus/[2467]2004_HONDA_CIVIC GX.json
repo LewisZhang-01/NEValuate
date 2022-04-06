@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "02/01/2018",
+        "dateOfIncident": "01/18/2018",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11066472,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "CIVIC GX",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TAKATA RECALL",
+        "vin": "1HGEM22104L"
+    }
+]

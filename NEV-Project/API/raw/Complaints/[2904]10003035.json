@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "01/20/2003",
+        "dateOfIncident": "11/01/2000",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003035,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "CONTOUR",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AUTOMATIC TRANSMISSION WILL NOT ENGAGE SECOND GEAR OR OVERDRIVE. VEHICLE HAS ONLY 89000 MILES.",
+        "vin": "3FALP67LXSM"
+    }
+]

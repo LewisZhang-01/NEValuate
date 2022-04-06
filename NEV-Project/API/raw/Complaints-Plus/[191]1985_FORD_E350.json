@@ -1,0 +1,76 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "11/25/2002",
+        "dateOfIncident": "10/29/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 8023220,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "E350",
+                "productYear": "1985",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "MARSHAL/CENTRAL",
+                "productMake": "MARSHAL/CENTRAL",
+                "productModel": "MARSHAL/CENTRAL",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHILE DRIVING 50MPH HAD TREAD SEPARATION ON FRONT RIGHT TIRE. PLEASE PROVIDE SIZE OF TIRE AND DOT #. NON ORIGINAL EQUIPMENT. TS  ON SEVERAL OTHER OCCASIONS, TIRE SEPARATED AND ANOTHER BLEWOUT WHILE SITTING IN THE GARAGE.   DOT H2XLYCP459 AND H2XLYCP449.  *TT",
+        "vin": "1FTHS34LXFH"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "04/30/1996",
+        "dateOfIncident": "03/15/1996",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 983790,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "E350",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ELECTRICAL SHORT, SMOKE WAS COMING UNDER THE DASH AND VENT AND VEHICLE WOULD NOT SHUT OFF.  *AK",
+        "vin": "1FTHS34L4FH"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "04/30/1996",
+        "dateOfIncident": "03/15/1996",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 983790,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "E350",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ELECTRICAL SHORT, SMOKE WAS COMING UNDER THE DASH AND VENT AND VEHICLE WOULD NOT SHUT OFF.  *AK",
+        "vin": "1FTHS34L4FH"
+    }
+]

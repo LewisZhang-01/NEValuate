@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "01/22/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Volvo Trucks North America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004348,
+        "products": [
+            {
+                "manufacturer": "Volvo Trucks North America",
+                "productMake": "VOLVO",
+                "productModel": "VN610",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING CONSUMER DASH LOSES POWER.",
+        "vin": "4VG7DAJH1XN"
+    }
+]

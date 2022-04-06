@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "04/01/2003",
+        "dateOfIncident": "03/01/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10014852,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE DOORS WERE NOT PROPERLY SEALED WHICH COULD HAVE  RESULTED FROM DEBRIS ON THE ROAD/WEATHER CORRODING THE DOOR. THE MANUFACTURER AND DEALERSHIP WERE AWARE OF THE PROBLEM, BUT DID NOT HAVE A REMEDY.  *JB....*AK",
+        "vin": "1FMDU74W92Z"
+    }
+]

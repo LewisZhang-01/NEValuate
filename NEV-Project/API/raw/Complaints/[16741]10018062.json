@@ -1,0 +1,32 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING,TIRES",
+        "crash": false,
+        "dateComplaintFiled": "11/18/2003",
+        "dateOfIncident": "06/01/2003",
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018062,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TEMPO",
+                "productYear": "1988",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "LEMANS RADIAL A/T",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE TREADS OF THE TIRE WARPED WITH ONLY 10000 MILES ON IT (FIRESTONE LEMANS RADIAL AT).  *NLM  SHORTLY AFTER THE TIRE WAS CHANGED A FIRE STARTED UNDER THE HOOD.  *NLM",
+        "vin": "1FAPP36X8JK"
+    }
+]

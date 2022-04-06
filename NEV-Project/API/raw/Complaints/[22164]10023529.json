@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "06/22/2003",
+        "dateOfIncident": "06/22/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10023529,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "CHEROKEE",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENGINE COMPLETELY DIES WHILE NEGOTIATING SHARP LEFT OR LEFT U-TURN WHEN FUEL GAUGE READS .25 TANK OR LESS REMAINING.   *NLM",
+        "vin": "1J4FJ68S0WL"
+    }
+]

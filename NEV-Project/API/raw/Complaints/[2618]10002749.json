@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": true,
+        "dateComplaintFiled": "01/15/2003",
+        "dateOfIncident": "07/14/2002",
+        "fire": false,
+        "manufacturer": "Porsche Cars North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002749,
+        "products": [
+            {
+                "manufacturer": "Porsche Cars North America, Inc.",
+                "productMake": "PORSCHE",
+                "productModel": "BOXSTER",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Continental Tire the Americas, LLC",
+                "productMake": "CONTINENTAL",
+                "productModel": "CONTINENTAL",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "ORIGINAL EQUIPMENT TIRES ON 2002 PORSCHE BOXTER S ARE NOT SAFE ON WET PAVEMENT. THE TYPE OF TIRES ARE DESIGNED FOR CLEAN DRY PAVEMENT ONLY. VERY DANGEROUS ON WET PAVEMENT. NO WARNING IS PROVIDED TO OWNER. NOT DISCLOSED TO OWNER, TIRE MANUFACTURER WARNS OF USE ON OTHER THAN CLEAN DRY PAVEMENT. CAR HYDROPLANNED DURING FIRST RAINSTORM AND CAUSED SERIOUS ACCIDENT ON BUSY INTERSTATE HIGHWAY. TIRES HAD TO BE REPLACED.",
+        "vin": "WP0CB29872U"
+    }
+]

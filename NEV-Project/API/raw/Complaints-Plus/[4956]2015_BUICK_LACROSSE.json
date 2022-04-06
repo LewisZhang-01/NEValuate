@@ -1,0 +1,706 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "01/04/2022",
+        "dateOfIncident": "11/25/2021",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11446130,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "LACROSSE",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact owns a 2015 Buick Lacrosse. The contact stated that upon starting the vehicle, he noticed that the steering wheel did not have power steering. The warning message \"Service Power Steering\" was illuminated. The contact was able to take the vehicle to the dealer by forcefully steering the steering wheel. The dealer test drove the vehicle and diagnosed that no issues were found. The contact stated that the failure reoccurred while driving. The contact veered to the side of the road. The contact stated that after turning off and restarting the vehicle, the steering wheel regained power steering functionality. The vehicle was taken back to the dealer who diagnosed that no issues were found. The manufacturer was not notified of the failure. The vehicle was not repaired. The failure mileage was approximately 69,100.",
+        "vin": "1G4GB5G3XFF"
+    },
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "10/27/2021",
+        "dateOfIncident": "07/28/2021",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11438406,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "LACROSSE",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Power steering went out while driving roughy 45/50 mph.  Unknown reason why it went out.",
+        "vin": "1G4GB5G30FF"
+    },
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "08/05/2021",
+        "dateOfIncident": "07/27/2021",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11427844,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "LACROSSE",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "While driving at approximately 55 mph, my power steering went out (at first I thought I had blown a tire).  It became almost impossible to perform any quick/reactionary steering changes.  I put on my hazards and drove to the dealership and then for a second opinion with my local trusted mechanic.  Both advised the electronic steering assembly went bad, that there is a new part #, indicative of a high failure rate; however, the part is not available in all of North America (they checked.) they called GM Buick and were advised an ETA on the backorder for the part is unknown.  They filed for an emergency backorder request and are awaiting further information.  Now, I have an undriveable vehicle, there are no loaner cars available, the cheapest rental car is a full car payment every three days, and no idea how long before the vehicle will be able to be repaired as it is too dangerous to drive in its current state.  I think this needs to be investigated, as this issue sounds like it should be a recall before someone gets killed.",
+        "vin": "1g4gb5g30ff"
+    },
+    {
+        "components": "SERVICE BRAKES",
+        "crash": true,
+        "dateComplaintFiled": "06/25/2021",
+        "dateOfIncident": "06/05/2021",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 11422247,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "LACROSSE",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact owned a 2015 Buick Lacrosse. The contact stated while making a right turn and attempted to depress the brake pedal but failed to stop. The contact stated no warning light was illuminated. The contact stated he crashed into a low road divider and came to a stop.  The air bags did not deploy. The contact sustained injuries on his left shoulder down to his left hip but did not seek medical attention. A police report was filed. The vehicle was not drivable. The insurance company deemed the vehicle a total loss. The contact towed the vehicle to his residence and then to the local dealer. The manufacturer had been informed of the failure. The failure mileage was approximately 45,000. The VIN was not available.",
+        "vin": ""
+    },
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "05/23/2021",
+        "dateOfIncident": "05/12/2021",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11418204,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "LACROSSE",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKE FAILED",
+        "vin": "1G4GB5G30FF"
+    },
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "03/04/2021",
+        "dateOfIncident": "02/20/2021",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11399060,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "LACROSSE",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SERVICE AIR BAG MAINTENANCE WARNING &#9888;&#65039;",
+        "vin": "1G4GC5G30FF"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "02/07/2021",
+        "dateOfIncident": "02/06/2021",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11395038,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "LACROSSE",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WOULD NOT START AT ALL, ONCE WE GOT IT STARTED AND HEADED DOWN THE ROAD, THE CAR SHUT OFF WHILE DRIVING. VERY DANGEROUS.",
+        "vin": "1G4GB5G3XFF"
+    },
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "10/30/2020",
+        "dateOfIncident": "08/15/2020",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11372440,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "LACROSSE",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2015 BUICK LACROSSE. THE CONTACT STATED THAT UPON PARKING HER VEHICLE IN HER GARAGE, A STRONG FUEL ODOR EMITTED FROM THE VEHICLE. THE CONTACT TOOK THE VEHICLE TO LOU FUSZ BUICK GMC (10950 PAGE AVE, ST. LOUIS, MO 63132) WHERE THE VEHICLE WAS DIAGNOSED WITH A FUEL LEAK. THE CONTACT HAD THE VEHICLE REPAIRED OUT OF POCKET. THE MANUFACTURER WAS NOT NOTIFIED OF THE FAILURE. THE VEHICLE WAS REPAIRED. THE FAILURE MILEAGE WAS APPROXIMATELY 34,000.",
+        "vin": "1G4GB5G33FF"
+    },
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "08/21/2020",
+        "dateOfIncident": "08/20/2020",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11350626,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "LACROSSE",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2015 BUICK LACROSSE. THE CONTACT STATED THAT WHILE PARKING HER VEHICLE AT A LOW RATE OF SPEED, THE POWER STEERING DRIVE WITH CARE AND SERVICE BRAKE ASSIST WARNING MESSAGES APPEARED ON THE INSTRUMENT PANEL. THE STEERING WHEEL BECAME STIFF AND DIFFICULT TO MANEUVER. THE CONTACT WAS ABLE TO DRIVE THE VEHICLE TO AN INDEPENDENT MECHANIC WHO INFORMED HER THAT SINCE THE VEHICLE WAS AN ELECTRIC VEHICLE, THE VEHICLE WOULD HAVE TO BE SERVICED AT A DEALER. THE CONTACT SPOKE TO CLASSIC BUICK GMC ARLINGTON (1400 E INTERSTATE 20, ARLINGTON, TX 760180) WHERE SHE WAS INFORMED TO BRING THE VEHICLE IN FOR INSPECTION. THE MANUFACTURER HAD YET TO BE NOTIFIED OF THE FAILURE. THE VEHICLE HAD YET TO BE REPAIRED. THE FAILURE MILEAGE WAS 79,150.",
+        "vin": "1G4GB5G37FF"
+    },
+    {
+        "components": "EXTERIOR LIGHTING",
+        "crash": false,
+        "dateComplaintFiled": "08/01/2020",
+        "dateOfIncident": "06/25/2020",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11342657,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "LACROSSE",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING HOME ON A CITY STREET WE NOTICED THAT BOTH LOW AND HIGH BEAM LIGHTS WERE NOT WORKING.",
+        "vin": "1G4GB5G3XFF"
+    },
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "04/20/2020",
+        "dateOfIncident": "11/08/2017",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11321746,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "LACROSSE",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "RADIO WON'T TURN ON AFTER I START CAR. HOWEVER IF I TURN ON RADIO BEFORE STARTING CAR AND THE DOOR IS OPEN IT WILL COME ON.  IF I LEAVE THE RADIO ON AND SHUT CAR DOWN AND LEAVE CAR, WHEN I RETURN  & BEFORE START THE CAR, THE RADIO WILL COME ON UPON START UP. SEEM LIKE THERE IS A RADIO CONTROL SWITCH IN THE DOOR AREA THAT IS TEMPERMENTAL.",
+        "vin": "1G4GB5G39FF"
+    },
+    {
+        "components": "STEERING,ELECTRICAL SYSTEM,VISIBILITY/WIPER",
+        "crash": false,
+        "dateComplaintFiled": "01/26/2020",
+        "dateOfIncident": "01/21/2020",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11301958,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "LACROSSE",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "MY HEADLIGHTS CONTINUE TO  BLOW,  MY WINDSHIELD  WIPERS WILL NOT COME ON. MY RADIO GOES OUT AND ON. WHEN STARTING MY CAR USING PUSH START   MY CAR STALL. HESITATE TO  START BUT FINALLY STARTS AFTER  SO MANY TRIES. I HAVE HAD TO JUMP START CAR AND RECENTLY HAD A BATTERY REPLACED. NOW THE POWER STEERING IS GONE OUT. I CAN BARELY TURN STEERING  WHEEL., THIS HAPPENED  WHILE DRIVING  HOME FROM WORK. MY DASHBOARD IS VERY DIM. IT WENT COMPLETELY BLACK A COUPLE OF TIMES WHILE DRIVING WHEN CAME BACK IT'S BARELY LIT   I CAN BARELY SEE GAS GAUGE, OR SPEED ODOMETER.",
+        "vin": "1G4GB5G3XFF"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "12/19/2019",
+        "dateOfIncident": "12/19/2019",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11290147,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "LACROSSE",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I HAVE BEEN HAVING PROBLEMS WHERE MY CAR WONT START, WHEN TRYING LIGHTS RAPIDLY BLINK, SOMETIMES THE RADIO AND DIRECTIONALS WONT WORK, AND SOMETIMES IT CUTS OFF WHILE DRIVING. MY CAR IS A 2015 BUICK LACROSSE WITH 14K MILES ON IT.",
+        "vin": "1G4GB5G34FF"
+    },
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "11/01/2019",
+        "dateOfIncident": "10/30/2019",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11277558,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "LACROSSE",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SUNROOF SPONTANEOUSLY EXPLODED WHILE DRIVING ON THE HIGHWAY AT APPROXIMATE SPEED OF 65 MPH. OCCURRED WHILE DRIVING OPEN AREA AND NOTHING HIT THE VEHICLE. TEMPERATURE WAS APPROXIMATELY 41 DEGREES AT ABOUT 7:30PM WITH NO RAIN, SNOW, ETC. AT THE TIME OF INCIDENT. THERE WAS A VERY LOUD \"BANG\" SOUND WITH 5 PASSENGERS IN VEHICLE AT THE TIME. INSIDE TEMPERATURE OF VEHICLE SET AT 72 DEGREES. SOME VERY SMALL PIECES \"SAND LIKE\" OF GLASS WERE NOTICED ON CENTER CONSOLE, FRONT SEATS. NOT SURE WHERE ELSE.  A NEW INSURANCE CLAIM HAS BEEN INITIATED. THE DEALERSHIP SERVICE TECH ISN'T GOING TO CONTACT GM TO ADVISE OF ANY POSSIBLE DEFECT SINCE HE BELIEVES THE SUNROOF MUST HAVE BEEN HIT BY SOME OBJECT ON THE OUTSIDE SINCE THE HOLE IS IN CENTER AND HE SAW NO CRACKS OR ANYTHING COMING FROM AN EDGE. ADDITIONALLY, HE NEVER HEARD OF ANY INSTANCES LIKE THIS WITH BUICK/GM EVEN THOUGH I BELIEVE THIS COULD BE A FIRST OF MANUFACTURING, SAFETY, RECALL ISSUE.",
+        "vin": "1G4GF5G33FF"
+    },
+    {
+        "components": "INTERIOR LIGHTING",
+        "crash": false,
+        "dateComplaintFiled": "07/09/2019",
+        "dateOfIncident": "07/09/2019",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11230271,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "LACROSSE",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2015 BUICK LACROSSE. CONSUMER WRITES IN REGARDS TO PROBLEMS WITH THE INTERIOR LIGHTS. *LD    THE CONSUER STATED THE ALL THE INTERIOR LIGHTS WOULD TURN OFF AND ON INDEPENDENTLY. *JS",
+        "vin": ""
+    },
+    {
+        "components": "AIR BAGS,SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "12/26/2018",
+        "dateOfIncident": "12/19/2018",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11163532,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "LACROSSE",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2015 BUICK LACROSSE. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 16V651000 (AIR BAGS, SEAT BELTS). THE CONTACT STATED THAT THE MANUFACTURER EXCEEDED A REASONABLE AMOUNT OF TIME FOR THE RECALL REPAIR. HENNESSY BUICK GMC (7261 JONESBORO RD, MORROW, GA 30260, (844) 240-2177) WAS CONTACTED AND CONFIRMED THAT THE PARTS WERE NOT AVAILABLE FOR THE RECALL REMEDY. THE MANUFACTURER WAS MADE AWARE OF THE ISSUE AND WAS NOT ABLE TO CONFIRM WHEN THE PARTS WERE TO BECOME AVAILABLE. THE CONTACT HAD NOT EXPERIENCED A FAILURE. THE VIN WAS UNKNOWN.",
+        "vin": ""
+    },
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "10/21/2018",
+        "dateOfIncident": "10/20/2018",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11141663,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "LACROSSE",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I WAS DRIVING ON THE HIGHWAY AT APPROXIMATELY 70 MILES AN HOUR WHEN MY POWER STEERING WENT OUT.  WITH GREAT DIFFICULTY I WAS ABLE TO MOVE ACROSS LANES AND GET TO AN EXIT.  I DROVE TO THE NEAREST BUICK DEALER WHO SAID THEY WERE TOO BACKED UP TO HELP.  WHILE AT THE BUICK DEALER I TURNED THE ENGINE OFF.  WHEN I TURNED THE ENGINE BACK ON, THE POWER STEERING WAS WORKING AGAIN.",
+        "vin": "1G4GF5G30FF"
+    },
+    {
+        "components": "EXTERIOR LIGHTING",
+        "crash": false,
+        "dateComplaintFiled": "08/10/2018",
+        "dateOfIncident": "07/10/2018",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11118910,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "LACROSSE",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2015 BUICK LACROSSE EQUIPPED WITH ADAPTIVE HEADLIGHTS. WHILE DRIVING DOWNHILL AT NIGHT, THE HEADLAMPS FAILED TO PROVIDE ADEQUATE ILLUMINATION. THE CONTACT STATED THAT THE FAILURE OCCURRED ONLY WHILE TRAVELING DOWNHILL. THE VEHICLE WAS TAKEN TO BURNWORTH-ZOLLARS CHEVROLET (350 US-6, LIGONIER, IN 46767, (260) 894-3127) TO BE DIAGNOSED. THE CONTACT STATED THAT THE HEADLAMPS WERE ADJUSTED; HOWEVER, THE FAILURE PERSISTED. THE MANUFACTURER WAS NOT CONTACTED. THE APPROXIMATE FAILURE MILEAGE WAS 5,000.   **TR  *JS",
+        "vin": "1G4GB5GR7FF"
+    },
+    {
+        "components": "STEERING,ELECTRICAL SYSTEM,SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "06/12/2018",
+        "dateOfIncident": "05/29/2018",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11101373,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "LACROSSE",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING AROUND 65 MPH ON A HIGHWAY.  THE BATTERY LIGHT WENT ON.  THEN SUDDENLY THE POWER STEERING AND BRAKES DIED.   IT WAS VERY SCARY.  A HUGH SAFETY ISSUE, THIS VERY EASILY COULD HAVE LEAD TO A SERIOUS ACCIDENT, CRASH OR DEATH.  THE STEERING WAS VERY DIFFICULT TO TURN AND THE BRAKES HARD TO PUSH DOWN. BUT THE CAR WAS STILL RUNNING AND LUCKILY I WAS CLOSE TO A EXIT. I PULLED OFF THE HIGHWAY AND STOPPED IN STORE PARKING LOT.  IT WOULD NOT START AFTER GETTING THERE.   I HAD TO HAVE IT  TAKEN TO A BUICK DEALERSHIP.  IT WAS ALSO SHOWING A AIR BAG ERROR MESSAGE.  THEY TOLD ME IT HAD TO DO WITH THE SEAT POSITION OR SOMETHING LIKE THAT.  I HAVE HAD IT THERE 6 TIMES THIS YEAR WITH THE SAME ISSUE.  ABOUT 3 WEEKS AGO FOR THE 7TH TIME OF TAKING IT THERE THEY FINALLY REPLACED THE HYBRID BATTERY STATING THAT WAS THE PROBLEM.  HOWEVER  IT WORKED FOR ONLY 9 DAYS.   WHEN I WENT TO DRIVE IT ON THE NINTH DAY,  THE BATTERY LIGHT WAS AGAIN ON AND HAD NO POWER STEERING OR BRAKES.  I LEFT IT IN MY GARAGE, BUT ULTIMATELY HAD TO TAKE IT BACK TO THE COMPANY WHO HAS NOW HAD IT FOR 2 WEEKS STATING THAT THERE IS SOME TYPE OF PARASITIC DRAW ON THE BATTER AND IT WON'T HOLD A CHARGE.  THEY ALSO CAN'T FIND THE ISSUE WITH WHAT'S WRONG WITH THE CAR.  THIS CAR IS NOT SAFE AND SHOULD BE RECALLED.",
+        "vin": "1G4GB5GR6FF"
+    },
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "04/17/2018",
+        "dateOfIncident": "02/05/2018",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 2,
+        "odiNumber": 11088636,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "LACROSSE",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNED A 2015 BUICK LACROSSE. WHILE DRIVING AT AN UNKNOWN SPEED, ANOTHER VEHICLE CRASHED HEAD ON INTO THE CONTACT'S VEHICLE. THE AIR BAGS DID NOT DEPLOY. BOTH DRIVERS SUSTAINED MAJOR INJURIES, WHICH REQUIRED MEDICAL ATTENTION. A POLICE REPORT WAS FILED. THE VEHICLE WAS DESTROYED AND TOWED. THE MANUFACTURER AND DEALER WERE NOT NOTIFIED. THE FAILURE MILEAGE WAS 15,000. *TT",
+        "vin": "1G4GB5G37FF"
+    },
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "02/19/2018",
+        "dateOfIncident": "02/13/2018",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11073578,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "LACROSSE",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "POWER STEERING SERVICE SOON WARNING COMES ON AND POWER STEERING IS LOST. GENERAL MOTORS HAS BEEN NOTIFIED AND DEALER HAS RESET COMPUTER. CONTINUES TO FAIL. EXTREMELY DIFFICULT TO STEER WHEN THIS HAPPENS.  HAPPENS AT SLOW SPEEDS ON CITY STREETS AND WHILE TURNING.",
+        "vin": "1G4GB5GRXFF"
+    },
+    {
+        "components": "FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "02/06/2018",
+        "dateOfIncident": "02/06/2015",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11067211,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "LACROSSE",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2015 BUICK LACROSSE. THE CONTACT STATED THAT THE VEHICLE MADE AN ABNORMAL NOISE COMING FROM THE FUEL SYSTEM. THE VEHICLE WAS TAKEN TO ED NORSE SAWGRASS AUTO MALL DEALER (14401 WEST SUNRISE BLVD, SUNRISE, FL) BUT WAS UNABLE TO DIAGNOSE THE FAILURE. THE MANUFACTURER WAS NOT NOTIFIED OF THE FAILURE. THE FAILURE MILEAGE WAS APPROXIMATELY 5.",
+        "vin": "1G4GA5G33FF"
+    },
+    {
+        "components": "EXTERIOR LIGHTING",
+        "crash": false,
+        "dateComplaintFiled": "02/05/2018",
+        "dateOfIncident": "03/03/2017",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10980649,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "LACROSSE",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2015 BUICK LACROSSE. CONSUMER WRITES REQUESTING REIMBURSEMENT FOR REPAIRS TO HEADLAMP MODULE. *LD *JS",
+        "vin": ""
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "01/30/2017",
+        "dateOfIncident": "01/26/2017",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10948575,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "LACROSSE",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE PROBLEM STARTS WITH TIRE INFLATION WARNING, THEN SEAT BELT WARNING AND QUICKLY SPREADS TO ALL SYSTEMS SHOWN ON THE INSTRUMENT PANEL. ALL SYSTEMS STOP FUNCTIONING INCLUDING TURN SIGNALS, WITH ONLY STEERING, BRAKING, AND ACCELERATOR OPERABLE. INSTRUMENT PANEL MAY GO DARK, THEN RESUME WITH SAME FAILURE LIGHTING SEQUENCE. ONSTAR STOPS WORKING. VENTILATION SYSTEM MAY RUN MAX HEAT AND OR SWITCH TO MAX COLD, THEN SHUT DOWN (WHILE DRIVING). LAST SPRING VEHICLE WOULD NOT ALLOW ENTRY, TRANSMISSION LOCKED, AND WAS TOWED TO DEALER. EARLY NOVEMBER 2016 TIRE PRESSURE WARNING FIRED (PARKED). END OF JANUARY INSTRUMENT PANEL WENT FULL SEQUENCE OF WARNING LIGHTS, WENT DARK (WHILE DRIVING).  JANUARY 26, 2016 (WHILE DRIVING FREEWAY SPEED) INSTRUMENT PANEL RAN THROUGH SEQUENCE OF WARNING LIGHTS, GAUGES FLUCTUATED WIDELY, PANEL WENT DARK, NO CONTROLS WORKED EXCEPT, BRAKES, STEERING, ACCELERATOR. TO SHUT OFF ENGINE (WHILE PARKED) TOOK THREE ATTEMPTS AND ONCE OFF INSTRUMENT PANEL CONTINUED TO DISPLACE WARNING LIGHTS. VEHICLE TOWED TO DEALER.  *TR",
+        "vin": "1G4GB5G33FF"
+    },
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "12/15/2016",
+        "dateOfIncident": "12/15/2016",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10935449,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "LACROSSE",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2015 BUICK LACROSSE. WHILE DRIVING APPROXIMATELY 5 MPH, THE WARNING CHIME SUDDENLY ACTIVATED AND THE POWER STEERING MALFUNCTIONED. THE STEERING WHEEL BECAME VERY DIFFICULT TO TURN. THE VEHICLE WAS TOWED TO THE DEALER, BUT THE CAUSE OF THE FAILURE WAS NOT DIAGNOSED. THE VEHICLE WAS NOT REPAIRED. THE MANUFACTURER WAS NOT NOTIFIED. THE FAILURE MILEAGE WAS 8,000. UPDATED 01/25/2017*CT  UPDATED 02/15/17.*JB",
+        "vin": "1G4GB5G31FF"
+    },
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "11/14/2016",
+        "dateOfIncident": "11/09/2016",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10925777,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "LACROSSE",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2015 BUICK LACROSSE. WHILE DRIVING APPROXIMATELY 35-40 MPH, A DEER STRUCK THE FRONT DRIVER'S SIDE OF THE CONTACT'S VEHICLE. THE DRIVER'S SIDE STEERING WHEEL AIR BAG DEPLOYED, BUT DID NOT FULLY INFLATE. THERE WERE NO INJURIES. A POLICE REPORT WAS FILED AND THE INSURANCE COMPANY WAS NOTIFIED.  THE VEHICLE WAS TOWED TO A TOW LOT WHERE AND WAS AWAITING INSPECTION FROM THE INSURANCE COMPANY. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 16V651000 (AIR BAGS, SEAT BELTS). THE CONTACT HAD A REPAIR APPOINTMENT AT A LOCAL DEALER. THE MANUFACTURER WAS NOT NOTIFIED OF THE FAILURE. THE VIN WAS INVALID. THE FAILURE MILEAGE WAS 25,000.",
+        "vin": "1G4GB5G37FF"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "11/01/2016",
+        "dateOfIncident": "06/12/2015",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10920478,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "LACROSSE",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2015 BUICK LACROSSE. WHILE DRIVING VARIOUS SPEEDS, \"DON'T TAKE YOUR EYES OFF THE ROAD \" BEGAN TO FLASH ON THE MESSAGE BOARD. THE FAILURE RECURRED ON NUMEROUS OCCASIONS. THE VEHICLE WAS TAKEN TO A DEALER. THE CONTACT WAS INFORMED THAT THE MESSAGE WAS ONLY SUPPOSED TO DISPLAY DURING VEHICLE START UP. IT WAS DIAGNOSED THAT A MODULE NEEDED TO BE REPLACED. THE VEHICLE WAS NOT REPAIRED. THE MANUFACTURER WAS NOTIFIED OF THE FAILURE. THE FAILURE MILEAGE WAS 50.  ...UPDATED 12/28/16 *BF  UPDATED 01/03/17.*JB",
+        "vin": "1G4GB5G30FF"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM,AIR BAGS,ELECTRONIC STABILITY CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "07/30/2016",
+        "dateOfIncident": "11/24/2015",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10891813,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "LACROSSE",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TAKATA RECALL, THE ENGINE STALLED WHILE DRIVING THE CAR ESPECIALLY DURING TURNS. THE CAR CONTINUED TO HESITATE TO STALL IN TRAFFIC. THE CAR VIBRATED NEARBY THE STEERING COLUMN WHILE DRIVING IN TRAFFIC. THE CAR FLOOR APPEARED TO CAVE IN ON THE LEFT SIDE ON THE DRIVER'S SIDE. THE HEATER FAILED TO BLOW OUT HOT AIR. THE TELEPHONE CALLS WERE DISTORTED AS EVIDENCED BY BEING UNABLE TO HEAR THE CALLER.",
+        "vin": "1G4GB5G32FF"
+    },
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "07/08/2016",
+        "dateOfIncident": "06/19/2016",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10883490,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "LACROSSE",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2015 BUICK LACROSSE. WHILE DRIVING VARIOUS SPEEDS, THE VEHICLE BECAME DIFFICULT TO CONTROL. THE CONTACT MENTIONED THAT THE VEHICLE WAS PREVIOUSLY INVOLVED IN A CRASH, BUT THE DETAILS WERE UNKNOWN. IN ADDITION, WHILE DRIVING, THE VEHICLE VEERED INTO ANOTHER LANE INDEPENDENTLY. THE VEHICLE WAS NOT DIAGNOSED OR REPAIRED. THE MANUFACTURER WAS NOTIFIED OF THE FAILURE. THE FAILURE MILEAGE WAS 15,000.",
+        "vin": "1G4GE5G33FF"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "04/22/2016",
+        "dateOfIncident": "02/01/2015",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10860891,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "LACROSSE",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2015 BUICK LACROSSE. AFTER THE CONTACT PRESSED THE START/STOP BUTTON, THE VEHICLE WOULD NOT SHUT OFF. ALSO, WHILE REDUCING SPEED TO STOP THE VEHICLE, IT SUDDENLY SHUT OFF AND COULD NOT BE RESTARTED. ON A SEPARATE OCCASION, AFTER SHUTTING THE ENGINE OFF, THE VEHICLE ERRONEOUSLY RESTARTED WITHOUT THE START/STOP BUTTON BEING PRESSED. THE VEHICLE WAS TOWED TO THE DEALER, BUT THE CAUSE OF THE FAILURE WAS NOT DETERMINED. THE MANUFACTURER WAS NOT NOTIFIED. THE FAILURE MILEAGE WAS 2,500.   UPDATED 05/26/16*LJ  THE CONSUMER STATED GM ALLOWED HER TO TRADE THE VEHICLE, FOR A 2016 MODEL. UPDATED 06/14/16.*JB",
+        "vin": "1G4GF5G33FF"
+    },
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "02/08/2016",
+        "dateOfIncident": "01/10/2016",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10824808,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "LACROSSE",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ADAPTIVE CRUISE CONTROL - VEHICLE FOLLOWS VEHICLE IN FRONT WAY TOO CLOSE. THE INTERVAL FOLLOWING DISTANCE IS 1.2 SECONDS WHEN SET TO NEAR AND 1.5 SECONDS WHEN SET TO FAR. THIS IS WAY TOO CLOSE AS MOST STATES SPECIFY NO LESS THAN 3 SECONDS. BUICK HAS NO ANSWER. PLEASE HELP...",
+        "vin": "1G4GD5G35FF"
+    },
+    {
+        "components": "AIR BAGS,VEHICLE SPEED CONTROL",
+        "crash": true,
+        "dateComplaintFiled": "10/06/2015",
+        "dateOfIncident": "09/24/2015",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10780211,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "LACROSSE",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2015 BUICK LACROSSE. WHILE ATTEMPTING TO PARK, THE VEHICLE INDEPENDENTLY SURGED FORWARD, WENT OVER A RAILROAD CROSS TIE, AND CRASHED INTO A TREE. A POLICE REPORT WAS NOT FILED. THE AIR BAGS DID NOT DEPLOY. NO INJURIES WERE SUSTAINED. THE VEHICLE WAS REPAIRED. THE MANUFACTURER WAS NOTIFIED OF THE FAILURE.   UPDATED 01/21/16*LJ *JS",
+        "vin": "1G4GB5G3XFF"
+    }
+]

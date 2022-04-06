@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "05/05/2003",
+        "dateOfIncident": "05/05/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018166,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SAFARI",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE'S WINDSHIELD WIPER EXPERIENCED THE SAME DEFECT AS STATED IN RECALL 03 V 159 000, BUT IT'S VIN NUMBER IS NOT INCLUDED.",
+        "vin": "1GKEL19W7TB"
+    }
+]

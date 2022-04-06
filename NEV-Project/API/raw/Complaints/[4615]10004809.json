@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "01/28/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004809,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "BLAZER",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE POWER DOOR LOCKS WOULD LOCK ON ITS OWN WHEN VEHICLE HAS BEEN STARTED. THE POWER DOOR LOCKS NOT SUPPOSE TO LOCK UNTIL THE GEARS HAVE BEEN LOCKED. HAVE TAKEN TO DEALERSHIP. MECHANIC COULD NOT LOCATE CAUSED OF PROBLEM. TS",
+        "vin": "1GNCS13W32K"
+    }
+]

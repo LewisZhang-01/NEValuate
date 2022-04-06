@@ -1,0 +1,54 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "11/12/2004",
+        "dateOfIncident": "06/01/2004",
+        "fire": false,
+        "manufacturer": "SAFARI MOTOR COACHES, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10101424,
+        "products": [
+            {
+                "manufacturer": "SAFARI MOTOR COACHES, INC.",
+                "productMake": "HARNEY",
+                "productModel": "RENEGADE",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE LEFT ROTOR HAD A SIGNIFICANT CRACK AND THE RIGHT ROTOR HAD SIGNS OF HEAT STRESS.   *NM   THERE WERE PROBLEMS WITH THE CALIPERS.  THE LEFT ROTOR HAD SIGNIFICANT CRACK AND THE RIGHT ROTOR HAD SIGNS OF HEAT STRESS.  THE FRONT BRAKES OVERHEATED AND THE ABS LIGHT CAME ON AND REMAINED ON.  RECALL# 02V278000.     *SC",
+        "vin": "4SLG8BP2711"
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "09/09/2004",
+        "dateOfIncident": "07/15/2004",
+        "fire": false,
+        "manufacturer": "SAFARI MOTOR COACHES, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10091712,
+        "products": [
+            {
+                "manufacturer": "SAFARI MOTOR COACHES, INC.",
+                "productMake": "HARNEY",
+                "productModel": "RENEGADE",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "GT",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHILE DRIVING THE TRAILER, HAULING ON SIX DIFFERENT OCCASIONS, AND A TIRE BLEW OUT WITHIN A TWO WEEK PERIOD.  EACH TIME CONSUMER REPLACED THE TIRE.   THERE WAS NOTHING IN THE ROAD.  TIRES AND  TRAILER HAD A DEFECT.*AK",
+        "vin": "1K9500R3021"
+    }
+]

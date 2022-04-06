@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "02/27/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009512,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER WAS INFORMED NO PARTS WERE AVAILABLE REGARDING THE RECALL FOR WHEEL BEARING RECALL # 01I017000, THE MANUFACTURER HAD NOT SENT ANY PARTS.*JB",
+        "vin": "1FAFP3437YW"
+    }
+]

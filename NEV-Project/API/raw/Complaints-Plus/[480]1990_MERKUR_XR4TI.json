@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "08/05/1996",
+        "dateOfIncident": "06/14/1996",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 505800,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERKUR",
+                "productModel": "XR4TI",
+                "productYear": "1990",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BATTERY LEAK, CAUSING WIRING HARNESS DEFECT/CORRODED FIRE WALL.",
+        "vin": ""
+    }
+]

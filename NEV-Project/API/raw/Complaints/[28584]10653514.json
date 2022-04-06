@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "11/07/2014",
+        "dateOfIncident": "10/15/2013",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10653514,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2005 FORD FOCUS ZX3 TAILGATE WILL NOT LATCH CAUSING DOOR TO FLY OPEN WHEN I HIT A BUMP.  *TR",
+        "vin": "3FAFP31N85R"
+    }
+]

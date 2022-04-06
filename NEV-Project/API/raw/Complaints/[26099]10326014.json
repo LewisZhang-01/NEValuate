@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "04/16/2010",
+        "dateOfIncident": "04/15/2010",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10326014,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "GRAND CHEROKEE",
+                "productYear": "2009",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "EAGLE RS-A EMT",
+                "productYear": "9999",
+                "size": "285/40R20",
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE CONTACT OWNS A 2009 JEEP GRAND CHEROKEE. WHILE DRIVING AT LOW SPEEDS, THE INNER TREAD OF THE TIRE SEPARATED AND LOST ALL PRESSURE WITHIN SECONDS. THE DEALER WHERE THE TIRES WERE PURCHASED NOTIFIED THE MANUFACTURER BUT THEY OFFERED NO ASSISTANCE. THE VIN WAS NOT AVAILABLE. THE FAILURE MILEAGE WAS 21,000 AND THE CURRENT MILEAGE IS 21,000.  *TR",
+        "vin": ""
+    }
+]

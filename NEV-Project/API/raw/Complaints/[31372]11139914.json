@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "10/12/2018",
+        "dateOfIncident": "08/15/2018",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11139914,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "X3",
+                "productYear": "2018",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AT BETWEEN 52 MPH AND SAY 60 MPH STEERING WHEEL BUZZES AND SHAKES. SEEMS TO BE SOMETHING WITH LANE DEPART SYSTEM EVEN WHEN SHUT OFF. EXCESSIVE FRONT PASS TIRE WEAR ALSO. NO FIX FROM DEALER YET?",
+        "vin": "5UXTS3C51J0"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "05/06/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018255,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "JIMMY",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE EXPERIENCED THE SAME DEFECT AS STATED IN RECALL 03 V 159 000, HOWEVER THE VEHICLE IDENTIFICATION NUMBER WAS NOT INCLUDED IN THE RECALL.   *JB  THE PROBLEM OCCURS EVERYTIME IT RAINS.  THE FRONT WIPERS EITHER WON'T WORK AT ALL WHEN IT RAINS OR WILL STOP IN MID SWEEP WHEN IT RAINS.  THE PROBLEM ONLY OCCURS WHEN IT'S WET.  *SCC",
+        "vin": "1GKDT13W8T2"
+    }
+]

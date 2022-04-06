@@ -1,0 +1,134 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "09/12/2000",
+        "dateOfIncident": "09/04/2000",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 870241,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "TOWN CAR",
+                "productYear": "1983",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TILT YOKE IN THE STEERING WHEEL BROKE, CAUSING STEERING WHEEL NOT TO LOCK IN PLACE. MANUFACTURER NOTIFIED, AND INFORMED CONSUMER THAT PART WAS NOT UNDER A RECALL, AND ANY REPAIRS WOULD BE AT CONSUMER'S COST. PLEASE PROVIDE ANY FURTHER DETAILS.  *AK",
+        "vin": "1LNBP96F1DY"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "03/17/1998",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 532678,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "TOWN CAR",
+                "productYear": "1983",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENGINE STOPS OR REFUSES TO START.",
+        "vin": "1LNBP96F6DY"
+    },
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "03/17/1998",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 532678,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "TOWN CAR",
+                "productYear": "1983",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "POOR ACCELERATION/FLOODING",
+        "vin": "1LNBP96F6DY"
+    },
+    {
+        "components": "LATCHES/LOCKS/LINKAGES",
+        "crash": false,
+        "dateComplaintFiled": "02/20/1996",
+        "dateOfIncident": "01/12/1996",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 979394,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "TOWN CAR",
+                "productYear": "1983",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE PASSENGER SIDE DOOR DOES NOT STAY LOCKED IN THE OPEN POSITION.  TT",
+        "vin": "1LNBP93F2DY"
+    },
+    {
+        "components": "LATCHES/LOCKS/LINKAGES",
+        "crash": false,
+        "dateComplaintFiled": "02/20/1996",
+        "dateOfIncident": "01/12/1996",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 979394,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "TOWN CAR",
+                "productYear": "1983",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE PASSENGER SIDE DOOR DOES NOT STAY LOCKED IN THE OPEN POSITION.  TT",
+        "vin": "1LNBP93F2DY"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "06/27/1995",
+        "dateOfIncident": "06/21/1995",
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 967817,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "TOWN CAR",
+                "productYear": "1983",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENGINE COMPARTMENT FIRE, GASOLINE LEAK IN TOP AT ENGINE INTAKE  CAUSED THE FIRE.  *AK",
+        "vin": "1LNDP96F6DY"
+    }
+]

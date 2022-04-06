@@ -1,0 +1,31 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "01/23/2003",
+        "dateOfIncident": "01/22/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003306,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "MUSTANG",
+                "productYear": "1995",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "AIR BAG SWITCH",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "1995 FORD MUSTANG, 6 CYL.   THE RUBBER SEAL BETWEEN THE GAS TANK AND THE FILLER TUBE IS LEAKING.  THIS IS THE SECOND TIME IN TWO YEARS THAT THIS HAS HAPPENED. THE SEAL WAS REPLACED TWO YEARS AGO, AND WILL HAVE TO BE REPLACED AGAIN. THE LEAK IS SUBSTANTIAL,  IT IS A STEADY DRIP, 1/2 GALLON PER HOUR.",
+        "vin": "1FALP4043SF"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "01/25/2005",
+        "dateOfIncident": "12/01/2004",
+        "fire": false,
+        "manufacturer": "AM GENERAL LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10107897,
+        "products": [
+            {
+                "manufacturer": "AM GENERAL LLC",
+                "productMake": "AM GENERAL",
+                "productModel": "HUMMER",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE U.S. ARMY HAS RECENTLY MADE IT MANDATORY FOR ALL SOLDIERS DRIVING IN HUMMV'S (AND OTHER TACTICAL VEHICLES) TO WEAR THE KEVLAR HELMETS, EVEN ON PUBLIC HIGHWAYS.  MOST OF THESE VEHICLES HAVE NO HEADREST.  REQUIRING SOLDIERS TO ADD THE WEIGHT OF THE HELMET (3.1 TO 4.2 POUNDS) TO THEIR CRANIUM WILL SUBSTANTIALLY INCREASE THE PROBABILITY OF NECK INJURIES IN ANY VEHICLE ACCIDENT.   *NM",
+        "vin": ""
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "03/10/2004",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "AM GENERAL LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10062894,
+        "products": [
+            {
+                "manufacturer": "AM GENERAL LLC",
+                "productMake": "AM GENERAL",
+                "productModel": "HUMMER",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CYLINDER WALL NUMBER 8 CRACKED LEAVING THE ENGINE USELESS.  *PH  CONSUMER MADE AN INVESTIGATION ABOUT THE DEFECT OF THE VEHICLE AND FOUND OUT THAT GENERAL MOTORS (GM) KNEW ABOUT THE PROBLEM ON THE ENGINE BLOCK.  UP TO THIS DATE GM REFUSED TO OFFER ANY ASSISTANCE ON THE REPLACEMENT OF THE ENGINE.  DEALER SAID THAT GM KNEW ABOUT THE PROBLEM BUT NEVER GAVE ANY NOTICE OF A MAJOR ENGINE FAILURE.",
+        "vin": ""
+    }
+]

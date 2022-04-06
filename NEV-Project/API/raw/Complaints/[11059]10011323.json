@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "03/04/2003",
+        "dateOfIncident": "03/03/2003",
+        "fire": false,
+        "manufacturer": "UNKNOWN MANUFACTURER",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10011323,
+        "products": [
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Continental Tire the Americas, LLC",
+                "productMake": "CONTINENTAL",
+                "productModel": "CONTINENTAL",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "REIMBURSEMENT FOR TIRES. THE CONSUMER HAD TO REPLACE THE TIRES ON THE VEHICLE WITH LESS THAN 20,000 MILES ON THEM.  CONTINENTAL DENIED THE CONSUMER REIMBURSEMENT BECAUSE THE RECEIPT THAT WAS SUPPLIED FELL OUTSIDE THE DATE OF PURCHASE WHICH QUALIFIED FOR REIMBURSEMENT.( FORD EXPEDITION) *JB",
+        "vin": ""
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "01/21/2003",
+        "dateOfIncident": "06/01/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004322,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE APPLYING THE BRAKE THE STEERING LOCKED UP.   THE VEHICLE WOULD NOT STEER OR MOVE.  PLEASE FILL IN ADDITIONAL INFORMATION, DEALER IS AWARE OF THE PROBLEM.       PH",
+        "vin": "2G1WL52M6V9"
+    }
+]

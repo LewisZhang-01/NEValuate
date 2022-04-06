@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "04/23/2003",
+        "dateOfIncident": "03/15/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017457,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "TOWN CAR",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TWO BOLTS IN THE STEERING BOX HAD BECOME COMPLETELY BROKEN.  THEY APPEARED TO HAVE NOT BEEN TIGHTENED PROPERLY BY THE FACTORY, THE LOCK TIGHTS WERE VISIBLE ON THE THREAD, AND PORTIONS OF THE BROKEN BOLTS WERE EXTRACTED FROM THE GEAR BOX.  *NLM  *SCC",
+        "vin": "9999"
+    }
+]

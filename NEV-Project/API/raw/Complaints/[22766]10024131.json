@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "06/16/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10024131,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "INTREPID",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WATER COLLECTS IN TRUNK'S SPARE WHEEL WELL WHEN IT RAINS.  CONSUMER SUSPECTS THIS WATER LEAKAGE IS RESPONSIBLE FOR VEHICLE INTERIOR/EXTERIOR LIGHTS FLICKERING WHEN RAINING.*AK",
+        "vin": "2B3HD46RXXH"
+    }
+]

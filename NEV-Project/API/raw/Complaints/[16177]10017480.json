@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "04/24/2003",
+        "dateOfIncident": "02/02/2002",
+        "fire": false,
+        "manufacturer": "COUNTRY COACH INC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017480,
+        "products": [
+            {
+                "manufacturer": "COUNTRY COACH INC",
+                "productMake": "COUNTRY COACH",
+                "productModel": "ALLURE",
+                "productYear": "1999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Continental Tire the Americas, LLC",
+                "productMake": "CONTINENTAL",
+                "productModel": "CONTINENTAL",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHILE DRIVING 10-15 MPH THE LEFT FRONT TIRE BLEW OUT WITHOUT WARNING.   *NLM",
+        "vin": "4U7A5EJ10X1"
+    }
+]

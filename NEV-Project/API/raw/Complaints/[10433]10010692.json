@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "03/18/2003",
+        "dateOfIncident": "03/14/2003",
+        "fire": false,
+        "manufacturer": "Volvo Car USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010692,
+        "products": [
+            {
+                "manufacturer": "Volvo Car USA, LLC",
+                "productMake": "VOLVO",
+                "productModel": "V70XC",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TRANSMISSION FAILURE AT 68000 MILES WITH GOOD MAINTENANCE AND NO PRECIPITATING FACTORS. *JB",
+        "vin": "YV1LZ5644W2"
+    }
+]

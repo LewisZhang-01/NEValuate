@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "01/03/2003",
+        "dateOfIncident": "09/22/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001972,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERCURY",
+                "productModel": "MOUNTAINEER",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATES THAT WHILE BACKING UP THE VEHICLE STARTED FISH TAILING WITHOUT WARNING. THE STEERING COLUMN STARTED SMOKING. DEALER NOTIFIED. PLEASE PROVIDE ADDITIONAL INFORMATION. TS",
+        "vin": "PLEASE FILL"
+    }
+]

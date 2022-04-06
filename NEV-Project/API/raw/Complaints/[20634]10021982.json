@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "06/11/2003",
+        "dateOfIncident": "07/01/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021982,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "ESCORT",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "PROBLEM WITH FUEL TANK LEAKAGE.  *MR  THE CONSUMER OBSERVED A FUEL LEAK ON THE GROUND.  THE FUEL TANK WAS ON BACK ORDER.  THE FUEL TANK WAS DEFECTIVE AND REPLACED WITH A NEW DESIGN.  *SCC   *JB",
+        "vin": "3FASP13J7SR"
+    }
+]

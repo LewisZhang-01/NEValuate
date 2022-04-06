@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "12/17/2002",
+        "dateOfIncident": "11/24/2002",
+        "fire": true,
+        "manufacturer": "Gillig, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000189,
+        "products": [
+            {
+                "manufacturer": "Gillig, LLC",
+                "productMake": "GILLIG",
+                "productModel": "LOW FLOOR",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENGINE COMPARTMENT FIRES. TS",
+        "vin": "15GGD2217Y1"
+    }
+]

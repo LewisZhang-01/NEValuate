@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "04/30/2003",
+        "dateOfIncident": "03/30/2000",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017896,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "CENTURY",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE REAR POWER WINDOWS MOTOR FAILED WHICH CAUSED THE WINDOW TO BE INOPERATIVE.  *JB",
+        "vin": "2G4WS52MXX1"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "01/24/2003",
+        "dateOfIncident": null,
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003666,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE CONSUMER EXPERIENCED AN UNDERHOOD FIRE ON THE PASSENGER SIDE OF THE VEHICLE.  THE CONSUMER WAS UNAWARE THAT THE FIRE WAS OCCURRING UNTIL THE FIRE TRUCKS HAD COME.  SCC",
+        "vin": "1FTFF15N5CN"
+    }
+]

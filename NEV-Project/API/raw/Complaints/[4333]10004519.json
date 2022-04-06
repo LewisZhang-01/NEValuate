@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "01/23/2003",
+        "dateOfIncident": "01/12/2003",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004519,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "JETTA",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING ONE OF VEHICLE'S IGNITION COILS FAILED CAUSING CAR TO STALL.  THE DEALER ADVISED CONSUMER 1 MORE COIL OUT OF THE FOUR IS BADLY DAMAGED AND WILL SOON FAIL.  DEALER WILL NOT REPLACE UNTIL COIL FAILS.           TS",
+        "vin": "3VWSE69M42M"
+    }
+]

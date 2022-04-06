@@ -1,0 +1,39 @@
+[
+    {
+        "components": "TIRES,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "05/06/2003",
+        "dateOfIncident": "05/06/1974",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018316,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SUBURBAN",
+                "productYear": "1995",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "P23575R15",
+                "productYear": "9999",
+                "size": "P23575R15",
+                "type": "Tire"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "LT STEELTEX",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "TREAD SEPARATION OF (2) FIRESTONE BRAND TIRES, SIZE 235/75R15, CAUSING DAMAGE TO VEHICLE, AND CREATING A DANGEROUS SITUATION AS I MANEUVERED THE VEHICLE TO THE SHOULDER, TWICE, TO PERFORM REPAIRS.  *JB",
+        "vin": "1GKEC16KXSJ"
+    }
+]

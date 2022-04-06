@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "06/04/2003",
+        "dateOfIncident": "06/01/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021039,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "GRAND CARAVAN",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CLOCK SPRING ASSEMBLY FAILURE - AIRBAG WARNING LIGHT CONTINUOUSLY ON.  *NLM",
+        "vin": "1B4GP44G9XB"
+    }
+]

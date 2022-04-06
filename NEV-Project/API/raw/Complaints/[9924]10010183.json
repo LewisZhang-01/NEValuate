@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "03/09/2003",
+        "dateOfIncident": "03/08/2003",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010183,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "PASSAT",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Continental Tire the Americas, LLC",
+                "productMake": "CONTINENTAL",
+                "productModel": "CONTITOURING",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "I HAD TWO TIRES BLOW OUT WITHIN THREE WEEKS OF EACH OTHER.  THE TIRES ARE ORIGINAL TO MY 2000 VW PASSAT GLS WAGON AND HAVE APPROXIMATELY 30000 MILES OF WEAR.  THE TIRES ARE MADE IN GERMANY - MODEL: \"195/65 R15 RADIAL 91H M+S ECOPLUS CONTITOURING CONTACT\"   *NLM",
+        "vin": "WVWNA23B2YE"
+    }
+]

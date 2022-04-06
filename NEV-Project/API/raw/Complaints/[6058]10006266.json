@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "02/03/2003",
+        "dateOfIncident": "02/01/2003",
+        "fire": true,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10006266,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "SUNFIRE",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SMOKE STARTED COMING FROM UNDERNEATH THE VEHICLE INTO THE VENTS.  VEHICLE CAUGHT ON FIRE PLEASE FILL IN ADDITIONAL INFORMATION DEALER IS AWARE OF THE PROBLEM.    PH  *TR",
+        "vin": "PLEASE FILL"
+    }
+]

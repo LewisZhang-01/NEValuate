@@ -1,0 +1,46 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "01/28/2022",
+        "dateOfIncident": "01/07/2022",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 11449309,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "COROLLA",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact owns a 2022 Toyota Corolla HV. The contact stated while driving approximately 8 mph, he was struck by another vehicle. The contact stated no warning light was illuminated. The contact stated his vehicle was hit by another vehicle in the rear passenger door and spun around full 180 degrees and air bags did not deploy. The contact stated that the police had filed a report. The contact stated that his lower back was hurt and his ribs. The contact went to seek medical care after leaving the scene of the accident. The contact stated that there were no other injuries in the other vehicle. The contact\u2019s vehicle was not drivable and was towed to a collision repair center. The contact had the vehicle towed to a local dealer from the collision center and repaired but air bag non-deployment issue was not diagnosed. The contact told the dealer about the failure of the airbags to deploy, but the issue was not diagnosed. The manufacturer had been informed of the failure. The failure mileage was approximately 12,500.",
+        "vin": "JTDEAMDE2NJ"
+    },
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "10/04/2021",
+        "dateOfIncident": "08/24/2021",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 11435361,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "COROLLA",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I had purchased this car brand new the week before. Someone ran a red light and t boned me and my none of the airbags deployed.",
+        "vin": "JTDEPMAE4NJ"
+    }
+]

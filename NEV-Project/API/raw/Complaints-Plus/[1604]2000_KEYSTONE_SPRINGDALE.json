@@ -1,0 +1,53 @@
+[
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "05/22/2008",
+        "dateOfIncident": "01/01/2008",
+        "fire": true,
+        "manufacturer": "Keystone RV Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10228664,
+        "products": [
+            {
+                "manufacturer": "Keystone RV Company",
+                "productMake": "KEYSTONE",
+                "productModel": "SPRINGDALE",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Dometic Corporation",
+                "productMake": "DOMETIC",
+                "productModel": "RM2652",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 2000 KEYSTONE SPRINGDALE.  THE VEHICLE HAS A DOMETIC REFRIGERATOR, MODEL RM2652.  THE CONTACT PLUGGED IN A POWER CORD AND THE DOMETIC EXPLODED.  THE FIRE EXTINGUISHED ITSELF.  THE CONTACT HAS PICTURES AND AN EMAIL FROM DOMETIC.  SOON AFTER THE EXPLOSION, THE CONTACT RECEIVED A SAFETY RECALL NOTICE FROM DOMETIC (NHTSA CAMPAIGN ID NUMBER 07V134000 EQUIPMENT:RECREATIONAL VEHICLE).  SHE CALLED DOMETIC AND WAS INFORMED THAT THE EXPLOSION HAD NOTHING TO DO WITH THE RECALL.  THE VIN WAS UNKNOWN.  THE PURCHASE DATE AND PART NUMBER WERE UNKNOWN.",
+        "vin": ""
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "05/09/2000",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Keystone RV Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 861626,
+        "products": [
+            {
+                "manufacturer": "Keystone RV Company",
+                "productMake": "KEYSTONE",
+                "productModel": "SPRINGDALE",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKE  WARNING SWITCH WHICH IS ATTACHED TO THE HITCH WHEN ACTIVATING THE SWITCH MALFUNCTIONED, AND DID NOT ACTIVATE DUE TO THE BOX WHICH WAS NOT GROUNDED TO THE FRAME OF VEHICLE. CONSUMER HAS CONTACTED THE DEALER. CONSUMER HAS GROUNDED THE BOX TO THE FRAME OF THE VEHICLE. PLEASE PROVIDE ANY FURTHER DETAILS.  *AK",
+        "vin": "4YDF27828Y8"
+    }
+]

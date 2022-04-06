@@ -1,0 +1,46 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "09/17/1997",
+        "dateOfIncident": null,
+        "fire": true,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 522188,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "IMPALA",
+                "productYear": "1981",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENGINE COMPARTMENT FIRE.(OHIO TRAFFIC REPORT)",
+        "vin": ""
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "01/10/1995",
+        "dateOfIncident": "01/02/1995",
+        "fire": true,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 958591,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "IMPALA",
+                "productYear": "1981",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AFTER SITTING IN PARKING LOT FOR (2) HOURS VEHICLE BEGAN TO SMOKE, FIRE BROKE OUT AROUND STARTER.  TT",
+        "vin": "1G1AL69J7BJ"
+    }
+]

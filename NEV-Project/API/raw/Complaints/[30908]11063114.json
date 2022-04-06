@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "01/16/2018",
+        "dateOfIncident": "01/16/2018",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11063114,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "YUKON",
+                "productYear": "2011",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TAKATA RECALL - PURCHASED FROM A DEALER AND CALLED TWO OTHER DEALERS AND NONE HAVE PARTS FOR THE RECALL",
+        "vin": "1GKS1KE09BR"
+    }
+]

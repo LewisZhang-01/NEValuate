@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "07/18/2003",
+        "dateOfIncident": "06/19/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10024409,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TAURUS",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Continental Tire the Americas, LLC",
+                "productMake": "CONTINENTAL",
+                "productModel": "CONTINENTAL",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHILE DRIVING AT 55 MPH AND NO WARNING, THE REAR PASSENGER TIRE  EXPERIENCED A BLOW OUT, AND CAUSED THE TIRE TO SPLIT. CONTINENTAL MODEL CONTACT SA,SIZE#P21560R16,DOT#ACX844P1900. CONSUMER HAD TO PULL OVER.  *AK   *CB  *JB",
+        "vin": ""
+    }
+]

@@ -1,0 +1,83 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "12/29/2011",
+        "dateOfIncident": "11/18/2011",
+        "fire": false,
+        "manufacturer": "Forest River, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10441616,
+        "products": [
+            {
+                "manufacturer": "Forest River, Inc.",
+                "productMake": "FOREST RIVER",
+                "productModel": "WILDCAT",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "CARLISLE TIRE & RUBBER CO",
+                "productMake": "CARLISLE",
+                "productModel": "CARLISLE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "ON THREE OCCASIONS, CARLISLE TIRES PROPERLY MAINTAINED AND INFLATED TO THEIR PUBLISHED SPECIFICATIONS BLEW OUT CAUSING EXTENSIVE DAMAGE TO A FIFTH WHEEL TRAILER.  VEHICLE WAS BEING OPERATED AT 60 MPH WHEN THE FAILURE OCCURRED.      TIRES WERE RETURNED TO CARLISLE FOR INSPECTION AND THEY STATED THEY WERE DAMAGED BY IMPROPER INFLATION, AND IMPACT DAMAGE.    *KB",
+        "vin": "4X4FWCD202V"
+    },
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "09/10/2009",
+        "dateOfIncident": "09/04/2009",
+        "fire": false,
+        "manufacturer": "Forest River, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10283583,
+        "products": [
+            {
+                "manufacturer": "Forest River, Inc.",
+                "productMake": "FOREST RIVER",
+                "productModel": "WILDCAT",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Dometic Corporation",
+                "productMake": "DOMETIC",
+                "productModel": "RM2652",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "TL*-THE CONTACT OWNS A 2002 FOREST RIVER WILDCAT RV. THE VEHICLE HAS A DOMETIC REFRIGERATOR, MODEL NUMBER RM2652. THE CONTACT OBSERVED A FATIGUE CRACK IN THE BOILER TUBE, WHICH CAUSED COOLANT SOLUTION TO LEAK.  THE RELEASE OF COOLANT UNDER CERTAIN CONDITIONS COULD IGNITE AND RESULT IN A FIRE. HE CONTACTED THE MANUFACTURER IN REFERENCE TO RECALL# 08E032000 (EQUIPMENT). A REPRESENTATIVE STATED THAT THE REMEDY ONLY STATES TO INSTALL A SECONDARY BURNER HOUSING FREE OF CHARGE, BUT SINCE HIS UNIT FAILED HE IS NOT ENTITLED TO FREE REPLACEMENT. THE VEHICLE IDENTIFICATION NUMBER WAS UNAVAILABLE.",
+        "vin": ""
+    },
+    {
+        "components": "SUSPENSION,STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "06/26/2006",
+        "dateOfIncident": "06/22/2006",
+        "fire": false,
+        "manufacturer": "Forest River, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10160794,
+        "products": [
+            {
+                "manufacturer": "Forest River, Inc.",
+                "productMake": "FOREST RIVER",
+                "productModel": "WILDCAT",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DT*: THE CONTACT STATED THREE TIRES BLEW OUT ON THE TRAVEL TRAILER.  UPON INSPECTING OF THE VEHICLE THE  WELD WAS NOTICED TO BE BROKEN WHERE THE REAR SPRING CONNECTS TO THE FRAME.  THE CONTACT STATED THAT THE BROKEN WELD MAY BE THE REASON FOR THE TIRE FAILURES.  THE DEALERSHIP HAS BEEN ALERTED AND THERE WERE NO RECALLS ON THE TRAILER.  THE MANUFACTURER OF THE TRAILER IS FOREST RIVER INC.  THE MODEL IS WILDCAT; #WCF28 BH.   *AK  THE SPRING BRACKET HAD NO WELD PENETRATION ON ONE SIDE OF THE FRAME  WHICH CAUSED THE BRACKET TO BECOME LOOSE TEARING A LARGE PORTION OF THE FRAME.  UPDATED 08/25/06.  *JB",
+        "vin": "4X4FWCD262V"
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "04/07/2003",
+        "dateOfIncident": "04/05/2003",
+        "fire": false,
+        "manufacturer": "UNKNOWN MANUFACTURER",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10014062,
+        "products": [
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN1",
+                "productYear": "9999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "WAGNER ELEC. BRAKE/CLUTCH",
+                "productMake": "WAGNER",
+                "productModel": "BRAKE/CLUTCH",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "THE LOADING RAMP FELL OFF THE TRAILER AS I WAS TRAVELING DOWN THE HIGHWAY.  IT COMPLETELY SEPARATED FROM THE TRAILER AND FELL IN FRONT OF ANOTHER VEHICLE.  THERE ARE NO SAFETY DEVICES TO KEEP THE RAMP FROM SEPARATING FROM THE TRAILER.   *JB",
+        "vin": ""
+    }
+]

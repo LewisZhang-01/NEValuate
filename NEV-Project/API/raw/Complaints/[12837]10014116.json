@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "04/08/2003",
+        "dateOfIncident": "05/15/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10014116,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ABS BRAKE MODULE WENT OUT, HAD TO DISCONNECT TO PREVENT BATTERY DRAIN FROM THE ABS PUMP CONSTANTLY RUNNING. ABS BRAKES IS REPRESENTED AS A SAFETY FEATURE, I KNOW OF MULTIPLE INSTANCES OTHER THAN MYSELF OF THIS PROBLEM OCCURRING.   *NLM",
+        "vin": ""
+    }
+]

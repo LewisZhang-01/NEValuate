@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "12/18/2002",
+        "dateOfIncident": "11/22/2002",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001113,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "CHEROKEE",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATED THAT THEY HAVE THE SAME PROBLEM AS RECALL #98V048000 SEAT BELT. DEALER WILL NOT REPAIR FREE OF CHARGE BECAUSE VIN# WAS NOT INCLUDED. TS",
+        "vin": "PLEASE PROV"
+    }
+]

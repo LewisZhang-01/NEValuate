@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/16/2003",
+        "dateOfIncident": "11/16/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10023200,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO 2500",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "STEELTEX R4S",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "DRIVING ON FREEWAY WHEN MY ORIGINAL EQUIPMENT FIRESTONE STEELTEX R4S FLIPPED THE TREAD OFF SEVERELY DAMAGING MY 2001 CHEVROLET TRUCK.  I REPLACED ALL BUT THE TIRE THAT FAILED.   *NLM",
+        "vin": "1GCHC23161F"
+    }
+]

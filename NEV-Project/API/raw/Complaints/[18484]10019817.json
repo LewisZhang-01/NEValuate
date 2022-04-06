@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "05/14/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019817,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE FAILED TO SHIFT GEARS WHILE GOING UP HILLS, AND THE TRANSMISSION LIGHT WAS FLASHING. THE VEHICLE WAS SERVICED AND THE SERVO PISTON NEEDED TO BE REPLACED.     *JB",
+        "vin": ""
+    }
+]

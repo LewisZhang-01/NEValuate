@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "05/30/2003",
+        "dateOfIncident": "03/02/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022124,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "TOWN CAR",
+                "productYear": "9999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "YOKOHAMA RUBBER CO. LTD.",
+                "productMake": "YOKOHAMA",
+                "productModel": "ALL SEASON RADIAL",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "LTR FM CAROL BERMAN (NY) RE THE REFUSAL OF YOKOHAMA TIRE CORP.  *MR  THERE WAS LOSS OF TREAD.  THE MECHANIC STATED THE TIRE WAS RE-CAPPED.  THE MANUFACTURER DETERMINED THE TIRE FAILED BECAUSE OF UNDER INFLATION AND OVERLOADING WHICH CAUSED OVER DEFLECTION OF THE SIDEWALLS AND THE EXCESSIVE HEAT WEAKENED THE ADHESION BETWEEN THE RUBBER AND THE CORDS.  BASED ON THE FINDINGS THE MANUFACTURER DENIED THE PROPERTY CLAIM.   *SCC  *JB",
+        "vin": ""
+    }
+]

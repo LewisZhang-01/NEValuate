@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "07/10/2003",
+        "dateOfIncident": "05/17/2003",
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020179,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TAURUS",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE CAUGHT ON FIRE.   *JB   THE VEHICLE WAS PARKED AND LOCKED FOR 8 HOURS WHEN A NOISE WAS HEARD.  THE CONSUMER VIEWED THE FRONT OF THE VEHICLE ON FIRE.  THE INSURANCE AND FIRE INVESTIGATORS THOUGHT THAT MAYBE THE FIRE STARTED IN THE WINDSHIELD WIPER MOTOR.   *SCC   *JB",
+        "vin": "9999"
+    }
+]

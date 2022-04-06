@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "03/05/2003",
+        "dateOfIncident": "02/13/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009957,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CADILLAC",
+                "productModel": "ELDORADO",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ALL THE LIGHTS ON THE INSTRUMENT PANEL FLICKERED ON AND OFF.*JB",
+        "vin": "PLEASE FILL"
+    }
+]

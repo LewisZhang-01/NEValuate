@@ -1,0 +1,120 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "10/22/2006",
+        "dateOfIncident": "09/06/2006",
+        "fire": false,
+        "manufacturer": "INTERNATIONAL TRUCK & ENGINE CORPORATION",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10171519,
+        "products": [
+            {
+                "manufacturer": "INTERNATIONAL TRUCK & ENGINE CORPORATION",
+                "productMake": "INTERNATIONAL HARVESTER",
+                "productModel": "4700",
+                "productYear": "1999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "NEW KELLY ARMORSTEEL KLS TIRES WERE PUT ON MY WORK TRUCK WHICH HAPPENS TO BE A PROPANE DELIVERY TRUCK SINCE THEN REAR OF TRUCK WANDERS BADLY .IN THE PROCESS OF GETTING TAKEN CARE OF WITH NO HELP FROM KELLY SPRINGFIELD EXCEPT TO LOWER THE AIR PRESSURE 10 LBS IN EACH OF THE 4 DRIVE TIRES WHICH I WILL NOT DO.  *NM",
+        "vin": ""
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "03/06/2006",
+        "dateOfIncident": "02/27/2006",
+        "fire": false,
+        "manufacturer": "INTERNATIONAL TRUCK & ENGINE CORPORATION",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10152023,
+        "products": [
+            {
+                "manufacturer": "INTERNATIONAL TRUCK & ENGINE CORPORATION",
+                "productMake": "INTERNATIONAL HARVESTER",
+                "productModel": "4700",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DT*:  THE CONTACT STATED THE HYDRAULIC BRAKE CALIPERS FAILED TO RELEASE.  WHEN THE FAILURE OCCURRED IN THE FRONT BRAKE CALIPERS THE VEHICLE PULLED IN THE OPPOSITE DIRECTION OF THE WORKING CALIPER.  THE FAILURE OCCURRED WITHOUT WARNING EACH TIME.  ALTHOUGH, THERE WAS SMOKE AND SPARKS PRESENT THERE WAS NO FIRE.  THE LEFT FRONT CALIPER HAS NOT BEEN REPLACED, BUT THE OTHER THREE WERE REPLACED ON SEPARATE OCCASIONS.  THE PROBLEM OCCURRED ON SIX OCCASIONS.  THE VEHICLE IS CURRENTLY AT THE DEALERSHIP AWAITING FURTHER INVESTIGATION BY THE BRAKE MANUFACTURER.",
+        "vin": "1HTSLADMXXH"
+    },
+    {
+        "components": "SUSPENSION",
+        "crash": true,
+        "dateComplaintFiled": "10/15/2001",
+        "dateOfIncident": "10/09/2001",
+        "fire": false,
+        "manufacturer": "INTERNATIONAL TRUCK & ENGINE CORPORATION",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 753268,
+        "products": [
+            {
+                "manufacturer": "INTERNATIONAL TRUCK & ENGINE CORPORATION",
+                "productMake": "INTERNATIONAL HARVESTER",
+                "productModel": "4700",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "COMPLAINED OF KNOCKING SOUND ON PASSENGER SIDE FROM PURCHASE DATE. DEALER UNABLE TO FIND PROBLEM. COULD ONLY HEAR IT WHILE VEHICLE IN MOTION. SOUNDED LIKE HAMMER TAPPING ON PASSENGER FLOOR. PASSENGER SIDE SUSPENSION CAME APART WHILE VEHICLE TRAVELING ON HWY. DRIVER COULD NOT MAINTAIN CONTROL TRUCK STEERED OFF ROAD INTO GULLY. TOTAL LOSS. *AK",
+        "vin": "1HTSCAAM1XH"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "12/08/2000",
+        "dateOfIncident": "07/08/2000",
+        "fire": false,
+        "manufacturer": "INTERNATIONAL TRUCK & ENGINE CORPORATION",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 737518,
+        "products": [
+            {
+                "manufacturer": "INTERNATIONAL TRUCK & ENGINE CORPORATION",
+                "productMake": "INTERNATIONAL HARVESTER",
+                "productModel": "4700",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKES CONTINUALLY OVERHEATING, WEARING-OUT THE BRAKES AT VERY LOW MILEAGE.  HAVE REPLACED BRAKE PADS 5 SEPARATE TIMES; ROTORS TWICE ON THE FRONT AND THREE TIMES ON  BACK.  DEALER AND MANUFACTURER CANNOT FIND A SOLUTION TO THE PROBLEM.",
+        "vin": "1HTSCABM0XH"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": true,
+        "dateComplaintFiled": "08/23/2000",
+        "dateOfIncident": "09/20/1999",
+        "fire": false,
+        "manufacturer": "INTERNATIONAL TRUCK & ENGINE CORPORATION",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 728802,
+        "products": [
+            {
+                "manufacturer": "INTERNATIONAL TRUCK & ENGINE CORPORATION",
+                "productMake": "INTERNATIONAL HARVESTER",
+                "productModel": "4700",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THIS IS A TILT BED TOWING VEHICLE.  PARKING BRAKE APPEARS INSUFFICIENT TO HOLD VEHICLE ON GRADE WHEN LOADED WITH TOWED VEHICLE.  OPERATOR WAS RUN OVER WITH VEHICLE AFTER SETTING BRAKE AND SUFFERED SERIOUS BODILY INJURY.",
+        "vin": "1HTSCAAM9XH"
+    }
+]

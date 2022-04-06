@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "03/12/2003",
+        "dateOfIncident": "09/02/2002",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010362,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "CONCORDE",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENGINE SHUTS DOWN AFTER DRIVING MORE THAN 90 MILES WITH OUT STOPPING.*JB",
+        "vin": "2C3HD46J7XH"
+    }
+]

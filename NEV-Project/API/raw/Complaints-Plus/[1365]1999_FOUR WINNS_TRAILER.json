@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "07/02/2009",
+        "dateOfIncident": "07/01/2009",
+        "fire": false,
+        "manufacturer": "Four Winns Boats, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10275594,
+        "products": [
+            {
+                "manufacturer": "Four Winns Boats, LLC",
+                "productMake": "FOUR WINNS",
+                "productModel": "TRAILER",
+                "productYear": "1999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "CARLISLE TIRE & RUBBER CO",
+                "productMake": "CARLISLE",
+                "productModel": "RADIAL TRAIL",
+                "productYear": "9999",
+                "size": "245/75R16",
+                "type": "Tire"
+            }
+        ],
+        "summary": "CARLISLE TRAILER TIRE FAILED AFTER LESS THAN 2 YEARS AND LESS THAN 2000 MILES OF USE.  IT APPEARS THE TREAD SPLIT DOWN THE MIDDLE THEN DETACHED.  THIS IS THE SECOND SUCH FAILURE IN LESS THAN TWO YEARS.  I'M TRYING TO FIND A DECENT TRAILER TIRE. *TR",
+        "vin": ""
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "06/16/2019",
+        "dateOfIncident": "06/01/2019",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11220414,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "MURANO",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TAKAYUKI ENGINE MALFUNCTIONS WHILE IN MOTION ENGINES LIGHT BLINKING",
+        "vin": "JN8AZ08W65W"
+    }
+]

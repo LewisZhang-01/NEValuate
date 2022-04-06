@@ -1,0 +1,31 @@
+[
+    {
+        "components": "CHILD SEAT",
+        "crash": false,
+        "dateComplaintFiled": "07/10/2003",
+        "dateOfIncident": "06/19/2003",
+        "fire": false,
+        "manufacturer": "UNKNOWN MANUFACTURER",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10024402,
+        "products": [
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN1",
+                "productYear": "9999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Evenflo Company, Inc.",
+                "productMake": "EVENFLO",
+                "productModel": "CHILD SAFETY SEAT",
+                "productYear": "9999",
+                "type": "Child Seat"
+            }
+        ],
+        "summary": "EVENFLO , MODEL 4981030P1, DOM NOV-03-1999, HANDLE KEPT COMING OFF, LEAVING CHILD UNRESTRAINED.*AK  WHILE TAKING THE INFANT FROM THE VEHICLE THE HANDLE BROKE, WHICH CAUSED THE CAR SEAT TO FLIP DROPPING THE CHILD TO FALL FACE FIRST. *TS. THE MANUFACTURER SENT THE CONSUMER A NEW INFANT CAR SEAT.",
+        "vin": ""
+    }
+]

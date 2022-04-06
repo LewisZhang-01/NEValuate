@@ -1,0 +1,32 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC,VEHICLE SPEED CONTROL,TIRES,EQUIPMENT,UNKNOWN OR OTHER",
+        "crash": true,
+        "dateComplaintFiled": "08/01/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10024370,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "GOODYEAR",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE JACK BROKE WHEN THE CONSUMER WAS CHANGING A TIRE.  THE SPARE TIRE WAS A DIFFERENT SIZE FROM THE REGULAR TIRES WHICH CAUSED REAR END NOISE.  THE BRAKES LOCKED UP WHEN THE CONSUMER ATTEMPTED TO STOP WHICH CAUSED AN ACCIDENT.  THE DEALER REPLACED THE BRAKE SHOES.  THE REAR DOOR AND SPEAKERS VIBRATED WHEN THE RADIO WAS IN USE.  THE DEALER REPOSITIONED THE LOOSE INSULATION.  WHEN THE CRUISE CONTROL WAS ACTIVATED THE VEHICLE MADE NOISE AND THE ACCELERATOR PEDAL VIBRATED.  THE DEALER REPLACED THE ACCELERATOR CABLE AND PEDAL.  WHEN ACCELERATING THE VEHICLE MADE A LOUD NOISE.   *AK   *CB   *NLM",
+        "vin": "1FTZR45E22P"
+    }
+]

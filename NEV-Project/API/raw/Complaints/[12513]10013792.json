@@ -1,0 +1,32 @@
+[
+    {
+        "components": "STEERING,SUSPENSION,TIRES",
+        "crash": false,
+        "dateComplaintFiled": "04/01/2003",
+        "dateOfIncident": "12/09/2002",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10013792,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "XTERRA",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "B.F. GOODRICH TIRE CO.",
+                "productMake": "B.F.GOODRICH",
+                "productModel": "T/A",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHILE DRIVING VEHICLE PULLS TO THE RIGHT OR LEFT. ALSO, WHEN BRAKING IT TENDS TO PULL ON EITHER SIDE MAKING IT HARD TO CONTROL.  *JB",
+        "vin": "5N1MD28T62C"
+    }
+]

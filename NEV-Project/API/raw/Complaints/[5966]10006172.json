@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "02/03/2003",
+        "dateOfIncident": "02/02/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10006172,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THERE ARE PROBLEMS WITH THE SHIFTING MECHANISM ON THE TRANSMISSION. DEALER WAS CONTACTED.    PH",
+        "vin": "1GTEK19VX2E"
+    }
+]

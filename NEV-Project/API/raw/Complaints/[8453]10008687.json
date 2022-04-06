@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": true,
+        "dateComplaintFiled": "03/04/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10008687,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "ASTRO",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUEL INJECTION AND MAIN COMPUTER WERE REPLACED BECAUSE FUEL LEAKED WHERE GAS RAN THROUGH ELECTRICAL HARNESS INTO COMPUTER (VCM).*AK  *NLM",
+        "vin": "1GCDM19W0WB"
+    }
+]

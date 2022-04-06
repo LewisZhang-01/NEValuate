@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "07/08/2021",
+        "dateOfIncident": "02/12/2021",
+        "fire": false,
+        "manufacturer": "COUNTRY COACH INC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11423916,
+        "products": [
+            {
+                "manufacturer": "COUNTRY COACH INC",
+                "productMake": "COUNTRY COACH",
+                "productModel": "ALLURE",
+                "productYear": "2008",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "While driving on a busy 6 lane highway, the engine \"derated\" and then shutdown while trying to exit highway.  Lost power steering and ability to steer.  Shutdown was programmed by Caterpillar C9S engine emissions system.  Was able to avoid serious accident due to quick response of oncoming driver who drove into ditch.",
+        "vin": "4U7A8ED1281"
+    }
+]

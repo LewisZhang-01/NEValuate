@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "12/31/2002",
+        "dateOfIncident": "10/23/2002",
+        "fire": false,
+        "manufacturer": "Kia Motors America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001713,
+        "products": [
+            {
+                "manufacturer": "Kia Motors America",
+                "productMake": "KIA",
+                "productModel": "SEDONA",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATES THE REAR BACK SEAT DOES NOT BUCKLE UP AT ALL. O TO THE REAR TRACK TO THE VEHICLE SEAT, NOT INSTALLED CORRECTLY NOTIFIED.",
+        "vin": "KNDUP131726"
+    }
+]

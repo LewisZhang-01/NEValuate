@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "12/08/2021",
+        "dateOfIncident": "12/08/2021",
+        "fire": false,
+        "manufacturer": "Porsche Cars North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11443174,
+        "products": [
+            {
+                "manufacturer": "Porsche Cars North America, Inc.",
+                "productMake": "PORSCHE",
+                "productModel": "CAYMAN",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I received delivery of my vehicle this morning and put about 20 miles on it when I received an engine fault error and my vehicle check engine light came on while accelerating from a stop to about 15 mph before the issue occurred.   I lost responsiveness and my engine was in \u201climp mode\u201d. This occurred in traffic and I had to safely exit the roadway before calling roadside assistance to get it towed to the dealer.   ODB error codes from a shop include: 2838-P0087 Fuel rail system pressure too low - short to plus 10591-P0301 Cylinder 1 misfire detected 10592-P0302 Cylinder 2 misfire detected 10593-P0303 Cylinder 3 misfire detected 851CH/34076 Undocumented code",
+        "vin": "WP0AD2A8XNS"
+    }
+]

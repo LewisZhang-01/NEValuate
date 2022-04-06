@@ -1,0 +1,24 @@
+[
+    {
+        "components": "PARKING BRAKE",
+        "crash": false,
+        "dateComplaintFiled": "02/24/2003",
+        "dateOfIncident": "02/14/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009078,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "productYear": "1989",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE EXPERIENCED THE SAME DEFECT WITH THE PARKING BRAKE AS STATED IN RECALL NUMBER 02V041000, HOWEVER THE VEHICLE IDENTIFICATION NUMBER WAS NOT INLCUDED IN THE RECALL.*JB",
+        "vin": "2J4FY49T8KJ"
+    }
+]

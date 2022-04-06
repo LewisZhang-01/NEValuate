@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "05/28/2003",
+        "dateOfIncident": "05/23/2003",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 2,
+        "odiNumber": 10020646,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "328I",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "1998 BMW 328I - CRASHED GOING 35-40 MPH WITH EXTENSIVE FRONT END DAMAGE AND NO AIR BAGS DEPLOYED.",
+        "vin": "WBACD4321WA"
+    }
+]

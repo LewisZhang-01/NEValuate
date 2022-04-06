@@ -1,0 +1,61 @@
+[
+    {
+        "components": "POWER TRAIN,TIRES,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "06/20/2010",
+        "dateOfIncident": "06/19/2010",
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10339201,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "SOFTAIL",
+                "productYear": "2007",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "AVON TIRE COMPANY",
+                "productMake": "AVON",
+                "productModel": "AVON",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            },
+            {
+                "manufacturer": "KBC America, Inc.",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "CLASSIC CRUISER 98060-00V",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "WHILE DRIVING A 2007 HARLEY DAVIDSON NIGHT TRAIN.  I STOPPED AT A RED LIGHT ON HIGHWAY 12 IN BURBANK, WA.  WHEN THE LIGHT TURNED GREEN, AND I GAVE THROTTLE, THE DRIVE BELT AND THE DRIVE TRAIN WHERE IT ATTACHES TO THE REAR HUG PULLED OUT. WITH 3 BOLTS SHEERED OFF LAYING ON THE GROUND.  LUCKILY WITH HELP I WAS ABLE TO WHEEL IT OFF TO THE SHOULDER WITHOUT ANY BODY GETTING HURT.  *TR",
+        "vin": "1HD1JA5JX7Y"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "10/24/2007",
+        "dateOfIncident": "05/08/2007",
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10206766,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "SOFTAIL",
+                "productYear": "2007",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 2007 HARLEY DAVIDSON SOFTAIL DELUXE.  THE CONTACT RECEIVED A RECALL NOTICE FOR NHTSA CAMPAIGN ID NUMBER 07V173000 (ELECTRICAL SYSTEM:BATTERY:CABLES) ON MAY 8 2007.  HE CALLED THE DEALER TO SCHEDULE A REPAIR APPOINTMENT AND WAS INFORMED THAT THE PARTS WOULD BE UNAVAILABLE UNTIL HIS VEHICLE REACHED 2,500 MILES.  THE DEALER ALSO STATED THAT HIS VEHICLE WOULD NOT CATCH FIRE.  THE CONTACT STATED THAT HIS VEHICLE WOULD HAVE TO BE REPAIRED BY ANOTHER DEALER.  HIS VEHICLE HAS YET TO CATCH FIRE.  THE MANUFACTURER HAS NOT BEEN NOTIFIED.  THERE HAD BEEN NO FAILURE TO DATE.  THE ENGINE SIZE, TRANSMISSION TYPE, NUMBER OF CYLINDERS, AND POWERTRAIN WERE UNKNOWN.  THE CURRENT MILEAGE WAS 1,000.  UPDATED 11/06/07.L *JB",
+        "vin": "1HD1JD5157Y"
+    }
+]

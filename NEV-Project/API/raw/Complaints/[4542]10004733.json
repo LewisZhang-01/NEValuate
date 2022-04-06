@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "12/21/2002",
+        "dateOfIncident": "10/14/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004733,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "LESABRE",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NAR 1/21/03 DESIGN PROBLEM WITH INTAKE MANIFOLD.  THE VEHICLE REFUSED TO START, AFTER SEVERAL FAILED ATTEMPTS THE VEHICLE WAS TOWED.  AFTER TROUBLE SHOOTING, IT WAS DETERMINED THE INTAKE MANIFOLD HAD A HOLE IN IT WHICH ALLOWED COOLANT FLUID TO ENTER THE CYLINDERS RESULTING IN A HYDROSTATIC  LOCK.  *JB",
+        "vin": ""
+    }
+]

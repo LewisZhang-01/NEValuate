@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "12/30/2002",
+        "dateOfIncident": "12/12/2002",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001631,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "INTREPID",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATES HAVING THE SAME PROBLEM AS RECALL#98V32300 ISOLATOR CRADLE. DEALER WILL NOT REPAIR BECAUSE VIN IS NOT INCLUDED. *TS",
+        "vin": "2B3H046T8VH"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "EQUIPMENT,EQUIPMENT ADAPTIVE/MOBILITY",
+        "crash": true,
+        "dateComplaintFiled": "05/08/2003",
+        "dateOfIncident": "01/31/2002",
+        "fire": false,
+        "manufacturer": "ELECTRONIC MOBILITY CONTROLS",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10018410,
+        "products": [
+            {
+                "manufacturer": "ELECTRONIC MOBILITY CONTROLS",
+                "productMake": "EMC",
+                "productModel": "EGB-IIF",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "THE ELECTRONIC GAS & BRAKE SYSTEM MANUFACTURED BY ELECTRONIC MOBILITY CONTROLS FAILED, CAUSING THE ACCELERATOR TO REMAIN ON WITH NO CONTROL THROUGH THE EGB CONTROLLER.  THIS RESULTED IN AN ACCIDENT IN WHICH MY CLIENT, MELANIE VORHEIS, WAS SEVERELY INJURED.   *NLM",
+        "vin": null
+    }
+]

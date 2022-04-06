@@ -1,0 +1,31 @@
+[
+    {
+        "components": "CHILD SEAT",
+        "crash": false,
+        "dateComplaintFiled": "06/04/2003",
+        "dateOfIncident": "06/04/2003",
+        "fire": false,
+        "manufacturer": "UNKNOWN MANUFACTURER",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022354,
+        "products": [
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN1",
+                "productYear": "9999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "CENTURY PRODUCTS",
+                "productMake": "CENTURY",
+                "productModel": "CENTURY",
+                "productYear": "9999",
+                "type": "Child Seat"
+            }
+        ],
+        "summary": "CENTURY CHILD SEAT  MODEL 4865JTW01, DOM DATE 10/09/2001 DOES NOT ENOUGH PADDING  IN THE BACK OF THE SEAT. *AK",
+        "vin": ""
+    }
+]

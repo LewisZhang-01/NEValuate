@@ -1,0 +1,68 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "03/08/2016",
+        "dateOfIncident": "03/02/2016",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10840454,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "SATURN",
+                "productModel": "AURA",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TESTING",
+        "vin": ""
+    },
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "10/24/2014",
+        "dateOfIncident": "11/05/2007",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10649802,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "SATURN",
+                "productModel": "AURA",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2000 SATURN AURA. THE CONTACT STATED WHILE DRIVING AT AN UNKNOWN SPEED, A LOUD ABNORMAL NOISE EMITTED FROM THE STEERING COLUMN AREA. THE STEERING WHEEL BECAME TIGHT AND WAS DIFFICULT TO TURN. THE VEHICLE WAS TAKEN TO A DEALER ON NUMEROUS OCCASIONS. THE TECHNICIAN DIAGNOSED THAT THE INTERMEDIATE SHAFT NEEDED TO BE REPLACED. THE VEHICLE WAS REPAIRED BUT THE FAILURE PERSISTED. THE VEHICLE WAS TAKEN BACK TO THE DEALER WHO STATED THAT THE STEERING COLUMN NEEDED TO BE REPLACED. THE MANUFACTURER WAS NOTIFIED OF THE ISSUE. THE APPROXIMATE FAILURE MILEAGE WAS 877,800.",
+        "vin": "1G8ZS57N87F"
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "06/03/2014",
+        "dateOfIncident": "05/08/2013",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10595798,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "SATURN",
+                "productModel": "AURA",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2000 SATURN AURA. THE CONTACT STATED THAT THE VEHICLE ROLLED AWAY ALTHOUGH THE VEHICLE WAS IN PARK. THE CONTACT MENTIONED THAT THE EMERGENCY BRAKE HAD TO REMAIN ENGAGED IN ORDER TO PREVENT THE FAILURE FROM OCCURRING. THE VEHICLE WAS NOT DIAGNOSED OR REPAIRED. THE MANUFACTURER WAS MADE AWARE OF THE FAILURE. THE FAILURE MILEAGE WAS 90,000 AND THE CURRENT MILEAGE WAS 101,000.",
+        "vin": "1G8ZV57717F"
+    }
+]

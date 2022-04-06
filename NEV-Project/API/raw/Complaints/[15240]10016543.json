@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "04/26/2003",
+        "dateOfIncident": "04/15/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10016543,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "TACOMA",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "DUNLOP TIRE CORPORATION",
+                "productMake": "DUNLOP",
+                "productModel": "GRAND TREK",
+                "productYear": "1995",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "DUNLOP GRAND TREK TIRE P256 /70/ R16 THE REAR RIGHT BLOWOUT @ 72 MPH ON I-75 IN MIAMI, FLA. PARTIALLY LOSE CONTROL. 90% OF THE ENTIRE TIRE SEPARATED BELT/THREAD/STEEL. IT WAS THE ORIGINAL TIRE ON A 2002 TACOMA WITH 27053 MILES.    *NLM",
+        "vin": "5TEWN72N62Z"
+    }
+]

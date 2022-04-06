@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "03/24/2003",
+        "dateOfIncident": "03/23/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010967,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPEDITION",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TIE ROD BROKE WHILE DRIVING OFF HIGHWAY 25-30 MPH, RESULTING IN TIE ROD AND BALL JOINT TO BE REPLACED.        *JB",
+        "vin": "1FMRU18W3WL"
+    }
+]

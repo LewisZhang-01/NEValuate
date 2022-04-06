@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "02/22/2016",
+        "dateOfIncident": "02/21/2016",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10837614,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-250",
+                "productYear": "2011",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Continental Tire the Americas, LLC",
+                "productMake": "CONTINENTAL",
+                "productModel": "CONTITRAC",
+                "productYear": "9999",
+                "size": "LT275/65R18",
+                "type": "Tire"
+            }
+        ],
+        "summary": "TREAD SEPARATION CONTINENTAL TIRES IN LESS THAN 6 MONTHS. 2011 FORD F 250 25,800 FIRST TIME, 33500 2ND TIME . FORD DEALER  NOR CONTINENTAL WILLING TO DO ANYTHING. THESE TIRES ARE GOING TO KILL SOMEONE IF SOMETHING ISN'T DONE",
+        "vin": "1FT7W2BT3BE"
+    }
+]

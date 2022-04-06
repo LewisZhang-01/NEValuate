@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "03/31/2003",
+        "dateOfIncident": "03/15/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10014816,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TAURUS",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE DRIVER'S SIDE DOOR SEPARATED FROM THE VEHICLE.  *JB  THE CONSUMER OPENED THE DOOR TO GET OUT WHEN THE DOOR DETACHED FROM THE VEHICLE.  SCC",
+        "vin": "1FAFP55S72A"
+    }
+]

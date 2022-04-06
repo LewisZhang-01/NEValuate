@@ -1,0 +1,955 @@
+[
+    {
+        "components": "POWER TRAIN,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "07/05/2003",
+        "dateOfIncident": "05/05/2003",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10025438,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "SONATA",
+                "productYear": "1992",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "WAGNER ELEC. BRAKE/CLUTCH",
+                "productMake": "WAGNER",
+                "productModel": "BRAKE/CLUTCH",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "TRANSMISSION FAILURE. REPAIR PLACE SAYS IT WAS A PREMATURE MECHANICAL FAILURE. POSSIBLE DEFECTIVE PARTS.*AK",
+        "vin": "2HMBF22T1NB"
+    },
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "06/29/2000",
+        "dateOfIncident": "01/01/1999",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 864538,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "SONATA",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN PRESSING ON THE GAS PEDAL AUTOMATIC SEAT BELT WOULD ENGAGE. HOWEVER,  WHEN  PRESSING THE BRAKE PEDAL  AUTOMATIC SEAT BELT WOULD DISENGAGE. *AK",
+        "vin": ""
+    },
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "07/07/1998",
+        "dateOfIncident": "07/06/1998",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 825102,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "SONATA",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING THE DRIVER'S BASE CRACKED HORIZONTALLY, CAUSING THE DRIVER'S SEAT TO FALL BACKWARDS UNEXPECTEDLY, ALMOST CAUSING LOSS OF VEHICLE CONTROL. *AK",
+        "vin": "2HMBF32T2NB"
+    },
+    {
+        "components": "LATCHES/LOCKS/LINKAGES",
+        "crash": false,
+        "dateComplaintFiled": "04/30/1998",
+        "dateOfIncident": "04/26/1998",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 535037,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "SONATA",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "HOOD LATCH FAILED.",
+        "vin": "2HMBF3113NB"
+    },
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "06/17/1997",
+        "dateOfIncident": "06/17/1997",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 813216,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "SONATA",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATES THAT WHILE DRIVING AT OR ABOUT 25-35 MPH LOWER CONTROL ARM SHEERED ON DRIVER'S SIDE BEHIND THE BALL JOINT BENDING UPPER STRUT PULLING THE AXEL CLEAN OUT OF TRANSMISSION. CON NOT CONTACT THE MANF.",
+        "vin": "2HMBF22F0NB"
+    },
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "01/17/1997",
+        "dateOfIncident": "06/10/1996",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 602453,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "SONATA",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AUTOMATIC SEAT BELT BROKE LOOSE FROM TRACK DURING COLLISION, RESULTING IN INJURY/AFTER RECALL REPAIRS.",
+        "vin": "2HMBF22F8NB"
+    },
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "01/09/1997",
+        "dateOfIncident": "01/10/1996",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 513555,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "SONATA",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "UPON IMPACT SEATBELT SEPARATED FROM TRACK/ANCHOR, CAUSING INJURY.",
+        "vin": "2HMBF22F8NB"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": true,
+        "dateComplaintFiled": "12/10/1996",
+        "dateOfIncident": "09/28/1996",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 806090,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "SONATA",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKES WENT TO THE FLOOR WHEN APPLIED AT 30 MPH, RESULTING IN A CRASH DUE TO BRAKE FAILURE.   PLEASE DESCRIBE DETAILS.    *AK",
+        "vin": ""
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "10/10/1996",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 803426,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "SONATA",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "PURCHASED CAR USED,  WHEN DRIVING AND APPLYING THE BRAKES, THEY MAKE NOISE . PLEASE DESCRIBE .*AK",
+        "vin": "2HMBF32T9NB"
+    },
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "05/08/1996",
+        "dateOfIncident": "04/03/1996",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 984211,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "SONATA",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FLUID LEAKS DEVELOPED IN POWER STEERING UNIT, CAUSING IT TO CRACK.   *AK",
+        "vin": ""
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "11/01/1995",
+        "dateOfIncident": "04/01/1993",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 487789,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "SONATA",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONTINUOUS BRAKE PROBLEMS AFTER SEVERAL REPAIR ATTEMPTS. *SD",
+        "vin": "2HMBF22F7NB"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "11/01/1995",
+        "dateOfIncident": "05/13/1992",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 487789,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "SONATA",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENGINE PROBLEM. *SD",
+        "vin": "2HMBF22F7NB"
+    },
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "11/01/1995",
+        "dateOfIncident": "05/13/1992",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 487789,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "SONATA",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "POWER STEERING PUMP REPLACED. *SD",
+        "vin": "2HMBF22F7NB"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "11/01/1995",
+        "dateOfIncident": "05/13/1992",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 487789,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "SONATA",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENGINE PROBLEM. *SD",
+        "vin": "2HMBF22F7NB"
+    },
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "11/01/1995",
+        "dateOfIncident": "05/13/1992",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 487789,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "SONATA",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "POWER STEERING PUMP REPLACED. *SD",
+        "vin": "2HMBF22F7NB"
+    },
+    {
+        "components": "INTERIOR LIGHTING",
+        "crash": false,
+        "dateComplaintFiled": "09/22/1995",
+        "dateOfIncident": "09/22/1995",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 488328,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "SONATA",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DOME LIGHT FAILED.",
+        "vin": "2HMBF22F2NB"
+    },
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "09/22/1995",
+        "dateOfIncident": "09/06/1994",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 488328,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "SONATA",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "POWER ANTENNA FAILED FOUR TIMES.",
+        "vin": "2HMBF22F2NB"
+    },
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "09/22/1995",
+        "dateOfIncident": "12/31/1991",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 488328,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "SONATA",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "PASSENGER POWER WINDOW FAILED TWICE.",
+        "vin": "2HMBF22F2NB"
+    },
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "09/22/1995",
+        "dateOfIncident": "12/06/1994",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 488328,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "SONATA",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CRUISE CONTROL FAILED TWICE.",
+        "vin": "2HMBF22F2NB"
+    },
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "09/22/1995",
+        "dateOfIncident": "11/29/1994",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 488328,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "SONATA",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVER SIDE VISOR CLIP BROKE, IMPAIRING VISIBILITY.",
+        "vin": "2HMBF22F2NB"
+    },
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "09/22/1995",
+        "dateOfIncident": "07/14/1992",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 488328,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "SONATA",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "HEATER FAILED.",
+        "vin": "2HMBF22F2NB"
+    },
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "09/22/1995",
+        "dateOfIncident": "10/27/1994",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 488328,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "SONATA",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "POWER MIRRORS SHAKE WHEN DRIVING.",
+        "vin": "2HMBF22F2NB"
+    },
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "09/22/1995",
+        "dateOfIncident": "08/11/1992",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 488328,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "SONATA",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SIDE WINDOWS OFF TRACK.",
+        "vin": "2HMBF22F2NB"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "09/22/1995",
+        "dateOfIncident": "07/20/1994",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 488328,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "SONATA",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKE PADS FAILED.",
+        "vin": "2HMBF22F2NB"
+    },
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "09/22/1995",
+        "dateOfIncident": "09/22/1995",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 488328,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "SONATA",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CAR STALLS WHEN AIR CONDITIONER TURNED ON.",
+        "vin": "2HMBF22F2NB"
+    },
+    {
+        "components": "LATCHES/LOCKS/LINKAGES",
+        "crash": false,
+        "dateComplaintFiled": "09/22/1995",
+        "dateOfIncident": "06/01/1994",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 488328,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "SONATA",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "REAR PASSENGER DOOR LOCK WON'T OPEN.",
+        "vin": "2HMBF22F2NB"
+    },
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "09/22/1995",
+        "dateOfIncident": "05/03/1995",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 488328,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "SONATA",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BALL JOINTS FAILED. *DSH",
+        "vin": "2HMBF22F2NB"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "09/22/1995",
+        "dateOfIncident": "02/06/1995",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 488328,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "SONATA",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CAR STALLS.",
+        "vin": "2HMBF22F2NB"
+    },
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "09/22/1995",
+        "dateOfIncident": "12/22/1992",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 488328,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "SONATA",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "REAR DEFROSTER SWITCH FAILED.",
+        "vin": "2HMBF22F2NB"
+    },
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "09/22/1995",
+        "dateOfIncident": "12/22/1992",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 488328,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "SONATA",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FRONT SEAT BELTS FAILED.",
+        "vin": "2HMBF22F2NB"
+    },
+    {
+        "components": "EXTERIOR LIGHTING",
+        "crash": false,
+        "dateComplaintFiled": "09/22/1995",
+        "dateOfIncident": "05/18/1995",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 488328,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "SONATA",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "HEAD LIGHT SWITCH FAILED.",
+        "vin": "2HMBF22F2NB"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "09/22/1995",
+        "dateOfIncident": "10/19/1992",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 488328,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "SONATA",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BATTERY FAILED.",
+        "vin": "2HMBF22F2NB"
+    },
+    {
+        "components": "LATCHES/LOCKS/LINKAGES",
+        "crash": false,
+        "dateComplaintFiled": "09/22/1995",
+        "dateOfIncident": "04/22/1993",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 488328,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "SONATA",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "HOOD WON'T OPEN.",
+        "vin": "2HMBF22F2NB"
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "08/27/1995",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 971161,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "SONATA",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AUTO-TRANSMISSION WILL DROP OUT OF GEAR. SYSTEM HAS BEEN REPLACED (3) TIMES WITH FOURTH EXPERIENCING SAME FAILURE. PLEASE DESCRIBE DETAILS.  TT",
+        "vin": ""
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "08/13/1995",
+        "dateOfIncident": "08/03/1995",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 484704,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "SONATA",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TRANSMISSION PULSE GENERATOR FAILED, CAUSING CAR TO DOWNSHIFT HARD WHILE DRIVING, JERK HARD WHEN ACCELERATING. *SD",
+        "vin": ""
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "07/24/1995",
+        "dateOfIncident": "07/24/1995",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 484355,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "SONATA",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TRANSMISSION DOWNSHIFTS VIOLENTLY, THEN SHIFTS BACK INTO HIGHER GEAR WITH A VIOLENT JERK, CAUSING TEMPORARY LOSS OF CONTROL. *DSH",
+        "vin": "2HMBF22F6NB"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "05/01/1995",
+        "dateOfIncident": "11/01/1994",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 964593,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "SONATA",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TIMING BELT BROKE, HAD TO HAVE ENGINE REBUILT.  TT",
+        "vin": ""
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "05/01/1995",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 489595,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "SONATA",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TRANSMISSION FAILED.  *SKD",
+        "vin": ""
+    },
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "04/05/1995",
+        "dateOfIncident": "10/15/1993",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 963188,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "SONATA",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLES RIGHT LOWER CONTROL ARM CRACKED IN HALF WHILE DRIVING ON 10-15-93 AND 3-30-95.  TT",
+        "vin": "2HMBF32T8NB"
+    },
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "03/31/1995",
+        "dateOfIncident": "03/30/1995",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 962897,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "SONATA",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "RIGHT FRONT LOWER CONTROL ARM CRACKED IN HALF, RESULTED IN HARD CONTROL, REPLACE LOWER CONTROL ARM TWICE.  TT",
+        "vin": "2HMBF32T8NB"
+    },
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "03/28/1995",
+        "dateOfIncident": "04/15/1993",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 962677,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "SONATA",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "REAR LEFT DOOR POWER LOCKS JAMS/STICKS AFTER LOCKING; POWER LOCKS INOPERATIVE ON THE OTHER DOORS.  TT",
+        "vin": "2HMBF22T4NB"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "03/17/1995",
+        "dateOfIncident": "03/02/1994",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 962147,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "SONATA",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKE PEDAL SPONGY/FADES AT DIFFERENT TIMES, REPLACED FRONT PAD/ROTOR, TO NO AVAIL.  TT",
+        "vin": "2HMBF32T5NB"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "01/24/1995",
+        "dateOfIncident": "03/01/1994",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 480802,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "SONATA",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TIMING BELT FAILED TWICE, ONCE DUE TO EXPLOSION OF BALANCE SHAFT BELT.  *AK",
+        "vin": "2HMBF22F8NB"
+    }
+]

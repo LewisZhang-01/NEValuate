@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "03/25/2003",
+        "dateOfIncident": "03/25/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10012456,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN THE VEHICLE EXCEEDED MORE THAN 40 TO 50 MPH, THE REAR END VIBRATED, THE DEALER STATED THE RECALL REGARDING THE STEERING LINKAGES, WAS NOT IN THEIR SYSTEM, AND THEREFORE THEY REFUSED TO REPAIR/ REPLACE.  *JB",
+        "vin": "1FAHP38301W"
+    }
+]

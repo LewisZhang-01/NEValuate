@@ -1,0 +1,112 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "11/23/2021",
+        "dateOfIncident": "06/01/2021",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11441449,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA DENALI",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact's father owns a 2020 GMC Sierra Denali 3500. The contact stated that while his father was driving at an undisclosed speed, the check engine warning light illuminated. The vehicle was taken to the dealer and diagnosed with a cylinder #1 misfire. The vehicle was repaired; however, the failure recurred. The vehicle was then taken to Wackerli Auto Center (1363 N Holmes Ave, Idaho Falls, ID 83401) on numerous occasions and diagnosed with a faulty sensor. The dealer replaced the sensor; however, the failure recurred. The vehicle was not repaired and remained at the dealer. The manufacturer was made aware of the failure. The failure mileage was approximately 20,000. The VIN was unavailable.",
+        "vin": ""
+    },
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "04/07/2021",
+        "dateOfIncident": "08/15/2020",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11406920,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA DENALI",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKES SQUEAK.  STARTED ABOUT 3000 MILES.   I HAVE COMPLAINED TO DEALER SEVERAL TIMES.",
+        "vin": "1GT49REY7LF"
+    },
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "12/16/2020",
+        "dateOfIncident": "08/24/2020",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11383781,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA DENALI",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "KNOCKING COMING FROM ENGINE - NOTICEABLE UNNECESSARY NOISE IN WHICH DEALER CAN NOT FIX THE PROBLEM",
+        "vin": "1GT49REY4LF"
+    },
+    {
+        "components": "SERVICE BRAKES,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "10/29/2020",
+        "dateOfIncident": "10/29/2020",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11367036,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA DENALI",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TWO ISSUES BROKEN VALVE SPRING  CAUSED ENGINE TO SHUT DOWN, SECOND SERVICE BRAKE, BRAKE FAILURE LIGHT, SERVICE ESC, SERVICE TRAILER BRAKE MESSAGES CAUSING BRAKE FAILURE",
+        "vin": "3GTU9FEL4LG"
+    },
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "10/08/2020",
+        "dateOfIncident": "10/07/2020",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11363419,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA DENALI",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I NOTICED SEVERAL SPOTS OF OIL ON MY DRIVEWAY, I THEN INSPECTED  THE UNDERSIDE OF THE ENGINE (L5P) AND NOTICED OIL DRIPPING FROM SEVERAL BOLTS AND LINES. MY VEHICLE, A 2020 2500HD DENALI DIESEL, HAS ONLY 2,200 MILES ON IT FROM NORMAL HIGHWAY DRIVING.",
+        "vin": "1GT49REY0LF"
+    }
+]

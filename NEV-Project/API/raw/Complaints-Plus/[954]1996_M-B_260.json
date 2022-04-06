@@ -1,0 +1,46 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "05/01/2008",
+        "dateOfIncident": "05/01/2008",
+        "fire": false,
+        "manufacturer": "M-B COMPANIES",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10226442,
+        "products": [
+            {
+                "manufacturer": "M-B COMPANIES",
+                "productMake": "M-B",
+                "productModel": "260",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I HAVE A 1996 MERCEDES BENZ C220 THAT THE WIRING INSULATION IS DISCENAGRATING ON THREW OUT THE CAR REALLY BAD WIRE INSULATION FIRE DANGER FAILURE OF ELECTRICAL SYSTEMS DANGER.  *TR",
+        "vin": "WDBHA22E3TF"
+    },
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "03/04/2005",
+        "dateOfIncident": "02/23/2005",
+        "fire": false,
+        "manufacturer": "M-B COMPANIES",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10112522,
+        "products": [
+            {
+                "manufacturer": "M-B COMPANIES",
+                "productMake": "M-B",
+                "productModel": "260",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE FRONT COIL SPRING SUPPORT WELDS FAILED AND RESULTED IN AN DAMAGED FRONT SUSPENSION.*AK",
+        "vin": "WDBJF55F8TJ"
+    }
+]

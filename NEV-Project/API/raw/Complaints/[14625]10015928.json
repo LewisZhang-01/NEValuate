@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "04/15/2003",
+        "dateOfIncident": "04/15/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015928,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "JIMMY",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE CONSUMERS VEHICLE EXPERIENCED THE SYMPTOMS OF NHTSA RECALL  #98-V-150-001 (SOLDER JOINTS) BUT THE CONSUMERS VEHICLE WAS NOT INCLUDED IN THE RECALL DUE TO VIN.    NLM",
+        "vin": "PROVIDE"
+    }
+]

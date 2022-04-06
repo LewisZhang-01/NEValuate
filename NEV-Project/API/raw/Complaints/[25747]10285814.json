@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "09/30/2009",
+        "dateOfIncident": "05/01/2009",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10285814,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "AVALON",
+                "productYear": "2007",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Bridgestone Americas Tire Operations",
+                "productMake": "BRIDGESTONE",
+                "productModel": "TURANZA EL 400",
+                "productYear": "9999",
+                "size": "215/60R16",
+                "type": "Tire"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS BRIDGESTONE TURANZA TIRES ON A 2007 TOYOTA AVALON. WHILE DRIVING 45 TO 70 MPH ALL FOUR TIRES BEGAN SHAKING, AS IF THEY WERE OUT OF ROUND. INSTABILITY WHILE DRIVING INCREASED THE RISK FOR A CRASH. THE CONTACT STATED THAT THE FAILURE WAS CAUSED BY THE WAY THE TIRES WERE BALANCED BY SAMS CLUB. THE FAILURE MILEAGE WAS 57,500 AND THE CURRENT MILEAGE WAS 58,000.",
+        "vin": "4T1BK36B37U"
+    }
+]

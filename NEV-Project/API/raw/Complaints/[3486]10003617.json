@@ -1,0 +1,24 @@
+[
+    {
+        "components": "PARKING BRAKE",
+        "crash": true,
+        "dateComplaintFiled": "01/13/2003",
+        "dateOfIncident": "12/31/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003617,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATED WHILE DRIVING, THE EMERGENCY BRAKE ENGAGED WITHOUT WARNING WHICH CAUSED THE BACK TIRES TO LOCK UP AND SKID.  CONSUMER HAD A COLLISION AS A RESULT.*JB",
+        "vin": ""
+    }
+]

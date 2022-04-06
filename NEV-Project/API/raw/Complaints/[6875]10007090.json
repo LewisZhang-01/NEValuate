@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "02/11/2003",
+        "dateOfIncident": "02/11/2003",
+        "fire": false,
+        "manufacturer": "Volvo Trucks North America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10007090,
+        "products": [
+            {
+                "manufacturer": "Volvo Trucks North America",
+                "productMake": "VOLVO",
+                "productModel": "VN610",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE STEERING SHAFT SECTOR OF THE U JOINT LOCKED UP. *JB",
+        "vin": ""
+    }
+]

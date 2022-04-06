@@ -1,0 +1,46 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "08/31/2000",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 9001704,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO",
+                "productYear": "1982",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TRUCK TIRES CAME APART,  FIRESTONE TRIUMPH & LEMANS A/T,  FIRESTONE REFUSING RESPONSIBILITY FOR THE TIRES.",
+        "vin": ""
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "09/18/1998",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 780444,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO",
+                "productYear": "1982",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER REPLACED THE DIESEL ENGINE IN LESS THAN 100,000 MILES, DEALERS ADVISED THAT THE ENGINE WAS NOT A GOOD ONE.   *MJS",
+        "vin": ""
+    }
+]

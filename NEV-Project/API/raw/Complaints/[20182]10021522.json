@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "07/24/2003",
+        "dateOfIncident": "03/21/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021522,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "PICKUP",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WINDSHIELD WIPERS FAILED.  DEALER NOTIFIED.   *AK   THE WINDSHIELD WIPER CONTROL CIRCUIT BOARD FAILED AND NEEDED TO BE REPLACED UNDER THE SPECIAL POLICY #02054.   *SCC  *JB",
+        "vin": "1GCGK29JXWE"
+    }
+]

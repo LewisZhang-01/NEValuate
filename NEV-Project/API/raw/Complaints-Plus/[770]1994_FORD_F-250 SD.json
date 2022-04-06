@@ -1,0 +1,54 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "03/09/2009",
+        "dateOfIncident": "03/08/2009",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10261148,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-250 SD",
+                "productYear": "1994",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Bridgestone Americas Tire Operations",
+                "productMake": "FIRESTONE",
+                "productModel": "STEELTEX A/T",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "SEPARATION OF BELT/TREAD BETWEEN RADIAL AND BIAS PLYS ON LEFT REAR AT 62 MPH.  FENDER AREA DAMAGE TO VEHICLE.  VIBRATION PRIOR TO SEPARATION, STOPPED AND CHECKED, BUT VISUAL INSPECTION SAW NO INDICATION OF PROBLEM.  PURCHASED VEHICLE USED IN 2004.  NOT ORIGINAL TIRES.  STILL LOTS OF GOOD TREAD SOME SUN CHECKING ON SIDEWALL. *TR",
+        "vin": "1FTHX26G3RK"
+    },
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "09/04/2007",
+        "dateOfIncident": "04/30/2007",
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10201818,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-250 SD",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL*THE CONTACT'S DAUGHTER OWNS A 1994 FORD F250 HD.  WHILE THE CONTACT'S DAUGHTER WAS BACKING UP THE VEHICLE, FLAMES WERE NOTICED UNDER THE FRONT DRIVER SIDE.  THE FIRE DEPARTMENT ARRIVED AND THE VEHICLE SUSTAINED MAJOR DAMAGE.  IN JULY OF 2007, RECALL NUMBER 05S25 WAS RECEIVED, BUT THE FIRE HAD ALREADY OCCURRED.  FORD STATED THAT THE VEHICLE WAS TOO BADLY DAMAGED TO PROVIDE ANY ASSISTANCE.  THE FAILURE MILEAGES WERE 78,000.     UPDATED 12/12/07",
+        "vin": "1FTHX26G7RK"
+    }
+]

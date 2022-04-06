@@ -1,0 +1,274 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "11/04/2004",
+        "dateOfIncident": "11/01/2000",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10099378,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA",
+                "productYear": "1991",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "RECALL 03V159000 CONCERNING WINDSHIELD WIPER MOTOR: WINDSHIELD WIPERS WORKED INTERMITTENTLY DURING INCLEMENT CONDITION. DEALER WAS CONTACTED. DEALER INFORMED THE CONSUMER THAT THIS VEHICLE WAS NOT COVERED UNDER THIS RECALL DUE TO VIN. *AK",
+        "vin": "2GTEC19K5M1"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "07/19/2004",
+        "dateOfIncident": "02/16/2001",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10082179,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA",
+                "productYear": "1991",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN THE BRAKE PEDAL IS DEPRESSED, THEY FAILED TO STOP THE TRUCK IMMEDIATELY. THIS RESULTED AN EXTENDED STOPPING DISTANCE.  THIS FAILURE HAS PROCESSED OVER TIME. THE BRAKE ROTORS ARE OF POOR QUALITY AND DETERIORATES. THE ROTORS WERE REPLACED AT 16,000 MILES AND NEEDED TO BE REPLACED AGAIN AT 24,000 MILES. THE SECOND TIME THE ROTORS WERE REPLACED, TWO WERE TURNED AND TWO WERE REPLACED.   *LA",
+        "vin": "1GTEK14T71Z"
+    },
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "01/15/2004",
+        "dateOfIncident": "09/15/1992",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10068917,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA",
+                "productYear": "1991",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "LOOKING FOR INFORMATION ON PAINT RECALL.  MY FATHER CONTACTED GMC ABOUT HIS PAINT BUT HIS WARRANTY WAS UP.  HE HAS NOT BEEN NOTIFIED OF ANY RECALLS, HE IS THE ORIGINAL OWNER. THE PAINT IS LITERLY PEELING OFF.",
+        "vin": "1GTDK14Z6ME"
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "08/14/2003",
+        "dateOfIncident": "07/16/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10033936,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA",
+                "productYear": "1991",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "DUNLOP TIRE CORPORATION",
+                "productMake": "DUNLOP",
+                "productModel": "DUNLOP",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "BUBBLES WOULD DEVELOP ON THE FRONT PASSENGER SIDE TIRE CAUSING THE TIRE TO GO FLAT.  SIZE LT 26575R16.*AK",
+        "vin": "PLEASE PROV"
+    },
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "01/30/2003",
+        "dateOfIncident": "01/23/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005968,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA",
+                "productYear": "1991",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE BOLTS WHICH HELD THE STEERING COLUMN IN PLACE HAD COME LOOSE.  THE DEALER ADVISED THERE WAS NO REPLACEMENT PART, HOWEVER THE ENTIRE COLUMN HAD TO BE TAKEN APART TO APPLY AN \"ADHESIVE\" TO PREVENT THE COLUMN FROM DROPPING. THE DEALER ALSO ADVISED IT WAS COMMON FOR THE BOLTS TO COME LOOSE.     *TS  *DT  *JB",
+        "vin": "1GTDK14H6MZ"
+    },
+    {
+        "components": "EXTERIOR LIGHTING",
+        "crash": false,
+        "dateComplaintFiled": "04/27/2001",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 744647,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA",
+                "productYear": "1991",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BOTH HEADLIGHT LENSES HAVE DRYED OUT AND CLOUDED OVER GREATLY REDUCING VISABILITY.*AK",
+        "vin": "2GTEC19K3M1"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "08/29/2000",
+        "dateOfIncident": "08/29/2000",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 869046,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA",
+                "productYear": "1991",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "METALLIC BRAKE LINE HAS RUSTED THROUGH, CAUSING A FLUID LEAK AND LOSS OF BRAKES.  DEALER HAS NOT BEEN CONTACTED.  *AK",
+        "vin": "1GTDC14Z9ME"
+    },
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "07/01/1999",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 841574,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA",
+                "productYear": "1991",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SEAT BELTS DO NOT LATCH. WHEN TRING TO LATCH A PIECE FALLS OUT OF THE HOUSING. DEALER HAS BEEN CONTACTED.  *AK",
+        "vin": ""
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "12/11/1998",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 832178,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA",
+                "productYear": "1991",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE HAS THE ANTI-LOCK BRAKE SYSTEM ON THE REAR BRAKES ONLY.  WHEN THE BRAKE PEDAL IS APPLIED HARD CONSUMER WILL HEAR A CLUNKING SOUND AND WILL SLIDE FOR ABOUT 7FT. DEALER HAS BEEN CONTACTED.  *AK",
+        "vin": ""
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "10/23/1997",
+        "dateOfIncident": "12/15/1992",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 817431,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA",
+                "productYear": "1991",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN DRIVING THE TRUCK AND APPLYING  FOOT TO THE BRAKE PEDAL, IT GOES DOWN TO THE FLOORBOARD AND TAKES A WHILE BEFORE THE TRUCK WILL STOP.   *AK   *NLM",
+        "vin": "1GTEK14K1ME"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "01/14/1997",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 513977,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA",
+                "productYear": "1991",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKES FAIL TO PROVIDE MAXIMUM BRAKING POWER.",
+        "vin": "2GTEK19K1M1"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "11/26/1996",
+        "dateOfIncident": "11/12/1996",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 805611,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA",
+                "productYear": "1991",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING ABS BRAKE LIGHT COMES ON ,OWNER TOOK VEHICLE TO DEALERS TO HAVE IT CHECKED, THEY FIXED THE PROBLEM AND THE NEXT DAY IT CAME ON AGAIN,  OWNER IS AFRAID OF DRIVING VEHICLE.  *AK",
+        "vin": "1GTDC14K7MC"
+    }
+]

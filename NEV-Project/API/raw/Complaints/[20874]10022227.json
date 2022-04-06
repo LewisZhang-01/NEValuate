@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "06/03/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022227,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE CONSUMER SUSPECTS THERE IS A PROBLEM WITH THE SUSPENSION.  THE TIRES WEAR OUT VERY FAST.   VEHICLE HAS BEEN TAKEN TO THE DEALER FOR REPAIRS.  *AK",
+        "vin": ""
+    }
+]

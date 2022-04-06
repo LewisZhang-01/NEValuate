@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "03/11/2003",
+        "dateOfIncident": "01/13/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010291,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "C/K PICKUPS",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "LOOSE FIT BETWEEN FRONT TORSION BARS AND LOWER A FRAME ON HALF TON CHEVY PICKUP TRUCKS AND TAHOES.*JB",
+        "vin": "1GCEK14T12Z"
+    }
+]

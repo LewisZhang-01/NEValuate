@@ -1,0 +1,120 @@
+[
+    {
+        "components": "TIRES",
+        "crash": true,
+        "dateComplaintFiled": "04/28/2011",
+        "dateOfIncident": "03/30/2011",
+        "fire": false,
+        "manufacturer": "Mazda Motor Corp.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10398960,
+        "products": [
+            {
+                "manufacturer": "Mazda Motor Corp.",
+                "productMake": "MAZDA",
+                "productModel": "MX-5",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "1999 MADZA MX-5 MIATA,  UNIT 1 WAS TRAVELING EASTBOUND ON THE OHIO TURNPIKE IN THE MIDDLE LANE.   UNIT 1 LOST CONTROL ON THE WET ROADWAYS DUE TO WORN TIRES.  UNIT 1 WENT OFF THE LEFT SIDE OF THE ROADWAY AND STRUCK THE MEDIAN BARRIER.   *BF  (OHIO TRAFFIC CRASH REPORT # 10-0244-90) *JB   UPDATED 05/11/11* BF",
+        "vin": ""
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "07/06/2007",
+        "dateOfIncident": "07/05/2007",
+        "fire": false,
+        "manufacturer": "Mazda Motor Corp.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10195445,
+        "products": [
+            {
+                "manufacturer": "Mazda Motor Corp.",
+                "productMake": "MAZDA",
+                "productModel": "MX-5",
+                "productYear": "1999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "RADIAL",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "I HAVE HAD 4 FLAT TIRES WHILE DRIVING IN THE PAST YEAR WITH RADIAL GT, ULTRA HP 4, SIZE 185/60R14 ON A 1999 MAZDA MIATA.  ONE IN OCTOBER 2006, ANOTHER IN MAY 2007 AND 2 MORE TODAY (7/5/07).  ALL FLAT TIRES WERE FROM SMALL HOLES BETWEEN THE TREAD AND SIDEWALL.  THE FIRST 2 WERE THE RIGHT REAR.  TODAY, BOTH THE LEFT REAR, AND 15 MINUTES LATER, THE RIGHT REAR WENT FLAT.  IF THIS HAPPENED ONCE, OR EVEN TWICE, I'D THINK IT WAS A COINCIDENCE.  BUT IN 25 YEARS OF DRIVING, I'VE NEVER HAD A TIRE GO COMPLETELY FLAT WHILE DRIVING.  4 TIRES IN ONE YEAR SEEMS KIND OF ODD.  THESE TIRES HAVE LESS THAN 20,000 MILES ON THEM AND PROBABLY HAD AT LEAST HALF THE TREAD LEFT.  THERE WAS NO DAMAGE OR CLOSE CALLS BECAUSE OF THESE, BUT I HAD TO CHANGE TIRES ON BUSY FREEWAYS FOR 2 OF THESE FLAT TIRES.  THANK YOU.  *TR",
+        "vin": ""
+    },
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "10/15/2002",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Mazda Motor Corp.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 8020762,
+        "products": [
+            {
+                "manufacturer": "Mazda Motor Corp.",
+                "productMake": "MAZDA",
+                "productModel": "MX-5",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WATER IS LEAKING INTO THE TRUCK WHICH THREE AREAS HAS RUBBER GROMMETS THAT ALLOW  WATER TO EXIT.  HE DOES NOT KNOW WHY THE WATER IS ENTERING THE TRUNK AREA.  THE WATER WAS UP TO THE BATTERY TERMINAL WITH EACH COMPARTMENT CONTAINING WATER.  THIS PROBLEM HAS BEEN FIXED BEFORE BUT THE LEAKING HAS REOCCURED.  MR  *JG",
+        "vin": "JM1NB3531X0"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "03/29/2001",
+        "dateOfIncident": "10/10/1999",
+        "fire": false,
+        "manufacturer": "Mazda Motor Corp.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 743272,
+        "products": [
+            {
+                "manufacturer": "Mazda Motor Corp.",
+                "productMake": "MAZDA",
+                "productModel": "MX-5",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKES FAIL TO STOP THE CAR IN RAIN OR WET CONDITIONS ON FIRST TRY.  *AK",
+        "vin": "JM1NB353XX0"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "03/15/2001",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Mazda Motor Corp.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 742487,
+        "products": [
+            {
+                "manufacturer": "Mazda Motor Corp.",
+                "productMake": "MAZDA",
+                "productModel": "MX-5",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "POOR WET BRAKING - DOESN'T SEEM TO BRAKE WELL AT ALL WHEN THE ROADS ARE WET.*AK",
+        "vin": ""
+    }
+]

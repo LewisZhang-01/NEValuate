@@ -1,0 +1,90 @@
+[
+    {
+        "components": "POWER TRAIN,EXTERIOR LIGHTING",
+        "crash": false,
+        "dateComplaintFiled": "05/24/2001",
+        "dateOfIncident": "05/01/2001",
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 745828,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "FLSTC",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SPEEDOMETER HAS BEEN REPLACED TWICE DUE TO FAILURE. THE TURN SIGNAL SYSTEM FAILED WITH THE LAST FAILURE OF THE SPEEDOMETER. TURN SIGNALS SELF CANCEL AND WORK THRU THE SPEEDOMETER. WARRANTY WORK.  *AK",
+        "vin": "1HD1BJL58WY"
+    },
+    {
+        "components": "POWER TRAIN,EXTERIOR LIGHTING",
+        "crash": false,
+        "dateComplaintFiled": "05/23/2001",
+        "dateOfIncident": "05/01/2001",
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 745807,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "FLSTC",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE SPEEDOMETER ON THIS CYCLE HAS BEEN REPLACED TWICE DUE TO FAILURE. THE TURN SIGNAL SYSTEM FAILED TO WORK PROPERLY THE LAST FAILURE OF THE SPEEDOMETER. ADVISED THAT THE TURN SIGNAL AND SPEEDOMETER WORK TOGETHER. SELF CANCELING TURN SIGNALS. ALL WARRANTY WORK.",
+        "vin": "1HD1BJL58WY"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "02/01/1999",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 607670,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "FLSTC",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "STARTER FAILED RESULTING ENGINE TO FAIL.  YH",
+        "vin": "1HD1BJL57WY"
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "02/01/1999",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 607670,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "FLSTC",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CLUTCH FAILED.  YH",
+        "vin": "1HD1BJL57WY"
+    }
+]

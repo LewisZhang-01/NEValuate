@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "02/03/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "U-HAUL INTERNATIONAL",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004710,
+        "products": [
+            {
+                "manufacturer": "U-HAUL INTERNATIONAL",
+                "productMake": "U HAUL",
+                "productModel": "U HAUL",
+                "productYear": "9999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE U-HAUL SWAYED FROM SIDE TO SIDE AT SPEEDS OF 45-50 MPH.*JB",
+        "vin": ""
+    }
+]

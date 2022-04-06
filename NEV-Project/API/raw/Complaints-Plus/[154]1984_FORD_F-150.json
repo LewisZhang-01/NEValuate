@@ -1,0 +1,46 @@
+[
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "10/28/2015",
+        "dateOfIncident": "10/25/2015",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10786869,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "1984",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 1984 FORD F-150. WHILE DRIVING 35 MPH, A CLICKING NOISE WAS HEARD WHEN THE ACCELERATOR PEDAL WAS DEPRESSED AND THE VEHICLE STALLED WITHOUT WARNING. AFTER MULTIPLE ATTEMPTS, THE VEHICLE WAS ABLE TO RESTART. THE FAILURE RECURRED INTERMITTENTLY. THE VEHICLE WAS TAKEN TO AN INDEPENDENT MECHANIC WHERE IT WAS DIAGNOSED THAT THE THROTTLE CABLE FRACTURED AND NEEDED TO BE REPLACED. THE VEHICLE WAS REPAIRED BUT THE FAILURE RECURRED. THE CONTACT MENTIONED THAT THE THROTTLE CABLE DETACHED. THE MANUFACTURER WAS NOT NOTIFIED OF THE FAILURE. THE FAILURE MILEAGE WAS 264,070.",
+        "vin": "1FTCF15F6EP"
+    },
+    {
+        "components": "SEAT BELTS",
+        "crash": true,
+        "dateComplaintFiled": "08/22/2014",
+        "dateOfIncident": "07/15/2014",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10627492,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "1984",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SEATBELT LOCKED UP WHILE I WAS REACHING TO TURN ON THE A/C. IT HELD ME BACK AND I COULDN'T REACH THE STEERING WHEEL. CRASHED IT INTO A DITCH.  ALSO TRANSMISSION DROPS FROM PARK TO REVERSE IF THE ENGINE IS REVVED. I HAVE HIT A VEHICLE AND A POLE AS A RESULT.  *TR",
+        "vin": ""
+    }
+]

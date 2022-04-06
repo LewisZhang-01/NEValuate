@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "01/16/2003",
+        "dateOfIncident": "09/22/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10003987,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERCURY",
+                "productModel": "COUGAR",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DURING A FRONTAL COLLISION A AIR BAGS FAILE DTO DEPLOY, RESULTING IN DRIVER SUSTAINING INJURIES.             PH...*AK",
+        "vin": ""
+    }
+]

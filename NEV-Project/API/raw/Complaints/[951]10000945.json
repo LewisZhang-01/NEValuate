@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/11/2003",
+        "dateOfIncident": "10/24/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000945,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "AZTEK",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Bridgestone Americas Tire Operations",
+                "productMake": "WILDERNESS HT",
+                "productModel": "P22570R15",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WARRANTY WORK WAS DONE WHICH INCLUDED ROTATING TIRES.  WHEN TIRES WERE ROTATED, THREE TIRES WERE NOTED WITH INNER EDGE CUPPING AND DAMAGE.  THE SRV IS AN AZTEC AND THE TIRES ARE WILDERNESS HTS.  NILES IS A AUTHORIZED DEALER AND STATED THAT THIS HAS BEEN A PROBLEM WITH THESE TIRES, WILL NOT REPLACE.TS",
+        "vin": "3G7DA03E01S"
+    }
+]

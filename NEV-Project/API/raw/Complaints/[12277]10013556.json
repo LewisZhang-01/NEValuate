@@ -1,0 +1,32 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC,ENGINE AND ENGINE COOLING,FUEL SYSTEM, GASOLINE,ELECTRICAL SYSTEM,VISIBILITY,LATCHES/LOCKS/LINKAGES,TIRES",
+        "crash": false,
+        "dateComplaintFiled": "03/27/2003",
+        "dateOfIncident": "01/09/2003",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10013556,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "SENTRA",
+                "productYear": "1997",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "100015",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "CONTINUAL BRAKE FAILURE, DOOR LOCK MALFUNCTION, DEFOGGER, VISIBILITY  WINDSHIELD WIPERS, ENGINE RELATED ISSUES, TIRES, GAS TANK.   *NLM",
+        "vin": ""
+    }
+]

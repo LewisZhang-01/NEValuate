@@ -1,0 +1,24 @@
+[
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "01/03/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002025,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CADILLAC",
+                "productModel": "DEVILLE",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE CHROME WHEELS ARE STARTING TO  PEEL.  CONSUMER STATES TIRES ARE LOOSING AIR. DEALER HAS BEEN CONTACTED. PLEASE PROVIDE ANY FURTHER INFORMATION. TS",
+        "vin": "1G6D52Y6PU2"
+    }
+]

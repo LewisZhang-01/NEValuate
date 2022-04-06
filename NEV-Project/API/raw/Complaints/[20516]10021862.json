@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "07/11/2003",
+        "dateOfIncident": "05/24/2003",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021862,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "ACURA",
+                "productModel": "TL",
+                "productYear": "2003",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Michelin North America, Inc.",
+                "productMake": "MICHELIN",
+                "productModel": "ENERGY MXV4 PLUS",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHILE DRIVING 10-15 MPH THE PASSENGER SIDE FRONT TIRE RUPTURED AFTER IT STRUCK A SHALLOW POTHOLE.  THE REPLACEMENT TIRE RUPTURED 2000 MILES LATER WHEN IT HIT A MANHOLE COVER.  MICHELIN AGREED TO REIMBURSE THE CONSUMER FOR THE ONE TIRE.  THE CONSUMER PLANS TO REPLACE ALL FOUR TIRES.  *AK  *CB  *SCC  *NLM",
+        "vin": "19UUA56623A"
+    }
+]

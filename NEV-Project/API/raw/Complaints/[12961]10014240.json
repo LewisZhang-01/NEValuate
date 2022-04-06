@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "04/10/2003",
+        "dateOfIncident": "11/01/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10014240,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "CONTOUR",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SEAT BELTS WILL NOT RETRACT.  ESPECIALLY THE ONES IN THE BACK SEAT.   *NLM",
+        "vin": ""
+    }
+]

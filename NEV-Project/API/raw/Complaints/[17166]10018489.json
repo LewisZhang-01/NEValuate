@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "05/10/2003",
+        "dateOfIncident": "05/09/2003",
+        "fire": false,
+        "manufacturer": "Isuzu Technical Center of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018489,
+        "products": [
+            {
+                "manufacturer": "Isuzu Technical Center of America, Inc.",
+                "productMake": "ISUZU",
+                "productModel": "TROOPER",
+                "productYear": "1998",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "B.F. GOODRICH TIRE CO.",
+                "productMake": "B.F.GOODRICH",
+                "productModel": "BF GOODRICH",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "AS I WAS DRIVING ON I-95 HEADING NORTH FROM FLORIDA TO VIRGINIA.  MY BF GOODRICH LONG TRAIL TA EXPERIENCED TREAD SEPARATION.  THERE WERE NO INJURIES AS I WAS ABLE TO CONTROL AND STOP THE CAR, BUT THERE WAS DAMAGE TO THE UNDERSIDE OF MY CAR.   *NLM",
+        "vin": ""
+    }
+]

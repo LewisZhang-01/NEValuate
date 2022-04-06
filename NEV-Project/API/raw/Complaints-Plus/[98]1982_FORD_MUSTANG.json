@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "01/02/1995",
+        "dateOfIncident": "01/01/1982",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 501281,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "MUSTANG",
+                "productYear": "1982",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FLOOR BOARD CRACKED UNDER DRIVERS SEAT.  TT",
+        "vin": "1FABP16F8CF"
+    }
+]

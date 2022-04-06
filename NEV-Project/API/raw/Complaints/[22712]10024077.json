@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/13/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "FREIGHTLINER LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10024077,
+        "products": [
+            {
+                "manufacturer": "FREIGHTLINER LLC",
+                "productMake": "FREIGHTLINER",
+                "productModel": "FREIGHTLINER",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "MICHELIN TIRE CORP.",
+                "productMake": "MICHELIN",
+                "productModel": "MICHELIN",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "TIRE FAILED WHILE ON RAMP, INSIDE SIDE WALL BLEW OUT.  *MR   PH",
+        "vin": "4U2ZXJCA010"
+    }
+]

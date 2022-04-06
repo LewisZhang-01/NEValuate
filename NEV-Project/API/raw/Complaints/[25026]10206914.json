@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "10/25/2007",
+        "dateOfIncident": "10/02/2007",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10206914,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA",
+                "productYear": "2006",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "WRANGLER AT",
+                "productYear": "9999",
+                "size": "LT255/85R16",
+                "type": "Tire"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 2006 GMC SIERRA.  THE VEHICLE HAS GOODYEAR WRANGLER AT, SIZE LT255/85R16 TIRES.  THE CONTACT STATED THAT THE BEAD AREA OF ALL THE TIRES WAS EXTREMELY INDENTED.  SHE NOTICED A HUGE BULGE ON THE PASSENGER SIDE FRONT TIRE.  THE DEALER ACKNOWLEDGED THE FAILURE AND REPLACED THREE OF THE SIX TIRES.  THE MANUFACTURER REFUSED TO REPLACE THE REMAINING THREE TIRES.  THE FAILURE MILEAGE WAS 20,100 AND CURRENT MILEAGE WAS 21,000.",
+        "vin": "1GTJK33D86F"
+    }
+]

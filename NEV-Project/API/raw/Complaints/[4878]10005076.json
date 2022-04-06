@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "02/01/2003",
+        "dateOfIncident": "12/30/2002",
+        "fire": true,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005076,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "GRAND PRIX",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "A LOAD BACK FIRED WHEN CRANKING THE CAR FOLLOWING THAT WAS A LARGE CLOUD OF THICK WHITE SMOKE OUT FROM UNDER THE HOOD. A FIRE WAS ALMOST STARTED.       TS",
+        "vin": ""
+    }
+]

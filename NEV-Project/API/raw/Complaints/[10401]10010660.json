@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "03/18/2003",
+        "dateOfIncident": "02/08/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010660,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "CAMRY",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "STEERING HAS A DEAD SPOT ALSO WHEEL DOES NOT RETURN AFTER MAKING A TURN.        *JB",
+        "vin": "4T1BG12K4TU"
+    }
+]

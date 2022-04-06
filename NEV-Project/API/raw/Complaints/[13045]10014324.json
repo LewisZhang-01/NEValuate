@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": true,
+        "dateComplaintFiled": "04/13/2003",
+        "dateOfIncident": "04/13/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10014324,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "PARK AVENUE",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ACCELERATOR STUCK AND CAR HIT A BUILDING. CAR WAS TOTALED.   *NLM",
+        "vin": "1G4CW54K324"
+    }
+]

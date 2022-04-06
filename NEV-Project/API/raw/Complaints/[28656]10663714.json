@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "12/11/2014",
+        "dateOfIncident": "10/01/2014",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10663714,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "300C",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE STARTED RANDOMLY SHUTTING OFF PRIMARILY AT STOPS AND GRADUALLY BECAME MORE FREQUENT TO SHUTTING OFF WHILE DRIVING AND SHIFTING BACKWARDS. *TR",
+        "vin": "2C3LK63H96H"
+    }
+]

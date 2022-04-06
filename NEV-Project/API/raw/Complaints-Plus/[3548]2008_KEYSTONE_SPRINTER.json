@@ -1,0 +1,98 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "04/29/2019",
+        "dateOfIncident": "09/04/2018",
+        "fire": false,
+        "manufacturer": "Keystone RV Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11204510,
+        "products": [
+            {
+                "manufacturer": "Keystone RV Company",
+                "productMake": "KEYSTONE",
+                "productModel": "SPRINTER",
+                "productYear": "2008",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE BREAK-AWAY SWITCH ON OUR CAMPER HAD BEEN DISCONNECTED WHILE IN A CAMPGROUND FOR A COUPLE OF HOURS & CAUSED THE SWITCH TO MELT & THE INSULATION TO BURN OFF OF THE WIRES, ALONG WITH OTHER WIRES GOING INTO THE JUNTION BOX. THERE WAS GREAT POTENTIAL FOR A FIRE.  THE SWITCH & WIRING IS UNDER-SIZED FOR THE APPLICATION & WILL NOT CARRY THE AMPERAGE THAT THE BRAKES DRAW.  IT APPEARS THAT THE WIRES TO THE SWITCH WHICH ARE ABOUT 16 GAUGE ARE FED BY ABOUT A 10 GAUGE WIRE POWER SOURCE.  LOGIC WOULD INDICATE THAT THESE WIRES SHOULD BE OF EQUAL SIZE AS THE FEED WIRE TO THE BRAKE SYSTEM.  THIS IS NOT A FAIL-SAFE DESIGN & SHOULD NOT OVERHEAT TO THE POINT OF CAUSING A FIRE.  I HAVE CONTACTED KEYSTONE & TRAILER LIFE MAGAZINE WHO DO NOT ACKNOWLEDGE THE POTENTIAL PROBLEM.  I SUSPECT THAT THE DESIGN HAS NOT CHANGED FROM SINGLE AXLE TRAILERS TO DOUBLE/TRIPLE AXLES.  SEVERAL OTHER CAMPERS HAVE COMPLAINED TO TRAILER LIFE ABOUT BREAK-AWAY SWITCH PROBLEMS TO NO AVAIL.  MY (RETIRED ENGINEER) RECOMMENDATION IS TO RE-DESIGN THE SWITCH & WIRING WITH WIRING EQUAL IN SIZE TO THE BRAKE SYSTEM WIRING & INSTALL AN ALARM & TIMER WHEN THE BREAK-AWAY SWITCH IS PULLED.",
+        "vin": "4YDF2522081"
+    },
+    {
+        "components": "SEAT BELTS,STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "05/26/2011",
+        "dateOfIncident": "05/20/2011",
+        "fire": false,
+        "manufacturer": "Keystone RV Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10404768,
+        "products": [
+            {
+                "manufacturer": "Keystone RV Company",
+                "productMake": "KEYSTONE",
+                "productModel": "SPRINTER",
+                "productYear": "2008",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SEAT BELT LATCH CABLES ARE BROKEN. THE DRIVER'S SIDE SEAT BELT LATCH IS ATTACHED TO THE FLOOR WITH THREE CABLES. TWO ARE SNAPPED INTO LEAVING ONLY ONE TO CONSTRAIN DRIVER. IF THE DRIVER WRECKS THE ONE CABLE WON'T BE ENOUGH TO KEEP SOMEONE FROM BEING INJURED AS I'M SURE THE OTHER CABLE WILL SNAP UPON A HEAVY COLLISION. THIS VAN ISN'T EVEN TWO YEARS OLD.",
+        "vin": "WD0PF445085"
+    },
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "05/26/2011",
+        "dateOfIncident": "05/01/2011",
+        "fire": false,
+        "manufacturer": "Keystone RV Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10404769,
+        "products": [
+            {
+                "manufacturer": "Keystone RV Company",
+                "productMake": "KEYSTONE",
+                "productModel": "SPRINTER",
+                "productYear": "2008",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVERS SIDE DOOR GETS STUCK IN THE \"WIDE OPEN\" POSITION. WILL NOT CLOSE. HAD TO DRIVE THIS VEHICLE TO A GARAGE WITH DOOR IN THIS POSITION. THE DOOR HINGE/BRACKET HAD TO BE CUT INTO. THIS IS THE SECOND SPRINTER TO DO THIS. THE FIRST WAS A 2007.",
+        "vin": "WD0PF445085"
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "07/17/2009",
+        "dateOfIncident": "01/01/1901",
+        "fire": false,
+        "manufacturer": "Keystone RV Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10277728,
+        "products": [
+            {
+                "manufacturer": "Keystone RV Company",
+                "productMake": "KEYSTONE",
+                "productModel": "SPRINTER",
+                "productYear": "2008",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "CONSUMER HAS A 2008 KEYSTONE SPRINTER COPPER CANYON FIFTH WHEEL CAMPER WITH DURO TIRES THAT WERE SPLITTING.   *NJ  THE CONSUMER STATED 2 MORE TIRES WERE FOUND CRACKED AND SPLIT IN MULTIPLE PLACES. *JB",
+        "vin": "4YDF2522481"
+    }
+]

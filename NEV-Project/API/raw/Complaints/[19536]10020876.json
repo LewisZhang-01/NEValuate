@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "06/02/2003",
+        "dateOfIncident": "06/01/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020876,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CORVETTE",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AS WITH MANY OTHER CORVETTE OWNERS I KNOW, I WAS STRANDED BY THE DEFECTIVE COLUMN LOCK MECHANISM.  THIS SHOULD BE A FACTORY RECALL ON ALL CORVETTES.*AK",
+        "vin": "1G1YY22G215"
+    }
+]

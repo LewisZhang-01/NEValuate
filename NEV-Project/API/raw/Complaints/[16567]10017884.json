@@ -1,0 +1,24 @@
+[
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "04/30/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017884,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "GRAND CARAVAN",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE TRAVELING, THE DASH BOARD INDICATION LIGHTS FLASHED THROUGHOUT TRAVEL. THE TECHNICIAN STATED THE PROBLEM WAS DUE TO THE AIR CONDITIONER CONTROL HEADS CONTAINED A  SHORT. *JB",
+        "vin": "1B4GP44ROTB"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "TIRES",
+        "crash": true,
+        "dateComplaintFiled": "07/03/2003",
+        "dateOfIncident": "05/16/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10021646,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "VIBE",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BOTH DRIVER SIDE TIRES BLEW OUT WHICH CAUSED THE VEHICLE TO ROLL OVER SEVERAL TIMES.  *AK  *NLM  *JB",
+        "vin": "5Y2SL62843Z"
+    }
+]

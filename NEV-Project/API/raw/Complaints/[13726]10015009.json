@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "04/02/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015009,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "ESCORT",
+                "productYear": "1991",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE STEERING WHEEL WAS VERY HARD TO TURN. THERE WAS A RECALL 94E019000  WHICH DESCRIBED THE EXACT PROBLEM, THE CONSUMER'S VEHICLE EXPERIENCED.  *JB",
+        "vin": "1FAPP11J9MW"
+    }
+]

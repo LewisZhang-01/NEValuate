@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": true,
+        "dateComplaintFiled": "03/05/2003",
+        "dateOfIncident": "02/28/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10009975,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "LESABRE",
+                "productYear": "1990",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE EXPERIENCED SUDDEN ACCELERATION, CROSSED A ROADWAY, AND CRASHED INTO ANOTHER PARKED VEHICLE.  *AK",
+        "vin": "1G4HP54C2LH"
+    }
+]

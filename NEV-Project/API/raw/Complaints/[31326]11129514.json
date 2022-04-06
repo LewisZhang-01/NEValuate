@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "09/14/2018",
+        "dateOfIncident": "08/31/2018",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11129514,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "JETTA",
+                "productYear": "2017",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "STEERING WHEEL LOCKED WHILE DRIVING CAR, LOCKED FOR 40 SECONDS WHILE TURNING TO RIGHT.",
+        "vin": "3VW5T7AJXHM"
+    }
+]

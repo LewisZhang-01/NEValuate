@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "12/20/2002",
+        "dateOfIncident": "08/11/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10006628,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-450 SD",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE STEEL PROD. CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "FIRESTONE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHILE DRIVING, THE TIRE BLEW OUT.  UPON INSPECTION, TREAD WAS GONE AND THERE WAS A HUGE HOLE IN THE SIDEWALL.  THERE WAS ONLY 6000 MILES ON THIS TIRE.  TIRES WERE INSPECTED AND PRESSURE CHECKED JUST A FEW HOURS PRIOR TO THIS INCIDENT.  REPORTED IT TO FIRESTONE WHEN I RETURNED HOME, ASKING IF THERE WAS ANY PROBLEM WITH THIS TYPE OF TIRE, BUT ALL THEY DID WAS SEND A TRACKING NUMBER WT20020819-0000000185.  THEY SAID THEY WOULD RESPOND IN THE NEXT SEVERAL DAYS.  THAT E-MAIL WAS SENT ON 8/19/02, WE HAVE NOT HEARD FROM THEM SINCE. *JB    ***DIMSII IVOQ ENTRY POSTED AFTER 12/12/02 CUT-OVER TO ARTEMIS****770776",
+        "vin": "1FDXE45S01H"
+    }
+]

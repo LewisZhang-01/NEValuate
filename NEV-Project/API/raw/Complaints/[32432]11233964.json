@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN,UNKNOWN OR OTHER,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "07/22/2019",
+        "dateOfIncident": "07/18/2019",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11233964,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "GTI",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN COMING TO A STOP, AND PRESSING ON CLUTCH PEDAL, CAR INTERMITTENTLY CUTS OFF POWER",
+        "vin": "3VW5T7AU0KM"
+    }
+]

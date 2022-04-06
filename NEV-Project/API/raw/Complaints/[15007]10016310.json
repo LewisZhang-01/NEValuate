@@ -1,0 +1,31 @@
+[
+    {
+        "components": "STEERING,EQUIPMENT",
+        "crash": true,
+        "dateComplaintFiled": "04/22/2003",
+        "dateOfIncident": "03/27/2003",
+        "fire": false,
+        "manufacturer": "UNKNOWN MANUFACTURER",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10016310,
+        "products": [
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN1",
+                "productYear": "9999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "ELECTRONIC MOBILITY CONTROLS",
+                "productMake": "EMC",
+                "productModel": "EGB-SS",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "DIVING AT APPROX. 40 MPH EAST ON SPARKS BLVD.  VEHICLE SUDDENLY WENT LEFT ACROSS ONCOMING TRAFFIC AND INTO A GRAVEL AREA.  STEERING WOULD NOT RESPOND TO CORRECTION WHEN I TURNED THE EMC DS 2000 STEERING WHEEL.  THE DRIVING EVALUATION FROM THE VA IN PALO ALTO, ED BRODD, SAID THE SAME FAILURE HAS HAPPENED TO HIM WITH THE DS 2000, EXCEPT THAT THE VEHICLE UNCONTROLLABLY WENT RIGHT.  I ASKED HIM IF HE WAS ABLE TO CORRECT BY TURNING THE DS 20000 WHEEL OR THE FACTORY WHEEL.  HE REPLIED THAT HE COULDN'T CONTROL THE VEHICLE AND CRASHED UP OVER A CURB.  I DON'T KNOW THE DATE OF HIS ACCIDENT.   *NLM",
+        "vin": ""
+    }
+]

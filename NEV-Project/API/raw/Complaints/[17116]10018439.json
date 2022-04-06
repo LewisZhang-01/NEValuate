@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "05/08/2003",
+        "dateOfIncident": "05/08/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018439,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SUBURBAN",
+                "productYear": "1998",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Bridgestone Americas Tire Operations",
+                "productMake": "BRIDGESTONE",
+                "productModel": "DUELER 684",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "GMC INFORMED US THAT OUR SUBURBAN'S FIRESTONE TIRES HAVE HAD A TREAD SEPARATION.  FIRESTONE CONFIRMED THIS AND IS OFFERING TO ADJUST FOR NEW TIRES BUT NOT REFUND.  I DO NOT WISH TO HAVE BRIDGESTONE / FIRESTONE TIRES.   DO THEY NOT NEED TO REFUND OR REPLACE THE TIRES?  THE TIRES WE PURCHASED IN 2001 AND ARE BRIDGESTONE DUELER AT LT245/75 R 16 108/104S 693.    *NLM",
+        "vin": ""
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "01/13/2003",
+        "dateOfIncident": "09/23/2002",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003654,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "GTI",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2 OUT OF 4 COIL PACKS FAILED WHILE DRIVING  CAUSING THE VEHICLE TO STALL.   MANUFACTURER IS AWARE OF PROBLEM, BUT WILL NOT REPLACE COMPONENT UNTIL THEY ALL FAIL.*JB.  *AK",
+        "vin": "9BWDE61J924"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "02/25/2003",
+        "dateOfIncident": "02/25/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009325,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "YUKON",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE FUEL PUMP OVERHEATED TO THE POINT WHERE IT MELTED THE WIRE TO THE TOP OF THE TANK, THEN PROCEEDED TO MELT A WHOLE IN THE CONNECTOR GOING TO THE GAS TANK.  *JB",
+        "vin": ""
+    }
+]

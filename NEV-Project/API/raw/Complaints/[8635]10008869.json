@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "03/04/2003",
+        "dateOfIncident": "01/16/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10008869,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "CROWN VICTORIA",
+                "productYear": "9999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER REQUESTING INFORMATION ON CROWN VICTORIA'S FUEL TANK FIRES WHICH OCCUR WHEN THE VEHICLE IS REAR ENDED AT HIGH SPEEDS.  *DT  *NLM",
+        "vin": ""
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "12/30/2002",
+        "dateOfIncident": "12/23/2002",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000641,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "AUDI",
+                "productModel": "AUDI",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "WRANGLER",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "I AM ADDING TO A PREVIOUS COMPLAINT [ODI 768857 - REF 704187] REPORTING 2 GOODYEAR SIDE WALL TIRE FAILURES. I HAVE NOW EXPERIENCED A 3RD SIDE WALL BUBBLE AND FAILURE. AGAIN THERE IS NO RIM DAMAGE AND PROPER TIRE PRESSURES HAVE BEEN MAINTAINED. THE CAR HAS NOT BEEN OPERATED OFF ROAD. I'M CAUGHT BETWEEN AUDI WHICH TAKES NO RESPONSIBILITY FOR THE TIRES ON THEIR CARS AND GOODYEAR. I HAVE NEVER HAD TIRE FAILURES ON ANY OF THE OTHER 5 CARS WE OWN AND CONTINUE TO BE SURE THAT THIS MUST BE A COMMON PROBLEM CAUSED BY WEAK SIDE WALLS.",
+        "vin": "WA1YD64B72N"
+    }
+]

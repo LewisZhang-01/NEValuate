@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": true,
+        "dateComplaintFiled": "03/06/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10010013,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "RAM 3500",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE POWER STEERING FAILED OR LOCKED UP, WHICH CAUSED AN ACCIDENT. THE VEHICLE ROLLED OVER SEVERAL TIMES. CONSUMER HAD TAKEN THE VEHICLE TO THE DEALER SEVERAL TIMES PRIOR TO INCIDENT. THERE WERE INJURIES.*JB",
+        "vin": ""
+    }
+]

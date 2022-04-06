@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "04/14/2003",
+        "dateOfIncident": "01/07/2003",
+        "fire": false,
+        "manufacturer": "MONACO COACH CORPORATION",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015766,
+        "products": [
+            {
+                "manufacturer": "MONACO COACH CORPORATION",
+                "productMake": "HOLIDAY RAMBLER",
+                "productModel": "RAMBLER",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE DEALERSHIP DIDN'T COMPLETE THE RECALL FOR THE FLOOR TRUSS ASSEMBLY 02 V 237 000. WHICH COULD CAUSE A FIRE.*JB",
+        "vin": "3FCNS53S2XJ"
+    }
+]

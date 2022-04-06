@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS,VEHICLE SPEED CONTROL,ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "06/02/2003",
+        "dateOfIncident": "05/18/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020917,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "NEON",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE CLOCKSPRING IS NOT WORKING.  THE AIRBAG LIGHT IS ON, THE HORN DOESN'T WORK, AND THE CRUISE CONTROL DOESN'T WORK.*AK",
+        "vin": "3B3ES67CXST"
+    }
+]

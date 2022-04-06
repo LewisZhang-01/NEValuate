@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "05/27/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019801,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "AVENGER",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "STRUTS,  LATERAL ARM BALL JOINTS AND HUB ASSEMBLY FAILED AS A RESULT OF RECALL 00V421002 REPAIRS.    MR  *TT",
+        "vin": "4B3AU42N4YE"
+    }
+]

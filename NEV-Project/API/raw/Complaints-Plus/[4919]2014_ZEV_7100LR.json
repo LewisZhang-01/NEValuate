@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "10/22/2014",
+        "dateOfIncident": "10/18/2014",
+        "fire": false,
+        "manufacturer": "Z Electric Vehicle Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10649288,
+        "products": [
+            {
+                "manufacturer": "Z Electric Vehicle Corporation",
+                "productMake": "ZEV",
+                "productModel": "7100LR",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "LITHIUM ION BATTERY CHARGING SYSTEM POWER CORD OVERHEATED CAUSING PLUG TO MELT. POWER CORD IS RATED AT 120VAC AND 15 AMPS BUT CURRENT DRAW WAS ~20 AMPS. VEHICLE IS AN ELECTRIC SCOOTER MANUFACTURED BY Z ELECTRIC VEHICLES AND THE CHARGING SYSTEM IS A VENDOR SUPPLIED PORTABLE CHARGER. SCOOTER WAS PARKED OUTDOORS IN DRY CONDITIONS AT THE TIME. A PORTABLE AMMETER WAS CLAMPED OVER THE MAINS POWER CORD AND SHOWED CURRENT FLUCTUATING FROM 18-23 AMPS. TEMPERATURES ON THE POWER CORD PLUG WERE REMOTELY MEASURED AT APPROXIMATELY 180 F BEFORE POWER WAS REMOVED.  *TR  ## VIN PASSED ## ZEV 7100LR 2014 ##",
+        "vin": "1Z9E71955EM"
+    }
+]

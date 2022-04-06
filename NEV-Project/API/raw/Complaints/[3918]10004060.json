@@ -1,0 +1,32 @@
+[
+    {
+        "components": "ELECTRONIC STABILITY CONTROL,SERVICE BRAKES, HYDRAULIC,TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/28/2003",
+        "dateOfIncident": "12/05/2002",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004060,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "LEXUS",
+                "productModel": "SC430",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Bridgestone Americas Tire Operations",
+                "productMake": "BRIDGESTONE",
+                "productModel": "POTENZA",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHILE IN MOTION AND IN INCLEMENT WEATHER, THE VEHICLE WENT INTO A 360* SPIN, WHILE MOVING AT ONLY 25 MPH.  THE VEHICLE LOST ALL TRACTION.  THE BRAKES ON THE VEHICLE ARE INOPERABLE.  WHILE ON AN INCLINE AND BRAKING FROM ABOUT 5 MPH THE VEHICLE JUMPED AN ISLAND BEFORE THE BRAKES STOPPED IT.  *JG",
+        "vin": "JTHFN48Y420"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,SUSPENSION,SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "03/25/2019",
+        "dateOfIncident": "03/15/2019",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11191264,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "ESCAPE",
+                "productYear": "2012",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "MY VEHICLE MAKES LOUD NOISE WHEN I DRIVE FROM THE WHEEL BARREL",
+        "vin": "1FMCU0D74CK"
+    }
+]

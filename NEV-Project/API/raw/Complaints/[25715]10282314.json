@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": true,
+        "dateComplaintFiled": "08/30/2009",
+        "dateOfIncident": "06/10/2009",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10282314,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "300",
+                "productYear": "2008",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "INTEGRITY",
+                "productYear": "9999",
+                "size": "P215/65R17",
+                "type": "Tire"
+            }
+        ],
+        "summary": "GOODYEAR INTEGRITY TIRES HYDROPLANE EVERYTIME IT RAINS.  I HAVE ALREADY HAD ONE ACCIDENT BECAUSE I COULDN'T STOP.  I'VE RUN A RED TRAFFIC LIGHT AND I HAVE EXPERIMENTED IN A PARKING LOT AND HYDROPLANED TRAVELING AT 15 MPH. *TR",
+        "vin": ""
+    }
+]

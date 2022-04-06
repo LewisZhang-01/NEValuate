@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "02/10/2004",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Isuzu Technical Center of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10059114,
+        "products": [
+            {
+                "manufacturer": "Isuzu Technical Center of America, Inc.",
+                "productMake": "ISUZU",
+                "productModel": "TROOPER",
+                "productYear": "9999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE TIRE SALESPERSON INFORMED CONSUMER THAT TIRES ON VEHICLE WERE IMPROPER, AND THEY WOULD SHRED OR FALL APART.   *LA   IT WAS HARD TO SUSTAIN THE VEHICLE WHEN THE TIRE SEPARATED FROM THE VEHICLE.  (GUARDIAN TIRES)   *SC     *JB",
+        "vin": ""
+    }
+]

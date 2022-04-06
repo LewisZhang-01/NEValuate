@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "03/12/2003",
+        "dateOfIncident": "03/10/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010331,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "E-450",
+                "productYear": "1999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "LT22575R16E",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "A TIRE LOST ITS TREAD WHILE TRAVELING ON I40 IN LEBANON,TN, WHILE ENROUTE TO NEW HAMPSHIRE.  THE TIRE WAS A FIRESTONE, ON A DUTCHMAN MOTOR HOME WITH A FORD CHASIS.*JB",
+        "vin": "1FDXE40S1XH"
+    }
+]

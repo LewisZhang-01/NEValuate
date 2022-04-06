@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "10/29/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10045014,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WINDSHIELD WIPERS ARE EXPERIENCING THE SAME DEFECT AS STATED IN RECALL 03 V 159 000; BUT THIS VEHICLE IS NOT INCLUDED IN THE RECALL DUE TO VIN.  *AK",
+        "vin": "1GTEC14ZXRZ"
+    }
+]

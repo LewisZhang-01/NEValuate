@@ -1,0 +1,46 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "04/05/2022",
+        "dateOfIncident": "12/18/2021",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11459765,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-53",
+                "productYear": "2021",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact owns a 2022 Tiffin 36 LA equipped with a 2021 Ford F-53. The contact stated while the RV was parked, the hydraulic slides opened independently to 4-6 inches. The contact closed the hydraulic slides; however the failure reoccurred daily. The dealer was not notified of the failure. The manufacturer was notified of the failure and a case was opened. The RV was not diagnosed or repaired. The failure mileage was approximately 4,000.",
+        "vin": "1F66F5DN3M0"
+    },
+    {
+        "components": "SUSPENSION,VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "09/20/2021",
+        "dateOfIncident": "09/20/2021",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11433731,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-53",
+                "productYear": "2021",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "My Motorhome is on a f-53 chassis and i am getting the Advanctrac Warrning that Advance trac is disabled and the cruise control shuts down. The cruise control stopping and no advance trac is a big safety problem",
+        "vin": "1f65f5dnxl0"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "04/27/2003",
+        "dateOfIncident": "04/17/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10016576,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "CHEROKEE",
+                "productYear": "1987",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "STEERING COLUMN WOBBLES AT TILT JOINT . ON LEFT TURNS, STEERING COLUMN LOCKS  IN POSITION MAKING CAR UNDRIVEABLE.    *NLM",
+        "vin": "1JCML7845HT"
+    }
+]

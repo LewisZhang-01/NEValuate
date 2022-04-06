@@ -1,0 +1,98 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "03/15/2011",
+        "dateOfIncident": "03/06/2011",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10390233,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "E350",
+                "productYear": "1983",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Cooper Tire & Rubber Co.",
+                "productMake": "COOPER",
+                "productModel": "COOPER DISCOVERER RADIAL AST",
+                "productYear": "9999",
+                "size": "P235/75R15",
+                "type": "Tire"
+            }
+        ],
+        "summary": "4 OF 6 TIRES BOUGHT IN 04 THREAD SEPARATING. NO ACCIDENT. MOTOR JUST STARTED SHAKING AT FREEWAY SPEEDS.  *TR",
+        "vin": ""
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "11/12/1996",
+        "dateOfIncident": "10/23/1996",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 804820,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "E350",
+                "productYear": "1983",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE THE VEHICLE WAS ON AND IN THE PARK POSITION,  ON ITS OWN THE VEHICLE JUMPED OUT OF GEAR FROM PARK INTO REVERSE.   *AK CONSUMER STATES THIS IS NOT HIS VEHICLE OR HIS COMPLAINT.*JB",
+        "vin": ""
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "10/15/1996",
+        "dateOfIncident": "10/06/1996",
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 509929,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "E350",
+                "productYear": "1983",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENGINE COMPARTMENT FIRE.",
+        "vin": "1FDKE37H2JH"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "04/19/1996",
+        "dateOfIncident": "04/17/1996",
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 983128,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "E350",
+                "productYear": "1983",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE PARKED FOR TWO DAYS, NOTICED SMOKE AND FIRE COMING FROM DASH AREA, POSSIBLE ELECTRICAL. *AK",
+        "vin": "1FBHS31Y3DA"
+    }
+]

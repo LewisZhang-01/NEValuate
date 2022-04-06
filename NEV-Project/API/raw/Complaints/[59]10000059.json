@@ -1,0 +1,31 @@
+[
+    {
+        "components": "AIR BAGS,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "12/12/2002",
+        "dateOfIncident": "12/11/2002",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000059,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "PLYMOUTH",
+                "productModel": "GRAND VOYAGER",
+                "productYear": "1996",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "PLYMOUTH",
+                "productModel": "SPORT UTILITY",
+                "productYear": "1978",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "FAILURE OF DEALER TO FIX RECALLED AIRBAG CLOCKSPRING RECALL #B24 ISSUED ON NOVEMBER 14TH. DEALER REFUSED TO FIX THE RECALL BECAUSE MY VAN WINDOWS HAVE CHALK ON THEM TO TELL THE PUBLIC THE PROBLEMS I HAVE HAD WITH THIS VEHICLE.",
+        "vin": "1P4GP44R2TB"
+    }
+]

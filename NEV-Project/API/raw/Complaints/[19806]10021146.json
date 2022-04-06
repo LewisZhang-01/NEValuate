@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "06/06/2003",
+        "dateOfIncident": "08/04/2000",
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021146,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "XL",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "1998, HARLEY DAVIDSON, XLH883 - BANK ANGLE SENSOR FAILURE CAUSING MOTORCYCLE TO QUIT SUDDENLY IN TRAFFIC...*AK",
+        "vin": ""
+    }
+]

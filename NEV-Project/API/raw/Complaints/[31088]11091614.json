@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS,UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "05/03/2018",
+        "dateOfIncident": "05/07/2014",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11091614,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "TAHOE",
+                "productYear": "2011",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DASHBOARD CRACKING AND IT IS LOOKING UNSAFE IF AIRBAGS DEPLOY.",
+        "vin": "1GNSCBE04BR"
+    }
+]

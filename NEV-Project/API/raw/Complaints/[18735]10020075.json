@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "05/19/2003",
+        "dateOfIncident": "05/16/2003",
+        "fire": false,
+        "manufacturer": "FOUR WINDS CMPR. MFG. CO.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020075,
+        "products": [
+            {
+                "manufacturer": "FOUR WINDS CMPR. MFG. CO.",
+                "productMake": "FOUR WINDS",
+                "productModel": "FOUR WINDS",
+                "productYear": "1997",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "STEELTEX R4S",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHILE DRIVING ON THE HIGHWAY THE VEHICLE EXPERIENCED TWO SEPARATE TIRE BLOWOUTS.  THE FIRST WAS THE WAS THE DRIVER'S OUTSIDE DUAL.  THE SECOND FAILURE WAS THE PASSENGER OUTSIDE DUAL.  TIRE INFO:  FIRESTONE  STEELTEX RADIALS R4S, LT225/75R16, DOT NO.-VD1L1XD159.   *NLM",
+        "vin": ""
+    }
+]

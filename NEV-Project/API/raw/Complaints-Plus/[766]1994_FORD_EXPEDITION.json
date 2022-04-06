@@ -1,0 +1,90 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "02/25/2017",
+        "dateOfIncident": "12/25/2016",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10956946,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPEDITION",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE PLUG IS BLOWING OUT OF THE ENGINE. TODAY IS FEB. 25TH, 2017 AND I HAD THIS PROBLEM FIXED AT A SHOP BEFORE. IT WAS APPROXIMATELY THE 2ND OF JANUARY 2017.",
+        "vin": ""
+    },
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "04/20/2004",
+        "dateOfIncident": "04/10/2004",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10067487,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPEDITION",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING 20 MPH UP HILL CONSUMER LOST STEERING CONTROL. CONSUMER HAD THE VEHICLE TOWED.  DEALERSHIP WAS NOTIFIED, BUT DID NOT RESOLVE THE PROBLEM. *AK",
+        "vin": "1FMFU18L7VL"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "10/20/2003",
+        "dateOfIncident": "10/02/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10044244,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPEDITION",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING 40 MPH SPARK PLUG SFAILED WITHOUT WARNING. DEALER STATED VEHICLE LOST COMPRESSION,  WHICH CAUSED IT TO BECOME  INOPERATIVE.*AK",
+        "vin": ""
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "03/13/2001",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 882964,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPEDITION",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN DRIVING VEHICLE IT WOULD VIBRATE. AT DEALERSHIP HAD TIRES CHANGED.  PROBLEM STILL EXISTS. BACK AT DEALER WAS INFORMED TIRES NEEDED ROTATION.  RECALL CAME OUT, AND  ALL TIRES WERE EXCHANGED.  PROBLEM STILL EXISTS. MECHANIC INDICATED IT WAS A DESIGN FLAW FROM MANUFACTURER.*AK",
+        "vin": "1FMDU327X3R"
+    }
+]

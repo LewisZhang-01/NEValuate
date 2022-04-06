@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "08/06/2011",
+        "dateOfIncident": "05/13/2011",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10418814,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "HIT BUMP, GAS TANK STRAPS BROKE AND DRAGGED TANK ON PAVEMENT, RUPTURED AND GAS SPILLED ON ROAD",
+        "vin": "2FTZX17211C"
+    }
+]

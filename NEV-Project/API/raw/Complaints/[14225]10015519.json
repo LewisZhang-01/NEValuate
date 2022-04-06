@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS,SEAT BELTS",
+        "crash": true,
+        "dateComplaintFiled": "04/09/2003",
+        "dateOfIncident": "04/06/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 1,
+        "numberOfInjuries": 1,
+        "odiNumber": 10015519,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "RAM 1500",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE WAS INVOLVED IN A FRONTAL COLLISION WHILE TRAVELING 55 MPH.  THE DRIVER'S SHOULDER RESTRAINT DID NOT HOLD AND CAUSED  CONSUMER TO MOVE FORWARD AND HIT THE FRONT WINDSHIELD.   *NLM. ALSO, FRONT AIR BAGS FAILED TO DEPLOY.  *AK  THE DRIVER OF THE OTHER VEHICLE WAS KILLED IN THE CRASH.  THE CONSUMERS TRUCK T-BONED THE OTHER VEHICLE ON THE DRIVER'S SIDE.",
+        "vin": ""
+    }
+]

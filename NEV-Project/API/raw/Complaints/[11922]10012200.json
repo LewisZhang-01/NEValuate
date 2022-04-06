@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "03/20/2003",
+        "dateOfIncident": "03/20/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10012200,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "LEXUS",
+                "productModel": "ES300",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Bridgestone Americas Tire Operations",
+                "productMake": "BRIDGESTONE",
+                "productModel": "POTENZA",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHILE DRIVING AND WITHOUT PRIOR WARNING THE PASSENGER SIDE TIRE TREAD SEPARATED FROM THE WHEEL.  THE TIRE WAS PRENZA POTONZA P205/R65R-1592V.   *NLM  ALL FOUR TIRES HAD WORN DOWN THE SAME WAY.  THE DEALER SUGGESTED THAT THE VEHICLE NEEDED FOUR NEW TIRES.  SCC",
+        "vin": "JT8BF28G2X0"
+    }
+]

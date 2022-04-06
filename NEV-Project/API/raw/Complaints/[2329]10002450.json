@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "01/09/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002450,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GEO",
+                "productModel": "PRIZM",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATES THE HARMONIC BALANCER WENT OUT CAUSING LOSS OF POWER STEERING. PLEASE PROVIDE ANY ADDITIONAL INFORMATION.   *NLM",
+        "vin": ""
+    }
+]

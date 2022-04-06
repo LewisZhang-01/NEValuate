@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "06/06/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022590,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "SATURN",
+                "productModel": "LS",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE HAS AN ALIGNMENT FAILURE , THAT CAUSES THE FRONT TIRE TO WEAR EXCESSIVELY.  DEALERSHIP INSTALLED AN ALIGNMENT KIT TO REPAIR THE PROBLEM.*AK",
+        "vin": "1FALP62WXVH"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "02/14/2003",
+        "dateOfIncident": "02/10/2002",
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005834,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERCURY",
+                "productModel": "MYSTIQUE",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FORD CONTOUR 1995 ENGINE FIRE THAT DESTROYED EVERYTHING IN THE ENGINE    MECURY 1996 MYSTIC WIREING SHORTAGE THAT COULD HAVE STARTED A FIRE IN THE ENGINE COMPARTMENT.",
+        "vin": "1MELM6538TK"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "01/10/2003",
+        "dateOfIncident": "01/10/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002538,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "INTREPID",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NHTSA#98-V-184-000 FUEL INJECTION DELIVERY SYSTEM CAN LEAK FUEL FROM SOME OF THE SEALING O-RINGS FROM HAIR LINE CRACK IN THE THERMOSET FUEL INJECTION RAIL. CONSUMER STATE HAD THE SAME PROBLEM HOWEVER THIS VEHICLE IS NOT INCLUDED DUE TO THE VIN# DEALER NOTIFIED.*JB",
+        "vin": "2B3HD46T8VH"
+    }
+]

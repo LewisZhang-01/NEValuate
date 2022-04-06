@@ -1,0 +1,46 @@
+[
+    {
+        "components": "STEERING,SERVICE BRAKES,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "01/04/2022",
+        "dateOfIncident": "01/02/2022",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11446165,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-650 SD",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I was driving down the road when the engine suddenly quit.  There was no brake assist and no steering assist.  I stopped in the middle of the road and could not restart the vehicle.  The engine would not crank.  There was no transmission gear indicator on the dashboard (likely no CAN-BUS communication with the transmission control module).  Eventually I found a loose large-diameter power cable that was loose at the front of the fusebox under the hood, located on the driver-side wheel well.  I tightened up the nut that holds this large cable to the stud of the fusebox, and the transmission gear indicator returned.  After that, the truck started and drove correctly.  Apparently this nut was never tightened at the factory, creating a safety issue.",
+        "vin": "1FDNF6CY3KD"
+    },
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "08/12/2020",
+        "dateOfIncident": "08/11/2020",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11348796,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-650 SD",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "POWER STEERING LEAKED  INTO THE BRAKE PORTION OF HYDROBOOSTER.*DT*JB",
+        "vin": "1FDNF6DE9KD"
+    }
+]

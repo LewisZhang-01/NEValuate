@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "05/08/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019442,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "SONATA",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE HAD A FAULTY RESTRAINT/HARNESS BELT THAT WENT UNDERNEATH BOTH FRONT SEATS. WHEN THE BELT LOOSENED IT CAUSED THE AIR BAG SENOR TO MALFUNCTION.            *JB",
+        "vin": "KMHWF35V6YA"
+    }
+]

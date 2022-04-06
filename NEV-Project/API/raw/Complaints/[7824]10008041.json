@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "02/24/2003",
+        "dateOfIncident": "02/22/2003",
+        "fire": false,
+        "manufacturer": "Mazda Motor Corp.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10008041,
+        "products": [
+            {
+                "manufacturer": "Mazda Motor Corp.",
+                "productMake": "MAZDA",
+                "productModel": "PROTEGE",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "DUNLOP TIRE CORPORATION",
+                "productMake": "DUNLOP",
+                "productModel": "SP SPORT",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "TIRE SIDEWALL BUBBLE/BLISTER UPON HITTING SHALLOW POTHOLE - THIS IS 3RD TIRE OCCURANCE, ALL WITH SAME SIDEWALL BLISTER DAMAGE, OF THE FOUR OE TIRES DELIVERED ON MY 2001 MAZDA PROTEGE ES. THE OE TIRES ARE DUNLOP SP SPORT 5000M P195/50R16 83 V. DOT IDENTIFICATION: DOT EULV 4MD0901. ALL TIRES HAVE BEEN INFLATED TO 30-35 PSI AT TIME OF IMPACT AND THE POTHOLE WAS SUFFICIENTLY MINOR AS TO CAUSE NO DAMAGE TO THE ALLOY RIM OR ANY OTHER SCRAPE OR DAMAGE TO THE TIRE. THE SIDEWALL BLISTER WOULD FORM WITHIN SEVERAL MILES DRIVING AFTER IMPACT. I'VE NOW HAD TO PURCHASE THREE DUNLOP  REPLACEMENT TIRES TO DATE.",
+        "vin": "JM1BJ226110"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "01/24/2003",
+        "dateOfIncident": "01/05/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003328,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER SPORT",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AIRBAG WARNING LIGHT KEPT COMING ON, INDICATING AIRBAGS WERE NOT FUNCTIONING PROPERLY.  AFTER EIGHT UNSUCCESFUL REPAIR ATTEMPTS, FORD REPLACED THE VEHICLE.",
+        "vin": ""
+    }
+]

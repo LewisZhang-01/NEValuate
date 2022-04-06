@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/09/2003",
+        "dateOfIncident": "06/06/2003",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021303,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "FRONTIER",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "P21565R15",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE RIGHT REAR TIRE ON MY 2000 NISSAN TRUCK THE TREAD CAME OFF BUT THE TIRE DID NOT GO FLAT BUT WHEN IT CAME OFF IT BENT UP THE BED ON  ONE SIDE. I WAS TRAVELING SOUTH BOUND ON I 17 MILE POST 217 THE TRUCK HAS 45000 MILE ON IT AD THE TIRES.  *JB",
+        "vin": "1N6DD26SXYC"
+    }
+]

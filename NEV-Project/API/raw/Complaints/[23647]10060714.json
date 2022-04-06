@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": true,
+        "dateComplaintFiled": "03/08/2004",
+        "dateOfIncident": "05/11/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 4,
+        "odiNumber": 10060714,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXCURSION",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "STEELTEX TIRE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "MY VEHICLE, A FORD EXCURSION, SUFFERED A TREAD SEPARATION.  AS A RESULT OF THE SEPARATION, THE VEHICLE BECAME INVOLVED IN A ROLLOVER.  DURING THE ROLLOVER, MY WIFE AND I AND OUR TWO PASSENGERS, MY SON AND HIS WIFE, RECEIVED SEVERE INJURIES.*AK",
+        "vin": "1FMSU41F2YE"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "05/29/2018",
+        "dateOfIncident": "05/28/2018",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11098514,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "RAM",
+                "productModel": "1500",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE TAILGATE FALLS/ SLAMS OPEN WHILE DRIVING DOWN THE ROAD AND WHILE PARKED. THIS HAPPENS MULTIPLE TIMES EVERY DAY.",
+        "vin": "1C6RR7LT7FS"
+    }
+]

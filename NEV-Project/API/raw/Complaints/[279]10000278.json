@@ -1,0 +1,32 @@
+[
+    {
+        "components": "STEERING,TIRES",
+        "crash": false,
+        "dateComplaintFiled": "12/19/2002",
+        "dateOfIncident": "12/19/2002",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000278,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "PATHFINDER",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Toyo Tire Holdings of Americas, Inc.",
+                "productMake": "TOYO",
+                "productModel": "TOYO",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE VEHICLE SHAKES AT HIGHWAY SPEEDS AND CAUSES EXTREME WEAR AND TEAR ON THE TIRES.  I HAVE HAD THIS NISSAN PATHFINDER (2001) FOR JUST OVER A YEAR AND NISSAN HAS BEEN UNABLE TO FIX THE PROBLEM.  THEY CLAIM IT WAS \"BUILT TO RIDE THIS WAY\".  THE RESULT IS PREMATURE BREAKING PROBLEMS.  THEY HAVE PUT NEW TIRES ON, TURNED THE ROTORS AND SPENT MANY HOURS BALANCING THE TIRES.  THIS PROBLEM HAS BEEN ONGOING SINCE DAY ONE.",
+        "vin": ""
+    }
+]

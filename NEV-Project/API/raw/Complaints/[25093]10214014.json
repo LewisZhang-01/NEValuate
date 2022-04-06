@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "01/07/2008",
+        "dateOfIncident": "01/04/2008",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10214014,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "TRAILBLAZER",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN DRIVING AT NIGHT ONLY, THE HEADLIGHTS AND DASHBOARD LIGHTS FLICKER AND DIM ALONG WITH THE VOLTAGE GAUGE DROPPING DOWN.  AFTER 10 OR SO SECONDS, THE VOLTAGE GAUGE RESETS TO 14 AND THE LIGHTS BRIGHTEN TO NORMAL.  THE FLICKERING OCCURS AT STEADY DRIVING SPEEDS AS WELL AS DURING SLOW-DOWN. *TR",
+        "vin": "1GNDS13S552"
+    }
+]

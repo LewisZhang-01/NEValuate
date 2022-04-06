@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "04/09/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015496,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "EXPLORER",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE PULLED VIOLENTLY TO THE RIGHT AND THE RIGHT WHEEL SPINDLE DROPPED OFF WHICH CAUSED LOSS OF CONTROL AND AN ACCIDENT.  *NLM",
+        "vin": "1FMDU73E22U"
+    }
+]

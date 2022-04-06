@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "12/30/2002",
+        "dateOfIncident": "12/12/2002",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001626,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "RAM 3500",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "GOODYEAR",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "CONSUMER STATES THAT WHILE DRIVING AT ANY SPEED AND NO WARNING THE FRONT TIRES HAVE SIDEWALL SEPARATION CAUSING A DISTRACTION TO THE CONSUMER. SIZE#24575R16 PLEASE PROVIDE THE DOT#. DEALER NOTIFIED. TS *DT",
+        "vin": "1FDSE34F01H"
+    }
+]

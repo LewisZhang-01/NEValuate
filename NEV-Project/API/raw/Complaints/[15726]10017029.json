@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "05/05/2003",
+        "dateOfIncident": "05/03/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017029,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "JIMMY",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "UNIROYAL TIRE CO.",
+                "productMake": "UNIROYAL",
+                "productModel": "LAREDO TIRE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "MY 2000 GMC JIMMY UNIROYAL LAREDO TIRE BLEW OUT WHILE TRAVELING AT 60 MPH, NO ONE WAS INJURED. BUT THE COMPANY REP AT DISCOUNT TIRE SAYS IT HAD TO BE LOW ON AIR.  I DO NOT AGREE I HAD CHECKED ALL MY TIRES JUST THE WEEK BEFORE AND THEY ALL HAD THE SAME PRESSURE OF 32 PSI, THE TIRE SPLIT HORIZONTALLY IN FOUR PLACES  IN THE FRONT AND 1 IN THE BACK. *JB",
+        "vin": "1GKCS13W7Y2"
+    }
+]

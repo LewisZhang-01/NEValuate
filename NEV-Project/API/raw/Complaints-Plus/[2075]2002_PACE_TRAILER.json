@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "08/19/2008",
+        "dateOfIncident": "07/18/2008",
+        "fire": false,
+        "manufacturer": "J&S CUSTOM TRAILERS",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10238900,
+        "products": [
+            {
+                "manufacturer": "J&S CUSTOM TRAILERS",
+                "productMake": "PACE",
+                "productModel": "TRAILER",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "GENERAL TIRE & RUBBER CO.",
+                "productMake": "GENERAL",
+                "productModel": "AMERI TECH ST",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 2002 PACE TRAILER.  THE VEHICLE HAS GENERAL (CONTINENTAL GENERAL) AMERI TECH ST TIRES.  THE CONTACT STATED THAT HIS TRAILER WAS PARKED AND HE DOES NOT MOVE IT TOO OFTEN.  HE NOTICED THAT THE BELT ON THE FRONT DRIVER SIDE TIRE CAME APART, WHICH CAUSED THE TIRE TO BLOW WIDE OPEN.   UPDATED 11/07/08. *LJ  UPDATED 11/07/08. *JB",
+        "vin": "40LUB16292P"
+    }
+]

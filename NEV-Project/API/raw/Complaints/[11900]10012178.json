@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "03/20/2003",
+        "dateOfIncident": "03/13/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10012178,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "ESCORT",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING 30 MPH THE CONSUMERS VEHICLE SLID ON ICE AND COLLIDED WITH ANOTHER CAR.  NEITHER THE FRONT DRIVER NOR PASSENGER AIR BAGS DEPLOYED.  *NLM",
+        "vin": ""
+    }
+]

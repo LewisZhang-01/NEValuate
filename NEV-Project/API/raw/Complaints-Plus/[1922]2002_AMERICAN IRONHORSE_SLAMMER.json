@@ -1,0 +1,90 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "03/09/2006",
+        "dateOfIncident": "03/09/2006",
+        "fire": false,
+        "manufacturer": "American IronHorse Motorcycle Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10152309,
+        "products": [
+            {
+                "manufacturer": "American IronHorse Motorcycle Company",
+                "productMake": "AMERICAN IRONHORSE",
+                "productModel": "SLAMMER",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DT*:  THE CONTACT STATED THE VEHICLE WAS SENT IN FOR A RECALL FOR THE FUEL TANK ASSEMBLY MOUNTING.  THE NHTSA CAMPAIGN # IS 03V338000.  THE FRONT AND REAR MOUNTING BRACKETS WERE REPLACED BY THE DEALERSHIP AFTER THE FUEL TANK LEAKED.  AFTER THE REPLACEMENTS THE LINING IN THE FUEL TANK FAILED.  WHEN THE VEHICLE WAS SENT BACK IN THE DEALER REPLACED THE LINING AND THE REAR BRACKET.  AFTER THE PARTS WERE REPLACED THE FUEL TANK WAS MOUNTED TO HIGH.  NO FURTHER REPAIRS WERE MADE.",
+        "vin": "1A9SZ022521"
+    },
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "04/05/2004",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "American IronHorse Motorcycle Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10065535,
+        "products": [
+            {
+                "manufacturer": "American IronHorse Motorcycle Company",
+                "productMake": "AMERICAN IRONHORSE",
+                "productModel": "SLAMMER",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE FRONT RAIL OF THE MOTORCYCLE IS GEOMETRICALLY UNSAFE. THE MOTORCYCLE DOES NOT HANDLE CORRECTLY AT LOW SPEEDS. OWNER CONTACTED THE DEALER WHO SAID \"THAT'S THE WAY IT IS MADE\". AND THEY WILL NOT DO ANYTHING ABOUT IT.  PROVIDE FURTHER DETAILS.   *NM",
+        "vin": "1A9SZ022621"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "12/18/2002",
+        "dateOfIncident": "09/02/2002",
+        "fire": false,
+        "manufacturer": "American IronHorse Motorcycle Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001114,
+        "products": [
+            {
+                "manufacturer": "American IronHorse Motorcycle Company",
+                "productMake": "AMERICAN IRONHORSE",
+                "productModel": "SLAMMER",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE FRONT BRAKE CALIPERS ARE LEAKING.  WHILE DRIVING, CONSUMER NOTICED THE BRAKES HAD FAILED.  CONSUMER HAS ALREADY HAD 5 CALIPERS AND THE MASTER CYLINDER REPLACED. TS *JG",
+        "vin": "1A9SZ022721"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "12/18/2002",
+        "dateOfIncident": "09/02/2002",
+        "fire": false,
+        "manufacturer": "American IronHorse Motorcycle Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001125,
+        "products": [
+            {
+                "manufacturer": "American IronHorse Motorcycle Company",
+                "productMake": "AMERICAN IRONHORSE",
+                "productModel": "SLAMMER",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATES THAT HORN, SPEEDOMETER, BRAKE LIGHTS, ODOMETER AND TURN SIGNALS INTERMITTENLY WILL NOT FUNCTION.  DEALER REPLACED ECU, BUT PROBLEM STILL EXISTS. TS",
+        "vin": "1A9SZ022721"
+    }
+]

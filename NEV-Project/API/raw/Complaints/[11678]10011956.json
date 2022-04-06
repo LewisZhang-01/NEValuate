@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "03/18/2003",
+        "dateOfIncident": "03/10/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10011956,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "CONTOUR",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE EXPERIENCED SYMPTOMS OF THE RECALL ON THE ELECTRICAL SYSTEM. DEALER WILL NOT REPAIR BECAUSE VIN# WAS NOT INCLUDED.   *NLM",
+        "vin": "PLEASE PROV"
+    }
+]

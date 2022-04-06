@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "01/07/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002190,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERCURY",
+                "productModel": "COUGAR",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE KNOB THAT ADJUSTS THE HEAT FOR HIGH OR LOW HAD STUCK ON LOW.  THE PROBLEM MAY BE AN ELECTRICAL PROBLEM.   TS  THE SUNROOF HAD BROKEN.   SCC",
+        "vin": "1VWFT61L7X5"
+    }
+]

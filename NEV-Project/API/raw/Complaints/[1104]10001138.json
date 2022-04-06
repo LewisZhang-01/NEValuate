@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "12/18/2002",
+        "dateOfIncident": "11/14/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10001138,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "CONTINENTAL",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVER SIDE AIRBAG DEPLOYED WHILE DRIVING AT 20 MPH STATES THE CONSUMER.  TOOK TO DEALER AND DEALER STATED A ROCK  IN THE ROAD MUST HAVE HIT A  SENSOR, CAUSING THE AIRBAG TO DEPLOY.  PLEASE PROVIDE ANY FURTHER INFORMATION. TS",
+        "vin": "1LNHM97V9YY"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "04/21/2003",
+        "dateOfIncident": "04/21/2003",
+        "fire": false,
+        "manufacturer": "LINHAI CO",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017284,
+        "products": [
+            {
+                "manufacturer": "LINHAI CO",
+                "productMake": "LINHAI",
+                "productModel": "POWERMAX 50",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING ONE OF THE TIRES WENT FLAT WHICH CAUSED THE CONSUMER TO LOSE CONTROL OF THE VEHICLE AND RESULTED IN A ROLLOVER. THE DEALER WAS NOT NOTIFIED.  *NLM",
+        "vin": "PROVIDE"
+    },
+    {
+        "components": "POWER TRAIN,ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "09/24/2000",
+        "dateOfIncident": "06/22/2000",
+        "fire": false,
+        "manufacturer": "LINHAI CO",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 871362,
+        "products": [
+            {
+                "manufacturer": "LINHAI CO",
+                "productMake": "LINHAI",
+                "productModel": "POWERMAX 50",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING  IT WOULD STALL WITHOUT WARNING.  CLUTCH WOULD SLIP WHEN GOING UP HILL OR DOWN HILL. WOULD SLOW DOWN FROM 35MPH TO 20MPH WITHOUT WARNING. WILL BE TAKING MOPED BACK TO DEALER TO HAVE MECHANIC CHECK IT.*AK",
+        "vin": "LL8MA1T2XYT"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "01/25/2003",
+        "dateOfIncident": "01/22/2003",
+        "fire": true,
+        "manufacturer": "Subaru of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003403,
+        "products": [
+            {
+                "manufacturer": "Subaru of America, Inc.",
+                "productMake": "SUBARU",
+                "productModel": "LEGACY",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SPONTANEOUS EXPLOSION AND FIRE DESTROYING 1994 SUBARU AND DAMAGING ANOTHER CAR AND ADJACENT HOME. FIRE INSPECTOR ASSESSED CAUSE AS RUPTURED POWER STEERING HOSE.",
+        "vin": "4S3BF6337R7"
+    }
+]

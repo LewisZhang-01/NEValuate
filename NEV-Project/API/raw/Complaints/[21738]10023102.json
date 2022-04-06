@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "06/15/2003",
+        "dateOfIncident": "03/09/2002",
+        "fire": false,
+        "manufacturer": "Mazda North American Operations",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10023102,
+        "products": [
+            {
+                "manufacturer": "Mazda North American Operations",
+                "productMake": "MAZDA",
+                "productModel": "RX7",
+                "productYear": "1987",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE WINDSHIELD WIPER SWITCH FAILS OVER TIME. SYMPTOMS START WITH INTERMEDIATE SETTINGS FAILING FOLLOWED BY THE CONSTANT 1 AND 2 SETTINGS FAILING. THE WIPER WILL ALSO NOT RETURN TO ITS ORIGINAL POSITION AFTER BEING TURNED OFF. THIS MIGHT BE DUE TO THE RELAY IN THE SWITCH FAILING.   *NLM",
+        "vin": "JM1FC3312H0"
+    }
+]

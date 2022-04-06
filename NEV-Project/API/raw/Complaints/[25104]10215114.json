@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "01/16/2008",
+        "dateOfIncident": "01/14/2008",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10215114,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FIVE HUNDRED",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 2005 FORD FIVE HUNDRED.  THE INSTRUMENT PANEL WOULD FLICKER ON AND OFF WHEN THE HEADLIGHTS WERE ACTIVATED.  A FEW DAYS LATER, THE INSTRUMENT PANEL FAILED COMPLETELY.  THE DEALER STATED THAT THE INSTRUMENT CLUSTER NEEDED TO BE REPAIRED.  THE CURRENT AND FAILURE MILEAGES WERE 48,000.",
+        "vin": "1FAFP23185G"
+    }
+]

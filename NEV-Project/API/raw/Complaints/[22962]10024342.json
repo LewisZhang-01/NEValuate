@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "07/28/2003",
+        "dateOfIncident": "06/15/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10024342,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO",
+                "productYear": "1999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Bridgestone Americas Tire Operations",
+                "productMake": "FIRESTONE",
+                "productModel": "WILDERNESS AT",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WILDERNESS AT MODEL # P265/75R16 LFT/REAR TIRE DISINTEGRATED ON THE SIDEWALL. MANUFACTURER WAS CONTACTED, AND STATED THAT IT WAS PROBABLY BECAUSE OF AIR PRESSURE.*AK WHILE DRIVING 75 MPH, THE TRUCK SUDDENLY DROPPED TO THE LEFT WITH INDICATIONS OF A BLOWOUT.*TS. THE CONSUMER DISCOVERED THE TREAD ON THE TIRE HAD SEPARATED.  *JB",
+        "vin": "1GCEK19T7XE"
+    }
+]

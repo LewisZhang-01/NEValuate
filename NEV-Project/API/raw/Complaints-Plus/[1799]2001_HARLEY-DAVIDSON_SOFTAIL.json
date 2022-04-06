@@ -1,0 +1,46 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "11/06/2004",
+        "dateOfIncident": "09/01/2004",
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10098381,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "SOFTAIL",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I FILED A COMPLAINT ON 9/14/2004, ODI 10091015.  THIS IS SUPPLEMENTAL TO THAT COMPLAINT.  ADDITIONAL RESEARCH TURNED UP INFORMATION ABOUT AN OIL DELIVERY PROBLEM INHERENT IN THE HARLEY-DAVIDSON TWIN CAM 88 AND TWIN CAM 88B ENGINES.  AN ARTICLE IN THE MARCH 2003 EDITION OF EASY RIDERS MAGAZINE OUTLINES HOW TO REPAIR A FACTORY-DEFECTIVE OIL PUMP RELIEF VALVE.  THE OIL PUMP RELIEF VALVE STICKS AND DEPRIVES CRITICAL ENGINE COMPONENTS OF LUBRICATION.  IF THE RELIEF VALVE STICKS LONG ENOUGH, THE ENGINE WILL DETONATE, CAUSING THE RIDER TO LOSE CONTROL OF THE MOTORCYCLE.  ACCORDING TO THE MAGAZINE ARTICLE, THIS PROBLEM HAS BEEN KNOWN ABOUT SINCE JUST AFTER THE INTRODUCTION OF THESE ENGINE MODELS, APPROXIMATELY IN 1999.  FORTUNATELY, THE ENGINE ON MY MOTORCYCLE FAILED AT LOW SPEED, AND I DID NOT CRASH.  HOWEVER, A HIGH-SPEED ENGINE FAILURE ON A MOTORCYCLE WOULD CERTAINLY BE DANGEROUS TO THE RIDER.   *JB",
+        "vin": "1HD1BWB101Y"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "09/14/2004",
+        "dateOfIncident": "09/01/2004",
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10091015,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "SOFTAIL",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WORN OUT ENGINE AT 3.5 YEARS OLD AND 43,000 MILES",
+        "vin": "1HD1BWB101Y"
+    }
+]

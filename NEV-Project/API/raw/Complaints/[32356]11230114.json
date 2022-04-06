@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "07/08/2019",
+        "dateOfIncident": "07/01/2019",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11230114,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "TRAVERSE",
+                "productYear": "2011",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TIMING CHAIN ISSUE CODE P0008  AVOIDED CRASH. LOCKED UP ENGINE  WEAK TIMING CHAINS ARE STRETCHING CAUSING THE ENGINE TO LOCK UP  MAJOR SAFETY HAZARD AT HIGHWAY SPEED.  MUCH MORE OF A SAFETY ISSUE THAN THE AIR BAG OR SEAT BELT RECALLS",
+        "vin": "GNKRGED2BJ1"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": true,
+        "dateComplaintFiled": "09/12/2003",
+        "dateOfIncident": "01/20/2003",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10015722,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "TIBURON",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "MICHELIN TIRE CORP.",
+                "productMake": "MICHELIN",
+                "productModel": "XGT4",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE VEHICLE EXPERIENCED A VIBRATION IN THE FRONT.  THE DEALER STATED THE STEEL BELTS WERE OFF.  *JB   THE CONSUMER'S PERSONAL MECHANIC STATED THE STEEL BOLTS WERE GONE INSIDE BOTH REAR TIRES.   *PH   *JB",
+        "vin": "KMHJG25F0YU"
+    }
+]

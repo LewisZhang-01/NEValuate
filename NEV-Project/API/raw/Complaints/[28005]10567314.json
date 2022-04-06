@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "03/04/2014",
+        "dateOfIncident": "02/27/2014",
+        "fire": true,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10567314,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "SCION",
+                "productModel": "TC",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SHORTLY AFTER PARKING THE VEHICLE, IT CAUGHT ON FIRE. THE FIRE CAPT. STATED IT WAS AN ELECTRICAL FIRE NEAR THE ALTERNATOR FRONT SIDE OF THE ENGINE CABIN.",
+        "vin": "JTKDE177860"
+    }
+]

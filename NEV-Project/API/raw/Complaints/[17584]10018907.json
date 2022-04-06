@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, OTHER",
+        "crash": false,
+        "dateComplaintFiled": "05/19/2003",
+        "dateOfIncident": "05/14/2002",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018907,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "GRAND CARAVAN",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE FUEL GAUGE WAVERS AFTER FILLING UP.  WHEN THERE IS LESS THAN HALF A TANK OF GAS IN CAR, THE GAUGE READS CORRECTLY.  BUT WHEN FULL, THE GAUGE GOES FROM EMPTY TO FULL CONSTANTLY AND THE BELL \"DINGS\" WHEN THE NEEDLE GETS TO EMPTY.  *JB",
+        "vin": "1B4GP44R8VB"
+    }
+]

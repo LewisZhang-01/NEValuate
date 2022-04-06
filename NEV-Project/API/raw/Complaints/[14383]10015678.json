@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "04/11/2003",
+        "dateOfIncident": "01/23/2002",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015678,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "ACCORD",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AFTER THE IGNITION SWITCH REPAIR (RECALL # 02V120000) WAS PERFORMED BY THE DEALERSHIP, THE DEFECT RECURRED.           **JB *TS",
+        "vin": "JHMCG6650XC"
+    }
+]

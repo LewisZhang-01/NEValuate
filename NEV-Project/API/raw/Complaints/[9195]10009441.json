@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "03/06/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10009441,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "OLDSMOBILE",
+                "productModel": "98",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE WAS INVOLVED IN A FRONT COLLISION, AND  AIR BAGS DID NOT DEPLOY, CONSUMER WAS INJURED.*JB",
+        "vin": "1G3CW52L0R4"
+    }
+]

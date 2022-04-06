@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "08/14/2012",
+        "dateOfIncident": "07/10/2012",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10470614,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "PASSAT",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ANTI-LOCK BRAKING SYSTEM (ABS) MODULE FAILURE WHICH CAUSES PERMANENT LOSS OF ANTI-LOCK BRAKING SYSTEM. *TR",
+        "vin": "WVWPD63B01P"
+    }
+]

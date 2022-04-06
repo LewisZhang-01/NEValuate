@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "06/03/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022159,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "SEBRING CONVERTIBLE",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "\"ELECTRONIC\" ODOMETER AND OTHER DASHBOARED COMPONENTS FAILED INTERMITTENTLY WHILE DRIVING.  DEALER DIAGNOSED THAT THE PRINTED CIRCUIT BOARD FAILED, AND ADVISED IT WAS A COMMON OCCURRENCE.*AK",
+        "vin": "3C3EL55HXVT"
+    }
+]

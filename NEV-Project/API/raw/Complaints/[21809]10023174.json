@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "06/16/2003",
+        "dateOfIncident": "02/07/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10023174,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "TRAILBLAZER",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "REAR SPOILER MOLDING (3RD BRAKE LIGHT) FLEW OF VEHICLE WHILE DRIVING DOWN STATE HIGHWAY AT APPROXIMATELY 55 MPH.  *NLM",
+        "vin": "1GNET16SX36"
+    }
+]

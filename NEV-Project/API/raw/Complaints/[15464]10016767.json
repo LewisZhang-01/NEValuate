@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "04/30/2003",
+        "dateOfIncident": "02/05/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10016767,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "1997 FORD EXPLORER EQUIPPED WITH AN ELECTRONIC AUTOMATIC TEMPERATURE  CONTROL SYSTEM. THE PLASTIC AIR BLEND DOOR IN THE HEATER PLENUM HAS BROKEN, PREVENTING THE SYSTEM FROM REGULATING THE TEMPERATURE.",
+        "vin": "1FMDU34E0VU"
+    }
+]

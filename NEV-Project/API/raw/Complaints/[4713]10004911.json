@@ -1,0 +1,32 @@
+[
+    {
+        "components": "EXTERIOR LIGHTING,VEHICLE SPEED CONTROL,TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/29/2003",
+        "dateOfIncident": "01/30/2003",
+        "fire": false,
+        "manufacturer": "Mitsubishi Motors North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004911,
+        "products": [
+            {
+                "manufacturer": "Mitsubishi Motors North America, Inc.",
+                "productMake": "MITSUBISHI",
+                "productModel": "MONTERO",
+                "productYear": "1998",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "YOKOHAMA RUBBER CO. LTD.",
+                "productMake": "YOKOHAMA",
+                "productModel": "ALL SEASON RADIAL",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "CRUISE WIL NOT DISENGAGE DUE TO STOP LAMP SWITCH FAILURE",
+        "vin": "JA4MR51R3WJ"
+    }
+]

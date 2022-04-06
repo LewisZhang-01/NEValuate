@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "06/18/2003",
+        "dateOfIncident": "06/10/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10024362,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "TERCEL",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER INVOLVED IN A HEAD-ON COLLISION TRAVELING APPROXIMATELY 30 MPH.  UPON IMPACT,  DRIVER'S AIR BAG DID NOT DEPLOY.*AK",
+        "vin": ""
+    }
+]

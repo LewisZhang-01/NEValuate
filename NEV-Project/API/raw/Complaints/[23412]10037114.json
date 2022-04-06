@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "09/03/2003",
+        "dateOfIncident": "08/28/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10037114,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TAURUS",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "INTERMITTENT AIR BAG WARNING LIGHT.  TOOK VEHICLE TO FORD DEALER THEY WERE ABLE TO TEST VIA NGS HOOKUP, WHICH SHOWED CODE U2017. REPLACED PART YF1Z-14B321-EA CONTR ASY-OCC., PER SPECIAL SERVICE MESSAGE #14579.  THOUGHT THIS MIGHT BE OF INTREST GIVEN THERE IS A INQUIRY INVOLVING THE 2001 TAURUS AIR BAG SYSTEM.  *AK",
+        "vin": "1FAHP56S11G"
+    }
+]

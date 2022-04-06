@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "01/08/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001901,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "SATURN",
+                "productModel": "SC1",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING WITH THE DEFROST/RECIRCULATION FEATURE ON, THE FROST FROM THE AIR CONDITIONER COOLING COILS COVER THE WINDSHIELD WITH VAPOR RESULTING IN POOR VISIBILITY.    *TT  *NLM",
+        "vin": "1G8ZH1277WZ"
+    }
+]

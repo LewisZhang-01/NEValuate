@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "01/07/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002291,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "BLAZER",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AIRBAG MODULE IS DEFECTIVE DUE TO A DIAGNOSTIC ENERGY RESERVE MODULE DROPPING BELOW NORMAL.  CONSUMER FEELS AIRBAG MAY NOT DEPLOY.THIS IS A SAFETY RELATED DEFECT. TS...*AK",
+        "vin": "1GNDT13W9T2"
+    }
+]

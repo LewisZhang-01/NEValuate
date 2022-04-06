@@ -1,0 +1,31 @@
+[
+    {
+        "components": "SEAT BELTS,CHILD SEAT",
+        "crash": false,
+        "dateComplaintFiled": "05/30/2003",
+        "dateOfIncident": "05/30/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021970,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "VENTURE",
+                "productYear": "2003",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "COSCO, INC.",
+                "productMake": "COSCO",
+                "productModel": "CHILD SAFETY SEAT",
+                "productYear": "9999",
+                "type": "Child Seat"
+            }
+        ],
+        "summary": "BUTTON  TO RELEASE LATCH ATTACHED TO THE CHEST  BROKE, AND WILL NOT STAY TOGETHER.  PLEASE FILL ADDITIONAL INFORMATION.  *AK",
+        "vin": "PLEASE FILL"
+    }
+]

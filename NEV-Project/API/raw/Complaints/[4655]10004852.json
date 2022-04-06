@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "01/28/2003",
+        "dateOfIncident": "01/09/2003",
+        "fire": false,
+        "manufacturer": "Mazda Motor Corp.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004852,
+        "products": [
+            {
+                "manufacturer": "Mazda Motor Corp.",
+                "productMake": "MAZDA",
+                "productModel": "626",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE WAS IN AN ACCIDENT AND THE DRIVER SIDE SEATBELT DIDN'T HOLD CONSUMER IN.  PLEASE FILL IN ADDITIONAL INFORMATION DEALER IS AWARE OF THE PROBLEM. TS",
+        "vin": "PLEASE FILL"
+    }
+]

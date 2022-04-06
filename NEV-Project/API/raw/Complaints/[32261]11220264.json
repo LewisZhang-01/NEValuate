@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "06/15/2019",
+        "dateOfIncident": "06/12/2019",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11220264,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SEQUOIA",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN BACKING UP OR SOMETIMES SLOWING DOWN MOVING FORWARD THE VCS LIGHTS ALL COME ON AND THE BRAKES AUTOMATICALLY ENGAGE (QUICKLY AND WITH A GRINDING SOUND) AND THE CAR MOVES TO THE RIGHT AND STOPS ABRUPTLY.",
+        "vin": "5TDBT48A05S"
+    }
+]

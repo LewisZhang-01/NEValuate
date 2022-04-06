@@ -1,0 +1,98 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "08/07/2007",
+        "dateOfIncident": "07/22/2007",
+        "fire": false,
+        "manufacturer": "FLEETWOOD ENTERPRISES, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10198711,
+        "products": [
+            {
+                "manufacturer": "FLEETWOOD ENTERPRISES, INC.",
+                "productMake": "PACE ARROW",
+                "productModel": "VISION",
+                "productYear": "1998",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Foreign Tire Sales, Inc.",
+                "productMake": "FTS",
+                "productModel": "TELLURIDE",
+                "productYear": "9999",
+                "size": "LT265/75R16",
+                "type": "Tire"
+            }
+        ],
+        "summary": "TL*THE CONTACTS CLIENT OWNS A 1998 PACE ARROW VISION.  THE CONTACT WAS THE INSURANCE AGENT OF THE VEHICLE OWNER.  HE STATED THAT THE FRONT DRIVER SIDE TIRE SEPARATED AND DAMAGED THE FRONT BUMPER, FENDER, AND UNDERCARRIAGE OF THE VEHICLE.  NHTSA RECALL NUMBER 07T003000 (TIRES:TREAD/BELT) WAS REFERENCED.  THE TIRES WERE FTS TELLURIDE, SIZE LT265/75R16 AND THE CLIENT HAS THEM AVAILABLE.  THE SPEED, ROAD CONDITIONS, ENGINE SIZE, NUMBER OF CYLINDERS, POWERTRAIN, PURCHASE DATE, AND DOT NUMBER WERE UNKNOWN.  THE CURRENT AND FAILURE MILEAGES WERE 80,235.  THE CONSUMER STATED ALSO HAS THE FRONT TIRE THAT DID NOT SEPARATE AND WOULD ALSO LIKE TO BE REIMBURSED FOR THAT AS WELL. UPDATED 02/01/08  *TR",
+        "vin": "1GBLP37J6V3"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "07/16/2007",
+        "dateOfIncident": "05/18/2007",
+        "fire": false,
+        "manufacturer": "FLEETWOOD ENTERPRISES, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10196483,
+        "products": [
+            {
+                "manufacturer": "FLEETWOOD ENTERPRISES, INC.",
+                "productMake": "PACE ARROW",
+                "productModel": "VISION",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 1998 PACE ARROW VISION.  THE CONTACT STATED THAT THE TRAILER LOST 12-BOLTS OF POWER DUE TO THE CIRCUIT BOARD.  THE BOARD WAS HELD TOGETHER BY DOUBLE-SIDED TAPE AND IS BECOMING LOOSE AND SHORTENING.  FLEETWOOD TRAILERS STATED THAT THEY WOULD CHECK ON THE SITUATION, BUT WEEKS HAVE SINCE PASSED.  THE VIN WAS CONFIRMED WITH THE CONTACT.  THE CURRENT MILEAGE IS 40,473 AND FAILURE MILEAGE WAS 35,000.  NO OTHER VEHICLE INFORMATION WAS AVAILABLE.",
+        "vin": "FIN777EW715"
+    },
+    {
+        "components": "PARKING BRAKE",
+        "crash": false,
+        "dateComplaintFiled": "08/20/2004",
+        "dateOfIncident": "07/14/2004",
+        "fire": false,
+        "manufacturer": "FLEETWOOD ENTERPRISES, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10082189,
+        "products": [
+            {
+                "manufacturer": "FLEETWOOD ENTERPRISES, INC.",
+                "productMake": "PACE ARROW",
+                "productModel": "VISION",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE CAMPER'S AUTO PARK SYSTEM ENGAGED BY ITSELF WHILE DRIVING AT 60 MPH. THE CONSUMER STARTED SMELLING SOMETHING ODD, THEN THE BRAKES ENGAGED AND LOCK-UP. THIS MADE IT VERY DIFFICULT TO ACCELERATE. THE CONSUMER HAD TO PULL INTO A CAMP GROUND. THIS IS A COMMON FAILURE WITH THE P30 FORD CHAISE.  *LA  *NM",
+        "vin": "1GBLP37J4W3"
+    },
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "01/14/2004",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "FLEETWOOD ENTERPRISES, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10054014,
+        "products": [
+            {
+                "manufacturer": "FLEETWOOD ENTERPRISES, INC.",
+                "productMake": "PACE ARROW",
+                "productModel": "VISION",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "REAR FRAME CAME LOOSE AND CRACKED.*MR  *JB",
+        "vin": "1GBLP37J5W3"
+    }
+]

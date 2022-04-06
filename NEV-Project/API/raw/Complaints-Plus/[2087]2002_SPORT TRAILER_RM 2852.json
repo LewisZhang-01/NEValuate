@@ -1,0 +1,31 @@
+[
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "05/05/2008",
+        "dateOfIncident": "04/05/2008",
+        "fire": false,
+        "manufacturer": "SPORT TRAILERS",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10226671,
+        "products": [
+            {
+                "manufacturer": "SPORT TRAILERS",
+                "productMake": "SPORT TRAILER",
+                "productModel": "RM 2852",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Dometic Corporation",
+                "productMake": "DOMETIC",
+                "productModel": "RM2852",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 2002 SPRINGDALE 283S WBHL-GL (NA).  THE VEHICLE HAS A DOMETIC REFRIGERATOR, MODEL RM2852.  THE CONTACT RECEIVED A RECALL NOTICE APPROXIMATELY SIX MONTHS AGO FOR THE EQUIPMENT.  HE NOTIFIED DOMETIC AND THE SERVICE CENTER AND THEY BOTH STATED THAT DOMETIC CHANGED THEIR POLICY AND WERE NO LONGER REPLACING THE COOLING UNIT.  THERE HAD BEEN NO FAILURE TO DATE.  THE RECALL NUMBER, SERIAL NUMBER, PART NUMBER, PURCHASE DATE, AND LOCATION IN THE VEHICLE WERE UNAVAILABLE.",
+        "vin": "4YDF2832223"
+    }
+]

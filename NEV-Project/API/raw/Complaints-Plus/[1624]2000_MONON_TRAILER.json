@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES,UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "07/26/2011",
+        "dateOfIncident": "06/28/2011",
+        "fire": false,
+        "manufacturer": "HPA MONON TRAILER, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10415927,
+        "products": [
+            {
+                "manufacturer": "HPA MONON TRAILER, INC.",
+                "productMake": "MONON",
+                "productModel": "TRAILER",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "2000 MONON TRAILER/2007 INTERNATIONAL 9400I. UNIT #1 AND #2 WERE TRAVELING EAST ON IR76 THE OHIO TURNPIKE AT MILEPOST 222.5. UNIT #1 TRAVELING IN THE RIGHT LANE HAD A TIRE BLOWOUT. UNIT #2 TRAVELING IN THE LEFT LANE WAS STRUCK BY TIRE DEBRIS. *LN  THERE WAS DAMAGE TO THE MONON TRAILER AND THE OTHER VEHICLE. (OHIO TRAFFIC CRASH REPORT # 10-0469-91)*JB  AS STARTED ABOVE, ONLY DAMAGE TO TRAILER WAS FLAT TIRE, OTHER VEHICLE HAD SMALL STRACH ON HEADLIGHT. UPDATED 10/06/2011 *LN",
+        "vin": "1NNVA5322YM"
+    }
+]

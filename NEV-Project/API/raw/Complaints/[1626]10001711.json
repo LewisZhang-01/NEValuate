@@ -1,0 +1,24 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "12/31/2002",
+        "dateOfIncident": "11/01/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001711,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "SATURN",
+                "productModel": "LS",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING AT 50 MPH, STEERING WHEEL STARTED TO VIBRATE THEN HAD A JERKING MOVEMENT DUE TO THE TIRES CUPPING AND WEARING. DEALER CONTACTED. PLEASE PROVIDE ADDITIONAL INFORMATION. TS",
+        "vin": "PLEASE FILL"
+    }
+]

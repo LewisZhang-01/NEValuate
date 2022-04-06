@@ -1,0 +1,24 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": true,
+        "dateComplaintFiled": "10/05/2002",
+        "dateOfIncident": "05/18/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10007460,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TAURUS",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "1993 FORD TAURUS.   *PH   *NLM    **DIMSII IVOQ ENTRY POSTED AFTER 12/12/02 CUT OVER TO ARTEMIS**768132",
+        "vin": "1FACP52U7PG"
+    }
+]

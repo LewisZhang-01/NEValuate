@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "03/16/2003",
+        "dateOfIncident": "03/13/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010562,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "ASTRO",
+                "productYear": "1997",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "P21575R15",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE LEFT REAR FIRESTONE TIRE I PURCHASED AT MONTGOMERY WARDS LOST THE TREAD WHILE DRIVING AND CAUSED ME TO SWERVE ACROSS THE ROAD A NUMBER OF TIMES BEFORE GETTING THE VAN UNDER CONTROL.   *NLM",
+        "vin": ""
+    }
+]

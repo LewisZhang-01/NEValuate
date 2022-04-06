@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "03/04/2003",
+        "dateOfIncident": "05/15/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009786,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "1500",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "A FAULTY BOLT CAUSED THE DRIVER'S SEAT TO BREAK.  WHEN THE BOLT BROKE IT WAS HARD TO SEE OUT OF THE WINDSHIELD  *NLM",
+        "vin": "FULLFILL"
+    }
+]

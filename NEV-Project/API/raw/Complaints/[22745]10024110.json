@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "10/01/2003",
+        "dateOfIncident": "03/10/2003",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10024110,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "325I",
+                "productYear": "2003",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Bridgestone Americas Tire Operations",
+                "productMake": "BRIDGESTONE",
+                "productModel": "TURANZA ER 30",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "LEFT/REAR AND RIGHT FRONT TIRES HAD DEVELOPED A LARGE \"BUBBLE\" IN THE SIDEWALL.  THE TIRES HAD LESS THAN 2000 MILES AT TIME OF FAILURE. BRIDGESTONE TURANZA, ER30 225/45ZR17, DOT NO. K9701ER3OU2,  ORIGINAL TIRES.  *AK   *JB",
+        "vin": ""
+    }
+]

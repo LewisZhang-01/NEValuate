@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "02/05/2003",
+        "dateOfIncident": "01/15/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005357,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "WINDSTAR",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "PURCHASED NEW TRANSMISSION FOR VEHICLE AT 38500 MILES DUE TO TORQUE CONVERTER FAILURE THAT DAMAGED TRANSMISSION BEYOND REPAIR.  NEW FORD FACTORY TRANSMISSION INSTALLED IN DECEMBER REQUIRED REBUILD IIN JANUARY OF 2003 AFTER ONLY 1500 MILES.",
+        "vin": "2FMDA5242YB"
+    }
+]

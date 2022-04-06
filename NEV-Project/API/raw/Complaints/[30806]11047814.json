@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES",
+        "crash": true,
+        "dateComplaintFiled": "11/21/2017",
+        "dateOfIncident": "08/01/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11047814,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FUSION",
+                "productYear": "2008",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FORD BRAKES:  WHENEVER YOU HIT A BUMP IN THE ROAD, THE BRAKES CATCH AIR AND THEY DO NOT WORK!",
+        "vin": "3FAHP07108R"
+    }
+]

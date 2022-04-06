@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "01/13/2003",
+        "dateOfIncident": "01/11/2003",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003642,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "AUDI",
+                "productModel": "A4",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATED THE IGNITION COIL CONSTANTLY FAILED WHILE DRIVING, WHICH RESULTED IN NO ACCELERATION BEYOND 2ND GEAR.  PROBLEM HAS OCCURRED 3 TIMES WITHIN LAST 3 MONTHS.",
+        "vin": "WAULC68E22A"
+    }
+]

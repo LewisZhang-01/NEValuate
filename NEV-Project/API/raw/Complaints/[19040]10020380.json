@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "05/21/2003",
+        "dateOfIncident": "01/01/1901",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10020380,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "VENTURE",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NAR 05/21/2003   *MR  2003 CHEVROLET VENTURE  AUTOMATIC DOORS ARE FAULTY, THE CONSUMER HANDS AND ARM WAS CAUGHT WHICH CAUSED BROKEN BONES, BRUISING AND SWELLING .    *CB   PE04064.PCO",
+        "vin": "9999"
+    }
+]

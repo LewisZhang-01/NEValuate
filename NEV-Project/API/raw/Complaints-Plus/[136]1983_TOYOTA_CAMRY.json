@@ -1,0 +1,134 @@
+[
+    {
+        "components": "CHILD SEAT",
+        "crash": false,
+        "dateComplaintFiled": "04/15/2003",
+        "dateOfIncident": "04/15/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015947,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "CAMRY",
+                "productYear": "1983",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE PLACING THE CHILD INSIDE OF THE CAR SEAT THE RED BUTTON COLLAPSED.  AS A RESULT THE CHILD WAS NOT RESTRAINED SECURELY IN THE SEAT.  *NLM",
+        "vin": "PLEASE FILL"
+    },
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "03/23/2000",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 999999,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "CAMRY",
+                "productYear": "1983",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SDT4WEQTW",
+        "vin": ""
+    },
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": true,
+        "dateComplaintFiled": "11/20/1995",
+        "dateOfIncident": "10/30/1995",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 975189,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "CAMRY",
+                "productYear": "1983",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CAR REAR ENDED IN ACCIDENT. GAS TANK WAS RUPTURED. DRIVER FOUND OUT THAT THE FUEL TANK WAS VERY RUSTY. PLEASE DESCRIBE DETAILS.  TT",
+        "vin": "JT2SV16H2D0"
+    },
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "06/22/1995",
+        "dateOfIncident": "01/15/1995",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 967476,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "CAMRY",
+                "productYear": "1983",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "LEFT DRIVER'S SEAT BELT BUCKLE PLASTIC RELEASE BUTTON DETERIORATED/BROKE, CAUSING THE SEAT BELT TO FAIL.   *AK",
+        "vin": "JT2SV16E1D0"
+    },
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "06/13/1995",
+        "dateOfIncident": "06/06/1994",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 966788,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "CAMRY",
+                "productYear": "1983",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE CAR HAS TAKATA SEATBELTS AND THE FRONT PASSENGER AND DRIVERS BROKE. PLEASE EXPLAIN.  TT",
+        "vin": "JT2SV16E5D0"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "05/15/1995",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 965294,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "CAMRY",
+                "productYear": "1983",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER RECIEVE RECALL ON ELECTRICAL SYSTEM REGULATOR HAD IT FIX 1987 IS NOW HAVING THE SAME PROBLEM WITH CAR.  TT",
+        "vin": "JT2SV16E8D0"
+    }
+]

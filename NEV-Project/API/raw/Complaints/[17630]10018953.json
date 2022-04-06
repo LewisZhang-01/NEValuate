@@ -1,0 +1,24 @@
+[
+    {
+        "components": "PARKING BRAKE",
+        "crash": false,
+        "dateComplaintFiled": "05/19/2003",
+        "dateOfIncident": "05/19/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018953,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "PICKUP",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FLAW IN DESIGN OF \"E\" BRAKE MECHANISM CAUSES THE EMERGENCY BRAKE TO REMAIN ENGAGED DURING REGULAR OPERATION.  THIS RESULTS IN EXCESSIVE WEAR ON THE INTERIOR DRUM LINERS LOCATED INSIDE THE REAR ROTORS. AS A RESULT ONLY 25% OF THE \"E BRAKES\" BRAKING SURFACE CONTACTS THE DRUM SURFACE, THEREFORE, THE DRUMS AND PADS WEAR EXCESSIVELY AND WITHOUT WARNING.  AS A RESULT, \"E BRAKE\" REQUIRES FREQUENT ADJUSTMENTS AND \"METAL TO METAL\" CONTACT AND EXCESSIVE REPAIR COST ARE INEVITABLE. *JB",
+        "vin": "2GCEC19TX11"
+    }
+]

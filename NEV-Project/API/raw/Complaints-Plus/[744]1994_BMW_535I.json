@@ -1,0 +1,46 @@
+[
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": true,
+        "dateComplaintFiled": "03/29/2005",
+        "dateOfIncident": "03/29/2005",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10117073,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "535I",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE BACKING OUT OF THE PARKING LOT VEHICLE SUDDENLY ACCELERATED. DRIVER APPLIED THE BRAKES AND THE PEDAL WENT TO THE FLOOR. DRIVER WAS UNABLE TO MAINTAIN CONTROL OF THE VEHICLE , AND IT CRASHED INTO A PARKED VEHICLE. NO INJURIES  REPORTED.  VEHICLE WAS TOWED AND TOTALED  BY THE INSURANCE COMPANY.  *AK",
+        "vin": "WBAHE2328RG"
+    },
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "09/01/1999",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 846345,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "535I",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVER'S SIDE SEAT BELT DOES NOT BUCKLE PROPERLY.  THE MANUFACTURER HAS BEEN NOTIFIED.   SEAT BELT WILL BE REPAIRED AT THE OWNER'S EXPENSE. *AK",
+        "vin": "WBAHE2311RG"
+    }
+]

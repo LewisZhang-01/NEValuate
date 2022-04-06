@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "04/23/2003",
+        "dateOfIncident": "04/22/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017412,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "BLAZER",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLES WINDSHIELD WIPER EXPERIENCED THE SAME DEFECT AS STATED IN RECALL  98 V 150 000.  THE CONSUMERS VEHICLE WAS NOT INCLUDED IN THE RECALL DUE TO VIN.  *NLM",
+        "vin": "1GNDT13W9SK"
+    }
+]

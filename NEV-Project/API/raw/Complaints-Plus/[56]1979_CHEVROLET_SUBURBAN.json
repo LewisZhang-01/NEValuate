@@ -1,0 +1,24 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "11/20/1997",
+        "dateOfIncident": "10/30/1997",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 525268,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1979",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE'S REAR TIRE FELL OFF CAUSING TRAILER TO FLIP UPSIDE DOWN, AND COLLIDE WITH WALL. (OHIO STATE POLICE REPORT)",
+        "vin": ""
+    }
+]

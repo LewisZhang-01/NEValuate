@@ -1,0 +1,46 @@
+[
+    {
+        "components": "SERVICE BRAKES, AIR",
+        "crash": false,
+        "dateComplaintFiled": "07/07/2006",
+        "dateOfIncident": "07/07/2006",
+        "fire": false,
+        "manufacturer": "THOMAS BUILT BUSES, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10161795,
+        "products": [
+            {
+                "manufacturer": "THOMAS BUILT BUSES, INC.",
+                "productMake": "THOMAS",
+                "productModel": "SCHOOL BUS",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DT*:  THE CONTACT STATED WHILE INSPECTING THE VEHICLE IT WAS DETERMINED THE LEFT FRONT AIR BRAKE CHAMBER MOUNT  CAM ASSEMBLY FRACTURED.  THIS OCCURRED ON TWO OCCASIONS.  THE DEALER WAS CONTACTED AND BOTH FRONT AIR BRAKE CHAMBER MOUNTS WERE REPLACED.  THE MANUFACTURER OF THE AIR BRAKE CHAMBER IS EATON - ROCKWELL CORPORATION AND THIS WAS ORIGINAL MANUFACTURER EQUIPMENT.",
+        "vin": "1T7HT4B2X21"
+    },
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "06/04/2002",
+        "dateOfIncident": "05/22/2002",
+        "fire": false,
+        "manufacturer": "THOMAS BUILT BUSES, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 3,
+        "odiNumber": 762635,
+        "products": [
+            {
+                "manufacturer": "THOMAS BUILT BUSES, INC.",
+                "productMake": "THOMAS",
+                "productModel": "SCHOOL BUS",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHERE HEATER HOSES PASS OVER REAR WHEEL WELL 3 STUDENTS RECEIVED BURNS WHEN THEY TOUCHED COVERING. *AK",
+        "vin": "4UZAAWAK72C"
+    }
+]

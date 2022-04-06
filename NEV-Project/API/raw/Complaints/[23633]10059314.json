@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "02/19/2004",
+        "dateOfIncident": "02/14/2004",
+        "fire": false,
+        "manufacturer": "Mazda Motor Corp.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10059314,
+        "products": [
+            {
+                "manufacturer": "Mazda Motor Corp.",
+                "productMake": "MAZDA",
+                "productModel": "626",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE'S TRANSMISSION OVERHEATED.  THE CAUSE OF THIS PROBLEM HAS NOT BEEN DETERMINED.   *NM",
+        "vin": "PLEASE FILL"
+    }
+]

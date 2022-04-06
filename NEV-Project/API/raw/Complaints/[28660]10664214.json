@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "12/15/2014",
+        "dateOfIncident": "06/28/2007",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10664214,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "DAKOTA",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVER SEAT RECLINE WHEN DRIVING.  *TR",
+        "vin": "1D7HL38K14S"
+    }
+]

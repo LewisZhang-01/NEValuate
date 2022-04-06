@@ -1,0 +1,68 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "01/22/2004",
+        "dateOfIncident": "01/22/2004",
+        "fire": false,
+        "manufacturer": "Volvo Car USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10055706,
+        "products": [
+            {
+                "manufacturer": "Volvo Car USA, LLC",
+                "productMake": "VOLVO",
+                "productModel": "780",
+                "productYear": "1991",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATED THAT VEHICLE  WAS LEAKING GAS FOR ONE YEAR. CONSUMER TOOK  VEHICLE TO REPAIR SHOP 3 TIMES, AND THE MECHANIC WAS UNABLE TO  RESOLVE THE PROBLEM.  GAS ODOR WAS STRONG.*AK",
+        "vin": ""
+    },
+    {
+        "components": "WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "05/30/2002",
+        "dateOfIncident": "05/26/2002",
+        "fire": false,
+        "manufacturer": "Volvo Car USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 8010714,
+        "products": [
+            {
+                "manufacturer": "Volvo Car USA, LLC",
+                "productMake": "VOLVO",
+                "productModel": "780",
+                "productYear": "1991",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATES WHILE SWERVING THE LEFT FRONT WHEEL CAME OFF THE VEHICLE. THE DEALER AND THE MANUFACTURER WERE NOT NOTIFIED. FEEL FREE TO PROVIDE ANY FURTHER INFORMATION.*JB",
+        "vin": "PLEASE FILL"
+    },
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "04/21/1998",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Volvo Car USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 534432,
+        "products": [
+            {
+                "manufacturer": "Volvo Car USA, LLC",
+                "productMake": "VOLVO",
+                "productModel": "780",
+                "productYear": "1991",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FRONT POWER SEAT FAILED DUE TO FAULTY WIRING",
+        "vin": "YV1HA0724MD"
+    }
+]

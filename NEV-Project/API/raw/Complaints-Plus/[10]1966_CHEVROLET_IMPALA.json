@@ -1,0 +1,75 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "12/18/2009",
+        "dateOfIncident": "12/17/2009",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10296359,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "IMPALA",
+                "productYear": "1966",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Brake Parts Inc.",
+                "productMake": "AC DELCO",
+                "productModel": "45A0871",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "TL*  THE CONTACT OWNS A 1966 CHEVROLET IMPALA . HE PURCHASED AN EVERSTART MODEL # 24MS-6 BATTERY . SEVERAL DAYS LATER AFTER TURNING ON THE VEHICLE,  HE HEARD A SIZZLING SOUND.  HE  PULLED OVER AND THEN OPENED THE HOOD, AND THE BATTERY EXPLODED IN HIS FACE. THERE WERE NO MAJOR INJURIES. THE STORE THAT SOLD HIM THE BATTERY WAS WALMART. A REPRESENTATIVE  STATED THAT THEY NEEDED TO BRING THE BATTERY TO THE STORE.  THE FAILURE AND CURRENT MILEAGES WERE 85000. THE VEHICLE IDENTIFICATION NUMBER WAS UNAVAILABLE.",
+        "vin": ""
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "08/27/2004",
+        "dateOfIncident": "08/25/2004",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10088692,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "IMPALA",
+                "productYear": "1966",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "MFGR DOES NOT RECOGNIZE RECALL NUMBER 71V235000  CALLED CHEV, THEY ESTABLISHED A REF# 1-250262940 ON MY BEHALF ON AUG 25.  THEY CALLED BACK AND SAID VEHICLE MIGHT NOT BE INVOLVED AND TO CALL HELM INC. CALLED HELM, THEY SAID, CHEV IS SUPPOSED TO HAVE INFO. RUNAROUND.   PROVIDED CHEV, KIM THOMAS, CAMPAIGN # 5110000, VIN# 164676D119657  YOUR RECALL# 71V235000.  ALL I GOT WAS THEY DO NOT HAVE INFO THAT OLD SO ARE UNSURE.  PROVIDED THEM DESCRIPTION OF PART INVOLVE ENGINE LIFT STOP CABLE UNIT. PN# 325875  NOTHING DONE.  MOTOR MOUNTS FAILED, ENGINE JUMPED, BUT I STOPPED BEFORE RUNAWAY.  NO PARTS AVAILABLE.  *AK",
+        "vin": ""
+    },
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "07/30/1996",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 506842,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "IMPALA",
+                "productYear": "1966",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ROUTE OF POWER STEERING HOSE CAUSED IT TO BE CUT BY TIE ROD. *DH",
+        "vin": "1G1BL52P7TR"
+    }
+]

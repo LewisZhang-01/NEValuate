@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "08/05/2016",
+        "dateOfIncident": "07/11/2016",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10893614,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERCURY",
+                "productModel": "GRAND MARQUIS",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AIR BAG LIGHT COMES ON AND BLINKS A FEW TIMES AND THEN STAYS ON WHEN STARTING CAR. LIGHT STAYS ON ALL THE TIME.",
+        "vin": "2MEFM74W65X"
+    }
+]

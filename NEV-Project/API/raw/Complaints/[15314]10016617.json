@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "04/28/2003",
+        "dateOfIncident": "04/26/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10016617,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "VENTURE",
+                "productYear": "1997",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "B.F. GOODRICH TIRE CO.",
+                "productMake": "B.F.GOODRICH",
+                "productModel": "RADIAL T/A",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "VEHICLE:1997 CHEVROLET VENTURE  2 FRONT TIRES: B.F. GOODRICH 21570R15 DOT # BEM3NX711801 EXPERIENCED TREAD SEPARATION BLOWOUTS WITHIN 30 MILES OF EACH OTHER AFTER DRIVING APPROXIMATELY 600 MILES, FROM FL. TO VA, IN 12 HOURS. TIRES WERE PURCHASED FROM BJ'S WHOLESALE IN OCT 2001. AND HAD APPROXIMATELY 20,000 MILES ON THEM. NO UNUSUAL ROAD CONDITIONS WERE ENCOUNTERED PRIOR TO TREAD SEPARATION. REAR TIRES WERE NOT PURCHASED AT THE SAME TIME AND WERE UNAFFECTED.  WILL RETURN TIRES TO BJ'S FOR REPLACEMENT UNLESS INSTRUCTED OTHERWISE.   *NLM",
+        "vin": ""
+    }
+]

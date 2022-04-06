@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "06/24/2008",
+        "dateOfIncident": "06/15/2008",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10232214,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "ENVOY",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 2002 GMC ENVOY.  HE STATED THAT THE PASSENGER SIDE SEAT BELTS WOULD NOT RETRACT.  THE DEALER STATED THAT A DEFECTIVE RETRACTOR COULD HAVE CAUSED THE FAILURE HOWEVER; THEY DID NOT INSPECT THE VEHICLE.  THERE IS A RECALL FOR THE SEAT BELTS (NHTSA CAMPAIGN ID #04V201000) HOWEVER; THE DEALER STATED THAT HIS VIN WAS NOT INCLUDED.  AS OF JUNE 24, 2008, THE DEALER HAD NOT REPAIRED THE VEHICLE.  THE FAILURE AND CURRENT MILEAGES WERE 80,000.",
+        "vin": "1GKDT13S522"
+    }
+]

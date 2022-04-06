@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "11/02/2007",
+        "dateOfIncident": "07/30/2007",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10207714,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "MATRIX",
+                "productYear": "2006",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Continental Tire the Americas, LLC",
+                "productMake": "CONTINENTAL TIRE NORTH AM",
+                "productModel": "CONTIPROCONTACT",
+                "productYear": "9999",
+                "size": "P215/60R16",
+                "type": "Tire"
+            }
+        ],
+        "summary": "2006 TOYOTA MATRIX WITH ALLOY WHEELS AND CONTINENTAL TIRES :  AT 5,000 MI ROTATION THE STEERING WHEEL WOULD MOVE BACK AND FORTH A BIT, SHIMMY. AT 10,000 MI ROTATION SHIMMY WAS WORSE AND NOISE WAS NOTICED. AT 14,000 MI DEALER SERVICE SAID THAT NOISE WAS DUE TO SEVERE CUPPING AND ALL TIRES NEEDED REPLACED BUT THAT CONTINENTAL HAD NO WARRANTY (EVEN THOUGH CAR CAME WITH A CONTINENTAL WARRANTY PAPER). REPLACED TIRES WITH YOKOHAMA AT DEALER. *TR",
+        "vin": "2T1KR32E56C"
+    }
+]

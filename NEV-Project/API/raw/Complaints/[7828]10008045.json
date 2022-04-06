@@ -1,0 +1,31 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "02/24/2003",
+        "dateOfIncident": "12/11/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10008045,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "WINDSTAR",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENGINE LIGHT CONTINUED TO COME ON.  AFTER DIAGNOSTIC WAS COMPLETE, IT WAS DETERMINED TO REPLACE THE EGR VALVE & SENSOR.  VAN HAS NOT BEEN ABLE TO PASS INSPECTION IN NC DUE TO \"NOT READY\" REJECTION SINCE THE ABOVE MENTIONED REPAIRS WERE MADE.  THE MINIVAN HAS BEEN AT THE FORD MOTOR DEALERSHIP FOR APPROXIMATELY 3 WEEKS, AND THEY HAVE BEEN UNABLE TO FIND THE CAUSE OF THE PROBLEM.  AN ENGINEER FROM THE FORD DETROIT OFFICE WAS SENT TO RALEIGH, NC TO INVESTIGATE THE PROBLEM, AND CAUSE STILL UNDERTERMINED.  SENSORS HAVE BEEN REPLACED AS WELL AS MAIN COMPUTER CHIP.  WIRES LEADING TO SENSORS HAVE BEEN CHECKED.  DEALERSHIP IS AT A LOSS, AND CAUSE OF PROBLEM STILL UNKNOWN.  MEANWHILE, WE HAVE A VEHICLE UNABLE TO PASS NC INSPECITON.",
+        "vin": ""
+    }
+]

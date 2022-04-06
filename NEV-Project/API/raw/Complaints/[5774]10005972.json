@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": true,
+        "dateComplaintFiled": "02/03/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005972,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "GRAND PRIX",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "RACK AND PINION  STEERING FAILED, VEHICLE LOST CONTROL, RESULTING IN A COLLISION. *AK",
+        "vin": ""
+    }
+]

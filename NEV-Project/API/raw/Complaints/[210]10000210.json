@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "12/18/2002",
+        "dateOfIncident": "12/05/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000210,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXCURSION",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "STEELTEX RADIAL TIRE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "US MARSHALLS LEASE A 2001 FORD EXCURSION FROM GSA FLEET MANAGEMENT.  THEY WERE TRAVELING DOWN A HIGHWAY WHEN THEY HEARD A LOUND THUMPING NOISE.  AFTER STOPPING THE VEHICLE, THEY EXITED THE VEHICLE TO FIND OUT THAT ONE OF THE REAR TIRES TREAD CAME OFF THE CASING.  THE TIRE HAD NOT GONE FLAT.  WHEN THE TREAD SEPERATED FROM THE CASING IT HAD DONE SOME BODY DAMAGE TO THE WHEEL WELL AREA.",
+        "vin": "1FMNU41S31E"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "03/11/2003",
+        "dateOfIncident": "02/01/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010314,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "ASTRO",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONTROL SWITCH FOR POWER MIRRORS GETS HOT TO THE TOUCH IF LEFT IN NEUTRAL POSITION BUT CONTROL WORKS FINE, ALSO DRIVERS SIDE POWER WINDOW STOPS WORKING SOMETIMES , AND THE FUSE FOR BRAKE LIGHTS BLEW FIRST WEEK. *JB",
+        "vin": "1GNDM19W9WB"
+    }
+]

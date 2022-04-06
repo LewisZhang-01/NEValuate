@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "05/27/2003",
+        "dateOfIncident": "02/05/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020553,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "THUNDERBIRD",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUEL FILTER LEAKS GAS DUE TO CORROSION FROM ROAD SALTS.  FILTER LASTS ONLY 1-2 YEARS.           *TT",
+        "vin": "1FALP62WXVH"
+    }
+]

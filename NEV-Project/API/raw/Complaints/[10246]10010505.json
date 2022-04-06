@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "03/15/2003",
+        "dateOfIncident": "12/14/2001",
+        "fire": false,
+        "manufacturer": "Kia Motors America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010505,
+        "products": [
+            {
+                "manufacturer": "Kia Motors America",
+                "productMake": "KIA",
+                "productModel": "SPORTAGE",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WINDSHIELD WIPERS NOT WORKING, ARM BROKE OFF WIPER MOTOR DURING HEAVY RAIN.   *NLM",
+        "vin": "KNDJA7238Y5"
+    }
+]

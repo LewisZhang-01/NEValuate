@@ -1,0 +1,46 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "04/30/2007",
+        "dateOfIncident": "02/16/2007",
+        "fire": true,
+        "manufacturer": "Great Dane Trailers",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10190060,
+        "products": [
+            {
+                "manufacturer": "Great Dane Trailers",
+                "productMake": "GREAT DANE",
+                "productModel": "TRAILER",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2006 VOLVO. WHILE DRIVING ON THE HIGHWAY HE NOTICED SMOKE COMING FROM THE TRAILER CONSUMER PULLED OVER AND THE TRAILER BECAME ENGULFED. *MC  THE FIRE DEPARTMENT WAS WHAT CAUSED THE FIRE. OHIO TRAFFIC CRASH REPORT. *TR",
+        "vin": "1GRAA9620R3"
+    },
+    {
+        "components": "SERVICE BRAKES, AIR,PARKING BRAKE",
+        "crash": true,
+        "dateComplaintFiled": "01/28/2000",
+        "dateOfIncident": "12/17/1999",
+        "fire": false,
+        "manufacturer": "Great Dane Trailers",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 550602,
+        "products": [
+            {
+                "manufacturer": "Great Dane Trailers",
+                "productMake": "GREAT DANE",
+                "productModel": "TRAILER",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKES LOCKED UP CAUSING TRAILER TO SWING AROUND AND KNOCK LIGHT POLE DOWN (OHIO TRAFFIC CRASH REPORT). *MJS",
+        "vin": "1GRAAOG20RB"
+    }
+]

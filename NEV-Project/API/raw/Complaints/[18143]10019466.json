@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "05/14/2003",
+        "dateOfIncident": "04/13/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019466,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "1998",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "MICHELIN TIRE CORP.",
+                "productMake": "MICHELIN",
+                "productModel": "MICHELIN",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "ONE TIRE BECAME FLAT WHILE AWAITING FOR TWO OTHER TIRES TO BE REPLACED AND ALIGNED.  MR    WHILE DRIVING 70 MPH THE TREAD ON THE PASSENGER SIDE TIRE SEPARATED FROM THE OUTSIDE EDGE OF THE TIRE AND CAUSED IT TO BLOWOUT.  ANOTHER TIRE ON THE FRONT EXPERIENCED A BLOWOUT ON AT THE SIDEWALL AND ONE WENT FLAT WHILE WAITING FOR REPLACEMENTS WHICH WERE ON BACKORDER.    (MICHELIN CROSS TERRAIN).    *SCC  *NLM",
+        "vin": "1FT2X17W3WK"
+    }
+]

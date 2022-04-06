@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "04/18/2003",
+        "dateOfIncident": "04/09/2003",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10016149,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "AUDI",
+                "productModel": "TT",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "UNCOMMANDED DEPLOYMENT OF PASSENGER SIDE AIRBAG.  *NLM",
+        "vin": "TRUWT28N611"
+    }
+]

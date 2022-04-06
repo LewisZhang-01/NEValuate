@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS,VEHICLE SPEED CONTROL,UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "02/01/2003",
+        "dateOfIncident": "01/01/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005092,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "ESCORT",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVER SIDE SEAT BELT, CRUISE CONTROL, AND PAINT ON HOOD.     TS",
+        "vin": ""
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "08/27/2004",
+        "dateOfIncident": "08/27/2004",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10089960,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "REGAL",
+                "productYear": "1979",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "FR480",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHILE DRIVING CONSUMER HEARD A LOUD KNOCKING NOISE COMING FROM THE REAR.  CONSUMER PULLED OVER, AND NOTICED THAT THE TREAD SEPARATED FROM THE SIDEWALL ON  PASSENGER'S  SIDE TIRE. THIS CAUSED DAMAGES TO THE UNDER CARRIAGE/FENDER; AND DOOR.  CONSUMER CALLED ROAD SIDE ASSISTANCE AND VEHICLE WAS TOWED TO THE DEALER.  FIRESTONE FR480, P215/70R14 #DOT W2HY1MD519. *AK",
+        "vin": ""
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "07/06/2004",
+        "dateOfIncident": "05/17/2004",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10073751,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "REGAL",
+                "productYear": "1979",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "FR480",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHILE DRIVING 50 MPH A LOUD KNOCKING  NOISE WAS HEARD FROM THE REAR.  CONSUMER PULLED OVER, AND NOTICED THAT THE RIGHT PASSENGER SIDE TIRE TREAD SEPARATED FROM THE WHEEL. CONSUMER  CALLED ROAD SIDE ASSISTANT TO CHANGE THE TIRE.  FIRESTONE FR480, SIZE P215/70R14, DOT W2HY1MD519.  *AK    THE TIRE BLOWOUT CAUSED DAMAGE TO THE VEHICLE'S RIGHT FRONT FENDER AND DOOR.  *NM",
+        "vin": ""
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "08/01/2003",
+        "dateOfIncident": "07/03/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10031941,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "REGAL",
+                "productYear": "1979",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "FR480",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHIHLE DRIVNG THE TREAD OF THE PASSENGER SIDE FRONT TIRE SEPARATED FROMTHE TIRE.  THE TIRE DENTED THE RIGHT FENDER AND RIGHT FRONT DOOR.  *MR   *CB  *NLM",
+        "vin": ""
+    }
+]

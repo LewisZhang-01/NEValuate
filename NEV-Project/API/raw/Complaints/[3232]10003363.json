@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/24/2003",
+        "dateOfIncident": "10/04/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003363,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXCURSION",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Bridgestone Americas Tire Operations",
+                "productMake": "STEELTEX A/T",
+                "productModel": "LT265/75R16",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "3 OF 4 TIRES BAD ON 2000 EXCURSION WITHIN 5 MONTHS OF EACH OTHER FROM JUNE 6THTHROUGH OCTOBER 4TH. FIRST TIRE DEVELOPED SIDEWALL TREAD BUBBLE ON LEFT REAR TIRE, TRAVELING ON HIGHWAY AT 65 MPH, SECOND TIRE DEVELOPED SIDEWALL TREAD BULBBLE ON LEFT FRONT TIRE WHILE TRAVELING 65 MPH. THIRD TIRE BLEW OUT WHILE TRAVELING 60 MPH ON HIGHWAY WHILE PULLING TRAILER, DAMAGING RIGHT REAR QUARTER PANEL",
+        "vin": "1FMNU40S7YE"
+    }
+]

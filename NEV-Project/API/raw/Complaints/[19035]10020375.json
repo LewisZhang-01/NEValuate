@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "05/21/2003",
+        "dateOfIncident": "01/01/1901",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020375,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "LUMINA",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NAR 05/21/2003  *MR   TRANSMISSION STALLED ON 1992 CHEVROLET LUMINA.  *CB",
+        "vin": "9999"
+    }
+]

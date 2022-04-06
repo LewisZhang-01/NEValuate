@@ -1,0 +1,24 @@
+[
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "01/07/2003",
+        "dateOfIncident": "01/07/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002280,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "EAGLE",
+                "productModel": "PREMIER",
+                "productYear": "1990",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NHTSA##6970-94-V-006-000 JAN/4/96 HEATER WATER DEFROST: THE END CAP CONNECTING THE HEATER  EXCHANGER CORE TO THE ENGINE COOLING SYSTEM COULD RUPTURE AND ALLOW HOT COOLANT TO ESCAPE INTO PASSENGER COMPARTMENT. CONSUMER SATES HAS THE SAME PROBLEM. DEALER HAS BEEN NOTIFIED. PLEASE PROVIDE FURTHER INFORMATION. TS",
+        "vin": "2E3CB56U8LH"
+    }
+]

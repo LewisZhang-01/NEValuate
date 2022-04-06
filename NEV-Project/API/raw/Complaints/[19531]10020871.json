@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "06/02/2003",
+        "dateOfIncident": "12/27/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10020871,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "IMPALA",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2001 CHEV IMPALA POL;ICE INT.  9C1 OFFICER SWERVED AT INTERSECTION TO AVOID VEHICLE. STRUCK UTILITY POLE FRONT BUMPER TO THE RIGHT OF CENTER. OVER $3000 DAMAGE. AIR BAG DID NOT DEPLOY. 20-30MPH   *AK",
+        "vin": "2G1WF55K219"
+    }
+]

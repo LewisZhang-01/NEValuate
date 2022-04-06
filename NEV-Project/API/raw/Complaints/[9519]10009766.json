@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "03/14/2003",
+        "dateOfIncident": "12/01/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009766,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "VENTURE",
+                "productYear": "9999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WITHIN 3 MONTHS, 3 FRONT WHEEL BEARINGS FAILED WHILE TRAVELING UP TO 70 MPH.   *TT   *JB",
+        "vin": "1GNDV13E72D"
+    }
+]

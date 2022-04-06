@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/26/2003",
+        "dateOfIncident": "05/27/2003",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021669,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "FRONTIER",
+                "productYear": "1999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "WILDERNESS",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE TIRE HAD BUBBLES AND THE BELT WAS SEPARATING FROM THE TIRE. (FIRESTONE WILDERNESS SIZE P21565R15 DOT#W2VSNNAS17).   *NLM.  *AK  WHILE DRIVING, THE TIRE EXPERIENCED A BLOW OUT, WHICH MADE THE VEHICLE DIFFICULT TO CONTROL.  PH   *JB",
+        "vin": "1N6DD26SXWC"
+    }
+]

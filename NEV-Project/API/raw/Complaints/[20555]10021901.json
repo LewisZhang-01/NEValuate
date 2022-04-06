@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/26/2003",
+        "dateOfIncident": "05/27/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021901,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "1994",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Cooper Tire & Rubber Co.",
+                "productMake": "COOPER",
+                "productModel": "COOPER",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHILE DRIVING AND WITHOUT WARNING, THE REAR DRIVER SIDE TIRE  SHREDDED. DEALER NOTIFIED SIZE#23575R15 PLEASE PROVIDE THE DOT NUMBER. CRAVEN TIRES SAID THERE WAS A SLOW LEAK CAUSED BY A CUT IN THE TREAD. COOPER TIRES HAD TO BE REPLACED WITH NEW TIRES BY FIRESTONE. *AK    *CB  *JB",
+        "vin": "1FM0U34X2RU"
+    }
+]

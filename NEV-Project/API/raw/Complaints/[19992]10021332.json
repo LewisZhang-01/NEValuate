@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,EXTERIOR LIGHTING",
+        "crash": false,
+        "dateComplaintFiled": "06/10/2003",
+        "dateOfIncident": "06/09/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021332,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPEDITION",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN STEERING WHEEL IS TILTED TO LOWEST POSITION TURN SIGNALS FAIL TO OPERATE.  *AK",
+        "vin": "1FMPU18L6WL"
+    }
+]

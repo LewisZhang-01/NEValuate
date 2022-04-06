@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "04/05/2003",
+        "dateOfIncident": "04/04/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10014014,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "TOWN AND COUNTRY",
+                "productYear": "1991",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "SUPREME",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "TREAD SEPARATION ON FIRESTONE TIRE.  REPLACEMENT TIRES BOUGHT IN 1999, LOW MILEAGE VEHICLE 18000 MILES ON TIRES - TREAD IS EXCELLENT.  SECOND FAILURE - PREVIOUS IN 2002.  SUPREME SI P205 70R15 DOT HYMO 552 019. BAR CODE 08492.  *JB",
+        "vin": ""
+    }
+]

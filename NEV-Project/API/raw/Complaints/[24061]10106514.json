@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "01/17/2005",
+        "dateOfIncident": "01/14/2005",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10106514,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "IMPALA",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "LEAK OF COOLANT, LOW COOLANT LIGHT.  *JB",
+        "vin": "2G1WF52E4Y9"
+    }
+]

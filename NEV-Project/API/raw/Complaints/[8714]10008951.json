@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "02/20/2003",
+        "dateOfIncident": "02/06/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10008951,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "INTREPID",
+                "productYear": "9999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN CONSUMER ATTEMPTED TO SHIFT THE GEAR, IT BECAME STUCK.*JB GEAR SHIFT BROKE, KET WAS STUCK IN THE IGNITION. *TS",
+        "vin": "2B3HD46R2XH"
+    }
+]

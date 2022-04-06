@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "03/04/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10008887,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TAILGATE WAS IN DOWN POSITION WHEN BOTH TAILGATE STRAPS BROKE.    *AK  *NLM",
+        "vin": "1GCHK24U01E"
+    }
+]

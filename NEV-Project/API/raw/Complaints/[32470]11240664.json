@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "07/30/2019",
+        "dateOfIncident": "07/22/2019",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11240664,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "JOURNEY",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TRANSMISSION RECALL",
+        "vin": "3C4PDDEG9GT"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION,SERVICE BRAKES, HYDRAULIC,TIRES,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "04/04/2003",
+        "dateOfIncident": "03/13/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015271,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NAR 04/07/2003   MR.  WHILE DRIVING, THE REAR TIRE  DISCONNECTED FROM THE VEHICLE DUE TO A FAILED WHEEL BEARING..  THE AIR CONDITION REPEATEDLY LEAKED WATER IN THE VEHICLE. THE BRAKES WERE WORN WHICH REQUIRED NEW ROTORS.  *JB",
+        "vin": "1FAFP3638YW"
+    }
+]

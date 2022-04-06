@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "05/09/1995",
+        "dateOfIncident": "05/05/1995",
+        "fire": false,
+        "manufacturer": "John Deere",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 965048,
+        "products": [
+            {
+                "manufacturer": "John Deere",
+                "productMake": "JOHN DEERE",
+                "productModel": "JOHN DEERE",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN TRACTOR IS MOVING THE FUEL WILL LEAK OUT THE FILLER NECK.  TT",
+        "vin": ""
+    }
+]

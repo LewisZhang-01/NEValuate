@@ -1,0 +1,90 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "06/25/2004",
+        "dateOfIncident": "07/05/2000",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10079968,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "QUEST",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE FRONT LAP BELT ON  PASSENGER'S SIDE WILL NOT RETRACT FROM THE RETRACTOR.  THIS SITUATION  LEAVES THE FRONT PASSENGER WITHOUT ANY RESTRAINT WHILE DRIVING OR IN A VEHICLE CRASH. DEALER WAS NOTIFIED, AND INFORMED THE CONSUMER THAT THE VEHICLE WAS TOO OLD TO LOCATE A RECALL. *AK",
+        "vin": "4N2DN11W5PD"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "10/01/1999",
+        "dateOfIncident": "06/05/1998",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 849697,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "QUEST",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE ABS BRAKE LIGHT CAME ON AFTER PRESSING BRAKES LIGHTLY. WOULD NEED MORE PRESSURE FOR BRAKE PEDAL TO STOP VEHICLE. TAKING VEHICLE TO BE CHECKED BY MECHANIC. *AK",
+        "vin": "FILL IN"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "10/20/1997",
+        "dateOfIncident": "10/01/1997",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 605491,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "QUEST",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DISTRIBUTOR BEARING FAILED.",
+        "vin": "4N2DN11W9PD"
+    },
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "10/20/1997",
+        "dateOfIncident": "11/01/1992",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 605491,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "QUEST",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SUN ROOF GASKET FAILED.",
+        "vin": "4N2DN11W9PD"
+    }
+]

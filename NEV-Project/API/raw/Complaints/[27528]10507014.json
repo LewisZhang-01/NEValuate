@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "04/03/2013",
+        "dateOfIncident": "04/01/2013",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10507014,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "CROWN VICTORIA",
+                "productYear": "2007",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN MAKING TURNS STEERING WHEEL WOULD MAKE CLICKING SOUNDS.  HAD MECHANIC CHECK AND HE FOUND THAT THE INNER SHAFT OF THE STEERING COLUMN HAD SLIPPED DOWN.  *TR  UPDATED 04/24/13 *BF",
+        "vin": "2FAFP73V67X"
+    }
+]

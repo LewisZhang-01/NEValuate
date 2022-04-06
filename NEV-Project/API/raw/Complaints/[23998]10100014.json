@@ -1,0 +1,31 @@
+[
+    {
+        "components": "EXTERIOR LIGHTING,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "11/16/2004",
+        "dateOfIncident": "11/16/2004",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10100014,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "MUSTANG CONVERTIBLE",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "DETERIORATION OF MATERIALS OF HEADLIGHT LENSES. DETERIORATION CAUSED BY THE HEAT PRODUCED BY THE LIGHT ITSELF. DIMS THE HEADLIGHTS AND REDUCES VISIBILITY THEREBY CAUSING UNSAFE AND ILLEGAL DRIVING CONDITIONS.L *AK",
+        "vin": "1FAFP44451F"
+    }
+]

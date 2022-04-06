@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "01/28/2003",
+        "dateOfIncident": "11/04/2002",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003543,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "AUDI",
+                "productModel": "A8",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AIRBAG WARNING LIGHT INDICATES AIRBAG FAILURE. AUDI DEALER CANNOT RECTIFY.",
+        "vin": "WAUBG74D0WN"
+    }
+]

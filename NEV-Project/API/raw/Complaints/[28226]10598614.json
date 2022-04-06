@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,ENGINE AND ENGINE COOLING,VEHICLE SPEED CONTROL,SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "06/16/2014",
+        "dateOfIncident": "04/16/2007",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10598614,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "MONTE CARLO",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING MY 2001 MONTE CARLO SS AT 65 MILES PER HOUR ON THE INTERSTATE THE CAR WOULD SHUT OFF ON ITS OWN LEAVING NO POWER STEERING, BRAKES, OR POWER TO ANYTHING. THE CAR DID THIS SEVERAL TIMES. I CONTACTED GM DIRECTLY WHEN THIS STARTED HAPPENING. BASICALLY I WAS TOLD TOO BAD AND THEY COULDN'T HELP ME.    JUNE 5, 2014   SUMMARY HISTORY DISPLAY         STORE 01 SERVC01     TOTAL R/O'S    1         TOTAL SERV. DAYS 3       MAKE CV  CHEVROLET           LN# RO.NO.   RO. DATE.. MILES.  ADV/TECH J# T OPERATION CODE. DESCRIPTION  600760   04/20/2007  98020 A    7368                   31973  1 C 32CTZ001        CHECK ENGINE LIG 4757                                       JUNE 5, 2014   R/O CLOSE OUT                   STORE 01 SERVC01     DESC.     CV MONTE CARLO BLCK  01                             | 4. LABOR                            211.40           0.00           0.00     |  | 5. PARTS                              6.96           0.00           0.00     |  | | 8. MISC                              14.95           0.00           0.00     |  | 9. TAX                               13.11           0.00           0.00     |  |10. EST $ [  ] TOTALS  C     246.42   W       0.00   I       0.00     |                              |  | COMPLAINT   CUSTOMER STATES THE CHECK ENGINE IS ON                           |  |             DIES WHILE DRIVING ANDM DOESN'T SHIFT WELL                        |  | CAUSE       PERFORMED DIAG SYS CHECK AND FOUND DTC P0128 ENGINE COOLANT      |  |             TEMP INCORRECT. AND P1811 SHIFT ADAPT.                           |  | CORRECTION  NEEDS NEW THERMOSTAT FOR P0128                                   |  |             NEEDS VALVE BODY AND PRESSURE CONTROL SOLENOID FOR P1811         |    *TR",
+        "vin": "2G1WX15K419"
+    }
+]

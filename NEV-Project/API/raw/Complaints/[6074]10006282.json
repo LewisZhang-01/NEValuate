@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "02/04/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10006282,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "JETTA",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE WOULD LOSS POWER DUE TO A COIL PACK FAILURE. DEALER AND MANUFACTURE HAS BEEN CONTACTED. PLEASE PROVIDE FURTHER INFORMATION.   PH",
+        "vin": "3VWVH69M32M"
+    }
+]

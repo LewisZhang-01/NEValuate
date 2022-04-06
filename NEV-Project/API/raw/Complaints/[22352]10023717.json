@@ -1,0 +1,24 @@
+[
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "06/24/2003",
+        "dateOfIncident": "06/23/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10023717,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "CONTOUR",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AC DOES NOT BLOW COLD.  THIRD TIME FOR THIS REPAIR.  CAR HAS ONLY 35,000 MILES.  *JB",
+        "vin": "1FAFP66L0XK"
+    }
+]

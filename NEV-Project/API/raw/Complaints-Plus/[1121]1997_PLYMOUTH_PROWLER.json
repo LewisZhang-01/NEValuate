@@ -1,0 +1,46 @@
+[
+    {
+        "components": "LATCHES/LOCKS/LINKAGES",
+        "crash": false,
+        "dateComplaintFiled": "04/18/2000",
+        "dateOfIncident": "05/02/1999",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 860486,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "PLYMOUTH",
+                "productModel": "PROWLER",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN DRIVING AND UPON HITTING A BUMP IN THE ROAD/SURFACE OR DRIVING ON ROUGH ROAD SURFACE,  HOOD LATCH WILL BECOME UNLATCHED, CAUSING THE HOOD TO FLY UP DUE TO THE SWITCH WHICH BECAME ACTIVATED. CONSUMER HAS CONTACTED THE DEALER., SAID THAT THERE WAS NOTHING WRONG WITH THE SWITCH.  *AK *ML",
+        "vin": "1P3EW65F1VV"
+    },
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "02/09/2000",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 856635,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "PLYMOUTH",
+                "productModel": "PROWLER",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "RECALL # 98V184000 CHRYSLER/FUEL INJECTION  LEAKAGE;  DEALER DOES NOT HAVE PARTS TO CORRECT RECALL. PARTS ARE ON BACK ORDER. OWNER HAS CONTACTED DEALER TWICE AND CHRYSLER CUSTOMER SERVICE DEPARTMENT ONCE.  *AK",
+        "vin": "1P3EW65F6VV"
+    }
+]

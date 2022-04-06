@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN,VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "07/20/2011",
+        "dateOfIncident": "07/19/2011",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10413714,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FIVE HUNDRED",
+                "productYear": "2007",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE LUNGES FORWARD ON ITS OWN POWER.  THE GAS PEDAL IS NOT PRESSED AND IT IS NOT OBSTRUCTED BY ANY FOREIGN OR MANUFACTURED OBJECT.  THIS HAS RESULTED IN MANY NEAR CRASHES. *KB",
+        "vin": ""
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "05/26/2003",
+        "dateOfIncident": "05/26/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020542,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "BLAZER",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVERS SIDE SEAT RECLINER HANDLE (METAL SHAFT)  BROKE METAL APPEARS TO BE WEAK, SEAT WAS STUCK IN LOWERED POSITION.   *NLM",
+        "vin": "1GNDT13W6XK"
+    }
+]

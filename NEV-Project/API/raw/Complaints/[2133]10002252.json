@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "01/07/2003",
+        "dateOfIncident": "09/27/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002252,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATES WHILE DRIVING AT 60 MPH THE VEHICLE WAS IN A HEAD ON ACCIDENT WITH ANOTHER VEHICLE. CONSUMER STATES THE DRIVER SIDE AIR BAG DID NOT DEPLOY NOR THE PASSENGER SIDE AIRBAG. DEALER NOTIFIED. TS  *DT",
+        "vin": "1FTRX18L81N"
+    }
+]

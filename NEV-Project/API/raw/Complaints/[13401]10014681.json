@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "03/28/2003",
+        "dateOfIncident": "01/28/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10014681,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE CONSUMER REAR-ENDED ANOTHER VEHICLE TRAVELING 12 MPH.  THE COLLISION WAS VERY MINOR.  HOWEVER THE DRIVER AND PASSENGER AIR BAGS DEPLOYED WHICH CAUSED OVER $4000 IN DAMAGE TO THE VEHICLE.   *JB",
+        "vin": "1FAFP3438YW"
+    }
+]

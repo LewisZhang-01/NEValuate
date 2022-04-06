@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN,VEHICLE SPEED CONTROL,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "06/13/2013",
+        "dateOfIncident": "06/05/2013",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10519614,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FUSION",
+                "productYear": "2011",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVING ON HIGHWAY, LEFT LANE AT 72 MPH, CAR MADE A CLUNKING NOISE AND SHUDDERED, INSTANTLY LOST ABILITY TO ACCELERATE ENGINE, TACH DROPPED TO 720 RPM, TRANSMISSION ACTED AS IF IT WAS IN NEUTRAL. PULLED OFF HIGHWAY TO SHOULDER. ENGINE CONTINUED TO RUN, BUT NO RESPONSE FROM ACCELERATOR.  *TR",
+        "vin": "3FAHP0JG3BR"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "10/20/2020",
+        "dateOfIncident": "10/17/2020",
+        "fire": false,
+        "manufacturer": "Ducati North America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11365430,
+        "products": [
+            {
+                "manufacturer": "Ducati North America",
+                "productMake": "DUCATI",
+                "productModel": "DIAVEL",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "KICKSTAND SENSOR FELL OFF OF BIKE CAUSING THE BIKE TO STALL WHILE DRIVING.  DUCATI STATES THEY HAD A RECALL FOR THIS FOR MY YEAR BIKE, ALTHOUGH MY VIN DOES NOT MATCH THE RECALL DB.  THIS IS A SAFETY ISSUE.",
+        "vin": "ZDM13BKW1GB"
+    },
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "05/14/2020",
+        "dateOfIncident": "05/14/2020",
+        "fire": false,
+        "manufacturer": "Ducati North America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11324537,
+        "products": [
+            {
+                "manufacturer": "Ducati North America",
+                "productMake": "DUCATI",
+                "productModel": "DIAVEL",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "REAR BRAKES COMPLETELY FADE AND ARE USELESS OVER A PERIOD OF MONTHS.  BLEEDING THE BRAKE LINE WORKS FOR A SHORT PERIOD BUT IS TIMELY AND COSTLY.  THE CURRENT SET UP ALLOWS EXCESSIVE HEAT FROM THE EXHAUST AND POSSIBLY CATALYTIC CONVERTER TO BOIL BRAKE FLUID. THIS IS A KNOWN ISSUE THAT MAY REQUIRE INTERVENTION.  *TR",
+        "vin": "ZDM13BKW5GB"
+    },
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "05/01/2020",
+        "dateOfIncident": "04/29/2020",
+        "fire": false,
+        "manufacturer": "Ducati North America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11322977,
+        "products": [
+            {
+                "manufacturer": "Ducati North America",
+                "productMake": "DUCATI",
+                "productModel": "DIAVEL",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THERE IS A CHRONIC PROBLEM WITH THE REAR BRAKE BECOMING UNUSABLE. THE BRAKE LINE PASSES MUCH TOO CLOSE TO THE CATALYTIC CONVERTER, WHICH VAPORIZES THE BRAKE FLUID AND CREATES A GAS POCKET IN THE LINE. THIS RENDERS THE BRAKES UNUSABLE. DRAINING THE LINE REQUIRES REMOVING THE REAR WHEEL (A HUGE JOB ON A DUCATI) AND CALIPER. THE PROBLEM RETURNS ALMOST IMMEDIATELY. THEY HAVE SERVICED IT SEVERAL TIMES, BUT EACH TIME IT IMMEDIATELY FAILS AGAIN. IT IS VERY UNSAFE.",
+        "vin": "ZDM13BKW1GB"
+    }
+]

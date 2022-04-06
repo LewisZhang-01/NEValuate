@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "12/30/2002",
+        "dateOfIncident": "12/14/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001648,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CORVETTE",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATES THAT WHILE DRIVING AT 5MPH ON FLAT SURFACE AND WITHOUT WARNING THE STEERING WHEEL LOCKED UP CAUSING A DISTRACTION TO THE CONSUMER. DEALER NOTIFIED. TS  REF. IN EA02-031 *CJS",
+        "vin": "1G1YY22G4V5"
+    }
+]

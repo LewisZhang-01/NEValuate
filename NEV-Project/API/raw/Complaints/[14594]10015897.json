@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "04/15/2003",
+        "dateOfIncident": "04/11/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015897,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CADILLAC",
+                "productModel": "DEVILLE",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE FUEL PUMP WAS INOPERATIVE.  THE DEALER WAS NOTIFIED.  **NLM  FUEL PUMP FAILED CAUSED BY METAL SHAVINGS FOUND IN PLASTIC FUEL TANK.   FUEL PUMP AND TANK WERE REPLACED.        *TT",
+        "vin": "1G6KD52Y5TU"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "03/31/2003",
+        "dateOfIncident": "03/30/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10013711,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "JIMMY",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2000 GMC JIMMY -  SEAT BACK RECLINER HANDLE FAILED UNDER NORMAL USE.   *NLM",
+        "vin": ""
+    }
+]

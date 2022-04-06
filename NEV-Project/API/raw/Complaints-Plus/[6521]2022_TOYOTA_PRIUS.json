@@ -1,0 +1,120 @@
+[
+    {
+        "components": "AIR BAGS,UNKNOWN OR OTHER",
+        "crash": true,
+        "dateComplaintFiled": "03/27/2022",
+        "dateOfIncident": "02/17/2022",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 11458517,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "PRIUS",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Airbags never deployed front or side.  Vehicle equipped and activated SOS system did not work.  vehicle was a total loss and I nearly died in the process",
+        "vin": "jtdl9mfu1n3"
+    },
+    {
+        "components": "VISIBILITY/WIPER",
+        "crash": false,
+        "dateComplaintFiled": "12/18/2021",
+        "dateOfIncident": "12/17/2021",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11444233,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "PRIUS",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Driving 60mph on highway and driver's side window spontaneously shattered and covered the driver, drive seat and floor, leaving only about 10 square inches that fell secondarily. There was no projectile that penetrated into the car at all, and no glass was projected over to passenger side as would be indicated if there had been a projectile.",
+        "vin": "JTDL9MFU5N3"
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "11/19/2021",
+        "dateOfIncident": "11/19/2021",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11441077,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "PRIUS",
+                "productYear": "2022",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "DUNLOP",
+                "productModel": "ENASAVE 01 AS",
+                "productYear": "9999",
+                "size": "195/65R15",
+                "type": "Tire"
+            }
+        ],
+        "summary": "The rear passenger Dunlop Enasave 01 AS 195/65R15 tire on my 2022 AWD model Prius blew while I was driving 50 MPH down a residential highway. I ran over nothing, and the tire tread was completely separated from the rest of the tire and rim.",
+        "vin": "JTDL9MFU3N3"
+    },
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "11/01/2021",
+        "dateOfIncident": "09/24/2021",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11438940,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "PRIUS",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Carfax notified us that our vehicle was part of a recall on 9/24/21.  Toyota never contacted us. I contacted Toyota Corporate the week of Oct. 18th and they contacted the dealer (Hudson Toyota in Jersey City) and the dealer said they had a fix.  I brought it in and the service department said there was a mistake and the fix wasn't available.  When I contacted them again the week of Oct. 25th they said they had a fix and made me a service appointment on Nov. 9th.  However when I went on NHTSA website it says that consumers will only be notified on Nov. 20th and when I called Toyota corporate they could not tell me when the fix would be available.  I have not been driving my car and I have been shocked that no one at Toyota seems to be able to tell me anything.",
+        "vin": "JTDL9MFU8N3"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING,HYBRID PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "10/14/2021",
+        "dateOfIncident": "10/14/2021",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11436778,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "PRIUS",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact owns a 2022 Toyota Prius. The contact became aware of NHTSA Campaign Number: 21V734000 (Hybrid Propulsion System, Engine and Engine Cooling) however, the dealer informed the contact that the part for the recall repair was not yet available. The contact stated that the manufacturer had exceeded a reasonable amount of time for the recall repair. The manufacturer was notified of the issue and confirmed that the part for the recall repair was not yet available. The contact had not experienced a failure. VIN tool confirms parts not available.",
+        "vin": "JTDKAMFU1N3"
+    }
+]

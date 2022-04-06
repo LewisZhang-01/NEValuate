@@ -1,0 +1,31 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "03/29/2003",
+        "dateOfIncident": "05/14/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10013630,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "MONTE CARLO",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Brake Parts Inc.",
+                "productMake": "BRAKE PARTS",
+                "productModel": "DISC BRAKE ROTOR",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "MONTE CARLO SS 2002. CAR UNDER 12000 MILES NEEDED NEW BRAKE PADS, AND ROTORS RESURFACED.  PREVIOUSLY HAD MALIBU 2000 THAT WAS BOUGHT BACK BY DEALER AFTER 2 YEARS OF ROTOR AND BRAKE PROBLEMS THAT CAUSED 2 CRASHES.   WHEN IS SOMEBODY GOING TO LOOK AT THE DESIGN OF EQUIPMENT IN THESE VEHICLES TO SEE THERE IS A DEFECT.  DEALERSHIP EVEN ADMITTED TO FLAW.  *NLM",
+        "vin": ""
+    }
+]

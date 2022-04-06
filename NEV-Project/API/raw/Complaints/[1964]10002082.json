@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION,SERVICE BRAKES, HYDRAULIC,VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "01/06/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002082,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "BLAZER",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WIPER STOPPED WORKING INTERMEDIATELY. REPLACED UPPER AND LOWER BALL JOINTS, IDLER ARM, CAP, ROTOR AND COIL WIRE.   PH",
+        "vin": "1GNDT13W8VK"
+    }
+]

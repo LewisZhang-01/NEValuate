@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": true,
+        "dateComplaintFiled": "05/14/2003",
+        "dateOfIncident": "04/04/2003",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019824,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "CIVIC",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING, THE VEHICLE SUDDENLY VEERED TO THE RIGHT, WHICH CAUSED THE CONSUMER TO LOSE CONTROL  OF THE VEHICLE AND HIT A GUARD RAIL.    *JB",
+        "vin": "2HGES16502H"
+    }
+]

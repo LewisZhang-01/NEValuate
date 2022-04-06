@@ -1,0 +1,112 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "08/25/2004",
+        "dateOfIncident": "08/25/2004",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10089741,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "325I",
+                "productYear": "1987",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "RECALL 93V015000,  SYSTEM COMPONENT RESULTS IN SIGNIFICANT INCREASE IN  COOLANT TEMPERATURE, WHICH  RESULTS IN INCREASED SYSTEM PRESSURE.  DEALERSHIP INDICATED TO THE CONSUMER TO  CALL NHTSA. *AK",
+        "vin": "WBAAE6406H1"
+    },
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "01/21/2004",
+        "dateOfIncident": "01/21/2004",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10054592,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "325I",
+                "productYear": "1987",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVER SEATBELT APPEARS TO LATCH AND MAKES LATCHING SOUND AND FEEL, BUT RELEASES WITH VERY LITTLE FORCE (ABOUT ONE POUND OR LESS).  SEATBELT LOOKS NEW.  THIS IS A SERIOUS SAFETY ISSUE.*AK",
+        "vin": ""
+    },
+    {
+        "components": "TIRES",
+        "crash": true,
+        "dateComplaintFiled": "06/19/2002",
+        "dateOfIncident": "02/16/2002",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 763241,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "325I",
+                "productYear": "1987",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AFTER ONE TIRE BLEWOUT AND THE CAR LOST CONTROLL THE OTHER TIRE BLEWOUT AS WELL.  *AK",
+        "vin": "WBABB1302H1"
+    },
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "11/25/1997",
+        "dateOfIncident": "11/22/1997",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 819456,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "325I",
+                "productYear": "1987",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE WAS ON, DEFROSTER WAS ON. CONSUMER SMELLED BURNING SMELL, PULLED VEHICLE OVER TO INSPECT WHEN SUDDENLY REAR BACK WINDOW EXPLODED/ BROKE.  THIS DEFECT COULD HAVE CAUSED INJURIES.  *AK",
+        "vin": "WBAAD2301H8"
+    },
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "09/12/1995",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 971940,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "325I",
+                "productYear": "1987",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE DRIVER AND PASSENGER SIDE SEAT BELT BUCKLE BROKE .  TT",
+        "vin": "WBAA0230XH2"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "12/02/2009",
+        "dateOfIncident": "10/16/2008",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10294314,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "335I",
+                "productYear": "2008",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "HPFP FAILURE ONCE ON 10/16/08 AND AGAIN ON 09/30/09. *TR",
+        "vin": "WBAWB73518P"
+    }
+]

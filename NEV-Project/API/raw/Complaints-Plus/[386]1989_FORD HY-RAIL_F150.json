@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "06/09/1997",
+        "dateOfIncident": "12/06/1996",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 518244,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD HY-RAIL",
+                "productModel": "F150",
+                "productYear": "1989",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "UPON SHIFTING INTO DRIVE GEAR, VEHICLE SUDDENLY ACCELERATED.",
+        "vin": "1FTEX14N8KK"
+    }
+]

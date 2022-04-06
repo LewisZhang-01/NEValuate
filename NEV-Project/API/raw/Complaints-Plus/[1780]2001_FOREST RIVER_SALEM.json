@@ -1,0 +1,61 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "09/29/2011",
+        "dateOfIncident": "09/23/2011",
+        "fire": false,
+        "manufacturer": "Forest River, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10427860,
+        "products": [
+            {
+                "manufacturer": "Forest River, Inc.",
+                "productMake": "FOREST RIVER",
+                "productModel": "SALEM",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "TOWMASTER",
+                "productMake": "TOWMASTER",
+                "productModel": "TOWMASTER",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2001 FOREST RIVER SALEM RV LIGHT WITH TOW MASTER ST TIRES SIXE 205 75/14. THE DRIVERS SIDE REAR TIRE AND THE FRONT PASSENGER SIDE TIRE BLEW OUT. BOTH TIRES HAD 2,000 MILES ON THEM WHEN THE FAILURE OCCURRED. THE CONTACT STATED THAT TWO TIRES ON THE VEHICLE FAILED ON TWO CONSECUTIVE DAYS. THE CONTACT TOOK THE VEHICLE TO THE TIRE DEALER AND WAS TOLD THAT THE OTHER THREE TIRES TREAD BELT WAS SHREDDING AND THEY NEEDED TO BE REPLACED AS WELL. THE TIRE DEALER REPLACED THE TIRES AND SUGGESTED THE CONTACT CALL THE MANUFACTURER REGARDING THE FAILURE. THE DOT FOR ALL FIVE TIRES WAS 5310SPH4609. THE FAILURE MILEAGE WAS 2,000.",
+        "vin": "4X4TSMX261R"
+    },
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "08/28/2008",
+        "dateOfIncident": "08/10/2008",
+        "fire": false,
+        "manufacturer": "Forest River, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10240079,
+        "products": [
+            {
+                "manufacturer": "Forest River, Inc.",
+                "productMake": "FOREST RIVER",
+                "productModel": "SALEM",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Dometic Corporation",
+                "productMake": "DOMETIC",
+                "productModel": "RM2652",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 2001 FOREST RIVER SALEM 30FKSS RV.  THE VEHICLE HAS A DOMETIC REFRIGERATOR, MODEL RM2652.  THE CONTACT STATED THAT THE REFRIGERATOR WAS NOT PROPERLY COOLING AND SHE SMELLED AMMONIA.  ALSO, THERE WAS A YELLOW RESIDUE LEAKING FROM THE BACK OF THE REFRIGERATOR AND A CRACK IN THE BOILER TUBE WAS PRESENT.  THE DOMETIC CUSTOMER CENTER WAS NOTIFIED OF THE FAILURES.  THE CONTACT WAS DISPLEASED TO DISCOVER THAT THERE WAS A RECALL, BUT NO REMEDY AVAILABLE.  THE PART AND RECALL NUMBERS WERE UNKNOWN.",
+        "vin": "4X4TSMF271B"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "04/11/2013",
+        "dateOfIncident": "10/27/2010",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10508014,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "9999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "DUNLOP TIRE CORPORATION",
+                "productMake": "DUNLOP",
+                "productModel": "DUNLOP",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "TOYOTA SIENNA.  CONSUMER WRITES IN REGARDS TO PROBLEMS WITH  DUNLOP RUN FLAT TIRES.  *SMD  THE CONSUMER STATED AS SHE WAS DRIVING DOWN THE ROAD, ALL OF A SUDDEN THE RIDE BECAME BUMPY AND THE LOW PRESSURE TIRE LIGHT ILLUMINATED. SHE FOUND A GAS STATION WITH AN AIR COMPRESSOR, BUT TO NO AVAIL. THE CONSUMER THEN FOUND A SECOND AND A THIRD PLACE, BUT AT THAT POINT THERE SEEMED TO BE A PROBLEM WITH THE VALVE ON THE TIRE. WHEN SHE ARRIVED HOME, SHE USED HER OWN COMPRESSOR AND REALIZED AIR WAS COME OUT AS FAST AS IT WAS PUMPING IN. THE CONSUMER WENT TO WALMART AND WHEN THE TIRE AND RIM WERE REMOVED, IT WAS DISCOVERED THE BELT IN THE TIRE HAD SLIPPED AND RIPPED RIGHT THROUGH THE OUTSIDE TIRE WALL, FOR THE THIRD TIME.",
+        "vin": ""
+    }
+]

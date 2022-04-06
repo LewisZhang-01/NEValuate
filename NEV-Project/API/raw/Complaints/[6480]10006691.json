@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING,POWER TRAIN",
+        "crash": true,
+        "dateComplaintFiled": "02/06/2003",
+        "dateOfIncident": "02/01/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10006691,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING VEHICLE STALLED , RESULTING IN LOSS OF BRAKE AND STEERING FUNCTIONS.  AS A RESULT, CONSUMER COLLIDED WITH A TRUCK.    PH",
+        "vin": "1FAFP343214"
+    }
+]

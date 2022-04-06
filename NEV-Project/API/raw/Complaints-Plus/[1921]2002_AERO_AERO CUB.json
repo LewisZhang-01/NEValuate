@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "08/10/2004",
+        "dateOfIncident": "08/08/2004",
+        "fire": false,
+        "manufacturer": "AERO COACH, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10086551,
+        "products": [
+            {
+                "manufacturer": "AERO COACH, INC.",
+                "productMake": "AERO",
+                "productModel": "AERO CUB",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "CARLISLE TIRE & RUBBER CO",
+                "productMake": "CARLISLE",
+                "productModel": "CARLISLE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "TRAVELING ON HIGHWAY  CHUNK OF TREAD SEPARATED FROM TIRE  REPLACED WITH SPARE TIRE, OLD ONE IS AVAILABLE.",
+        "vin": ""
+    }
+]

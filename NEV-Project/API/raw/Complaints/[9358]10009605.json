@@ -1,0 +1,24 @@
+[
+    {
+        "components": "TIRES",
+        "crash": true,
+        "dateComplaintFiled": "03/17/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009605,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "PATHFINDER",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING TWO TIRES BLEWOUT, VEHICLE LOST CONTROL, RESULTING IN A COLLISION WITH A TREE.  *AK",
+        "vin": ""
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, ELECTRIC",
+        "crash": false,
+        "dateComplaintFiled": "01/27/2003",
+        "dateOfIncident": "01/25/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003495,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "GRAND CHEROKEE",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKE LIGHTS COME ON EVEN THOUGH BRAKE PEDAL IS NOT BEING DEPRESSED.",
+        "vin": "1J4GZ78Y8WC"
+    }
+]

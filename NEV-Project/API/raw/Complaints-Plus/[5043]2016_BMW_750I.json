@@ -1,0 +1,90 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "10/05/2021",
+        "dateOfIncident": "09/23/2021",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11435617,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "750I",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Active radiator grille malfunction  Active grille is stuck in closed position increasing the chances of the engine overheating and related safety risks. This problem has been reported in multiple BMW models and model years but the MY2016 G12 with a production date of March 2016 is not mentioned in previous service bulletins. Attaching links to service bulletins for same model but different production dates and for different models with the same issue.  https://static.nhtsa.gov/odi/tsbs/2019/MC-10160279-9999.pdf https://static.nhtsa.gov/odi/tsbs/2019/MC-10170559-9999.pdf  Driver was alerted to the issue when the check engine light came on. Upon diagnosis, DTC code P05AE was found to be the reason for the check engine light which indicates an active grille issue.",
+        "vin": "WBA7F2C5XGG"
+    },
+    {
+        "components": "WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "04/28/2021",
+        "dateOfIncident": "04/27/2021",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11414226,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "750I",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I OWN THIS 2016 VEHICLE FOR 2.5 YEAR (2018 TO 2021), I HAD TO CHANGE WHEELS DUE TO SPONTANEOUS CRACKS ON THE WHEELS DUE TO NORMAL DRIVING CONDITIONS. ALSO WHEEL SEPARATE FROM TIRE, AND SUDDEN TIRE PRESSURE LOSS HAPPENS EVEN FALLING INTO SMALL POTHOLES.  I ALREADY HAD TO CHANGE 2 FRONT WHEELS AND 3 TIRES IN TWO YEARS AND IT HAPPENED AGAIN AFTER FALLING INTO A SMALL POT HOLE. THIS IS VERY UNSAFE. 20\" BMW RIMS WHEELS 648M G11 G12 750I G30 OEM FACTORY 7/5 SERIES.",
+        "vin": "WBA7F2C59GG"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM,EXTERIOR LIGHTING",
+        "crash": false,
+        "dateComplaintFiled": "04/13/2021",
+        "dateOfIncident": "05/15/2020",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11407857,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "750I",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "INSTRUMENT CLUSTER GOES BLANK WHICH YOU CAN NOT SEE HOW MUCH GAS IS IN THE CAR, HOW FAST YOU ARE GOING OR ANYTHING. WHICH IS A HUGE SAFETY HAZARD.",
+        "vin": "WBA7F2C56GG"
+    },
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "10/18/2016",
+        "dateOfIncident": "10/18/2016",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10917165,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "750I",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "RECALL CAMPAIGN NO. 16V-173: AIR BAG ELECTRONIC CONTROL UNIT  RECEIVED THE ATTACHED FROM BMW STATING THEY ARE READY TO PERFORM THE REPAIR PER THIS RECALL.  I CONTACTED THE DEALERSHIP AND WAS TOLD THEY WOULD HAVE TO ORDER THIS PART.% MONTHS LATER STILL NO WORD OF REPLACEMENT PART.  I CALLED BMW CUSTOMER RELATIONS OVER THE LAST FEW MONTHS AND THEY FINALLY TOLD ME THAT I WOULD HAVE TO DEAL WITH THE DEALERSHIP.",
+        "vin": "WBA7F0C54GG"
+    }
+]

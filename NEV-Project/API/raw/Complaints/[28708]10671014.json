@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/08/2015",
+        "dateOfIncident": "02/01/2014",
+        "fire": false,
+        "manufacturer": "Kia Motors America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10671014,
+        "products": [
+            {
+                "manufacturer": "Kia Motors America",
+                "productMake": "KIA",
+                "productModel": "FORTE",
+                "productYear": "2014",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Nexen Tire Corporation",
+                "productMake": "NEXEN",
+                "productModel": "CP671",
+                "productYear": "9999",
+                "size": "P215/45R17",
+                "type": "Tire"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2014 KIA FORTE EQUIPPED WITH FOUR NEXEN CP671 TIRES, SIZE P215/45R17. WHILE DRIVING AT AN UNKNOWN SPEED, THE FRONT PASSENGER SIDE TIRE DEVELOPED A BLISTER AND EVENTUALLY FLATTENED. THE CONTACT REPLACED THE TIRE WITH THE SAME MODEL, BUT EXPERIENCED THE SAME FAILURE. THE CAUSE OF THE FAILURES WAS NOT DIAGNOSED. THE MANUFACTURER WAS NOT NOTIFIED. THE FAILURE MILEAGE WAS 40.",
+        "vin": "KNAFX4A84E5"
+    }
+]

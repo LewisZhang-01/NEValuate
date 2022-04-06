@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "04/17/2003",
+        "dateOfIncident": "04/14/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10016062,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F250",
+                "productYear": "1988",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "IT TOOK NUMEROUS TRIES TO GET THE VEHICLE TO START.    *JB",
+        "vin": "1FTHF25G1JP"
+    }
+]

@@ -1,0 +1,111 @@
+[
+    {
+        "components": "POWER TRAIN,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "06/06/2012",
+        "dateOfIncident": "01/01/2012",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10460824,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "productYear": "2008",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "DANA CORPORATION",
+                "productMake": "DANA",
+                "productModel": "DANA",
+                "productYear": "1989",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2008 JEEP WRANGLER UNLIMITED  THE SHIFTER POPS OUT OF FIRST GEAR VIOLENTLY, WITH A VERY LOUD NOISE.   THIS HAS OCCURRED OVER 20 TIMES.   ESPECIALLY DANGEROUS WHEN PULLING OUT TO ONCOMING TRAFFIC AND IT POPS OUT OF GEAR.   *TR",
+        "vin": ""
+    },
+    {
+        "components": "POWER TRAIN,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "07/02/2010",
+        "dateOfIncident": "05/20/2010",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10341070,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "TITAN",
+                "productYear": "2005",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "DANA CORPORATION",
+                "productMake": "DANA",
+                "productModel": "DANA",
+                "productYear": "1989",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NISSAN TITAN REAR DIFFERENTIAL FAILURE. *TR",
+        "vin": ""
+    },
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "04/03/2010",
+        "dateOfIncident": "05/28/1993",
+        "fire": false,
+        "manufacturer": "DANA CORPORATION",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10323622,
+        "products": [
+            {
+                "manufacturer": "DANA CORPORATION",
+                "productMake": "DANA",
+                "productModel": "DANA",
+                "productYear": "1989",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I HAD A PROBLEM ON MY 93 TEMPO SAME AS TOYOTA    RUNAWAY.   AFTER A NOMBER VISITS TO MY DEALER, THE CRUISE CONTROL WAS REPLACED TWICE AFTER WHICH THE PROBLEM NEVER REAPPEARED! COULD THIS BE PART OF THE TOYOTA PROBLEM? THE CAR WAS A '93 TEMPO/TOPAZ. I",
+        "vin": null
+    },
+    {
+        "components": "POWER TRAIN,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "02/13/2007",
+        "dateOfIncident": "01/30/2007",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10182462,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "TITAN",
+                "productYear": "2004",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "DANA CORPORATION",
+                "productMake": "DANA",
+                "productModel": "DANA",
+                "productYear": "1989",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CLUNK IN REAR DIFFERENTIAL WHEN SHIFTING FROM DRIVE TO REVERSE DEALER TECH FOUND EXCESSIVE PLAY IN DIFFERENTIAL AND REPLACED THIS IS MY SECOND REAR DIFFERENTIAL MY TRUCK ONLY HAS 34000 ON IT. *JB",
+        "vin": "1N6AA07B14N"
+    }
+]

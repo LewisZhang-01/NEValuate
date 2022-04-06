@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "01/10/2003",
+        "dateOfIncident": "08/15/2002",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002514,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "LEXUS",
+                "productModel": "LS400",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATES THE VEHICLE STARTER STAYS ON EVEN WHEN THE KEY IS OUT OF THE IGNITION .*JB",
+        "vin": "JT8UF22E5S0"
+    }
+]

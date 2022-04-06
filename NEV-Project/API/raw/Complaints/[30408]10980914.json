@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "04/26/2017",
+        "dateOfIncident": "07/16/2016",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10980914,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "HUMMER",
+                "productModel": "H3",
+                "productYear": "2007",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2007 HUMMER H3. WHILE DRIVING 45 MPH, THE VEHICLE STALLED AND THE THEFT LOCK WARNING INDICATOR ILLUMINATED. THE VEHICLE WAS RESTARTED. THE VEHICLE WAS INSPECTED BY AN INDEPENDENT MECHANIC AND UNKNOWN FUSES RELATED TO THE ELECTRICAL SYSTEM WERE REPLACED, BUT THE FAILURE RECURRED. THE MANUFACTURER WAS NOTIFIED OF THE FAILURE. THE FAILURE MILEAGE WAS 145,000.",
+        "vin": "5GTDN13E678"
+    }
+]

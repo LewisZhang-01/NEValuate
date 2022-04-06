@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "12/14/2015",
+        "dateOfIncident": "08/10/2015",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10810114,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "COROLLA",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* TAKATA RECALL. THE CONTACT OWNS A 2006 TOYOTA COROLLA. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 15V285000 (AIR BAGS) SEVERAL MONTHS AGO AND WAS UNABLE TO DETERMINE WHEN THE PART WOULD BECOME AVAILABLE TO RECEIVE THE RECALL REPAIR APPOINTMENT. THE MANUFACTURER WAS UNABLE TO PROVIDE A NOTIFICATION SCHEDULE OF WHEN THE PART WOULD BE SHIPPED TO THE DEALER. THE CONTACT HAD NOT EXPERIENCED A FAILURE. THE VIN TOOL CONFIRMS PARTS NOT AVAILABLE.",
+        "vin": "2T1BR32E56C"
+    }
+]

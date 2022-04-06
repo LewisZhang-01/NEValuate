@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "12/03/2008",
+        "dateOfIncident": "11/15/2008",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10250614,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "RAM 3500",
+                "productYear": "1999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "YOKOHAMA RUBBER CO. LTD.",
+                "productMake": "YOKOHAMA",
+                "productModel": "ALL SEASON RADIAL",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 1999 DODGE RAM 3500.  THE VEHICLE HAS YOKOHAMA ALL SEASON RADIAL TIRES, SIZE 215/85/R16 (NA).  WHILE DRIVING 65 MPH, THE ENTIRE VEHICLE BEGAN TO VIBRATE.  WHEN THE CONTACT ATTEMPTED TO MAKE A LEFT TURN, THE STEERING PULLED THREE INCHES BACK.  THE CONTACT WAS ABLE TO SAFELY DRIVE THE VEHICLE TO THE LOCAL TIRE REPAIR SHOP AND THE TWO FRONT TIRES WERE INSPECTED.  IT WAS DETERMINED THAT THE TREAD WAS SEPARATED AND THE TWO FRONT TIRES WERE REPLACED AT THE COST OF $400.  THE MANUFACTURER STATED THAT BECAUSE THE VEHICLE WAS OUT OF WARRANTY, THE CONTACT WOULD NOT BE COMPENSATED.  THE FAILURE MILEAGE WAS 85,800 AND CURRENT MILEAGE WAS 86,000.",
+        "vin": "1B7MF336XXJ"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "03/04/2003",
+        "dateOfIncident": "02/27/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009718,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "LAREDO",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "GEAR SHIFT WAS DIFFICULT TO PUT INTO PARK AND LOCK.  *NLM",
+        "vin": "1J4GW48S3YC"
+    }
+]

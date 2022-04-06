@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "02/09/2003",
+        "dateOfIncident": "01/26/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005559,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE WAS INVOLVED IN A HEAD ON COLLISION AND SUSTAINED HEAVY DAMAGE AS A RESULT WITH IMPACT WITH ANOTHER VEHICLE.  AT IMPACT, DRIVER SIDE AIRBAG DID NOT DEPLOY.  VEHICLE DECLARED A TOTAL LOSS.",
+        "vin": "1FTYR14C2YP"
+    }
+]

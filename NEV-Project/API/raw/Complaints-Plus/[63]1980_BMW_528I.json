@@ -1,0 +1,46 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "11/09/2000",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 557188,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "528I",
+                "productYear": "1980",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE REAR DIFFERENTIAL MOUNT FAILED, THE SHEET METAL WHERE IT IS MOUNTED IS THIN AND EXPERIENCED CRACKING AROUND THE MOUNT CAUSING IT TO FAIL.   *SLC",
+        "vin": ""
+    },
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "07/27/1998",
+        "dateOfIncident": "04/01/1998",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 539029,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "528I",
+                "productYear": "1980",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUEL SYSTEM FAILURE.",
+        "vin": ""
+    }
+]

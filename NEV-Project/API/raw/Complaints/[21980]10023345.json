@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "06/18/2003",
+        "dateOfIncident": "05/20/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10023345,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "VENTURE",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AIRBAG LIGHT CAME ON; DETERMINED TO BE RIGHT SEAT BELT PRETENSIONER FAILURE.  REPLACED AT OUR EXPENSE OF $265.41.   *NLM",
+        "vin": "1GNDX03EXYD"
+    }
+]

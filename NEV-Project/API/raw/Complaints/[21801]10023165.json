@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/16/2003",
+        "dateOfIncident": "05/12/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10023165,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "VAN",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "STEELTEX R4S",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "DRIVING CHEVROLET E3500 VAN WHEN LEFT REAR ORIGINAL EQUIPMENT FIRESTONE STEELTEX RADIAL R4S SEPARATED AND DAMAGED VAN.  BODY DAMAGE TO VAN.  RIGHT REAR TIRE HAS CRACK AROUND TREAD LIKE FIRESTONE WILDERNESS.   *NLM",
+        "vin": "1GAHG39R921"
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "10/09/2007",
+        "dateOfIncident": "10/09/2007",
+        "fire": false,
+        "manufacturer": "Coachmen RV Company, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10205295,
+        "products": [
+            {
+                "manufacturer": "Coachmen RV Company, LLC",
+                "productMake": "COACHMEN",
+                "productModel": "CONCORD",
+                "productYear": "2005",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 2005 COACHMEN CONCORD RV. WHILE DRIVING 60MPH, THE PASSENGER SIDE REAR TIRE BLEW OUT. THERE WAS MAJOR DAMAGE TO HIS RV. THE TIRE BLOW OUT TORE OFF SIDE OF THE CAMPER, THE WIRING ON THE FENDER WHEEL AND A GAS PIPE. THE ROAD CONDITIONS WERE NOT A FACTOR.  A TOW TRUCK MECHANIC REPLACED THE TIRE WITH A SPARE. THE TIRE WAS AN ORIGINAL TIRE. THE MILEAGE ON THE TIRE WAS 1850.  THERE IS LIMITED VEHICLE INFORMATION ON AN RV. THE TIRE SIZE WAS LT235/85R16. THE TIRE PRESSURE WAS 80. THE DOT NUMBER WAS 7Y9JANA3303. THE CURRENT AND FAILURE MILEAGE OF THE TIRE WAS 1850.",
+        "vin": "5L4FR302851"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "12/21/2005",
+        "dateOfIncident": "10/15/2005",
+        "fire": false,
+        "manufacturer": "Coachmen RV Company, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10145853,
+        "products": [
+            {
+                "manufacturer": "Coachmen RV Company, LLC",
+                "productMake": "COACHMEN",
+                "productModel": "CONCORD",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DT:  THE CONTACT STATED THERE WAS A SQUEAKING NOISE COMING FROM THE BRAKES.  THE VEHICLE WAS TAKEN TO THE DEALERSHIP,  AND THEY FOUND THE ENTIRE BRAKE SYSTEM HAD RUSTED.  THE DEALERSHIP REPLACED THE BRAKES.  THE MANUFACTURER HAS BEEN CONTACTED, BUT THEY HAVE NOT RESPONDED.  THIS IS A 2005 , COACHMEN CONCORD.  *AK",
+        "vin": "1FDXE45S84H"
+    }
+]

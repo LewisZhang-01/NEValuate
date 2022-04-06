@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "03/29/2022",
+        "dateOfIncident": "03/27/2022",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11458820,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-450 SD",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The trailer brakes fail after a random period of time. Though the trailer works fine with other controllers, the entire trailer was rewired with new brakes and a new 7-pin connector, the problem did not changed - there are no shorts, grounds, opens in the brake circuit, and the ground circuit is OK. There previously were and are no intermittent problems with the trailer. The trailer brakes will start off the trip working, but stop working at random times. I've often noticed that they'll fail shortly after sitting in traffic. After the failure, I remove and reinstall fuse #62 in the under hood fuse box, and the trailer brake operation will be restored for a while. Being aware of this problem, and the dealers being no help (this is a common topic on groups and forums), I regularly manually test trailer brake operation, especially before descending a hill, but sometimes even shortly after confirming proper operation, the trailer brakes will not work. After the failure, I will pull over, then again confirm that they're not working, then R&R the fuse without disturbing any other circuits or connectors, and the trailer brakes will resume operation. Turning the truck off and on does not fix the problem even temporarily. I experience this problem about every hundred miles or so of driving. The truck currently has about 2,500 miles, but the problem was noticed at about 1,100 miles during the first tow.  I'd estimate I've experienced the trailer brake failure about seven times.",
+        "vin": "1FT8W4DT3NE"
+    }
+]

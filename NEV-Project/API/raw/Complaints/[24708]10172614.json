@@ -1,0 +1,24 @@
+[
+    {
+        "components": "PARKING BRAKE",
+        "crash": false,
+        "dateComplaintFiled": "11/04/2006",
+        "dateOfIncident": "11/03/2006",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10172614,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "PROBE",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "RELEASE OF HAND BRAKE ON FORD PROBE GT FAILS TO DISENGAGE THE REAR BRAKES, REAR WHEEL(S) NOW PARTIALLY OR COMPLETELY LOCKED, CURRENT METHOD OF CORRECTION INVOLVES MANUALLY RELEASING FROM UNDERNEATH THE CAR (ALWAYS PARK DOWNHILL NOW).*JB",
+        "vin": "1ZVCT22B9P5"
+    }
+]

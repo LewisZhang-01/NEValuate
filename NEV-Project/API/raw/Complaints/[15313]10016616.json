@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, DIESEL",
+        "crash": false,
+        "dateComplaintFiled": "04/28/2003",
+        "dateOfIncident": "04/25/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10016616,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "BRONCO",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUEL TANK DEVELOPED LEAKS DUE TO RUST CAUSED BY WATER TRAPPED BETWEEN BRUSH GUARD AND TANK BOTTOM.  BRUSH GUARD DESIGNED WITHOUT HOLES TO ALLOW WATER TO DRAIN PROPERLY THUS TRAPPING WATER BETWEEN THE GUARD AND TANK BOTTOM.   *NLM",
+        "vin": ""
+    }
+]

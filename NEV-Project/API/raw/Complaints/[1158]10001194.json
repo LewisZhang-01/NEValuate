@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "12/19/2002",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001194,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "GRAND CARAVAN",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATES THAT THERE VEHICLES' AIRBAG HAS THE SAME DEFECT STATED IN RECALL NUMBER 99 V 113 000, BUT THERE VIN NUMBER IS NOT INCLUDED. PLEASE PROVIDE MORE DETAILS. TS",
+        "vin": "1B4GH54R4PX"
+    }
+]

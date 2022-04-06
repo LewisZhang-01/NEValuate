@@ -1,0 +1,31 @@
+[
+    {
+        "components": "CHILD SEAT",
+        "crash": false,
+        "dateComplaintFiled": "06/13/2003",
+        "dateOfIncident": "06/13/2003",
+        "fire": false,
+        "manufacturer": "UNKNOWN MANUFACTURER",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10024033,
+        "products": [
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN1",
+                "productYear": "9999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Dorel Juvenile Group",
+                "productMake": "COSCO",
+                "productModel": "ARRIVA 02-665",
+                "productYear": "9999",
+                "type": "Child Seat"
+            }
+        ],
+        "summary": "CHILD WAS ABLE TO TAKE THE PADDING OUT OF THE CHILD SAFETY SEAT AND STARTED CHOKING. DEALER NOTIFIED. *AK",
+        "vin": ""
+    }
+]

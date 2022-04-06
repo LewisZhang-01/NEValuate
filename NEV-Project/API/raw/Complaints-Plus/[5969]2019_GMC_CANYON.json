@@ -1,0 +1,90 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,UNKNOWN OR OTHER,FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "09/26/2021",
+        "dateOfIncident": "09/22/2021",
+        "fire": true,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11434439,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "CANYON",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "On Wednesday September 22nd at approximately 9:45 pm. My 2019 GMC Canyon was parked on my street and caught fire and was destroyed for no known reason. The fire department came ruled the cause as un known. The cabin and the bed were totally destroyed.   Appears to be no issue to the engine compartment.",
+        "vin": "1gtg6een0k1"
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "06/28/2021",
+        "dateOfIncident": "06/27/2021",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11422600,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "CANYON",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The vehicle hesitates and shifts harshly as if it will stall at low speed acceleration leaving my driveway and when going forward from a full stop at red light to green. Very jerky ride, uneven acceleration, fear of stalling.",
+        "vin": "1GTG6CEN5K1"
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "04/30/2020",
+        "dateOfIncident": "04/01/2019",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11322844,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "CANYON",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TRANSMISSION SLIPS ON INCLINES.  HAVE TAKEN IT TO DEALER SEVERAL TIMES  .  THEY CHANGED FLUID AND IT STILL SLIPS ON INCLINES.  DOESN'T SLIP ALL OF THE TIME, BUT DOES STILL SLIP!  THIS STARTED APPROX. 2 MONTHS AFTER PURCHASE.  BOUGHT NEW.",
+        "vin": "1GTG6CEN9K1"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM,UNKNOWN OR OTHER,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "09/10/2019",
+        "dateOfIncident": "09/09/2019",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11254462,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "CANYON",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ON COLD STARTUP THERE IS A LOUD CLUNK COMING FROM FRONT OF VEHICLE AND THE VIBRATION CAN BE FELT FROM INSIDE THE TRUCK AS IF SOMETHING HIT THE FLOOR UNDERNEATH.",
+        "vin": "1GTG5DEN3K1"
+    }
+]

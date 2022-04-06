@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "04/16/2003",
+        "dateOfIncident": "04/01/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10016013,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "MUSTANG",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE CROSS MEMBER BAR ON THE VEHICLE  DEVELOPED RUST.  *JB  CORRODED FRONT CROSS MEMBER REPLACED.         *TT",
+        "vin": "1FAFP40444F"
+    }
+]

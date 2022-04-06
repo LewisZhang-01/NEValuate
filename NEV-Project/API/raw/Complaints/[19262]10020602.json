@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "05/27/2003",
+        "dateOfIncident": "05/26/2003",
+        "fire": false,
+        "manufacturer": "FLEETWOOD ENTERPRISES, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020602,
+        "products": [
+            {
+                "manufacturer": "FLEETWOOD ENTERPRISES, INC.",
+                "productMake": "FLEETWOOD",
+                "productModel": "TIOGA",
+                "productYear": "1999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "STEELTEX R4S",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "PASSENGER REAR INNER DUAL TIRE SIDEWALL BLEWOUT. THIS VEHICLE WAS NOT OR EVER HAS BEEN OVERLOADED AND INFLATION  CHECKED ON EACH TRIP. VEHICLE HAD TRAVELED LESS THEN 30 MILES BELOW HIGHWAY SPEEDS WHEN BLOWOUT OCCURRED. AIR TEMP WAS 70. VEHICLE HAS APPROX 24K MILES. TIRES LOOKED NEW AND WERE INSPECTED OFTEN.   *TT",
+        "vin": "1FDXE40S7XH"
+    }
+]

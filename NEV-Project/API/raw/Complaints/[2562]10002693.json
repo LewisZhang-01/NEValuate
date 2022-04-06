@@ -1,0 +1,24 @@
+[
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "01/14/2003",
+        "dateOfIncident": "12/08/2002",
+        "fire": false,
+        "manufacturer": "RADIATOR",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002693,
+        "products": [
+            {
+                "manufacturer": "RADIATOR",
+                "productMake": "RADIATOR SPECIALITY",
+                "productModel": "RADIATOR SPECIALITY",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "1997 BMW 5401. RADIATOR EXPLODED AT 80,000 MILES. NOT COVERED UNDER WARRANTY AS THEY COUNT FROM DATE OF MANUFACTURE NOT DATE OF SALE",
+        "vin": null
+    }
+]

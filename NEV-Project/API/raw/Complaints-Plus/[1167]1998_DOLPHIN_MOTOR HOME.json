@@ -1,0 +1,68 @@
+[
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "12/23/2014",
+        "dateOfIncident": "07/13/2005",
+        "fire": false,
+        "manufacturer": "DOLPHIN RV PRODUCTS INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10667870,
+        "products": [
+            {
+                "manufacturer": "DOLPHIN RV PRODUCTS INC.",
+                "productMake": "DOLPHIN",
+                "productModel": "MOTOR HOME",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 1998 DOLPHIN MOTOR HOME. THE CONTACT STATED THAT WHILE DRIVING AT APPROXIMATELY 65 MPH, THE BRAKE PEDAL WAS DEPRESSED BUT THE VEHICLE FAILED TO COME TO A STOP. IN ADDITION, THE BRAKE WARNING LIGHT ILLUMINATED AND THE EMERGENCY BRAKE WAS ENGAGED WITH EXCESSIVE FORCE IN ORDER FOR THE VEHICLE TO COME TO A STOP. THE VEHICLE WAS NOT DIAGNOSED OR REPAIRED. THE MANUFACTURER WAS MADE AWARE OF THE FAILURE. THE FAILURE MILEAGE WAS 40,000.  UPDATED 3/17/15*CN   UPDATED 8/18/2015*JS",
+        "vin": "1GBLP37J9W3"
+    },
+    {
+        "components": "PARKING BRAKE",
+        "crash": false,
+        "dateComplaintFiled": "08/23/2000",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "DOLPHIN RV PRODUCTS INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 868393,
+        "products": [
+            {
+                "manufacturer": "DOLPHIN RV PRODUCTS INC.",
+                "productMake": "DOLPHIN",
+                "productModel": "MOTOR HOME",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING 60 MPH ON  HIGHWAY  ELECTRICAL PARKING BRAKE ACTIVATED,  CAUSING BRAKE SYSTEM TO LOCK UP, AND  VEHICLE TO COME TO A COMPLETE STOP. PLEASE GIVE ANY FURTHER DETAILS.*AK",
+        "vin": "1GBLP37J7W3"
+    },
+    {
+        "components": "SERVICE BRAKES, AIR",
+        "crash": false,
+        "dateComplaintFiled": "02/01/1999",
+        "dateOfIncident": "06/18/1998",
+        "fire": false,
+        "manufacturer": "DOLPHIN RV PRODUCTS INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 609907,
+        "products": [
+            {
+                "manufacturer": "DOLPHIN RV PRODUCTS INC.",
+                "productMake": "DOLPHIN",
+                "productModel": "MOTOR HOME",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ALL BRAKE ROTORS WORN OUT CAUSING VIBRATION.  YH",
+        "vin": "3FCMF53G3VJ"
+    }
+]

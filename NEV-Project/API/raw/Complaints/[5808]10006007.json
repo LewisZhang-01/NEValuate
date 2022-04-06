@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "01/30/2003",
+        "dateOfIncident": "06/30/2002",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10006007,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "RAM 1500",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING AT 30/45 MPH IN A FRONTAL COLLISION , NONE OF THE AIRBAGS DEPLOYED UPON IMPACT. VEHICLE WAS TOTALED.  PLEASE PROVIDE MORE DETAILS.       TS",
+        "vin": ""
+    }
+]

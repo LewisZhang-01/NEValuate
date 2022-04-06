@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "02/06/2003",
+        "dateOfIncident": "02/04/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10006698,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE TORSION BAR HAD BROKEN WHILE THE VEHICLE WAS PARKED.  PH  THE TORSION BAR WAS REPLACED AND THE FRONT END WAS ALIGNED.  SCC",
+        "vin": "2FTZF08W8WC"
+    }
+]

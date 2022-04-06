@@ -1,0 +1,24 @@
+[
+    {
+        "components": "WHEELS",
+        "crash": true,
+        "dateComplaintFiled": "03/06/2003",
+        "dateOfIncident": "10/05/2002",
+        "fire": false,
+        "manufacturer": "Volvo Car USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009993,
+        "products": [
+            {
+                "manufacturer": "Volvo Car USA, LLC",
+                "productMake": "VOLVO",
+                "productModel": "740",
+                "productYear": "1990",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE REAR WHEEL CRACKED IN HALF, WHICH CAUSED THE DRIVER TO LOSE CONTROL OF THE VEHICLE. WHICH RESULTED IN AN ACCIDENT.*JB",
+        "vin": "YV1FA8740L2"
+    }
+]

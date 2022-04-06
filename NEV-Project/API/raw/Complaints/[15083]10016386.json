@@ -1,0 +1,31 @@
+[
+    {
+        "components": "POWER TRAIN,STRUCTURE,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "04/23/2003",
+        "dateOfIncident": "01/24/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10016386,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "AUTOMATIC EQUIP. MFG. CO.",
+                "productMake": "UNKNOWN",
+                "productModel": "AUTOMATIC",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "FLUID LEAK AROUND THE TRANSMISSION PAN GASKET. REPAIRED 3 TIMES BY 2 DIFFERENT TOYOTA DEALERS.  EASY JOB BUT MAYBE IT IS A DEEPER PROBLEM? TRANSMISSION DID NOT SHIFT WHEN COLD FOR ABOUT 2 MILES AFTER THE FIRST AND SECOND TIME IT WAS \"FIXED.\" AFTER THE THIRD TIME TRYING TO STOP THE OIL LEAK, THEY ADJUSTED THE THROTTLE CABLE AND NOW IT SEEMS TO SHIFT MORE NORMALLY IN COLD MORNINGS.  SINCE NEW, THE LEFT SLIDING MANUAL DOOR WAS HARD TO OPEN FROM THE INSIDE. AFTER 2 TRIPS FOR \"ADJUSTMENTS\" THE DOOR IS OPENING CORRECTLY.    *JB",
+        "vin": "4T3ZF13C9YU"
+    }
+]

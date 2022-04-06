@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "03/11/2003",
+        "dateOfIncident": "03/11/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010323,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "HEATER CORE FAILURE.  ALL INDICATIONS THAT THIS IS COMMON TO FORD, BUT THE DEALER DENIES IT.  THIS PART SHOULD NOT HAVE A HIGH FAILURE RATE.*JB",
+        "vin": "1FTEF1768VK"
+    }
+]

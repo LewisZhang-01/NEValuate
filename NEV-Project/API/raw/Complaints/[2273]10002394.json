@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "01/08/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002394,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN APPLYING THE BRAKES, CONSUMER STATES THE STEERING WHEEL LOCKS UP.  CAUSE IS UNKNOWN.  PLEASE PROVIDE ANY FURTHER INFORMATION. TS",
+        "vin": "1FTWW33F21E"
+    }
+]

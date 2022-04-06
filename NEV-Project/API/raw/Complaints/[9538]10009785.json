@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "03/04/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009785,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "CIVIC",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "A FAULTY IGNITION CAUSED THE VEHICLE NOT TO START.  A RECALL   (02V-120000) WAS  ISSUED FOR THIS PROBLEM BUT THE CONSUMER VEHICLE WAS NOT INCLUDED DUE TO VIN.  *NLM",
+        "vin": "NOT AVAILAB"
+    }
+]

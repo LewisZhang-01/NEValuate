@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "04/04/2004",
+        "dateOfIncident": "03/09/2004",
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10064514,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "CONTOUR",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FORD REFUSED TO HONOR RECALL CAMPAIGN #01V230000 MANUFACTURER'S CAMPAIGN #01S22  CLAIMING \"WARRANTY HAD EXPIRED\".   *NM",
+        "vin": "1FALP6530WK"
+    }
+]

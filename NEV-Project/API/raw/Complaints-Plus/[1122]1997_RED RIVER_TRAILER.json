@@ -1,0 +1,54 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "06/16/2008",
+        "dateOfIncident": "06/15/2008",
+        "fire": false,
+        "manufacturer": "RED RIVER MANUFACTURING",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10231102,
+        "products": [
+            {
+                "manufacturer": "RED RIVER MANUFACTURING",
+                "productMake": "RED RIVER",
+                "productModel": "TRAILER",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 1997 ROAD TREK CAMPER (NA).  THE CONTACT STATED THAT THREE WINDOWS IN THE TOP FRONT AND THE SEAL WERE LEAKING INTO THE CAB.  THE VEHICLE HAS NOT YET BEEN DIAGNOSED BY A MECHANIC OR A DEALER.  THE CURRENT AND FAILURE MILEAGES WERE 98,000.",
+        "vin": "2B6KB31Y6VK"
+    },
+    {
+        "components": "SUSPENSION,TIRES",
+        "crash": true,
+        "dateComplaintFiled": "05/19/2005",
+        "dateOfIncident": "06/15/2002",
+        "fire": false,
+        "manufacturer": "RED RIVER MANUFACTURING",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10121616,
+        "products": [
+            {
+                "manufacturer": "RED RIVER MANUFACTURING",
+                "productMake": "RED RIVER",
+                "productModel": "TRAILER",
+                "productYear": "1997",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "HT",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "I PURCHASED THIS TRUCK USED FROM A DEALER SHIP , THE TRUCK WAS BOUNCING ALL OVER THE ROAD EVERY TIME I WOULD HIT A BUMP , BUT ONE TIME WHEN I WAS PASSING A VEH THE TRUCK REAR END CAUGHT UP WITH THE FRONT END AND IT BEGAN TO ROLL AND ROLL AND ROLL WHERE THEN THE ROOF DIDNT HOLD UP THIS TRUCK IS DANGEROUS ITS NEEDS TO BE PUT OFF THE ROAD I BROKE MY NECK IN TWO PLACES NOT TO MENTION OTHER INJURIES I AM NOW DISABLE AND FORD KNOWS THEY HAVE THIS PROBLEM AND THEY KNOW THE ROOF SUPPORT ITS NOT MADE TO PROCTECT THE DRIVER I AM DISABLE FROM THIS VEH AND THERE SHOULD BE A INVESTIGATION ON THIS TRUCK..AGAIN BEFORE IT HAPPENS AGAIN THE TRUCK IS UNSAFE!!!  I COULDNT GIVE THE RIGHT INFO ON THIS SITE IT DOSNT GIVE THE OPTION IT WAS A 97 RANGER XLT IT HAD FIRESTONE TIRES HT WILDERNESS THAT BLEW NOT SHREADED BLEW AGAIN THIS ISSUE NEEDS TO BE ISSUED!!!!",
+        "vin": ""
+    }
+]

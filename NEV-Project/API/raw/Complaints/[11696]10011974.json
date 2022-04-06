@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "03/18/2003",
+        "dateOfIncident": "03/16/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10011974,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "1999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "UNIROYAL TIRE CO.",
+                "productMake": "UNIROYAL",
+                "productModel": "UNIROYAL",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHILE DRIVING THE VEHICLE EXPERIENCED SEVER VIBRATION DUE TOT HE VEHICLES FAULTY TIRES (SIZE#P23575R15)  PLEASE PROVIDE THE DOT #.  *NLM",
+        "vin": "PLEASE PROV"
+    }
+]

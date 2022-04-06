@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "01/29/2003",
+        "dateOfIncident": "12/18/2002",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005901,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "GRAND CHEROKEE",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "GAS GAUGE DIDN'T PROPERLY INDICATE VEHICLE'S FUEL LEVEL. THREE DEALERS DIAGNOSED DEFECT AS THE FUEL SENDING UNIT LOCATED WITHIN THE FUEL TANK.  RELATED RECALL 97V194000.  CONSUMER'S V.I.N. WAS NOT INCLUDED.    PH",
+        "vin": "1J4GZ78Y5VC"
+    }
+]

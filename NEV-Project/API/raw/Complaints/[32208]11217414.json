@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,ELECTRICAL SYSTEM,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "06/02/2019",
+        "dateOfIncident": "06/02/2019",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11217414,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "PRELUDE",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING OR AT STOP LIGHT, CAR STALLS WITHOUT WARNING. MUST HAVE A JUMP TO RESTART AND CAN ONLY DRIVE 5-10 MILES BEFORE CAR STALLS SAYING BATTERY NOT CHARGING. BATTERY AND ALTERNATOR BOTH  TEST AS GOOD.  CAR MAY START AND RUN NORMALLY FOR SEVERAL DAYS THEN PROBLEM REAPPEARS.",
+        "vin": "JHMBB6142WC"
+    }
+]

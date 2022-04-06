@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "12/20/2002",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001342,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERCURY",
+                "productModel": "MARQUIS",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE TRAVELING AT 20 MPH, CONSUMER STATES ANOTHER VEHICLE TRAVELING AHEAD CAME TO AN IMMEDIATE STOP. CONSUMERS DRIVER SIDE FRONT SEAT BELT BROKE AT THE CHEST. RESULTING IN A CHEST INJURY.  CAUSE IS UNKNOWN. PLEASE DESCRIBE FURTHER. TS",
+        "vin": "1MEPM6243PH"
+    }
+]

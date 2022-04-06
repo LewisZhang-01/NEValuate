@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES,WHEELS",
+        "crash": true,
+        "dateComplaintFiled": "01/10/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "UNKNOWN MANUFACTURER",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001286,
+        "products": [
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN1",
+                "productYear": "9999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "MICHELIN TIRE CORP.",
+                "productMake": "MICHELIN",
+                "productModel": "MICHELIN",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "VEHICLE HAS HAD LESS THAN 10000 MILES ON THE MICHELIN TIRES.   CONSUMER FEELS THAT ALL FOUR TIRES ARE DEFECTIVE BECAUSE ONE TIRE EXPLODED. CONSUMER WAS DRIVING WHEN HE FELT  INTENSE VIBRATION,  PULLED TO THE RIGHT SIDE OF THE ROAD AND SLOWED DOWN WHEN SUDDENLY A HUGE OFF, AND WRAPPED AROUND THE REAR AXLE, AT THE SAME TIME AN EXPLOSION HAD TAKEN THE VEHICLE ALL OVER THE ROAD.  THE REAR TIRE HAD PEELEDTHE FENDER IN, THE MOLDINGS WERE GONE, INCLUDING THE HUBCAP.  THE CONSUMER FEELS THAT MICHELIN IS RESPONSIBLE.   SCC *JB",
+        "vin": ""
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "03/25/2004",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10064914,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "HIGHLANDER",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE WAS IN AN ACCIDENT AND WAS HIT HEAD ON. THE VEHICLE WAS MOVING AT APPROXIMATELY 30-35 MPH AT IMPACT. THE FRONT AIR BAGS FAILED TO DEPLOY. PROVIDE FURTHER DETAILS.  *JB",
+        "vin": "JTEGD21A820"
+    }
+]

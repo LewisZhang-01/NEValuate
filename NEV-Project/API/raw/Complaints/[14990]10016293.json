@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "04/22/2003",
+        "dateOfIncident": "02/01/2001",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10016293,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "S10",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN MOVING AT SPEEDS BETWEEN 0 MPH AND 10 MPH A WINING SOUND WILL SOMETIMES COME FROM THE STEERING COLUMN.  DEALER CHECKED IT OUT & COULDN'T DUPLICATE.  STILL OCCURS.   *NLM",
+        "vin": "1GCCS1942X8"
+    }
+]

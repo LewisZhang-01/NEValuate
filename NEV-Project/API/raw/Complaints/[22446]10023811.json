@@ -1,0 +1,31 @@
+[
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "06/26/2003",
+        "dateOfIncident": "11/15/2002",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10023811,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "CAMRY",
+                "productYear": "1991",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "AUTOMATIC EQUIP. MFG. CO.",
+                "productMake": "UNKNOWN",
+                "productModel": "AUTOMATIC",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "RE:  NHTSA CAMPAIGN ID NUMBER: - 93V147000. I WAS DRIVING HOME LISTENING TO THE RADIO WHEN IT STOPPED WORKING.  WHEN I REMOVED THE RADIO FROM THE CAR I FOUND A SSCP03 TAG DATED 07/13/94 WITH DEALER CODE NO \"78\" STAMPED ON IT.  SSCP03 IS THE TECHNICAL SERVICE BULLETIN (TSB) NUMBER I FOUND FOR A \"SAFETY RECALL\" .TODAY I WENT TO THE DEALERSHIP, AT WHICH I HAD PURCHASED THE CAR, TO INVESTIGATE THIS.  THE DEALERSHIP REPRESENTATIVE PRESENTED ME WITH A PAGE OF A \"WARRANTY DOFU/SSC REPORT\" ITEMIZING A     \"P03   1991 CAMRY/PREVIA RADIO    08/24/94   31027\"    FOR MY VEHICLE.  IT WAS EXPLAINED TO ME THAT THIS SHOWED THAT THE RADIO    [TOYOTA 86120-03042...CE-2233TL1B SERIAL NO. R7002084]    WAS FACTORY REPAIRED ON 07/13/94 AND INSTALLED IN THE VEHICLE ON 08/29/94, SATISFYING THE REQUIREMENTS OF THE SAFETY RECALL.  I AM CONCERNED THAT: THIS RADIO CEASED TO FUNCTION SUDDENLY; THE SSCP03 IDENTIFICATION APPEARS ON IT; AND, THOSE DATES PRECEED THE ISSUE DATE \"SEP 94\" OF THE SAFETY RECALL IDENTIFIED BY ALLDATA.COM. *AK",
+        "vin": "4T1SV21E8MU"
+    }
+]

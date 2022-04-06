@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "04/10/2003",
+        "dateOfIncident": "04/10/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015618,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "EXPRESS",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "STEELTEX RADIAL TIRE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "IN WET WEATHER,THE VEHICLE'S STOPPING DISTANCE WAS GREATLY INCREASED AT VERY LOW SPEEDS. THE CONSUMER WAS TRAVELING DOWN A SLIGHT INCLINE AT APPROXIMATELY 10 MPH AND THE APPLIED BRAKES, HOWEVER THE VEHICLE SLID THROUGH THE INTERSECTION.  THE VEHICLE HAD SLID THROUGH SEVERAL INTERSECTIONS AND STOP LIGHTS IN THE PAST.  *JB",
+        "vin": "1GAHG39R2Y1"
+    }
+]

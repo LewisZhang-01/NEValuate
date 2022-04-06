@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": true,
+        "dateComplaintFiled": "05/19/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10020118,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TAURUS",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE CONSUMERS VEHICLE WAS STOPPED WHEN ANOTHER VEHICLE WHICH WAS DRIVING ABOUT 45 MPH REAR ENDED THE CONSUMER.  THE DRIVER AND PASSENGER SEAT BACKS COLLAPSED AND AS A RESULT THE CONSUMER SUSTAINED AN INJURED BACK.    *NLM",
+        "vin": ""
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,AIR BAGS,SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "11/06/2018",
+        "dateOfIncident": "01/01/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11149587,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EDGE",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TAKATA RECALL. WITHIN A YEAR, MY BRAKE VACUUM SYSTEM HAS FAILED ME, LEADING TO ALMOST GETTING INTO A MAJOR ACCIDENT. THE ELECTRIC SYSTEM IS NOT WORKING, AND I OFTEN SMELL BURNING. MY FRONT PASSENGER AIRBAG HAS BEEN RECALLED, BUT THE PART HAS NOT BEEN IN STOCK FOR OVER A YEAR.",
+        "vin": "2FMDK39C78B"
+    },
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "10/29/2018",
+        "dateOfIncident": "01/10/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11143752,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EDGE",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* TAKATA RECALL. THE CONTACT OWNS A 2004 FORD EDGE. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 17V024000 (AIR BAGS). THE CONTACT STATED THAT THE MANUFACTURER EXCEEDED A REASONABLE AMOUNT OF TIME FOR THE RECALL REPAIR.  THE CONTACT CALLED THE LOCAL DEALER FORD OF SMITHTOWN (440 E JERICHO TURNPIKE SAINT JAMES, NY 11780, (631) 265-2341) WHERE IT WAS INFORMED THAT THE REMEDY PARTS WERE NOT AVAILABLE. THE MANUFACTURER WAS CONTACTED HOWEVER NO FURTHER ASSISTANCE WAS PROVIDED. THE CONTACT HAD NOT EXPERIENCED A FAILURE. PARTS DISTRIBUTION DISCONNECT.",
+        "vin": "2FMDK48C28B"
+    },
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "10/18/2016",
+        "dateOfIncident": "10/18/2016",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10917171,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EDGE",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* TAKATA RECALL. THE CONTACT OWNS A 2004 FORD EDGE. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 16V036000 (AIR BAGS). THE PART NEEDED TO REPAIR THE VEHICLE WAS UNAVAILABLE. THE CONTACT STATED THAT THE MANUFACTURER EXCEEDED A REASONABLE AMOUNT OF TIME FOR THE RECALL REPAIR. THE MANUFACTURER WAS NOTIFIED OF THE ISSUE. THE CONTACT HAD NOT EXPERIENCED A FAILURE. VIN TOOL CONFIRMS PARTS NOT AVAILABLE.",
+        "vin": "1FTYR14U94P"
+    }
+]

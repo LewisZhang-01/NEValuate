@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "05/20/2019",
+        "dateOfIncident": "05/18/2019",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11208664,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "COROLLA MATRIX",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "STOPPED AT A STOP LIGHT AFTER COMING OFF OF A HIGHWAY EXIT, AND CAR STALLED. BATTERY LIGHT CAME ON. RESTARTED IGNITION AND CAR WORKED FINE FOR A FEW MILES. STALLED AGAIN AFTER COMING TO A COMPLETE STOP AT A STOP SIGN. STRONGLY BELIEVE ECM IS FAULTY. COULD BE CONNECTED TO TOYOTA RECALL 10V384000.",
+        "vin": "2T1KR32E05C"
+    }
+]

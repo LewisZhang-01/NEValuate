@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "01/10/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001477,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO 1500",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN THE ABS  ENGAGES, IT CAUSES THE CONSUMER TO LOSE CONTROL OF THE STOPPING DISTANCE WITHOUT ANY WARNING.  CONSUMER HAS TO DISCONNECT THE FUSES.  *JG *JB",
+        "vin": "1GTEK19T9XE"
+    }
+]

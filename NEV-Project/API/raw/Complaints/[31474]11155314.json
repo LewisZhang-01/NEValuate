@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "12/01/2018",
+        "dateOfIncident": "11/30/2018",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11155314,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "COROLLA",
+                "productYear": "2007",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE WAS DISPLAYING SIGNS OF NOT WANTING TO START, WHEN DRIVING CHECK ENGINE LIGHT CAME ON. CAR IS DRIVEABLE BUT IS BECOMING SOMEWHAT ROUGH ESPECIALLY WHEN IDLING AT LIGHT OR STOP. TOOK CAR TO SERVICE CENTER AND THEY TOLD ME IT IS THE ENGINE CONTROL MODULE SHOWING UP AS BEING DEFECTIVE OR BAD. VEHICLE ONLY HAS 44K MILES.",
+        "vin": "2T1BR32E17C"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "12/20/2002",
+        "dateOfIncident": "12/17/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001347,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "Z-71",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATED VEHICLE WILL INTERMITTENTLY STALL WHILE DRIVING.  CONSUMER WOULD NOT BE ABLE TO RESTART UNTIL 15-30 MIN LATER.  DEALER DISCOVERED THAT THE WIRING FROM THE TOP OF THE FUEL TANK INTO THE FUEL PUMP HAS COMPLETELY MELTED INSULATION CAUSING THE WIRE TO SPLIT.  ALSO THE PLUG ON BOTH SIDES MELTED ALONG WITH THE WIRING IN TANK. TS",
+        "vin": "2GTEK19R7V1"
+    }
+]

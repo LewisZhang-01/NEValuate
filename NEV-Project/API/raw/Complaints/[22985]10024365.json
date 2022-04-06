@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/18/2003",
+        "dateOfIncident": "06/15/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10024365,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "1999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "KELLY SPRINGFIELD TIRE CO",
+                "productMake": "DELTA",
+                "productModel": "DELTA",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHILE DRIVING, THE LEFT FRONT TIRE TREAD SEPARATED AND BLEW OUT, CAUSING EXTENSIVE  DAMAGE AND INJURY TO THE CONSUMER.  DELTA SIERRA RADIAL, 2,387 MILES ON TIRE .FIRESTONE RECALL REPLACEMENT TIRE. *AK",
+        "vin": ""
+    }
+]

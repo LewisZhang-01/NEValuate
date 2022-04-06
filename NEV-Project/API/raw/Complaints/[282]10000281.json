@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "12/19/2002",
+        "dateOfIncident": "11/25/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000281,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F SERIES",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DOOR CRACK IN DRIVER SIDE DOOR, NEAR THE WINDOW,  NEAR PLASTIC MOLDING.",
+        "vin": "1FTRX17W3YN"
+    }
+]

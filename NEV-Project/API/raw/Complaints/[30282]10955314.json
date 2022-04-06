@@ -1,0 +1,24 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "02/17/2017",
+        "dateOfIncident": "08/31/2013",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10955314,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "EXHAUST/BAD SMELL COMES INTO PASSENGER AREA ON ACCELERATION.",
+        "vin": "1FM5K7D8XDG"
+    }
+]

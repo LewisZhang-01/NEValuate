@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC,ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "06/19/2003",
+        "dateOfIncident": "04/01/2003",
+        "fire": false,
+        "manufacturer": "Volvo Car USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10023414,
+        "products": [
+            {
+                "manufacturer": "Volvo Car USA, LLC",
+                "productMake": "VOLVO",
+                "productModel": "854",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TRACS AND ABS WARNING LIGHTS.  *NLM",
+        "vin": "YV1LS5824V2"
+    }
+]

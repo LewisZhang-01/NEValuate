@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "04/30/2003",
+        "dateOfIncident": "02/12/2002",
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10016771,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CAR BURNED IN MY DRIVEWAY.  WE JUST FOUND OUT IT CAME FROM UNDER THE DASHBOARD, A PROBLEM WITH THE WIRING(ELECTRICALLY)IN THE HEATING SYSTEM.",
+        "vin": ""
+    }
+]

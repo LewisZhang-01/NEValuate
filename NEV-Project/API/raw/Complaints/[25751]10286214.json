@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "10/04/2009",
+        "dateOfIncident": "10/03/2009",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10286214,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA 2500 HD",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SPEEDOMETER OPERATION ERRATIC. IT SUDDENLY READS AT HALF THE ACTUAL SPEED (COMPARED TO GPS READING). THEN IT READS ZERO. OTHER GAUGES AND CRUISE CONTROL FUNCTION. WORKED FINE AFTER A RESTART BUT THEN IT STARTED READING ERRATICALLY AGAIN. *TR",
+        "vin": "1GTHK23275F"
+    }
+]

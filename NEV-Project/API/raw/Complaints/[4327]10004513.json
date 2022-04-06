@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "01/23/2003",
+        "dateOfIncident": "01/12/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004513,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "CROWN VICTORIA",
+                "productYear": "1990",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATED HAVING THE SAME PROBLEMS AS RECALL#98V32000 LOWER CONTROL ARM. DEALER WILL NOT REPAIR BECAUSE VIN IS NOT INCLEDED.        TS",
+        "vin": "PLEASE PROV"
+    }
+]

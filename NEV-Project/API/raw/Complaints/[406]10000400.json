@@ -1,0 +1,31 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "12/27/2002",
+        "dateOfIncident": "06/01/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000400,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "BLAZER",
+                "productYear": "1999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "GM PRODUCTS DIV. GM CORP.",
+                "productMake": "GM PRODUCTS",
+                "productModel": "GM PRODUCTS",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "RADIATOR HEATING AND COOLING DUE TO ENGINE COOLANT SLUDGES UP CREATING PROBLEMS WITH HEATER CORE AND OTHER PARTS. HAVE REPLACED PARTS AND EVEN ADDED A FILTER BUT STILL NOT GETTING THE PREFORMANCE FROM HEATER AS IT SHOULD. HAVE HEARD FROM TECHS AND COMPLAINTS.COM AND OTHERS ALOT OF COMPLAINTS PUT IN WHY NO RECALL.",
+        "vin": ""
+    }
+]

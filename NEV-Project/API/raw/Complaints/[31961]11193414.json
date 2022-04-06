@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "04/02/2019",
+        "dateOfIncident": "03/24/2019",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11193414,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "ESCAPE",
+                "productYear": "2008",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "STEERING WHEEL SNAKES,  LOCKS AND THEN WILL NOT MOVE",
+        "vin": "IFMCU02Z18K"
+    }
+]

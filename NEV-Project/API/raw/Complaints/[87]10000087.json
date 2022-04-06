@@ -1,0 +1,24 @@
+[
+    {
+        "components": "INTERIOR LIGHTING",
+        "crash": false,
+        "dateComplaintFiled": "12/12/2002",
+        "dateOfIncident": "12/12/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000087,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TAURUS",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE INTERIOR LIGHT CONTINUES TO REMAIN ON AND THE DASH READOUT INDICATES THAT THERE IS A DOOR OPEN WHEN THERE ACTUALLY ISN'T.  AS A RESULT, THE DRIVER'S SIDE DOOR WILL NOT LOCK AS LONG AS THE CAR BELIEVES THERE IS AN UNLOCKED DOOR.",
+        "vin": "1FAFP53SXXG"
+    }
+]

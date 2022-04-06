@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "03/25/2003",
+        "dateOfIncident": "03/24/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10011003,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "DAKOTA",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ON FULL THROTTLE ACCELERATION THE AUTOMATIC TRANSMISSION WILL NOT UP SHIFT FROM 1ST TO 2ND.  CHRYSLER STATES THAT IS NOT A DEFECT AND IS NORMAL.",
+        "vin": "1B7GL22Z11S"
+    }
+]

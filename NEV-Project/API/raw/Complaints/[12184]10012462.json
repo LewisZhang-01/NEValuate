@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": true,
+        "dateComplaintFiled": "06/17/2003",
+        "dateOfIncident": "08/01/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 3,
+        "odiNumber": 10012462,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "CONTOUR",
+                "productYear": "1999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "EAGLE GA",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "BOTH PASSENGER FRONT AND REAR TIRES BLEW OUT AT THE SIDEWALL, THE VEHICLE LEFT THE ROAD WAY AND FLIPPED OVER. ONE TIRE BLEW WHILE THE VEHICLE WAS SITTING AND THE OTHER WHILE PULLING INTO A PARKING LOT. THE CONSUMER HAD THE SECOND FAILED TIRE IN THEIR POSSESSION.   *JB   *PH",
+        "vin": "3FAFP6538XM"
+    }
+]

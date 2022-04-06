@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/07/2003",
+        "dateOfIncident": "06/01/2003",
+        "fire": false,
+        "manufacturer": "Newmar Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021214,
+        "products": [
+            {
+                "manufacturer": "Newmar Corporation",
+                "productMake": "NEWMAR",
+                "productModel": "KOUNTRY STAR",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "MARATHON",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "3 GOODYEAR MARATHON TIRES ON MY CAMPER WENT FLAT WHILE DRIVING THROUGH MARYLAND, WHILE ENROUTE TO MASSACHUSETTS FROM FLORIDA. I BELIEVE THESE TIRES ARE A SAFETY ISSUE. THEY HAD LESS THAN 2,000 MILES ON THEM. I HAVE HAD NINE OF THESE FAIL IN THE PAST THREE YEARS.  *JB",
+        "vin": ""
+    }
+]

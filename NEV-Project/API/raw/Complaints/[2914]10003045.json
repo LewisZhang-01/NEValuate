@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "01/20/2003",
+        "dateOfIncident": "12/24/2000",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003045,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "AUDI",
+                "productModel": "A4",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "1ST FAILED COIL PACK 12/24/02  2ND FAILED COIL PACK 01/17/02",
+        "vin": "WAULC68E62A"
+    }
+]

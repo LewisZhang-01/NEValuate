@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/04/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "UNKNOWN MANUFACTURER",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021988,
+        "products": [
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN1",
+                "productYear": "9999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Cooper Tire & Rubber Co.",
+                "productMake": "COOPER",
+                "productModel": "RADIAL XL",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "FAX FOIA REQUEST COPIES OF ALL CORRESPONDENCE & RELATED DOCUMENTS IN REFERENCE TO COOPER TIRE AND COMPANY PROVIDED SINCE 1/1/01 BY ATTY BRUCE KASTER.  *MR  KASTER OPPOSES NHTSA'S SUPPORT OF NATIONAL LASS ACTION SETTLEMENT AGAINST COOPER TIRE IN REFERENCE TO STEEL BELTED RADIAL TIRE TREAD SEPARATION.  SCC",
+        "vin": "9999"
+    }
+]

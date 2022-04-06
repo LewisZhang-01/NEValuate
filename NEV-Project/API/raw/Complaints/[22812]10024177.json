@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": true,
+        "dateComplaintFiled": "06/16/2003",
+        "dateOfIncident": "06/16/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10024177,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "RAM",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE TRAVELING ON THE HIGHWAY  VEHICLE WAS T-BORNE AND THE FRAME BENT.*AK",
+        "vin": ""
+    }
+]

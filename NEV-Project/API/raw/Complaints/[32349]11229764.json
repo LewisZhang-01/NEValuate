@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VEHICLE SPEED CONTROL,ELECTRONIC STABILITY CONTROL,SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "07/06/2019",
+        "dateOfIncident": "07/05/2019",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11229764,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "MALIBU",
+                "productYear": "2010",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ESC , TRACTION CONTROL LIGHTS COME ON. THEN REAR BRAKE LIGHTS WORK OPPOSITE OF STANDARD BRAKE LIGHT DESIGN. THE REAR BRAKE LIGHTS COME ON WHILE DRIVING. WHEN BRAKE PEDAL IS DEPRESSED, THE BRAKE LIGHTS TURN OFF. THIS HAS BEEN GOING ON FOR TWO YEARS NOW. THE DEALERSHIP JUST PATCHES THE REPAIR. THE REPAIR ONLY LASTS A FEW WEEKS.",
+        "vin": "1G1ZC5EB3AF"
+    }
+]

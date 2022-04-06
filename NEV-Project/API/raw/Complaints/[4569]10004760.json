@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "01/27/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Mercedes-Benz USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004760,
+        "products": [
+            {
+                "manufacturer": "Mercedes-Benz USA, LLC",
+                "productMake": "MERCEDES BENZ",
+                "productModel": "ML430",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE LOST STEERING  RESULTING IN FLUID SPRAYING OVER ENGINE. DEALER HAS BEEN CONTACTED. PLEASE PROVIDE FURTHER INFORMATION.*AK",
+        "vin": ""
+    }
+]

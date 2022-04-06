@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "05/28/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021740,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SONOMA",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "PROBLEMS WITH THE WINDSHIELD WIPER. ALSO THERE WAS A RECALL ON THE SAME MAKE MODEL AND YEAR BUT CONSUMER'S VIN NUMBER WAS NOT INCLUDED.        *TT",
+        "vin": "1GTCS1449RK"
+    }
+]

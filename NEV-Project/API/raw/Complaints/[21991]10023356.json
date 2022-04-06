@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC,ENGINE AND ENGINE COOLING,FUEL SYSTEM, GASOLINE,ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "06/19/2003",
+        "dateOfIncident": "03/01/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10023356,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ABS LIGHT ON.  BRAKES FAILED DURING SUDDEN STOP.  USING EXCESSIVE COOLANT.  PROBLEMS STARTING.  *NLM",
+        "vin": "1FMDU32X4RU"
+    }
+]

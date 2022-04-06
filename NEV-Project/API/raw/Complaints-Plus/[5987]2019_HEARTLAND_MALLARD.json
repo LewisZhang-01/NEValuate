@@ -1,0 +1,82 @@
+[
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "03/02/2022",
+        "dateOfIncident": "02/17/2022",
+        "fire": true,
+        "manufacturer": "Heartland Recreational Vehicles, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11454821,
+        "products": [
+            {
+                "manufacturer": "Heartland Recreational Vehicles, LLC",
+                "productMake": "HEARTLAND",
+                "productModel": "MALLARD",
+                "productYear": "2019",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Dometic Corporation",
+                "productMake": "DOMETIC",
+                "productModel": "DOMETIC",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "The contact owns a 2019 Heartland Mallard M27 RV equipped with a Dometic AC unit, Manufacturer number: B57915.711J0, Serial number: 73826296, and Product number: 936002207. The contact stated while he was asleep, he started to smell a burning odor entering through the AC vents. The contact stated he turned off the AC unit and the power. The contact was able to continue sleeping and the odor went away. The contact stated no one was injured or sought medical attention. The contact stated that the electrical wire connectors to the compressor on the AC unit were melted. The contact stated that an independent mechanic came to the RV and replaced the AC unit. The manufacturer had been informed of the failure. The VIN was not available.",
+        "vin": ""
+    },
+    {
+        "components": "WHEELS",
+        "crash": true,
+        "dateComplaintFiled": "07/31/2020",
+        "dateOfIncident": "07/30/2020",
+        "fire": false,
+        "manufacturer": "Heartland Recreational Vehicles, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11342486,
+        "products": [
+            {
+                "manufacturer": "Heartland Recreational Vehicles, LLC",
+                "productMake": "HEARTLAND",
+                "productModel": "MALLARD",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE DEXTER AXLE AND BEARING CAME APART. IN 2018 SEVERAL RECALLS WERE MADE FOR SIMILAR AXLES WITH A DEFECT IN THE BEARING AND HUB CAUSING OVERHEATING AND FAILURE. OUR APPROXIMATELY 5.1-5.2K LBS TRAILER AXLE FAILED IN THE SAME MANNER BUT WASN'T LISTED AND DEXTER IS DENYING A PROBLEM IN THEIR MANUFACTURE / ACTIVE RECALL. PLEASE INITIATE AN INVESTIGATION. OUR WHEEL CAME OFF WHEN DRIVING AND WE RECENTLY HAD IT INSPECTED AND TIRES REPLACED ETC.*DT*JB",
+        "vin": "5SFNB362XKE"
+    },
+    {
+        "components": "WHEELS,EQUIPMENT,SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "09/19/2019",
+        "dateOfIncident": "09/15/2019",
+        "fire": false,
+        "manufacturer": "Heartland Recreational Vehicles, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11256681,
+        "products": [
+            {
+                "manufacturer": "Heartland Recreational Vehicles, LLC",
+                "productMake": "HEARTLAND",
+                "productModel": "MALLARD",
+                "productYear": "2019",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "DEXTER AXLE",
+                "productMake": "DEXTER AXLE",
+                "productModel": "AXLE ASSEMBLE",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "2019 HEARTLAND MALLARD M280 VIN [XXX] - BOUGHT JUNE 12, 2018 FROM CAMPING WORLD IN MONTICELLO, MN.  ONLY USED ON 10 LOCAL CAMPING TRIPS.  LOUD SQUEAKING FROM WHEELS - BROUGHT TO HILLTOP RV IN ROCHESTER, MN ON MONDAY SEPT 16, 2019.  SERVICE REMOVED THE TIRE AND THE BRAKE DRUM FELL OFF.  LUCKY THIS DID NOT OCCUR WHILE DRIVING AND CAUSED SEVERE ACCIDENT OR DEATH.  MIGHT WANT TO INCLUDE MORE UNITS IN YOUR RECALL AS MINE WOULD BE CONSIDERED OUT OF THIS TIME FRAME - HTTP://WWW.ARFC.ORG/RVS/HEARTLAND/MALLARD/RECALLS/000091506003664723000000058/RECALL.ASPX.    INFORMATION REDACTED PURSUANT TO THE FREEDOM OF INFORMATION ACT (FOIA), 5 U.S.C. 552(B)(6).  *TR",
+        "vin": "5SFNB3428KE"
+    }
+]

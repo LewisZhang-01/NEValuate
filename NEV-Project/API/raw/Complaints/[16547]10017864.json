@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "04/30/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017864,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "PLYMOUTH",
+                "productModel": "GRAND VOYAGER",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE ANTI-LOCK BRAKE SYSTEM WARNING LIGHT ILLUMINATED AND WAS TAKEN TO THE DEALER FOR SERVICE.  DEALER DIAGNOSED THE ABS HYDRAULIC CONTROL UNIT HAD FAILED AND NEEDED TO BE REPLACED.  *JB  THE CONTROL UNIT WAS COVERED BY THE MANUFACTURER IN 1998.  FAILURE OF THIS PART COULD ALLOW THE BRAKES TO LOCK UP CAUSING THE VEHICLE TO SLIDE OUT OF CONTROL.  *SCC",
+        "vin": "1P4GP44L5XB"
+    }
+]

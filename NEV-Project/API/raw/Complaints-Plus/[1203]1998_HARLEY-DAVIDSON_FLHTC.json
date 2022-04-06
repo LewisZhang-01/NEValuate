@@ -1,0 +1,68 @@
+[
+    {
+        "components": "WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "03/11/2022",
+        "dateOfIncident": "08/14/2021",
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11456361,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "FLHTC",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The rear rim, PN# 0204-0369 has a recall that i had the honor of purchasing. when we took the hardware off from it i noticed there were 3 broken spokes on it. which is in direct association with the recall. but i was told it was not in the recall date.",
+        "vin": "1HD1DJL18WY"
+    },
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "09/11/2000",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 870114,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "FLHTC",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ORIGINAL AND REPLACEMENT LUGGAGE RACK TOUR BOX BROKE, CAUSING  PASSENGER  TO FALL FROM MOTORCYCLE.  MANUFCTURER AND DEALER HAVE BEEN NOTIFIED.*AK",
+        "vin": "1HD1FCR1XWY"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "10/16/1998",
+        "dateOfIncident": "07/26/1998",
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 829079,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "FLHTC",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER CONTACTED THE DEALER REGARDING RECALL NOTICE 98V158000, MANUFACTURER'S  RECALL 091. DEALER STATES PARTS ARE NOT AVAILABLE, CONSUMER HAS CONTACTED THE DEALER ON A NUMBER OF OCCASIONS IN WHICH THE DEALER STATED PARTS WERE  NOT IN.*AK CONSUMER CONTACTED THE DEALER MOTOR CYCLE FIXED.*ET",
+        "vin": "1HD1DJL11WY"
+    }
+]

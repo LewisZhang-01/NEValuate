@@ -1,0 +1,31 @@
+[
+    {
+        "components": "SEAT BELTS,CHILD SEAT",
+        "crash": false,
+        "dateComplaintFiled": "05/16/2003",
+        "dateOfIncident": "05/15/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 2,
+        "odiNumber": 10018803,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Graco Children's Products, Inc.",
+                "productMake": "GRACO",
+                "productModel": "7493G9",
+                "productYear": "9999",
+                "type": "Child Seat"
+            }
+        ],
+        "summary": "SEAT BELTS DO NOT LOCK PROPERLY RESULTING IN INJURY TO MY TWO CHILDREN. HAS HAPPENED MULTIPLE TIMES. HIT BRAKES HARD AND SEAT BELTS DO NOT RESTRAIN CHILDREN IN CHILD SEATS, CHILD SEATS ARE INSTALLED PROPERLY. I AM NOT COMFORTABLE WITH MY FAMILY IN THIS JEEP. HAVE HEARD MULTIPLE COMPLAINTS FROM OTHER JEEP WRANGLER OWNERS ON THIS MATTER.   *NLM",
+        "vin": "1J4FA49S41P"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "03/11/2003",
+        "dateOfIncident": "03/07/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010270,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "CARAVAN",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "STEERING VIBRATION AT LOW SPEEDS AND GRINDING NOISE FROM UNDER FRONT OF VEHICLE.*JB",
+        "vin": "2B8GP443X1R"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "12/18/2002",
+        "dateOfIncident": "12/18/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001148,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NHTSA#14956-01-F-061-000 LIFT GATE GLASS BRACKET ROTATION OF THE BRACKET   COULD POTENTIALLY CAUSE THE LIFT CYLINDERS TO DETACH FROM THE GLASS: CONSUMER STATES HAS THE SAME PROBLEM. DEALER HAS BEEN NOTIFIED PROVIDE FURTHER INFORMATION. TS  PE04045.PCO",
+        "vin": "PROVIDE"
+    }
+]

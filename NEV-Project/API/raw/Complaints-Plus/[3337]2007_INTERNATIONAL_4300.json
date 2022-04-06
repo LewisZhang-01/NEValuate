@@ -1,0 +1,97 @@
+[
+    {
+        "components": "SUSPENSION,WHEELS",
+        "crash": true,
+        "dateComplaintFiled": "11/30/2015",
+        "dateOfIncident": "03/14/2013",
+        "fire": false,
+        "manufacturer": "Navistar, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10807585,
+        "products": [
+            {
+                "manufacturer": "Navistar, Inc.",
+                "productMake": "INTERNATIONAL",
+                "productModel": "4300",
+                "productYear": "2007",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE FRONT AXLE BEARINGS FAILED ON TWO SEPARATE OCCASIONS WHILE IN TRANSIT. THESE INCIDENTS BOTH TOOK PLACE WITHIN AN 8 MONTH PERIOD OF EACH OTHER. BOTH MECHANICS STATED THAT THE FRONT WHEEL WAS INADEQUATELY LUBRICATED AND THAT IS WHAT CAUSED THE WHEEL TO SEIZE UP AND BREAK OFF AT THE SPINDLE.  THIS FLAW WAS LIKELY DEVELOPED DURING ASSEMBLY WHICH IS WHY THIS ISSUE IS SO COMMON. THIS ISSUE WILL CAUSE BEARING TO  SEIZIE WHICH LEADS TO WHEEL SEPARATION. IN MY CASE BOTH OF THE FRONT WHEELS WERE SEPARATED FROM THE VEHICLE ON 2 SEPARATE OCCASIONS. THE AUTHORIZED MECHANIC THAT I USED EXPLAIND THAT THIS VEHICLE HAS THIS TYPE OF ISSUES ALL THE TIME, \"THIS IS A COMMON ISSUE WITH THIS VEHICLE\". I CONTACTED INTERNATIONAL AND THEY HAVE YET TO RESPOND",
+        "vin": "1HTMMAAL97H"
+    },
+    {
+        "components": "FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "01/06/2014",
+        "dateOfIncident": "12/18/2013",
+        "fire": false,
+        "manufacturer": "Navistar, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10558674,
+        "products": [
+            {
+                "manufacturer": "Navistar, Inc.",
+                "productMake": "INTERNATIONAL",
+                "productModel": "4300",
+                "productYear": "2007",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2007 INTERNATIONAL 4300 TRACTOR. THE CONTACT STATED THAT HE WOULD SMELL FUEL WHENEVER HE WAS IN THE VEHICLE. THE VEHICLE WAS TAKEN TO THE DEALER FOR INSPECTION WHERE THEY STATED THAT THE PRESSURE REGULATOR HAD FAILED. THE VEHICLE WAS NOT REPAIRED. THE MANFACTURER WAS NOT NOTIFIED OF THE FAILURE. THE FAILURE MILEAGE WAS 78,000. THE VIN WAS UNAVAILABLE.",
+        "vin": ""
+    },
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "03/21/2011",
+        "dateOfIncident": "02/09/2011",
+        "fire": false,
+        "manufacturer": "Navistar, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10393185,
+        "products": [
+            {
+                "manufacturer": "Navistar, Inc.",
+                "productMake": "INTERNATIONAL",
+                "productModel": "4300",
+                "productYear": "2007",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2007 INTERNATIONAL 4300, UNIT 1 AND UNIT 2 WERE EASTBOUND ON THE OHIO TURNPIKE.  UNIT 2 STATED ICE FROM UNIT 1 TRAILER FLEW OFF HIS VEHICLE STRIKING UNIT 2 WINDSHIELD.   UNITS MOVED FURTHER UP THE ROAD FROM AREA OF IMPACT.  NO ICE WAS FOUND ON THE ROADWAY.  OFFICER STATED, HE CHECKED UNIT 1 FOR ANY SNOW/ICE ON THE TRAILER.  HE SAW NONE FROM THE INSPECTION FROM GROUND LEVEL.   *BF  (OHIO TRAFFIC CRASH REPORT # 10-0098-91)    UPDATED 03/29/11  *BF",
+        "vin": ""
+    },
+    {
+        "components": "ELECTRICAL SYSTEM,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "06/28/2007",
+        "dateOfIncident": "06/26/2007",
+        "fire": false,
+        "manufacturer": "Navistar, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10194867,
+        "products": [
+            {
+                "manufacturer": "Navistar, Inc.",
+                "productMake": "INTERNATIONAL",
+                "productModel": "4300",
+                "productYear": "2007",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "SOUND OFF, INC.",
+                "productMake": "SOUND OFF",
+                "productModel": "WARNING LAMPS",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "IGNITION SECURITY SYSTEM FAILED, MELTING WIRE; RELAY TERMINAL BLOCK; RELAY AND 100AMP FUSE.*AK",
+        "vin": "1HTMNAAM67H"
+    }
+]

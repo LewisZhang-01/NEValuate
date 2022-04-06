@@ -1,0 +1,24 @@
+[
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "06/25/2003",
+        "dateOfIncident": "06/08/2003",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10023767,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "528I",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "1999 BMW 528I A/C COMPRESSOR FAILURE AT 51,300 MILES.  REQUESTED FACTORY ASSISTANCE WHICH WAS SUBSEQUENTLY DENIED.  BMW WAS WITHIN THEIR RIGHTS AS THE WARRANTY HAD EXPIRED, BUT THERE ARE OTHER DOCUMENTED INCIDENTS WITH FAILURES AROUND THE SAME MILEAGE WHICH MAY INDICATE A DEFECTIVE PART.  BMW APPARENT WILL NOT FIX COMPRESSORS MAKING NOISE EVEN UNDER WARRANTY.  IF TRUE, THIS IS POOR PERFORMANCE FROM THIS AUTOMOBILE MAKER.   *NLM",
+        "vin": "WBADM6330XB"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": true,
+        "dateComplaintFiled": "02/20/2003",
+        "dateOfIncident": "04/17/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10007867,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "SATURN",
+                "productModel": "SL",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I WAS INVOLVED IN A REAR END COLLISION IN APRIL 2002.  I WAS HIT FROM BEHIND WHILE WAITING AT A RED LIGHT.  THE BACK OF MY SEAT COLLAPSED THEREBY RENDERING THE ANTI-WHIPLASH HEAD RESTRAINT INEFFECTIVE.",
+        "vin": "1G8ZK5273WZ"
+    }
+]

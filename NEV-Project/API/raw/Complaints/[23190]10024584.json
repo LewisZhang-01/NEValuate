@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "06/20/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10024584,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CORVETTE",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATES \"THE STEERING COLUMN LOCKS UP, LIGHT HAS ILLUMINATED.  CONSUMER FEELS STEERING COULD LOCK UP AT ANYTIME. *AK  REF. IN EA02-031 *CJS",
+        "vin": "1G1YY32G3Y5"
+    }
+]

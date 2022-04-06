@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "08/23/2013",
+        "dateOfIncident": "08/16/2013",
+        "fire": false,
+        "manufacturer": "Viking RV, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10536889,
+        "products": [
+            {
+                "manufacturer": "Viking RV, LLC",
+                "productMake": "VIKING",
+                "productModel": "EPIC",
+                "productYear": "2008",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "CARLISLE TIRE & RUBBER CO",
+                "productMake": "CARLISLE",
+                "productModel": "RADIAL TRAIL",
+                "productYear": "9999",
+                "size": "ST225/75R15",
+                "type": "Tire"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2008 WW HORSE TRAILER (N/A) EQUIPPED WITH CARLISLE RADIAL TIRES, SIZE: ST225/75R/15. THE CONTACT STATED THAT WHILE THE HORSE TRAILER WAS PARKED, THE FRONT AND REAR DRIVER'S SIDE TIRES BLEW. THE TIRES WERE NOT REPAIRED OR DIAGNOSED. THE MANUFACTURER WAS NOTIFIED OF THE INCIDENT AND WAS INFORMED THAT THE WARRANTY HAD EXPIRED. THE APPROXIMATE FAILURE MILEAGE WAS 1000 AND THE TIRE FAILURE MILEAGE WAS UNKNOWN.",
+        "vin": "11WHH16279W"
+    }
+]

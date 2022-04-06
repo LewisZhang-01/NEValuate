@@ -1,0 +1,24 @@
+[
+    {
+        "components": "TIRES,WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "08/11/2011",
+        "dateOfIncident": "08/03/2011",
+        "fire": false,
+        "manufacturer": "Doubletree RV",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10419088,
+        "products": [
+            {
+                "manufacturer": "Doubletree RV",
+                "productMake": "DOUBLE TREE",
+                "productModel": "MOBILE SUITE",
+                "productYear": "2008",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "RECORDED BY ODI (BOWMAN) FROM PHONE CALL: OWNER EXPRESSED CONCERN ABOUT (1) PERSISTENT LOOSENING OF WHEEL MOUNTING NUTS (SEE VOQ 10357609 AND EA11-007); (2) SPARE TIRE DROP ON ROADWAY WHEN TRAVELING; (3) TWO NEARLY-SIMULTANEOUS SAME-SIDE TIRE FAILURES.",
+        "vin": "5KEFA362781"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "01/10/2003",
+        "dateOfIncident": "01/10/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002505,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CORVETTE",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATED WHILE DRIVING  AT ANY SPEED, THE STEERING WHEEL LOCKED, DEALER HAS BEEN NOTIFIED. PLEASE PROVIDE FURTHER INFORMATION.*JB  REF. IN EA02-031 *CJS",
+        "vin": "1G1YY22G8Y5"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC,ENGINE AND ENGINE COOLING",
+        "crash": true,
+        "dateComplaintFiled": "01/23/2003",
+        "dateOfIncident": "07/01/2001",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004532,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "DURANGO",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN THE BRAKES WERE APPLIED, THEY LOCKED UP, WHICH CAUSED EXTENDED STOPPING DISTANCE, WHICH RESULTED IN AN ACCIDENT.  *TS. AT 81,000 MILES THE ENGINE FAILED, AND THE MASTER CYLINDER, BRAKE BOOSTER AND LINES LEAKED.  *JB",
+        "vin": "1B4HS28Y6XF"
+    }
+]

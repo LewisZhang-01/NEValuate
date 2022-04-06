@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "09/29/2003",
+        "dateOfIncident": "09/26/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10041914,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAVALIER",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING A LOUD NOISE WAS HEARD, AND THE DASHBOARD SPLIT DOWN THE MIDDLE.  THE CAUSE OF THE PROBLEM HAS NOT BEEN DETERMINED.  *AK",
+        "vin": "1G1JC5243Y7"
+    }
+]

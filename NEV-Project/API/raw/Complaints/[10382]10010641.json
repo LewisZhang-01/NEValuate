@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "03/17/2003",
+        "dateOfIncident": "02/17/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010641,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "MY AIR BAG MALFUNCTION LIGHT CAME ON AND UPON A FORD CERTIFIED DIAGNOSTIC I WAS TOLD THERE WAS A SHORT IN THE SYSTEM THAT CONTROLS THE DEPLOYMENT OF THE AIR BAGS.  IN THIS CASE, THE AIR BAGS WILL NOT DEPLOY IN THE CASE OF AN ACCIDENT.  IT WAS CALLED A DEFECTIVE OVERLAY HARNESS THAT CONTROLS THE VOLTAGE OF THE SYSTEM.   *JB",
+        "vin": "1FMZU32E4XZ"
+    }
+]

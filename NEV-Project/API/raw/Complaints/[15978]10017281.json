@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "04/21/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017281,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "GRAND AM",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "A COMPONENT IN THE STEERING WHEEL MALFUNCTIONED WHICH CAUSED TURN SIGNALS TO GO OUT.  THE MECHANIC CHANGED A BULB AND WITHIN AN HOUR THE BULB WAS OUT AGAIN.  *NLM",
+        "vin": "NOT AVAILAB"
+    }
+]

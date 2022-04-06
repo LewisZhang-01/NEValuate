@@ -1,0 +1,31 @@
+[
+    {
+        "components": "POWER TRAIN,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "05/20/2003",
+        "dateOfIncident": "05/19/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018983,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "BLAZER",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "S SERIES",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FOR SEVERAL WEEKS, 4LO LIGHT ON DASH WOULD FLASH AS IF TRYING TO SHIFT INTO 4 WHEEL DRIVE, ON 5/19/03, IT WAS LOCKED INTO 4LO, HAVE NOT BEEN ABLE TO TRANSFER TO 2 WHEEL DRIVE, VERY LOUD GRINDING NOISE IN FRONT END WHEN TRYING TO TAKE OUT OF  4LO.   *NLM",
+        "vin": "1GNDT13W4Y2"
+    }
+]

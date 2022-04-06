@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "06/26/2003",
+        "dateOfIncident": "09/27/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021570,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "MALIBU",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE  BLOWER MOTOR FAILED. THE CONSUMER WAS UNABLE TO DEFROST THE WINDOWS AND WINDSHIELD, WHICH RESULTED IN POOR VISIBILITY.*AK     *TT  *JB",
+        "vin": "1G1ND52T1X6"
+    }
+]

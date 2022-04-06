@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "06/03/2003",
+        "dateOfIncident": "01/01/1901",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022245,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NAR  6-03-2003  *MR  AUTOMATIC TRANSMISSION BURNED UP AS A RESULT OF OVERDRIVE.",
+        "vin": "2GCEC19R8V1"
+    }
+]

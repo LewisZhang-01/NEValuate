@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": true,
+        "dateComplaintFiled": "03/04/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10009770,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "OLDSMOBILE",
+                "productModel": "BRAVADA",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE STALLED WITHOUT WARNING.  THE DEALER INDICATED THAT THIS  PROBLEM WAS CAUSED BY ELECTRICAL PROBLEM, BUT THEY COULD NOT LOCATE IT.  THE FAILURE RECURRED WHILE DRIVING AND RESULTED IN AN ACCIDENT.  *NLM",
+        "vin": ""
+    }
+]

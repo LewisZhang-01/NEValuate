@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "01/15/2003",
+        "dateOfIncident": "01/02/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002720,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "OLDSMOBILE",
+                "productModel": "BRAVADA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TRANSMISSION SLIPS WHEN POWER APPLIED, STRANDING THE VEHICLE IN INTERSECTIONS AND MAKING EMERGENCY MANUVERING EXTREMELY DIFFICULT.",
+        "vin": "1GHDT13S832"
+    }
+]

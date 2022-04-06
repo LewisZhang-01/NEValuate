@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "12/15/2013",
+        "dateOfIncident": "12/02/2013",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10556114,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "NITRO 4X4",
+                "productYear": "2007",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUEL SPILLS FROM FILLER NECK WHEN REFUELING.  *TR",
+        "vin": "1D8GU58K37W"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "01/06/2003",
+        "dateOfIncident": "01/01/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002147,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "TAHOE",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE TRAVELING ON THE HIGHWAY WITHOUT PRIOR WARNING THE FRONT DRIVER SEAT HIT THE BOTTOM.  PLEASE  FILL IN  ADDITIONAL INFORMATION DEALER IS AWARE OF THE PROBLEM. PH",
+        "vin": "PLEASE FILL"
+    }
+]

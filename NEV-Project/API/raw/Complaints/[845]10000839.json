@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": true,
+        "dateComplaintFiled": "01/08/2003",
+        "dateOfIncident": "01/02/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 1,
+        "numberOfInjuries": 1,
+        "odiNumber": 10000839,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "PLYMOUTH",
+                "productModel": "NEON",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVING ON FREEWAY AT APPROX. 60MPH.  STEERING BECAME HARD TO STEER.  SWIRVED TO AVOID HITTING SIDE VEHICLES.  BREAKS BECAME LOOSE, UNABLE TO SLOW DOWN.  THE PLYMOUTH NEON 02, BECAME OUT OF CONTROL.  THEREAFTER, SPINNING AROUND TO FLIP ON IT'S DRIVER SIDE COMING TO A REST IN AN EMBAKEMENT.  NO AIRBAGS EMPLOYED.",
+        "vin": ""
+    }
+]

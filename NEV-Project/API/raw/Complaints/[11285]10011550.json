@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "03/12/2003",
+        "dateOfIncident": "03/12/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10011550,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "CAMRY",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE HIT A PATCH OF BLACK ICE AND WENT INTO A SPIN, THE VEHICLE HIT A HIGHWAY SIGN, A FENCE, AND THEN A TREE, AND THE AIR BAGS FAILED TO DEPLOY, CONSUMER SUFFERED INJURIES.  *JB",
+        "vin": ""
+    }
+]

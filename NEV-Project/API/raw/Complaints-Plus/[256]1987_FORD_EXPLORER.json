@@ -1,0 +1,68 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "05/07/2001",
+        "dateOfIncident": "05/06/2001",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 745034,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "1987",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TIRE \"DETREADED\" AT HIGHWAY SPEED, CAUSING MAJOR FENDER  AND ELECTRICAL DAMAGE TO TAILLIGHT.  FORTUNATELY THE TIRE DID NOT GO FLAT.  *AK (DOT NUMBER: HYKC FRX  TIRESIZE: P205 75 R1)",
+        "vin": ""
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "04/20/2001",
+        "dateOfIncident": "01/01/2001",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 886401,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "1987",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "PE00 020; CONSUMER WAS TRAVELING ABOUT 55MPH ON  HIGHWAY AND HEARD A SLAPPING NOISE.  HE CONTINUED TO DRIVE, AND AND WHEN HE GOT HOME,  HE NOTICED THAT  LEFT REAR TIRE TREAD HAD SEPARATED FROM VEHICLE.    FIRESTONE, WILDERNESS AT,  P23575R16,  THERE WERE NO INJURIES.*AK",
+        "vin": "1FMDUS4E3VZ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "08/16/1996",
+        "dateOfIncident": "08/16/1996",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 507612,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "1987",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ANTILOCK BRAKES LOCK UP UPON ENGAGEMENT, CAUSING VEHICLE TO SKID MOMENTARILY.",
+        "vin": ""
+    }
+]

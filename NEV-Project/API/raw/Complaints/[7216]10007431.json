@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": true,
+        "dateComplaintFiled": "10/02/2002",
+        "dateOfIncident": "04/11/2000",
+        "fire": true,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10007431,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "CIRRUS",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CAR CONSUMED BY FIRE - FUEL LINE FRONT OF ENGINE SEVERED WITH FRONT END COLLISION.         *PH  *JB    **DIMSII IVOQ ENTRY POSTED AFTER 12/12/02 CUT OVER TO ARTEMIS**768010",
+        "vin": "1C3EJ56H5YN"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN,ELECTRICAL SYSTEM,SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "01/05/2019",
+        "dateOfIncident": "12/04/2018",
+        "fire": true,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11165364,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "productYear": "2017",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AC COMPRESSOR FAILURE AND BAD TRANSMISSION. LEAKING ANTIFREEZE",
+        "vin": "1C4BJWDG8HL"
+    }
+]

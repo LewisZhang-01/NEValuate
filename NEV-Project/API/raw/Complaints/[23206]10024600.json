@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "06/20/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10024600,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "ACCORD",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CRUISE CONTROL DISENGAGED WHILE BEING ON.MANUFACTURER WAS NOT CONTACTED AT THE TIME OF THE CALL.*AK",
+        "vin": ""
+    }
+]

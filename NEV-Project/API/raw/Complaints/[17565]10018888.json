@@ -1,0 +1,24 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "05/18/2003",
+        "dateOfIncident": "05/17/2003",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018888,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "PATHFINDER",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SPEEDOMETER/ODOMETER FAILS TO GIVE CORRECT SPEED OF THE VEHICLE.  WHILE DRIVING SOMETIMES IT WORKS, AND SOMETIMES IT DOES NOT WORK.  *JB",
+        "vin": "JN8HD17Y7SW"
+    }
+]

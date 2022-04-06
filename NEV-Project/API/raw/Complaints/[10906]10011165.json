@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "03/10/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10011165,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAPRICE",
+                "productYear": "1990",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE DRIVER AND PASSENGER SEAT BELTS WERE ANCHORED TO THE DOOR,  IF THE DOOR OPENED, THE PASSENGER WAS NOT SECURE. *JB",
+        "vin": "NOT AVAILAB"
+    }
+]

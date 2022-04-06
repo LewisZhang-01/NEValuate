@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "01/27/2003",
+        "dateOfIncident": "01/25/2003",
+        "fire": true,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003492,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ELECTRICAL FIRE IN DRIVER'S SIDE DOOR OF 1999 GMC SIERRA 1500 PICKUP.  HEAVY SMOKE DAMAGE, DOOR PANEL DESTROYED, TRIM AROUND THE DOOR DESSTROYED AND SMALL AREA OF CARPET BURNT BY DOOR",
+        "vin": "1GTEC19M3XR"
+    }
+]

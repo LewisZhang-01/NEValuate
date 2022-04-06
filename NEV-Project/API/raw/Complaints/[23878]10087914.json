@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "08/16/2004",
+        "dateOfIncident": "08/13/2004",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10087914,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "ESCORT",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "MS",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "LARGE CHUNKS OF TREAD CAME OFF THE INSIDE OF THE FRONT LEFT TIRE, AND CRACKS HAD DEVELOPED ON THE SIDE WALL. THIS RESULT IN THE VEHICLE SHAKING SEVERELY WHILE DRIVING. THE DEALERSHIP WILL BE CONTACTED.   *JB",
+        "vin": "3FAKP1130YR"
+    }
+]

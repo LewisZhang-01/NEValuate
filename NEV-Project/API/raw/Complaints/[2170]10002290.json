@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, AIR",
+        "crash": false,
+        "dateComplaintFiled": "01/07/2003",
+        "dateOfIncident": "01/01/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002290,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "ROADMASTER",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE ABS BRAKING SYSTEM IS LEAKING BRAKE FLUID FROM THE SIDE OF THE BRAKES.  PLEASE FILL IN ADDITIONAL INFORMATION DEALER IS AWARE OF THE PROBLEM. TS",
+        "vin": "1G4BN5370NR"
+    }
+]

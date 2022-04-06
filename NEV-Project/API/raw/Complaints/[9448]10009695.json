@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "03/03/2003",
+        "dateOfIncident": "02/24/2003",
+        "fire": false,
+        "manufacturer": "Isuzu Technical Center of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009695,
+        "products": [
+            {
+                "manufacturer": "Isuzu Technical Center of America, Inc.",
+                "productMake": "ISUZU",
+                "productModel": "RODEO",
+                "productYear": "9999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN THE BRAKES WERE APPLIED IN INCLEMENT WEATHER, THE ABS DID NOT HOLD, WHICH CAUSED THE VEHICLE TO SKID.*JB",
+        "vin": "PLEASE FILL"
+    }
+]

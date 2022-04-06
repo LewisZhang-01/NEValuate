@@ -1,0 +1,68 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "06/13/1995",
+        "dateOfIncident": "06/13/1995",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 966726,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-450 SD",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE BELT THAT RUN EVERY THING AND IT COMES OFF THE TRACK AND CAUSES THE TRUCK TO LOOSE POWER. PLEASE EXPLAIN.  TT",
+        "vin": ""
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "05/02/1995",
+        "dateOfIncident": "03/02/1992",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 964614,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-450 SD",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUEL TANKS ARE NOT PROPERLY VENTILATED AND BLOWS FUEL ON OCCUPANTS.  TT",
+        "vin": "2FDLF47M8NC"
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "03/28/1995",
+        "dateOfIncident": "03/28/1995",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 962673,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-450 SD",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN VEHICLE IS HOT, AUTOMATIC TRANSMISSION WILL NOT WORK, TRUCK WILL NOT MOVE.  TT",
+        "vin": "2FDLF47G4NC"
+    }
+]

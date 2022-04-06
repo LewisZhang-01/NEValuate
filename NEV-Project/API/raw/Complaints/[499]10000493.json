@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "01/03/2003",
+        "dateOfIncident": "12/31/2002",
+        "fire": true,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000493,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "STRATUS",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "RUPTURE IN POWER STEERING HOSE CAUSED POWER STEERING FLUID TO TO CONTACT HOT EXHAUST MANIFOLD, RESULTING IN A FIRE THAT MELTED IGNITION WIRES, DISTRIBUTOR, AND POWER STEERING RETURN FLUID LINE. TS",
+        "vin": "1B3EJ46X2TN"
+    }
+]

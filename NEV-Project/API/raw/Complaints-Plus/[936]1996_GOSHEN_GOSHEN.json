@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "04/17/1997",
+        "dateOfIncident": "11/01/1996",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 516533,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "GOSHEN",
+                "productModel": "GOSHEN",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CROSS MEMBER CRACKED. (1ST VEHICLE ON 603325)",
+        "vin": "1FDKE30F4TH"
+    }
+]

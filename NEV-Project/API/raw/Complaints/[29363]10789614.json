@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "11/10/2015",
+        "dateOfIncident": "11/05/2015",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10789614,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "AVENGER",
+                "productYear": "2008",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUEL ERUPTS FROM THE FILLER TUBE EVERY TIME THE TANK IS FILLED. WHEN THE NOZZLE SHUTS OFF WHETHER IT IS AUTOMATICALLY OR MANUALLY SHUT OFF THE FUEL STILL SPLASHES BACK THROUGH THE FILL TUBE CAUSING A SAFETY HAZARD.",
+        "vin": "1B3LC56R18N"
+    }
+]

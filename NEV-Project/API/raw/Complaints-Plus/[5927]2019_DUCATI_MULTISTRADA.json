@@ -1,0 +1,46 @@
+[
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "04/06/2021",
+        "dateOfIncident": "12/01/2020",
+        "fire": false,
+        "manufacturer": "Ducati North America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11406777,
+        "products": [
+            {
+                "manufacturer": "Ducati North America",
+                "productMake": "DUCATI",
+                "productModel": "MULTISTRADA",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE MOTORCYCLE'S REAR BRAKE IS ALMOST NON-EXISTENT.  VERY \"MUSHY\" WHEN THE PEDAL IS PRESSED AND YOU MUST PRESS VERY HARD TO GET THE CALIPERS TO BITE THE ROTOR.  THIS IS VERY NOTICEABLE DURING LOW SPEED RIDING.",
+        "vin": "ZDMAAEKW7KB"
+    },
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "03/05/2021",
+        "dateOfIncident": "02/21/2021",
+        "fire": false,
+        "manufacturer": "Ducati North America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11399374,
+        "products": [
+            {
+                "manufacturer": "Ducati North America",
+                "productMake": "DUCATI",
+                "productModel": "MULTISTRADA",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "REAR BRAKE IS WEAK, SOMETIMES FAULTY, SOMETIMES DEMANDING TOO MUCH PRESSURE TO START ACTING AND IT DOESN'T BRAKE STRONG ENOUGH.",
+        "vin": "ZDMAAEDT5KB"
+    }
+]

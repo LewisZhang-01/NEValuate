@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION,AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "06/16/2017",
+        "dateOfIncident": "01/01/2017",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10995614,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "TACOMA",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AIRBAG SYSTEM FAILURE  BROKEN LEAF SPRINGS.",
+        "vin": "5TEWN72N92Z"
+    }
+]

@@ -1,0 +1,97 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "07/26/2010",
+        "dateOfIncident": "06/09/2010",
+        "fire": false,
+        "manufacturer": "Great Dane Trailers",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10345521,
+        "products": [
+            {
+                "manufacturer": "Great Dane Trailers",
+                "productMake": "GREAT DANE",
+                "productModel": "TRAILER",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER WAS DRIVING A 2005 INTERNATIONAL 9400I, BUT THE 2006 GREAT DANE TRAILER HE WAS TOWING HAD THE TIRE BLOW OUT.  RIGHT REAR TIRE ON UNIT 1 BLEW.  TIRE RE-TREAD FROM UNIT 1 STRUCK UNIT 2 GRILL.   *BF  (OHIO TRAFFIC CRASH POLICE REPORT # 10-078-90. *JB     UPDATED 08/06/10  *BF",
+        "vin": ""
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "03/15/2007",
+        "dateOfIncident": "03/14/2006",
+        "fire": false,
+        "manufacturer": "Great Dane Trailers",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10185157,
+        "products": [
+            {
+                "manufacturer": "Great Dane Trailers",
+                "productMake": "GREAT DANE",
+                "productModel": "TRAILER",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL*  THE CONTACT'S EMPLOYER OWNS A 2006 GREAT DANE TRAILER.  THE ELECTRICAL SYSTEM H FAILED.  THE MANUFACTURER DIAGNOSED THE TRAILER AS NEEDING A NEW WIRING HARNESS.   THE CURRENT AND FAILURE MILEAGE WAS UNKNOWN.  THE TRAILER INFORMATION UNKNOWN.",
+        "vin": "1GRAA06236B"
+    },
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "12/18/2006",
+        "dateOfIncident": "11/29/2006",
+        "fire": false,
+        "manufacturer": "Great Dane Trailers",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10176393,
+        "products": [
+            {
+                "manufacturer": "Great Dane Trailers",
+                "productMake": "GREAT DANE",
+                "productModel": "TRAILER",
+                "productYear": "2006",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "DT*: THE CONTACT STATED THE REAR AND SIDE LIGHT MARKERS COULD NOT BE SEEN IN THE REAR MIRRORS WHEN THE TRAILER WAS BEING TOWED, ALTHOUGH THE GLOW WAS VISIBLE.  THE MANUFACTURER WAS NOTIFIED.  MANUFACTURER: GREAT DANE TRAILERS.  MODEL: FREEDOM",
+        "vin": ""
+    },
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "12/17/2005",
+        "dateOfIncident": "10/23/2005",
+        "fire": false,
+        "manufacturer": "Great Dane Trailers",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10145524,
+        "products": [
+            {
+                "manufacturer": "Great Dane Trailers",
+                "productMake": "GREAT DANE",
+                "productModel": "TRAILER",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "REAR AXLE OF 2006 GREAT DANE TRAILER IS OVER HEATING TO THE POINT THAT IT MELTS THE OIL CAPS. HAS BEEN IN THE GARAGE THREE TIMES, EACH TIME THEY LOOSENED THE BEARINGS 0.001 OF AN INCH EVEN THOUGH IT STATES IN THE MANUAL THAT ADJUSTING NUT SHOULD BE TORQUE TO 50 LB-FT NOT LOOSENED. LOOSENING THE ADJUSTING NUT COULD CAUSE THE WHEEL TO COME OFF DURING VEHICLE OPERATION.  *JB",
+        "vin": "1GRAA93266W"
+    }
+]

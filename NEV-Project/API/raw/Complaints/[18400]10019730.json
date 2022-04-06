@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "05/13/2003",
+        "dateOfIncident": "05/07/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019730,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "BLAZER",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE CONSUMERS VEHICLE HAD THE SAME AS THE NHTSA RECALL RELATED TO THE WINDSHIELD WIPER.  THE DEALER REFUSED REPAIR BECAUSE THE VEHICLE VIN WAS NOT INCLUDED IN THE RECALL.  *NLM",
+        "vin": "1GNDT13W3W2"
+    }
+]

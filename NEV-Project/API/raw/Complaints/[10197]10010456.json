@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": true,
+        "dateComplaintFiled": "03/14/2003",
+        "dateOfIncident": "06/02/2002",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10010456,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "INTREPID",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "LOSS OF STEERING CONTROL. VEHICLE VEERED RIGHT AND WOULD NOT RESPOND.  *JB",
+        "vin": "2B3HD56JXYH"
+    }
+]

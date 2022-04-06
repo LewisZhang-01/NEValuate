@@ -1,0 +1,24 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "07/17/2002",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10006943,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SAFARI",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FLAT TIRE CANNOT BE REPAIRED.  CAN PRESENT SAFETY PROBLEM IF DRIVER TRIES TO DRIVE CAR WITHOUT FIXING FLAT.  *AK   *NLM      **DIMSII  IVOQ ENTRY POSTED AFTER 12/12/02 CUT-OVER TO ARTEMIS*764370",
+        "vin": "1GKEL19W7TB"
+    }
+]

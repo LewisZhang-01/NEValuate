@@ -1,0 +1,90 @@
+[
+    {
+        "components": "WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "04/30/2007",
+        "dateOfIncident": "03/21/2007",
+        "fire": false,
+        "manufacturer": "Great Dane Trailers",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10190049,
+        "products": [
+            {
+                "manufacturer": "Great Dane Trailers",
+                "productMake": "GREAT DANE",
+                "productModel": "TRAILER",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "1999 GREAT DANE TRAILER.  CONSUMER WAS EASTBOUND ON THE OHIO TURNPIKE  WHEN THE RIGHT REAR TRAILER WHEEL CAME OFF.  CONSUMER WAS PULLING INTO A PLAZA WHEN THE SECOND WHEEL CAME OFF. *MC  THE RIGHT REAR WHEELS SEPARATED FROM THE TRAILER DUE TO THE LUG BOLTS/NUTS SHEARING OFF. (OHIO TRAFFIC CRASH REPORT) *JB",
+        "vin": "1GRAA9620XW"
+    },
+    {
+        "components": "WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "12/01/2006",
+        "dateOfIncident": "10/03/2006",
+        "fire": true,
+        "manufacturer": "Great Dane Trailers",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10176425,
+        "products": [
+            {
+                "manufacturer": "Great Dane Trailers",
+                "productMake": "GREAT DANE",
+                "productModel": "TRAILER",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE 1999 GREAT DANE TRAILER'S LEFT TANDEM WHEELS CAUGHT ON FIRE.  *TS  THE WAS DAMAG TO THE REAR TANDEM WHEELS, TRAILER FLOOR, AND TO THE SIDE OF THE TRAILER.  *NM",
+        "vin": "1GRAA9625XW"
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": true,
+        "dateComplaintFiled": "05/11/2004",
+        "dateOfIncident": "05/08/2002",
+        "fire": false,
+        "manufacturer": "Great Dane Trailers",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10073779,
+        "products": [
+            {
+                "manufacturer": "Great Dane Trailers",
+                "productMake": "GREAT DANE",
+                "productModel": "TRAILER",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER WAS INJURED WHEN THE GREAT DANE TRAILER HIS TRACTOR RIG WAS PULLING FAILED. *MR  WHILE DRIVING THE TRAILER ON THE VEHICLE LOST IT'S REAR AXLES.  THE AXLES WENT ACROSS THE ROAD AND COLLIDED WITH THE GUARDRAIL.  THE TRAILERS LOAD SHIFTED WHICH CAUSED THE TRAILER TO ROLL ONTO IT'S RIGHT SIDE AND SLIDE ALONG THE EMBANKMENT.  THE TRACTOR'S FRONT END COLLIDED INTO THE EMBANKMENT.  THE TRACTORS AIR BAGS DID NOT DEPLOY.  THE DRIVER WAS INJURED ((STATE OF COLORADO TRAFFIC ACCIDENT REPORT).  *NM",
+        "vin": "1GRAA0622XB"
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "07/30/2002",
+        "dateOfIncident": "05/21/2002",
+        "fire": false,
+        "manufacturer": "Great Dane Trailers",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 566997,
+        "products": [
+            {
+                "manufacturer": "Great Dane Trailers",
+                "productMake": "GREAT DANE",
+                "productModel": "TRAILER",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING, THE FRONT AXLE ON THE LEFT SIDE OF THE TRAILER BROKE, THE ALUMINUM HOUSING WHICH COVERS THE WHEEL BEARING CAME OFF OF THE AXLE.(OHIO TRAFFIC REPORT, 10-91-274)*JB",
+        "vin": ""
+    }
+]

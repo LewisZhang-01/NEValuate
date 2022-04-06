@@ -1,0 +1,46 @@
+[
+    {
+        "components": "TIRES",
+        "crash": true,
+        "dateComplaintFiled": "08/17/2000",
+        "dateOfIncident": "11/13/1981",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 728225,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TAURUS",
+                "productYear": "1981",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FIRESTONE TIRE FAILURE IS NOT A NEW THING.  I HAD THE SAME PROBLEM ALMOST 19 YEARS AGO WHEN I WAS PREGNANT WITH MY DAUGHTER AND ENDED UP IN A DITCH AFTER A BLOW OUT AT 70 MPH.  THE OUTER TREAD COMPLETELY SEPERATED FROM THE TIRE AND THERE WAS WIRE ALL OVER( DOT NUMBER:   )",
+        "vin": ""
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "11/22/1999",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 549680,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TAURUS",
+                "productYear": "1981",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SPEEDOMETER MALFUNCTIONS. YH",
+        "vin": "1MELM5040BG"
+    }
+]

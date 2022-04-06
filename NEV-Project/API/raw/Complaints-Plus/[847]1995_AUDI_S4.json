@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "04/22/2000",
+        "dateOfIncident": "04/22/2000",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 721807,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "AUDI",
+                "productModel": "S4",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUEL SUPPLY LINE LEAK. SAME AS NHTSA RECALL CAMPAIGN # 00V068000.  *AK",
+        "vin": "WAUKA84A2SN"
+    }
+]

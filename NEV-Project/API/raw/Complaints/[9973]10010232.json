@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "03/10/2003",
+        "dateOfIncident": "03/06/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010232,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERCURY",
+                "productModel": "MOUNTAINEER",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2000 MERCURY MOUNTAINEER DIAGNOSED WITH TRANSMISSION FAILURE - SLIPPING BETWEEN 2ND & 3RD GEARS.  VEHICLE ONLY HAS 50000 MILES.*JB",
+        "vin": "4M2ZU76E4YU"
+    }
+]

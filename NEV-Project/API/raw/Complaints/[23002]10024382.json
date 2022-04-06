@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "06/18/2003",
+        "dateOfIncident": "06/18/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10024382,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXCURSION",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ELECTRICAL SOCKET INSIDE THE VEHICLE WILL COME ON AND OFF INTERMITTENTLY.  *AK",
+        "vin": ""
+    }
+]

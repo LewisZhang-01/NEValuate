@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": true,
+        "dateComplaintFiled": "12/17/2002",
+        "dateOfIncident": "11/30/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 2,
+        "odiNumber": 10001089,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "1998",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "P25570R16",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WAS DRIVING APPROXIMATELY 75MPH WHEN THE TREAD SEPARATED FROM THE TIRE. THIS CAUSED THE VEHICLE TO BE STEERED TOWARDS A HILL AND BOUNCED OFF IT. THE VEHICLE THEN ROLLED OVER AND LANDED ONTO THE LANE, ON ITS ROOF. FIRESTONE WILDERNESS AT; SIZE P255 70R16. TS",
+        "vin": "PLEASE FILL"
+    }
+]

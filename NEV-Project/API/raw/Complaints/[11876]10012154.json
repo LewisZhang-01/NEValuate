@@ -1,0 +1,32 @@
+[
+    {
+        "components": "SUSPENSION,SERVICE BRAKES, HYDRAULIC,TIRES",
+        "crash": false,
+        "dateComplaintFiled": "04/03/2003",
+        "dateOfIncident": "01/07/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10012154,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "VIBE",
+                "productYear": "2003",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "DUNLOP TIRE CORPORATION",
+                "productMake": "DUNLOP",
+                "productModel": "SP SPORT",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "DEFECTIVE ANTI-LOCK BRAKE SYSTEM. * MR  THE BRAKES WOULD GRIND, MAKE NOISES, PULSATE ON DRY PAVEMENT AT LOW SPEEDS, AND THE VEHICLE PULLED TO THE SIDE SHARPLY UPON BRAKING.  THE VEHICLE PULLED TO THE SIDE WHILE IN MOTION.  THE TIRES FELT AS IF THEY HAD NO TRACTION.  THE CONSUMER WAS ABLE TO AVOID ACCIDENTS WHEN THE VEHICLE WOULD LOSE CONTROL DURING MILD WEATHER.  (POSSIBLE DOT # 0156-82/MODEL 9000M)  SCC   *JB",
+        "vin": "5Y2SL648132"
+    }
+]

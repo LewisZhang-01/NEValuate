@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "01/06/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002151,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "MONTANA",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "PASSENGER'S SIDE FRONT SEATBELT FAILED TO LOCK WHEN ANOTHER VEHICLE PLOWED INTO CONSUMER'S  VEHICLE FRONT END. NEITHER OF  VEHICLE'S FRONTAL OR REAR AIRBAGS DEPLOYED.    PH...*AK",
+        "vin": ""
+    }
+]

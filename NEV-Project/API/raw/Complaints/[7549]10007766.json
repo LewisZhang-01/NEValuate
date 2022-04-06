@@ -1,0 +1,31 @@
+[
+    {
+        "components": "FUEL SYSTEM, OTHER,ELECTRICAL SYSTEM,AIR BAGS,SEAT BELTS,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "02/18/2003",
+        "dateOfIncident": "11/23/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10007766,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "ESCAPE",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "AIR BAG SWITCH",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "ON MY NEW FORD ESCAPE 2002 BOUGHT 8-2002. MY GAS PEDAL STUCK, MY BRAKES WERE LEAKING FLUID MY IGNITION HAS BROKE. MY PASSANGER SIDE REAR DOOR WILL NOT OPEN OR CLOSE PROPERLY AND HAS OPENED WHILE THE VEHICLE IS IN MOTION. THERE IS A VIBRATION IN MY LEFT FRONT END AND MY AIR BAG WARNING LIGHT STAYS ON AT TIMES MY DRIVER SIDE SAFTEY RESTRAINT HAS SHEARED AND HAD TO BE REPLACED",
+        "vin": ""
+    }
+]

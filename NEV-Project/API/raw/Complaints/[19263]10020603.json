@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "05/27/2003",
+        "dateOfIncident": "05/24/2003",
+        "fire": false,
+        "manufacturer": "FOUR WINDS CMPR. MFG. CO.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020603,
+        "products": [
+            {
+                "manufacturer": "FOUR WINDS CMPR. MFG. CO.",
+                "productMake": "FOUR WINDS",
+                "productModel": "FOUR WINDS",
+                "productYear": "1998",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "LT22575R16E",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "LOST BACK TIRE TREAD ON HIGHWAY AT 6:30AM AFTER WE PAST A BORDER PATROL CHECK POINT; SECOND BACK TIRE BLEW OUT AFTER TWO HOURS THAT WE CHANGED THE FIRST ONE.  THE FIRST TIRE CAUSED DAMAGES TO MY R.V.   THE R.V. HAS 15,000 MILES.  TIRES SIZE LT 225/75R 16.    *TT",
+        "vin": "1FDLE40S4VH"
+    }
+]

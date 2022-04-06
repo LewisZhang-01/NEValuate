@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC,VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "06/20/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10024626,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "MAXIMA",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN BRAKES ARE APPLIED VEHICLE ACCELERATES INSTEAD OF SLOWING DOWN.  DEALER HAS BEEN UNABLE TO DUPLICATE PROBLEM.*AK",
+        "vin": "JN1DA31D02T"
+    }
+]

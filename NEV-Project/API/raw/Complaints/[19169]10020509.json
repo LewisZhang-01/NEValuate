@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "05/23/2003",
+        "dateOfIncident": "05/23/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020509,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "ASPIRE",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE DRIVER LOST CONTROL OF THE VEHICLE WHEN THE RIGHT WHEEL HIT A GRAVEL PATCH AND SLID INTO A EMBANKMENT.  THE DRIVER SIDE AIR BAG DIDN'T DEPLOY.   *NLM",
+        "vin": "KNJLT05H0T6"
+    }
+]

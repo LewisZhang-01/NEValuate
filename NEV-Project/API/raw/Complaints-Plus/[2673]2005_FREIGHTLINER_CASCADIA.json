@@ -1,0 +1,31 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "07/27/2018",
+        "dateOfIncident": "06/15/2018",
+        "fire": false,
+        "manufacturer": "Daimler Trucks North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11114169,
+        "products": [
+            {
+                "manufacturer": "Daimler Trucks North America, LLC",
+                "productMake": "FREIGHTLINER",
+                "productModel": "CASCADIA",
+                "productYear": "2005",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2005 FREIGHTLINER CASCADIA EQUIPPED WITH AEOLUS ASL67 TIRES, SIZE: 295/75/R22.5 (NA). WHILE DRIVING VARIOUS HIGHWAY SPEEDS, A NOISE WAS PRESENT COMING FROM THE FRONT OF THE VEHICLE. THE VEHICLE WAS TAKEN TO AN UNKNOWN LOCAL SERVICE FACILITY WHO DETERMINED THAT THE FRONT DRIVER AND PASSENGER SIDE TIRES EXPERIENCED TREAD SEPARATION. THE TIRES WERE REPLACED. THE CAUSE OF THE FAILURES WAS NOT DETERMINED. THE MANUFACTURER WAS NOT NOTIFIED. THE VEHICLE AND TIRE FAILURE MILEAGE, VIN, AND DOT NUMBER WERE NOT AVAILABLE.",
+        "vin": ""
+    }
+]

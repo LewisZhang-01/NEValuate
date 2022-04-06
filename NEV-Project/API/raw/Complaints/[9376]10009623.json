@@ -1,0 +1,32 @@
+[
+    {
+        "components": "SUSPENSION,SERVICE BRAKES, HYDRAULIC,ENGINE AND ENGINE COOLING,FUEL SYSTEM, GASOLINE,POWER TRAIN,STRUCTURE,TIRES",
+        "crash": false,
+        "dateComplaintFiled": "03/18/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009623,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE STEEL PROD. CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "FIRESTONE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE ENGINE MISSED USUALLY MILDLY, BUT SOMETIMES VIOLENTLY AS TO SHAKE VEHICLE AND SOMETIMES STALL,  ALSO THE VEHICLE EXPERIENCED A RAW GAS SMELL, SUSPENSION, BRAKE,TRANSMISSION AND TIRE PROBLEMS.*AK. CONSUMER ALSO NOTED THE REAR HATCH POPPED OPEN BY ITSELF.*JB",
+        "vin": "3FAFP31361R"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "09/11/2014",
+        "dateOfIncident": "11/11/2011",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10632614,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "MUSTANG",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE PAINT ON THE FRONT LIP OF THE HOOD IS BUBBLING.  THIS WILL REDUCE ITS FUTURE VALUE.  *TR",
+        "vin": "1ZVHT82H065"
+    }
+]

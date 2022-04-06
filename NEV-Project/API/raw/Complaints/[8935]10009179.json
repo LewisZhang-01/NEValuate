@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "02/24/2003",
+        "dateOfIncident": "02/24/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009179,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "GRAND CHEROKEE",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE FUEL GAUGE DID NOT READ THE CORRECT AMOUNT OF FUEL IN TANK.  WHICH WAS DUE TO A DEFECTIVE FUEL SENDING UNIT ON TANK.  RELATED RECALL 97V194002, HOWEVER THE VEHICLE IDENTIFICATION NUMBER WAS NOT INCLUDED.*JB",
+        "vin": "1J4FX58S6VC"
+    }
+]

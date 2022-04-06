@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "05/19/2003",
+        "dateOfIncident": "05/19/2003",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020122,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "AUDI",
+                "productModel": "A6",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "A RECALL REPAIR RELATED TO THE DISCHARGE OF STATIC ELECTRICITY, WHICH MAY CAUSE THE AIR BAG TO DEPLOY, FAILED.    *NLM",
+        "vin": "PROVIDE"
+    }
+]

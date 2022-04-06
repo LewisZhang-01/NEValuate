@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "06/07/2003",
+        "dateOfIncident": "04/23/2003",
+        "fire": true,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10024679,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "BLAZER",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SMOKE COMING FROM ENGINE COMPARTMENT, VEHICLE CUT OFF.  NAR 06/18/2003 *MR   *CB",
+        "vin": "9999"
+    }
+]

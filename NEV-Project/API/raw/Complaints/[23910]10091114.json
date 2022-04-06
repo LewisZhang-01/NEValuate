@@ -1,0 +1,31 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "09/16/2004",
+        "dateOfIncident": "09/16/2004",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10091114,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "ARMADA",
+                "productYear": "2004",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Brake Parts Inc.",
+                "productMake": "BRAKE PARTS",
+                "productModel": "DISC BRAKE ROTOR",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "BRAKES SHUDDERING-IT'S BEEN IN TWICE ALREADY AND FIXED UNDER A TSB BUT THE PROBLEM IS HAPPENING AGAIN. NISSAN CORP HAS A CASE MANAGER ASSIGNED ALREADY. IDA COHEN.  *JB",
+        "vin": ""
+    }
+]

@@ -1,0 +1,310 @@
+[
+    {
+        "components": "STEERING",
+        "crash": true,
+        "dateComplaintFiled": "06/02/2010",
+        "dateOfIncident": "04/19/2010",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10334847,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "RAM",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "1985 DODGE RAM 3500 PICKUP, STEERING LINKAGE BROKE CAUSING THE VEHICLE TO STRIKE A CONCRETE WALL.   *BF  OHIO TRAFFIC CRASH REPORT # 10-0190-91. *JB",
+        "vin": ""
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "06/12/2002",
+        "dateOfIncident": "05/12/2002",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 8011678,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "RAM",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "POOR  BRAKE PERFORMANCE CAUSING VEHICLE TO PROLONG THE STOP. CAUSE UNKNOWN. DEALER NOTIFIED.  *AK",
+        "vin": "1B7K26COSS2"
+    },
+    {
+        "components": "SERVICE BRAKES, AIR",
+        "crash": false,
+        "dateComplaintFiled": "06/25/1998",
+        "dateOfIncident": "11/01/1997",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 537491,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "RAM",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKE SYSTEM FAILURE DUE TO BRAKE VACUUM PUMP AND HOSES HAVING OIL IN THEM.  ACCORDING TO NHTSA'S RECORDS RECALL 97V06800 SHOULD COVER THIS VEHICLE, CHRYSLER CLAIMS IT DOES NOT APPLY.",
+        "vin": "3B7KC23C9SM"
+    },
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "04/23/1998",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 534487,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "RAM",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER NOT SATISFIED WITH RECALL REPAIR WORK, STEERING SHAFT COULD COME LOOSE, THE REPAIR WAS TO ATTACH TWO PLASTIC STRAPS AROUND STEERING SHAFT.",
+        "vin": "1B7HC16Y8SS"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "03/18/1998",
+        "dateOfIncident": "06/21/1996",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 516906,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "RAM",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENGINE FAILURE",
+        "vin": "2B6FK13GOFR"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "01/09/1998",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 516906,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "RAM",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENGINE FAILURE/BURNING DUE TO DEFECTIVE HOSES AND FITTINGS IN AMSOIL BY-PASS KIT, RECALLED AFTER INCIDENT.",
+        "vin": ""
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "07/01/1997",
+        "dateOfIncident": "06/21/1996",
+        "fire": true,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 603362,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "RAM",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "OIL HOSE FAILED, CAUSING LEAKAGE/ENGINE FIRE.",
+        "vin": ""
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "07/01/1997",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 603362,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "RAM",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "OIL LEAK AT OIL FILTER.",
+        "vin": ""
+    },
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "07/01/1997",
+        "dateOfIncident": "06/21/1996",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 603362,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "RAM",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUEL RETURN LINE BURNED THROUGH.",
+        "vin": ""
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "07/01/1997",
+        "dateOfIncident": "06/21/1996",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 603362,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "RAM",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SPARK PLUG/WIRES FAILED.",
+        "vin": ""
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "03/11/1997",
+        "dateOfIncident": "03/01/1997",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 809823,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "RAM",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING VEHICLE ABOUT 25 MPH THE FRONT WHEELS LOCKED UP BECAUSE THE BOLTS THAT HOLD THE GEARS IN FRONT DIFFERENTIAL SHEARED OFF.  *AK",
+        "vin": "1B7JW24W0FS"
+    },
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "12/06/1996",
+        "dateOfIncident": "11/27/1996",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 806000,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "RAM",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE ROLLED OVER AT ABOUT 45MPH, AT WHICH TIME FOUR LAP SEAT BELTS FAILED TO HOLD THE PASSENGERS IN PLACE, THEY DISCONNECTED/CAME APART.     *AK",
+        "vin": "2B4GB11T7FK"
+    },
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "06/08/1995",
+        "dateOfIncident": "06/08/1995",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 468585,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "RAM",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FRONT DOORS ARE ALMOST FALLING OFF DUE TO WEAK WELDING OR LACK OF RESTRAINT ON FRONT DOOR HINGES (OTHER VEHICLE FROM 486925).  *AK",
+        "vin": ""
+    },
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "03/07/1995",
+        "dateOfIncident": "01/21/1995",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 961339,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "RAM",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "IN ORDER TO TAKE THE COOLING SYSTEM LEVEL THE BIKE SHOULD BE 90 DEGREES BUT THERE IS NO SUPPORT TO KEEP IT FROM FALLING ON YOU.  TT",
+        "vin": "1HFSC3218SA"
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "06/17/2003",
+        "dateOfIncident": "01/06/2003",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10023238,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "ALTIMA",
+                "productYear": "1995",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FEDERA-MOGUL CORPORATION",
+                "productMake": "NAPA",
+                "productModel": "NAPA",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "THERE IS A MAJOR SHORTAGE IN MY CAR.  THE BRAKE LIGHTS DO NOT WORK RIGHT AND WHEN YOU BRAKE ONLY ONE SIDE WORKS, THIS HAD INTERFERED WITH THE INTERNAL LIGHTING.  SOMETHING IS ALWAYS WRONG UNDER THE HOOD.  YOU SPEND HUNDREDS OF DOLLARS FOR THEM TO FINALLY FIX THE PROBLEM AFTER THEY HAVE REPLACED THINGS THAT DIDN'T NEED TO BE FIXED.  *JB",
+        "vin": "1N4BU31D1SC"
+    }
+]

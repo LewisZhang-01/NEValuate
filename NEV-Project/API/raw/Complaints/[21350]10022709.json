@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS,CHILD SEAT",
+        "crash": false,
+        "dateComplaintFiled": "06/09/2003",
+        "dateOfIncident": "05/24/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022709,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "CHEROKEE",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "REAR PASSENGER SEATBELT WILL NOT STAY FASTENED.   AS A RESULT, CHILD SEAT IS TIPPING WHEN TURNING.  *AK",
+        "vin": "1J4GZ78Y1RC"
+    }
+]

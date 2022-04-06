@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "01/21/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004257,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "ESCORT",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER VEHICLE IS HAVING SAME DEFECT WITH  IT'S FUEL TANK LEAKING AS STATED IN RECALL NUMBER 97 V 145 000, BUT VIN IS NOT INCLUDED.   PH",
+        "vin": "3FASP13J7SR"
+    }
+]

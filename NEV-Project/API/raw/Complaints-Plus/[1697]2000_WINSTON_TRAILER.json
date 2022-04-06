@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "11/03/2003",
+        "dateOfIncident": "10/26/2003",
+        "fire": true,
+        "manufacturer": "WTM, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10046176,
+        "products": [
+            {
+                "manufacturer": "WTM, Inc.",
+                "productMake": "WINSTON",
+                "productModel": "TRAILER",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING 25 MPH TRANSMISSION FAILED WITHOUT WARNING. AS A RESULT,  VEHICLE CAUGHT ON FIRE. *AK",
+        "vin": ""
+    }
+]

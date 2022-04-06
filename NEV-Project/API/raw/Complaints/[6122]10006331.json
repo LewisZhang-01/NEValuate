@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": true,
+        "dateComplaintFiled": "02/04/2003",
+        "dateOfIncident": "01/31/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10006331,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "RAM",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING, CONSUMER TURNED THE STEERING WHEEL  BUT TIRES DID NOT TURN. THUS, RESULTING  IN A ACCIDENT. DEALER NOTIFIED. PLEASE PROVIDE ADDITIONAL INFORMATION.    PH",
+        "vin": "1B7HC16X41S"
+    }
+]

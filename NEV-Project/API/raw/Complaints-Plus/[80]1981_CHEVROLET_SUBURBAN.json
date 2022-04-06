@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "07/15/2004",
+        "dateOfIncident": "06/15/2004",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10079439,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1981",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Bridgestone Americas Tire Operations",
+                "productMake": "WIDETRACK RADIAL BAJA A/S",
+                "productModel": "32X1150R15LT",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHILE DRIVING AT 60 MPH CONSUMER FELT THE VEHICLE SHAKING SEVERELY.  CONSUMER PULLED THE VEHICLE TO THE SIDE OF THE ROAD AND INSPECTED IT.  AFTER DRIVING SEVERAL MORE MILES DOWN THE ROAD THE SHAKING BEGAN AGAIN.  AFTER ANOTHER INSPECTION  CONSUMER FOUND THAT THE LEFT REAR TIRE WAS OUT OF ROUND.  *AK  THE CONSUMER CONTINUED TO DRIVE UNTIL THE TIRE EXPLODED.  THE CONSUMER CHANGED THE TIRE AND PUT ON THE SPARE.  *NM",
+        "vin": ""
+    }
+]

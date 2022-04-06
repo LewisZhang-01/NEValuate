@@ -1,0 +1,24 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "03/21/2003",
+        "dateOfIncident": "03/21/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10012220,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAVALIER",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE OIL DIPSTICK WAS MISMARKED.  WHEN OIL IS FILLED ACCORDING TO MANUFACTURER RECOMMENDED CAPACITY, THE DIPSTICK READS 5/8 OF AN INCH HIGHER.   *NLM",
+        "vin": "1G1JC124427"
+    }
+]

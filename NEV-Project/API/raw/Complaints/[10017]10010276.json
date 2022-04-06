@@ -1,0 +1,31 @@
+[
+    {
+        "components": "EQUIPMENT",
+        "crash": true,
+        "dateComplaintFiled": "03/11/2003",
+        "dateOfIncident": "02/06/2003",
+        "fire": false,
+        "manufacturer": "UNKNOWN MANUFACTURER",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010276,
+        "products": [
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN1",
+                "productYear": "9999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "ACCESSORY DIST., INC.",
+                "productMake": "ACCESSORY",
+                "productModel": "HELMET",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "I WOULD LIKE TO REQUEST AN INVESTIGATION AS TO WHY I WAS  ABLE TO PURCHASE A HJC (HONG JIN CROWN) SY-MAX HELMET AS DOT APPROVED, YET IT APPEARS ON DOT TESTING RESULTS (HTTP://WWW.NHTSA.DOT.GOV/CARS/TESTING/COMPLY/FMVSS218/2001S218.HTML)  AS A FAILURE TO MEET FMVSS218. I WOULD LIKE TO REQUEST THE MANUFACTURER REFUND MY  MONEY AND SHOULD BE PENALIZED FOR SELLING A HELMET UNDER A FALSE PRETENSE (NOT ADHERING TO FMVSS218).*JB",
+        "vin": ""
+    }
+]

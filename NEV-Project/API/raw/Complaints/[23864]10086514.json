@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "08/10/2004",
+        "dateOfIncident": "08/05/2004",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10086514,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "4 RUNNER",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "STEERING WHEEL VIBRATES AROUND 45-60 MPH.  IT IS A PRONOUNCED VIBRATION THAT IS UNCOMFORTABLE TO DRIVE WITH.",
+        "vin": ""
+    }
+]

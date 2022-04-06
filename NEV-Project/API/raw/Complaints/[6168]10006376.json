@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "02/04/2003",
+        "dateOfIncident": "01/21/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10006376,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "1991",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATES THAT VEHICLE'S IGNITION SWITCH HAS SHORT CIRCUITED TWO TIMES.  BOTH INCIDENTS RESULTED IN THE ENTIRE IGNITION SYSTEM \"BURNING OUT.\"    PH",
+        "vin": ""
+    }
+]

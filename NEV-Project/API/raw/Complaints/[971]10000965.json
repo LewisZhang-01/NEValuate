@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "01/12/2003",
+        "dateOfIncident": "11/15/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000965,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENGINE STALLING, CHECK ENGINE LIGHT STAYS ON, TRANSMISSION SLIPS WHEN THIS HAPPENS.  WHEN I TOOK THE CAR TO THE DEALER,  THEY HAVE REPLACED THE SENSOR 3 TIMES.",
+        "vin": ""
+    }
+]

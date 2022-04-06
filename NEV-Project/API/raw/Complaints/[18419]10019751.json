@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "04/01/2004",
+        "dateOfIncident": "05/13/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019751,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING 55 MPH THE INNER TIE ROD CAME UNHOOKED AND CAUSED THE DRIVER TO LOOSE CONTROL OF THE VEHICLE.   THE MECHANIC REPLACED THE TIE RODS.  *NLM    *LA",
+        "vin": ""
+    }
+]

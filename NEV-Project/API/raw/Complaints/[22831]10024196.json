@@ -1,0 +1,24 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/17/2003",
+        "dateOfIncident": "06/16/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10024196,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SONOMA",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SPARE TIRE CABLE BROKE WHILE DRIVING, CAUSING TIRE TO FALL ONTO ROADWAY, ALMOST CAUSING A COLLISION.*AK",
+        "vin": "1GTCS19XXV8"
+    }
+]

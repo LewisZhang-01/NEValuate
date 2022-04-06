@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "03/03/2003",
+        "dateOfIncident": "01/29/2003",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009900,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "SONATA",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "STEERING WHEEL, CHECK ENGINE LIGHT, AND CATALYTIC CONVERTER *CB",
+        "vin": "KMHWF25S1YA"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "07/02/2019",
+        "dateOfIncident": "02/02/2019",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11229114,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "DART",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN VEHICLE IS IN PARK, THE DASH SAYS IT'S NOT AND WON'T TURN OFF",
+        "vin": "1C3CDFCH6DD"
+    }
+]

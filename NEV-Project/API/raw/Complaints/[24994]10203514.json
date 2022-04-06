@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "09/20/2007",
+        "dateOfIncident": "09/13/2007",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10203514,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "CAMRY",
+                "productYear": "2007",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CAMRY 2007 STALLS WHEN TRYING TO ACCELERATE.  *JB",
+        "vin": "4T1BE46K37U"
+    }
+]

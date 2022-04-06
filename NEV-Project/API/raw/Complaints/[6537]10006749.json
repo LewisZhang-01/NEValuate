@@ -1,0 +1,24 @@
+[
+    {
+        "components": "PARKING BRAKE",
+        "crash": true,
+        "dateComplaintFiled": "02/07/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10006749,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "GRAND CHEROKEE",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER  APPLIED THE BRAKES AND THE VEHICLE SUDDENLY TOOK OFF THROUGH THE GARAGE BEFORE COMING TO A STOP. CAUSE WAS UNKNOWN.   PH",
+        "vin": "1J8GW68J22C"
+    }
+]

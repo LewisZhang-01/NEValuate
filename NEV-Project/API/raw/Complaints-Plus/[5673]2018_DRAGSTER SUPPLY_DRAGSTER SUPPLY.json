@@ -1,0 +1,46 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,EXTERIOR LIGHTING,STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "01/26/2020",
+        "dateOfIncident": "01/04/2020",
+        "fire": false,
+        "manufacturer": "Dragster Supply",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11301953,
+        "products": [
+            {
+                "manufacturer": "Dragster Supply",
+                "productMake": "DRAGSTER SUPPLY",
+                "productModel": "DRAGSTER SUPPLY",
+                "productYear": "2018",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "INITIALLY THE TRAILER WIRING WAS NOT CONNECTED PROPERLY AND WAS NONE FUNCTIONAL. THE BRAKE CONTROLLER WAS MISWIRED, PINCHED WIRES ON THE RUNNING LIGHTS, GROUNDS NOT CONNECTED, POWER ON CONNECTOR FROM TRUCK TO TRAILER NOT WIRED IN. THE TRAILER WAS TRANSPORTED FROM NEW HAMPSHIRE TO SOUTH CAROLINA (APPROXIMATELY 900 MILES TOTAL) , DUE TO INSUFFICIENT STRUCTURAL SUPPORT, THE TRAILER HAD EXCESSIVE FLEX. THE WELDS ON THE PRIMARY STRUCTURAL BEAM BROKE, THE HYDRAULIC RAM WAS MOUNTED WITH ONLY 4\" OF MAXIMUM CLEARANCE TO THE GROUND AND NOT PROTECTED IN ANY FORM. THERE ARE SEVERAL IN COMPLETE WELDS THROUGHOUT THE STRUCTURE OF THE TRAILER AND IN SOME SUPPORT AREAS INSUFFICIENT QUALITY ALUMINUM WAS USED, FURTHER CONTRIBUTING TO THE FAILURE. *DT*JB",
+        "vin": "1D9D1FE28JM"
+    },
+    {
+        "components": "EXTERIOR LIGHTING,STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "01/26/2020",
+        "dateOfIncident": "01/04/2020",
+        "fire": false,
+        "manufacturer": "Dragster Supply",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11301965,
+        "products": [
+            {
+                "manufacturer": "Dragster Supply",
+                "productMake": "DRAGSTER SUPPLY",
+                "productModel": "DRAGSTER SUPPLY",
+                "productYear": "2018",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE TRAILER WAS TRANSPORTED FROM NEW HAMPSHIRE TO SOUTH CAROLINA, INCOMPLETE WELDS, WELDS AT MAIN STRUCTURAL BEAM BROKE DUE TO INSUFFICIENT STRUCTURAL SUPPORT. GROUND WIRES NOT SECURE PROPERLY, TURN SIGNAL WIRES NOT HOOKED UP, ROUTING OF ELECTRICAL ROUTED IN A MANNER THAT INTERFERED WITH THE GENERAL OPERATION OF THE TRAILER. THE INCOMPLETE WELDS WERE REPAIR BY A THIRD PARTY WHEN FOUND, THE BROKEN WELDS WERE FOUND UPON ARRIVAL IN SOUTH CAROLINA. THESE BROKEN WELDS ARE NOT THE WELDS THAT WERE REPAIRED ORIGINALLY.*DT*  INVALID VIN *JB",
+        "vin": "1D9D1FE28JM"
+    }
+]

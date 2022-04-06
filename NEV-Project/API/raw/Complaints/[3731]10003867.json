@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "01/23/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "GLOBAL INDUSTRIES",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003867,
+        "products": [
+            {
+                "manufacturer": "GLOBAL INDUSTRIES",
+                "productMake": "GLOBAL",
+                "productModel": "GLOBAL",
+                "productYear": "9999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE CONSUMER RECEIVED A RECALL FROM GLOBAL ELECTRIC MOTORCARS, NO DEFECT.  STEERING GEAR DEFECT.  (MAKE/MODEL/YEAR-GEM NEV 2000)  SCC",
+        "vin": "5A3AK2741YF"
+    }
+]

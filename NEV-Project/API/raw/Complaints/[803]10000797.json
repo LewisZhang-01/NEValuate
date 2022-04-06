@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "01/08/2003",
+        "dateOfIncident": "12/02/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000797,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "OLDSMOBILE",
+                "productModel": "INTRIGUE",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENGINE REPEATEDLY MIS-FIRES.  PROBLEM MORE COMMON DURING COLD OR DAMP WEATHER, BUT NOT LIMITED TO THESE CONDITIONS.  MULTIPLE PARTS REPLACED BEFORE RESOLVING PROBLEM BY REPLACING FUEL INJECTOR FOR CYLINDER #3.  PROBLEM CORRESPONDED IN CLOSE PROXIMITY (WITHIN 10 DAYS OF) THE FAILURE OF IGNITION SWITCH, AND DEALER SPECULATED BOTH PROBLEMS RELATED.",
+        "vin": "1G3WS52K7WF"
+    }
+]

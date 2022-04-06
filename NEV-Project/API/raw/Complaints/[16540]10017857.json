@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "06/26/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017857,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "ESCORT",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE VIBRATED WHILE IN IDLE AND DRIVING.  THE VIBRATION CAUSED THE DASHBOARD TO CRACK.  THE VIBRATION ALSO CAUSED POOR VISIBILITY IN THE MIRRORS. THE PROBLEM  WAS UNDETERMINED.   *JB   *TT  *JB",
+        "vin": "3FBFP11341R"
+    }
+]

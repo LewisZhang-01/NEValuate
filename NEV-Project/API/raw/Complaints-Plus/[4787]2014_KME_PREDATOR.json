@@ -1,0 +1,46 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "03/15/2016",
+        "dateOfIncident": "01/23/2016",
+        "fire": false,
+        "manufacturer": "Kovatch Mobile Equipment Corp.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10849707,
+        "products": [
+            {
+                "manufacturer": "Kovatch Mobile Equipment Corp.",
+                "productMake": "KME",
+                "productModel": "PREDATOR",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CABIN DOOR OPENS WITHOUT WARNING, SOMETIMES WHILE TRUCK IS IN MOTION.  THRU BOLT LOOSENS CAUSING THE LATCH TO OPEN.",
+        "vin": "1K9AF4287EN"
+    },
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "03/15/2016",
+        "dateOfIncident": "11/24/2015",
+        "fire": false,
+        "manufacturer": "Kovatch Mobile Equipment Corp.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10849710,
+        "products": [
+            {
+                "manufacturer": "Kovatch Mobile Equipment Corp.",
+                "productMake": "KME",
+                "productModel": "PREDATOR",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CABIN DOOR OPENS WITHOUT WARNING, SOMETIMES WHILE TRUCK IS IN MOTION.  THRU BOLT LOOSENS CAUSING THE LATCH TO OPEN.",
+        "vin": "1K9AF428XEN"
+    }
+]

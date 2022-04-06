@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "05/29/2019",
+        "dateOfIncident": "05/28/2019",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11210514,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "ESCAPE",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CAR STALLED TWICE WHILE IN  MOTION WHEN TURNING INTO TRAFFIC NOW THE CHECK ENGINE LIGHT IS ON",
+        "vin": "1FMCU0HX2DU"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "08/03/2001",
+        "dateOfIncident": "07/08/1998",
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 893406,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "FLHTC",
+                "productYear": "1990",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE RIDING MOTORCYCLE, NOTICED OIL SPILLING OUT   OVER  FLOOR BOARD  AND BRAKES. CONTACTED DEALERSHIP,  INFORMED CONSUMER OF A POSSIBLE CRACKED ENGINE. THE PROBLEM HAPPENED 3 YEARS AGO, BUT NO REPAIRS WERE EVER DONE.*AK",
+        "vin": "1HD1DPL11LY"
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "06/21/1996",
+        "dateOfIncident": "05/25/1996",
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 985097,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "FLHTC",
+                "productYear": "1990",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE TRANSMISSION DIP STICK BROKE, CAUSING THE REAR WHEEL TO LOCK UP ON THE MOTORCYCLE WHEN DRIVING. *AK",
+        "vin": "1HD1BJL13LY"
+    }
+]

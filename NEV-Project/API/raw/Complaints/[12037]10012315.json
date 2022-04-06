@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "03/24/2003",
+        "dateOfIncident": "03/23/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10012315,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "1998",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "STEEL BELTED TIRE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHILE DRIVING FRONT DRIVERS SIDE LEFT TIRE BLEWOUT.  THE DEALER WAS NOTIFIED.   *NLM  THERE WAS SEVERE VIBRATION AND CONSUMER FOUND THAT THE LEFT FRONT TIRE TREAD HAD SEPARATED.  AFTER TRAVELING ANOTHER 65 MILES THERE WAS SEVERE VIBRATION AND THE LEFT REAR TIRE HAD TREAD SEPARATION.     *TT",
+        "vin": ""
+    }
+]

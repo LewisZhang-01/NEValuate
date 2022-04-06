@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/15/2003",
+        "dateOfIncident": "06/15/2001",
+        "fire": false,
+        "manufacturer": "Casita Enterprises, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10023098,
+        "products": [
+            {
+                "manufacturer": "Casita Enterprises, Inc.",
+                "productMake": "CASITA",
+                "productModel": "17 SPIRIT DELUXE",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "CARLISLE TIRE & RUBBER CO",
+                "productMake": "CARLISLE",
+                "productModel": "CARLISLE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "MULTIPLE TIRE FAILURE.  TWO BLOWOUTS WITHIN 15 MILES.   *NLM",
+        "vin": "1C9TB171911"
+    }
+]

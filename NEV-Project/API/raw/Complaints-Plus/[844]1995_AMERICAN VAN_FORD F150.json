@@ -1,0 +1,46 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "03/17/2016",
+        "dateOfIncident": "02/26/2015",
+        "fire": true,
+        "manufacturer": "AMERICAN VANS, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10850151,
+        "products": [
+            {
+                "manufacturer": "AMERICAN VANS, INC.",
+                "productMake": "AMERICAN VAN",
+                "productModel": "FORD F150",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "STARTED VAN IN DRIVEWAY WIRING CAUGHT ON FIRE UNDERNEATH THE HOOD OF THE VAN THAT IS ATTACHED TO THE OVERDRIVE. I CALLED FORD THEY PUT A CLAIM ON IT AND SAID I WOULD HAVE TO  DISCONNECT THE BATTERY SINCE THERE WAS A RECALL ON THE VEHICLE IT COULD CATCH ON FIRE SITTING IN MY DRIVEWAY. UNFORTUNATELY, I DO NOT HAVE INSURANCE ON THE VEHICLE OR A UPDATED TAG. FORD SAID IT WAS MY RESPONSIBILITY TO HAVE IT TOWED TO THE NEAREST DEALERSHIP, BUT WITHOUT A UPDATED TAG OR INSURANCE THERE IS NO TOWING COMPANY THAT WILL TOW IT.",
+        "vin": "1FDEE14N3SH"
+    },
+    {
+        "components": "SERVICE BRAKES",
+        "crash": true,
+        "dateComplaintFiled": "12/03/2013",
+        "dateOfIncident": "12/01/2013",
+        "fire": false,
+        "manufacturer": "AMERICAN VANS, INC.",
+        "numberOfDeaths": 4,
+        "numberOfInjuries": 34,
+        "odiNumber": 10554705,
+        "products": [
+            {
+                "manufacturer": "AMERICAN VANS, INC.",
+                "productMake": "AMERICAN VAN",
+                "productModel": "FORD F150",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I THOUGHT THAT TRAINS APPROACHING SHARP TURN HAD  AN AUTOMATIC BREAKING SYSTEM THAT DID NOT  REQUIRE A PERSON.  *TR",
+        "vin": "NONE"
+    }
+]

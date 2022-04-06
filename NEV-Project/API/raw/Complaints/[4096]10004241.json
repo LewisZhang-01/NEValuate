@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "01/21/2003",
+        "dateOfIncident": "01/16/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 2,
+        "odiNumber": 10004241,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "LHS",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER WAS IN A COLLISION AND AIR BAGS DID NOT DEPLOY, RESULTING IN INJURIES. DEALER WAS NOT CONTACTED AT THE TIME OF THIS CALL.   PH.  *AK",
+        "vin": "2C3HC56G6Y8"
+    }
+]

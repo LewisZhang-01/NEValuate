@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "05/08/2003",
+        "dateOfIncident": "05/01/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019460,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "ESCORT",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE FRONT AUTOMATIC SEAT BELT CONTINUOUSLY FAILED, WHICH RESULTED IN THE BELT BEING INOPERATIVE.  THE ENTIRE SYSTEM NEEDED TO BE REPLACED.    *JB",
+        "vin": "1FAFP14J5SW"
+    }
+]

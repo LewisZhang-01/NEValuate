@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "02/10/2010",
+        "dateOfIncident": "06/01/2009",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10308514,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "LEXUS",
+                "productModel": "RX350",
+                "productYear": "2009",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE WILL AT RANDOM BEGIN TO PULL TO THE LEFT. *TR",
+        "vin": ""
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "03/27/2003",
+        "dateOfIncident": "04/24/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10011887,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "E-150",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE BRAKE PEDAL WAS DEPRESSED BUT THE VEHICLE DID NOT SLOW DOWN.  THE DRIVER APPLIED THE PEDAL HARDER BUT THE BRAKES DID NOT ENGAGE TOTALLY AND THE VEHICLE EXPERIENCED EXTENDED STOPPING DISTANCE.  THE VEHICLE WAS TAKEN TO THE DEALER WHO DETERMINED THAT THE BRAKE ROTORS WERE PITTED AND RUSTED AND THE BRAKE PADS WERE WORN.   THE POWER STEERING GEAR BOX LEAKED.  *NLM   *NLM",
+        "vin": "1FTRE1421XH"
+    }
+]

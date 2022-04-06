@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "05/20/1998",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "DOLPHIN RV PRODUCTS INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 535789,
+        "products": [
+            {
+                "manufacturer": "DOLPHIN RV PRODUCTS INC.",
+                "productMake": "DOLPHIN",
+                "productModel": "MOTOR HOME",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SUSPENSION SYSTEM IS POOR ON THE MOTOR HOME RESULTING IN LOSS OF STEERING CONTROL.",
+        "vin": ""
+    }
+]

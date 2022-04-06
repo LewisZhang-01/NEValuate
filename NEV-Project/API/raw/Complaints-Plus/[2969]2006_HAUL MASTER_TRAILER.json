@@ -1,0 +1,54 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "03/22/2018",
+        "dateOfIncident": "11/20/2017",
+        "fire": false,
+        "manufacturer": "Harbor Freight Tools",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11080836,
+        "products": [
+            {
+                "manufacturer": "Harbor Freight Tools",
+                "productMake": "HAUL MASTER",
+                "productModel": "TRAILER",
+                "productYear": "2006",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Harbor Freight Tools",
+                "productMake": "INNOVA",
+                "productModel": "ULTRA RUNNER",
+                "productYear": "9999",
+                "size": "5.3X12",
+                "type": "Tire"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2003 (NA) HARBOR FREIGHT HAUL MASTER TRAILER AND TOOLS EQUIPPED WITH TRAILER 5 LUG TIRES, SIZE: 5.3X12 (NA). THE CONTACT RECEIVED A RECALL NOTIFICATION FOR NHTSA CAMPAIGN NUMBER: 16V638000 (TIRES); HOWEVER, THE PARTS TO DO THE REPAIR WERE UNAVAILABLE. THE CONTACT STATED THAT THE MANUFACTURER EXCEEDED A REASONABLE AMOUNT OF TIME FOR THE RECALL REPAIR. THE MANUFACTURER AND TOOLS OF DOWNERS GROVE IN DOWNERS GROVE, ILLINOIS WERE CONTACTED AND CONFIRMED THAT THE PARTS WERE NOT AVAILABLE FOR THE RECALL REMEDY. THE MANUFACTURER WAS MADE AWARE OF THE ISSUE AND WAS NOT ABLE TO CONFIRM WHEN THE PARTS WERE TO BECOME AVAILABLE. THE DOT NUMBER AND VIN WERE UNKNOWN. THE CONTACT HAD NOT EXPERIENCED A FAILURE.",
+        "vin": ""
+    },
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "05/09/2017",
+        "dateOfIncident": "05/01/2017",
+        "fire": false,
+        "manufacturer": "Harbor Freight Tools",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10984532,
+        "products": [
+            {
+                "manufacturer": "Harbor Freight Tools",
+                "productMake": "HAUL MASTER",
+                "productModel": "TRAILER",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 1992 FORD VAN WHICH WAS PULLING A HARBOR FREIGHT HAUL MASTER 4X8 TRAILER. UPON INSPECTION, IT WAS DISCOVERED THAT THE PASSENGER SIDE REAR FENDER HAD SEPARATED FROM THE TRAILER AND THE DRIVER SIDE FENDER HAD CRACKED AND WAS UNSECURED. THE FAILURE WAS NOT DIAGNOSED OR REPAIRED. THE MANUFACTURER WAS NOT NOTIFIED OF THE FAILURE. THE TRAILER YEAR WAS NOT PROVIDED. THE VIN AND FAILURE MILEAGE WERE NOT APPLICABLE.",
+        "vin": ""
+    }
+]

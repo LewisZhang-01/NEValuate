@@ -1,0 +1,46 @@
+[
+    {
+        "components": "VISIBILITY/WIPER",
+        "crash": false,
+        "dateComplaintFiled": "10/01/2021",
+        "dateOfIncident": "09/25/2021",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11435082,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "AUDI",
+                "productModel": "Q7",
+                "productYear": "2021",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "[XXX] Mobile: [XXX]  October 1, 2021  Audi Motor Sales USA, Inc.  Re: Assurant Warranty Claim Number: [XXX]  Dear Sir/Madam: I am writing to you in hopes of finding a swift and satisfactory resolution since my Audi dealership-issued extended warranty claim is not being honored despite repeated efforts to resolve the issue.  Incident: On Saturday, September 25, I was driving on Route 42 when a pebble hit my front windshield and made a small crack underneath the rearview mirror.  Action Taken:  We immediately reached out to report the issue, but being a weekend, received no response. We did not use the car again, but by the time someone responded to us on 9/28 - 3 days later! - the crack had spidered out from its original size.  Details:  When the crack appeared, we immediately called Audi Fort Washington (where I purchased my car) and left a voicemail for the service advisor and then called Audi Cherry Hill (closest dealer) and left a similar voicemail. Then we started to text on the Audi website but the response seemed to be a bot that did not lead us to a human contact. Meanwhile, while we have NOT used the car since the incident happened, the crack has spidered out on its own beyond the size of the initial crack! We continued to try calling Audi on Sunday 9/26 and on Monday 9/27 and still received no response! On 9/28 we finally heard from [XXX]f, who contacted the warranty company and reported back to us on 9/30, that it was denied because of the size of the crack. I explained how if this crack happened on a Tuesday and was immediately taken into the dealership it would have been covered, and it is not our fault that it happened on a weekend and no one responded when we immediately reached out - to several sources - several times! I spoke with Assurant directly today on 9/30; they forwarded the information to process the claim. The replacement of the windshield and car rental should be covered under the warranty.   INFORMATION Redacted PURSUANT TO THE FREEDOM OF INFORMATION ACT (FOIA), 5 U.S.C. 552(B)(6",
+        "vin": "Wa1lxaf78md"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "09/18/2021",
+        "dateOfIncident": "09/10/2021",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11433415,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "AUDI",
+                "productModel": "Q7",
+                "productYear": "2021",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Upper dashboard display (MMI) loses power,  upon reboot,  audio volume comes on full power momentarily.  This loud noise is both startling and distracting to the driver.   The failure is sporadic and Audi has been unsuccessful in resolving the issue.",
+        "vin": "WA1LXAF77MD"
+    }
+]

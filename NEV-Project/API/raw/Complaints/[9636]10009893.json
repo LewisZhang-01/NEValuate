@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "03/05/2003",
+        "dateOfIncident": "03/03/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009893,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "RAM",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE STEERING WHEEL TURNED HALFWAY AROUND WHILE DRIVING, UPON INSPECTION, CONSUMER NOTICED THE 2 BOLTS ON THE STEERING BOX WERE LOOSE AND 1 BOLT HAD COMPLETELY BROKEN.*JB",
+        "vin": ""
+    }
+]

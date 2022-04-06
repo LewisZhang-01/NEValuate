@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "08/11/2021",
+        "dateOfIncident": "08/07/2021",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11428742,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "R1200 RT",
+                "productYear": "2018",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact owns a 2018 BMW R1200 RT. The contact stated while riding approximately 50 mph, the motorcycle went into a limp mode which resulted in the motorcycle losing power. The motorcycle required a restart to regain functionality. The contact stated that the check engine warning lights was illuminated. The vehicle was not diagnosed or repaired. The manufacturer was not informed of the failure. The failure mileage was approximately 8,690.",
+        "vin": "WB10A1308JZ"
+    }
+]

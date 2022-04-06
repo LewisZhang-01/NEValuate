@@ -1,0 +1,54 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "07/22/2017",
+        "dateOfIncident": "07/16/2017",
+        "fire": false,
+        "manufacturer": "Outlaw Conversions",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11010096,
+        "products": [
+            {
+                "manufacturer": "Outlaw Conversions",
+                "productMake": "4-STAR",
+                "productModel": "HORSE TRAILER",
+                "productYear": "2012",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Cooper Tire & Rubber Co.",
+                "productMake": "TRANSAMERICAN AUTO PARTS",
+                "productModel": "PRO COMP XTREME A/T",
+                "productYear": "9999",
+                "size": "38.50X14.50R20LT",
+                "type": "Tire"
+            }
+        ],
+        "summary": "TIRE FAILED TRAVELING ON I840. THE TIRE HAS 1 NYLON LISTED IN THE TREAD BUT ONLY HAS SHOULDER STRIPS. TRAILER WAS DAMAGED WHEN THE TIRE FAILED.",
+        "vin": "5A7BB2011CT"
+    },
+    {
+        "components": "FUEL SYSTEM, GASOLINE,ELECTRONIC STABILITY CONTROL,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "03/09/2014",
+        "dateOfIncident": "03/07/2014",
+        "fire": false,
+        "manufacturer": "Outlaw Conversions",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10568019,
+        "products": [
+            {
+                "manufacturer": "Outlaw Conversions",
+                "productMake": "4-STAR",
+                "productModel": "HORSE TRAILER",
+                "productYear": "2012",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CAR DOESN'T START LIKE NORMAL. 5 TIMES IN A YEAR THIS HAPPENED. SO I DON'T KNOW HOW CONCERNED I SHOULD BE.   IT ACTS LIKE IT HAS EITHER NO SPARK. OR NO FUEL.  THEN ALL OF A SUDDEN    IT WILL START. NO CHECK ENGINE LIGHT.  SO YOU DON'T HAVE A CLUE WHERE TO START LOOKING FOR THE PROBLEM.  *TR",
+        "vin": "JS2RE9A37C6"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "03/27/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10014621,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "GRAND PRIX",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THERE WAS A PROBLEM WITH THE VEHICLE'S DOOR, HOWEVER THE MANUFACTURER REFUSED TO ASSIST CONSUMER FINANCIALLY.  *JB",
+        "vin": "1G2WR1218YF"
+    }
+]

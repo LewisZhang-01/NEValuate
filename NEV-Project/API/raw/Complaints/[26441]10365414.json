@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "11/12/2010",
+        "dateOfIncident": "01/02/2009",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10365414,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "IMPALA",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "INTERMITTENT PASSLOCK FAILURE CAUSED CAR NOT TO START HAVE TO WAIT 20-30 MINUTES TO START MY CAR. *TR",
+        "vin": ""
+    }
+]

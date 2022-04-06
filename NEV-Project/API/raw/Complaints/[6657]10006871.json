@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "02/10/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10006871,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "WINDSTAR",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE DOOR AJAR LIGHT ILLUMINATED, THE POWER DOOR LOCKS AND INTERIOR LIGHTS BECAME INOPERATIVE AND THE SLIDING DOOR OPENED BY ITSELF.*JB",
+        "vin": "2FMZA5248YB"
+    }
+]

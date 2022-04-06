@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/23/2003",
+        "dateOfIncident": "01/16/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004495,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "PT CRUISER",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "GOODYEAR",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "CONSUMER STATED THAT  WHILE DRIVING AT ANY SPEED AND WITHOUT WARNING ALL FOUR TIRES ARE WORN AND IT IS CAUSING THE VEHICLE TO VIBRATE AND IT WILL BE HARD FOR THE CONSUMER TO CONTROL VEHICLE. DEALER NOTIFIED. PLEASE PROVIDE THE SIZE AND THE DOT NUMBER.         TS",
+        "vin": "PLEASE PROV"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "03/30/2019",
+        "dateOfIncident": "03/22/2019",
+        "fire": false,
+        "manufacturer": "Subaru of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11192564,
+        "products": [
+            {
+                "manufacturer": "Subaru of America, Inc.",
+                "productMake": "SUBARU",
+                "productModel": "FORESTER",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE FRONT PASSENGER SEAT AIRBAG OCCUPANCY SENSOR IS MALFUNCTIONING AND SWITCHING OFF THE AIRBAG WHEN SOMEONE SITS IN THE FRONT PASSENGER SEAT.",
+        "vin": "JF2SJADC4GH"
+    }
+]

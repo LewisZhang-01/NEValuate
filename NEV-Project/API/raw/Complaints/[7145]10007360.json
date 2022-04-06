@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "02/13/2003",
+        "dateOfIncident": "02/13/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10007360,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "TRANS SPORT",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NHTSA 02-V-286000 CONSUMER RECEIVED A RECALL NOTICE REGARDING THE RACK AND PINION, HOWEVER THE DEALER STATED THE TOOLS TO CORRECT THE PROBLEM WERE BROKE.*JB",
+        "vin": "1GMDX03E5VD"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "10/08/2018",
+        "dateOfIncident": "10/05/2018",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11139014,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "SONATA",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "KNOCKING NOISE FROM ENGINE  WHILE DRIVING  SEAT BELT ON DRIVERS SIDE WILL NOT REWIND  HANGS UP",
+        "vin": "5NPEB4AC5DH"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "04/30/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017872,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "BLAZER",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE WAS TAKEN TO THE DEALER TO GET THE TIRES BALANCED.  THE DEALER STATED THE UPPER BALL JOINTS AND LOWER BALL JOINTS NEEDED TO BE REPLACED. *JB",
+        "vin": "1GNDT13WXS2"
+    }
+]

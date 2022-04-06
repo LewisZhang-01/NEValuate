@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "06/25/1996",
+        "dateOfIncident": "06/24/1996",
+        "fire": false,
+        "manufacturer": "MOBIL SCOUT MFR. CORP.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 986105,
+        "products": [
+            {
+                "manufacturer": "MOBIL SCOUT MFR. CORP.",
+                "productMake": "MOBIL SCOUT",
+                "productModel": "MOBIL SCOUT",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE LEAKS IN BAD WEATHER DUE TO A DESIGN DEFECT IN THE ROOF.  *AK",
+        "vin": "4UBASOM27TI"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "01/10/2003",
+        "dateOfIncident": "01/04/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002480,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO 1500",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CABLE THAT HOLDS TAILGATE FAILED AND THREW CONSUMER ON THE GROUND. OWNER'S MANUAL HAS NO WEIGHT REQUIREMENTS. DEALER NOTIFIED. PLEASE PROVIDE ADDITIONAL INFORMATION.*JB.   *AK",
+        "vin": "1GCEK19T61E"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION,EXTERIOR LIGHTING,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "07/16/2014",
+        "dateOfIncident": "06/10/2008",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10611014,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-250",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "GOING 55MPH THE TRUCK STARTS SHAKING AND SHIMMING. ALL LIGHTS GO IN AND OUT AND BLOWS WHENEVER ANYTHING IS HOOKED UP.  *TR",
+        "vin": "1FTS21P66E1"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "09/12/2021",
+        "dateOfIncident": "08/30/2021",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11432677,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "MINI",
+                "productModel": "COOPER",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The car easily shifts to neutral while driving.  It is an automatic car.  If the shifter is bumped every so slightly it shifts into neutral.  It happens while traveling slowly or very fast. It has happened to me on a highway as well as when traveling very slowly.  It is dangerous and certainly a safety. issue, especially if traveling on a highway.  I will include one date on this form, but it has happened many times.",
+        "vin": "WMW23DL03N3"
+    },
+    {
+        "components": "AIR BAGS,SEAT BELTS",
+        "crash": true,
+        "dateComplaintFiled": "07/02/2021",
+        "dateOfIncident": "06/26/2021",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 11423204,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "MINI",
+                "productModel": "COOPER",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "On Saturday, June 26, 2021, I was driving from a Highway # 30 from Caguas to Humacao Puerto Rico and when a try to take the exit for my House the car swept away and crashed.  The airbags do not open and the Seat belt does not protect my self.  I suffer many injuries in my head and body.",
+        "vin": "WMW53DK04N2"
+    }
+]

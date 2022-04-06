@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "05/12/2010",
+        "dateOfIncident": "05/08/2010",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10330214,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "TRAILBLAZER",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUEL GAUGE REGISTERS EMPTY EVEN WHEN TANK IS FULL. *TR",
+        "vin": "1GNET16M066"
+    }
+]

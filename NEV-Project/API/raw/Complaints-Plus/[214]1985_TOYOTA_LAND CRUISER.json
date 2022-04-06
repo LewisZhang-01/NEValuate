@@ -1,0 +1,112 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "09/22/2008",
+        "dateOfIncident": "09/01/2008",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10243040,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "LAND CRUISER",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NHTSA ACTION NO. EA89030.  PRODUCT RECALL OF REAR OUTER SAFETY BELT WAS ACCURATE BUT TOYOTA'S REPAIR WAS NOT.  IT ISN'T THE FRICTION OF THE BELT THAT CAUSES THE LACK OF BELT RECOIL BUT IT IS THE RETURN MECHANISM/SPRING STRENGTH THAT IS THE CAUSE.  MY LANDCRUISER DOESN'T RETURN THE REAR BELT EVEN IF NOTHING IS TOUCHING IT.  I SUGGEST YOU LOOK AT THE RECALL AGAIN.  TOYOTA'S FIX IS CHEAP BUT NOT EFFECTIVE.  THEY SHOULD HAVE REPLACED THE RETURN MECHANISM COMPLETELY.  MY VEHICLE WAS REPAIRED WITH THE RECALL GUIDE BUT IT DOES NO GOOD.  SOMETHING IS WRONG WITH THE RETURN MECHANISM OUTSIDE OF FRICTION PARAMETERS.   I CAN'T HAVE MY CHILDREN RIDE ON THAT SIDE OF THE CAR B/C THE SEATBELT DOESN'T OPERATE. *TR",
+        "vin": "JT3FJ60G9F1"
+    },
+    {
+        "components": "WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "04/20/2000",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 552212,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "LAND CRUISER",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE FRONT DRIVER SIDE TIRE BROKE FREE CROSSED THE MEDIAN AND STRUCK THE FRONT END OF ANOTHER VEHICLE. (OHIO TRAFFIC CRASH REPORT) YH",
+        "vin": ""
+    },
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "01/31/1995",
+        "dateOfIncident": "01/31/1995",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 481207,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "LAND CRUISER",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SEAT BELT RETRACTORS FAILED.  *AW",
+        "vin": "JT3FJ60G6F1"
+    },
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "01/23/1995",
+        "dateOfIncident": "01/21/1995",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 959108,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "LAND CRUISER",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "REAR SEAT BELT FAILED PRIOR TO/AFTER RECALL REPAIRS (89V-155).  *AK",
+        "vin": "JT3FJ60G5F1"
+    },
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "11/21/1994",
+        "dateOfIncident": "11/21/1994",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 476421,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "LAND CRUISER",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DEFECTIVE FUEL TANK.   *AK",
+        "vin": "JT3FJ60GXF1"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "01/08/2003",
+        "dateOfIncident": "01/03/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002314,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "NEON",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATES THAT VEHICLE'S ENGINE LIGHT CONTINUE TO STAY ON. DEALER STATED THAT VEHICLE NEEDS A LIGHT SENSOR BUT PARTS ARE NOT AVAILABLE. PLEASE PROVIDE ADDITIONAL INFORMATION. TS",
+        "vin": "1B3ES47C2XD"
+    }
+]

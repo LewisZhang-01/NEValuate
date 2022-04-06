@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "04/03/2003",
+        "dateOfIncident": "12/07/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10013879,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GEO",
+                "productModel": "METRO",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "MY GEO METRO  WENT DOWN A HILL FLIPPED A COUPLE OF TIMES AND HIT A TREE. NEITHER AIR BAG EVER CAME OUT.",
+        "vin": "2C1MR5295S6"
+    }
+]

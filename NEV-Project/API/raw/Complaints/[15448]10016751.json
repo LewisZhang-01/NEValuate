@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "04/30/2003",
+        "dateOfIncident": "01/20/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10016751,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "TRAILBLAZER",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN ATTEMPTED TO START VEHICLE ALL GAUGES AND LIGHTS ON INSTRUMENT PANEL FAILED TO COME ON VEHICLE SHUT OFF AND RESTARTED STILL NO INSTRUMENT PANEL.  VEHICLE WAS DROVE APPROX. 5 MILES SHUT OFF AND RESTARTED AND THE GAUGES AND LIGHTS THEN CAME ON.  THERE HAS BEEN 3 TIMES THAT THIS HAS OCCURED IN THE LAST 4 MONTHS.",
+        "vin": "1GNDT13S922"
+    }
+]

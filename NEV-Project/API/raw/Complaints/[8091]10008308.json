@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "03/01/2003",
+        "dateOfIncident": "07/23/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10008308,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350 SD",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "GENERAL TIRE & RUBBER CO.",
+                "productMake": "GENERAL",
+                "productModel": "GRABBER AW",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "BOTH REAR INSIDE TIRES WENT FLAT AT THE SAME TIME.  THE RIGHT TIRE HAD APPROX. 5390 MILES ON IT SINCE IT WAS THE SPARE FROM AN EARLIER BLOWOUT.  THE LEFT TIRE HAD APPROX. 22875 MILES ON IT.  I HAVE NOT FILED THIS WITH THE TIRE COMPANY DUE TO THEIR TREATMENT FROM THE FIRST FAILURE.  I WAS TOWING A FIFTH WHEEL RV TRAILER AT THE TIME OF THE INCIDENT.*JB",
+        "vin": "1FTWW32FXYE"
+    }
+]

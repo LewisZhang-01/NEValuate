@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "09/06/2004",
+        "dateOfIncident": "09/05/2004",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10090514,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "E-SERIES",
+                "productYear": "1998",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "STEELTEX R4S",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "TIRE TREAD SEPARATION OF FIRESTONE STEELTEX RADIAL R4S LT 225 75 R/16 MS LOAD RANGE E TUBELESS RADIAL 2 STEEL PLY TIRE.  ON 1999 WINNEBAGO MINNIE MOTORHOME (FORD V10 - E SUPERDUTY SERIES) WITH 9,400 MILES.  WE LIMPED THE VEHICLE INTO NEAREST GAS STATION WITH STEEL BELT SHOWING ON TIRES.  NO APPARENT ROAD DAMAGE TO TIRE.  THE TREAD JUST SEPARATED FROM THE TIRE.  TIRES WERE CHECKED AT DEALERSHIP TWO DAYS PRIOR TO TRIP FOR PROPER AIR PRESSURE AND WEAR PRIOR TO LEAVING ON TRIP.  EVERYTHING CHECKED OUT FINE.  WE ARE GOING TO TRY AND CONTACT FIRESTONE DIRECTLY REGARDING THIS MATTER AND SEE IF THEY WILL ASSIST.*AK",
+        "vin": "1FDXE40S7WH"
+    }
+]

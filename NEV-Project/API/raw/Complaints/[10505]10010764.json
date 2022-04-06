@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "03/19/2003",
+        "dateOfIncident": "10/30/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010764,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "CROWN VICTORIA",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "STEERING VIBRATES.  *NLM",
+        "vin": "2FAFP74W92X"
+    }
+]

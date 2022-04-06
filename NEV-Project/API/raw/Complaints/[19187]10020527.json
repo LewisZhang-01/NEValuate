@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "05/26/2003",
+        "dateOfIncident": "05/20/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10020527,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "PLYMOUTH",
+                "productModel": "COLT",
+                "productYear": "1990",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVER SIDE SEAT HARNESS UNSAFE----DELAYS ON WORKING AND CAUGHT HEAD BETWEEN BELT, STEERING WHEEL AND LEFT WELT ON NECK.  SNAP WOULD NOT RELEASE HARNESS BELT.  *NLM",
+        "vin": "JP3CU24X3LU"
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "01/13/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001970,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "GRAND CARAVAN",
+                "productYear": "1999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Evenflo Company, Inc.",
+                "productMake": "EVENFLO",
+                "productModel": "470 (EVENFLO BOOSTER)",
+                "productYear": "9999",
+                "type": "Child Seat"
+            }
+        ],
+        "summary": "CONSUMER STATED THE CLIP ON THE SEAT BELT WHICH LOCKS THE SEAT BELT, ISN'T FUNCTIONING PROPERLY.  THE CAR SEAT IN PARTICULAR, THE CONSUMER USES AN ADDITIONAL CLIP TO SECURE THE SEAT BELT.  SCC  *JB",
+        "vin": ""
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION,WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "05/23/2018",
+        "dateOfIncident": "05/23/2018",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11097614,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "ALTIMA",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BROKEN AND COLLAPSED COIL ON LEFT FRONT TIRE SUSPENSION IN CARPORT STATIONARY POSITION",
+        "vin": "1N4DL01DXXC"
+    }
+]

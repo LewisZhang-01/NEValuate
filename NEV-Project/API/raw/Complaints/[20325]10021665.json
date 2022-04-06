@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "11/05/2003",
+        "dateOfIncident": "03/06/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 1,
+        "numberOfInjuries": 1,
+        "odiNumber": 10021665,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TAURUS",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING 50 MPH THE VEHICLE WAS INVOLVED IN A FRONT END COLLISION.  NONE OF THE AIR BAGS DEPLOYED.  ONE OCCUPANT IN THE VEHICLE WAS KILLED  AND ONE WAS INJURED.  THIS WAS A RENTAL CAR.  *NLM...*AK   *CB   *NLM   *PH  *JB",
+        "vin": "1FAFP55273A"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "02/04/2003",
+        "dateOfIncident": "09/12/2002",
+        "fire": false,
+        "manufacturer": "Mercedes-Benz USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005286,
+        "products": [
+            {
+                "manufacturer": "Mercedes-Benz USA, LLC",
+                "productMake": "MERCEDES BENZ",
+                "productModel": "400E",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "MAIN ENGINE WIRING HARNESS IS CURRENTLY DETERIORATING CAUSING THE WIRES TO BE EXPOSED TO AN INTENSE AMOUNT OF HEAT.",
+        "vin": "WDBEA34E3NB"
+    }
+]

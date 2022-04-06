@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "05/12/2003",
+        "dateOfIncident": "05/01/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018571,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "GRAND CARAVAN",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "GAS GAUGE SHOWS ERRATIC FUEL LEVEL - CAN END UP EMPTY BECAUSE OF FALSE READING SIMILAR TO NHTSA RECALL NO. 97V194 CHRYSLER CAMPAIGN NO. 755.  *NLM",
+        "vin": "1B4GH54L0RX"
+    }
+]

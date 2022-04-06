@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "01/07/2003",
+        "dateOfIncident": "12/29/2002",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002218,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "GRAND CARAVAN",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATED THAT WHEN BUCKLING THE CHILD INTO THE INTEGRATED CHILD RESTRAINT IT WOULD NOT LATCH PROPERLY CAUSING THE CHILD NOT TO BE RESTRAINED PROPERLY. DEALER NOTIFIED. TS",
+        "vin": "2B4GP44G0YR"
+    }
+]

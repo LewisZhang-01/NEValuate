@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/17/2003",
+        "dateOfIncident": "06/14/2003",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10023212,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "325XI",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "EAGLE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "DRIVING ON INTERSTATE-95 IN NEW YORK I FELT A VIBRATION START IN THE BACK OF THE CAR WHICH GREW VERY QUICKLY.  I PULLED OVER TO FIND THE RIGHT REAR TIRE FLAT.  I FOUND THE TIRE HAD A SLIT IN THE SIDE WALL HALF WAY AROUND THE TIRE WITH A GAP BETWEEN THE TREAD AND THE BODY CORE OF THE TIRE.  IT APPEARS THAT THE TREAD STARTED TO SEPARATE FORM THE TIRE.  I CHECK THE TIRE PRESSURES REGULARLY AND KEEP THEM AT THE MANUFACTURES RECOMMENDED PRESSURES.  *JB",
+        "vin": "WBAEP33442P"
+    }
+]

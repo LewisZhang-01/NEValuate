@@ -1,0 +1,24 @@
+[
+    {
+        "components": "PARKING BRAKE,POWER TRAIN",
+        "crash": true,
+        "dateComplaintFiled": "03/06/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009429,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE EMERGENCY BRAKE AND TRANSMISSION FAILED, WHICH RESULTED IN A COLLISION. *AK  *JB",
+        "vin": ""
+    }
+]

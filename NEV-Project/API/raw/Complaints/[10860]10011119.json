@@ -1,0 +1,31 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "03/07/2003",
+        "dateOfIncident": "03/05/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10011119,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CORVETTE",
+                "productYear": "1998",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "DELCO ELECT. DIV., GM",
+                "productMake": "DELCO",
+                "productModel": "DELCO",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "THE ENGINE LIGHT ILLUMINATED, THE DEALERSHIP INDICATED THE AC DELCO BATTERY LEAKED ACID ALL OVER THE WIRING HARNESS.*JB",
+        "vin": ""
+    }
+]

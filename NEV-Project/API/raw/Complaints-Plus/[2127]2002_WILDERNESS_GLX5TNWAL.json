@@ -1,0 +1,31 @@
+[
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "08/02/2007",
+        "dateOfIncident": "07/28/2007",
+        "fire": false,
+        "manufacturer": "FLEETWOOD ENTERPRISES, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10198301,
+        "products": [
+            {
+                "manufacturer": "FLEETWOOD ENTERPRISES, INC.",
+                "productMake": "WILDERNESS",
+                "productModel": "GLX5TNWAL",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "SAMSUNG ELECTRONICS CO., LTD",
+                "productMake": "SAMSUNG MICROWAVE",
+                "productModel": "MR5492W",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A SAMSUNG MICROWAVE MR5492W.  THE MICROWAVE WAS REPAIRED AS PART OF A RECALL (NHTSA CAMPAIGN #03E044000) IN 2003.  APPROXIMATELY ONE YEAR LATER THE MICROWAVE BEGAN TO OVERHEAT EXCESSIVELY AND THE MANUFACTURE REFUSED TO REPAIR.  HE FELT IT WAS STILL UNSAFE.    UPDATED 02-01-08.  *KB  UPDATED 02/01/08  *TR",
+        "vin": "1ED5G302821"
+    }
+]

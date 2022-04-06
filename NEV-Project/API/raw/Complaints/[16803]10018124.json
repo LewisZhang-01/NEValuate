@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "06/09/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018124,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SAFARI",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE IS  EXPERIENCING THE SAME FAILURE WITH IT'S WINDSHIELD WIPER AS STATED IN RECALL 03 V 159 000, BUT IT'S VIN NUMBER OR MODEL YEAR IN NOT INCLUDED.   *TT",
+        "vin": "1GKDM19Z7RB"
+    }
+]

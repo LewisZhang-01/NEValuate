@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING,ELECTRICAL SYSTEM,VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "12/24/2002",
+        "dateOfIncident": "11/21/2002",
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001455,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "TOWN CAR",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE CAUGHT FIRE WHEN ENGINE WAS TURNED OFF.  THE FIRE DEPT SAID THE SPEED CONTROL MODULE OVER THE LEFT WHEEL STARTED THE FIRE AND/OR  DUE TO AN ELECTRICAL SHORT.  THE VEHICLE WAS A TOTAL LOSS.  TS  SCC  REFERENCED IN EA02-025",
+        "vin": "1LNLM82W6PY"
+    }
+]

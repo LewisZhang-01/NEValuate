@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "05/28/2003",
+        "dateOfIncident": "05/28/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021754,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERCURY",
+                "productModel": "SABLE",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "REAR MIDDLE SEAT BELT WOULD NOT PULL OUT.    *TT",
+        "vin": "1MEFM50U01A"
+    }
+]

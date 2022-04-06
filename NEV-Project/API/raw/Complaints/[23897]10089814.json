@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "08/26/2004",
+        "dateOfIncident": "08/03/2004",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10089814,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DURING A 45 MPH FRONTAL COLLISION FRONT AIR BAGS DID NOT DEPLOY.  CONSUMER SUSTAINED MINOR INJURIES,  AND HAD THE VEHICLE TOWED.  DEALERSHIP WAS NOTIFIED, BUT DID NOT RESOLVE THE PROBLEM. *AK",
+        "vin": ""
+    }
+]

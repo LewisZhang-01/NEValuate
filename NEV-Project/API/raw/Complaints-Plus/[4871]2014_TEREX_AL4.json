@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "04/21/2014",
+        "dateOfIncident": "04/19/2014",
+        "fire": false,
+        "manufacturer": "Terex Aerial Work Platforms",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10584064,
+        "products": [
+            {
+                "manufacturer": "Terex Aerial Work Platforms",
+                "productMake": "TEREX",
+                "productModel": "AL4",
+                "productYear": "2014",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "TBC Corporation",
+                "productMake": "TBC",
+                "productModel": "CLASSIC RADIAL SR",
+                "productYear": "9999",
+                "size": "P225/60R16",
+                "type": "Tire"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A SET OF TASKMASTER TIRES (N/A), SIZE: ST205/75D WHICH CAME INSTALLED ON A TARTER INDUSTRIES UTILITY TRAILER (N/A). THE TIRES WERE MANUFACTURED MAY 2012 AND JUNE 2012. THE CONTACT INDICATED THAT BOTH TIRES EXHIBITED SEVERE CRACKING ON THE OUTER SIDE WALL. THE TRAILER MANUFACTURER WAS NOTIFIED OF THE DEFECT. THE FAILURE MILEAGE OF THE TIRE WAS 10. THE TRAILER FAILURE MILEAGE WAS UNKNOWN...UPDATED 06/09/14 *BF UPDATED  06/16/2014 *JS",
+        "vin": ""
+    }
+]

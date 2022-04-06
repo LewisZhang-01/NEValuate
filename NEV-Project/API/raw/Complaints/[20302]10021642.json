@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "05/27/2003",
+        "dateOfIncident": "05/02/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021642,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GENERAL ELECTRIC",
+                "productModel": "GENERAL ELECTRIC",
+                "productYear": "9999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE REAR SUSPENSION BROKE IN TWO PLACES WHERE IT WAS WELDED TO THE AXLE.  THIS CAUSED THE VEHICLE TO SHAKE, RATTLE, AND BOUNCE.   *NLM.  *AK",
+        "vin": "5ASAG2746YF"
+    }
+]

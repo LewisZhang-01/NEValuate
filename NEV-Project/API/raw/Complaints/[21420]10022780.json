@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "08/01/2003",
+        "dateOfIncident": "06/10/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022780,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "MARK VIII",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AS THE CONSUMER PULLED INSIDE THE PARKING LOT, TRAVELING AT 25MPH AND WITHOUT PRIOR WARNING, ANOTHER VEHICLE HIT THE CONSUMER'S VEHICLE FROM THE SIDE AND THE DUAL AIRBAGS  DID NOT DEPLOY.   *AK   *SCC",
+        "vin": "9999"
+    }
+]

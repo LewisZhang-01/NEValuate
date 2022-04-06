@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC,POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "04/14/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015260,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "BLAZER",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ANTILOCK BRAKE SYSTEM MODULE MAY MALFUNTION WHILE VEHICLE IS IN 4WD, CAUSING EXTENDED STOPPING DISTANCE. *TS",
+        "vin": "1GNDT13W0R2"
+    }
+]

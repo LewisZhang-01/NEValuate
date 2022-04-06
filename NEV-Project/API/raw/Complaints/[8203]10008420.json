@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "03/05/2003",
+        "dateOfIncident": "03/04/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10008420,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "MALIBU",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ALTERNATOR BELT BROKE, CAR OVER HEATED AND ANTI FREEZE BOILED OVER.*JB",
+        "vin": "1G1ND52M3VY"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "12/10/2003",
+        "dateOfIncident": "03/21/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10024535,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "COROLLA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "UNIROYAL TIRE CO.",
+                "productMake": "UNIROYAL",
+                "productModel": "UNIROYAL",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "ALL FOUR TIRES ARE LEAKING AIR FROM THE SIDEWALL AND DEFLATING. CAUSE UNKNOWN.*AK                      BOTH FAILURES OCCURRED WHILE DRIVING DOWN A LOCAL STREET. THE CONSUMER COULD SEE THE TIRE DEFLATING AND HEAR AIR LEAKING. THE TOYOTA DEALERSHIP AND THE TIRE COMPANY WERE CONTACTED IN REFERENCE TO BOTH FAILURES BUT TO NO AVAIL. THE CONSUMER WOULD LIKE TO REIMBURSED FOR BOTH TIRE REPAIRS.   *PH",
+        "vin": "JTDBR32E430"
+    }
+]

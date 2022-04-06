@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "06/18/2003",
+        "dateOfIncident": "06/03/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10024343,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER'S VEHICLE COLLIDED HEAD-ON INTO THE REAR OF ANOTHER VEHICLE WHILE TRAVELING APPROXIMATELY 40MPH.  NEITHER  FRONT DRIVER OR PASSENGER AIR BAGS DEPLOYED.*AK",
+        "vin": "1FTZX1764WN"
+    }
+]

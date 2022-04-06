@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": true,
+        "dateComplaintFiled": "05/01/2003",
+        "dateOfIncident": "01/22/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10017998,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAVALIER",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING THE VEHICLE WAS REAR ENDED WHICH CAUSED THE DRIVERS SEAT TO COLLAPSE AND AS  A RESULT THE DRIVER WAS THROWN INTO THE BACK SEAT.  *NLM",
+        "vin": "1G1JC1248Y7"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "03/02/2008",
+        "dateOfIncident": "07/11/2007",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10219814,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "MONTE CARLO",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "GAS GAUGE BECOMES ERRATIC (FLUCTUATES) WHEN GAS GAUGE READING GETS TO APPROXIMATELY 1/4 TANK POSITION.  *TR",
+        "vin": "2G1WX15K319"
+    }
+]

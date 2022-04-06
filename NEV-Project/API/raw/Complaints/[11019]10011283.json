@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING,POWER TRAIN,ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "04/01/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10011283,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "YUKON",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CRUISE CONTROL FAILURE CAUSED BY AN ABERRANT VOLTAGE ON STOP LAMP CIRCUIT. ALSO THE PCM, STARTER AND SERPENTINE BELT WAS REPLACED.  *AK  *JB",
+        "vin": "1GKEK13T21J"
+    }
+]

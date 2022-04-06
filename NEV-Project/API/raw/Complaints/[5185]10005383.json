@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": true,
+        "dateComplaintFiled": "02/06/2003",
+        "dateOfIncident": "02/01/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005383,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERCURY",
+                "productModel": "MYSTIQUE",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE REAR BUMPER HAD NO SHOCK ABSORBER MATERIAL INSTALLED WITHIN THE SHELL.  THUS A MINOR HIT AND RUN RESULTED IN OVER 880 DOLLARS IN DAMAGE TO THE REAR BUMPER.",
+        "vin": "1MELM6634SK"
+    }
+]

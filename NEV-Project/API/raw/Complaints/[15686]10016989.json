@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "05/04/2003",
+        "dateOfIncident": "05/01/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10016989,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "MONTANA",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WINDSHIELD WIPERS WILL NOT RETURN WHEN OFF, THEY RUN BUT STAY UP WHEN OFF.       *JB",
+        "vin": "1GMDU06E0XD"
+    }
+]

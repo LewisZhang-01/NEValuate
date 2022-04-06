@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION,TIRES",
+        "crash": false,
+        "dateComplaintFiled": "02/21/2003",
+        "dateOfIncident": "02/01/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009010,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THERE WAS AN EXCESSIVE VIBRATION COMING FROM THE REAR PASSENGER TIRES, THE DEALER WAS UNABLE TO DETERMINE CAUSE OF VIBRATION OR EXCESSIVE WEAR ON TIRES.*JB",
+        "vin": "1FAFP33P1YW"
+    }
+]

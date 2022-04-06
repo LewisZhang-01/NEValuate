@@ -1,0 +1,40 @@
+[
+    {
+        "components": "TIRES",
+        "crash": true,
+        "dateComplaintFiled": "02/12/2003",
+        "dateOfIncident": "09/04/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 2,
+        "odiNumber": 10007140,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "1998",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE STEEL PROD. CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "FIRESTONE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            },
+            {
+                "manufacturer": "MICHELIN TIRE CORP.",
+                "productMake": "MICHELIN",
+                "productModel": "MICHELIN",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE RIGHT REAR TIRE EXPERIENCED A BLOWOUT, WHICH CAUSED THE VEHICLE TO ROLL OVER.  (TIRE BY MICHELIN)  THERE WAS A CUT FOUND IN THE INSIDE OF THE SIDEWALL.  *JB  THE VEHICLE PULLED TO THE LEFT, VEERED HARSHLY TO THE RIGHT, AND THE RIGHT REAR TIRE HAD SHREDDED, WHICH WAS A FIRESTONE TIRE.  (THE FRONT TIRES WERE MOVED TO THE REAR AND REPLACED THE FRONT TIRES WITH THE SPARE A NEW TIRE.  IN OCTOBER 2000, ALL OF THE TIRES WERE REPLACED WITH MICHELIN TIRES)  *SCC",
+        "vin": "1FMZU35P8WZ"
+    }
+]

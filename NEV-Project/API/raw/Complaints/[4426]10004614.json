@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/24/2003",
+        "dateOfIncident": "01/19/2003",
+        "fire": false,
+        "manufacturer": "MONACO COACH CORPORATION",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004614,
+        "products": [
+            {
+                "manufacturer": "MONACO COACH CORPORATION",
+                "productMake": "MCKENZIE",
+                "productModel": "MEDALLION",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "GOODYEAR",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "CONSUMER STATED THAT  WHILE DRIVING AND WITHOUT WARNING THE LEFT REAR TIRE HAD TREAD SEPERATION AND IT WILL BE HARD FOR THE CONSUMER TO CONTROL THE VEHICLE. DEALER NOTIFIED. SIZE #ST22575R15 PLEASE PROVIDE THE DOT #.            TS",
+        "vin": "PLEASE PROV"
+    }
+]

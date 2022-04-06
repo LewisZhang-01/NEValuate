@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "12/26/2002",
+        "dateOfIncident": "01/01/2000",
+        "fire": false,
+        "manufacturer": "Mercedes-Benz USA, LLC",
+        "numberOfDeaths": 1,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000365,
+        "products": [
+            {
+                "manufacturer": "Mercedes-Benz USA, LLC",
+                "productMake": "MERCEDES BENZ",
+                "productModel": "500",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FAULTY WIRING IN THE ENGINE BAY.  THE ENGINE WIRING HARNESS IS DISENTIGRATING FOR NO OTHER REASON THAN AGE.  AS A RESULT, THE ENGINE IS STARTING TO EXIBIT STALLING ISSUES AND ROUGH RUNNING, ALSO FAULT CODES ARE PRODUCED ON THE CAR COMPUTER.",
+        "vin": ""
+    }
+]

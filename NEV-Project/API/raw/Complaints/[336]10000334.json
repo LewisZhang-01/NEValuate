@@ -1,0 +1,31 @@
+[
+    {
+        "components": "STEERING,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "12/21/2002",
+        "dateOfIncident": "10/14/2002",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000334,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "MATRIX",
+                "productYear": "2003",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "CROWN",
+                "productYear": "1969",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "AFTER PURCHASE, COMPLAINED OF HAVING STEERING WANDER. AND NOT ONLY DID THE DEALER NOT FIX THE PROBLEM, BUT RETURNED THE CAR WITH THE POWER STEERING MALFUNCTIONING. AFTER SEVERAL MORE TRIPS TO THE DEALER, THEY FINALLY REPLACED THE STEERING RACK ADMITTING PROBLEMS WITH SOME UNITS. UPON BEING INFORMED THAT THIS MADE NO DIFFERENCE, AND WITHOUT FURTHER RETESTING, CARMAX AND TOYOTA REFUSE TO PERFORM ANY MORE ATTEMPTS AT FIXING EITHER PROBLEM. TS",
+        "vin": "2T1KR32E13C"
+    }
+]

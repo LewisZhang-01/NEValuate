@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN,ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "03/08/2003",
+        "dateOfIncident": "01/22/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010134,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "RAM QUAD CAB",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CHECK ENGINE LIGHT COMES ON  -- RAN ON DRB III FOUND DIAGNOSTIC TROUBLE CODES\"S SET FOR NO COMMUNICATION FROM TCM TO PCM  CALLED TEC LINE WAS TOLD TO REPLACE PCM RESET VALUES  ROAD TESTED VEHICLE-- MOD PO 8035029  * (1)  WAS TOLD WIRE CONNECT TCM   * (2)  REPLACED PCM -- RENTAL01/22/03 - 02/06/03.  *NLM",
+        "vin": "3D7HU18N62G"
+    }
+]

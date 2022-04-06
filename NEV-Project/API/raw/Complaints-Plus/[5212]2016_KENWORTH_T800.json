@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": true,
+        "dateComplaintFiled": "11/30/2021",
+        "dateOfIncident": "04/04/2019",
+        "fire": false,
+        "manufacturer": "PACCAR Incorporated",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 11442106,
+        "products": [
+            {
+                "manufacturer": "PACCAR Incorporated",
+                "productMake": "KENWORTH",
+                "productModel": "T800",
+                "productYear": "2016",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Double Coin Holdings, Ltd.",
+                "productMake": "DOUBLE COIN",
+                "productModel": "RLB900+",
+                "productYear": "9999",
+                "size": "385/65 R22.5",
+                "type": "Tire"
+            }
+        ],
+        "summary": "385/65 R22.5",
+        "vin": "1NKDGGGG60J"
+    }
+]

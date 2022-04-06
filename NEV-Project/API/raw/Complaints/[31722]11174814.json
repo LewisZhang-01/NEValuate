@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "02/06/2019",
+        "dateOfIncident": "02/06/2019",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11174814,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO 1500",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKE PEDAL BECOMES ROCK HARD AND NEARLY IMPOSSIBLE TO STOP WHEN DRIVING AT LOW SPEEDS OR ON AN INCLINE",
+        "vin": "3GCUKREC4GG"
+    }
+]

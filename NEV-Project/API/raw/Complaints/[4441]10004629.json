@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "07/03/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004629,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "300M",
+                "productYear": "1999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "EAGLE GS-C",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE CONSUMER STATED THAT ALL 4 TIRES CRACKED ALONG THE SIDEWALL.   THE TOTAL USAGE OF THE VEHICLE WAS LESS THAN 33,000.  THE CONSUMER STATED THAT WHILE DRIVING THE TIRES LOST PRESSURE WHICH RESULTED IN A BLOWOUT.   *TS     *CB    *NLM",
+        "vin": "2C3HE66G1XH"
+    }
+]

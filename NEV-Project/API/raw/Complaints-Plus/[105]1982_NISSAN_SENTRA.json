@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "04/15/1997",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 516437,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "SENTRA",
+                "productYear": "1982",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE RUSTED/CORRODED UNDERNEATH, NOT SAFE TO DRIVE.",
+        "vin": "JN1HB12S4CV"
+    }
+]

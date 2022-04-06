@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "05/01/2003",
+        "dateOfIncident": "03/27/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017979,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAVALIER",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING ON THE INTERSTATE AT 60 MPH THE VEHICLE RAN OUT OF GAS ALTHOUGH THE FUEL GAUGE READ 1/2 FULL.  THE VEHICLE WAS TAKEN TO THE DEALER WHICH STATED THE VEHICLE NEEDED A NEW SENSOR.  *NLM",
+        "vin": "1G1JF524017"
+    }
+]

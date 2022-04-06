@@ -1,0 +1,31 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "05/24/2003",
+        "dateOfIncident": "09/15/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019250,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "CONTOUR",
+                "productYear": "1998",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FEDERA-MOGUL CORPORATION",
+                "productMake": "NAPA",
+                "productModel": "NAPA",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "TIMING BELT NEEDED TO BE REPLACED. HAVE TAKEN THE CAR BACK 4 TIMES SINCE THEN FOR THE SAME PROBLEM WITH THE TIMING BELT.    *NLM",
+        "vin": "1FAFP6637WK"
+    }
+]

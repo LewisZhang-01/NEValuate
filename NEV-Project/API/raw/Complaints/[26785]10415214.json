@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "07/26/2011",
+        "dateOfIncident": "05/15/2011",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10415214,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVER'S SEAT BELT SOCKET NO LONGER LATCHES. FORD DEALER ADVISES REPLACEMENT IS DISCONTINUED. AFTER MARKET ALTERNATIVES NOT AVAILABLE. WITH \"CLICKET OR TICKET\" PROGRAMS IN PLACE VEHICLE BECOMES INOPERATIVE.  *TR",
+        "vin": "1FMDU34X3SU"
+    }
+]

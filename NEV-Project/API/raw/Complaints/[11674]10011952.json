@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "03/18/2003",
+        "dateOfIncident": "02/18/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10011952,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "CARAVAN",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER INDICATED THAT THEIR VEHICLE'S AIR BAG CLOCKSPRING IS EXPERIENCING THE SAME DEFECT AS STATED IN RECALL NUMBER 02 V 293 000, BUT VEHICLE'S  VIN NUMBER IS NOT INCLUDED.  *NLM",
+        "vin": "1B4GP54R2XB"
+    }
+]

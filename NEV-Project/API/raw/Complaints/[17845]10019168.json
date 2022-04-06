@@ -1,0 +1,24 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "05/23/2003",
+        "dateOfIncident": "05/14/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019168,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUEL GAUGE OPERATES ERRATICALLY.  SHOWS IT IS FULL WHEN IT IS ONLY 3/4 FULL.  WHILE DRIVING, THE GAUGE CHANGES QUICKLY FROM FULL TO 3/4 FULL.",
+        "vin": "1GNEC16ZX2J"
+    }
+]

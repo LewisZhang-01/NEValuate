@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "05/05/2003",
+        "dateOfIncident": "04/29/2003",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10018185,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "MAXIMA",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING 35 MPH THE VEHICLE WAS INVOLVED IN A FRONTAL COLLISION.  THE DRIVERS AIR BAG DEPLOYED AND AS A RESULT THE DRIVER SUSTAINED SECOND DEGREE BURNS TO THE FACE.  *NLM  *SCC",
+        "vin": "JN1HJ01E1PT"
+    }
+]

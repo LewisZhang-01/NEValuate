@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "03/10/2003",
+        "dateOfIncident": "03/08/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10011210,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "CAMRY",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE DRIVER'S SIDE TAIL LIGHT HAD BLOWN OUT SEVERAL TIMES, THE  MECHANIC FINALLY DIAGNOSED THE VEHICLE'S ELECTRONIC CONTROL MODULE SHORTED OUT THE TAIL LIGHTS.8JB",
+        "vin": "4T1BG12K6TU"
+    }
+]

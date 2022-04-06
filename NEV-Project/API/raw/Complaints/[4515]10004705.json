@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC,VEHICLE SPEED CONTROL,WHEELS",
+        "crash": true,
+        "dateComplaintFiled": "02/03/2003",
+        "dateOfIncident": "11/23/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004705,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO 1500",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE CONSUMER HAS EXPERIENCED THE FOLLOWING:  WHEN THE ANTILOCK IS ENGAGED, THE PEDAL GOES TO THE FLOOR (ON SLOW BRAKING/IT WILL CYCLE THE ABS), THE HUB RUSTS AND RENDERS THE WHEEL, AND THE SPEED LEFT FRONT SENSOR IS INACCURATE AND WAS DROPPING OUT AT 6 MPH AND UNDER.  SCC",
+        "vin": "1GCEK19T8YE"
+    }
+]

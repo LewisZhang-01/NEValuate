@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "06/12/2003",
+        "dateOfIncident": "06/10/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 2,
+        "odiNumber": 10021489,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "BLAZER",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "INVOLVED IN HEAD ON COLLISION, BOTH GOING APPROXIMATELY 30 MPH, NEITHER FRONT AIR BAG DEPLOYED.  SEVERE FACIAL INJURIES FOR ONE AND CONCUSSION FOR PASSENGER RESULTED.  *JB",
+        "vin": "1GNDT13W2X2"
+    }
+]

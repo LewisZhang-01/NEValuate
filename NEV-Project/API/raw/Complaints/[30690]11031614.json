@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "10/03/2017",
+        "dateOfIncident": "09/28/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11031614,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "HARD JUMPY BRAKING. IT WILL SOMETIMES NOT STOP AT ALL OR IT WILL STOP REALLY HARD. THE MECHANIC SAYS THERE WAS A LEAK AND THE VACUUM MOTOR HAS STOPPED WORKING. THIS WOULD HAPPEN ANY TIME MOVING SLOWLY AT HOME OR IN TOWN OR DRIVING DOWN THE HIGHWAY. THIS HAS HAPPENED MULTIPLE TIMES DURING THE PAST MONTH.",
+        "vin": "1FTFW1ET2DK"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, OTHER",
+        "crash": false,
+        "dateComplaintFiled": "01/27/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003825,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "GRAND CHEROKEE",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE GAS GAUGE MALFUNCTIONS.  (OFTEN STOPS AND DROPS TO EMPTY, CAUSES LOW FUEL LIGHT TO SIGNAL-UNTIL THE GAUGE RETURNS TO IT'S PROPER READING, THIS OCCURS WHEN THE TANK IS ABOUT THREE QUARTERS FULL, AND WILL READ EMPTY WHEN THE TANK IS FULL)  SCC",
+        "vin": "1J4G278Y1WC"
+    }
+]

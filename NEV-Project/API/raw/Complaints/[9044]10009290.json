@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "02/10/2003",
+        "dateOfIncident": "01/09/2003",
+        "fire": false,
+        "manufacturer": "UNKNOWN MANUFACTURER",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009290,
+        "products": [
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Continental Tire the Americas, LLC",
+                "productMake": "CONTINENTAL",
+                "productModel": "CONTINENTAL",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHILE DRIVING, THE TIRE BLEWOUT AT THE SIDEWALL (GENERAL/CONTINENTAL TIRE, NORTH AMERICA).  THE CONSUMER STATED THE LOW TIRE LIGHT NEVER ILLUMINATED ON THE VEHICLE. THE MECHANIC WAS UNABLE TO DETERMINE IF THE TIRE HAD A QUALITY PROBLEM.  *JB",
+        "vin": ""
+    }
+]

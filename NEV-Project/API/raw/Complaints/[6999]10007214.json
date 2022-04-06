@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "02/12/2003",
+        "dateOfIncident": "01/28/2003",
+        "fire": true,
+        "manufacturer": "FREIGHTLINER LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10007214,
+        "products": [
+            {
+                "manufacturer": "FREIGHTLINER LLC",
+                "productMake": "FREIGHTLINER",
+                "productModel": "FREIGHTLINER",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "A FIRE STARTED IN THE TRAILER CONTROL MODULE. VEHICLE WAS A 2002 FREIGHTLINER M2.*JB",
+        "vin": "1FVACYCS73H"
+    }
+]

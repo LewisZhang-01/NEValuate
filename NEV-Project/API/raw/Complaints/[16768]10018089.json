@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "05/02/2003",
+        "dateOfIncident": "04/19/2003",
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018089,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "SUPERCREW",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE HIT A HOLE IN THE ROAD AND THE AIR BAGS DEPLOYED.  THE DRIVER SIDE AIR BAG CAUGHT ON FIRE.   *NLM",
+        "vin": "1FTRW08L41K"
+    }
+]

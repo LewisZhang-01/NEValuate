@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "01/15/2003",
+        "dateOfIncident": "11/01/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002709,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "VENTURE",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "POWER SLIDING DOOR BUZZER SOMETIMES SOUNDS ALTHOUGH THE DOORS ARE CLOSED. I HAVE TO DISABLE THE POWERSWITCH AND SLAM THE DOOR TO CONTINUE.",
+        "vin": "1GNDX03E7WD"
+    }
+]

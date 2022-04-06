@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "02/26/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10008582,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPEDITION",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Continental Tire the Americas, LLC",
+                "productMake": "CONTINENTAL",
+                "productModel": "CONTINENTAL",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "BOTH FRONT TIRES FAILED AT THE SAME TIME, WHILE DRIVING ON THE HIGHWAY.  THE MANUFACTURER DENIED REIMBURSEMENT, BECAUSE THE RECEIPTS FELL OUT OF DATE.  THE CONSUMER REQUESTED TO BE COMPENSATED FOR THE REPLACEMENT OF THE TIRES AT 10K MILES.  SCC  *JB",
+        "vin": "1FMRU1567YL"
+    }
+]

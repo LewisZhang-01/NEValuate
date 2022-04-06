@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "12/21/2002",
+        "dateOfIncident": "12/20/2002",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000340,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "AUDI",
+                "productModel": "A4",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CAR ENGINE WAS MISFIRING WHILE CHECK ENGINE LIGHT FLASHED.  THERE WAS A SEVERE LACK OF POWER.  DEALER DIAGNOSED PROBLEM TO BE FAULTY IGNITION COIL PACK.",
+        "vin": "WAULC68E32A"
+    }
+]

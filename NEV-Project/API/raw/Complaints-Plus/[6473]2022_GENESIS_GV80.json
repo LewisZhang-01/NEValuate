@@ -1,0 +1,46 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "03/29/2022",
+        "dateOfIncident": "03/29/2022",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11458883,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "GENESIS",
+                "productModel": "GV80",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Seat belt does not retract properly. Often has slack and has to be tugged multiple times or pulled all the way out and then tugged with harder pressure to fully retract properly. This is not safe to drive around as the additional slack does not protect me in the event of a crash or accident. I took my car to the dealership to be repaired but was told I needed to book an appointment. The Service Manager simply tugged on the seatbelt until it retracted and told me I was good to go for the time being, which did not satisfy my safety concern. I have not had the seatbelt inspected by any government safety bodies just yet and no warning lights or sounds unless I unclick the seatbelt latch.",
+        "vin": "KMUHBDSB0NU"
+    },
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "03/12/2022",
+        "dateOfIncident": "03/10/2022",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11456450,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "GENESIS",
+                "productModel": "GV80",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THIS CAR STARTED TO SHOW ENGINE PROBLEMS, WHEN TRYING TO DRIVE THE CAR BEGINS TO SHAKE A LOT AND LOUD NOISES AND A LIGHT SHOWING AN ENGINE MALFUNCTION POPS UP. WE HAVE CONTACTED HYUNDAI/GENESIS ABOUT THIS. THEY SAID IT WAS A SOFTWARE ISSUE AND NEEDED AN UPDATE.SEEMS LIKE PROBLEM GO AWAY. NEXT DAY , THE EXACT SAME PROBLEMS STILL EXIST. IT FEELS UNSAFE TO DRIVE THE THIS VEHICLE AS I AM WORRIED WHAT IF THE ENGINE FULLY BREAKS DOWN MID DRIVE OR SOMEWHERE PARKED LEAVING ME STRANDED",
+        "vin": "KMUHCESC7NU"
+    }
+]

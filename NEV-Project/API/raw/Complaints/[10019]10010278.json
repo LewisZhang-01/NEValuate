@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "03/11/2003",
+        "dateOfIncident": "05/30/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010278,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "WINDSTAR",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TRANSMISSION FAILED ON 5/30/02 ON OUR 1995 FORD WINDSTAR WHEN MILEAGE WAS 78,476.  COST OF NEW TRANSMISSION WAS $2732.92.  PREVIOUSLY WE HAD REPLACED TRANSMISSION IN 8/00 WHEN MILEAGE WAS 61,210.  *JB",
+        "vin": "2FMDA5147SB"
+    }
+]

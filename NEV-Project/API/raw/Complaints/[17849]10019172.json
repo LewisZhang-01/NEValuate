@@ -1,0 +1,24 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "05/23/2003",
+        "dateOfIncident": "10/17/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019172,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUEL GUAGE OPERATES ERRATICALLY.  TANK IS FULL.  GAUGE STARTS AT EMPTY AND VERY SLOWLY CREEPS UP TO FULL AS I DRIVE ALONG.  WHEN I COME TO A STOP, THE GUAGE DROPS TO EMPTY AGAIN.  REPEATS BEHAVIOR LIKE THIS FOR SEVERAL DAYS, SEVERAL TANK FILLS, AND 2-3 THOUSAND MILES.",
+        "vin": "1GNEC16ZX2J"
+    }
+]

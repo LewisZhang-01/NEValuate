@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "02/25/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009239,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE FRONT END OF THE VEHICLE VIBRATED AT ANY SPEED, WHICH MADE IT DIFFICULT TO CONTROL VEHICLE, THE VEHICLE WAS SERVICE 8 TIMES, WITH NO REMEDY.*JB",
+        "vin": "1GCHK33J8XF"
+    }
+]

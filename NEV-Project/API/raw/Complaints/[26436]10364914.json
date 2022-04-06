@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "11/05/2010",
+        "dateOfIncident": "11/01/2010",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10364914,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "COLORADO",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE HVAC BLOWER MOTOR RESISTOR ASSEMBLY MELTED ON THE VEHICLE.   THE CURRENT PASSING THROUGH THE UNIT IS SUFFICIENT TO MELT THE CONNECTOR AND DEGRADE THE WIRES TO BRITTLE.  I BELIEVE THIS IS A POSSIBLE FIRE HAZARD.  A NUMBER OF CO-OWNERS HAVE FOUND THE SAME DEFECT.    THE CONNECTION IN QUESTION  TERMINAL (C) GOES TO A GROUND DISTRIBUTION BLOCK THAT MIGHT NOT BE SUFFICIENT.",
+        "vin": "1GCDT196048"
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "04/10/2003",
+        "dateOfIncident": "04/02/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10014238,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "IMPALA",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "MY VEHICLE HAS BEEN SERVICED AT FAIRWAY ON SEVERAL OCCASIONS, WHICH INCLUDED A SIMILAR PROBLEM OVER A YEAR AGO THAT WAS STILL UNDER WARRANTY.  THIS WAS FOR A CRACKED COOLANT CONTAINER AFTER I NOTICED THE LOW COOLANT LIGHT CAME ON MY MESSAGE CENTER. THIS SAME PROBLEM IS WHAT BROUGHT ME IN FOR MY RECENT VISIT.  I WANTED TO FIND OUT WHY THIS LIGHT WAS COMING ON AGAIN.  THIS TIME, THE ANSWER WAS $1012.70.  COINCIDENTALLY, THIS IS 3 MONTHS AFTER MY WARRANTY EXPIRED.   *NLM",
+        "vin": "2G1WF52E2Y9"
+    }
+]

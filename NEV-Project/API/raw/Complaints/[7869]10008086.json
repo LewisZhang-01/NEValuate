@@ -1,0 +1,24 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "02/25/2003",
+        "dateOfIncident": "02/23/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10008086,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPEDITION",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING THE CABLE HOLDING SPARE UNDER CAR TORE ALLOWING TIRE TO HIT MY CAR AND ALMOST CAUSE AN ACCIDENT.*JB",
+        "vin": "1FMRU17L1YL"
+    }
+]

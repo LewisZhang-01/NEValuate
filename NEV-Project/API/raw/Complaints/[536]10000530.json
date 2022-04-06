@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, AIR",
+        "crash": false,
+        "dateComplaintFiled": "01/05/2003",
+        "dateOfIncident": "12/10/2001",
+        "fire": false,
+        "manufacturer": "Volvo Car USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000530,
+        "products": [
+            {
+                "manufacturer": "Volvo Car USA, LLC",
+                "productMake": "VOLVO",
+                "productModel": "850",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ABS/TRACS MODULE DEFECTIVE",
+        "vin": "YV1LS5514T2"
+    }
+]

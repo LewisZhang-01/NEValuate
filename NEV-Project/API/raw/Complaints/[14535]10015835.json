@@ -1,0 +1,32 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "04/14/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "MONACO COACH CORPORATION",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015835,
+        "products": [
+            {
+                "manufacturer": "MONACO COACH CORPORATION",
+                "productMake": "MONACO COACH",
+                "productModel": "KNIGHT",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "GOODYEAR",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE ANTI-LOCK BRAKE LIGHT ILLUMINATED ON THE DASH BOARD. *JB THE REAR BRAKE GRABBED AND POLLED UNIT TO THE RIGHT, ALMOST IN THE BRIDGE. THE UNIT HEATED UP TO THE POINT THE COMPLETE REAR UNIT BUSHINGS AND BEARINGS, ROTORS AND CALIPER MUST BE REPLACED.*TS",
+        "vin": ""
+    }
+]

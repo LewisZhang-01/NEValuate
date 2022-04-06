@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "04/07/2003",
+        "dateOfIncident": null,
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10011783,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "BRONCO II",
+                "productYear": "1987",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE FAILED TO START. THE MECHANIC REPLACED THE COIL, IGNITION SWITCH, BATTERY, EXHAUST SYSTEM AND ALSO A TUNE WAS PERFORMED ON THE VEHICLE, HOWEVER THE VEHICLE CAUGHT ON FIRE, IT WAS DETERMINED A WIRE WAS NOT GROUNDED CORRECTLY.  *TS  *JB",
+        "vin": ""
+    }
+]

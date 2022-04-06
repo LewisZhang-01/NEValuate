@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "04/30/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017915,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "CARAVAN",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE CLOCK SPRING WAS BROKEN CAUSING AN OPEN CIRCUIT WHICH CAUSED THE HORN, AND CRUISE CONTROL TO BE INOPERABLE.   DEALER SAID VIN NOT INCLUDED IN RECALL.",
+        "vin": "1B4GP44L8WB"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "03/11/2003",
+        "dateOfIncident": "02/20/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010318,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "SATURN",
+                "productModel": "SL",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SMALL PLASTIC RING IN SHIFTER LINKAGE BROKE WHILE IN TRAFFIC LEAVING CAR STUCK IN FIRST GEAR.*JB",
+        "vin": "1G8ZF5283WZ"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "TIRES,WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "01/18/2003",
+        "dateOfIncident": "11/14/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002889,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "RIGHT FRONT  VIBRATION,RIGHT FRONT FLOOR AND MIRROR VIBRATION , THIS TRUCK HAS BEEN TO THE DEALER FOUR TIMES WITHOUT ANY SATISFACTORY RESULTS",
+        "vin": "1FTRW08L61K"
+    }
+]

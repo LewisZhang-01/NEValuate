@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": true,
+        "dateComplaintFiled": "02/12/2003",
+        "dateOfIncident": "05/20/2002",
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005767,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THERE IS A PROBLEM WITH THE BATTERY DISCHARGING . ALSO THE ENGINE WAS STALLING . I HAD TO TAKE THE VEHICLE TO THE SHOP 4 TIMES , AND FINALLY THEY CHANGED THE THERMOSTAT . THE BATTERY HAS STARTED DISCHARGING AGAIN",
+        "vin": "1FMZU34X5WZ"
+    }
+]

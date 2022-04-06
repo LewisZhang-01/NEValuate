@@ -1,0 +1,46 @@
+[
+    {
+        "components": "EXTERIOR LIGHTING",
+        "crash": false,
+        "dateComplaintFiled": "10/09/2003",
+        "dateOfIncident": "06/14/2003",
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10041566,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "FLHTC",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "RUNNING LIGHTS (HEADLIGHT, TAIL LIGHT, ETC.) FAIL DUE TO FRONT FENDER TIP LIGHT WIRING RUBBING ON FRONT TIRE, CAUSING FUSE TO BLOW BECAUSE OF BARE WIRES GROUNDING OUT.  THERE WAS A RECALL DONE ON THIS BIKE BEFORE I PICKED IT UP AT THE DEALERS WHEN IT WAS NEW.  THIS QUICK FIX THAT HARLEY DAVIDSON HAS DONE FOR THEIR RECALL DOES NOT WORK.  I HAVE TALKED TO OTHER OWNERS OF 2001 AND 2002 FLHT AND FLHTC MODELS WHO HAVE HAD THE RECALLS DONE AND HAVE HAD THE SAME PROBLEM.  I TALKED WITH THE DEALER AND DECIDED NOT TO HAVE THEM FIX THIS PROBLEM.  I INSTEAD DISCONNECTED THE WIRING HARNESS FOR THIS LIGHT AND HAVE REMOVED IT.  THIS IS A VERY DANGEROUS PROBLEM AT NIGHT AND I REFUSE TO HAVE THIS HAPPEN AGAIN, SINCE THEY COULD NOT MAKE IT WORK WITH THE FIRST RECALL ATTEMPT.  *LA",
+        "vin": "1HD1DJV172Y"
+    },
+    {
+        "components": "STEERING,VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "08/18/2002",
+        "dateOfIncident": "07/04/2002",
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 765816,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "FLHTC",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "COMPONENT 1 -CRUISE CONTROL ACCELERATES UNEXPECTEDLY WITHOUT OPERATOR IMPUT..  DEALER HAS INSPECTED AND CANNOT FIND CAUSE, PROBLEM CONTINUES.  COMPONENT 2 - ENGINE COUGHS WHEN ACCELERATING FROM LOW SPEED AND CAUSES VEHICLE TO STALL, COULD CAUSE MINOR TO MAJOR ACCIDENT DEPENDING ON SITUATION. DEALER HAS INSPECTED AND CANNOT FIND CAUSE, PROBLEM CONTINUES.*AK",
+        "vin": "1HD1FCW172Y"
+    }
+]

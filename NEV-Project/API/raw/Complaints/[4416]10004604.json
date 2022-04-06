@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS,SEAT BELTS",
+        "crash": true,
+        "dateComplaintFiled": "01/24/2003",
+        "dateOfIncident": "12/07/2002",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10004604,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE EXPERIENCED A ROLL OVER, THE SEAT BELT FAILED TO RESTRAIN THE CONSUMER, WHICH CAUSED HIM TO BE EJECTED FROM THE VEHICLE, ALSO THE AIR BAGS DID NOT DEPLOY. POLICE REPORT TAKEN.   *TS   *JB",
+        "vin": "1J4FA59S32P"
+    }
+]

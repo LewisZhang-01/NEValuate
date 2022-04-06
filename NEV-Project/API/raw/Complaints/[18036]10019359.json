@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/27/2003",
+        "dateOfIncident": "05/05/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019359,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "E-450",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "STEELTEX",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE INNER RIGHT REAR TIRE EXPERIENCED A SIDEWALL BLOW OUT.   *NLM   THE CONSUMER OBSERVED THE RIGHT INSIDE DUAL TIRE SPLIT NEAR THE TREAD LINE ON THE SIDEWALL.   (TIRE MODEL-R4 SII)   *SCC   *JB",
+        "vin": "1FDXE45S42H"
+    }
+]

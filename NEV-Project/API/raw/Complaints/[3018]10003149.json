@@ -1,0 +1,32 @@
+[
+    {
+        "components": "SERVICE BRAKES, AIR,TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/22/2003",
+        "dateOfIncident": "12/30/2002",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003149,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "TOWN AND COUNTRY",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "ALL SEASON",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "BRAKES PULSATE VERY BAD SLOWING DOWN ON HIGHWAY, ALSO TWO FRONT TIRES ALMOST BAALD ON BOTH OUTER EDGES. DEALER SAYS TIRES NOT ROTATED ENOUGH,AND BRAKE ROTORS ARE WARPED  NOT COVERED",
+        "vin": "2C8GP44G21R"
+    }
+]

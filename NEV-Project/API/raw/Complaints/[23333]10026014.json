@@ -1,0 +1,31 @@
+[
+    {
+        "components": "VISIBILITY,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "07/13/2003",
+        "dateOfIncident": "07/09/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10026014,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "CONTINENTAL",
+                "productYear": "1997",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "LINCOLN COMPOSITES",
+                "productMake": "LINCOLN",
+                "productModel": "FUEL TANK",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "THE 1997 LINCOLN CONTINENTAL'S REVIEW MIRROR HAS BEEN REPLACED THREE TIMES NOW.  IT IS JULY, 2003, AND THE $400.00 MIRROR NEEDS TO BE REPLACED AGAIN. IT'S FOGGING UP, LOOKS LIKE CONDENSTATION BEHIND THE GLASS ON THE MIRROR. CANNOT SEE OUT OF THE MIRROR. THIRD TIME. THIS IS UNREASONABLE.*AK",
+        "vin": ""
+    }
+]

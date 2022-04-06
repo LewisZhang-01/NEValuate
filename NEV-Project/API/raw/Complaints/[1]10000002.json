@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": true,
+        "dateComplaintFiled": "12/11/2002",
+        "dateOfIncident": "05/04/2002",
+        "fire": true,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000002,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "LEXUS",
+                "productModel": "ES300",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "STEERING WHEEL LOCKED .  LUCKILY WHILE PARKED.  CAR TOWED TO LEXUS OF MARIN.  BILL 3000.  MILEAGE ON CAR BETWEEN 40-50000",
+        "vin": ""
+    }
+]

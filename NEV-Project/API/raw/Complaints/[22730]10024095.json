@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "07/10/2003",
+        "dateOfIncident": "06/16/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10024095,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "WINDSTAR",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "STEERING FLUID LEAKED FROM THE STEERING RACK AND PINION. DEALER NOTIFIED AND STATED THERE  WAS A TECHNICAL SERVICE BULLETIN  ON THIS PROBLEM# 01-5-6-6.   *AK   *SCC  *JB",
+        "vin": "2FMZA5142XB"
+    }
+]

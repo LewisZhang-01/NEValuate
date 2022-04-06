@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/26/2003",
+        "dateOfIncident": "05/30/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021975,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "MALIBU",
+                "productYear": "1999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE STEEL PROD. CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "FIRESTONE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHILE TRAVELING ON THE HIGHWAY WITHOUT PRIOR WARNING HEARD A POPPING NOISE.  THE RIGHT FRONT TIRE TREAD SEPARATED FROM THE WHEEL.THE TIRE WAS A FIRESTONE P20585R15.  DEALER WAS AWARE OF THE PROBLEM.*AK *TS   *JB",
+        "vin": "1G1ND52TRX6"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "02/07/2019",
+        "dateOfIncident": "10/12/2018",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11175026,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-550",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TRAILER CONNECTION WIRING FAULT CAUSES DASH BOARD TO FLASH MULTIPLE TIMES INDICATING TRAILER DISCONNECTED OR TRAILER LIGHT BULBS ARE NOT WORKING AND WILL REPEATEDLY FLASH ON DASH MAKING DINGING SOUNDS. THIS IS HAPPENING WITHOUT A TRAILER CONNECTED AS WELL. (TAKE NOT PREVIOUS YEARS OF FORD VEHICLES HAVE HAD THE SAME ISSUE)",
+        "vin": "1FDUF5HT3KE"
+    }
+]

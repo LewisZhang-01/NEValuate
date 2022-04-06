@@ -1,0 +1,24 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "01/09/2003",
+        "dateOfIncident": "11/01/2002",
+        "fire": false,
+        "manufacturer": "Mazda Motor Corp.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000852,
+        "products": [
+            {
+                "manufacturer": "Mazda Motor Corp.",
+                "productMake": "MAZDA",
+                "productModel": "TRIBUTE",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TIRE JACK WILL NOT RAISE VEHICLE HIGH ENOUGH SO THAT REAR WHEEL CAN BE REMOVED",
+        "vin": ""
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN,STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "11/10/2013",
+        "dateOfIncident": "11/05/2013",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10551714,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "PATHFINDER",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WATER ENTERED INTO TRANSMISSION DUE TO FAULTY VALVE.  *TR",
+        "vin": "5N1AR18W45C"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "09/23/1996",
+        "dateOfIncident": "09/19/1996",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 509024,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "COROLLA",
+                "productYear": "1973",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN ELECTRICAL SYSTEM FAILS, VEHICLE LOCKS IN PARK POSITION.",
+        "vin": "2T1AE00E0PC"
+    }
+]

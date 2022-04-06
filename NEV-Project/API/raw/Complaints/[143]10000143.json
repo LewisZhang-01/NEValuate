@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "12/16/2002",
+        "dateOfIncident": "06/28/2002",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 3,
+        "odiNumber": 10000143,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "SONATA",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2001 HYUNDAI SONATA PASSENGER AIRBAG FAILED TO DEPLOY DUE TO CONNECTOR MOUNTED UNDER SEAT HAD JIGGLED LOOSE",
+        "vin": "KMHWF25S31A"
+    }
+]

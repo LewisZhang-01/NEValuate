@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "03/15/2003",
+        "dateOfIncident": "03/10/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010500,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "S10",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVER AND PASSENGER SIDE SEAT RECLINER LEVER PASSENGER AND BROKEN OFF AT RECLINER HANDLE WITH NO EXCESSIVE FORCE APPLIED TO HANDLE.   *NLM",
+        "vin": "1GCDT19W9Y8"
+    }
+]

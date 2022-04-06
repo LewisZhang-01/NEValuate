@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "04/30/2007",
+        "dateOfIncident": "03/11/2007",
+        "fire": false,
+        "manufacturer": "Trailers by Dorsey, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10190052,
+        "products": [
+            {
+                "manufacturer": "Trailers by Dorsey, Inc.",
+                "productMake": "DORSEY",
+                "productModel": "TRAILER",
+                "productYear": "1997",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "1997 DORSEY TRAILER. CONSUMER WAS DRIVING 65 MPH ON THE HIGHWAY WHEN THE RIGHT REAR TIRE BLEW OUT.  *MC    (OHIO TRAFFIC CRASH REPORT) *JB   A VEHICLE QUESTIONAIRE WAS MAILED TO CUSTOMER TO OBTAIN ADDITIONAL INFORMATION PERTAINING TO THE COMPLAINT.  *TR",
+        "vin": "1DTV61523VA"
+    }
+]

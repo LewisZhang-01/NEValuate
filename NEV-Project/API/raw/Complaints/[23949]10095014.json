@@ -1,0 +1,24 @@
+[
+    {
+        "components": "PARKING BRAKE",
+        "crash": false,
+        "dateComplaintFiled": "11/03/2004",
+        "dateOfIncident": "10/04/2004",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10095014,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "TAHOE",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE EMERGENCY BRAKE WAS FOUND DEFECTIVE WHEN APPLIED, THE VEHICLE WOULD STILL MOVE AT WILL, EVEN WITH THE BRAKE PRESSED ALL THE WAY TO THE FLOOR.   *AK   *SC",
+        "vin": "1GNEC13T51J"
+    }
+]

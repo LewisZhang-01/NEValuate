@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "01/07/2003",
+        "dateOfIncident": "01/01/2001",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002281,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "S10",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATED THAT DRIVER'S SIDE SEAT INTERMITTENTLY WILL SLIDE ONCE ADJUSTED TO A DIFFERENT POSITION.  THE SEAT FRAME IS NOT LOCKING INTO PLACE CAUSING A SAFETY HAZARD WHEN DRIVING. TS",
+        "vin": "1GCC51946W8"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,TIRES",
+        "crash": false,
+        "dateComplaintFiled": "04/03/2003",
+        "dateOfIncident": "04/03/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10013914,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GEO",
+                "productModel": "STORM",
+                "productYear": "1992",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "MICHELIN TIRE CORP.",
+                "productMake": "MICHELIN",
+                "productModel": "20575R14",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "FOR WELL OVER A YEAR NOW, MY 1992 GEO STORM-4 CYL., HAS EXHIBITED RPM'S ABOVE 2000 WHEN IDLING AT A STOP WHEN THE AMBIENT TEMPERATURE IS ABOVE 60 DEGREES F. I MUST KEEP THE BRAKE PEDAL FIRMLY PRESSED TO THE FLOOR SINCE THE AUTO. TRANSMISSION WANTS TO ENGAGE.   THIS SYMPTOM ALSO CAUSES MY VEHICLE TO ACT AS IF IT IS ENGAGED IN CRUISE CONTROL, ACCELERATING TO ABOUT 30 MPH, ONCE THE BRAKE PEDAL IS RELEASED.   CRUISE CONTROL WAS NOT OPTION INSTALLED IN THE CAR AT PURCHASE.   I HAVE COME TO REALIZE THIS IS ALSO A PROBLEM WITH ISUZU'S, (THE GEO STORM ENGINE IS AN ISUZU PRODUCT), ALL DUE TO THE FAILURE OF THE INSULATIVE SPRAY ON THE ECM.   I CERTAINLY HOPE THE MANUFACTURERS CAN BE HELD RESPONSIBLE FOR FIXING THIS POTENTIALLY DANGEROUS CONDITION.",
+        "vin": "J81RF2364N7"
+    }
+]

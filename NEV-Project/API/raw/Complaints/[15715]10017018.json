@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "05/05/2003",
+        "dateOfIncident": "04/21/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017018,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "SEBRING",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "OUTSIDE DRIVER DOOR HANDLE FAILURE ON 1997 CHRYSLER SEBRING LXI.  *JB",
+        "vin": ""
+    }
+]

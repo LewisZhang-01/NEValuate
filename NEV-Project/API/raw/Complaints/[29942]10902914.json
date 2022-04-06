@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN,ELECTRICAL SYSTEM,VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "08/30/2016",
+        "dateOfIncident": "08/09/2016",
+        "fire": false,
+        "manufacturer": "COLUMBIA PARCAR CORPORATION",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10902914,
+        "products": [
+            {
+                "manufacturer": "COLUMBIA PARCAR CORPORATION",
+                "productMake": "COLUMBIA",
+                "productModel": "SUMMIT",
+                "productYear": "2008",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "13M TEST / FULLY CHARGED / UNPLUGGED 24H / DROVE ALONG A RANGE OF SPEEDS FORWARD + REVERSE / 2 BLOCKS ON OREGON STREET / LEFT ON FULTON / U TURN / RIGHT ON RUSSEL / FORWARD MOTION STOPPED / POWER METER FLUCTUATES BETWEEN FULLY DISCHARGED AND 80% / SWITCHING TO N, WAIT 15S / SWITCH TO F / ACCELERATE VERY GRADUALLY FORWARD MOTION RESTORED 5M / NO POWER (REPEAT) 5X, RETURN TO GARAGE. THE VEHICLE WAS RECALLED IN 2012 FOR STEERING ISSUES. WE ARE UNSURE WHETHER IT WAS REPAIRED.",
+        "vin": "5FCLS36A281"
+    }
+]

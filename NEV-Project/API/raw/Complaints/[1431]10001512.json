@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "12/26/2002",
+        "dateOfIncident": "11/11/2002",
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001512,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE THE VEHICLE WAS RUNNING, THE ENGINE CAUGHT ON FIRE.  THE FIRE STARTED UNDER THE HOOD, DUE TO AN ELECTRICAL SHORT.  TS  SCC",
+        "vin": "3FAFP31332R"
+    }
+]

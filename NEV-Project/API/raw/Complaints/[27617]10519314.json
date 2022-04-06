@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "06/11/2013",
+        "dateOfIncident": "06/01/2013",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10519314,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "TAHOE",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENGINE STARTED WITH A TICKING NOISE WHEN COLD.  WOULD GO AWAY AFTER ENGINE WARMED UP.  UPON INSPECTION FOUND 2 EXHAUST MANIFOLD BOLTS SHEARED ON #7 CYLINDER, 1 BROKEN ON #8.  TICKING COMING FROM EXHAUST LEAK ON #7.  UPON RESEARCH FOUND THAT THIS IS A COMMON ISSUE WITH THESE ENGINES.  WHY IS THERE NO RECALL OR SAFETY NOTICE AS IT PRESENTS A REAL HAZARD FOR FIRE AND EXHAUST FUMES ENTERING PASSENGER COMPARTMENT.  *TR",
+        "vin": ""
+    }
+]

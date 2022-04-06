@@ -1,0 +1,31 @@
+[
+    {
+        "components": "POWER TRAIN,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "04/04/2003",
+        "dateOfIncident": "04/02/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10013980,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "RAM 1500",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "C BODY",
+                "productYear": "1969",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "2000 DODGE RAM 1500 4X4 W/ OVER DRIVE . TRANSMISSION NEEDS TO BE REPLACED AFTER 75,000 MILES. ALSO HAVE HAD SEVERAL OTHER PROBLEMS WITH TRUCK DURING THE THREE YEARS.  *JB",
+        "vin": "1B7HF16ZXYS"
+    }
+]

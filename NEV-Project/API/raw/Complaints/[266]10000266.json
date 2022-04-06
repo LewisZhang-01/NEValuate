@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "12/19/2002",
+        "dateOfIncident": "09/15/2002",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000266,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "PLYMOUTH",
+                "productModel": "GRAND VOYAGER",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE TURNING TO PULL INTO THE GARAGE, THE STEERING WHEEL STOPPED STEERING.  COULD NOT STEER LEFT OR RIGHT. WHOLE RACK AND PINION NEEDED TO BE REPLACED.",
+        "vin": "1P4GP44G1XB"
+    }
+]

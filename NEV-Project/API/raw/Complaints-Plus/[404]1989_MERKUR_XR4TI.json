@@ -1,0 +1,112 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "02/17/1999",
+        "dateOfIncident": "02/16/1999",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 703429,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERKUR",
+                "productModel": "XR4TI",
+                "productYear": "1989",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NO SUMMARY LISTED FOR THIS VEHICLE.  *AK",
+        "vin": "WF1BT80W0KM"
+    },
+    {
+        "components": "EXTERIOR LIGHTING",
+        "crash": false,
+        "dateComplaintFiled": "02/17/1999",
+        "dateOfIncident": "07/15/1998",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 703443,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERKUR",
+                "productModel": "XR4TI",
+                "productYear": "1989",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NO SUMMARY LISTED FOR THIS VEHICLE.  *AK",
+        "vin": "WF1BT80W8KM"
+    },
+    {
+        "components": "EXTERIOR LIGHTING",
+        "crash": false,
+        "dateComplaintFiled": "02/14/1999",
+        "dateOfIncident": "01/05/1998",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 703291,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERKUR",
+                "productModel": "XR4TI",
+                "productYear": "1989",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "HAZARD SWITCH FAILURE, UNABLE TO WORK SWITCH, OR TURN SIGNALS.  4 WAY BUTTON POPS OFF, UNABLE TO STAY ON, WHICH CAUSES YOUR 4 WAYS TO NOT OPERATE. FORD DOESN'T MAKE REPLACEMENTS ANYMORE.  WHEN BROKEN BEFORE TURNSIGNAL DIDN'T WORK EITHER.",
+        "vin": "WF1BT80WXKM"
+    },
+    {
+        "components": "EXTERIOR LIGHTING",
+        "crash": false,
+        "dateComplaintFiled": "02/03/1999",
+        "dateOfIncident": "08/01/1998",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 702897,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERKUR",
+                "productModel": "XR4TI",
+                "productYear": "1989",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SIGNAL SWITCH DOES NOT WORK PROPERLY EVER.  *AK",
+        "vin": "WF1BT80W2KM"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "08/07/1996",
+        "dateOfIncident": "05/23/1990",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 800579,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERKUR",
+                "productModel": "XR4TI",
+                "productYear": "1989",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FAILURE OF THE BRAKES, CAUSING VEHICLE  TO WOBBLE.  *AK",
+        "vin": ""
+    }
+]

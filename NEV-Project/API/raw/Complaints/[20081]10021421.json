@@ -1,0 +1,31 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "06/11/2003",
+        "dateOfIncident": "06/10/2003",
+        "fire": false,
+        "manufacturer": "UNKNOWN MANUFACTURER",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021421,
+        "products": [
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN1",
+                "productYear": "9999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "GS INDUSTRIES, INC.",
+                "productMake": "GS INDUSTRIES",
+                "productModel": "GS INDUSTRIES",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "BATTERY IS LEAKING ON MY 2002 YZF R6 MOTORCYCLE.  *AK",
+        "vin": ""
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": true,
+        "dateComplaintFiled": "01/16/2003",
+        "dateOfIncident": "07/07/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 2,
+        "numberOfInjuries": 3,
+        "odiNumber": 10002792,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXCURSION",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "STEELTEX AT",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "A DRIVERS FRONT FIRESTONE STEELTEX AT TIRE, ON A 2000 FORD EXCURSION EXPLODED ON JULY 7, 2002 ON I-95 IN WALTERBORO, SC. MY GIRLFRIEND  AGNES AND A GOOD FRIEND DAVE WERE KILLED, DAVES 11 YR OLD SON MAX SUFFERED A SEVERLY BROKEN RIGHT FEMER, DAVES WIFE, CHERYL HAD SEVERAL DEEP CUTS AND SCRAPES  I HAVE A SEVERLY BROKEN LEFT FEMER AND KNEE DAMAGE.  THERE WAS NO INDICATION THAT THE TIRE WAS GOING TO FAIL.",
+        "vin": ""
+    }
+]

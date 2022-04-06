@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, OTHER,ELECTRICAL SYSTEM,EQUIPMENT,UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "01/31/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003919,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "BLAZER",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE CONSUMER HAS EXPERIENCED THE FOLLOWING:  ELECTRICAL REPAIRS/MALFUNCTION-EXHAUST, FUEL, AND AC FAILURE.  SCC",
+        "vin": "1GNCS13W2Y2"
+    }
+]

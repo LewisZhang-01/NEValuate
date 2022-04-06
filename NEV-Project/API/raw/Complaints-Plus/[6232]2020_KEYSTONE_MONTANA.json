@@ -1,0 +1,46 @@
+[
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "09/10/2021",
+        "dateOfIncident": "09/06/2021",
+        "fire": false,
+        "manufacturer": "Keystone RV Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11432471,
+        "products": [
+            {
+                "manufacturer": "Keystone RV Company",
+                "productMake": "KEYSTONE",
+                "productModel": "MONTANA",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact owns a 2020 Keystone Montana hauled by a 2016 Ford F-150. The contact noticed that the Lippert Fifth Wheel pin box that was connected to the vehicles was fractured. The contact mentioned that the pin box was damaging the bottom of the trailer and the contact was unable to remove the trailer. The vehicle was not taken to a dealer. The failure was not repaired. The manufacturer was notified of the failure. The approximate failure mileage was 10,000.",
+        "vin": "4ydf37426l4"
+    },
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "06/08/2021",
+        "dateOfIncident": "02/18/2021",
+        "fire": false,
+        "manufacturer": "Keystone RV Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11420113,
+        "products": [
+            {
+                "manufacturer": "Keystone RV Company",
+                "productMake": "KEYSTONE",
+                "productModel": "MONTANA",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact owns a 2020 Keystone Montana RV. The contact stated while driving 65 mph, the window glass panel detached causing one of the driver side windows to collapse didn't realize it was gone until vehicle was pulled over to the road side. The contact stated there was no warning light illuminated. The vehicle was taken to the local dealer where it was diagnosed with the window needing to be replaced. The vehicle was not repaired. The contact was relating the failure to NHTSA campaign number: 20V351000 (Visibility). The manufacturer had been informed of the failure and informed the contact that the RV was not included in the recall but would replace the window. The failure mileage was unknown.",
+        "vin": "4YDF37420L4"
+    }
+]

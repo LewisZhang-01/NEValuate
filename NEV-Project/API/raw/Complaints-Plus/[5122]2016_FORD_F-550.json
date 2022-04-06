@@ -1,0 +1,68 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,ENGINE,FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "07/20/2021",
+        "dateOfIncident": "07/12/2021",
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11425632,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-550",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Unknown issue causes the fuse box to over heat melting the harness and fuse box killing the fule pump and engine. Truck turned of and immediately restarted on the highway",
+        "vin": "1FDUF5GY4GE"
+    },
+    {
+        "components": "WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "09/17/2020",
+        "dateOfIncident": "05/16/2019",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11355568,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-550",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "PURCHASED NEW F550 2016 HAD 6736 MILES ON TRUCK AND ALUMINUM WHEELS STARTED TO BUBBLE AND CRACK,FORD AGREED TO REPLACE ALL 4 WHEELS,3215 MILES AND THE WHEELS ARE DOING THE SAME THING,THIS TRUCK HAS NEVER BEEN DRIVEN IN THE WINTER AND BARELY IN THE RAIN,THESE WHEELS SHOULD ALL BE RECALLED FOR SAFETY CONCERNS BECAUSE SOONER OR LATER THEY WILL COME APART ON HIGHWAY AT HIGH SPEEDS.",
+        "vin": "1FD0X5HYXGE"
+    },
+    {
+        "components": "AIR BAGS,STRUCTURE",
+        "crash": true,
+        "dateComplaintFiled": "05/14/2020",
+        "dateOfIncident": "05/12/2020",
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11324584,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-550",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TRUCK WAS IN MOTION AND WAS IN SERIOUS IMPACT WITH A TREE AFTER IT WENT DOWN A STEEP EMBANKMENT OFF A RURAL SECTION OF HIGHWAY 4 NEAR STOCKTON CALIFORNIA.*DT*JB  *TR",
+        "vin": "1FDUF5GT5GE"
+    }
+]

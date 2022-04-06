@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "05/23/2002",
+        "dateOfIncident": "05/22/2002",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009345,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "D21",
+                "productYear": "1996",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE STEEL PROD. CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "FIRESTONE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "FIRESTONE SAID 6 YEAR OLD TIRE NOT COVERED IN RECALL. HAD GOOD TREAD AND NOT LOW ON AIR PRESSURE. BLEW OUT SIDEWALLS AND BELTS WITHOUT ANY WARNING THAT TIRES WERE LOSING AIR.  *TS  *NLM  ***DIMSII IVOQ ENTRY POSTED AFTER 12-12-02 CUT OVER TO ARTEMIS***762204",
+        "vin": "1N6SD11SXTC"
+    }
+]

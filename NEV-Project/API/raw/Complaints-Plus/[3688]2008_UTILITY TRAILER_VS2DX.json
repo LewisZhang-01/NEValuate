@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/07/2016",
+        "dateOfIncident": "05/25/2016",
+        "fire": false,
+        "manufacturer": "Utility Trailer Manufacturing Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10872992,
+        "products": [
+            {
+                "manufacturer": "Utility Trailer Manufacturing Company",
+                "productMake": "UTILITY TRAILER",
+                "productModel": "VS2DX",
+                "productYear": "2008",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "CARLISLE TIRE & RUBBER CO",
+                "productMake": "CARLISLE",
+                "productModel": "SPORT TRAIL",
+                "productYear": "9999",
+                "size": "225/75R15",
+                "type": "Tire"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2008 UTILITY VS2DX TRAILER EQUIPPED WITH CARLISLE SPORT TRAIL ST TIRES, SIZE 20.5/8.0/10 (NA). THE DOT NUMBERS FOR THE TIRES WERE AQBU3914, AQBU0115, P4BUACC1216, AND PUBUACC3815. WHILE DRIVING 64 MPH, THE TIRES OVERHEATED AND THE  TREAD SEPARATED, WRAPPING ITSELF AROUND THE AXLES. AS A RESULT, THE RIMS WERE DAMAGED. THE CONTACT REPLACED SIX TIRES IN TOTAL. THE TIRE MANUFACTURER WAS MADE AWARE OF THE FAILURES. THE VIN WAS UNKNOWN. THE TIRE AND VEHICLE FAILURE MILEAGE WAS 120.",
+        "vin": ""
+    }
+]

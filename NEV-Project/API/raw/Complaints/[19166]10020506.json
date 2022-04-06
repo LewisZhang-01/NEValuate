@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "05/23/2003",
+        "dateOfIncident": "05/23/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020506,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SAFARI",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE CONSUMERS VEHICLE EXPERIENCED SYMPTOMS OF NHTSA RECALL NUMBER 03-V-930-000 RELATED TO A SHORT CIRCUIT IN THE ELECTRIC OUTSIDE REAR VIEW MIRROR SWITCH.   *NLM",
+        "vin": "PROVIDE"
+    }
+]

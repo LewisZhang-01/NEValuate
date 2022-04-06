@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, OTHER",
+        "crash": false,
+        "dateComplaintFiled": "01/08/2003",
+        "dateOfIncident": "01/08/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000806,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ACCELERATOR STUCK ON 1994 FORD EXPLORER.  VEHICLE WAS STOPPED SAFELY.  DATE OF INCIDENT IS 1/8/2003, NOT 2002",
+        "vin": "1FMDU34X7RU"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "02/04/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005907,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CHEVROLET TRUCK",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FRONT DASHBOARD CAME LOOSE.  *AK",
+        "vin": ""
+    }
+]

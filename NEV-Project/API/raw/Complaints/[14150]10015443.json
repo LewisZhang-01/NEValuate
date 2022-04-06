@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "04/08/2003",
+        "dateOfIncident": "04/01/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015443,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERCURY",
+                "productModel": "SABLE",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "A LOUD NOISE CAME FROM THE REAR OF VEHICLE, AND THE VEHICLE LOST POWER STEERING FLUID.  THE PROBLEM WAS DETERMINED TO BE A CRACKED STEERING RACK AND WAS REPLACED.  *JB  *SCC",
+        "vin": "1MEFM50U0XG"
+    }
+]

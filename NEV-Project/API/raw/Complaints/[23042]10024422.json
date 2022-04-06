@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "07/10/2003",
+        "dateOfIncident": "06/14/2003",
+        "fire": false,
+        "manufacturer": "Suzuki Motor USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10024422,
+        "products": [
+            {
+                "manufacturer": "Suzuki Motor USA, LLC",
+                "productMake": "SUZUKI",
+                "productModel": "SIDEKICK",
+                "productYear": "1997",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "GENERAL TIRE & RUBBER CO.",
+                "productMake": "GENERAL",
+                "productModel": "GENERAL",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHILE DRIVING AND WITHOUT WARNING  FRONT AND REAR PASSENGER SIDE TIRES SEPARATED.  *CB   *NLM",
+        "vin": "JS3TDZ1V3VY"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "04/07/2003",
+        "dateOfIncident": "04/01/2003",
+        "fire": false,
+        "manufacturer": "Subaru of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10014056,
+        "products": [
+            {
+                "manufacturer": "Subaru of America, Inc.",
+                "productMake": "SUBARU",
+                "productModel": "OUTBACK",
+                "productYear": "1996",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "UNIROYAL GOODRICH TIRE CO",
+                "productMake": "MICHELIN",
+                "productModel": "P20560R15",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "COMPLETE SEPARATION OF TREAD FROM BODY AND SIDEWALL OF RIGHT FRONT MICHELIN HARMONY TIRE. TIRES IN SERVICE FOR THREE MONTHS ON A SUBARU LEGACY WAGON.  *JB",
+        "vin": ""
+    }
+]

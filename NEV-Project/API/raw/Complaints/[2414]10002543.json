@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": true,
+        "dateComplaintFiled": "01/24/2003",
+        "dateOfIncident": "11/21/1999",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10002543,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERCURY",
+                "productModel": "VILLAGER",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER WAS INVOLVED IN AN ACCIDENT WHERE THE SEAT BELTS FAILED TO RELEASE.  IT WAS NOT UNTIL AFTER THE ACCIDENT THAT CONSUMER LEARNED OF THE SEAT BELT RECALL. *JG",
+        "vin": "4M2DV11W9PD"
+    }
+]

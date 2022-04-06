@@ -1,0 +1,32 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC,AIR BAGS,LATCHES/LOCKS/LINKAGES,TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/13/2003",
+        "dateOfIncident": "09/01/2002",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10023000,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "CAMRY",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Bridgestone Americas Tire Operations",
+                "productMake": "BRIDGESTONE",
+                "productModel": "TURANZA ER 30",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "NEW AUTOMOBILE PROBLEMS.   *NLM",
+        "vin": "4T1BF30K52U"
+    }
+]

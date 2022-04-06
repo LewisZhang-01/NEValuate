@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "02/04/2003",
+        "dateOfIncident": "01/01/2003",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005239,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "JETTA",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "PASSENGER SIDE POWER WINDOW MOTOR FAILED AT 20,000 MILES AND JUST RECENTLY DRIVER SIDE WINDOW MOTOR FAILED BY CABLE IN MOTOR SNAPPING",
+        "vin": "3VWTD81H8WM"
+    }
+]

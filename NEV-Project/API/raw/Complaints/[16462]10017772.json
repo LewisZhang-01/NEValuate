@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "04/29/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017772,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE FRONT WHEELS OF THE VEHICLE CAME OFF WHILE DRIVING.  THE VEHICLE WAS TAKEN TO THE DEALERSHIP WHICH REPLACED THE RIGHT FRONT LOWER BALL JOINT IN THE ARM CONTROL.  *NLM.",
+        "vin": "3FAFP31351R"
+    }
+]

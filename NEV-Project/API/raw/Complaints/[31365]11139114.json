@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "10/08/2018",
+        "dateOfIncident": "09/26/2018",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11139114,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "200",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THERE IS A FAULTY ACTUATOR IN THE AIR CONDITIONING SYSTEM THAT CONTROLS THE BLENDERS. IT CLICKS WHEN THE VEHICLE ISN'T RUNNING AND IT IS DRAINING THE BATTERY, UNLESS THE CAR IS RUN FREQUENTLY/DAILY",
+        "vin": "1C3CCBBB6DN"
+    }
+]

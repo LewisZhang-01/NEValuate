@@ -1,0 +1,46 @@
+[
+    {
+        "components": "EQUIPMENT",
+        "crash": true,
+        "dateComplaintFiled": "09/11/2009",
+        "dateOfIncident": "08/08/2009",
+        "fire": false,
+        "manufacturer": "Forest River, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10283634,
+        "products": [
+            {
+                "manufacturer": "Forest River, Inc.",
+                "productMake": "FOREST RIVER",
+                "productModel": "WILDWOOD",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2006 FOREST RIVER WILDWOOD TRAILER. THE CONTACT STATED THAT UPON INSPECTING THE VEHICLE SHE NOTICED THAT THE BASE HAD A SPLIT NEXT TO THE I-BEAM WHICH CAUSED THE VEHICLE TO FISH TAIL AND SUBSEQUENTLY CRASH. THE DEALER HAS NOT DIAGNOSED THE CAUSE OF THE FAILURE. A COMPLAINT WAS FILED WITH THE MANUFACTURER. THE FAILURE AND CURRENT MILEAGES WERE NOT APPLICABLE. UPDATED 06/17/10. *LJ  UPDATED 10/12/10",
+        "vin": "4X4TWDU216R"
+    },
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "04/16/2009",
+        "dateOfIncident": "03/25/2009",
+        "fire": false,
+        "manufacturer": "Forest River, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10265675,
+        "products": [
+            {
+                "manufacturer": "Forest River, Inc.",
+                "productMake": "FOREST RIVER",
+                "productModel": "WILDWOOD",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NOTICED THE A FRAME WAS STARTING TO BEND UPWARDS. WHEN THE REPAIR SHOP CHECKED IT OUT THEY SAW THE A FRAME WAS BREAKING AWAY AT THE WELD LINE. UPON FURTHER INSPECTION THERE WAS MISSING WELD SPOTS AND A LARGE CRACK IN THE A FRAME. THERE WAS ALSO NO CROSS MEMBERS FROM THE FRONT OF THE UNIT TO THE AXLE. THE MODEL OF TRAILER IS A GRAND SURVEYOR WHICH IS NOT A LISTED CHOICE UNDER FOREST RIVER. *TR",
+        "vin": "4X4TSVD266L"
+    }
+]

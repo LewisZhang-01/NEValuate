@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "02/22/2003",
+        "dateOfIncident": "05/22/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10008003,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SUBURBAN",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "PASSENGER SIDE FRONT SEAT ROCKS WITH OR WITHOUT USE OF SEATBELT. HAD DEALER CHECK OUT, BUT STATED THEY FOUND NOTHING THAT WAS CAUSING THE ROCKING OF SEAT.",
+        "vin": "3GNEC16T11G"
+    }
+]

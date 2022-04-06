@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "05/25/2004",
+        "dateOfIncident": "05/17/2004",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10074214,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TAURUS",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING 25 MPH THE VEHICLE COLLIDED INTO AN ELECTRIC POST. AS A RESULT, THE PASSENGER SIDE AIRBAG DID NOT DEPLOY AND THE DRIVER SIDE AIRBAG DEPLOYED HALFWAY THEN DEFLATED WITHOUT WARNING.  PLEASE PROVIDE ADDITIONAL INFORMATION.  *JB",
+        "vin": ""
+    }
+]

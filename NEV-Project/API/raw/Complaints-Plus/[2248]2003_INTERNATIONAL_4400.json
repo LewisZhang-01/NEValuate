@@ -1,0 +1,90 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "01/18/2010",
+        "dateOfIncident": "12/09/2009",
+        "fire": false,
+        "manufacturer": "Navistar, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10300120,
+        "products": [
+            {
+                "manufacturer": "Navistar, Inc.",
+                "productMake": "INTERNATIONAL",
+                "productModel": "4400",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WE'VE HAD TWO ENGINE FAILURES WITH THIS TRUCK. THE FIRST OCCURRED AT 121,000 MILES WHEN AN O-RING ON A CYLINDER SLEEVE FAILED LETTING COOLANT FILL THE CRANKCASE AND REQUIRING A COMPLETE ENGINE OVERHAUL THAT COST US OVER $6,000 DOLLARS. THE TRUCK WAS MORE THAN 3 YEARS OLD SO WE HAD TO PAY FOR THE REPAIRS. AFTER PUTTING ONLY 40,000 MILES ON THE REBUILT ENGINE IT HAS THROWN A ROD OUT THE SIDE OF THE BLOCK COMPLETELY RUINING THE ENGINE. IT WILL HAVE TO BE REPLACED AT AN ESTIMATED COST OF $16,000. WE HAVE CONTACTED NAVISTAR BECAUSE THE SERVICE TECHNICIAN SAID BOTH FAILURES WERE CAUSED BY POOR WORKMANSHIP, DEFECTIVE MATERIALS, OR FAULTY DESIGN. NAVISTAR HAS REFUSED TO STAND BEHIND THEIR PRODUCT. *TR",
+        "vin": "1HTMKAAN73H"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": true,
+        "dateComplaintFiled": "11/15/2004",
+        "dateOfIncident": "09/23/2004",
+        "fire": false,
+        "manufacturer": "Navistar, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 2,
+        "odiNumber": 10098891,
+        "products": [
+            {
+                "manufacturer": "Navistar, Inc.",
+                "productMake": "INTERNATIONAL",
+                "productModel": "4400",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "IT WAS RAINING BRAKES FAILED I REARENDED A CAR      ON 8-16-04 AN INTERNATIONAL DEALER FOUND FAULTS IN THE ABS AND NOTHING WAS DONE TO REPAIR  THEY FOUND A VALVE RELAY SHORTED TO GROUND OUTPUT PIN SHORTED TO GROUND  NOTHING WAS DONE TO REPAIR.  *AK  REFERENCE NO 10097158    THIS TRUCK MY COMPANY VOULANTEERLY PUT OUT SERVICE BECAUSE IT IS NOT REPAIRED",
+        "vin": "1HTMRADM43H"
+    },
+    {
+        "components": "SERVICE BRAKES, AIR",
+        "crash": false,
+        "dateComplaintFiled": "10/19/2004",
+        "dateOfIncident": "10/19/2004",
+        "fire": false,
+        "manufacturer": "Navistar, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10097158,
+        "products": [
+            {
+                "manufacturer": "Navistar, Inc.",
+                "productMake": "INTERNATIONAL",
+                "productModel": "4400",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE CONSUMER STATED THAT HE HAS BEEN HAVING PROBLEMS WITH HIS  BRAKES.  HE STATED THAT WHEN IT IS RAINING THE BRAKES FAILED.  HE ALSO STATED THAT ONCE HE WENT STRAIGHT THROUGH A STOP SIGN.  THE CONSUMER STATED THAT THIS TRUCK WITH THESE FAULTY BRAKES HAS CAUSED HIM TO HAVE A ACCIDENT.  HE SAYS HE TOOK THE TRUCK TO THE DEALER AND WAS TOLD ALL THEY COULD FIND IS WHEN IT RAINS THE RELAY VALVE GETS WET, SO THEY THINK IT IS A SHORT SOMEWHERE.   *JB",
+        "vin": "1HTMRAM43H5"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": true,
+        "dateComplaintFiled": "09/29/2004",
+        "dateOfIncident": "09/23/2004",
+        "fire": false,
+        "manufacturer": "Navistar, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 2,
+        "odiNumber": 10093276,
+        "products": [
+            {
+                "manufacturer": "Navistar, Inc.",
+                "productMake": "INTERNATIONAL",
+                "productModel": "4400",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WET WEATHER,  BRAKES FAILED AND THERE WAS AN ACCIDENT.  NOTHING WAS DONE BY MANUFACTURER CORKY MILLER SAID IF THERES AN ACCIDENT THAN WE'LL DO AN INVESTAGATION ON THE BRAKES.  *AK",
+        "vin": "1HTMRADM43H"
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "04/23/2010",
+        "dateOfIncident": "04/01/2010",
+        "fire": false,
+        "manufacturer": "PREVOST CAR, INCORPORATED",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10327186,
+        "products": [
+            {
+                "manufacturer": "PREVOST CAR, INCORPORATED",
+                "productMake": "PREVOST",
+                "productModel": "LE MIRAGE XL 2",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE WIPER ARM ATTACHMENT TO THE DRIVE SHAFTS CAME LOOSE CAUSING THE WIPER SYSTEM ON THE DRIVER SIDE TO BECOME INOPERATIVE.  THERE IS AN ACTIVE RECALL ON THIS, (NHTSA CAMPAIGN ID NUMBER: 02V142000) BUT I HAVE BEEN INFORMED BY PREVOST THAT IT DOES NOT INCLUDE MY COACH NUMBER, I BELIEVE IT SHOULD AS IT IS THE SAME PROBLEM. *TR",
+        "vin": "2PCW33407Y1"
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "11/08/2007",
+        "dateOfIncident": "04/11/2007",
+        "fire": false,
+        "manufacturer": "PREVOST CAR, INCORPORATED",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10208412,
+        "products": [
+            {
+                "manufacturer": "PREVOST CAR, INCORPORATED",
+                "productMake": "PREVOST",
+                "productModel": "LE MIRAGE XL 2",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Continental Tire the Americas, LLC",
+                "productMake": "CONTINENTAL",
+                "productModel": "31580R22.5 HSR1",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "IT IS A COMPLAINT ABOUT THE TIRES FOR THE MOTORCOACHES.  THE TIRES WERE DEFECTIVE WITH LARGE  BUBBLE WHEN THEY WERE FILLED WITH AIR.  WE HAD NO INCIDENT BECAUSE WE DID NOT USE THEM AFTER WE FOUND OUT THAT PROBLEM.  WE CONTACTED THE RETAILER I & E TIRES AT 611 SMITH STREET, BROOKLYN, NY 11231 AND THE MANUFACTURER CONTINENTAL TIRE COMPANY TO REPORT THE PROBLEMS BUT WE DID NOT GET ANY ANSWER FROM BOTH PARTY.  THERE WERE OVER 10 DEFECTIVE BUS TIRES WE CANNOT USE BUT EITHER THE RETAILER NOR MANUFACTURER WOULD LIKE TO RESPONSE FOR IT.  *TR",
+        "vin": "2PCX3349811"
+    }
+]

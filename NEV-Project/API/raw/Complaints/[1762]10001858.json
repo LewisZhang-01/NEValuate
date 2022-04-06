@@ -1,0 +1,24 @@
+[
+    {
+        "components": "PARKING BRAKE",
+        "crash": false,
+        "dateComplaintFiled": "01/02/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001858,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "MUSTANG",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATED WHILE VEHICLE WAS PARKED UP HILL WITH PARKING BRAKE ENGAGED WITHOUT ANY INDICATION VEHICLE ROLL DOWN HILL. DEALER WAS CONTACTED. PLEASE PROVIDE FURTHER INFORMATION. TS",
+        "vin": "1FAFP40431F"
+    }
+]

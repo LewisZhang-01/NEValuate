@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "02/11/2003",
+        "dateOfIncident": "11/25/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10006181,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "GRAND AM",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER LOSS CONTROL OF THE VEHICLE, WHICH WAS DUE TO A DEFECT IN THE STEERING WHEEL COLUMN.*DT.  ALSO THE AIRBAGS FAILED TO DEPLOY.  *JB",
+        "vin": "1G2NE52T4XC"
+    }
+]

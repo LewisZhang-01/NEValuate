@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "05/31/2003",
+        "dateOfIncident": "01/10/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020817,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "CAMRY",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE SHUDDERED AROUND 40 MPH RELATED TO THE TRANSMISSION.  THE DEALER PERFORMED ALL APPLICABLE TSBS BUT THE PROBLEM STILL EXISTED.  ALSO EXHIBITED A SEVERE SHUDDER TWICE AT 70 MPH.     *TT",
+        "vin": "4T1BF32K63U"
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "12/10/2016",
+        "dateOfIncident": "10/15/2016",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10934414,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "TOWN AND COUNTRY",
+                "productYear": "2006",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "POWER TRAIN",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "AFTER FILLING GAS TANK (FILL-UP) AND DRIVING BACK INTO TRAFFIC, THE ENGINE STUMBLES BADLY AND STALLS INTERMITTENTLY.",
+        "vin": "2A8GP54L66R"
+    }
+]

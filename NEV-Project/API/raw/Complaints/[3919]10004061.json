@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "01/16/2003",
+        "dateOfIncident": "12/29/2002",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004061,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "PASSAT",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "IGNITION COIL FAILED WHILE TRAVELING, CAUSING ENGINE TO STALL.  CONSUMER WAS STRANDED.  MANUFACTURER IS AWARE OF PROBLEM, BUT WILL NOT REPLACE COMPONENT UNTIL IT FAILS.               PH",
+        "vin": "WVWPD63B52P"
+    }
+]

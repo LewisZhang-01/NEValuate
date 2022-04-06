@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,SUSPENSION,FUEL SYSTEM, GASOLINE",
+        "crash": true,
+        "dateComplaintFiled": "02/11/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10007086,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-250",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE DRIVER SIDE AXLE BROKE. DEFECTIVE HOSE CLAMP AND STEERING FAILED. *JB",
+        "vin": "1FTNF21L8YE"
+    }
+]

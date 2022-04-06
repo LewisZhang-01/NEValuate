@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "03/10/2003",
+        "dateOfIncident": "03/07/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010246,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "DODGE TRUCK",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "STEERING GEAR AND TRACK BAR FAILED AT 46,000 HIGHWAY MILES CAUSING EXTREMELY DANGEROUS STEERING . DODGE IS AWARE THEY HAVE A PROBLEM WITH THESE COMPONENTS AND IS UNWILLING TO ADDRESS UNDER WARRANTY.*JB",
+        "vin": "1B7KF23641J"
+    }
+]

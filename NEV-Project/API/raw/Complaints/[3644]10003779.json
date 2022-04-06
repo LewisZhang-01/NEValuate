@@ -1,0 +1,24 @@
+[
+    {
+        "components": "TIRES,SEATS",
+        "crash": false,
+        "dateComplaintFiled": "01/29/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003779,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "MOTOR HOME",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SEAT BELT IS INOPERATIVE AND THE SEAT-FALLING.   SCC     PH",
+        "vin": "1GBKP37NXR3"
+    }
+]

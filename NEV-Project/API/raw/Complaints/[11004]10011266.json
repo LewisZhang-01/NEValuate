@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "03/10/2003",
+        "dateOfIncident": "02/28/2003",
+        "fire": true,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10011266,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "RAM",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE HAD AN ELECTRICAL SHORTAGE UNDER THE DASHBOARD, WHICH RESULTED IN A FIRE.  *JB  THE CONSUMER HAS REQUESTED INFORMATION ABOUT OTHER VEHICLES (SAME MAKE/MODEL) WHO HAS EXPERIENCED THE SAME PROBLEM.  SCC",
+        "vin": "3B7KF23D1VM"
+    }
+]

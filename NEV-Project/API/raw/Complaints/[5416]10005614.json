@@ -1,0 +1,31 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "02/10/2003",
+        "dateOfIncident": "02/07/2003",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005614,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "MAXIMA",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN DIESEL",
+                "productModel": "CLA83",
+                "productYear": "1989",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "EVERY 3,000-6,000 MILES BRAKE ROTORS BECOME WARPED, CAUSING A SHAKING IN THE STEERING WHILE WHILE BRAKING.  NISSAN, ACKNOWLEDGING A PROBLEM WITH THEIR PART, WOULD REPAIR ROTORS OR REPLACE THEM, BUT IT WAS ONLY A TEMPORARY REPAIR, AS THEY WOULD BECOME WARPED AGAIN AFTER A FEW THOUSAND MILES.  NISSAN HAS NOW REFUSED TO REPAIR/REPLACE NEW ROTORS THAT WARPED ONLY AFTER FEW THOUSAND MILES.",
+        "vin": ""
+    }
+]

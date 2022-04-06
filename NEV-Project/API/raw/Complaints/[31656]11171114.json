@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "01/21/2019",
+        "dateOfIncident": "01/15/2019",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11171114,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "FIAT",
+                "productModel": "500",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "MY FIAT HAS BEEN HAVING A ISSUE WITH STALLING ON THE ROAD.. I HAVE TAKEN IT TO TWO MECHANICS FOR DIAGNOSTICS BUT NOT ONE CAN FIND THE PROBLEM. IT'S A SAFETY CONCERN",
+        "vin": "3C3CFFAR1ET"
+    }
+]

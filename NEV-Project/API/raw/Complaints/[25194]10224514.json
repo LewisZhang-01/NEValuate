@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "04/14/2008",
+        "dateOfIncident": "03/24/2005",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10224514,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "TRAILBLAZER",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN TEMPERATURES ARE COOL , BELOW 40 DEGREES F THE TACHOMETER DOESN'T WORK AT ALL. ONCE THE CAR HAS BEEN DRIVEN AWHILE AND \"WARMED UP\" THE TACHOMETER BEGINS WORKING.  *TR",
+        "vin": "1GNDT13S242"
+    }
+]

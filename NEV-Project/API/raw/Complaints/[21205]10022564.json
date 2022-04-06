@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "06/06/2003",
+        "dateOfIncident": "06/04/2003",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022564,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "ACCENT",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING AT 30 MPH VEHICLE WAS INVOLVED IN A FRONT END COLLISION. UPON IMPACT,  AIR BAGS DID NOT DEPLOY. DEALER NOTIFIED. *AK",
+        "vin": ""
+    }
+]

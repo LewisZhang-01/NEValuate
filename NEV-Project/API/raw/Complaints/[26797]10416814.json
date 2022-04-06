@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE,FUEL SYSTEM, OTHER",
+        "crash": false,
+        "dateComplaintFiled": "08/03/2011",
+        "dateOfIncident": "07/25/2011",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10416814,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA 1500",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "GAS GAUGE NOT WORKING ON 2005 GMC 1500 PICKUP.  *KB",
+        "vin": "2GTEK13T951"
+    }
+]

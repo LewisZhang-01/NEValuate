@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "03/12/2007",
+        "dateOfIncident": "11/05/2006",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10184814,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXCURSION",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE HAS A VIBRATION ABOVE 45 MPH UP TO 55 MPH. NOT SURE IF THE VIBRATION IS COMING FROM THE DRIVE SHAFT OR NOT BUT IT HAS A DISTINCT VIBRATION. *JB",
+        "vin": "1FMNU41S11E"
+    }
+]

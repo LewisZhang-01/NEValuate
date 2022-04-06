@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "02/04/2003",
+        "dateOfIncident": "02/04/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10006351,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "RECALL # 98-V-150-001,  CONSUMER  HAS THE SAME PROBLEM. THIS VEHICLE IN NOT INCLUDE IN  RECALL DUE TO THE VIN. PLEASE PROVIDE FURTHER INFORMATION.    PH.  *AK",
+        "vin": "2GTEC19W1T1"
+    }
+]

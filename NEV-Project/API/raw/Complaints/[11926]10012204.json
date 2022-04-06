@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "03/21/2003",
+        "dateOfIncident": "03/18/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10012204,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "GRAND PRIX",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE WAS TAKEN TO THE DEALERSHIP FOR A RECALL REGARDING THE RACK AND PINION, HOWEVER WHEN THE RECALL WAS FINISHED, CONSUMER STATED THE VEHICLE BEGAN TO EXPERIENCE PROBLEMS WITH THE STEERING. *NLM",
+        "vin": "1G2WP5213VF"
+    }
+]

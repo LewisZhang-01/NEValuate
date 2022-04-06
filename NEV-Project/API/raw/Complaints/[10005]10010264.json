@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "03/11/2003",
+        "dateOfIncident": "09/23/2001",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010264,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "DAKOTA",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FRAME CRACKED IN HALF BEHIND THE SUSPENSION ON PASSENGER SIDE.*JB",
+        "vin": "1B7GL23X9TS"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "06/03/2003",
+        "dateOfIncident": "01/01/1901",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022244,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "BLAZER",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NAR  6-03-2003  *MR    RECALL CAMPAIGN ID NUMBER -01V200000. DEFECTIVE BALL JOINTS. *CB",
+        "vin": ""
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "03/14/2019",
+        "dateOfIncident": "03/13/2019",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11186764,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "THUNDERBIRD",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2002 FORD THUNDERBIRD EQUIPPED WITH A FIRESTONE TEMPA SPARE TIRE, SIZE: T185-60-R17 (NA). WHILE CLEANING THE VEHICLE, THE CONTACT FOUND THAT THE SPARE TIRE THAT WAS STORED IN THE TRUNK WAS BLOWN OUT AND THE TIRE WIRES, RUBBER, AND CORDS WERE EXPOSED. THE MANUFACTURER WAS CONTACTED AND ADVISED THE CONTACT TO VISIT FIRESTONE TO HAVE THE TIRE REPLACED. THE CONTACT WAS INFORMED THAT THE TIRE WAS NO LONGER MANUFACTURED. THE CONTACT WAS CONCERNED THAT THERE WAS NO TIRE AVAILABLE TO REPLACE THE SPARE TIRE. THE VEHICLE FAILURE MILEAGE WAS 3,500 AND THE TIRE FAILURE MILEAGE WAS 2. *DT*JB",
+        "vin": "1FAHP60A72Y"
+    }
+]

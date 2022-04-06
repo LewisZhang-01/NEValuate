@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/10/2003",
+        "dateOfIncident": "06/10/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022808,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "PICKUP",
+                "productYear": "1999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "WILDERNESS",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "CONSUMER PURCHASED A SET OF TIRES 3 YEARS AGO FOR HIS TOYOTA TRUCK, AND NOW AFTER 35,000 MILES HE IS HAVING PROBLEMS WITH THEM SEPARATING .  THESE TIRES ARE NOT ON RECALL SO THE MANUFACTURER WILL NOT HELP HIM.   WHILE  DRIVING FELT AS THOUGH HE WAS GETTING A FLAT TIRE, HE WENT TO THE DEALER AND AFTER EXAMINATION OF THE TIRES HE FOUND OUT THAT THE TIRES HAD SEPARATED FROM THE BELTS INSIDE.  FIRESTONE,WILDERNESS 30X950 R 15 LP WHICH WAS SUPPOSE TO GO FROM 50-60,000 MILES. THESE TIRES DID NOT COME ON THE VEHICLE, BUT WERE PURCHASED LATER.*AK",
+        "vin": "JT4TN12D6V0"
+    }
+]

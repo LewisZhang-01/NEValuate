@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "05/12/2016",
+        "dateOfIncident": "05/11/2016",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10864514,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "ENCLAVE",
+                "productYear": "2011",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING ON INTERSTATE WITH CRUISE CONTROL ON AT 70 MPH, VEHICLE RPMS JUMPED UPWARD  THEN ENGINE SHUTDOWN, HAVING TO DRIFT OUT OF 70 MPH TRAFFIC ONTO SHOULDER OF HIGHWAY.  REQUESTED ASSISTANCE FROM TOWING COMPANY, COULD NOT JUMP VEHICLE TO START.  DEALER STATED  THAT TIMING CHAINS HAD JUMP OR HAS SLACK AND SET OFF SEVERAL DTC'S PREVENTING A NO START!",
+        "vin": "5GAKRBED6BJ"
+    }
+]

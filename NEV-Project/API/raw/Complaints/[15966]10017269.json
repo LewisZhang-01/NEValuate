@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "04/21/2003",
+        "dateOfIncident": "11/22/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017269,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TEMPO",
+                "productYear": "1993",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "GOODYEAR",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "AFTER TRAVELING APPROXIMATELY 60 MILES THE PASSENGER FRONT TIRE TREAD SEPARATED WHICH CAUSED DAMAGE TO THE VEHICLE.  THE VEHICLES TIRES WERE 6 MONTHS OLD AT TIME OF THE INCIDENT.  THE CONSUMER HAD THE TIRES CHECKED FOR SAFETY BEFORE BEGINNING THE TRIP (TIRE INFO:  GOODYEAR, 185/70R14, PLEASE PROVIDE THE DOT #).    *NLM",
+        "vin": ""
+    }
+]

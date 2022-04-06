@@ -1,0 +1,31 @@
+[
+    {
+        "components": "SEAT BELTS,CHILD SEAT",
+        "crash": false,
+        "dateComplaintFiled": "01/22/2003",
+        "dateOfIncident": "12/08/2002",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003193,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "LAND CRUISER",
+                "productYear": "1992",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SAFETY BELT",
+                "productYear": "9999",
+                "type": "Child Seat"
+            }
+        ],
+        "summary": "2 OF THE SEAT BELTS ON MY 1992 TOYOTA LANDCRUISER CAME COMPLETELY OUT IN A PASSENGER'S HAND.  THE VEHICLE HAS BEEN STRICTLY MAINTAINED ACCORDING TO THE MANUFACTURER'S STANDARDS AND BY TOYOTA DEALERSHIP SERVICE.    WE WERE VERY LUCKY THAT THE CAR WAS NOT MOVING AT THE TIME - BUT THIS COULD HAPPEN IN AN ACCIDENT.  THIS IS A LARGE SAFETY ISSUE IN MY OPINION.  I THINK ALL LANDCRUISERS SHOULD BE RECALLED TO HAVE THEIR SEAT BELTS CHECKED AND THAT THIS CHECK SHOULD BE ADDED TO THE LIST OF REGULAR MAINTENANCE ITEMS BY THE MANUFACTURER.  WHO WOULD SUSPECT THAT THE SEATBELT CONSTRUCTION WAS SO FAULTY THAT IT ERODES OVER TIME?",
+        "vin": "JT3FJ80W3N0"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "components": "SUSPENSION,TIRES",
+        "crash": false,
+        "dateComplaintFiled": "10/02/2002",
+        "dateOfIncident": "06/15/2002",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10007450,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "RAM 1500",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "AT SPEEDS ABOVE 30 MPH, VEHICLE DEMONSTRATES LACK OF CONTROL WHEN ENCOUNTERING ROUGH/UNEVEN ROAD SURFACE. VEHICLE EXPERIENCES EXCESSIVE JUMP/BOUNCE IN FRONT AND REAR SUSPENSION. TIRE PRESSURE DECREASED FROM TIRE MANUFACTURER RECOMMENDED 44 PSI TO DODGE RECOMMENDED 35 PSI. THIS ACTION HELPED TO RESTORE LOW SPEED CONTROL. VEHICLE STILL HAS CONTROL LOSS AT HIGHWAY SPEEDS OF 65 MPH AND GREATER. DEALER CONTACTED AND STATED HAD NOT HEARD OF THE PROBLEM, BUT WOULD LOOK INTO PROBLEM. NOTE: VEHICLE IS A SWB STANDARD CAB VERSION OF THE RAM 1500. *PH  *JB    **DIMSII IVOQ ENTRY POSTED AFTER 12/12/02 CUT OVER TO ARTEMIS**768036",
+        "vin": "1D7HA16N52J"
+    }
+]

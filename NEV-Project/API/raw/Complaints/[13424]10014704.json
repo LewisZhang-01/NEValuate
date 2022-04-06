@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE,ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "03/28/2003",
+        "dateOfIncident": "02/15/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10014704,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "PLYMOUTH",
+                "productModel": "VOYAGER",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE EXPERIENCED A FUEL LEAK.  *JB  THE ELECTRICAL SYSTEM HAS NOT WORKED WHILE VEHICLE WAS RUNNING.  (WINDOW, BLINKERS, AND THE RADIO)  RESTARTING THE VEHICLE SOLVES THE PROBLEM EACH TIME.  SCC",
+        "vin": "1P4GP44R8VB"
+    }
+]

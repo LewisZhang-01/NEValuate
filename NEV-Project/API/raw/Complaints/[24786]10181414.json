@@ -1,0 +1,32 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC,VEHICLE SPEED CONTROL,TIRES",
+        "crash": false,
+        "dateComplaintFiled": "02/02/2007",
+        "dateOfIncident": "12/21/2006",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10181414,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "MATRIX",
+                "productYear": "2006",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Continental Tire the Americas, LLC",
+                "productMake": "CONTINENTAL",
+                "productModel": "CONTITOURING",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "TL*-  THE CONTACT OWNS A 2006 TOYOTA MATRIX.   WHILE DRIVING ON 12/21/06 IN HEAVY TRAFFIC AT 5 MPH  HEARD A KNOCKING SOUND. THE CONTACT STOPPED THE VEHICLE AND OBSERVED THAT THE TIRE FAILED AND THAT THE SIDEWALL WAS  DAMAGED.  THE CONTACT WAS CERTAIN THAT HE DIDN'T HIT ANYTHING TO CAUSE THE TIRE TO FAIL.  THE CONTACT PLACED A SPARE TIRE  ON THE VEHICLE AND DROVE IT TO THE DEALER.  THE DEALER ADVISED HIM TO CALL THE TIRE MANUFACTURER AND FILE A COMPLAINT.  SEARS INFORMED THE CONTACT THAT THE TIRE FAILURE WAS DUE TO ROAD HAZARDS.  THE CONTACT STATED THAT THE ROAD CONDITIONS WERE GOOD.  *AK",
+        "vin": "2T1LR32E66C"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "11/23/1998",
+        "dateOfIncident": "01/01/1997",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 700839,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "M3",
+                "productYear": "1988",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NHTSA CAMPAIGN ID #93V015000 INDICATES THIS VEHICLE IS PART OF A RECALL, YET WHEN I CALLED THE BMWNA SERVICE REP. (800-525-7417) THEY SAID MY VEHICLE ISN'T PART OF THE RECALL. MY CAR EXHIBITS ALL THE SIGNS DESCRIBED IN THE RECALL NOTICE. IT HAS WHITE COOLANT RESIDUE AROUND ALL THE COOLANT HOSES AND THE RADIATOR SEAMS. I FEAR THAT THERE MAY BE A LEAK AT ANY TIME. THIS HAS EXISTED FOR SOMETIME BUT UNTIL I READ THE RECALL NOTICE I DIDN'T DO ANYTHING. THE RADIATOR WAS REPLACED IN 1991 FOR LEAKAGE. BUT THE WHITE RESIDUE REAPPEARED AGAIN SHORTLY AFTER.",
+        "vin": "WBSAK0300J2"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "11/15/1995",
+        "dateOfIncident": "11/01/1995",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 487855,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "M3",
+                "productYear": "1988",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WARNING LIGHT CAME ON, ENGINE OVERHEATED DUE TO FAILURE OF COOLANT SYSTEM COMPONENT. *DSH",
+        "vin": "WBSAK0304J2"
+    }
+]

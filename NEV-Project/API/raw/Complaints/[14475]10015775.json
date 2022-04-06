@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "04/14/2003",
+        "dateOfIncident": "02/22/2003",
+        "fire": false,
+        "manufacturer": "ALFA LEISURE,INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015775,
+        "products": [
+            {
+                "manufacturer": "ALFA LEISURE,INC.",
+                "productMake": "ALFA",
+                "productModel": "5TH WHEEL",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "CARLISLE TIRE & RUBBER CO",
+                "productMake": "CARLISLE",
+                "productModel": "CARLISLE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE RIGHT TIRE BLEW OUT, THE OTHER TWO TIRES HAD TREAD SEPARATION AND THE FOURTH TIRE HAD A LARGE  BUBBLE.  *JB",
+        "vin": ""
+    }
+]

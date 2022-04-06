@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "03/21/2003",
+        "dateOfIncident": "03/17/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010836,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "TOWN CAR",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AIR BAG WIRING FAILURE. CLOCK SPRING ASSEMBLY PART NUMBER F5VY-14A664-A STEERING COLUMN WIRING BROKE. ALL 7 WIRES WERE WORN THROUGH FROM THE MOVEMENT OF THE TILT STEERING COLUMN. 3 OF THESE WIRES WERE BROKEN-ONE GRAY WHICH SIGNALS THE AIR BAGS TO DEPLOY AND THE OTHER CONTROLLED THE RADIO AND OTHER FUNCTIONS.   *NLM",
+        "vin": "1LNLM82W6TY"
+    }
+]

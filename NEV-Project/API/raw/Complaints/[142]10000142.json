@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "12/16/2002",
+        "dateOfIncident": "11/17/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000142,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "1999 CHEVY SILVERADO-ABS SYSTEM FAILS AT SLOW SPEEDS,OR COMING TO A STOP.BRAKES RELEASE,PEDEL GOES TO FLOOR CAUSING THE TRUCK TO CONTINUE FORWARD.",
+        "vin": "2GCEK19V3X1"
+    }
+]

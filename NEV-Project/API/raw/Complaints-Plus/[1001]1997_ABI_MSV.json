@@ -1,0 +1,68 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": true,
+        "dateComplaintFiled": "03/05/2010",
+        "dateOfIncident": "03/04/2010",
+        "fire": false,
+        "manufacturer": "ADVANCED BUS INDUSTRIES, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10317180,
+        "products": [
+            {
+                "manufacturer": "ADVANCED BUS INDUSTRIES, LLC",
+                "productMake": "ABI",
+                "productModel": "MSV",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "A LARGE TRUCK (ABOUT 20-25 FEET) CAUSED DAMAGES TO TWO PASSENGER CARS. FIRST, THE DRIVER TRIED TO MAKE A LEFT ON THE CORNER THAT I LIVE. WHILE MAKING THIS TURN HE HIT ONE CAR COMPLETELY TAKING OFF ITS SIDE MIRROR. ONCE HE NOTICED WHAT HE DID, HE STARTED TO BACK UP. BUT AS HE STARTED BACKING UP, HE HIT ANOTHER CAR DAMAGING IT AS HE DRAGGED IT RIGHT ONTO THE SIDEWALK WHILE THE WITNESSES WERE SCREAMING FOR HIM TO STOP. INSTEAD OF GETTING OUT OF THE TRUCK AND SPEAKING TO ONE OF THE DRIVERS ABOUT THE DAMAGES, HE GAVE UP ON THE TURN (AND RIGHTLY SO) AND LEFT. AND THIS IS NOT THE FIRST TIME THIS HAPPENED. ON THAT STREET CARS ARE PARKED ON BOTH SIDES, AND THERE IS NO SPACE FOR A LARGE TRUCK TO TURN. I DO NOT KNOW THE YEAR AND THE MAKE OF THE TRUCK (SO ON THE NEXT PAGE THE INFO ABOUT THE TRUCK IS INCORRECT - I SELECTED ANYTHING FOR THE PURPOSES OF SUBMITTING THIS COMPLAINT).  *TR",
+        "vin": ""
+    },
+    {
+        "components": "AIR BAGS,TIRES,EQUIPMENT,CHILD SEAT",
+        "crash": false,
+        "dateComplaintFiled": "08/30/2007",
+        "dateOfIncident": "01/01/2007",
+        "fire": false,
+        "manufacturer": "ADVANCED BUS INDUSTRIES, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10201244,
+        "products": [
+            {
+                "manufacturer": "ADVANCED BUS INDUSTRIES, LLC",
+                "productMake": "ABI",
+                "productModel": "MSV",
+                "productYear": "1997",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "ALL AMERICAN TIRE CO.",
+                "productMake": "ALL AMERICAN",
+                "productModel": "ALL AMERICAN",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            },
+            {
+                "manufacturer": "Combi USA, Inc.",
+                "productMake": "COMBI",
+                "productModel": "TYRO II THUNDER",
+                "productYear": "9999",
+                "type": "Child Seat"
+            },
+            {
+                "manufacturer": "ABADDON PRODUCTS CO.",
+                "productMake": "ABADDON PRODUCTS",
+                "productModel": "HELMET",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "YYYYY`",
+        "vin": ""
+    }
+]

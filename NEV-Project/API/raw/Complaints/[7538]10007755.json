@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "02/18/2003",
+        "dateOfIncident": "01/01/1998",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10007755,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "S10",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WINDSHIELD WIPERS WORK INTERMITTENTLY AND ONLY FOR A SHORT PERIOD OF TIME.  THEY USUALLY STOP WORKING WHEN MOST NEEDED, USUALLY DURING PERIODS OF RAIN.",
+        "vin": ""
+    }
+]

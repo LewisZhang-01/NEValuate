@@ -1,0 +1,134 @@
+[
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "10/20/1997",
+        "dateOfIncident": "09/15/1997",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 524307,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAPRICE",
+                "productYear": "1979",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AIR CONDITIONER COMPRESSOR FAILED.",
+        "vin": "1H4709J2099"
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "10/20/1997",
+        "dateOfIncident": "09/15/1997",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 524307,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAPRICE",
+                "productYear": "1979",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TRANSMISSION FAILED.",
+        "vin": "1H4709J2099"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "10/20/1997",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 524307,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAPRICE",
+                "productYear": "1979",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "HORN FAILED.",
+        "vin": "1H4709J2099"
+    },
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "10/20/1997",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 524307,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAPRICE",
+                "productYear": "1979",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AIR CONDITIONER MOTOR FAILED CAUSING PARTS TO FALL FROM VEHICLE.",
+        "vin": "1H4709J2099"
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "07/17/1995",
+        "dateOfIncident": "10/18/1994",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 484301,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAPRICE",
+                "productYear": "1979",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TRANSMISSION FORWARD CLUTCH FAILED.  *SKD",
+        "vin": ""
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "02/13/1995",
+        "dateOfIncident": "02/13/1995",
+        "fire": true,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 482128,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAPRICE",
+                "productYear": "1979",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CATALYTIC COVERTER FAILED, CAUSING FUEL LINES TO CATCH ON FIRE.  (OHIO STATE POLICE REPORT)  *SKD",
+        "vin": ""
+    }
+]

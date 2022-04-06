@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "04/02/2003",
+        "dateOfIncident": "03/19/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10013828,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "TRAILBLAZER",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "HYDROPLANED HEAD ON INTO A TREE DOING ABOUT 40 MPH.  HIT THE TREE HARD ENOUGH TO BREAK THE ENGINE MOUNTS AND SHIFT THE ENGINE FORWARD INTO THE FAN, PLUS SOME TRANSMISSION DAMAGE.  THE AIR BAGS DID NOT DEPLOY.   *NLM",
+        "vin": "1GNDS13S122"
+    }
+]

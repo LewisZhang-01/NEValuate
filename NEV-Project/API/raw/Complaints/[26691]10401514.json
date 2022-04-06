@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "05/18/2011",
+        "dateOfIncident": "05/12/2011",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10401514,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "JOURNEY",
+                "productYear": "2009",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Kumho Tire Co., Inc.",
+                "productMake": "KUMHO",
+                "productModel": "SOLUS",
+                "productYear": "9999",
+                "size": "P225/55R19",
+                "type": "Tire"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 2009 DODGE JOURNEY. THE VEHICLE HAD KUMHO TIRES, LINE SOLUS, TIRE SIZE 225/55/R19 ON THE VEHICLE. THE DOT WAS NOT AVAILABLE. THE CONTACT STATED AFTER TAKING THE VEHICLE IN FOR A FRONT END ALIGNMENT, THEY ADVISED HER THAT ALL FOUR TIRES WERE SEPARATING. THE VEHICLE WAS NOT REPAIRED SINCE THE TIRES WERE ON BACK-ORDER. THE MANUFACTURER WAS CONTACTED AND ADVISED HER THAT THERE WERE NO RECALLS. THE FAILURE MILEAGE WAS APPROXIMATELY 21,000.",
+        "vin": "3D4GG67V09T"
+    }
+]

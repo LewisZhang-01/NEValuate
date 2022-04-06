@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "01/28/2003",
+        "dateOfIncident": "02/05/2001",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10003770,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TAURUS",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ON TWO OCCASIONS, THE CONSUMER OPENED THE DOOR FRONT/DRIVER DOOR, AND THE CORNER/SHARP EDGE HIT THE CONSUMER IN THE EYE.  SCC",
+        "vin": "1FAFP55511A"
+    }
+]

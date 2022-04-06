@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/13/2003",
+        "dateOfIncident": "01/01/2003",
+        "fire": false,
+        "manufacturer": "Mercedes-Benz USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10006044,
+        "products": [
+            {
+                "manufacturer": "Mercedes-Benz USA, LLC",
+                "productMake": "MERCEDES BENZ",
+                "productModel": "190",
+                "productYear": "1992",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "B.F. GOODRICH TIRE CO.",
+                "productMake": "B.F.GOODRICH",
+                "productModel": "B.F.GOODRICH",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "NAR 1/29/2003. THE CONSUMERS WIFE NOTICED DEEP CRACKS IN THE SIDEWALL OF TIRES NEAR THE TREAD.  THE TIRE DEALER INFORMED THE CONSUMER THE CRACKS WERE DUE TO VEHICLE BEING DRIVEN AGAINST CURBS AND NOT BECAUSE OF A DEFECT. *JB",
+        "vin": ""
+    }
+]

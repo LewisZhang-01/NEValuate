@@ -1,0 +1,90 @@
+[
+    {
+        "components": "LATCHES/LOCKS/LINKAGES",
+        "crash": false,
+        "dateComplaintFiled": "04/04/1995",
+        "dateOfIncident": "07/10/1994",
+        "fire": false,
+        "manufacturer": "COBRA INDUSTRIES, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 482945,
+        "products": [
+            {
+                "manufacturer": "COBRA INDUSTRIES, INC.",
+                "productMake": "COBRA",
+                "productModel": "COBRA",
+                "productYear": "1990",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "LEFT FRONT DOOR LATCH/LOCK  FAILS, CAUSING DOOR TO FLY OPEN WHILE LOCKED.  *SKD",
+        "vin": "1GBKP37WXK3"
+    },
+    {
+        "components": "SERVICE BRAKES, AIR",
+        "crash": false,
+        "dateComplaintFiled": "03/10/1995",
+        "dateOfIncident": "03/10/1995",
+        "fire": false,
+        "manufacturer": "COBRA INDUSTRIES, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 482046,
+        "products": [
+            {
+                "manufacturer": "COBRA INDUSTRIES, INC.",
+                "productMake": "COBRA",
+                "productModel": "COBRA",
+                "productYear": "1990",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "OTHER: SUSPENSION AIR BAGS FAILED THREE TIMES.",
+        "vin": "1GBKP37W3K3"
+    },
+    {
+        "components": "STRUCTURE",
+        "crash": true,
+        "dateComplaintFiled": "03/10/1995",
+        "dateOfIncident": "03/10/1995",
+        "fire": false,
+        "manufacturer": "COBRA INDUSTRIES, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 482046,
+        "products": [
+            {
+                "manufacturer": "COBRA INDUSTRIES, INC.",
+                "productMake": "COBRA",
+                "productModel": "COBRA",
+                "productYear": "1990",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TIRES HAVE BLOWN OUT FIVE TIMES, ALSO RE-ALIGNMENTS DONE 6 TIMES DUE TO COACH BEING TOO HEAVY FOR CHASSIS. *SKD",
+        "vin": "1GBKP37W3K3"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "03/10/1995",
+        "dateOfIncident": "03/10/1995",
+        "fire": false,
+        "manufacturer": "COBRA INDUSTRIES, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 482046,
+        "products": [
+            {
+                "manufacturer": "COBRA INDUSTRIES, INC.",
+                "productMake": "COBRA",
+                "productModel": "COBRA",
+                "productYear": "1990",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKES FAILED.",
+        "vin": "1GBKP37W3K3"
+    }
+]

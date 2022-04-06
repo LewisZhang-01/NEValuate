@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "03/17/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10011866,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERCURY",
+                "productModel": "GRAND MARQUIS",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THERE WAS A DEFECT IN INTAKE MANIFOLD, WHICH WAS DESCRIBED IN THE TSB 630628. PLEASE PROVIDE MORE DETAILS.   *JB",
+        "vin": "2MELM75W9TX"
+    }
+]

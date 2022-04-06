@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "01/17/2010",
+        "dateOfIncident": "11/14/2009",
+        "fire": false,
+        "manufacturer": "V/M Custom Boat Trailers",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10300105,
+        "products": [
+            {
+                "manufacturer": "V/M Custom Boat Trailers",
+                "productMake": "V/M",
+                "productModel": "G",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "MONOLEAF SPRING FAILURE O00E016000N VM TRAILER. EXISTING NHTSA RECALL # 00E016000. *TR",
+        "vin": "1VMBG2125Y1"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/08/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "PACCAR Incorporated",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002315,
+        "products": [
+            {
+                "manufacturer": "PACCAR Incorporated",
+                "productMake": "KENWORTH",
+                "productModel": "KENWORTH",
+                "productYear": "1998",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "MICHELIN TIRE CORP.",
+                "productMake": "MICHELIN",
+                "productModel": "MICHELIN",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "CONSUMER STATES THAT FRONT LEFT TIRE SIDE WALL BLEW OUT CAUSING SLIGHT LOST OF CONTROL. PLEASE ANY ADDITIONAL INFORMATION. TS",
+        "vin": ""
+    }
+]

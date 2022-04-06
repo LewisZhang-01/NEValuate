@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES,SEATS,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "01/16/2003",
+        "dateOfIncident": "06/19/2002",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002126,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "JETTA",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "EAGLE LS",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE CONSUMER HAS EXPERIENCED THE FOLLOWING:  TREAD SEPARATION(TIRES)/THE OUTSIDE TIRES CUPPED, MORE WEAR ON THE CENTER, 3-4 TIRES HAD SHOWN A SIGN OF SEPARATING CORDS, THE DRIVER SEAT BACK IS WORN, UNSPECIFIED BAD REMOTE, AND THE SPEAKER WOULD DRIFT AWAY THEN COME BACK AGAIN.  THE CONSUMER SEEKS REIMBURSEMENT FOR THE DEFECTIVE TIRES.  SCC                    PH",
+        "vin": "3VW5P29M51M"
+    }
+]

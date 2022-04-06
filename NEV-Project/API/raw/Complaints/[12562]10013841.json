@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "04/02/2003",
+        "dateOfIncident": "03/27/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10013841,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVER AND PASSENGER AIRBAGS FAILED TO ACTIVATE DURING A 45 TO 50 MPH FRONT END IMPACT.   *NLM",
+        "vin": "1FTRX18L5XK"
+    }
+]

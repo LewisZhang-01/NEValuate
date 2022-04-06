@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "02/19/2003",
+        "dateOfIncident": "04/07/2001",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10007822,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "CIVIC",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SRS COMPONENT FAILURE.  AIR BAG LIGHT STAYS ON - TOLD SENSOR UNIT NEEDS REPLACING.  AIR BAGS WILL NOT DEPLOY UNLESS REPLACED.  COST APPROXIMATELY $500.  VEHICLE ONLY HAS 85000 MILES.",
+        "vin": "1HGEJ8144TL"
+    }
+]

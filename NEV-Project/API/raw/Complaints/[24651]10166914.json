@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": true,
+        "dateComplaintFiled": "08/22/2006",
+        "dateOfIncident": "07/05/2006",
+        "fire": false,
+        "manufacturer": "Subaru of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10166914,
+        "products": [
+            {
+                "manufacturer": "Subaru of America, Inc.",
+                "productMake": "SUBARU",
+                "productModel": "FORESTER",
+                "productYear": "1998",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "1998 SUBARU FORESTER'S TIRE BLEW OUT.  *TS  WHEN THE TIRE BLEWOUT IT CAUSED THE VEHICLE TO GO OFF THE ROADWAY AND STRIKE A CONSTRUCTION CONE, DELINEATOR POST AND SOUTH DITCH.  THE VEHICLE LEFT REAR QUARTER PANEL, TAILLIGHT AND BUMPER WERE DAMAGED.  THERE WERE NO INJURIES.  *NM",
+        "vin": ""
+    }
+]

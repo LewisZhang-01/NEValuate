@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "01/25/2012",
+        "dateOfIncident": "01/24/2012",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10445214,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "ELANTRA",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "HEAD ON CRASH.  MY SPEED APPROX. 10 MPH.  OTHER CAR SPEED APPROX. 30 MPH.  NO AIRBAG DEPLOYMENT.  *TR",
+        "vin": "KMHDN46D35U"
+    }
+]

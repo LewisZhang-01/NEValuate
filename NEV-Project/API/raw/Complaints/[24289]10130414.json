@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "07/28/2005",
+        "dateOfIncident": "06/28/2005",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10130414,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAVALIER",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DT:  CALLER HAD SAME PROBLEM AS MENTIONED IN  RECALL 02V286000  CONCERNING RACK AN DPINION STEERING.  BUT THIS VEHICLE WAS  NOT INCLUDED IN  RECALL  DUE TO VIN.  DEALER AND MANUFACTURER  SAID HIS VEHICLE WAS NOT INCLUDED. *AK",
+        "vin": "1G1JF5243W7"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "10/26/2014",
+        "dateOfIncident": "09/27/2014",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10650014,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "SANTA FE",
+                "productYear": "2011",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Kumho Tire Co., Inc.",
+                "productMake": "KUMHO",
+                "productModel": "SOLUS KL21",
+                "productYear": "9999",
+                "size": "235/65 R17",
+                "type": "Tire"
+            }
+        ],
+        "summary": "KUMHO TIRE KL21 P235/65R/17 PURCHASE 2013, SLOW AIR LEAKED AND TIRE HAS LESS 10K MILES AND CHECKED BY DEALER/TIRE CENTER WITH NO APPARENT PUNCTURE ON TIRE.  *TR",
+        "vin": "5XYZG3AB5BG"
+    }
+]

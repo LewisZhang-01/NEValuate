@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "01/29/2003",
+        "dateOfIncident": "07/15/2001",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004926,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "LESABRE",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "HORN SOUNDS WHEN OUTSIDE TEMP GETS HOT.  HAD TO DISCONNECT HORN.",
+        "vin": "1G4HP52L9SH"
+    }
+]

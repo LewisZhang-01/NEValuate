@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "12/18/2002",
+        "dateOfIncident": "11/19/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000205,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "MUSTANG",
+                "productYear": "1988",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE RESTRAINING BOLT ON THE BRACKET OF THE DRIVERS SEAT, WHICH PREVENTS THE SEAT FROM COLLAPSING BACKWARD, SHEARED.  I WAS STOPPED IN A PARKING LOT AT THE TIME.  HAD I BEEN IN MOTION, I WOULD HAVE COLLAPSED BACKWARD, SUBMARINING UNDERNEATH THE SEAT BELT AND WOULD HAVE BEEN SERIOUSLY INJURED HAD I CRASHED.",
+        "vin": "1FABP41A3JF"
+    }
+]

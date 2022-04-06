@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "05/06/2003",
+        "dateOfIncident": "04/25/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017113,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAVALIER",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DEFECTIVE BATTERY CAUSED LEAKING ON ELECTRICAL WIRING HARNESS CAUSING BURNING AND DAMAGE. GM MECHANIC STATED COMMON PROBLEM WITH FACTORY BATTERIES. GM HQ WILL NOT AGREE TO REPLACE NOR COMPENSATE FOR DAMAGES OR REPAIRS.  *NLM",
+        "vin": "1G1JC524317"
+    }
+]

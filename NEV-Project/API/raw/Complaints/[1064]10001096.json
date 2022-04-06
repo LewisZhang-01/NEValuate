@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "12/17/2002",
+        "dateOfIncident": "10/12/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001096,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "WINDSTAR",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING THE VEHICLE AND TURNING LEFT OR RIGHT IS BIG NOISE , DUE TO A FAULTY POWER RACK AND PINION ASSEMBLY, DEALER HAS BEEN NOTIFIED. PLEASE PROVIDE FURTHER INFORMATION. TS",
+        "vin": "2FMZA5141XB"
+    }
+]

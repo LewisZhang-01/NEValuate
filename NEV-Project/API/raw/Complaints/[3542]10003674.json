@@ -1,0 +1,31 @@
+[
+    {
+        "components": "CHILD SEAT",
+        "crash": false,
+        "dateComplaintFiled": "01/24/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003674,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "EAGLE",
+                "productModel": "VISION",
+                "productYear": "1995",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Evenflo Company, Inc.",
+                "productMake": "EVENFLO",
+                "productModel": "CHILD SAFETY SEAT",
+                "productYear": "9999",
+                "type": "Child Seat"
+            }
+        ],
+        "summary": "THE CONSUMER'S BABY SEAT WASN'T PROPERLY INSTALLED.  WHEN ANCHORED BY THE LAP/SHOULDER BELT TIGHTLY, THE SEAT LEANS TO THE SIDE AND WORK ITSELF OUT OF POSITION WHEN TAKING THE BABY IN/OUT OF THE SEAT.  SCC",
+        "vin": "2E3H066FXSH"
+    }
+]

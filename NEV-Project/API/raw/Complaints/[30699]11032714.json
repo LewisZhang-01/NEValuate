@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "10/10/2017",
+        "dateOfIncident": "10/10/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11032714,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2012",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "POWER STEERING FAULT  VEHICLE SUFFERS FROM ELECTRONIC STEERING FAULTS AT RANDOM.  THIS APPEARS TO BE A COMMON DEFECT WITH THE MODEL YEAR 2012 AND IS NOT COVERED UNDER A RECALL.  WHEN STARTING THE VEHICLE FROM A STATIONARY POSITION, THE POWER STEERING WILL NOT ENGAGE.  POWER CYCLING THE CAR A FEW TIMES WILL INITIALIZE THE STEERING CONTROL FOR THE TIME BEING.  I HAVEN'T EXPERIENCED THE ISSUE AT SPEED AS OF YET, BUT AM CONCERNED.",
+        "vin": "1FAHP3N26CL"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": true,
+        "dateComplaintFiled": "11/16/1995",
+        "dateOfIncident": "11/27/1994",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 2,
+        "odiNumber": 974999,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "CROWN VICTORIA",
+                "productYear": "1980",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE WAS INVOLVED IN AN ACCIDENT AND FRONT PASSENGER SEATBELT DID NOT RESTRAIN. PLEASE DESCRIBE.  TT",
+        "vin": ""
+    },
+    {
+        "components": "SEAT BELTS",
+        "crash": true,
+        "dateComplaintFiled": "11/06/1995",
+        "dateOfIncident": "11/27/1994",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 974589,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "CROWN VICTORIA",
+                "productYear": "1980",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "PASSENGER SIDE SEAT BELT FAILED UPON IMPACT AT 15 MPH.  TT",
+        "vin": ""
+    }
+]

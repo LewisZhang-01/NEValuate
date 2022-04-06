@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "05/03/2006",
+        "dateOfIncident": "04/28/2006",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10156714,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TAURUS",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DT*:  THE CONTACT STATED WHILE HAVING TIRES REPLACED ON THE VEHICLE, THE INDEPENDENT REPAIR SHOP DETERMINED THE REAR COIL SPRINGS FRACTURED.  THE MANUFACTURER WAS CONTACTED. UPDATED ON 05/30/2006.  *AK  *TS",
+        "vin": "1FAFP55S81A"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "01/10/2003",
+        "dateOfIncident": "12/18/2002",
+        "fire": true,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000936,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "TRACKER",
+                "productYear": "1990",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "MY CAR WAS RUNNING IN FRONT OF A PIZZERIA AND THE CAR BEGAN TO SMOKE THEN BEGAN TO GO UP IN FLAMES UNDER THE HOOD .",
+        "vin": "2CNBJ18U1L6"
+    }
+]

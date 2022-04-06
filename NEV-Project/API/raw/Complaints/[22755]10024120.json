@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "06/16/2003",
+        "dateOfIncident": "06/12/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10024120,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "ESCAPE",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN  CONSUMER'S VEHICLE WAS HIT IN THE FRONT CENTER OF VEHICLE  AIR BAGS DID NOT DEPLOY, CAUSING MINOR INJURIES TO  CONSUMER. DEALER NOTIFIED.  *AK",
+        "vin": ""
+    }
+]

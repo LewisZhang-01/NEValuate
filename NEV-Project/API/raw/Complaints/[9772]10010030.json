@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "03/18/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Porsche Cars North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010030,
+        "products": [
+            {
+                "manufacturer": "Porsche Cars North America, Inc.",
+                "productMake": "PORSCHE",
+                "productModel": "911",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SIDE AIR BAG FAILED TO DEPLOY, IN A SIDE SIDE IMPACT COLLISION.  *AK  *JB",
+        "vin": ""
+    }
+]

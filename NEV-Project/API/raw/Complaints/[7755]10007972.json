@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "02/22/2003",
+        "dateOfIncident": "01/22/2003",
+        "fire": true,
+        "manufacturer": "Subaru of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10007972,
+        "products": [
+            {
+                "manufacturer": "Subaru of America, Inc.",
+                "productMake": "SUBARU",
+                "productModel": "LEGACY",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE CONSUMED BY FIRE. FIRE INSPECTOR'S REPORT ATTRIBUTES CAUSE TO POWER STEERING HOSE SEPARATION AT PUMP.",
+        "vin": "4S3BF6337R7"
+    }
+]

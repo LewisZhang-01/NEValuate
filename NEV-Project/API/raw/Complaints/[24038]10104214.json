@@ -1,0 +1,31 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "12/21/2004",
+        "dateOfIncident": "12/20/2004",
+        "fire": false,
+        "manufacturer": "Subaru of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10104214,
+        "products": [
+            {
+                "manufacturer": "Subaru of America, Inc.",
+                "productMake": "SUBARU",
+                "productModel": "WRX",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Subaru of America, Inc.",
+                "productMake": "SUBARU",
+                "productModel": "64669AC260MU",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "GAS SMELL COMING FROM THE VENTS AND UNDER THE HOOD. VERY RAW AND STRONG.  FUEL LEAK!  SUBARU OF AMERICA FIXED THIS UNDER WARRANTY LAST YEAR, BUT NOW ITS BACK AND ARE GOING TO CHARGE FOR THIS FIX.*AK",
+        "vin": ""
+    }
+]

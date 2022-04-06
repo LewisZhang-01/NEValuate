@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "05/06/2019",
+        "dateOfIncident": "04/18/2019",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11205664,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "ESCAPE",
+                "productYear": "2008",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKE PEDAL TRAVELS ALMOST TO FLOOR. HAD BRAKES REPLACED, MASTER CYLINDER REPLACED. ALL BRAKE LINES BLED AND STILL HAVING SAME PROBLEM.",
+        "vin": "1FMCU93118K"
+    }
+]

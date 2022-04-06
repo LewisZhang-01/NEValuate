@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "04/16/2003",
+        "dateOfIncident": "04/08/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015948,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "VENTURE",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLES SIDE DOOR WAS HIT YET THE SIDE IMPACT AIR BAG DID NOT DEPLOY.  THE DEALER WAS NOTIFIED.  *NLM",
+        "vin": "1GNDU03E53D"
+    }
+]

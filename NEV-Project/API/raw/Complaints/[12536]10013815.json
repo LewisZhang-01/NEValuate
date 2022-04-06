@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "04/02/2003",
+        "dateOfIncident": "04/01/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10013815,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "S10",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FRONT PASSENGER SEAT ON 2000 CHEVROLET S-10 DOES NOT LOCK IN POSITION, I BELIEVE THIS TO BE A SAFETY ISSUE AND KNOW OF SEVERAL OTHER S-10 OWNERS WITH SAME PROBLEM, YET NO RECALL HAS BEEN ISSUED.  *NLM",
+        "vin": "1GCCS1957Y8"
+    }
+]

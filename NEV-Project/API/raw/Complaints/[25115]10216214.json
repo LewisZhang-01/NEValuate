@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS,SEAT BELTS",
+        "crash": true,
+        "dateComplaintFiled": "01/27/2008",
+        "dateOfIncident": "04/08/2006",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 3,
+        "odiNumber": 10216214,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "PRIUS",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ANOTHER DRIVER FAILED TO YIELD TO ME AT AN INTERSECTION.  I STRUCK THE OTHER CAR AND THE AIR BAGS DID NOT GO OFF NOR DID THE SEAT BELTS LOCK INTO PLACE TO HOLD THE PASSENGERS IN A RESTRAINED POSITION.  *TR",
+        "vin": "JTDKB20U557"
+    }
+]

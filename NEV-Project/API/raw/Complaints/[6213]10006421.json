@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "02/04/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10006421,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO 2500 HD",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUEL PUMP COLLAPSED CAUSING FUEL TANK TO LEAK. THE FUEL TANK WAS REPLACED, BUT PROBLEM RECURRED.    PH...*AK",
+        "vin": ""
+    }
+]

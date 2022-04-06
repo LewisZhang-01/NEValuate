@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "06/24/1999",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Mercedes-Benz USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 546376,
+        "products": [
+            {
+                "manufacturer": "Mercedes-Benz USA, LLC",
+                "productMake": "MERCEDES BENZ",
+                "productModel": "SL",
+                "productYear": "1991",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVERS SIDE AIR BAG DID NOT DEPLOY UPON IMPACT WITH THE REAR OF ANOTHER VEHICLE.  NLM",
+        "vin": "WDBEA61E3MF"
+    }
+]

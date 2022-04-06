@@ -1,0 +1,90 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "12/06/2002",
+        "dateOfIncident": "12/04/2002",
+        "fire": false,
+        "manufacturer": "PREVOST CAR, INCORPORATED",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 8023891,
+        "products": [
+            {
+                "manufacturer": "PREVOST CAR, INCORPORATED",
+                "productMake": "PREVOST",
+                "productModel": "XLII-40MTH",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATES THAT ENGINE CRADLE BOLTS BROKE WHILE DRIVING, RENDERING VEHICLE UNDRIVEABLE.  DEALER DIAGNOSED THE ENGINE CRADLE BOLTS WERE RUSTED. TS",
+        "vin": "1HDU06D1NT2"
+    },
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "05/01/2001",
+        "dateOfIncident": "03/13/2001",
+        "fire": false,
+        "manufacturer": "PREVOST CAR, INCORPORATED",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 9002219,
+        "products": [
+            {
+                "manufacturer": "PREVOST CAR, INCORPORATED",
+                "productMake": "PREVOST",
+                "productModel": "XLII-40MTH",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE GLASS FOR THE PASSENGER'S SIDE WINDOW CAME OFF TRACK.",
+        "vin": ""
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "07/28/1999",
+        "dateOfIncident": "07/27/1999",
+        "fire": false,
+        "manufacturer": "PREVOST CAR, INCORPORATED",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 782576,
+        "products": [
+            {
+                "manufacturer": "PREVOST CAR, INCORPORATED",
+                "productMake": "PREVOST",
+                "productModel": "XLII-40MTH",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ANTILOCK BRAKES FAIL BY ENGAGING ON NORMAL DRY CONDITIONS, NOT ALLOWING THE CAR TO STOP IN NORMAL AND EXPECTED DISTANCES.  NLM",
+        "vin": "1GMDU06L6NT"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "07/28/1999",
+        "dateOfIncident": "07/27/1999",
+        "fire": false,
+        "manufacturer": "PREVOST CAR, INCORPORATED",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 782576,
+        "products": [
+            {
+                "manufacturer": "PREVOST CAR, INCORPORATED",
+                "productMake": "PREVOST",
+                "productModel": "XLII-40MTH",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ANTILOCK BRAKES FAIL BY ENGAGING ON NORMAL DRY CONDITIONS, NOT ALLOWING THE CAR TO STOP IN NORMAL AND EXPECTED DISTANCES.  NLM",
+        "vin": "1GMDU06L6NT"
+    }
+]

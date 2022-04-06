@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "01/28/2020",
+        "dateOfIncident": "01/20/2020",
+        "fire": false,
+        "manufacturer": "North Central Emergency Vehicles",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11302666,
+        "products": [
+            {
+                "manufacturer": "North Central Emergency Vehicles",
+                "productMake": "FORD",
+                "productModel": "E350",
+                "productYear": "2017",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VIOLENT SHAKING OF STEERING WHEEL",
+        "vin": "1FD8W3HT4HE"
+    }
+]

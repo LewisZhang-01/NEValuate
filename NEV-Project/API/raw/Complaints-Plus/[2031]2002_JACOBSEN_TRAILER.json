@@ -1,0 +1,61 @@
+[
+    {
+        "components": "STEERING,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "05/24/2005",
+        "dateOfIncident": "05/01/2005",
+        "fire": false,
+        "manufacturer": "JACOBSEN TRAILER INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10121988,
+        "products": [
+            {
+                "manufacturer": "JACOBSEN TRAILER INC.",
+                "productMake": "JACOBSEN",
+                "productModel": "TRAILER",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "John Deere",
+                "productMake": "JOHN DEERE",
+                "productModel": "ALL W/7.5 LITER 4V ENGINE",
+                "productYear": "1990",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "CONSUMER STATES:  THIS HAS A RACK AND PINION STEERING SYSTEM COVERED BY RUBBER BOOT ALLOWS IT TO MOVE TO OPERATE STEERING  AND THERE IS DEBRIUS GETTING IN THEM THE BOOTS HAVE BROKE TWICE IN THE SAME SPOT. TWO BOOTS TO THE SYSTEM ITS STRECTHED TO LONG BRAKE.",
+        "vin": ""
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "08/30/2004",
+        "dateOfIncident": "01/01/2004",
+        "fire": false,
+        "manufacturer": "JACOBSEN TRAILER INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10090041,
+        "products": [
+            {
+                "manufacturer": "JACOBSEN TRAILER INC.",
+                "productMake": "JACOBSEN",
+                "productModel": "TRAILER",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "KELLY SPRINGFIELD TIRE CO",
+                "productMake": "BIG O",
+                "productModel": "BIG O",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHILE DRIVING TIRES CONTINUOUSLY BLEW OUT. THE STEEL CORDS HUNG THIS HAS HAPPENED SEVERAL TIMES. CONSUMER INDICATED THAT THE TIRES WERE SELF DESTRUCTIVE. BIG O TOWN MASTER FOR TRAILERS ONLY MADE IN CANADA. DOT PDHH, PIKR 3300, ST225/75R15.  *AK",
+        "vin": ""
+    }
+]

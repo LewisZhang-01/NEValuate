@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "03/04/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009789,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE MADE NOISE IN THE REAR PASSENGERS SIDE OF THE VEHICLE WHICH CAUSED LOSS OF CONTROL WHILE DRIVING.  THERE WAS A RECALL RELATED TO THIS PROBLEM RECALL # 02V-289000.  *NLM",
+        "vin": "1FAFP34P4YW"
+    }
+]

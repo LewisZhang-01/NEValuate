@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": true,
+        "dateComplaintFiled": "01/24/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Volvo Car USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10004024,
+        "products": [
+            {
+                "manufacturer": "Volvo Car USA, LLC",
+                "productMake": "VOLVO",
+                "productModel": "760",
+                "productYear": "1990",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE SUDDENLY ACCELERATED FROM PARK TO REVERSE HITTING A TREE, A CURB, AND FINALLY STOPPING IN A JACUZZI.  CONSUMER SUFFERED MINOR INJURIES.  *JG",
+        "vin": "YV1GA8755L0"
+    }
+]

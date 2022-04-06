@@ -1,0 +1,46 @@
+[
+    {
+        "components": "WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "07/19/1999",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "DOLPHIN RV PRODUCTS INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 547358,
+        "products": [
+            {
+                "manufacturer": "DOLPHIN RV PRODUCTS INC.",
+                "productMake": "DOLPHIN",
+                "productModel": "MOTOR HOME",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEEL ALIGNMENT.  *YC",
+        "vin": "3FCMF53S2XJ"
+    },
+    {
+        "components": "WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "07/07/1999",
+        "dateOfIncident": "06/28/1999",
+        "fire": false,
+        "manufacturer": "DOLPHIN RV PRODUCTS INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 841780,
+        "products": [
+            {
+                "manufacturer": "DOLPHIN RV PRODUCTS INC.",
+                "productMake": "DOLPHIN",
+                "productModel": "MOTOR HOME",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ON A FORD CHASSIS,  FRONT HUB DOES NOT FIT PROPERLY INTO THE WHEEL WHICH MAY CAUSE  THE WHEEL TO FALL OFF AND CAUSE A CRASH.  THERE IS A TSB THAT DEALERS ARE INSTRUCTED TO CENTER THE WHEEL AND THEN PLACE THE HUB.  PLEASE PROVIDE FURTHER INFORMATION. *AK",
+        "vin": "3FCMF53S2XJ"
+    }
+]

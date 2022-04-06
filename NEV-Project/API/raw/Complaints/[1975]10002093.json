@@ -1,0 +1,32 @@
+[
+    {
+        "components": "VISIBILITY,STRUCTURE,VEHICLE SPEED CONTROL,TIRES",
+        "crash": true,
+        "dateComplaintFiled": "01/14/2003",
+        "dateOfIncident": "09/08/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002093,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "LESABRE",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "AFFINITY",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHILE DRIVING THE VEHICLES TREAD SEPARATED FROM THE RIGHT REAR TIRE WHICH CAUSED THE VEHICLE TO VEER INTO A GUARD RAIL.  OTHER PROBLEMS ARE AS FOLLOWED:   DRIVERS SIDE AND REAR WINDOWS ARE INOPERATIVE, CRUISE CONTROL SWITCH IS INOPERATIVE AND AFTER IT  RAINS THERE IS A WATER PUDDLE ON THE DRIVER SIDE FLOOR.   *SCC   *NLM",
+        "vin": "1G4HR54K1YU"
+    }
+]

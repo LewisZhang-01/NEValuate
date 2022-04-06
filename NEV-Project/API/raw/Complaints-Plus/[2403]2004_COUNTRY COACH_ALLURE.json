@@ -1,0 +1,46 @@
+[
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "08/01/2006",
+        "dateOfIncident": "08/01/2006",
+        "fire": false,
+        "manufacturer": "COUNTRY COACH INC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10164107,
+        "products": [
+            {
+                "manufacturer": "COUNTRY COACH INC",
+                "productMake": "COUNTRY COACH",
+                "productModel": "ALLURE",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DT*:  THE CONTACT STATED THAT THE VEHICLE'S WATER HEATER HAD OVERHEATED AND OMITTED A FOUL ODOR.  A NHTSA RECALL, #05V209000 WAS PERFORMED ON THE VEHICLE CONCERNING THE EQUIPMENT HOWEVER, THE RECALL DID NOT REMEDY THE PROBLEM.  THE VEHICLE WAS SCHEDULED FOR FURTHER INSPECTION AT A DEALER.  THE MANUFACTURER WAS ALERTED.",
+        "vin": "4U7A8EV1841"
+    },
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "08/05/2004",
+        "dateOfIncident": "08/02/2004",
+        "fire": false,
+        "manufacturer": "COUNTRY COACH INC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10087308,
+        "products": [
+            {
+                "manufacturer": "COUNTRY COACH INC",
+                "productMake": "COUNTRY COACH",
+                "productModel": "ALLURE",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "RECALL 04 E 040 000 CONCERNING FRONT SUSPENSIONS: CONSUMER RECEIVED THIS RECALL NOTICE AND 1- 888/396-6501 CUSTOMER SERVICE NUMBER, BUT WAS NOT   INFORMED WHERE THIS RECALL WOULD BE HONORED. *AK",
+        "vin": "4U7A8EV1841"
+    }
+]

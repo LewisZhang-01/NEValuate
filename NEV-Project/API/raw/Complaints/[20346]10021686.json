@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "05/28/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021686,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "LARIAT",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "A COIL IN THE DRIVER SEAT BROKE AND POKED THROUGH THE SEAT.   *TT",
+        "vin": "1FPRW07L61K"
+    }
+]

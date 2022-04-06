@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "06/13/2003",
+        "dateOfIncident": "05/07/2003",
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10023994,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPEDITION",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE CAUGHT FIRE IN THE ENGINE, INSPECTOR STATED IT WAS AN ELECTRICAL PROBLEM. DEALER NOTTIFIED.*AK",
+        "vin": "1FMRU156XYL"
+    }
+]

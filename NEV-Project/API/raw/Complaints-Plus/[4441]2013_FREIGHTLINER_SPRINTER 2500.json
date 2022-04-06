@@ -1,0 +1,46 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "10/29/2018",
+        "dateOfIncident": "10/17/2018",
+        "fire": false,
+        "manufacturer": "Daimler Vans USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11143869,
+        "products": [
+            {
+                "manufacturer": "Daimler Vans USA, LLC",
+                "productMake": "FREIGHTLINER",
+                "productModel": "SPRINTER 2500",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I  WAS NOTIFIED OF THE RECALL BY MERCEDES. I CALLED THE PHONE NUMBER PROVIDED. MERCEDES GAVE ME THE PHONE NUMBER FOR MERCEDES BENZ OF SOUTHAMPTON TO REPLACE THE FAULTY AIRBAGS. I PROVIDED THEM WITH VIN NUMBER, THEY CONFIRMED THE RECALL, ORDERED PARTS, AND SCHEDULED AN APPOINTMENT. WHEN WE ARRIVED FOR THE APPOINTMENT (MORE THAN AN HOUR'S DRIVE AWAY) MERCEDES BENZ OF SOUTHAMPTON REFUSED TO REPLACE THE DEFECTIVE AIRBAG BECAUSE THIS IS A FREIGHTLINER VAN. MERCEDES BUILT THE VAN, MERCEDES INITIATED THE RECALL, MERCEDES SENT ME TO THE DEALERSHIP. THE DEALERSHIP HAD MY VIN NUMBER. NOW, I STILL HAVE THE DEFECTIVE, DANGEROUS AIRBAGS AND DON'T KNOW HOW TO GET THEM REPLACED.",
+        "vin": "WDYPE8CC5D5"
+    },
+    {
+        "components": "SERVICE BRAKES",
+        "crash": true,
+        "dateComplaintFiled": "01/04/2016",
+        "dateOfIncident": "12/24/2015",
+        "fire": false,
+        "manufacturer": "Daimler Vans USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 2,
+        "odiNumber": 10817731,
+        "products": [
+            {
+                "manufacturer": "Daimler Vans USA, LLC",
+                "productMake": "FREIGHTLINER",
+                "productModel": "SPRINTER 2500",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I WAS DELIVERY FOR DHL FOR 5 HOURS PIER TO THE ACCIDENT. I WAS ON A CITY STREET IN UPPER CHI-CHESTER, PA. WHEN I TRIED TO YIELD AND PREPARE FOR A STOP SIGN. WHEN I WENT TO APPLY THE BREAKS AND ADDED MORE PRESSURE TO THE BREAKS  THEY JUST THEN DROPPED  THE FLOOR. I THEN TRIED TO PUMP THE BREAKS, STILL NOTHING, NO BREAKS. FROM NOT BEING ABLE TO STOP AT THE STOP SIGN, I WENT THROUGH THE INTERSECTION CAUSING AN ACCIDENT.     AFTER RESEARCHING ONLINE, I HAVE FOUND THAT THESE VEHICLES HAVE ALOT OF BREAK PROBLEMS AND A NUMBER OF REPORTS THAT SHOWN BREAK FAILURE TO THESES TYPES OF DELIVERY VANS.",
+        "vin": "WDYPE8CB3D5"
+    }
+]

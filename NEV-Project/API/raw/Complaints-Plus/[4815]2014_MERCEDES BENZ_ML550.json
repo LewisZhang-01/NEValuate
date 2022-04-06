@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "03/02/2020",
+        "dateOfIncident": "03/11/2019",
+        "fire": false,
+        "manufacturer": "Mercedes-Benz USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11315624,
+        "products": [
+            {
+                "manufacturer": "Mercedes-Benz USA, LLC",
+                "productMake": "MERCEDES BENZ",
+                "productModel": "ML550",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "RIGHT PASSENGER TURBO FAILED AFTER 50,000 MILES SEVERAL THOUSAND DOLLARS TO FIX",
+        "vin": "4JGDA7DB4EA"
+    }
+]

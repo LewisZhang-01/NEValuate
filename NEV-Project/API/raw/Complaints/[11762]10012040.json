@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "03/18/2003",
+        "dateOfIncident": "03/18/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10012040,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "PROBE",
+                "productYear": "1990",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE MOTOR INSIDE OF THE SEATBELT WILL COME ON BUT THE SEATBELT WILL NOT RETRACTOR AT ALL.  THE DEALER IS AWARE OF THE PROBLEM.  PLEASE PROVIDE ANY ADDITIONAL INFORMATION.    *NLM",
+        "vin": "1ZVPT20C8L5"
+    }
+]

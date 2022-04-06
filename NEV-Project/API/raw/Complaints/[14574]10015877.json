@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "04/15/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015877,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "MUSTANG",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE BUMPER WAS COMING OFF (STICKING OUT ON THE SIDES).  THE VEHICLE WAS TAKEN TO THE DEALER WHO INDICATED THAT THE PROBLEM WAS CAUSED BY TAKING THE VEHICLE TO THE CAR WASH.  *NLM",
+        "vin": ""
+    }
+]

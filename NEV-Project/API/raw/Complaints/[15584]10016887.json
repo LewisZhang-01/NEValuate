@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "05/02/2003",
+        "dateOfIncident": "11/15/2002",
+        "fire": false,
+        "manufacturer": "Mitsubishi Motors North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10016887,
+        "products": [
+            {
+                "manufacturer": "Mitsubishi Motors North America, Inc.",
+                "productMake": "MITSUBISHI",
+                "productModel": "MIRAGE",
+                "productYear": "1990",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ECU FAILURE, THEN MPI CONTROL RELAY, THEN DISTRIBUTOR CAP, COIL & ROTOR, THEN NEW DISTRIBUTOR.  *NL",
+        "vin": ""
+    }
+]

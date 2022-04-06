@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "09/28/2016",
+        "dateOfIncident": "09/22/2016",
+        "fire": false,
+        "manufacturer": "POLARIS INDUSTRIES, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10910148,
+        "products": [
+            {
+                "manufacturer": "POLARIS INDUSTRIES, INC.",
+                "productMake": "VICTORY",
+                "productModel": "KINGPIN",
+                "productYear": "2006",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "DUNLOP TIRE CORPORATION",
+                "productMake": "DUNLOP",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2006 VICTORY KINGPIN EQUIPPED WITH DUNLOP AMERICAN ELITE (NA) TIRES, SIZE: 180/55B/18R (NA). WHILE DRIVING 70 MPH, THE TREAD SEPARATED FROM THE TIRES. THE VEHICLE WAS TOWED TO THE DEALER WHERE IT WAS CONFIRMED THAT THE TIRE TREAD SEPARATED. THE TIRES WERE NOT REPLACED. THE MANUFACTURER WAS NOTIFIED OF THE ISSUE. THE VIN AND DOT NUMBER WERE UNKNOWN. THE TIRE FAILURE MILEAGE WAS APPROXIMATELY 100. THE VEHICLE FAILURE MILEAGE WAS 22,000.",
+        "vin": ""
+    }
+]

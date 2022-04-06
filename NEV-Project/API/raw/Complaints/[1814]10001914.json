@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "01/03/2003",
+        "dateOfIncident": "12/01/2002",
+        "fire": false,
+        "manufacturer": "Subaru of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001914,
+        "products": [
+            {
+                "manufacturer": "Subaru of America, Inc.",
+                "productMake": "SUBARU",
+                "productModel": "XT6",
+                "productYear": "1988",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER HAD VEHICLE REMEDIED UNDER RECALL 91V193000 IN 02/92.  POWER STEERING BEGAN TO FAIL WITHOUT WARNING INTERMITTENTLY AT 89K MILES.  DEALER DIAGNOSED PROBLEM AS RELATED TO PREVIOUS RECALL.  MANUFACTURER ADVISED ONLY A 1 YEAR WARRANTY ON RECALL REMEDY. TS",
+        "vin": "JF1AX942XJH"
+    }
+]

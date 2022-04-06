@@ -1,0 +1,24 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "07/17/2019",
+        "dateOfIncident": "07/14/2019",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11232714,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "550I",
+                "productYear": "2011",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DOOR LOCK ACTUATOR FAILS CAUSING DEADLOCK. THE DRIVER AND/OR PASSENGER/S ARE LOCKED IN THE VEHICLE WITH OUT AN EXPEDITIOUS PATH OF EXIT.",
+        "vin": "WBAFU9C56BC"
+    }
+]

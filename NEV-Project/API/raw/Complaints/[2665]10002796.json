@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY,UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "01/16/2003",
+        "dateOfIncident": "01/15/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002796,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "WINDSTAR",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ACTUATOR MOTOR NOT WORKING; BROKE THE SWITCH DOOR.   THIS OCCURRED DURING WINTER, UNABLE TO DEFROST WINDOWS, FREEZING WEATHER, NO HEAT IN FRONT.",
+        "vin": ""
+    }
+]

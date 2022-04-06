@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "07/11/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022817,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "ENVOY",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE DETERRENT SYSTEM FAILED.  AS A RESULT, THE VEHICLE WAS STOLEN AND WAS INVOLVED IN AN ACCIDENT, AND THE VEHICLE WAS TOTALED.   *AK   THE AIR BAGS HAD BECOME INOPERATIVE.   *SCC  *JB",
+        "vin": ""
+    }
+]

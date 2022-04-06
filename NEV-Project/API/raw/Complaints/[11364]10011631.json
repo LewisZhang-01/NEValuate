@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN,ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "04/03/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10011631,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE SURGED, THE REMOTE STARTER INTERFERED WITH THE FAULT SENSOR WHICH CAUSED THE ENGINE LIGHT TO ILLUMINATE. THE VEHICLE LOST POWER WHILE DRIVING, AND STALLED, THE FUEL PUMP WAS REPLACED, HOWEVER THE PROBLEMS CONTINUED. *TS. THE TRANSMISSION CHANGED BETWEEN GEARS, AND THE DEALER CHANGED THE PCM.  THE PROBLEM WAS DISCOVERED TO BE INCORRECT WIRING WHICH WAS ROUTED WRONG WITHIN THE IGNITION WHICH CAUSED THE PROBLEMS.   *JB",
+        "vin": "2GTEK19T721"
+    }
+]

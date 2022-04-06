@@ -1,0 +1,54 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "09/15/2003",
+        "dateOfIncident": "09/12/2003",
+        "fire": false,
+        "manufacturer": "FTCA, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10039969,
+        "products": [
+            {
+                "manufacturer": "FTCA, Inc.",
+                "productMake": "FLEET WOOD",
+                "productModel": "ALL",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVESHAFT LOCKED WITHOUT WARNING. *AK",
+        "vin": ""
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/30/2003",
+        "dateOfIncident": "01/20/2003",
+        "fire": false,
+        "manufacturer": "FTCA, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004982,
+        "products": [
+            {
+                "manufacturer": "FTCA, Inc.",
+                "productMake": "FLEET WOOD",
+                "productModel": "ALL",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "STEELTEX R4S",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "FIRESTON STEELEX RS4 TIRE FAILURE. ON 20 JAN 2003, I EXPERIENCED A STEEL CORD FAILURE ON THE FRONT LEFT TIRE OF MY 23 FT CLASS C MOTORHOME. WE WERE LUCKY THAT WE WE NOT INJURED BECUSE WE STOPPED BEFORE THE TIRE FAILED COMPLETELY.  THE REST OF THE TIRES ARE SEVERLY CRACKED.  FIRESTONE NEEDS TO STAND BEHIND THESE DAMGEROUS TIRES.",
+        "vin": ""
+    }
+]

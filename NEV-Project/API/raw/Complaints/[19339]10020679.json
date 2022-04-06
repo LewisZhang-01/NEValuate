@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "05/29/2003",
+        "dateOfIncident": "05/21/2003",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020679,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "PRELUDE",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SPRING CAGES ON STOCK CLUTCH FAILED, CAUSING CLUTCH TO FAIL TO DISENGAGE RELIABLY. THIS PREVENTED SHIFTING OUT OF, AND INTO GEAR. THERE WAS NO PRIOR INDICATION OF ONCOMING FAILURE. THE OTHER 3 OF 4 SPRING PERCHES AROUND THE CLUTCH HUB SHOWED SIGNS OF EMINENENT FAILURE AS WELL.",
+        "vin": "JHMBB61451C"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,AIR BAGS,SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "12/23/2002",
+        "dateOfIncident": "12/09/2002",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001443,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "RAM 3500",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE AIR BAG LIGHT HAD STAYED ON, FLASHED, AND CHIMED.  THE TECHNICIAN AT THE DEALER STATED THAT THE AIR BAGS COULD HAVE DEPLOYED AT ANY TIME, POSSIBLY DUE TO A WIRING PROBLEM.  ALSO THE PASSENGER SEAT BELT HAD TIGHTENED ABNORMALLY.  TS  SCC",
+        "vin": "2B6KB31Y92K"
+    }
+]

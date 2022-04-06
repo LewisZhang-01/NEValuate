@@ -1,0 +1,31 @@
+[
+    {
+        "components": "STEERING,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "03/05/2003",
+        "dateOfIncident": "05/14/2001",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10008442,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "GRAND CHEROKEE",
+                "productYear": "1996",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "AXLE & EQUIP. SALES CO.",
+                "productMake": "AXLE EQUIPMENT",
+                "productModel": "AXLE EQUIPMENT",
+                "productYear": "1974",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "STEERING GEAR BOX FAILED, WHILE DRIVING A LOUD KNOCKING NOISE FROM UNDER FLOORBOARD AND THEN LOST CONTROL OF VEHICLE....COULD HAVE CAUSED TERRIBLE ACCIDENT ON THE FREEWAY.*JB",
+        "vin": "JN1CZ14S8FX"
+    }
+]

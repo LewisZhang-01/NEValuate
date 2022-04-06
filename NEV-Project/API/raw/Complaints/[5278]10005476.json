@@ -1,0 +1,31 @@
+[
+    {
+        "components": "LATCHES/LOCKS/LINKAGES,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "02/07/2003",
+        "dateOfIncident": "09/26/2001",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005476,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "BLAZER",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "DOOR LATCH",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "MY CHEVY BLAZER'S DRIVERS DOOR WAS REPAIRED WHILE IT WAS UNDER WARRENTY. IT IS BREAKING OFF. MY WARRENTY EXPIRED 3 MTHS LATER AS THE DOOR HAD BROKEN AGAIN. THE CHEVY DEALER REFUSED TO REPAIR IT. I BELEIVE THE CAR WAS N A FLOOD BEFORE I BOUGHT IT AND THEY DID NOT TELL ME BECAUSE THE DOOR HINGES ARE ALL RUSTED AND BROKEN. THEY CHANGED MY ALARM SYSTEM AND IT HAS NEVER WORKED PROPERLY. IT IS SUPPOSE TO BE AUTOMATIC SHUT DOWN IF KEY NOT PUT IN TO START",
+        "vin": "1GNCS13W9Y2"
+    }
+]

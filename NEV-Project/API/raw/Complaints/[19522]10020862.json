@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/01/2003",
+        "dateOfIncident": "04/14/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020862,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXCURSION",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Bridgestone Americas Tire Operations",
+                "productMake": "STEELTEX A/T",
+                "productModel": "LT265/75R16",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "AT 5 MPH NOTICED THAT THE BACK END OF 2002 EXCURSION WAS WOOBLING.   FOUND THE TIRE HAD BALLOONED ON THE INSIDE SIDEWALL AND TREAD.  FORD REPLACED WITH SAME MODEL TIRE.      *TT",
+        "vin": "1FMNU41L42E"
+    }
+]

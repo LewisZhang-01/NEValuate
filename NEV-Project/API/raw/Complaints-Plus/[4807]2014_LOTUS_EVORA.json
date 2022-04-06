@@ -1,0 +1,46 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "07/13/2015",
+        "dateOfIncident": "05/29/2015",
+        "fire": false,
+        "manufacturer": "Lotus Cars Limited",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10733651,
+        "products": [
+            {
+                "manufacturer": "Lotus Cars Limited",
+                "productMake": "LOTUS",
+                "productModel": "EVORA",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING AT AROUND 35MPH, THE CAR (LOTUS EVORA) BEGAN TO MISFIRE AND SHUT OFF.  THIS RESULTED IN LOSS OF CONTROL OF THE CAR IN TRAFFIC.",
+        "vin": "SCCLMDTC3EH"
+    },
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "10/21/2014",
+        "dateOfIncident": "07/31/2014",
+        "fire": false,
+        "manufacturer": "Lotus Cars Limited",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10649204,
+        "products": [
+            {
+                "manufacturer": "Lotus Cars Limited",
+                "productMake": "LOTUS",
+                "productModel": "EVORA",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENGINE CUTS OUT WHEN DRIVING AT A SLOW SPEED AND COMING TO A STOP.  *TR",
+        "vin": "SCCLMDSU1EH"
+    }
+]

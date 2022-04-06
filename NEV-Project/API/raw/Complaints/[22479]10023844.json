@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING,POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "06/26/2003",
+        "dateOfIncident": "06/26/2003",
+        "fire": false,
+        "manufacturer": "Mitsubishi Motors North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10023844,
+        "products": [
+            {
+                "manufacturer": "Mitsubishi Motors North America, Inc.",
+                "productMake": "MITSUBISHI",
+                "productModel": "MONTERO",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "PCM REPROGRAMMING FOR MIL ON/DTC PO125. INCORRECT PCM SOFTWARE PARAMETERS CAUSE THE MIL(\"SERVICE ENGINE SOON) LIGHT TO COME ON AND DIAGNOSTIC TROUBLE CODE PO125 TO TEST TO SET. TO ELIMINATE THIS CONDITION, REPROGRAMING THE PCM IS NEEDED.AFTER THE REPROGRAMING THE PCM, OXYGEN SENSORS ON \"2001 MODELS ONLY\" NEED TO BE REPLACED AND NOT COVERED BY WARRANTY.OXYGEN SENSORS NEED TO BE REPLACED TO MEET NEW PARAMETERS, NOT BECAUSE THE SENSORS ARE BAD. MITSUBISHI STATES THESE MODIFLCATIONS HAVE BEEN APPROVED AS APPROPRIATE BY EPA AND CARB. THANKS IN ADVANCE FOR YOUR HELP. ROBERT S DUKE.  *AK",
+        "vin": "JA4MW31R51J"
+    }
+]

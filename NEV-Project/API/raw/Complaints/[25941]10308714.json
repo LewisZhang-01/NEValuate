@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "02/11/2010",
+        "dateOfIncident": "01/07/2010",
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10308714,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING, THE SUV CAUGHT FIRE FROM UNDER THE HOOD.  THE VEHICLE WAS CONSUMED BY FLAMES IN LESS THAN 5 MINUTES.  ALTHOUGH MANY MAKES AND MODELS OF FORDS HAVE BEEN RECALLED ( FAULTY CRUISE CONTROL - POTENTIAL FIRE HAZARD), THE 1994 FORD EXPLORER HAS NOT BEEN RECALLED. *TR",
+        "vin": "1FMCU22X4RU"
+    }
+]

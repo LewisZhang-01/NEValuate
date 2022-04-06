@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "01/31/2013",
+        "dateOfIncident": "01/09/2002",
+        "fire": false,
+        "manufacturer": "Mack Trucks, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10495970,
+        "products": [
+            {
+                "manufacturer": "Mack Trucks, Inc.",
+                "productMake": "MACK TRUCKS INC.",
+                "productModel": "FCM7133",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2002 MACK CV713. THE CONTACT STATED THAT WHILE DRIVING 60 MPH, THE VEHICLE STALLED AND INDEPENDENTLY ENTERED IDLE MODE. THE VEHICLE WAS TAKEN TO A DEALER FOR A DIAGNOSTIC TEST. THE TEST RESULTS SHOWED A DEFECTIVE ELECTRICAL SYSTEM. THE DEALER UPGRADED THE SOFTWARE AND CHANGED THE ACCELERATOR PEDAL. NONE OF THE REPAIRS REMEDIED THE STALLING. THE FAILURE MILEAGE WAS 250,000.",
+        "vin": "1M2AG11CX2M"
+    }
+]

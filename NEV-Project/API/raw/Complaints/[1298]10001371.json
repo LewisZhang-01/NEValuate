@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "12/23/2002",
+        "dateOfIncident": "12/13/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001371,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "CONTOUR",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER TOOK CAR TO FORD DEALER REGARDING RECALLS.  DEALER REPAIRED 2 RECALLS BUT STATED THEY WOULD NOT FIX REMAINING BECAUSE CONSUMER HAS DRIVEN VEHICLE 105K MILES SINCE PURCHASE.  CONSUMER STATES THE FOLLOWING RECALL REMEDIES WERE REFUSED 95V232000, 94V203000 AND 94V184000. TS",
+        "vin": "1SALP67L5SK"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,POWER TRAIN,ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "11/25/2019",
+        "dateOfIncident": "11/17/2019",
+        "fire": true,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11282347,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "750XI",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CAR CAME TO HALT IN MIDDLE OF STREET ALL POWER CEASE TO VEHICLE,POWER SHUT DOWN , STEERING WHEEL BECAME HARD TO STEER,  CALL FOR TOW TO BMW ORLAND PK IL. RECEIVED CALL FROM SERVC ADVISOR SAID REPLACE BATTERY AND VOLTAGE REGULATOR. DROVE AWAY AND HAPPEN AGAIN WITHIN 20MIN OF LEAVING DEALERSHIP.TOWED BACK SAME ERROR. PARKING BRAKE LIMITED. ERROR CODE.",
+        "vin": "WBAYF8C55DD"
+    }
+]

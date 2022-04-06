@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": true,
+        "dateComplaintFiled": "03/26/2003",
+        "dateOfIncident": "03/26/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10011075,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "THUNDERBIRD",
+                "productYear": "1988",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE LURCHED FOWARD, WHEN THE BRAKES WERE DEPRESSED. *JB",
+        "vin": "1FABP60F1JH"
+    }
+]

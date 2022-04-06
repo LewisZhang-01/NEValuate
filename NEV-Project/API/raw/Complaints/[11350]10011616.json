@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,SERVICE BRAKES, HYDRAULIC,POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "04/01/2003",
+        "dateOfIncident": "12/01/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10011616,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CADILLAC",
+                "productModel": "ESCALADE",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE BRAKE PEDAL BECAME STUCK.  THE POWER STEERING WAS DEFECTIVE, THE BRAKE BOOSTER PUMP WAS DEFECTIVE AS WELL, WHICH ALSO CRACKED AND LEAKED FLUID.  THE PUMP WAS REPLACED BY THE DEALER.  THERE WAS A STRONG VIBRATION FELT FROM ALL FOUR WHEELS, IN WHICH THE ALL WHEEL DRIVE SYSTEM HAD MALFUNCTIONED AND CAUSED THE FRONT DIFFERENTIAL TO SEIZE AND EXPLODE.  SCC           *JB",
+        "vin": "GYEK63N62R2"
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "components": "CHILD SEAT",
+        "crash": false,
+        "dateComplaintFiled": "07/10/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "UNKNOWN MANUFACTURER",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10024154,
+        "products": [
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN1",
+                "productYear": "9999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Britax Child Safety, Inc.",
+                "productMake": "BRITAX",
+                "productModel": "161 (ROUNDABOUT)",
+                "productYear": "9999",
+                "type": "Child Seat"
+            }
+        ],
+        "summary": "BRITAX MODEL # E900240 CHILD SAFETY SEAT STRAPS STARTED TO RIP/SHRED, AND QUICKLY WORSENED.  MANUFACTURER HAD BEEN CONTACTED.   *AK   THE CAR SEAT WAS LESS THAN ONE YEAR OLD.   *SCC     THE MANUFACTURER TOLD THE CONSUMER A REPAIR KIT WOULD BE SENT OUT, HOWEVER THE CONSUMER NEVER RECEIVED IT.*JB",
+        "vin": "9999"
+    }
+]

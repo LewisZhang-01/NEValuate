@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "02/11/2000",
+        "dateOfIncident": null,
+        "fire": true,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 718631,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "MALIBU",
+                "productYear": "1983",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "MODULAR PLASTIC GM HVAC SYSTEMS AND FIRE SPREAD INTO PASSENGER COMPARTMENT.  *AK",
+        "vin": "1G1AW3598DR"
+    }
+]

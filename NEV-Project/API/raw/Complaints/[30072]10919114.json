@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "10/26/2016",
+        "dateOfIncident": "08/10/2016",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10919114,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EDGE",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVER DOOR AJAR WARNING COMES ON CONTINUALLY.  IT IS  NOT AJAR. AN IRRITATING ALARM IS SOUNDED REPEATEDLY.  RE-CLOSING THE DOOR DOES NOT CORRECT THE PROBLEM. THE ALARM CONTINUES TO SOUND WHETHER IN MOTION OR STOPPED.",
+        "vin": "2FMDK3JC4DB"
+    }
+]

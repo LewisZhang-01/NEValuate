@@ -1,0 +1,31 @@
+[
+    {
+        "components": "CHILD SEAT",
+        "crash": false,
+        "dateComplaintFiled": "01/27/2003",
+        "dateOfIncident": "01/20/2002",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004667,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "GOLF",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Evenflo Company, Inc.",
+                "productMake": "EVENFLO",
+                "productModel": "207 (ON MY WAY)",
+                "productYear": "9999",
+                "type": "Child Seat"
+            }
+        ],
+        "summary": "CAR SEAT HANDLE UNSNAPS AND BABY FALLS FORWARD. PLEASE PROVIDE ADDITIONAL INFORMATION.  *AK",
+        "vin": "PLEASE FULL"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "06/02/2003",
+        "dateOfIncident": "06/03/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020935,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TAURUS",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TRANSMISSION FAILURE,KEEPS SLIPPING AND SHIFTING UP AND DOWN WHILE DRIVINGAT 65MPH. IT WILL SHIFT DOWN TO SECOND GEAR.*AK",
+        "vin": "1FALP52U1VG"
+    }
+]

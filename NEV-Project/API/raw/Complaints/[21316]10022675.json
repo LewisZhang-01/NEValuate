@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "08/01/2003",
+        "dateOfIncident": "04/17/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022675,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TAURUS",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "IGNITION KEY SWITCH LOCKS EVERY TIME WHEN VEHICLE IS STARTED. (SERVICE BULLETINS#012113-627-1SB6274).  *AK WHEN THE KEY WAS TURNED THE START POSITION IT DID NOT TURN BACK TO THE RUN POSITION. AFTER THE CONSUMER REFUELED THE VEHICLE AND PROCEEDED INTO TRAFFIC, THE KEY RELEASED ALL THE WAY TO THE OFF POSITION.*TS   *JB",
+        "vin": ""
+    }
+]

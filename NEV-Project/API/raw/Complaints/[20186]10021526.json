@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, AIR",
+        "crash": false,
+        "dateComplaintFiled": "05/27/2003",
+        "dateOfIncident": "05/25/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021526,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERCURY",
+                "productModel": "SABLE",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE ABS SYSYTEM IS INOPERATIVE. DEALER NOTIFIED. PLEASE PROVIDE ADDITIONAL INFORMATION.*AK",
+        "vin": "PLEASE FILL"
+    }
+]

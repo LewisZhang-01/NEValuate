@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "10/01/2015",
+        "dateOfIncident": "09/20/2015",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10778914,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EDGE",
+                "productYear": "2011",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "PASSENGER DOOR AJAR ALERT IS ON CONSTANT DELAY. THE DOOR IS CLOSED BUT THE SENSOR WILL NOT GO OFF. THIS LEAVES THE OVERHEAD LIGHTS ON WHICH CREATE A VISIBILITY ISSUE AT NIGHT. THIS ALERT ALSO PREVENTS THE DOORS FROM LOCKING. ONCE THE VEHICLE IS TURNED OFF THE COMPUTER AND LIGHTS STAY ON FOR ANOTHER 10 MINUTES BEFORE TURNING OFF WHICH ALSO DRAINS THE BATTERY.",
+        "vin": "2FMDK3KC1BB"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "01/30/2003",
+        "dateOfIncident": "08/15/2001",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004936,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "MONTANA",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TRANSAXLE SLIPS IN STOP AND GO TRAFFIC AS ENGINE TEMPERATURE REACHES 200 DEGREES. SLIPPAGE INCREACES AS TEMPERATURE INCREASES OVER 200 DEGREES. DEALER CANNOT REPRODUCE DURING SHORT TEST DRIVES. VEHICLE ONLY HAS 35,000 MILES ON TRANSAXLE.",
+        "vin": "1GMDX03E81D"
+    }
+]

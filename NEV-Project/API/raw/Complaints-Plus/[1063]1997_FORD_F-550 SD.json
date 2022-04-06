@@ -1,0 +1,54 @@
+[
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "04/11/2014",
+        "dateOfIncident": "09/02/2012",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10579236,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-550 SD",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 1997 COACHMEN MIRADA RV EQUIPPED WITH A 1997 FORD F-530 SD CHASSIS. (NA) THE CONTACT STATED WHILE DRIVING DOWN AN INCLINE APPROXIMATELY 20 MPH, THE BRAKE PEDAL WENT TO  THE FLOOR WHEN DEPRESSED. AFTER DOWN SHIFTING, THE VEHICLE REDUCED SPEED AND RESUMED NORMALLY. THE VEHICLE HAD NOT BEEN DIAGNOSED OR REPAIRED. THE MANUFACTURER WAS NOT NOTIFIED OF THE DEFECT. THE APPROXIMATE FAILURE MILEAGE WAS 32,000.",
+        "vin": "3FCMF53G5VJ"
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "12/09/2002",
+        "dateOfIncident": "10/07/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 8024006,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-550 SD",
+                "productYear": "1997",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "GENERAL TIRE & RUBBER CO.",
+                "productMake": "GENERAL",
+                "productModel": "LMT460",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "P22570/19.5. ORIGINAL EQUIPMENT. CONSUMER STATED THAT THE INNER RIGHT REAR TIRE TREAD SEPARATED.  TS  GENERAL LMT460. P22570/19.5.  DOT # A39Y1HC168, DOT # A39Y1HC158.  TWO FAILURES BLEW OUT WHILE TOWING A TRAVEL TRAILER AND THE THIRD HAD A BULGE IN THE SIDEWALL.  THE TIRES APPEARED TO BE IN GOOD CONDITION WITH NO VISIBLE CRACKS OR DEFECTS WITH 50% TREAD REMAINING WITH 95 PSI.   *TT",
+        "vin": "AFDAW57F6XE"
+    }
+]

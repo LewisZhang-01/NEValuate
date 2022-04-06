@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "12/12/2013",
+        "dateOfIncident": "07/10/2013",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10555814,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "YUKON DENALI XL",
+                "productYear": "2007",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "EXTERIOR DOOR HANDLES BREAK OUT OF ALL FOUR DOOR PANELS.  *TR",
+        "vin": "1GKFK66847J"
+    }
+]

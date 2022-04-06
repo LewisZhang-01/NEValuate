@@ -1,0 +1,68 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "05/14/2002",
+        "dateOfIncident": "04/01/2001",
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 8009793,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "SOFTAIL",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN TURNING HANDLE BARS FROM SIDE TO SIDE HANDLES WILL HIT  FUEL TANK ON EITHER SIDE OF CYCLE. FUEL TANK  GETS DENTED. DEALER STATED IT WAS A KNOWN DEFECT, AND THERE WAS NOTHING HE COULD DO TO REMEDY THE PROBLEM.*AK",
+        "vin": "1HD1BLL11WY"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "02/18/1999",
+        "dateOfIncident": "09/09/1998",
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 833451,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "SOFTAIL",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE DESIGN OF THE BRAKE PEDAL IS TOO SHORT AND INTERFERES WITH APPLYING THE BRAKES WHILE  FOOT IS RESTING ON THE FLOORBOARD. FOOT BECOMES TRAPPED BETWEEN THE FLOORBOARD AND THE BRAKE PEDAL. THIS IS THE HERITAGE SOFTAIL MOTORCYCLE. OWNER HAS NOTIFIED THE MANUFACTURER ABOUT THE PROBLEM.  *AK",
+        "vin": "1HD1BJL43WY"
+    },
+    {
+        "components": "SUSPENSION",
+        "crash": true,
+        "dateComplaintFiled": "10/28/1998",
+        "dateOfIncident": "09/19/1998",
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 829698,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "SOFTAIL",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING THE MOTORCYCLE  SPEED 20-25 MPH, FRONT TIRES STARTED TO SHAKE, FRONT END STARTED TO JERK, THE ROAD CURVED LEFT, MOTORCYCLE  KEPT PULLING TO THE RIGHT, HIT A CURB, FRONTAL IMPACT AND LOST CONTROL,  DEALER CONTACTED ,AND CLAIMED OFFICER, ISLAND CYCLE DID REPAIRS, AND NY HARLEY DAVIDSON MANUFACTURER IS REVTECH TIRES - PROBLEM IS DEFECTIVE TIRE VALVE. ISLAND CYCLE IS AWARE OF THE PROBLEM, VEHICLE REPAIRED AT OWNERS EXPENSE WITH DEDUCTIBLE.",
+        "vin": "1HD1BML1XWY"
+    }
+]

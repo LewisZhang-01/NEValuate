@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "04/18/2003",
+        "dateOfIncident": "03/27/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10016169,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "GRAND AM",
+                "productYear": "1991",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TRANSMISSION DIP STICK FOR MANUAL TRANSMISSION (ISUZU) TYPE SHRINKS CAUSING FLUID LEAKAGE AND TRANSMISSION FAILURE.  *NLM",
+        "vin": ""
+    }
+]

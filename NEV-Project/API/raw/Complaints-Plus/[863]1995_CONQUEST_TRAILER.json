@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "10/02/2000",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "CONTINENTAL TRAILER",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 9001485,
+        "products": [
+            {
+                "manufacturer": "CONTINENTAL TRAILER",
+                "productMake": "CONQUEST",
+                "productModel": "TRAILER",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TRAILER FRAME BAD.",
+        "vin": ""
+    }
+]

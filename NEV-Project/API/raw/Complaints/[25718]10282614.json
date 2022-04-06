@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,SEATS",
+        "crash": false,
+        "dateComplaintFiled": "09/02/2009",
+        "dateOfIncident": "07/20/2009",
+        "fire": false,
+        "manufacturer": "Mercedes-Benz USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10282614,
+        "products": [
+            {
+                "manufacturer": "Mercedes-Benz USA, LLC",
+                "productMake": "MERCEDES BENZ",
+                "productModel": "C320",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SEAT CONTROL UNITS DRAINING THE BATTERY IF CAR IS PARKED. CAR WILL NOT START IF PARKED FOR MORE THEN 24H. DRAIN AMPS BETWEEN 1.2 AND 1.4 AMPS. HAD TO DISCONNECT THE SEAT MODULES, NOW SEATS CAN'T BE ADJUSTED. *TR",
+        "vin": "WDBRF64J62F"
+    }
+]

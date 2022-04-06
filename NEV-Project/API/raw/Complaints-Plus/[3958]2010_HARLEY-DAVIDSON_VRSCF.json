@@ -1,0 +1,68 @@
+[
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "03/28/2018",
+        "dateOfIncident": "09/22/2015",
+        "fire": true,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11081899,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "VRSCF",
+                "productYear": "2010",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2010 HARLEY-DAVIDSON VRSCF MOTORCYCLE. WHILE RIDING APPROXIMATELY 50 MPH, THE REAR BRAKE REMAINED ENGAGED WHILE THE VEHICLE WAS IN MOTION AND CAUSED THE REAR BRAKE TO HEAT UP AND SMOKE. THE VEHICLE WAS PULLED OVER TO THE SIDE OF THE ROAD AND ALLOWED TO COOL DOWN FOR APPROXIMATELY FIVE MINUTES. THE VEHICLE WAS TAKEN TO HERITAGE HARLEY-DAVIDSON INC (2595 OGDEN AVE, LISLE, IL 60532, 630-420-1942) WHERE IT WAS DIAGNOSED AND THE REAR CALIPER WAS REPLACED. THE FAILURE RECURRED AFTER FIVE WEEKS. THE CONTACT REPLACED THE MASTER CYLINDER AND, IN THE PROCESS, THE CONTACT NOTICED CORROSION IN THE BRAKE SYSTEM. THE BRAKE LIGHT ILLUMINATED. THE VEHICLE WAS TAKEN BACK TO THE SAME DEALER WHERE IT WAS RECOMMENDED THAT THE BRAKE SWITCH BE REPLACED. THE MANUFACTURER WAS NOT MADE AWARE OF THE FAILURES. THE VEHICLE WAS REPAIRED. THE CONTACT LATER RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 18V076000 (SERVICE BRAKES, HYDRAULIC). THE CONTACT STATED THAT THE DEALER NEEDED TO PERFORM THE RECALL REPAIRS AND REIMBURSE THE COST OF PREVIOUS REPAIRS, WHICH WERE DUE TO DAMAGES CAUSED BY THE BRAKE FLUID. THE FAILURE MILEAGE WAS 12,565.",
+        "vin": "1HD1HPH13AC"
+    },
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "08/05/2011",
+        "dateOfIncident": "07/24/2011",
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10417181,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "VRSCF",
+                "productYear": "2010",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE FUEL GAUGE ON MY 2010 HARLEY DAVIDSON V-ROD MUSCLE FREQUENTLY FAILS. EVEN AFTER COMPLETELY FILLING THE TANK, THE GAUGE FLUCTUATES IN ITS READING, SOMETIMES SAYING I ONLY HAVE 3/4 TANK, AND SOMETIMES 1/4 OR LESS. WITHIN 10 MINUTES OF STEADY RIDING, THE GAUGE SHOWS THE TANK AS BEING COMPLETELY EMPTY. I HAVE TAKEN THE BIKE TO TUCSON HD, WHERE THEY RECENTLY REPLACED THE ENTIRE GAUGE CLUSTER, BUT THAT HAS NOT FIXED THE PROBLEM. THE GAUGE CONTINUES TO FAIL DESPITE THE REPAIR, INDICATING A CONSTANT LOW/NO FUEL CONDITION.  *TT",
+        "vin": "1HD1HPH37AC"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "05/10/2011",
+        "dateOfIncident": "05/03/2011",
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10399848,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "VRSCF",
+                "productYear": "2010",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I WASHED THE 2010 HARLEY DAVIDSON VRSCF MOTORCYCLE WITH WATER FROM A HOSE.  THE NEXT DAY THE GAUGE CLUSTER HAD A SMALL AMOUNT OF WATER VISIBLE.  THE DIGITAL READOUT ON THE CLUSTER CYCLED ERRATICALLY UNTIL FINALLY STOPPING ON ONE SECTION AND WAS THEN UNRESPONSIVE UNTIL THE VEHICLE WAS SHUT DOWN.  BIKE IS STILL UNDER MANUFACTURER WARRANTY, BUT ISSUE SHOULD NOT HAVE OCCURRED.  *TR",
+        "vin": ""
+    }
+]

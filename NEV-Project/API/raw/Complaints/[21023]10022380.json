@@ -1,0 +1,31 @@
+[
+    {
+        "components": "EQUIPMENT,CHILD SEAT",
+        "crash": false,
+        "dateComplaintFiled": "06/04/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "UNKNOWN MANUFACTURER",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022380,
+        "products": [
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN1",
+                "productYear": "9999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Evenflo Company, Inc.",
+                "productMake": "EVENFLO",
+                "productModel": "CHILD SAFETY SEAT",
+                "productYear": "9999",
+                "type": "Child Seat"
+            }
+        ],
+        "summary": "EVENFLO MODEL # 3741326P1, THE DEVICE THAT CONNECTS  CHILD SAFETY  SEAT TO THE BASE SNAPS OFF WITH THE SLIGHTEST MOVEMENT. *AK",
+        "vin": ""
+    }
+]

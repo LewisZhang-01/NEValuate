@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "05/09/2003",
+        "dateOfIncident": "05/09/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10019571,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPEDITION",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE CONSUMER' VEHICLE REAR ENDED ANOTHER VEHICLE, AND THE AIR BAGS FAILED TO DEPLOY.          *JB",
+        "vin": "1FNPU18LT2X"
+    }
+]

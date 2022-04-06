@@ -1,0 +1,90 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC,SERVICE BRAKES, AIR",
+        "crash": false,
+        "dateComplaintFiled": "09/30/2008",
+        "dateOfIncident": "08/14/2008",
+        "fire": true,
+        "manufacturer": "Stoughton Trailers, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10244810,
+        "products": [
+            {
+                "manufacturer": "Stoughton Trailers, LLC",
+                "productMake": "STOUGHTON",
+                "productModel": "TRAILER",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "1995 STOUGHTON TRAILER BRAKE CAUGHT ON FIRE.  DRIVER PULLED OVER ONTO THE SHOULDER AND SEPARATED THE TRACTOR FROM THE TRAILER BUT WAS UNABLE TO PUT OUT THE FIRE.   *NJ  OHIO TRAFFIC CRASH REPORT 10-0348-89. *JB",
+        "vin": "1DW1A532CSS"
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "02/14/2002",
+        "dateOfIncident": "11/26/2001",
+        "fire": false,
+        "manufacturer": "Stoughton Trailers, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 564292,
+        "products": [
+            {
+                "manufacturer": "Stoughton Trailers, LLC",
+                "productMake": "STOUGHTON",
+                "productModel": "TRAILER",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING, CONSUMER EXPERIENCED MECHANICAL FAILURE TO THE LEFT SIDE AXLE TO THE TRAILER UNIT.*JB (THIS IS A 1995 STOUGHTON TRAILER) (OHIO TRAFFIC CRASH REPORT#10-90-732)",
+        "vin": "1D1A4828SS9"
+    },
+    {
+        "components": "SERVICE BRAKES, AIR",
+        "crash": false,
+        "dateComplaintFiled": "02/14/2002",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Stoughton Trailers, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 564292,
+        "products": [
+            {
+                "manufacturer": "Stoughton Trailers, LLC",
+                "productMake": "STOUGHTON",
+                "productModel": "TRAILER",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATED THE AIR BRAKES WERE REPLACED.  *JB",
+        "vin": "1D1A4828SS9"
+    },
+    {
+        "components": "SERVICE BRAKES, AIR",
+        "crash": false,
+        "dateComplaintFiled": "02/14/2002",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Stoughton Trailers, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 564292,
+        "products": [
+            {
+                "manufacturer": "Stoughton Trailers, LLC",
+                "productMake": "STOUGHTON",
+                "productModel": "TRAILER",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATED THE AIR BRAKES WERE REPLACED.  *JB",
+        "vin": "1D1A4828SS9"
+    }
+]

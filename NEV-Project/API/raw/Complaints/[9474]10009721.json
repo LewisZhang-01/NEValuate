@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "03/14/2003",
+        "dateOfIncident": "03/27/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009721,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPEDITION",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Continental Tire the Americas, LLC",
+                "productMake": "CONTINENTAL",
+                "productModel": "CONTINENTAL",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "CONSUMER RECEIVED REIMBURSEMENT LETTER FOR CONTINENTAL TIRES VOLUNTARY RECALL PROGRAM.  HOWEVER WAS DECLINED BECAUSE THE TIRES WERE PURCHASED OUTSIDE THE DATES OF PURCHASE.  CONSUMER HAD PROOF WHICH STATED THE TIRES WERE PURCHASED WITHIN QUALIFIED DATES AND  REQUESTED ASSISTANCE FOR REIMBURSEMENT.   *TT  *JB",
+        "vin": ""
+    }
+]

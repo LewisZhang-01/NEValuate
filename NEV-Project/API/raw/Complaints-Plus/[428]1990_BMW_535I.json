@@ -1,0 +1,46 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "05/31/2000",
+        "dateOfIncident": "04/04/2000",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 862836,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "535I",
+                "productYear": "1990",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING ABOUT 3 MPH STRUCK ANOTHER VEHICLE ON THE PASSENGER'S SIDE,  AND DRIVER'S AIR BAG DID NOT DEPLOY.*AK",
+        "vin": "WBAHB2318LB"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING,VEHICLE SPEED CONTROL",
+        "crash": true,
+        "dateComplaintFiled": "01/06/2000",
+        "dateOfIncident": "01/06/2000",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 716975,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "535I",
+                "productYear": "1990",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THERE WAS A RECALL IN 1997 OF THE SAME PROBLEM ON THE SIMILAR, BMW 525I. NHTSA # 97V131000 CONCERNING RADIATOR CAP. ALSO, SUUDEN ACCELERATION.  *AK",
+        "vin": "WBAHD1310LB"
+    }
+]

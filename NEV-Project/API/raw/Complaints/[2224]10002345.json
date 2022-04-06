@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "01/08/2003",
+        "dateOfIncident": "10/15/2002",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002345,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "D150",
+                "productYear": "1990",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATED THAT WHILE DRIVING AT ANY SPEED AND NO WARNING THE STEERING BOLTS ARE LOOSE AND IT IS CAUSING THE STEERING WHEEL TO JUMP AROUND CAUSING IT TO BE HARD FOR CONSUMER TO STEER THE VEHICLE. DEALER NOTIFIED. TS",
+        "vin": "FULL FILL"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "02/07/2003",
+        "dateOfIncident": "02/04/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10006790,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONTINENTAL TIRE ON HIS VEHICLE CAUSING THE STEERING COLUMN TO VEER TO THE LEFT AND RIGHT INTERMITTENTLY. FILL IN ADDITIONAL INFORMATION, NAME OF THE TIRE AND SERIAL NUMBER IS REQUESTED.                PH",
+        "vin": "1FMRU17L1YL"
+    }
+]

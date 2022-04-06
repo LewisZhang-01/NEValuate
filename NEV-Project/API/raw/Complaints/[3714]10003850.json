@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "01/28/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 2,
+        "odiNumber": 10003850,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "CAMRY",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE WAS IN A LOW IMPACT COLLISION WHERE A SMALL FEMALE PASSENGER WAS INJURED BY AN AIR BAG.  (SEVERE TRAUMA TO FACE, EYE, RIGHT HAND, CHEST/POSSIBLE PERMANENT EYE INJURY AND DECREASED RANGE OF MOTION IN HAND/ 3 FRACTURES-2 FACE-1 HAND)  THE SIDE AIRBAGS DID NOT DEPLOY-DRIVER/PASSENGER SIDE.  SCC",
+        "vin": "JT25K12E9R0"
+    }
+]

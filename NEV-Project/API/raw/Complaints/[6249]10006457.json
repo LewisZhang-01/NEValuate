@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE,VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "09/16/2001",
+        "dateOfIncident": "09/13/2001",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10006457,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "C1500",
+                "productYear": "1990",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "GAS TANK LEAKING DUE TO CONTACT WITH RETAINING STRAPS. ALSO CRUISE CONTROL SOMETIMES ENGAGES BY ITSELF WITHOUT INPUT OR ACTION.**** DIMS 11 IVOQ ENTRY POSTED AFTER 12/12/02 CUT-OVER TO ARTEMIS****752237. *AK",
+        "vin": "1GCDC14K5LZ"
+    }
+]

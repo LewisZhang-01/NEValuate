@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "02/01/2003",
+        "dateOfIncident": "11/12/2000",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005093,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "CARAVAN",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE SEAT RECLINING LEVER SNAPPED OFF. CONSUMER IS ALSO EXPERIENCING PROBLEMS WITH BOTH REAR TURN SIGNALS.    PH",
+        "vin": ""
+    }
+]

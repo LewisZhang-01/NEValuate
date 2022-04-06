@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VEHICLE SPEED CONTROL,WHEELS,ELECTRONIC STABILITY CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "10/13/2020",
+        "dateOfIncident": "10/01/2019",
+        "fire": false,
+        "manufacturer": "Daimler Vans USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11364208,
+        "products": [
+            {
+                "manufacturer": "Daimler Vans USA, LLC",
+                "productMake": "MERCEDES-BENZ",
+                "productModel": "SPRINTER 3500",
+                "productYear": "2008",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSISTENT AND PERSISTENT FAILURE OF WHEEL SPEED SENSORS",
+        "vin": "WDXPF445679"
+    }
+]

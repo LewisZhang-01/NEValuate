@@ -1,0 +1,24 @@
+[
+    {
+        "components": "PARKING BRAKE",
+        "crash": false,
+        "dateComplaintFiled": "06/25/2003",
+        "dateOfIncident": "06/19/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10023748,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "RAM 3500",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "EMERGENCY BRAKE RELEASES WITHOUT PULLING THE RELEASE LEVER.  RANDOMLY POPS OFF.   *NLM",
+        "vin": "3B6MF36D5WM"
+    }
+]

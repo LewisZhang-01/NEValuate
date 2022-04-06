@@ -1,0 +1,90 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "10/27/2003",
+        "dateOfIncident": "10/27/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10044797,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TAURUS",
+                "productYear": "1984",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER TOOK VEHICLE AN TO INDEPENDENT SHOP AND MECHANIC FOUND  BOTH FRONT STRUTS WERE LEAKING. ALSO,  MECHANIC TOLD THE CONSUMER THERE WAS  A RECALL ON THIS PROBLEM. *AK",
+        "vin": "1FABP55U3HG"
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "12/07/2000",
+        "dateOfIncident": "09/04/2000",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 557973,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TAURUS",
+                "productYear": "1984",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TIRE (NO MAKE/MODEL PROVIDED) EXPERIENCED BLOWOUT, CONSUMER LOST CONTROL OF THE VEHICLE AND EXPERIENCED A ROLLOVER, THERE WAS ONE INJURY DUE TO THE INCIDENT. (OHIO TRAFFIC CRASH REPORT)  *SLC",
+        "vin": ""
+    },
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "05/07/1999",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 837620,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TAURUS",
+                "productYear": "1984",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DEALER HAS NO PARTS AVAILABLE TO REMEDY RECALL 98V323000, REAR SUB-FRAME MOUNT FAILURE.  *AK",
+        "vin": "1FABP52UXKA"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "08/17/1998",
+        "dateOfIncident": "08/12/1998",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 826769,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TAURUS",
+                "productYear": "1984",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER WAS TRAVELING AT 55MPH WHEN THE BRAKES WENT TO THE FLOOR.   *AK",
+        "vin": "A87890D0KI9"
+    }
+]

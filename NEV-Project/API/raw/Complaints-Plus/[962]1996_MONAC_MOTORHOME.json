@@ -1,0 +1,24 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "02/19/1997",
+        "dateOfIncident": "08/11/1996",
+        "fire": false,
+        "manufacturer": "MONACO COACH CORPORATION",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 602645,
+        "products": [
+            {
+                "manufacturer": "MONACO COACH CORPORATION",
+                "productMake": "MONAC",
+                "productModel": "MOTORHOME",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ON-BOARD NAVIGATION COMPUTER FAILED.",
+        "vin": "1RF120712T0"
+    }
+]

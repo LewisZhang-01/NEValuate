@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "04/22/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Jaguar Cars, Ltd.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017380,
+        "products": [
+            {
+                "manufacturer": "Jaguar Cars, Ltd.",
+                "productMake": "JAGUAR",
+                "productModel": "S-TYPE",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WATER ENTERED THE TRUNK WHERE THE BATTERY AND ELECTRIC BOX WERE LOCATED, WHICH CAUSED THE ELECTRIC BOX TO SHORT OUT.    *JB",
+        "vin": "SAJDA01N81F"
+    }
+]

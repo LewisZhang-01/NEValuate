@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "10/22/2008",
+        "dateOfIncident": "10/21/2008",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10246414,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FUSION",
+                "productYear": "2007",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "MICHELIN TIRE CORP.",
+                "productMake": "MICHELIN",
+                "productModel": "PILOT",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "I HAD A FLAT TIRE AND WHEN I GOT IT REPAIRED WAS TOLD IT WAS A  VALVE STEM...MY CAR ONLY HAS 17,000 MILES ON IT AND WAS TOLD THIS SHOULD NOT HAVE HAPPENED...2 DAYS LATER, ANOTHER FLAT TIRE ON A DIFFERENT TIRE WHILE I WAS DRIVING TO WORK...I STOPPED AND GOT A CAN OF 'FIX-A-FLAT- AND WHEN PUTTING IT IN THE TIRE, NOTICED IT WAS LEAKING AT THE VALVE STEM...I HAD 8 MORE MILES TO DRIVE TO WORK...TO MAKE A LONG STORY SHORT, I HAD TO REPLACE THE TIRE DUE TO A SIDE WALL BUBBLE FROM DRIVING IT WITHOUT PROPER INFLATION.  *TR",
+        "vin": "3FAHP08197R"
+    }
+]

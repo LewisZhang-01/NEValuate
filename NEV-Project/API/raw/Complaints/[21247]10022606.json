@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "08/15/2003",
+        "dateOfIncident": "06/06/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022606,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "TRACKER",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE CONSUMER FOUND ANTIFREEZE IN THE DRIVEWAY, THE MECHANIC INFORMED THE CONSUMER THE HEATER CORE FAILED.  *AK  *JB",
+        "vin": "2CNBJ13C016"
+    }
+]

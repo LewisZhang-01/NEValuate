@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "03/03/2003",
+        "dateOfIncident": "02/24/2003",
+        "fire": false,
+        "manufacturer": "HOLIDAY RAMBLER CORP.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009649,
+        "products": [
+            {
+                "manufacturer": "HOLIDAY RAMBLER CORP.",
+                "productMake": "HOLIDAY RAMBLER",
+                "productModel": "RAMBLER",
+                "productYear": "1994",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "MICHELIN TIRE CORP.",
+                "productMake": "MICHELIN",
+                "productModel": "MICHELIN",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "CONSUMER STATES BOTH LEFT AND RIGHT INSIDE DUAL TIRES BLEW OUT WITHOUT WARNING.*JB",
+        "vin": ""
+    }
+]

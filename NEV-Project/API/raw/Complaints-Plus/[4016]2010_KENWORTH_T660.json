@@ -1,0 +1,46 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "09/22/2011",
+        "dateOfIncident": "07/21/2010",
+        "fire": false,
+        "manufacturer": "PACCAR Incorporated",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10426705,
+        "products": [
+            {
+                "manufacturer": "PACCAR Incorporated",
+                "productMake": "KENWORTH",
+                "productModel": "T660",
+                "productYear": "2010",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE GOING DOWN LONG MOUNTAIN GRADES, IN HOT WEATHER, THE STEERING LOCKS UP. I WAS TOLD THAT IT NEEDED A OIL COOLER. I PAID $1280.00 FOR AN OIL COOLER. TRW DOES NOT THINK THEY HAVE ANY RESPONSIBILITY TO WARRANTY A ONE YEAR OLD STEERING GEAR. EVEN THOUGH THEY KNOW THAT IT IS A MALFUNCTIONING RELIEF VALVE.  *TR",
+        "vin": "1XKAD49X9AJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": true,
+        "dateComplaintFiled": "05/10/2011",
+        "dateOfIncident": "05/05/2011",
+        "fire": false,
+        "manufacturer": "PACCAR Incorporated",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10399881,
+        "products": [
+            {
+                "manufacturer": "PACCAR Incorporated",
+                "productMake": "KENWORTH",
+                "productModel": "T660",
+                "productYear": "2010",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2010 KENWORTH T660 TRUCK. WHILE DRIVING APPROXIMATELY 10 MPH, THE CONTACT ATTEMPTED TO DEPRESS THE BRAKE PEDAL WHEN HE NOTICED THAT THE VEHICLE WAS HESITANT TO STOP. THE CONTACT WAS ABLE TO PULL THE EMERGENCY BRAKE IN ORDER TO SLOW THE VEHICLE SPEED BUT THE CONTACT CRASHED INTO THE VEHICLE POSITIONED IN FRONT OF HIM. THE CONTACT NOTICED THERE WAS A COVER OVER THE STEERING COLUMN WHICH INTERFERED WHEN HE ATTEMPTING TO BRAKE. THE CONTACT STATED THAT THE BRAKE PEDAL WAS EXTREMELY NARROW AND MADE IT DIFFICULT TO ENGAGE. A POLICE REPORT WAS FILED. THE CONTACT WAS NOT INJURED BUT THE DRIVER OF THE SECOND VEHICLE STATED SHE RECENTLY HAD SURGERY ON HER SHOULDER AND WAS WORRIED ABOUT FURTHER INJURIES. THE MANUFACTURER WAS MADE AWARE OF THE FAILURE AND STATED THAT AN INSPECTOR WOULD INSPECT THE VEHICLE FOR FAILURE. THE VEHICLE WAS NOT REPAIRED. THE APPROXIMATE FAILURE MILEAGE WAS 145,000.    UPDATED 06/24/11 *BF  THE CONSUMER MARKED THE INJURY BOX. UPDATED 11/16/11",
+        "vin": "1XKAD49X9AJ"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "01/02/2003",
+        "dateOfIncident": "12/07/2002",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000471,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "PASSAT",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE COIL CONTROLLING THE SPARK PLUG OF ONE OF THE CYLINDERS FAILED WHEN THE VEHICLE WAS BEING DRIVEN.  THE FAILURE RESULTED IN THE LOSS OF SPARK CAUSING THE ENGINE TO OPERATE ON ONLY THREE CYLINDERS AT REDUCED POWER.",
+        "vin": "WVWPD63B92P"
+    }
+]

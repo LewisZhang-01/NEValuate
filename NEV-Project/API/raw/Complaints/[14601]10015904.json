@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "07/18/2003",
+        "dateOfIncident": "03/15/1999",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015904,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "LHS",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING, THE DRIVER'S SEAT COLLAPSED WITHOUT WARNING.  THE DEALER WAS NOTIFIED.  *NLM. THE BOLTS ON THE DRIVERS SEAT BROKE IN PIECES. *TS   *JB",
+        "vin": "2C3HC50F05H"
+    }
+]

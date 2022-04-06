@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "08/11/2017",
+        "dateOfIncident": "08/01/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11014614,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "MKZ",
+                "productYear": "2012",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVER'S SIDE DOOR LATCH IS FAILED, IDENTICAL TO THE ACTIVE 2013-2014 MODEL YEARS FAILURE.  DOOR WILL NOT SHUT PROPERLY, CANNOT BE LOCKED, AND OCCASIONALLY REQUIRES OUTSIDE ASSISTANCE TO OPEN THE DOOR.  DOOR HANDLE WILL NOT RETRACT FULLY, AND LOCKING MECHANISM IS FAILED.  OPENING THE DOOR WHILE LOCKED IS POSSIBLE.  I SUSPECT IT WOULD FAIL IN A CRASH, SINCE THE LOCKING BAR IS OBVIOUSLY NOT ENGAGED.  FORD DECLAIMS ANY RESPONSIBILITY FOR THIS ITEM.  MATCHING RECALL NUMBER IS 15S16.",
+        "vin": "3LNDL2L39CR"
+    }
+]

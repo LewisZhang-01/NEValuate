@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": true,
+        "dateComplaintFiled": "04/19/1995",
+        "dateOfIncident": "04/06/1995",
+        "fire": true,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 3,
+        "odiNumber": 963982,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "MALIBU",
+                "productYear": "1964",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVING 50 MPH SHIFTED FRON 2ND TO 3RD GEAR TRANSMISSION LOCKED UP, VEHICLE LOST CONTROL, RESULTING IN COLLISION/INJURIES.  TT",
+        "vin": ""
+    }
+]

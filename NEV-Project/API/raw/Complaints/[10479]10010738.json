@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "03/19/2003",
+        "dateOfIncident": "02/04/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010738,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "TAHOE",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WINDSHIELD WIPER MOTOR FAILS INTERMITTENTLY.  MY MODEL YEAR/VIN IS NOT INCLUDED IN RECALL CLASS.  *NLM",
+        "vin": "3GNEK18R8WG"
+    }
+]

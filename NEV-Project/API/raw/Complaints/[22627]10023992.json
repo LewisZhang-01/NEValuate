@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "06/13/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10023992,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "CONTINENTAL",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AIR  SUSPENSION  SYSTEM GOES BAD WHICH CAUSES THE REAR END TO DRAG. *AK",
+        "vin": ""
+    }
+]

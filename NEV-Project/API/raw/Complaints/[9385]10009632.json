@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "02/28/2003",
+        "dateOfIncident": "02/28/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009632,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO 1500",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE BASE OF THE DRIVER'S SEAT SEPARATED WHERE THE BOLT SCREWS INTO THE SEAT FRAME, WHICH CAUSED THE LEFT FRONT CORNER OF THE SEAT TO BREAK FROM THE FRAME WHEN CUSTOMER SAT DOWN.*JB",
+        "vin": ""
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "04/09/2003",
+        "dateOfIncident": "04/09/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10014203,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "1999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FURON COMPANY",
+                "productMake": "FURON",
+                "productModel": "55944-2",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "SERVICE BULLETIN OOM 12 FROM FORD WAS FOR THE REPLACEMENT OF THE CAMSHAFT TENSIONER IN MY 1999 EXPLORER.  IT WAS REPLACED ON 11/27/01 AND NOW NEEDS TO BE REPLACED AGAIN.  THE FORD SERVICE CENTER REFUSES TO SEE THE SAME COMPONET CONTINUES TO FAIL AGAIN AND AGAIN AS THEIR PROBLEM.  *JB",
+        "vin": "1FMZU34EXXU"
+    }
+]

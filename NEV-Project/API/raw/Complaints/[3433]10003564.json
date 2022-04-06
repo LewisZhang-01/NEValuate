@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "01/28/2003",
+        "dateOfIncident": "01/08/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003564,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "LIBERTY",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "A HEAD ON COLLISION INVOLVING A 2002 JEEP LIBERTY (VEHICLE IN QUESTION) AND A LATE MODEL HONDA CIVIC, BOTH VEHICLES MOVING AT APPROX. 20 MPH. COLLISION RESULTED IN FRONT END DAMAGE OF BOTH VEHICLES. JEEP LIBERTY FRONT DRIVER AND PASSENGER AIRBAGS DID NOT DEPLOY.",
+        "vin": "1J4GL48K73W"
+    }
+]

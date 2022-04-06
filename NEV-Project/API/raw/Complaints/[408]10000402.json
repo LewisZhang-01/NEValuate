@@ -1,0 +1,24 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "12/27/2002",
+        "dateOfIncident": "11/01/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000402,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TAURUS SHO",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CAM SHAFT FAILURE. CAM GEAR SEPARATED FROM CAM SHAFT, CAUSING CATASTROFIC ENGINE FAILURE. TS *DT",
+        "vin": "1FALP54N0TA"
+    }
+]

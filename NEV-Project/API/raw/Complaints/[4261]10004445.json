@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "01/22/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004445,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "GRAND AM",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATED WHILE PULLING OUT OF PARKING SPACE CONSUMER NOTICED VEHICLE STEERING WHEEL HAD LOCKED UP. DEALER WAS CONTACTED. PLEASE PROVIDE FURTHER INFORMATION. TS",
+        "vin": "1G2NE12T3XM"
+    }
+]

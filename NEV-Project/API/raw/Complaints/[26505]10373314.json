@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "12/29/2010",
+        "dateOfIncident": "12/29/2010",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10373314,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "SATURN",
+                "productModel": "ION",
+                "productYear": "2007",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "POWER STEERING GOES OUT ON 2007 SATURN ION. *TR",
+        "vin": "1G8AW15B37Z"
+    }
+]

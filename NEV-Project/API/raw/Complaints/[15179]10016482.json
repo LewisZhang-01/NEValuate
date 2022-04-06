@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "04/25/2003",
+        "dateOfIncident": "11/01/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10016482,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "AZTEK",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SEVERE NOISE PROBLEM WHEN DRIVING OVER 40 MPH WITH PASSENGER REAR WINDOW OPEN.            *JB",
+        "vin": "3G7DA03E43S"
+    }
+]

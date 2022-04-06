@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "04/16/2003",
+        "dateOfIncident": "04/16/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10014473,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "WINDSTAR",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE AUTOMATIC OPENING DOOR ON THE PASSENGER SIDE HAS NO SENSORS TO DETECT A PERSON IN THE WAY OF THE DOOR. THE DOOR CLOSED ON MYSELF WITHOUT AUTOMATICALLY RELEASING. IF A CHILD WAS THERE IT COULD HAVE BEEN A SERIOUS INJURY.   *NLM",
+        "vin": "2FMZA5148YB"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "02/06/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002321,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "9999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER IS CONCERNED  ABOUT ROLLOVER PROBLEM CONCERNING UTILITY VEHICLES, SUCH AS FORD, EXPLORER.  *AK",
+        "vin": ""
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "06/19/2003",
+        "dateOfIncident": "11/01/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10024431,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPEDITION",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WINDSHIELD WIPERS DO NOT WORK WHILE VEHICLE'S GEAR IS IN DRIVE.  WIPERS ONLY WORK WHEN GEAR IS IN PARK OR NEUTRAL.  DEALER PREVIOUSLY REPLACED WIPER MOTOR, BUT PROBLEM OCCURRED.  RELATED  TO RECALL 01258000. HOWEVER, THIS VEHICLE NOT INCLUDED DUE TO VIN.  *AK",
+        "vin": "1FMRU15L61L"
+    }
+]

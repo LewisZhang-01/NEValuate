@@ -1,0 +1,68 @@
+[
+    {
+        "components": "STEERING,SUSPENSION,SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "11/26/2020",
+        "dateOfIncident": "11/11/2020",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11376404,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "Z4",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DON'T KNOW WHAT IS CAUSING IT. THERE IS MAJOR SQUEAKING/WHINING/GRINDING NOISE  IF EVEN A TINY BIT OF WATER GETS IN THERE AND LAST COUPLE DAYS AFTER THAT. AND WHEN YOU TURN THE STEERING WHEEL TO THE LEFT THE SQUEAKING/WHINING GETS LOUDER. AND WHEN DOES DO THIS THE SUSPENSION IF YOU HIT EVEN A SMALL BUMP WILL BOTTOM OUT AND MAKE GRINDING NOISES. BMW HAS LOOKED AT THE CAR COUPLE TIMES FIRST TIME THEY SAID THERE WAS RUST. SECOND TIME THEY COULDN'T FIND ANYTHING WRONG WITH IT.",
+        "vin": "WBAHF3C05LW"
+    },
+    {
+        "components": "STRUCTURE,SERVICE BRAKES,ENGINE",
+        "crash": true,
+        "dateComplaintFiled": "10/07/2020",
+        "dateOfIncident": "09/06/2020",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11363216,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "Z4",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WAS IN A DRIVE THRU ON 9/6/2020 WAITING OUR TURN.  APPROX. 7 CARS IN FRONT OF US.  AS WE ARE SLOWLY MOVING UP TO ORDER, CAR IN IDLE, FOOT ON BRAKE.  AS WE ARE MOVING FORWARD, WHEN WE WERE UP TO 3 CARS,  STILL IDLING AND FOOT ON BRAKE, THE CAR HAD FULLY ACCELERATED, BRAKE NOT HOLDING THE CAR, INCHING FORWARD DUE TO THE FORCE OF THE ACCELERATION.  TRIED TO SHIFT INTO NEUTRAL, WENT INTO REVERSE.  TRIED AGAIN TO SHIFT INTO NEUTRAL, WENT INTO DRIVE, STILL INCHING FORWARD, AT THIS TIME I PUSHED THE OFF BUTTON TO STOP THE CAR.  RESULT OF COLLISION WITH THE VEHICLE IN FRONT OF US.  WE HAVE PHOTOS BUT NOT ON THIS COMPUTER.",
+        "vin": "WBAHF9C0XLW"
+    },
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "12/14/2019",
+        "dateOfIncident": "12/12/2019",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11289091,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "Z4",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BMW'S LANE DEPARTURE SYSTEM ACTUALLY PULLS THE CAR'S STEERING LEFT OR RIGHT, AND COULD CAUSE THE CAR TO COLLIDE WITH ANOTHER VEHICLE OR RUN OFF THE ROAD. I EXPERIENCED THIS WHILE DRIVING ON THE FREEWAY IN SOUTHERN CALIFORNIA.  THE LANE DEPARTURE SYSTEM ALMOST PULLED MY VEHICLE INTO THE ADJACENT LANE.",
+        "vin": "WBAHF9C08LW"
+    }
+]

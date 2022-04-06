@@ -1,0 +1,24 @@
+[
+    {
+        "components": "LATCHES/LOCKS/LINKAGES",
+        "crash": false,
+        "dateComplaintFiled": "01/29/2003",
+        "dateOfIncident": "01/01/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004886,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE LATCH HOLDING THE SIDE SLIDING DOOR FAILED, DEALER REPLACED IT. THE REPLACEMENT PART HAS ALSO FAILED, ALLOWING THE DOOR TO SLIDE CLOSED ON A HAND, BODY, OR CHILD.",
+        "vin": "4T3GF19C0WU"
+    }
+]

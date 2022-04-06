@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "01/17/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004125,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "GRAND PRIX",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATES THAT THE VEHICLE IS HARD TO STEER LEFT, VEHICLE STEERS TO THE RIGHT.  TOOK TO DEALER AND DEALER STATES THE RACK AND PINION NEEDED REPLACING.  PLEASE PROVIDE ANY FURTHER INFORMATION. TS",
+        "vin": "1G2WP12K9XF"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": true,
+        "dateComplaintFiled": "04/16/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015949,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "LUMINA APV",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AFTER RECALL FOR THE POWER STEERING ASSEMBLY 02 V 286 000 WAS PERFORMED THE POWER STEERING FAILED AGAIN.  *NLM",
+        "vin": "1GNDU06E37T"
+    }
+]

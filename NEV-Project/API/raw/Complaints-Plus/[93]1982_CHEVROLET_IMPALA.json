@@ -1,0 +1,46 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "06/19/2000",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 724194,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "IMPALA",
+                "productYear": "1982",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NO SUMMARY LISTED FOR ABOVE VEHICLE.  *AK",
+        "vin": "1G1AL69HOCX"
+    },
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "03/13/1997",
+        "dateOfIncident": "11/30/1996",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 603329,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "IMPALA",
+                "productYear": "1982",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SEAT BELT LATCH FAILED TO RELEASE, TRAPPING PASSENGER IN SEAT.",
+        "vin": ""
+    }
+]

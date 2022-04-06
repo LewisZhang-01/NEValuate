@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/04/2003",
+        "dateOfIncident": "06/01/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021006,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXCURSION",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "STEELTEX AT",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "ON SUNDAY, JUNE 1ST, WHILE RETURNING FROM A FISHING TRIP AND TOWING A BOAT, THE RIGHT REAR TIRE ON MY FORD EXCURSION EXPLODED ON I-285 NORTH OF ATLANTA GA. I WAS IN THE LANE INSIDE THE FAST LANE, BUT MOVING AT THE SAME SPEED AS TRAFFIC. I WAS ABLE TO NAVIGATE TO THE SHOULDER AND CHANGE THE TIRE. HOWEVER, BECAUSE THE TIRE EXPLODED AND WRAPPED ITSELF AROUND THE AXLE, THE RIM WAS DESTROYED. I HAVE ORDERED ANOTHER RIM FROM A RE-MANUFACTURER.  I'VE E-MAILED FIRESTONE WITH THE INCIDENT INFORMATION, BUT HAVE RECEIVED NO RESPONSE.   *NLM",
+        "vin": "1FMNU43S7YE"
+    }
+]

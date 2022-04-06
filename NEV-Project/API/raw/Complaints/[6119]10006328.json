@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "02/04/2003",
+        "dateOfIncident": "12/28/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10006328,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "IMPALA",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AUTOMATIC TRANSMISSION FAILED. THE DEALERSHIP INDICATED THAT THE TRANSMISSION HAD DISINTEGRATED AND NEEDED TO BE REPLACED. PLEASE PROVIDE MORE DETAILS.   PH",
+        "vin": "2G1WF55E019"
+    }
+]

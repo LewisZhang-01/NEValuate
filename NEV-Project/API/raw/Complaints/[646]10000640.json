@@ -1,0 +1,32 @@
+[
+    {
+        "components": "STEERING,TIRES",
+        "crash": false,
+        "dateComplaintFiled": "12/30/2002",
+        "dateOfIncident": "01/20/2001",
+        "fire": false,
+        "manufacturer": "MONACO COACH CORPORATION",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000640,
+        "products": [
+            {
+                "manufacturer": "MONACO COACH CORPORATION",
+                "productMake": "MONACO COACH",
+                "productModel": "DIPLOMAT LE",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "UNISTEEL TIRE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "UPDATE TO OD ID 8005766.  WE HAVE BEEN TRYING TO GET OUR STEERING PROBLEM SOLVED WITH MONACO BUT THEY REFUSE TO DO ANYTHING BECAUSE WE HAVE A LAWSUIT PENDING (THE LAWSUIT DOES NOT ADDRESS THE STEERING PROBLEM).  WE RECENTLY LEARNED THAT GOODYEAR HAS A RECALL (PSB#2002-20)  ON OUR TIRES, WHICH ONLY HAVE 15,000 MILES ON AND ARE BADLY WORN, BUT MONACO WILL NOT AUTHORIZE THE REPLACEMENT BECAUSE OF OUR LAWSUIT.  WE WANT TO UPDATE THIS COMPLAINT SO, IN THE EVENT WE ARE INVOLVED IN AN ACCIDENT WE HAVE ON RECORD THAT MONACO HAS REFUSED TO ADDRESS THIS STEERING PROBLEM.",
+        "vin": "1RF12061212"
+    }
+]

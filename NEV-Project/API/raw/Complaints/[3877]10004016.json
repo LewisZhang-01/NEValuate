@@ -1,0 +1,32 @@
+[
+    {
+        "components": "SUSPENSION,ENGINE AND ENGINE COOLING,FUEL SYSTEM, OTHER,POWER TRAIN,TIRES",
+        "crash": true,
+        "dateComplaintFiled": "01/24/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004016,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER SPORT TRAC",
+                "productYear": "9999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Bridgestone Americas Tire Operations",
+                "productMake": "BRIDGESTONE",
+                "productModel": "FIRESTONE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "CONSUMER HAD THE TIRES REPLACED DUE TO VIBRATION.  ONE OF THE NEW TIRES WAS FAULTY WHICH LED TO AN ACCIDENT.  EVIDENT ALSO, WAS THROTTLE AND DRIVESHAFT FAILURE.  THE MANIFOLD AND SUSPENSION WERE EMITTING NOISES EVIDENT TO CONSUMER.  *JG",
+        "vin": "1FMYU60E31U"
+    }
+]

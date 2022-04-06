@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "03/07/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10009449,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "CAMRY",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TRUNK LID SLAMMED DOWN ON DRIVER'S HEAD IN THE WIND, WHICH CAUSED  A CONCUSSION. HAS BEEN UNDER MEDICAL CARE FOR ALMOST 2 YEARS. *AK",
+        "vin": ""
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "03/04/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009056,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "MALIBU",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE ENGINE STALLED WHILE DRIVING DUE TO A FAULTY IGNITION SWITCH.    THE STEERING WHEEL WAS LOUD DUE TO AN IMPROPERLY INSTALLED CAM/HORN CONTACT.  SCC   *NLM",
+        "vin": "1G1ND52J1Y6"
+    }
+]

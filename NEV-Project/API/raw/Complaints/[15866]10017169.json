@@ -1,0 +1,31 @@
+[
+    {
+        "components": "CHILD SEAT",
+        "crash": false,
+        "dateComplaintFiled": "04/30/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "UNKNOWN MANUFACTURER",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017169,
+        "products": [
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN1",
+                "productYear": "9999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Graco Children's Products, Inc.",
+                "productMake": "GRACO",
+                "productModel": "OTHER",
+                "productYear": "9999",
+                "type": "Child Seat"
+            }
+        ],
+        "summary": "GRACO CHILD SEAT MODEL NUMBER 8446 VIN.  MR  THE RELEASE IN THE BACK OF THE CARRIER WAS REMOVED FROM THE BACK.  SCC *JB",
+        "vin": "9999"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "01/02/2018",
+        "dateOfIncident": "12/14/2017",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11058011,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "X6 SAV",
+                "productYear": "2009",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "MY CAR HAS A HEAVY EXHAUST FUMES COMING INSIDE CABIN, I HAD THE PROBLEM LOOKED AT IN 2016 AND WAS SUPPOSEDLY FIXED BUT IT IS MUCH STRONGER.  THERE IS ALSO A PERPETUAL OIL LEAK.  IT'S BEEN TAKEN  IN 5 TIMES FOR THE OIL.",
+        "vin": "5UXFG83539L"
+    },
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "03/01/2017",
+        "dateOfIncident": "02/28/2017",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10957853,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "X6 SAV",
+                "productYear": "2009",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE HAS STARTED TO SMOKE FROM EXHAUST. MILES ARE 68K AND HAS HAD EVERY SERVICE DONE AT THE DEALER AS THE MANUFACTURER SCHEDULE CALLED FOR. BMW HAS DIAGNOSED AS NEEDING VALVE GUIDE SEALS WITH A REPAIR BILL OVER $10,000.",
+        "vin": "5UXFG83549L"
+    }
+]

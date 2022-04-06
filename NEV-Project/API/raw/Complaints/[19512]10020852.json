@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "06/01/2003",
+        "dateOfIncident": "05/24/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020852,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "GRAND CARAVAN",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ALTERNATOR BOLT BROKE IN ENGINE BLOCK, CAUSING STRESS ON TIMING CHAIN/ALTERNATOR BRACKET FROM SERPENTINE BELT THUS BREAKING BRACKET, CAUSING BELT TO COME OFF.      *TT",
+        "vin": ""
+    }
+]

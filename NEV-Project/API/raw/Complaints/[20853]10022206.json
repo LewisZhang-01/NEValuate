@@ -1,0 +1,31 @@
+[
+    {
+        "components": "CHILD SEAT",
+        "crash": false,
+        "dateComplaintFiled": "06/03/2003",
+        "dateOfIncident": "06/03/2003",
+        "fire": false,
+        "manufacturer": "UNKNOWN MANUFACTURER",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022206,
+        "products": [
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN1",
+                "productYear": "9999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "CENTURY PRODUCTS",
+                "productMake": "CENTURY",
+                "productModel": "CHILD SAFETY SEAT",
+                "productYear": "9999",
+                "type": "Child Seat"
+            }
+        ],
+        "summary": "CENTURY, MODEL # 45600JTI, DOM 07/22/2000; A SCREW,WHICH CONNECTS THE \"ARM\" TO THE CHILD SAFETY SEAT FRAME STRIPPED AND FELL OUT, CAUSING THE ARM TO BREAK OFF.*AK",
+        "vin": ""
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "01/29/2003",
+        "dateOfIncident": "11/10/2002",
+        "fire": true,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003781,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "INTREPID",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DEALER STATED THAT THERE WAS LEAKING FROM THE FUEL INJECTION RING.  THE CONSUMER OBSERVED SMOKE COMING FROM THE REAR OF THE HOOD AND GLASS.  THE ENGINE IMMEDIATELY SHUT OFF.    (RECALL# 98V1840000)  SCC   PH",
+        "vin": "1B3EBD5678R"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "09/08/2014",
+        "dateOfIncident": "05/05/2014",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10631614,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "GRAND CHEROKEE",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 1999 JEEP GRAND CHEROKEE. THE VEHICLE STALLED WHILE DRIVING AT AN UNKNOWN SPEED. THE DEALER REPLACED THE PCM BOARD, BUT THE FAILURE RECURRED. THE MANUFACTURER WAS NOTIFIED OF THE FAILURE. THE APPROXIMATE FAILURE MILEAGE WAS 100,000.",
+        "vin": "1J4GW58S9XC"
+    }
+]

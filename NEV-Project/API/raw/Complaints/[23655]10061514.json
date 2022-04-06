@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "04/01/2004",
+        "dateOfIncident": "06/01/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10061514,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "OLDSMOBILE",
+                "productModel": "INTRIGUE",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER COMPLAINED ABOUT  RACK AND PINION STEERING PROBLEMS.  A RECALL WAS ISSUED ON THIS MAKE, MODEL, AND YEAR, HOWEVER THIS VEHICLE WAS NOT INCLUDED DUE TO VIN.  *AK  *JB",
+        "vin": "1G3WH52K8WF"
+    }
+]

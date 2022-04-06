@@ -1,0 +1,46 @@
+[
+    {
+        "components": "FUEL SYSTEM, OTHER",
+        "crash": false,
+        "dateComplaintFiled": "05/09/2014",
+        "dateOfIncident": "05/16/2007",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10587386,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "R 1200 R",
+                "productYear": "2007",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2007 BMW 1200RT MOTORCYCLE. THE CONTACT STATED THAT THE FUEL GAUGE WOULD CONSTANTLY DISPLAY ERRONEOUS FUEL READINGS. THE VEHICLE WAS TAKEN TO A DEALER WHERE IT WAS DIAGNOSED WITH A FRACTURED FUEL PUMP WHICH NEEDED TO BE REPLACED. THE VEHICLE WAS NOT REPAIRED. THE MANUFACTURE WAS MADE AWARE OF THE FAILURE. THE FAILURE MILEAGE WAS 2,000 AND THE CURRENT MILEAGE WAS 28,000.    KMJ",
+        "vin": "WB10388077Z"
+    },
+    {
+        "components": "FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "02/19/2013",
+        "dateOfIncident": "02/01/2013",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10499319,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "R 1200 R",
+                "productYear": "2007",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUEL GAUGE STOPPED RESPONDING, LEADING TO RUNNING OUT OF FUEL WHILE MOVING. THIS IS A COMMON FAILURE ON MANY BIKE MODELS FROM BMW FROM 2005-2013. I HAVE HAD THIS HAPPEN 5 TIMES SO FAR, AND EACH TIME THE FUEL LEVEL MEASURING STRIP IN THE FUEL TANK WAS REPLACED. THIS IS AN UNSAFE CONDITION SINCE LOSS OF ENGINE POWER FROM RUNNING OUT OF FUEL CAN BE QUITE DANGEROUS ON A MOTORCYCLE.  *TR",
+        "vin": "WB10398017Z"
+    }
+]

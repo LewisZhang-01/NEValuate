@@ -1,0 +1,24 @@
+[
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "05/12/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019672,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "FXDL",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THERE WAS A PROBLEM WITH THE KICK STAND, AND THE MOTORCYCLE COLLAPSED.  *JB",
+        "vin": "1HD1GHV193K"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "components": "FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "03/09/2015",
+        "dateOfIncident": "03/09/2015",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10693023,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "528I",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 2001 BMW 528I. THE CONTACT STATED THAT WHILE DRIVING AT VARIOUS SPEEDS, FUEL WAS LEAKING OUT OF THE VEHICLE. THE VEHICLE WAS TAKEN TO THE DEALER. THE VEHICLE WAS REPAIRED ON FOUR DIFFERENT OCCASIONS FOR THE SAME SYMPTOMS HOWEVER, THE FAILURE PERSISTED. THE MANUFACTURER WAS NOT MADE AWARE OF THE FAILURE. THE FAILURE MILEAGE WAS 85,920. THE VIN WAS NOT AVAILABLE.",
+        "vin": ""
+    },
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "01/17/2002",
+        "dateOfIncident": "11/08/2001",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 6900735,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "528I",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATES FRONT SEAT SIDE AIRBAGS (4) DEPLOYED WHILE DRIVING WITHOUT ANY COLLISION AND CAUSED INJURY, AIR BAG DEPLOYED AFTER ADJUSTING CD PLAYER BUTTON (CLAIM # 13-7535-667).   *YD",
+        "vin": "WBADT43481G"
+    },
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "01/17/2002",
+        "dateOfIncident": "11/08/2001",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 6900735,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "528I",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATES FRONT SEAT SIDE AIRBAGS (4) DEPLOYED WHILE DRIVING WITHOUT ANY COLLISION AND CAUSED INJURY, AIR BAG DEPLOYED AFTER ADJUSTING CD PLAYER BUTTON (CLAIM # 13-7535-667).   *YD",
+        "vin": "WBADT43481G"
+    }
+]

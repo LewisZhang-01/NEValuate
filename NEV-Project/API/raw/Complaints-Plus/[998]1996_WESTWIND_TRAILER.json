@@ -1,0 +1,90 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "02/28/2001",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Western Trailer Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 559966,
+        "products": [
+            {
+                "manufacturer": "Western Trailer Company",
+                "productMake": "WESTWIND",
+                "productModel": "TRAILER",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE BRAKES FAILED.  NLM",
+        "vin": "4MRFD4820YB"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "11/27/1996",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Western Trailer Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 511839,
+        "products": [
+            {
+                "manufacturer": "Western Trailer Company",
+                "productMake": "WESTWIND",
+                "productModel": "TRAILER",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKES FAILED.",
+        "vin": "4MRFD4921TH"
+    },
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "11/27/1996",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Western Trailer Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 511839,
+        "products": [
+            {
+                "manufacturer": "Western Trailer Company",
+                "productMake": "WESTWIND",
+                "productModel": "TRAILER",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BOARDS ON TRAILER DECK NOT BEING SECURED.",
+        "vin": "4MRFD4921TH"
+    },
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "11/27/1996",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Western Trailer Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 511839,
+        "products": [
+            {
+                "manufacturer": "Western Trailer Company",
+                "productMake": "WESTWIND",
+                "productModel": "TRAILER",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TOOL BOXES FELL DOWN.",
+        "vin": "4MRFD4921TH"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "05/28/2003",
+        "dateOfIncident": "05/28/2003",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020632,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "ACCORD",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AIRBAG COMPONENT FAILURES",
+        "vin": "1HGCE1891SA"
+    }
+]

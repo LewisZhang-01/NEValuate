@@ -1,0 +1,24 @@
+[
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "01/17/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004158,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERCURY",
+                "productModel": "VILLAGER",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN DRIVING IN COLD WEATHER, CONSUMER STATES YOU CAN SMELL GAS FUMES IN THE CAB.   CAUSE IS UNKNOWN.  PLEASE PROVIDE ANY FURTHER INFORMATION. TS",
+        "vin": "NOT AVAILAB"
+    }
+]

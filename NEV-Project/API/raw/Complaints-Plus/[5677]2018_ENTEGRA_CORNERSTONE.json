@@ -1,0 +1,90 @@
+[
+    {
+        "components": "ENGINE,FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "08/01/2021",
+        "dateOfIncident": "05/03/2021",
+        "fire": false,
+        "manufacturer": "Entegra Coach",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11427332,
+        "products": [
+            {
+                "manufacturer": "Entegra Coach",
+                "productMake": "ENTEGRA",
+                "productModel": "CORNERSTONE",
+                "productYear": "2018",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "While driving across Florida, the \u201cCheck Engine\u201d light and first of three DEF Head \u201cService Codes\u201d on our 2018 Entegra Cornerstone 45\u2019 RV came on, indicating that our Diesel Exhaust Fluid (DEF) system had an issue. From previous social media posts from other Entegra Owners, we immediately contacted the chassis manufacturer, Spartan.  They requested that we contact Cummins-Orlando, FL for a DEF Head replacement. Cummins-Orlando said they couldn\u2019t get us in for three weeks, which wasn\u2019t an option, as we were traveling and couldn\u2019t wait three weeks. We contacted Cummins-Tampa, FL and Cummins-Jacksonville, FL, with both stating 2-3 weeks to get us in. By this time, the second of three DEF codes came on, so the situation was getting more dire. We finally got through to Cummins-Ocala, FL and they were able to squeeze us in the next day.  The third of three DEF Codes came on during the relatively short drive to Ocala, FL, but we were able to get there before the RV went into \u201climp mode\u201d which restricts your speed to 5mph!!  We were extremely worried about being stranded on the busy interstate Highway in a vehicle the size of a Greyhound Bus, limping along at 5mph with 18-wheelers whizzing by at 70-75mph!  This DEF Head issue has been going on for several years and doesn\u2019t seem to be getting any better, even though the manufacturer is on their 7th Generation of DEF Head technology.  Luckily, Spartan had the DEF Head in-stock and was able to overnight it to Cummins-Ocala, but many others have been held up for days/weeks due to a back order on the replacement DEF Heads.  I feel that a recall should be issued on all DEF Heads prior to the 7th Generation, in order to avoid the safety issues associated with being stranded on the highway with a failed DEF Head.",
+        "vin": "4VZVU1E92JC"
+    },
+    {
+        "components": "ENGINE,FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "06/22/2021",
+        "dateOfIncident": "06/09/2021",
+        "fire": false,
+        "manufacturer": "Entegra Coach",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11421805,
+        "products": [
+            {
+                "manufacturer": "Entegra Coach",
+                "productMake": "ENTEGRA",
+                "productModel": "CORNERSTONE",
+                "productYear": "2018",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Vehicle has approximately 30,800 miles.  A check engine light with error codes SPN: 3364, 1761, 3331 indicating a failure of the DEF ( diesel exhaust fluid) sensor.  This results in a degrade in performance to a point of engine shutdown.  Replacement parts are very hard to obtain because this error is so common.",
+        "vin": "4VZVU1E96JC"
+    },
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "06/03/2021",
+        "dateOfIncident": "07/14/2020",
+        "fire": false,
+        "manufacturer": "Entegra Coach",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11419480,
+        "products": [
+            {
+                "manufacturer": "Entegra Coach",
+                "productMake": "ENTEGRA",
+                "productModel": "CORNERSTONE",
+                "productYear": "2018",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DEF sensor failed twice.  Potential engine derate or shut down.  Problem well known to chassis manufacturer.  Failure announced by Check Engine Light and three well known codes.  Time or distance to derate/shutdown is unknown, and consequently could result in a large motor home stopped on the road.",
+        "vin": "4VZVU1E90JC"
+    },
+    {
+        "components": "ENGINE,FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "05/28/2021",
+        "dateOfIncident": "05/27/2021",
+        "fire": false,
+        "manufacturer": "Entegra Coach",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11418850,
+        "products": [
+            {
+                "manufacturer": "Entegra Coach",
+                "productMake": "ENTEGRA",
+                "productModel": "CORNERSTONE",
+                "productYear": "2018",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Shortly after starting the engine a \u201cCHECK ENGINE\u201d warning appeared on the warning system. I went through diagnostics and found 3 codes relating to DEF head failure.  There have been a large number of these in Entegra Coach motor homes in the last 6-12 months.",
+        "vin": "4VZVU1E98JC"
+    }
+]

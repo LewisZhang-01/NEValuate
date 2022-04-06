@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "06/02/2003",
+        "dateOfIncident": "05/30/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020903,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "CARAVAN",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ALL GAUGES AND LIGHTS ARE NO ON AND WILL NOT TURN OFF. THE SPEED ODOMETER DOEWS NOT WORK. THE RPM STAYS AT 2000 EVEN WHEN THE VEHICLE IS TURNED OFF. *AK",
+        "vin": "1B4GP45371B"
+    }
+]

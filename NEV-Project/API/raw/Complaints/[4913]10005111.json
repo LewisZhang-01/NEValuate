@@ -1,0 +1,24 @@
+[
+    {
+        "components": "WHEELS",
+        "crash": true,
+        "dateComplaintFiled": "02/02/2003",
+        "dateOfIncident": "01/03/2003",
+        "fire": true,
+        "manufacturer": "Mitsubishi Motors North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005111,
+        "products": [
+            {
+                "manufacturer": "Mitsubishi Motors North America, Inc.",
+                "productMake": "MITSUBISHI",
+                "productModel": "ECLIPSE SPYDER",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2001 MITSUBISHI ECLIPSE SPYDER BENT RIMS AND BLEW TIRES.   *JB",
+        "vin": "4A3AE55H31E"
+    }
+]

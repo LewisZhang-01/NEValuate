@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "07/30/2018",
+        "dateOfIncident": "05/23/2018",
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11111614,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "FLHTK",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2015 HARLEY DAVIDSON FLHTK. CONSUMER WRITES IN REGARDS TO DISTURBING ENGINE IMPLOSION. *LD    THE CONSUMER STATED WHILE DRIVING AT HIGH SPEEDS THE ENGINE ON THE VEHICLE BLEW.  *JS",
+        "vin": "1HD1KEL14FB"
+    }
+]

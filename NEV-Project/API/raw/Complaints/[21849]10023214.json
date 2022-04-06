@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/17/2003",
+        "dateOfIncident": "06/06/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10023214,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "TAHOE",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Bridgestone Americas Tire Operations",
+                "productMake": "FIRESTONE",
+                "productModel": "WILDERNESS AT",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "CUPPING PROBLEMS ON 2002 TAHOE BEGAN AT 12K MILES, 2 TIRES REPLACED AT 30K DUE TO 2ND LAYER OF TIRE EXPOSED.  TOLD BY TIRE RETAILER THAT THIS IS TYPICAL FOR THIS TIRE: FIRESTONE WILLDERNESS AT P265/70R16.  *JB",
+        "vin": "1GNEC13Z62R"
+    }
+]

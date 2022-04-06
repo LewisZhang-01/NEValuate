@@ -1,0 +1,31 @@
+[
+    {
+        "components": "EQUIPMENT,ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "11/01/2007",
+        "dateOfIncident": "10/17/2007",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10207614,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "CIRRUS",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "RUNNING BOARD KIT",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "THE HEATER BLOWER FAN IN MY 2000 CHRYSLER CIRRUS CONTINUALLY BURNS OUT IN THE \"LOW\" AND \"MEDIUM\" SETTINGS.  IT ONLY OPERATES ON THE \"HIGH\" SETTING.  I HAVE REPLACED IT 3 TIMES, THE LAST REPLACEMENT LASTED ONE WEEK.  I GO TO A SMALL INDEPENDENT REPAIR SHOP WHO HAVE HAD 11 OTHER CUSTOMERS WITH THE SAME PROBLEM WITH MULTIPLE FAILURES.  *TR",
+        "vin": "1C3EJ56H7YN"
+    }
+]

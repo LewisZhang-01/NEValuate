@@ -1,0 +1,90 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "01/11/1999",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 833350,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "MAXIMA",
+                "productYear": "1982",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE FUEL INJECTORS HAVE BEEN LEAKING FUEL TOWARDS THE EXHAUST WITH A POTENTIAL FOR FIRE. DEALER SAYS INJECTORS NEED TO BE REPLACED.  *AK",
+        "vin": ""
+    },
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "06/25/1997",
+        "dateOfIncident": "06/21/1997",
+        "fire": true,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 813514,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "MAXIMA",
+                "productYear": "1982",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING VEHICLE, DRIVER NOTICED HEAVY BLACK SMOKE COMING FROM THE HOOD OF VEHICLE; DRIVER PULLED OFF FREEWAY & VEHICLE CAUGHT ON FIRE, FIRE DEPT.  ARRIVED & PUT FLAMES OUT,  HAD VEHICLE TOWED & MECHANIC SAID IT WAS THE FUEL INJECTION SYSTEM.   *AK",
+        "vin": "JNLHU01S3CT"
+    },
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "02/10/1997",
+        "dateOfIncident": "01/31/1997",
+        "fire": true,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 808765,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "MAXIMA",
+                "productYear": "1982",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DROVE ONE AND HALF MILE AND 2 TO 3MINUTES AFTER BEING PARKED THE ENGINE CAUGHT ON FIRE BECAUSE OF A LEAKING FUEL PUMP.  PLEASE DESCRIBE DETAILS.   *AK",
+        "vin": ""
+    },
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "07/30/1996",
+        "dateOfIncident": "06/30/1996",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 506900,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "MAXIMA",
+                "productYear": "1982",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TWO FUEL INJECTORS LEAKING GASOLINE  ONTO ENGINE. *SD",
+        "vin": "4N1HVC1S1CT"
+    }
+]

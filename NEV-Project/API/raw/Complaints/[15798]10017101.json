@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "05/06/2003",
+        "dateOfIncident": "05/04/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017101,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE BACKING THE VEHICLE THE SEAT CUSHION FRAME FRACTURED AT THE LEFT FORWARD ATTACH POINT. THIS CAUSED THE SEAT TO ROCK AND POSSIBLY COULD CAUSE REMAINING THREE FASTENERS TO BECOME OVERLOADED AND FAIL. FAILURE OF THE PRIMARY STRUCTURAL SEAT ATTACHMENT COULD CAUSE SERIOUS INJURY DURING AN ACCIDENT.   *NLM",
+        "vin": "1GTEC19R1TE"
+    }
+]

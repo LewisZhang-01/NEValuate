@@ -1,0 +1,112 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "04/14/1999",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 705636,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "MAXIMA",
+                "productYear": "1983",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AFTER CHECKING THE RECALL SECTION ON THE NHTSA WEB PAGE AND FINDING NO RECALLS FOR THIS PARTICULAR MODEL, I DECIDED TO LOOK AT THE CONSUMER COMPLAINTS AND FOUND A SIMILAR PROBLEM AND NOTED IN THE TEXT OF OFFICE OF DEFECTS INVESTIGATIONS ID # 808550 A RECALL #95I000600, AT WHICH TIME I CALLED THE HOTLINE AND WAS TOLD THAT IN SPITE OF HAVING A RECALL # , THAT THERE WERE NO RECALLS FOR THIS PARTICULAR MODEL. MY QUESTION IS, HOW CAN THERE BE A RECALL # IF THERE IS NO RECALL?   *MJS",
+        "vin": "JN1HU01S4DT"
+    },
+    {
+        "components": "STEERING,SUSPENSION,ENGINE AND ENGINE COOLING,FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "08/17/1997",
+        "dateOfIncident": "07/01/1994",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 522667,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "MAXIMA",
+                "productYear": "1983",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "RACK AND PINION STEERING FAILED TWICE. IN ADDITION, FUEL INJECTORS LEAKED, CAUSING HEAVY FUMES AND LOSS OF POWER/ FRONT RIGHT BALL JOINT FAILED, CAUSING VEHICLE TO SHIMMY, AND ENGINE COOLING SYSTEM FAN MALFUNCTIONED.  *AK",
+        "vin": "JN1HU01S8DT"
+    },
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "02/03/1997",
+        "dateOfIncident": "01/01/1997",
+        "fire": true,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 808550,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "MAXIMA",
+                "productYear": "1983",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE FUEL INJECTION IS LEAKING FUEL ONTO THE ENGINE COMPARMENT,  CAUSING A FIRE HAZARD RECALL #95I000600.   *AK",
+        "vin": "JN1HUO15S8D"
+    },
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "04/15/1996",
+        "dateOfIncident": "04/21/1995",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 503540,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "MAXIMA",
+                "productYear": "1983",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUEL INJECTORS LEAK. *DSH",
+        "vin": "JN1HU0150DT"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "03/05/1996",
+        "dateOfIncident": "09/12/1995",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 490472,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "MAXIMA",
+                "productYear": "1983",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "INTERMITTENT STALLING. *SD",
+        "vin": ""
+    }
+]

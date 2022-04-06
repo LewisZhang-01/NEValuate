@@ -1,0 +1,24 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "07/18/2019",
+        "dateOfIncident": "02/01/2019",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11233164,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "ACADIA",
+                "productYear": "2017",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SHIFT TO PARK NOT RECOGNIZED WHEN VEHICLE STATIONARY IN PARK.  VEHICLE WILL NOT TURN OFF OR LOCK DURING THIS TIME.",
+        "vin": "1GKKNVLS8HZ"
+    }
+]

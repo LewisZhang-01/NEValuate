@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "05/22/2003",
+        "dateOfIncident": "04/04/2003",
+        "fire": true,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019104,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "AVENGER",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE CAUGHT FIRE WHILE DRIVING.  FIRE LOCATED ON LEFT SIDE OF ENGINE COMPARTMENT NEAR LEFT FRONT CORNER OF VEHICLE.  POSSIBLE BATTERY POWER CABLE SHORT TO GROUND AT BATTERY MOUNT PLATE UNDER BATTERY.  *NLM",
+        "vin": "4B3AU52N6YE"
+    }
+]

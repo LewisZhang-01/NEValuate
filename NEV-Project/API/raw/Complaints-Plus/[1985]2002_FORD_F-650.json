@@ -1,0 +1,68 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,EXTERIOR LIGHTING,SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "11/12/2015",
+        "dateOfIncident": "11/11/2015",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10790063,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-650",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN IT RAINS OUT IT MAY START ON ITS OWN TURN LIGHTS ON SITTING IN THE DRIVEWAY IN THE MIDDLE OF THE NIGHT WAS THE FIRST TIME IT ALWAYS STARTS WHILE SITTING TOLD THERE WAS A PROBLEM  WITH WATER GETTING IN GEM MODUEL.",
+        "vin": "3FDNF65232M"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC,POWER TRAIN,EXTERIOR LIGHTING",
+        "crash": false,
+        "dateComplaintFiled": "10/01/2003",
+        "dateOfIncident": "06/28/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10037793,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-650",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE HYDRAULIC UNIT SLAVE CYLINDER WHEN PUSHING INTO THE CLUTCH DISENGAGED,  WHICH CAUSED THE  VEHICLE TO ACCELERATE SIMULTANEOUSLY.   *AK   FLUID LEAKED OUT OF THE MASTER CYLINDER AND WAS REMOVED AND REPLACED.   *SCC  ALSO THE TAIL LIGHT WAS REPLACED *JB",
+        "vin": "3FDNF65H22M"
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "07/07/2003",
+        "dateOfIncident": "07/03/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10025548,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-650",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CLUTCH PEDAL STUCK AT FLOOR. @ 3,548 MILES ON TRUCK. INSTALLED DRIVE LINE AND ORDERED CLUTCH PEDAL SPRING (108T REPLACED CLUTCH MASTER ASSM AND RECALL SPG. ADJ. CLUTCH). 33,071 MILES NOTE ON OIL CHANGE INVOICE CLUTCH RETURN SPRING AT TRANS BROKE NEED REPAIR ASAP ALSO U-JOINT CLIP OFF NEED REPAIR, RELEASED BY RON MCMILLON. CLUTCH PEDAL STUCK TO FLOOR AT 43,954 AND TOLD NOT UNDER WARRANTY, CLUTCH SHIELDS WORN.*AK",
+        "vin": "3FDNF65422M"
+    }
+]

@@ -1,0 +1,76 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "04/09/2009",
+        "dateOfIncident": "01/29/2009",
+        "fire": false,
+        "manufacturer": "Gulf Stream Coach, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10264846,
+        "products": [
+            {
+                "manufacturer": "Gulf Stream Coach, Inc.",
+                "productMake": "GULF STREAM",
+                "productModel": "VISTA CRUISER",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 2005 GULF STREAM VISTA CRUISER RV.  WHILE DRIVING AT AN UNKNOWN SPEED, THE REAR PASSENGER PANEL FELL OFF THE VEHICLE WITHOUT WARNING.  THE DEALER STATED THAT THE PART FOR THE REPAIR WAS ON BACKORDER.  THE MANUFACTURER DID NOT ASSIST.  THE FAILURE AND CURRENT MILEAGES WERE 18,000.",
+        "vin": "WD2PD744545"
+    },
+    {
+        "components": "POWER TRAIN,STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "10/26/2006",
+        "dateOfIncident": "10/26/2006",
+        "fire": false,
+        "manufacturer": "Gulf Stream Coach, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10171874,
+        "products": [
+            {
+                "manufacturer": "Gulf Stream Coach, Inc.",
+                "productMake": "GULF STREAM",
+                "productModel": "VISTA CRUISER",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DT*: THE CONTACT STATED WHILE DRIVING VARIOUS SPEEDS ON THE HIGHWAY, THERE WAS A PRONOUNCED VIBRATION COMING FROM UNDER THE RV.  THE RV WAS INSPECTED BY A DEALER WHO DETERMINED THE DRIVESHAFT ANGLES WERE MANUFACTURED INCORRECTLY AND WAS EXCEEDING THE GROSS VEHICLE WEIGHT.  THE DEALER DETERMINED THE FRAME NEEDED TO BE LENGTHENED IN ORDER TO STABILIZE THE OVERLOAD AND THE VIBRATION.  THE MANUFACTURER WAS NOT ALERTED.    UPDATED 11/30/2006 - *NM",
+        "vin": "1GBE541E95F"
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "10/06/2005",
+        "dateOfIncident": "09/25/2005",
+        "fire": false,
+        "manufacturer": "Gulf Stream Coach, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10138906,
+        "products": [
+            {
+                "manufacturer": "Gulf Stream Coach, Inc.",
+                "productMake": "GULF STREAM",
+                "productModel": "VISTA CRUISER",
+                "productYear": "2005",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "MICHELIN TIRE CORP.",
+                "productMake": "MICHELIN",
+                "productModel": "RADIAL X",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "DT:   CONTACT STATED  THREE VALVE STEMS FAILED.  THE FIRST ONE WAS THE RIGHT REAR. IT WAS PUSHED OVER TO THE SIDE. THE OTHER TWO FAILED WHILE THE CONTACT WAS DRIVING AT 65 MPH, AND WITHOUT WARNING, BOTH THE LEFT REAR AND THE RIGHT FRONT FAILED. HE WAS ABLE TO GET VEHICLE OFF THE ROAD. AAA CAME AND CHANGED THE TIRES THAT WERE FLAT. AALSO,  AND CHANGED THE STEMS ON THE OTHER TWO TIRES. DEALER AND MANUFACTURER HAVE NOT BEEN CONTACTED YET. MICHELIN,  TIRE SIZE LT225/75R16 . *AK",
+        "vin": "WD2PD744845"
+    }
+]

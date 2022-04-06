@@ -1,0 +1,24 @@
+[
+    {
+        "components": "INTERIOR LIGHTING,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "02/17/2003",
+        "dateOfIncident": "01/05/1999",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10007622,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "TOWN AND COUNTRY",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "RADIO DOES NOT RECEIVE FM STATIONS, INTERIOR LIGHTS INTERMITTENTLY CAME ON WITH DOOR OPENING",
+        "vin": "1C4GP64LXTB"
+    }
+]

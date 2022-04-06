@@ -1,0 +1,24 @@
+[
+    {
+        "components": "WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "02/14/2003",
+        "dateOfIncident": "02/14/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10007502,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TAURUS",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE WHEEL HUB RETAINER WAS DEFECTIVE ON THE FRONT AND REAR WHEEL.  WHICH COULD CAUSE THE WHEEL TO SEPARATE FROM THE VEHICLE. *JB",
+        "vin": "1FAFP53U22G"
+    }
+]

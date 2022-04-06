@@ -1,0 +1,926 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "07/25/2006",
+        "dateOfIncident": "01/01/1901",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10164744,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER WOULD LIKE INFORMATION REGARDING A 1986 FORD RANGER SHE SOLD TO HER SON. *KB",
+        "vin": ""
+    },
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "05/17/2003",
+        "dateOfIncident": "05/15/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018848,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVER'S SIDE SEAT BELT DOES NOT LATCH PROPERLY.     *JB",
+        "vin": ""
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "12/06/2002",
+        "dateOfIncident": "01/01/1991",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 770524,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CATASTROPHIC SHUTDOWN AT ANY SPEED, ENGINE STOPS RUNNING.  DT",
+        "vin": "1FTCR14T8GP"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING,ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "06/12/2002",
+        "dateOfIncident": "06/09/2002",
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 8011622,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE STALLED WHILE DRIVING. ALSO,  SAW FLAMES COMING FROM UNDER THE DASH. VEHICLE WAS TOTALLED.*AK",
+        "vin": "ADD"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "03/29/2001",
+        "dateOfIncident": "06/11/1998",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 884632,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "IGNITION SWITCH WOULD STICK. WOULD SHORT OUT EVERTHING CONNECTED TO IT. HAD EVERYTHING RELATED TO  IGNITION SWITCH & WIRING REPLACED DUE TO BEING BURNED.*AK",
+        "vin": "1FTCR14A9GP"
+    },
+    {
+        "components": "STEERING,SUSPENSION,SERVICE BRAKES, HYDRAULIC,ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "03/16/2001",
+        "dateOfIncident": null,
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 883288,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "IGNITION HAS SHORTED OUT 3 TIMES. DEFECT KEEPS REOCCURRING.* AK CONSUMER STATES HAS NOW HAPPENED  4 TIMES, IGNITION FAILED TO DISENGAGE STARTER SOLENOID AFTER RELEASING BATTERY, CAUSED OVER HEATING OF STARTER, SHORTED TEMP GUAGE, RADIO, AND PANEL, INDICATOR LIGHTS, BUT DID NOT BLOW FUSES AS IT DID JUNE 11,2000.  IT CAUSED BOTH FUEL PUMPS TO SHORT OUT, THE HIGH PRESSURE PUMP APPEARED TO HAVE WELDED MARKS ON OUTSIDE CASING OF PUMP, WHEN PURCHASED DEALER STATED NO DEFECTS BUT HAD JUST COME OUT OF FORD'S SHOP, HOOD HAS MARK OF COMPULSION AND MELTED PAINT ON TOP HOOD, CROSS MEMBER IS ISDE HOOD HAS OUTSIDE SHEET METAL, ALSO SHORTED ALTERNATOR ALONG WITH STARTER, STARTER SOLENOID JUNE 1998 IT APPEARS THE SHORT STARTED IN THE THROTTLE POSITION SENSOR THEN WENT TO THE INJECTOR HARNESS, CONSUMER HAS REPORTED TO MANUFACTURER CONSUMER ALSO HAD FRONT BRAKES REPLACED AS WELLS AS TIE ROD END AND WHEEL BALANCED AND TIRES ROTATED.*JB",
+        "vin": "1FTCR14A9GP"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "10/17/2000",
+        "dateOfIncident": "08/24/2000",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 734558,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NO SUMMARY LISTED FOR ABOVE VEHICLE.  *AK",
+        "vin": "1FTCR1OAZGU"
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "09/23/2000",
+        "dateOfIncident": "02/28/2000",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 732319,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ON 2/25/2000 I BOUGHT THESE TIRES AT SEARS AUTO CENTER IN FINDLAY OHIO. THEY HAVE NOT MAINTAINED THE CORRECT AIR PRESURE. I HAVE TO PUT AIR IN THEM EVERY OTHER DAY . THEY ARE NOT SAFE TO DRIVE ON BECAUSE THEY ARE CONSTANTLY LOOSING AIR PRESSURE. I HAVE BEEN BACK TO SEARS ON 4/21/2000,6/14/2000,7/10/2000 AND THEY SAID THEY WOULD TAKE A LOOK AT THEM AND EACH TIME THE TIRES CONTINUED TO LOOSE AIR PRESURE. ON 9/22/2000 I WENT TO SEARS AGAIN AND THEY SAID THEY WOULD LOOK AT THE TIRES. I SAID THAT YOU HAVE ALREADY LOOKED AT THEM 4 TIMES AND THEY CONTINUE TO LEAK AND I WANTED TO KNOW WHAT THEY WERE GOING TO DO ABOUT IT. THEY ASKED ME WHAT KIND OF TIRES THEY WERE AND I TOLD THEM FIRESTONE RESPONSE. THEY SAID THAT FIRESTONE IS RECALLING ALL OF THEIR TIRES AND THAT I SHOULD CONTACT FIRESTONE MYSELF. I CHECKED ON THE FIRESTONE WEB SIGHT AND THESE TIRES ARE NOT INCLUDED IN THE RECALL. NONE THE LESS THEY ARE DEFECTIVE AND UNSAFE. I NEED SOME HELP AT GETTING THESE TIRES REPLACED BEFORE THEY CAUSE AN ACCIDENT. SEARS WONT STAND BEHIND THEM AND THEY AREN'T IN THE RECALL. PLEASE HELP!!!!! SINCERELY NEAL MACKEDANZ NEALMACPAC@AOL.COM.  *AK( DOT NUMBER:   TIRE SIZE: P19575S14 )",
+        "vin": ""
+    },
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "07/20/2000",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 725706,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "GAS TANKS WILLNOT FILL PROPERLY AND LEAKS. *AK",
+        "vin": ""
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC,ENGINE AND ENGINE COOLING,POWER TRAIN,VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "09/30/1999",
+        "dateOfIncident": "01/01/1999",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 849387,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ABS SYSTEM IS WORKING INTERMITTENTLY. ALSO,  SUN ROOF DOESN'T WORK, AND WATER PUMP HAD TO BE REPLACED.  IN ADDITION,  VEHICLE IS SHIFTING HARD.  *AK",
+        "vin": ""
+    },
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "09/15/1998",
+        "dateOfIncident": "08/26/1998",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 540029,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SEAT BELT BUCKLE FAILED TO RELEASE.",
+        "vin": "1FTCR14A2GP"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "08/18/1998",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 539035,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENGINE FAILS INTERMITTENTLY.",
+        "vin": ""
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "07/30/1998",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 826062,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING VEHICLE  STALLS AND ENGINE DIES OUT FOR NO REASON. CAUSE UNKNOWN. *AK",
+        "vin": "1FTBR10CGUA"
+    },
+    {
+        "components": "WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "07/14/1998",
+        "dateOfIncident": "06/08/1998",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 825365,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "STUDS ON TIRES KEEP COMING LOOSE, CAUSING THE TIRE TO SEPARATE FROM THE WHEELS. THEY HAVE BEEN REPLACED AT LEAST 4 TIMES BY THE TIRE COMPANY. HAS NOT TAKEN VEHICLE TO DEALERSHIP AS OF YET. *AK",
+        "vin": "PLEASE FILL"
+    },
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "02/05/1998",
+        "dateOfIncident": "10/10/1997",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 821172,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE DRIVER'S SIDE SEAT BELT DOES NOT LATCH. THE SPRING IN THE BUCKLE IS BROKEN. THE PROBLEM HAS NOT BEEN CORRECTED.   *AK",
+        "vin": "1FTBR10A8GU"
+    },
+    {
+        "components": "SEAT BELTS",
+        "crash": true,
+        "dateComplaintFiled": "06/16/1997",
+        "dateOfIncident": "02/17/1997",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 813154,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING AT 40 MPH AND SEAT BELTED, THE DEFECTIVE DRIVER'S SIDE SEAT BELT BECAME UNLATCHED, CAUSING THE OCCUPANT TO BE THROWN OUT AND RAN OVER BY THE VEHICLE.  *AK",
+        "vin": ""
+    },
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "12/12/1996",
+        "dateOfIncident": "10/11/1995",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 512055,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "LEAK IN EITHER THE RUBBER FUEL LINES OR HIGH PRESSURE POWER STEERING HOSES ROUTED ALONG THE LEFT SIDE OF THE V-6 MOTOR.",
+        "vin": "1FTBR10TXGU"
+    },
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "12/12/1996",
+        "dateOfIncident": "10/11/1995",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 512055,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FIRE--RESULTED FROM A LEAK IN EITHER THE RUBBER FUEL LINES OR HIGH PRESSURE POWER STEERING HOSES ROUTED ALONG THE LEFT SIDE OF THE V6 MOTOR.",
+        "vin": "1FTBR10TXGU"
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "11/13/1996",
+        "dateOfIncident": "07/21/1995",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 511339,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "REVERSE GEAR THRUST WASHER BROKE, CAUSING REVERSE AND OVERDRIVE GEARS TO CLASH, TRANSMISSION TO FREEZE, LOCKING UP TIRES.",
+        "vin": "1FTCR11A9GU"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "08/01/1996",
+        "dateOfIncident": "01/11/1996",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 507010,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "IGNITION MODULE AND STARTER ASSEMBLY FAILED CAUSING STALLING.",
+        "vin": "1FTBR1OT5GU"
+    },
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "08/01/1996",
+        "dateOfIncident": "12/29/1995",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 507010,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUEL PUMP AND SENDER ASSEMBLY FAILED.",
+        "vin": "1FTBR1OT5GU"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "05/23/1996",
+        "dateOfIncident": "05/23/1996",
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 504676,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE PARKED IN DRIVEWAY, UPON STARTING, FIRE BROKE OUT IN THE IGNITION SWITCH AREA DUE TO AN ELECTRICAL SHORT.   *AK",
+        "vin": ""
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "05/01/1996",
+        "dateOfIncident": null,
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 983987,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AFTER PARKING, SHORT WHILE LATER NOTICED SMOKE COMING FROM STEERING COLUMN, THEN FLAMES SHOT OUT OF IGNITION SWITCH WHILE PUSHING DOWN DRIVE WAY.   *AK",
+        "vin": "1FTCR14A8GP"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "05/01/1996",
+        "dateOfIncident": null,
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 983987,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AFTER PARKING, SHORT WHILE LATER NOTICED SMOKE COMING FROM STEERING COLUMN, THEN FLAMES SHOT OUT OF IGNITION SWITCH WHILE PUSHING DOWN DRIVE WAY.   *AK",
+        "vin": "1FTCR14A8GP"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "04/29/1996",
+        "dateOfIncident": null,
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 983844,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AFTER BEING PARKED FOR APPROX. 10 HOUR, FOUND VEHICLE ENGULFED IN FLAMES, FIRE DEPT WAS EXTINQUISHING, AND MADE NO DETERMINATION AS TO WHY IT STARTED.   *AK",
+        "vin": ""
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "04/29/1996",
+        "dateOfIncident": null,
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 983844,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AFTER BEING PARKED FOR APPROX. 10 HOUR, FOUND VEHICLE ENGULFED IN FLAMES, FIRE DEPT WAS EXTINQUISHING, AND MADE NO DETERMINATION AS TO WHY IT STARTED.   *AK",
+        "vin": ""
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "04/26/1996",
+        "dateOfIncident": null,
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 983648,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE SITTING A WEEK OR SO, HORN STARTED BLOWING THEN SMOKED. BATTERY HAD TO BE DISCONNECTED TO STOP FIRE FROM SPREADING FURTHER. PLEASE DESCRIBE DETAILS.   *AK",
+        "vin": ""
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "04/22/1996",
+        "dateOfIncident": "10/05/1995",
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 983197,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "HORN STARTED BLOWING AND THE LIGHT CAME ON, THEN FIRE STARTED IN THE IGNITION SWITCH.   *AK",
+        "vin": "1FTCR15T1GP"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "04/19/1996",
+        "dateOfIncident": "09/25/1995",
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 983142,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ELECTRICAL SHORT OR SHOCK IN THE IGNITION SWITCH, CAUSING THE VEHICLE TO CATCH ON FIRE.   *AK",
+        "vin": ""
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "03/05/1996",
+        "dateOfIncident": null,
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 980163,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AFTER STARTING THE VEHICLE, THE IGNITION SWITCH CAUGHT ON FIRE.  PLEASE DESCRIBE.   *AK",
+        "vin": "2FTCR15T6GP"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "03/05/1996",
+        "dateOfIncident": null,
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 980163,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AFTER STARTING THE VEHICLE, THE IGNITION SWITCH CAUGHT ON FIRE.  PLEASE DESCRIBE.   *AK",
+        "vin": "2FTCR15T6GP"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "03/01/1996",
+        "dateOfIncident": "02/23/1996",
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 979982,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER DROVE TRUCK PARKED IT AND IT CAUGHT ON FIRE.* AK  THE FIRE CENTERED ON THE LEFT TOPOF THE ENGINE NEAR THE FUEL LINES, ALSO EXTENSICE DAMAGE TO THE WIRING HARNESS ON THE LEFT, FIRWALL OCCURED AT THE WIRING HARNESS WAS MELTED.*JB",
+        "vin": "1FTCR14T6GP"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "03/01/1996",
+        "dateOfIncident": "02/23/1996",
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 979982,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER DROVE TRUCK PARKED IT AND IT CAUGHT ON FIRE. PLEASE DESCRIBE .    *AK",
+        "vin": ""
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "02/09/1996",
+        "dateOfIncident": "02/09/1996",
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 501402,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "IGNITION SWITCH FIRE. *SD",
+        "vin": ""
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "11/17/1995",
+        "dateOfIncident": "10/30/1995",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 975207,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN DRIVING AND TRYING TO CHANGE SPEED THE ENGINE COLLAPSED.  TT  CONSUMER STATES DEALER WOULD TRY TO CORRECT JERKING AND STALLING PROBLEMS BY REPLACING THE EGR VALVE, HOWEVER THIS DID NOT CORRECT THE PROBLEM, CONSUMER FOUND TSB 87-16-19 REGARDING THIS PROBLEM WITH THE FAULTY EEC UNIT.   *SLC",
+        "vin": "1FTCR15T2GP"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "11/06/1995",
+        "dateOfIncident": "09/02/1995",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 500238,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKES LOCK UP OCCASIONALLY, CAUSING VEHICLE TO SKID OR HYDROPLANE ON WET ROADS. *DSH",
+        "vin": "1FTCR14T16P"
+    },
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "08/28/1995",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 971107,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE DRIVER SIDE SEAT BELT BUCKLE WHEN DRIVING THE SEAT BELT BUCKLE CAME LOOSE .  TT",
+        "vin": "1FTCR15T2GP"
+    },
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "08/09/1995",
+        "dateOfIncident": "08/01/1995",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 970072,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVER'S SHOULDER/LAP BELT COMES UNFASTENED WHILE DRIVING CAUSING DRIVER RIDE UNRESTRAINED.  TT",
+        "vin": ""
+    },
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "06/28/1995",
+        "dateOfIncident": "06/28/1995",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 967859,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BOTH FRONT SEAT BELT RETRACTORS DON'T RETRACT BACK RIGHT, IT IS SLOW.     *AK",
+        "vin": "1FTCR10T5GU"
+    },
+    {
+        "components": "WHEELS",
+        "crash": true,
+        "dateComplaintFiled": "04/13/1995",
+        "dateOfIncident": "04/13/1995",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 486211,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "LEFT REAR WHEEL CAME OFF, CAUSING VEHICLE TO LOSE CONTROL/SPIN, RESULTING IN AN ACCIDENT (OHIO STATE POLICE ACCIDENT REPORT.  *AK",
+        "vin": ""
+    },
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "02/09/1995",
+        "dateOfIncident": "02/01/1995",
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 959827,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "UNDER THE HOOD FIRE,FUEL PRESSURE REGULATOR LEAKED FUEL ONTO EXHAUST MANIFOLD CAUSING A FIRE.  TT",
+        "vin": ""
+    },
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "07/06/1994",
+        "dateOfIncident": "06/17/1994",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 471751,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "STEERING LINKAGE COMPLETELY SEPARATED FROM THE PIVOT ARM OF THE STEERING BOX. *SD",
+        "vin": "1FTBR10T9GU"
+    }
+]

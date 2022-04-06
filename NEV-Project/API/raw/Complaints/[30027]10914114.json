@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "10/05/2016",
+        "dateOfIncident": "10/01/2016",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10914114,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "ESCAPE HYBRID",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WENT TO DRIVE THE VEHICLE ONE MORNING TO FIND THAT THE STEERING WHEEL WAS TIGHT AND HARD TO TURN. DASH DISPLAYED WRENCH SYMBOL INDICATING MAINTENANCE NEEDED AND NARRATIVE THAT POWER STEERING NEEDS SERVICE.",
+        "vin": "1FMYU96H86K"
+    }
+]

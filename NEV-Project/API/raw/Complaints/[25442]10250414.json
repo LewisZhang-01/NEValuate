@@ -1,0 +1,31 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "12/01/2008",
+        "dateOfIncident": "02/01/2004",
+        "fire": false,
+        "manufacturer": "UNKNOWN MANUFACTURER",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10250414,
+        "products": [
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "ONAN, INC.",
+                "productMake": "ONAN",
+                "productModel": "ONAN",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "ADDING OIL TO GENERATOR THEN STARTED GENERATOR AS IT WAS WARMING UP SMOKE STARTED  COMING OUT OF THE GENERATOR.*TR",
+        "vin": ""
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "07/26/2021",
+        "dateOfIncident": "07/12/2021",
+        "fire": false,
+        "manufacturer": "Grand Design RV, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11426518,
+        "products": [
+            {
+                "manufacturer": "Grand Design RV, LLC",
+                "productMake": "GRAND DESIGN",
+                "productModel": "IMAGINE",
+                "productYear": "2021",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Crossmember connecting the rear of the Hitch A-frame is starting to buckle inward.  From the research done, this is the first step in the complete failure of the A-frame.  We just recently purchased the 2021 RV from a private seller and noticed the slight bend in crossmember but didnt think anything of it.  After a 1500 mile trip the bend is much more pronounced.  This is when I started to research to see if this was more prevalent in this model, which seems to be the case.  Contacted frame builder (Lippert) and started the claim process with them and Grand Design as well.",
+        "vin": "573TE2523M3"
+    },
+    {
+        "components": "SUSPENSION,STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "07/18/2021",
+        "dateOfIncident": "07/15/2021",
+        "fire": false,
+        "manufacturer": "Grand Design RV, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11425375,
+        "products": [
+            {
+                "manufacturer": "Grand Design RV, LLC",
+                "productMake": "GRAND DESIGN",
+                "productModel": "IMAGINE",
+                "productYear": "2021",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "We were driving and went through a dip in the road and the whole front end of the A- Frame bent/buckled. We have not had any problems with this in the past, but it is a brand new trailer and we are learning it has happened to a few others all Grand Design XLS series. We wonder if the steel used is not of top quality and is too thin.",
+        "vin": "573te2521m3"
+    },
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "07/13/2021",
+        "dateOfIncident": "07/12/2021",
+        "fire": false,
+        "manufacturer": "Grand Design RV, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11424664,
+        "products": [
+            {
+                "manufacturer": "Grand Design RV, LLC",
+                "productMake": "GRAND DESIGN",
+                "productModel": "IMAGINE",
+                "productYear": "2021",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact owns a 2021 Grand Design Imagine. The contact received notification of NHTSA campaign number: 21V393000 (Equipment). The contact reached out to the local dealer and was informed that the earliest available appointment to service the recall would not be until October. The contact also attempted to reach the manufacturer but was unsuccessful. The contact stated that the manufacturer had exceeded a reasonable amount of time for the repair. The contact had not experienced the failure. Parts distribution disconnect.",
+        "vin": "573te2222m3"
+    }
+]

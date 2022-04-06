@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "02/21/2011",
+        "dateOfIncident": "02/21/2011",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10383914,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "TITAN",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "REAR DIFFERENTIAL FAILURE AT 37,350 MILES ON A 2005 NISSAN TITAN.  FRONT DIFFERENTIAL FAILED AT 37,000 MILES.  *TR",
+        "vin": "1N6AA07B35N"
+    }
+]

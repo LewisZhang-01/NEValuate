@@ -1,0 +1,90 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "08/08/2002",
+        "dateOfIncident": "08/01/2002",
+        "fire": false,
+        "manufacturer": "PEUGEOT, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 8015900,
+        "products": [
+            {
+                "manufacturer": "PEUGEOT, INC.",
+                "productMake": "PEUGEOT",
+                "productModel": "405",
+                "productYear": "1989",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BOTH DRIVER AND PASSENGER SAFETY BELTS DO NOT RETRACT WHEN PULLED FROM HOUSING.  *AK  THE CONSUMER STATES THAT THE SEAT BELT'S HAVEN'T BEEN WORKING SINCE THE PURCHASE OF THE VEHICLE.  THE CONSUMER HAS TRIED SEVERAL TIMES TO HAVE THEM REPAIRED.  THERE WAS A RECALL IN 1996 IN WHICH SHE THOUGHT THEY WOULD REMEDY THE PROBLEM.  THE CONSUMER WOULD LIKE THE EFFECTIVENESS OF THIS RECALL, AND SAID THAT THE ONLY REASON SHE NOTICED THE PROBLEM WHEN PLACING AN INFANT CAR SEAT IN THE PASSENGER SEAT.  *SCC",
+        "vin": "VF3DA122XKS"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "10/20/1999",
+        "dateOfIncident": "10/05/1999",
+        "fire": true,
+        "manufacturer": "PEUGEOT, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 851238,
+        "products": [
+            {
+                "manufacturer": "PEUGEOT, INC.",
+                "productMake": "PEUGEOT",
+                "productModel": "405",
+                "productYear": "1989",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "UNDERHOOD FIRE BROKE OUT, TOTALLING THE VEHICLE.  PLEASE PROVIDE FURTHER DETAILS.  *AK",
+        "vin": "VS3DA12B4K5"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "03/02/1999",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "PEUGEOT, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 703929,
+        "products": [
+            {
+                "manufacturer": "PEUGEOT, INC.",
+                "productMake": "PEUGEOT",
+                "productModel": "405",
+                "productYear": "1989",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I PURCHASED THIS USED VEHICLE FROM A PRIVATE PARTY IN NEW JERSEY. WHEN I FILED THE FORMS TO GET A NEW HAMPSHIRE TITLE, IT WAS DISCOVERED THAT THE VEHICLE HAD BEEN SALVAGED (WHICH EXPLAINS WHY I HAD SO MANY SUBSEQUENT PROBLEMS). DO I HAVE ANY LEGAL RECOURSE SINCE THE OWNER NEVER DISCLOSED THIS INFORMATION? PLEASE REFER ME TO THE APPROPRIATE ORGANIZATION. I AM CURRENTLY STATIONED OUT OF THE COUNTRY SO EMAIL CONTACTS ARE BEST. THANK YOU! L_PICCOLO@HOTMAIL.COM",
+        "vin": "VF3DA1225KS"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "03/19/1996",
+        "dateOfIncident": "09/07/1995",
+        "fire": true,
+        "manufacturer": "PEUGEOT, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 502964,
+        "products": [
+            {
+                "manufacturer": "PEUGEOT, INC.",
+                "productMake": "PEUGEOT",
+                "productModel": "405",
+                "productYear": "1989",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENGINE FIRE. *DSH",
+        "vin": "JF3DA12B5KS"
+    }
+]

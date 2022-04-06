@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "11/09/2015",
+        "dateOfIncident": "11/07/2015",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10789414,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "RENDEZVOUS",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENGINE STOPS WORKING WITH LOSS OF ALL CONTROL, BATTERY TURNS OVER BUT VEHICLE WILL NOT START.  WHEN I PRESS ON ACCELERATOR THE CAR WILL START BUT WHEN I STOP AT THE STOP LIGHT THE CAR WILL STOP.  I AM AFRAID TO DRIVE IT IN HIGHWAY.  .",
+        "vin": "3G5DA03E34S"
+    }
+]

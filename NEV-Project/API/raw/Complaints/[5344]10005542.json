@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": true,
+        "dateComplaintFiled": "02/09/2003",
+        "dateOfIncident": "02/09/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005542,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ANTILOCK SYSTEM ACTIVATED WITHOUT CAUSE AND DISABLED THE BRAKING SYSTEM. THIS HAPPENED ON DRY PAVEMENT AT SPEEDS BELOW 30 MPH WHEN COMING TO A NORMAL STOP. THIS HAPPENED TODAY AND ALMOST EVERYTIME I DARE TO DRIVE THE TRUCK.",
+        "vin": "2GCEK19V5Y1"
+    }
+]

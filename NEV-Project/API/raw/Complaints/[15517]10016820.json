@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "05/01/2003",
+        "dateOfIncident": "03/25/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10016820,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "OLDSMOBILE",
+                "productModel": "ALERO",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "1999 OLDS ALERO 3.4L; STOPPED AT TRAFFIC LIGHT, AT IDLE IN DRIVE, SPEEDOMETER PEGGED TO 140MPH, AND HELD FOR ~10 SEC.  UPON CHANING OF THE LIGHT, I TRIED TO ACCELERATE, AND THROTTLE WAS NOT AVAILABLE, SIMILAR TO WHAT OCCURS WHEN THE SPEED LIMITER IS EXCEEDED.  THE CONDITION OCCURED FOR AN ADDITIONAL 10 SECONDS, THEN RETURNED TO NORMAL SPEED REPORTING AND ENGINE OPERATION.  NO SES LIGHT NOT TRACTION CONTROL ALRET WERE WITNESSED DURING THE EVENT.  SUBSEQUENT READING OF THE ECM TROUBLE CODES SHOWS NO 'SNAPSHOT' DATA OF AN IMPENDING FAULT.",
+        "vin": ""
+    }
+]

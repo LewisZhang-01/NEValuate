@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "03/01/2011",
+        "dateOfIncident": "02/27/2011",
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10386131,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "FLHR",
+                "productYear": "2004",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Pirelli Tire, LLC",
+                "productMake": "METZELER",
+                "productModel": "ME 880 MARATHON",
+                "productYear": "9999",
+                "size": "140/90B16 M/CTL 77H REINF",
+                "type": "Tire"
+            }
+        ],
+        "summary": "METZLER 140/90 B16 ME 880 MARATHON TIRE REAR TIRE ON HD ROAD KING, 2'X2' CHUNKS OF TIRE COMPLETELY SEPARATING LEAVING BALD SPOTS ON TIRE AND BASE OF TIRE SEPARATING FROM SIDEWALL.  FRONT TIRE METZLER 130/90 16 IS SHOWING SIGNS OF CRACKING BUT STILL IN TACT.  TIRES HAVE ABOUT 2500 MILES.  *TR",
+        "vin": ""
+    }
+]

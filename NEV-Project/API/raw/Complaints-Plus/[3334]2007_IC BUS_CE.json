@@ -1,0 +1,244 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "02/17/2020",
+        "dateOfIncident": "10/02/2019",
+        "fire": false,
+        "manufacturer": "IC CORPORATION",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11309611,
+        "products": [
+            {
+                "manufacturer": "IC CORPORATION",
+                "productMake": "IC BUS",
+                "productModel": "CE",
+                "productYear": "2007",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENGINE FAILED DUE TO LOST COMPRESSION DURING A SCHOOL ROUTE.",
+        "vin": "4DRBUAAN37A"
+    },
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "02/17/2020",
+        "dateOfIncident": "11/14/2019",
+        "fire": false,
+        "manufacturer": "Navistar, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11309623,
+        "products": [
+            {
+                "manufacturer": "Navistar, Inc.",
+                "productMake": "IC BUS",
+                "productModel": "CE",
+                "productYear": "2007",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENGINE FAILED DUE TO LOST COMPRESSION DURING A SCHOOL ROUTE.",
+        "vin": "4DRBUAAN37A"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "09/11/2008",
+        "dateOfIncident": "09/02/2008",
+        "fire": false,
+        "manufacturer": "IC CORPORATION",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10241818,
+        "products": [
+            {
+                "manufacturer": "IC CORPORATION",
+                "productMake": "IC BUS",
+                "productModel": "CE",
+                "productYear": "2007",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2007 INTERNATIONAL CE SCHOOL BUS #19: MERITOR/WABCO BRAKE SYSTEMS. THE DRIVER OF THIS BUS WAS APPROACHING A STOP SIGN. ACCORDING TO THE DRIVER'S ESTIMATES, HE WAS GOING 15 MPH WHEN THE BRAKES SUDDENLY LOCKED UP TIGHT. THE DRIVER THEN CALLED IN STATING THE BRAKES WERE LOCKED UP AND THAT HE WAS UNABLE TO RELEASE THE PARKING BRAKE. THE FIRST THING WE DID WAS TRANSFER THOSE KIDS ONTO ANOTHER BUS THAT HAPPENED TO BE DRIVING BY. ASSUMING THIS WAS THE SAME PROBLEM THE OTHER CE BUSSES HAVE HAD WITH THE PARKING BRAKES, WE WENT OUT AND CUT THE SHORT CABLE TO GET THE VEHICLE OUT OF THE BUSY INTERSECTION. I CUT THE CABLE WHILE MY ASSISTANT MECHANIC JUMPED IN THE BUS TO PULL IT AWAY. WHILE ATTEMPTING TO PULL AWAY, HE WAS ABOUT HALFWAY INTO THE INTERSECTION WHEN THE BRAKES AGAIN LOCKED UP WITHOUT HIM TOUCHING THE BRAKE PEDAL. THE SHORT CABLE WAS CUT, SO THIS MEANT THE SERVICE BRAKE SYSTEM WAS CAUSING THIS TO HAPPEN. WE SLOWLY DROVE THE BUS ABOUT 500 FEET TO GET IT OFF THE ROAD AND PARKED IT. IN THAT 500 OR SO FEET, THE BRAKES LOCKED UP 5-6 MORE TIMES. I CALLED UP A TOW TRUCK COMPANY AND HAD THEM HAUL IT TO THE DEALERSHIP. THEY WERE UNABLE TO DUPLICATE THE PROBLEM. TO MAKE A VERY LONG STORY SHORT, MERITOR SAID THE LACK OF A TROUBLE CODE IN THE SERVICE BRAKE OR PARK BRAKE SYSTEM INDICATES THAT THE PROBLEM WAS PROBABLY (THEY'RE NOT SURE) DUE TO A CORRODED TONE RING ON A REAR ROTOR. DUE TO THE CORROSION, THE COMPUTER DID NOT PICK UP A WHEEL SPEED READING. THIS ACTIVATED THE TRACTION CONTROL SYSTEM WHICH APPLIED BRAKE PRESSURE TO THE OPPOSITE WHEEL (WHICH IS WHAT LOCKED UP THE BRAKES) IN AN ATTEMPT TO APPLY TORQUE TO THE WHEEL THAT WASN'T GETTING A WHEEL SPEED READING. THEIR SUGGESTION WAS TO REPLACE THE ROTORS (AT MY COST) TO THE PERFORMANCE FRICTION BRAND WITH THE ANTI-CORROSION TONE RING. WE HAVE DEALT WITH CORRODED ROTORS BEFORE. IT'S A VERY COMMON PROBLEM. THE QUESTION IS, WHAT HAPPENS TO THE NEXT BUS WHEN THE BRAKES APPLY UNEXPECTEDLY WITH VEHICLES BEHIND IT? *TR",
+        "vin": "4DRBUAAP97B"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "06/07/2007",
+        "dateOfIncident": "05/17/2007",
+        "fire": false,
+        "manufacturer": "IC CORPORATION",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10192658,
+        "products": [
+            {
+                "manufacturer": "IC CORPORATION",
+                "productMake": "IC BUS",
+                "productModel": "CE",
+                "productYear": "2007",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SUDDEN LOSS OF ENGINE POWER ON A SCHOOL BUS",
+        "vin": "4DRBUAAN77B"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "06/07/2007",
+        "dateOfIncident": "05/16/2007",
+        "fire": false,
+        "manufacturer": "IC CORPORATION",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10192663,
+        "products": [
+            {
+                "manufacturer": "IC CORPORATION",
+                "productMake": "IC BUS",
+                "productModel": "CE",
+                "productYear": "2007",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SUDDEN LOSS OF POWER ON A SCHOOL BUS",
+        "vin": "4DRBUAAN97B"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "05/16/2007",
+        "dateOfIncident": "05/02/2007",
+        "fire": false,
+        "manufacturer": "IC CORPORATION",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10190909,
+        "products": [
+            {
+                "manufacturer": "IC CORPORATION",
+                "productMake": "IC BUS",
+                "productModel": "CE",
+                "productYear": "2007",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SUDDEN LOSS OF ENGINE POWER ON A SCHOOL BUS.  *AK",
+        "vin": "4DRBUAAL07B"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "03/28/2007",
+        "dateOfIncident": "03/19/2007",
+        "fire": false,
+        "manufacturer": "IC CORPORATION",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10186401,
+        "products": [
+            {
+                "manufacturer": "IC CORPORATION",
+                "productMake": "IC BUS",
+                "productModel": "CE",
+                "productYear": "2007",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SUDDEN LOSS OF ENGINE POWER ON A SCHOOL BUS. *JB",
+        "vin": "4DRBUAAN57B"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "02/27/2007",
+        "dateOfIncident": "02/07/2007",
+        "fire": false,
+        "manufacturer": "IC CORPORATION",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10183645,
+        "products": [
+            {
+                "manufacturer": "IC CORPORATION",
+                "productMake": "IC BUS",
+                "productModel": "CE",
+                "productYear": "2007",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SUDDEN LOSS OF POWER ON A SCHOOL BUS. *JB",
+        "vin": "4DRBUAAN17B"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "02/12/2007",
+        "dateOfIncident": "01/17/2007",
+        "fire": false,
+        "manufacturer": "IC CORPORATION",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10182301,
+        "products": [
+            {
+                "manufacturer": "IC CORPORATION",
+                "productMake": "IC BUS",
+                "productModel": "CE",
+                "productYear": "2007",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SUDDEN LOSS OF ENGINE POWER.  *NM",
+        "vin": "4DRBUAANX7B"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "01/26/2007",
+        "dateOfIncident": "01/03/2007",
+        "fire": false,
+        "manufacturer": "IC CORPORATION",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10180785,
+        "products": [
+            {
+                "manufacturer": "IC CORPORATION",
+                "productMake": "IC BUS",
+                "productModel": "CE",
+                "productYear": "2007",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SUDDEN LOSS OF ENGINE POWER. *JB",
+        "vin": "4DRBUAAL47B"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "01/26/2007",
+        "dateOfIncident": "12/18/2006",
+        "fire": false,
+        "manufacturer": "IC CORPORATION",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10180783,
+        "products": [
+            {
+                "manufacturer": "IC CORPORATION",
+                "productMake": "IC BUS",
+                "productModel": "CE",
+                "productYear": "2007",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SUDDEN LOSS OF ENGINE POWER. *JB",
+        "vin": "4DRBUAAN37B"
+    }
+]

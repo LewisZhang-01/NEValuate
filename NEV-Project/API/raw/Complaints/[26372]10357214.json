@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": true,
+        "dateComplaintFiled": "09/23/2010",
+        "dateOfIncident": "03/27/2010",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 2,
+        "odiNumber": 10357214,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "MAXIMA",
+                "productYear": "2005",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "B.F. GOODRICH TIRE CO.",
+                "productMake": "B.F.GOODRICH",
+                "productModel": "TA ADVANTANGE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 2005 NISSAN MAXIMA WITH B.F. GOODRICH TIRES, SIZE 225/55/R17, DOT #VE00AE111109. WHILE TRAVELING 60 MPH THE FRONT DRIVER SIDE TIRE SUDDENLY EXPLODED CAUSING THE CONTACT TO CRASH INTO THE MEDIAN AND ROLLOVER. THE CONTACT INJURED HER RIBS, BACK , AND FINGERS DURING THE CRASH. A POLICE REPORT WAS FILED. THE TIRE FAILURE WAS NOT DIAGNOSED. THERE WERE NO PRIOR WARNINGS. UPDATED 12/23/10*LJ  THE PASSENGER WAS ALSO INJURED. UPDATED 04/04/11",
+        "vin": "1N4BA41EX5C"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,ENGINE,FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "07/17/2018",
+        "dateOfIncident": "06/08/2018",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11112035,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "EXPRESS 2500",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "PMD  PUMP MOUNTED DRIVER FAILURE HAS HAPPENED SEVERAL TIMES, MADE BY STANADYNE,",
+        "vin": "1GCGK24FXWE"
+    },
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "03/09/2015",
+        "dateOfIncident": "03/07/2015",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10693053,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "EXPRESS 2500",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I OPENED THE PASSENGER SIDE DOOR OF MY VEHICLE AND LEANED INTO THE VAN TO START MY VEHICLE. THE MIDDLE OF MY BACK WAS TOUCHING THE BAR ABOVE THE AIRBAG COMPARTMENT WHEN THE AIRBAG WENT OFF DIRECTLY INTO BY BACK. MY VEHICLE HAD NOT BEEN STARTED YET, NOR HAD IT BEEN IN AN ACCIDENT, IT WAS PARKED IN MY DRIVEWAY ON MY PROPERTY.  *TR",
+        "vin": "1GCFG25M5W1"
+    },
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "03/02/2013",
+        "dateOfIncident": "02/10/2010",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10501071,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "EXPRESS 2500",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "HYDRAULIC BRAKE LINES FAILED WHILE IN A PARKING LOT. DRIVING ABOUT 20 MPH, APPLIED THE BRAKES AND PEDAL WENT TO THE FLOOR. HELD BRAKE PEDAL TO THE FLOOR AND THE VEHICLE EVENTUALLY STOPPED. HAD VEHICLE TOWED TO A LOCAL REPAIR SHOP AND MECHANIC STATED STEEL BRAKE LINE TO LEFT FRONT WHEEL HAD BROKEN DUE TO CORROSION. I HAD ALL STEEL BRAKE LINES REPLACED. SEVERAL OTHER LINES WERE ALSO BADLY CORRODED.  *TR",
+        "vin": "1GBGG25R9W1"
+    }
+]

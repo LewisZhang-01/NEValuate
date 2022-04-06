@@ -1,0 +1,54 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "04/03/2022",
+        "dateOfIncident": "04/02/2022",
+        "fire": false,
+        "manufacturer": "Keystone RV Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11459460,
+        "products": [
+            {
+                "manufacturer": "Keystone RV Company",
+                "productMake": "KEYSTONE",
+                "productModel": "COUGAR",
+                "productYear": "2021",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Spontaneous increase in propane supply levels causing heating equipment to overheat.  No inspection has taken place because manufacturer cites lack of replacement parts for warranty replacement.",
+        "vin": "4YDT25028MT"
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/05/2021",
+        "dateOfIncident": "12/06/2020",
+        "fire": false,
+        "manufacturer": "Keystone RV Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11386578,
+        "products": [
+            {
+                "manufacturer": "Keystone RV Company",
+                "productMake": "KEYSTONE",
+                "productModel": "COUGAR",
+                "productYear": "2021",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "TBC Corporation",
+                "productMake": "TRAILER KING",
+                "productModel": "ST RADIAL",
+                "productYear": "9999",
+                "size": "ST 235/80/R16",
+                "type": "Tire"
+            }
+        ],
+        "summary": "I BOUGHT THIS KEYSTONE TRAILER NEW IN AUGUST OF 2020. THE TIRES ONLY HAD 400 MILES OF USE BEFORE THIS TRIP. I EQUIPPED MY TRAILER WITH TIRE MINDER SYSTEM TO MONITOR TIRE PRESSURE AND TEMPERATURE. THERE WAS NO WARNING OF TIRE FAILURE. THE TIRE JUST EXPLODED AND CAME APART. DAMAGING MY TRAILER.",
+        "vin": "4YDT22R26MV"
+    }
+]

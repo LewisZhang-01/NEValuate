@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "04/18/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017181,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SR5",
+                "productYear": "1989",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Bridgestone Americas Tire Operations",
+                "productMake": "BRIDGESTONE",
+                "productModel": "DESSERT DUELER",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "VEHICLE'S TIRES WERE DISBONDING WITHIN THE PLY IN THE RUBBER WHICH HAS CAUSED BUBBLES TO FORM IN TIRE (TIRE INFO:  BRIDGESTONE, DESERT DUELER AT691, 31X10.5R15, REPLACEMENT TIRES EVEN WEAR ON ALL TIRES 41K ON TIRE).  *NLM....*AK",
+        "vin": ""
+    }
+]

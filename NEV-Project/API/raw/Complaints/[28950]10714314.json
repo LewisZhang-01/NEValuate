@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "05/04/2015",
+        "dateOfIncident": "04/02/2015",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10714314,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EDGE",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVER SIDE DOOR AJAR SENSOR BAD.  NO MATTER HOW HARD YOU SLAM THE DRIVERS DOOR, THE SENSOR GIVES A DASH WARNING LIGHT THAT DRIVER DOOR IS AJAR.  *TR",
+        "vin": "2FMDK4JC9DB"
+    }
+]

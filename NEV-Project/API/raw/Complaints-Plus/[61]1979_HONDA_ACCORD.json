@@ -1,0 +1,68 @@
+[
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": true,
+        "dateComplaintFiled": "03/29/2001",
+        "dateOfIncident": "03/26/1999",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 743269,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "ACCORD",
+                "productYear": "1979",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SEVERE CRASH DUE TO SPEED WOBBLE. KNOW OF OTHER HAVING SAME PROBLEM SAME MOTORCYCLE. *AK",
+        "vin": "GL14111731"
+    },
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "05/10/1998",
+        "dateOfIncident": "04/01/1998",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 535389,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "ACCORD",
+                "productYear": "1979",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SEAT BELTS BROKE DURING ACCIDENT, RESULTING IN HEAD INJURY.",
+        "vin": ""
+    },
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "05/10/1998",
+        "dateOfIncident": "04/01/1998",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 535389,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "ACCORD",
+                "productYear": "1979",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SEAT BELTS BROKE DURING ACCIDENT, RESULTING IN HEAD INJURY.",
+        "vin": ""
+    }
+]

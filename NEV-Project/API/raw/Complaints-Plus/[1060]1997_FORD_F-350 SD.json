@@ -1,0 +1,68 @@
+[
+    {
+        "components": "WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "01/31/2011",
+        "dateOfIncident": "01/21/2011",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10379639,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350 SD",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 1997 FORD F-350 SUPERDUTY. THE CONTACT STATED THAT WHILE DRIVING 25 MPH, THE FRONT PASSENGER WHEEL BROKE IN HALF. THE VEHICLE WAS TAKEN TO A LOCAL REPAIR SHOP WHO STATED THAT THE WHEEL WAS DEFECTIVE. THE CONTACT CALLED THE MANUFACTURER WHO OFFERED NO ASSISTANCE. THE VEHICLE WAS REPAIRED. THE FAILURE MILEAGE WAS 65,850 AND THE CURRENT MILEAGE WAS 66,070. UPDATED 03/07/11*LJ   UPDATED 12/20/11 *CN",
+        "vin": "1FTHF36FXVE"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "09/11/2008",
+        "dateOfIncident": "09/10/2008",
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10241811,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350 SD",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FORD F-350 DIESEL DUALLY CAUGHT ON FIRE UNDER THE HOOD WHILE SITTING IN A PARKING LOT. THE VEHICLE WAS JUST FINISHED BEING DRIVEN. THE ENGINE WAS SHUT OFF AND THE KEY WAS REMOVED FROM THE IGNITION. THE FIRE DEPT CAME AND EXTINGUISHED THE FIRE. VEHICLE IS A TOTAL LOSS. INSURANCE WILL NOT COVER THE LOSS. IS FORD RESPONSIBLE FOR COVERING THE LOSS? *TR",
+        "vin": "1FTJW35F8VE"
+    },
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "10/13/2007",
+        "dateOfIncident": "09/05/2007",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10205566,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350 SD",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "RECEIVED RECALL NOTICE FROM FORD FOR DEFECTIVE SPEED CONTROL DEACTIVATION SWITCH. LOCAL DEALERSHIPS HAVE NO PARTS TO CORRECT THE PROBLEM.  *JB",
+        "vin": "3FCLF53G5VJ"
+    }
+]

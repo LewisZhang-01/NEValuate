@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "04/01/2003",
+        "dateOfIncident": "10/26/2000",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015032,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERCURY",
+                "productModel": "SABLE",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NAR 04/01/2003. THE SPEED SENSOR HAS BEEN REPLACED 5 TIMES WITHIN 6 YEARS.  WHEN THE SPEED SENSOR FAILED, IT CAUSED THE SPEEDOMETER NEEDLE TO GO TO ZERO WHILE THE VEHICLE WAS STILL MOVING.  THE GEARS CHANGED RANDOMLY AND THE STEERING BECAME DIFFICULT. *JB",
+        "vin": "1MELM50UXVA"
+    }
+]

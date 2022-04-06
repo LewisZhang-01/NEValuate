@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "01/29/2003",
+        "dateOfIncident": "01/29/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005902,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "LUMINA APV",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "COLLIDED HEAD-ON INTO A TREE AND THE DRIVER'S SIDE AIR BAG DID NOT DEPLOY.   PH",
+        "vin": ""
+    }
+]

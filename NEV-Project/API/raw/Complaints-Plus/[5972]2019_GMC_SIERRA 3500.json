@@ -1,0 +1,90 @@
+[
+    {
+        "components": "EXTERIOR LIGHTING",
+        "crash": false,
+        "dateComplaintFiled": "02/26/2022",
+        "dateOfIncident": "02/25/2022",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11454246,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA 3500",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Intermittent issue with entire dash lights and radio lights going either fully out/off or extremely dark. Adjusting dimmer does not correct the issue. Affects driver safety due to acute driver distraction while trying to correct, and disables driver warning lights and all information systems, including towing related warnings (transmission temp/coolant temp, etc)  Dealer advises to bring it back when it is occurring, but occurrences are not predictable, nor do they occur on a regular basis.   Cause is unknown, but since dimmer switch does not correct this issue, it is the probable cause.",
+        "vin": "1GT42WEY5KF"
+    },
+    {
+        "components": "POWER TRAIN,VEHICLE SPEED CONTROL,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "10/25/2021",
+        "dateOfIncident": "10/23/2021",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11438064,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA 3500",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "While towing our trailer, truck went into reduced power mode, regen message displayed; check engine light came on; loud bag occurred and hissing from under the hood. Truck slowed to 3 mph so we pulled to shoulder and turned the vehicle off. Truck had blown the hose off the the turbo. We reclamped and restarted. Displayed check engine light, reduced power & regen message to keep driving however truck wouldn\u2019t go over a 3mph crawl. Truck lost all power, everything shut down and wouldn\u2019t restart. No dash lights, no error, no crank, no power. We were dead on the highway in the truck lane while towing.   This Truck goes into reduced power mode every time it tries to regen and we have had it to the dealer multiple times however, the problem continues to get worse. When it does regen, sometimes it takes hours. Dealer says needed a manual regen & that is their solution. Yet problem persists.",
+        "vin": "1GT42WEY4KF"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "06/23/2021",
+        "dateOfIncident": "04/01/2021",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11421959,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA 3500",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact owns a 2019 GMC Sierra 3500. The contact stated that while operating the vehicle with the air conditioner on and blowing air the occupants had experienced an acid/chemical burning sensation to the eyes and throat. The failure was intermittent and had affected multiple occupants. The vehicle was taken to the local dealer who was unable to duplicate the failure and no service was performed. The manufacturer was also contacted. The failure mileage was 27,000.",
+        "vin": "1GT42WEY1KF"
+    },
+    {
+        "components": "STEERING,ELECTRICAL SYSTEM,SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "01/28/2021",
+        "dateOfIncident": "01/28/2021",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11390458,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA 3500",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVING TO WORK.  POWER STEERING WENT OUT AND BRAKING SYSTEM SEEM TO BE INEFFECTIVE.  INSTRUMENT PANEL SERVICE LIGHT CAME ON WITH THE BATTERY INDICATOR DISPLAYING \"BATTERY CHARGING SYSTEM\" FAULT.",
+        "vin": "1GT42WEY5KF"
+    }
+]

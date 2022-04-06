@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": true,
+        "dateComplaintFiled": "01/19/2003",
+        "dateOfIncident": "01/10/2002",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10002960,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "ACCORD",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "MICHELIN TIRE CORP.",
+                "productMake": "MICHELIN",
+                "productModel": "ALL SEASON RADIAL",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "INTERSTATE HIGHWAY CLEAR,DRY ROAD CONDITIONS IN LIGHT TRAFFIC CONDITIONS.  VEHICLE BECOMES UNSTABLE, BEGINS TO SWERVE. ATTEMPTS TO CONTROL & CORRECT HAVE NO EFFECT. VEHICLE'S FRONT LEFT IMPACTS CENTER \"JERSEY BARRIER\" SENDING THE CAR INTO A COUNTER-CLOCKWISE SPIN AGAINST THE \"JERSEY BARRIER\". NY WIFE SUFFERED SPINAL FRACTURES, BROKEN NOSE, BRUISED RIBS.......1 WEEK HOSPITALIZATION AND 3 WEEKS REHABILITATVE THERAPY.  INJURY TO HER SPINE IS PERMANENT. STATE POLICE INDICATED AT LEAST ONE FRONT TIRE BLEW-OUT CAUSING THE ACCIDENT. NONE OF THE AIR BAGS DEPLOYED.  VEHICLE PURCHASED NEW IN OCTOBER 2001.",
+        "vin": "1HGCG16542A"
+    }
+]

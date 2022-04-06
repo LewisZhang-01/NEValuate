@@ -1,0 +1,24 @@
+[
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "01/08/2003",
+        "dateOfIncident": "11/07/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002352,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "ENVOY",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN VEHICLE IS AT A 1/4 TANK OR LESS, AND GAS IS APPLIED, VEHICLE WILL NOT ACCELERATE.  THE DEALERSHIP REPLACED THE MAIN COMPUTER CHIP. PLEASE PROVIDE MORE DETAILS. TS",
+        "vin": "1GKDT13S722"
+    }
+]

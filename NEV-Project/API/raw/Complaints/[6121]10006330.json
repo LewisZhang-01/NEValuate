@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "02/04/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10006330,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "CARAVAN",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE RUBBER THAT SEALS THE TAILGATE AND BLOCKS CARBON DIOXIDE FROM ENTERING THE VEHICLE SEPARATED. THIS RESULTED IN CARBON DIOXIDE ENTERING THE VEHICLE AND THE DRIVER SUSTAINED CARBON DIOXIDE POISONING.  *PH   *NLM",
+        "vin": "1B4GH443XPX"
+    }
+]

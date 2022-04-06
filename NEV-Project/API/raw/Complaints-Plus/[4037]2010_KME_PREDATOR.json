@@ -1,0 +1,68 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "03/18/2016",
+        "dateOfIncident": "06/07/2013",
+        "fire": false,
+        "manufacturer": "Kovatch Mobile Equipment Corp.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10850348,
+        "products": [
+            {
+                "manufacturer": "Kovatch Mobile Equipment Corp.",
+                "productMake": "KME",
+                "productModel": "PREDATOR",
+                "productYear": "2010",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CABIN DOOR CAN POP OPEN UNEXPECTEDLY BECAUSE OF FAULTY DOOR LATCH.",
+        "vin": "1K9AF4284BN"
+    },
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "03/16/2016",
+        "dateOfIncident": "06/27/2014",
+        "fire": false,
+        "manufacturer": "Kovatch Mobile Equipment Corp.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10849908,
+        "products": [
+            {
+                "manufacturer": "Kovatch Mobile Equipment Corp.",
+                "productMake": "KME",
+                "productModel": "PREDATOR",
+                "productYear": "2010",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CABIN DOOR LATCHES COME OPEN WITHOUT WARNING.  THE MIDDLE THRU BOLT FOR THE LATCH LOOSENS, CAUSING EXCESSIVE WEAR AND LOOSENING OF THE LATCH MECHANISM, AND ALSO CAUSING THE LATCH TO FAIL TO SECURE THE DOOR.",
+        "vin": "1K9AF483EN0"
+    },
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "03/14/2016",
+        "dateOfIncident": "03/14/2016",
+        "fire": false,
+        "manufacturer": "Kovatch Mobile Equipment Corp.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10849575,
+        "products": [
+            {
+                "manufacturer": "Kovatch Mobile Equipment Corp.",
+                "productMake": "KME",
+                "productModel": "PREDATOR",
+                "productYear": "2010",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DOOR OPENS WITHOUT WARNING FROM FAILURE OF LATCH MECHANISM TO SECURELY HOLD THE DOOR SHUT.  THE THRU BOLT LOOSENS ON ITS OWN.",
+        "vin": "1K9AF4286BN"
+    }
+]

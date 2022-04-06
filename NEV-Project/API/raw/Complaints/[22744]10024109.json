@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES,TRAILER HITCHES",
+        "crash": false,
+        "dateComplaintFiled": "07/11/2003",
+        "dateOfIncident": "06/16/2003",
+        "fire": false,
+        "manufacturer": "Jayco, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10024109,
+        "products": [
+            {
+                "manufacturer": "Jayco, Inc.",
+                "productMake": "JAYCO",
+                "productModel": "JAYCO",
+                "productYear": "9999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "MARATHON",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHILE TRAVELING ON THE HIGHWAY, THE RECREATIONAL VEHICLE RAN OVER AN OBJECT AND DAMAGE A TIRE. ON THE SECOND OCCURRENCE, WHEN THE CONSUMER MADE A TURN, THE BEAD BECAME LOOSE FROM THE RIM   *AK (JAYCO DESIGNER LEGACY 2003)*TS   *JB",
+        "vin": ""
+    }
+]

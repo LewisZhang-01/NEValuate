@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "04/12/2003",
+        "dateOfIncident": "04/04/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10014311,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAMARO",
+                "productYear": "1991",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "1991 CHEVROLET CAMARO RS 5 V8 305 SPEED,90K MILES WILL NOT HOLD IDLE, STALLS, RUNS ROUGH. REPLACED PLUGS, FILTERS. REPLACED IAC MOTOR. MECHANIC UNHOOKED ECM COMPUTER AND CAR RUNS GOOD. WILL REPLACE ECM.   *NLM",
+        "vin": "11111111111"
+    }
+]

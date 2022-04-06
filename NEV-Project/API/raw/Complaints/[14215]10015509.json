@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "04/09/2003",
+        "dateOfIncident": "03/24/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10015509,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE DRIVER'S SIDE SEAT BELT BROKE WHEN THE VEHICLE WAS INVOLVED IN A HEAD ON COLLISION AT 25 MPH.  AS A RESULT THE DRIVER IMPACTED STEERING WHEEL.  *NLM",
+        "vin": "1FTEF15YXNN"
+    }
+]

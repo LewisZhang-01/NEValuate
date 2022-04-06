@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "01/18/2003",
+        "dateOfIncident": "08/19/2002",
+        "fire": false,
+        "manufacturer": "Subaru of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002897,
+        "products": [
+            {
+                "manufacturer": "Subaru of America, Inc.",
+                "productMake": "SUBARU",
+                "productModel": "OUTBACK",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "REAR HEADRESTS DO NOT LOCK INTO UPRIGHT AND DOWN POSITIONS BECAUSE THE METAL SLEEVE  INSIDE SEAT SLIPS OVER TIME. HAPPENED EVEN AFTER BEING FIXED ONCE BY DEALER.",
+        "vin": "4S3BH806817"
+    }
+]

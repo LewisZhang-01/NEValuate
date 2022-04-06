@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": true,
+        "dateComplaintFiled": "10/14/2000",
+        "dateOfIncident": "10/09/1999",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10006987,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "1997",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE STEEL PROD. CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "FIRESTONE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "VEHICLE WAS OPERATED BELOW SPEED LIMIT WHEN IT STARTED TO SHIMMY AND SHAKE VIOLENTLY CAUSING OPERATOR TO LOSE CONTROL.  VEHICLE WANTED TO GO TOWARDS THE RIGHT AND WOULD NOT RESPOND TO OPERATOR'S ATTEMPTS TO STEER TOWARDS THE  LEFT.  VEHICLE ABRUPTLY RESPONDED TOWARDS THE LEFT, DIPPED DOWN ON THE PASSENGER SIDE FRONT AND ROLLED OVER HITTING N EMBANKMENT CAUSING IT TO FLIP UP ON IT'S WHEELS (RIGHT SIDE UP).  POLICE AND INSURANCE ADJUSTER NOTICED SHREDDED AND MANGLED TIRES ON THE PASSENGER SIDE OF THE VEHICLE, BUT HAD NO EXPLANATION.  I NOW REALIZE THE CAUSE OF THE CRASH/ROLLOVER MUST BE THE FIRESTONE TIRES.  I NO LONGER HAVE POSSESSION OF THE VEHICLE OR TIRES, AS THE VEHICLE WAS TOTALED AND TAKEN BY INSURANCE COMPANY.   *NLM    **DIMSII IVOQ ENTRY POSTED AFTER 12/12/02 CUT-OVER TO ARTEMIS*734298",
+        "vin": "1FMCU24E2VU"
+    }
+]

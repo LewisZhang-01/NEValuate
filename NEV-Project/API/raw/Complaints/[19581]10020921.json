@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/02/2003",
+        "dateOfIncident": "05/31/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020921,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "1999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "MICHELIN TIRE CORP.",
+                "productMake": "MICHELIN",
+                "productModel": "LTXA 115",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "ON SATURDAY MAY 31, 2003, MY WIFE AND I WERE ON OUR WAY TO TUCSON, AZ FROM SAN DIEGO, CA IN SEPARATE VEHICLES.  WE WERE IN ARIZONA ON INTERSTATE 8 TRAVELLING EASTBOUND, 23 MILES WEST OF CASA GRANDE.  THE SPEED LIMIT WAS 75 AND THAT IS WHAT MY WIFE WAS DOING.  THE AIR TEMPERATUREOUND 100 DEGREES.  ALL FOUR MICHELIN LTXAMS 255 70 R 16 TIRES WERE PROPERLY INFLATED.  THE RIGHT REAR TIRE COMPLETELY BLEW OUT.  THE OUTSIDE SIDEWALL COMPLETELY SEPARATED FROM THE TIRE AT THE SHOULDER.  THESE TIRES ARE TWO YEARS OLD AND HADLESS THAN 20000 MILES ON THEM. *AK",
+        "vin": "1FMZU32E0XZ"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "04/14/2003",
+        "dateOfIncident": "04/14/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015810,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F150",
+                "productYear": "1989",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE FUSE BOX MELTED OVER THE BATTERY CABLE, WHICH ALMOST CAUSED A FIRE.   *JB",
+        "vin": ""
+    }
+]

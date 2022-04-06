@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "02/25/2022",
+        "dateOfIncident": "02/01/2022",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11454041,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "PILOT",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact owns a 2022 Honda Pilot. The contact stated while driving at various speeds, the braking system would erroneously activate causing the vehicle to abruptly reduce speed. Additionally, while operating the vehicle, the brake lights would randomly flash on and off. The cause of the failure was not yet determined. The manufacturer and local dealer were not notified of the failure. The VIN was not available. The failure mileage was 1,000.",
+        "vin": ""
+    }
+]

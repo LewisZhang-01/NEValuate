@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "10/26/2015",
+        "dateOfIncident": "10/23/2015",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10785914,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "EQUINOX",
+                "productYear": "2008",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2008 CHEVROLET EQUINOX. THE CONTACT STATED THAT THE ENGINE STALLED WITHOUT WARNING WHILE DRIVING AT 30 MPH. THE VEHICLE WAS TOWED TO THE CONTACT'S RESIDENCE. THE CONTACT REPLACED THE BATTERY; HOWEVER, THE FAILURE WAS NOT CORRECTED. THE MANUFACTURER WAS NOT NOTIFIED OF THE FAILURE. THE FAILURE MILEAGE WAS 66,000.",
+        "vin": "2CNDL23F286"
+    }
+]

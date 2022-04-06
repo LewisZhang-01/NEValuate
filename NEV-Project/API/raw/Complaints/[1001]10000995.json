@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "01/13/2003",
+        "dateOfIncident": "12/31/2002",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000995,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "RAM QUAD CAB",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "RACK & PINION STEERING LEAKS AND VERY HARD TO TURN WHEN VEHICLE IS COLD, HAS BEEN REPLACED TWICE AND STILL A PROBLEM, ALSO SEVERE CORROSION OF FRONT BUMPER, IS ORDERED AND WILL BE REPLACED.",
+        "vin": "3B7HA18N32G"
+    }
+]

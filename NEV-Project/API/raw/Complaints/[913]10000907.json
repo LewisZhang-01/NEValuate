@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": true,
+        "dateComplaintFiled": "01/10/2003",
+        "dateOfIncident": "10/31/2002",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 1,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000907,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "TUNDRA",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CAB SEPARATED FROM CHASSIS.  CAB IS ATTACHED TO CHASSIS AT 4 FLANGES WELDED TO FRAME.  2 EACH 10 MM BOLTS CONNECT CAB TO EACH FLANGE.  A 71 MM HOLE EXISTS IN FLANGE BETWEEN THE 2 EACH 13 MM HOLES FOR THE 10 MM BOLTS.  ONLY 6 MM OF FLANGE STEEL EXISTS BETWEEN 13 MM HOLES AND 71 MM HOLE.  CAB SEPARATED BY TEARING 10 MM BOLT NUTS THROUGH THE 13 MM HOLES AT THE 6 MM DIMENSION.  IT HAS BEEN MY EXPERIENCE IN AIRCRAFT STRUCTUREAL REPAIR THAT THE MINIMUM DIMENSION FOR HOLE SPACING IS 3 HOLE DIAMETERS (I.E., HOLE SPACING SHOULD HAVE BEEN APPROXIMATELY 30 MM INSTEAD OF 6 MM).",
+        "vin": "5TBBT48112S"
+    }
+]

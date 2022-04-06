@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "01/23/2003",
+        "dateOfIncident": "06/01/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003307,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "LESABRE",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "POWER STEERING LEAK, DEALER REPLACED UNIT, BUT I HAD TO PAY A $100 CO-PAY UNDER THE EXTENDED WARRANTY PLAN.",
+        "vin": "1G4HP54K0Y4"
+    }
+]

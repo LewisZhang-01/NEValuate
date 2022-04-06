@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "04/04/2017",
+        "dateOfIncident": "02/01/2017",
+        "fire": false,
+        "manufacturer": "Gillig, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10970574,
+        "products": [
+            {
+                "manufacturer": "Gillig, LLC",
+                "productMake": "GILLIG",
+                "productModel": "LOW FLOOR",
+                "productYear": "2016",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Michelin North America, Inc.",
+                "productMake": "MICHELIN",
+                "productModel": "XZU3 LRJ",
+                "productYear": "9999",
+                "size": "305/85R22.5",
+                "type": "Tire"
+            }
+        ],
+        "summary": "MICHELIN 305/85R22.5 XZU3 (J) SAME FAILURES THAT CAUSED THE VOLUNTARY RECALL OF 2012.  ALL REMAINING PRODUCTION DATES AFTER THE RECALL (2011-WEEK 45 AND FORWARD).   BEAD PLY SEPARATION AFTER 100,000 MILES.  TIRES ARE BLOWING OUT FROM THE BEAD ON BUSES.  MICHELIN REPRESENTATIVES  HAVE ACKNOWLEDGED THAT THERE IS A PROBLEM AND INSTRUCTED US TO REMOVE ALL 2011 (POST RECALL) /2012 / 2013 TIRES FROM FLEET.  THIS IS DEFINITELY A SAFETY ISSUE.",
+        "vin": ""
+    }
+]

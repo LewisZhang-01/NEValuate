@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC,AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "05/15/2003",
+        "dateOfIncident": "08/25/2003",
+        "fire": false,
+        "manufacturer": "Mazda Motor Corp.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10019418,
+        "products": [
+            {
+                "manufacturer": "Mazda Motor Corp.",
+                "productMake": "MAZDA",
+                "productModel": "PROTEGE",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DUE TO COMPLETE BRAKE FAILURE, THE VEHICLE HIT A STEEL POLE AND DAMAGED THE FRONT SUSPENSION.  THE DRIVER AND PASSENGER AIR BAGS DID NOT DEPLOY.  MR  SCC *JB",
+        "vin": "JU1BJ2221X0"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "01/14/2003",
+        "dateOfIncident": "01/07/2003",
+        "fire": false,
+        "manufacturer": "Mercedes-Benz USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10002676,
+        "products": [
+            {
+                "manufacturer": "Mercedes-Benz USA, LLC",
+                "productMake": "MERCEDES BENZ",
+                "productModel": "240",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVER'S AIRBAG DID NOT DEPLOY - FRONT END COLLISION AT A SPEED OF BETWEEN 40 AND 45 MILES PER HOUR.  CAR HAS BEEN DETERMINED TO BE TOTALLED.",
+        "vin": "WDBRF61J92F"
+    }
+]

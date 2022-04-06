@@ -1,0 +1,46 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "03/01/2017",
+        "dateOfIncident": "02/28/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10957952,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-450 SD",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ONE PEACE REAR WINDOW BLEW OUT DID NOT BREAK CAME OUT AROUND GASKET.WAS PARKED WHEN I NOTICED WET SETS AND FLOOR .POSSIBLE HAZARD WHILE MOVE DOWN THE ROAD.NO REASON FOR DISLOGING",
+        "vin": "1FT8W4DT2DE"
+    },
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "01/07/2016",
+        "dateOfIncident": "12/23/2015",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10818765,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-450 SD",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "RADIATOR LEAK AT 43,000 FROM THE JOINT BETWEEN THE PLASTIC END CAP AND ALUMINUM CORE, DRIVER'S SIDE NEAR BUMPER.  COST TO REPAIR ESTIMATED AT 1400-1800$ AT ONLY 7K MILES OUTSIDE OF FACTORY WARRANTY.  VEHICLE IS USED DAILY WITHIN RECOMMENDED WEIGHT CAPACITIES TO MOVE MATERIALS AND TRAILERS, BUT FOLLOWS A VERY STRICT MAINTENANCE PROGRAM TO ENSURE LONG LIFE.",
+        "vin": "1FDUF4GT7DE"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "02/01/2022",
+        "dateOfIncident": "01/18/2022",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11449736,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SEQUOIA",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact owns a 2022 Toyota Sequoia. The contact received a recall notification for NHTSA Campaign Number: 21V920000 (Steering). The contact stated that the manufacturer had exceeded a reasonable amount of time for the recall repair. The manufacturer was notified of the issue. The part was not available for repair. The contact had not experienced a failure. Parts distribution disconnect.",
+        "vin": "5TDAY5B16NS"
+    }
+]

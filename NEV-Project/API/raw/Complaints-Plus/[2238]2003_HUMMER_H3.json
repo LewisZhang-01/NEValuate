@@ -1,0 +1,46 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "08/01/2017",
+        "dateOfIncident": "06/04/2017",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11012047,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "HUMMER",
+                "productModel": "H3",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE DASH CLUSTER IS NOT WORKING NO GAUGES OR SPEED ODOMETER",
+        "vin": "5GRGN23U03H"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM,VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "11/29/2012",
+        "dateOfIncident": "11/21/2012",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10486487,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "HUMMER",
+                "productModel": "H3",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "HEATER RELAY GONE 2 TIMES.  *TR",
+        "vin": ""
+    }
+]

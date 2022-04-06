@@ -1,0 +1,90 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "02/23/2004",
+        "dateOfIncident": "02/17/2004",
+        "fire": false,
+        "manufacturer": "PACCAR Incorporated",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10058755,
+        "products": [
+            {
+                "manufacturer": "PACCAR Incorporated",
+                "productMake": "KENWORTH",
+                "productModel": "T800",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "RECENTLY ONE OF MY TRACTORS EQUIPPED WITH A CATEPILLAR ENGINE HAD A MAJOR ENGINE FAILURE WHICH CAUSED MY DRIVER TO MAKE AN EMERGENCY STOP ALONG A FREEWAY IN COLORADO. I WAS INFORMED THE CRANKSHAFT HAD BROKEN.   BY MISTAKE A NOTICE SENT BY CATERPILLAR NAMED \"CONFIDENTIAL\" WAS LEFT ON A COUNTER WHICH I HAPPENED TO PICK UP AND READ. IT STATED TRUCKS WITH THIS PARTICULAR ENGINE STARTING WITH A CERTAIN SERIAL NO. AND ENDING WITH ANOTHER SERIAL NO. HAD THIS TYPE OF ENGINE FAILURE, BROKEN CRANKSHAFT, WOULD BE HANDLED ACCORDING TO THE MILEAGE ON THAT TRUCK. IT ALSO STATED NO REPAIR WAS TO BE ADMINISTERED UNTIL THE CRANKSHAFT FAILED. THE NUMBER OF ENGINES INVOLVED ACCORDING TO THE SERIAL NO. WAS APPROXIMATELY 20,000.  AFTER READING THEIR BULLETIN IT WAS APPARENT TO ME CATERPILLAR KNEW THEY HAD A FLAW IN THESE CRANK SHAFTS AND INSTEAD OF RECALLING AND REPLACING THESE CRANKSHAFTS THEY WOULD PREFER TO TAKE A CHANCE AND REPLACE, ACCORDING TO  THE MILEAGE AT FAILURE, THE FAILED COMPONET. AT ISSUE HERE IS THE TIME AND PLACE THIS ENGINE FAILURE TAKES PLACE. IN OUR SITUATION IT WAS ON A MAJOR FREEWAY WITH HEAVY TRAFFIC. LUCKILY THE DRIVER WAS ABLE TO COAST TO THE SHOULDER AND STOP. CAN YOU IMAGINE WHAT WOULD HAVE HAPPENED IF THIS FAILURE OCCURED ON A MAJOR INCLINE OR DOWNHILL GRADE ON A TWO LANE ROAD. THE RESULT MAY HAVE BEEN CATASTROPHIC. HOW MANY OTHER OF THESE ENGINES HAVE FAILED AND WHAT WERE THE CIRCUMSTANCES ? WHERE DID IT HAPPEN AND WAS THERE AN ISSUE WITH TRAFFIC SAFETY, I PERSONNALLY DON'T KNOW. WE ARE NOT TALKING ABOUT A CAR BREAKNG DOWN HERE BUT AN 80,000 POUND SEMI. IF A MANUFACTURER KNOWS A MAJOR COMPONET OF AN ENGINE USED IN SUCH A SAFETY SENSITIVE REGIMENT, TRANSPORTATION ON OUR HIGHWAYS, WITH TRAFFIC BEING HEAVIER THAN IT'S EVER BEEN, IS FAULTY AND NEEDS TO BE REPLACED SHOULDN'T THEY TAKE ACTION TO REMEDY THAT PROBLEM BEFORE AN ACCIDENT OCCURS OR IS IT WORTH THE GAMBLE ? THANK YOU FOR YOUR CONSIDERATION IN THIS MATTER. L.J. LARKIN PRES. TRANSTECH N.W. INC.*AK",
+        "vin": "1XKDDB9XXXJ"
+    },
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "11/09/2001",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "PACCAR Incorporated",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 899007,
+        "products": [
+            {
+                "manufacturer": "PACCAR Incorporated",
+                "productMake": "KENWORTH",
+                "productModel": "T800",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEEL BEARINGS KEEP FAILING, STEERING TIRES KEEP GETTING EATEN UP, WHICH CAUSES VEHICLE TO PULL TO RIGHT, WHEN THIS HAPPENS BRAKES WOULD CHATTER DUE TO A LACK OF WHEEL BEARINGS.  DRUM DROPPED ON BRAKE PADS AND SHOES. BRAKE SHOES WOULD BREAK OFF.*AK      *YD",
+        "vin": "1XKDD89X1XR"
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "04/11/2000",
+        "dateOfIncident": "02/11/2000",
+        "fire": false,
+        "manufacturer": "PACCAR Incorporated",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 860088,
+        "products": [
+            {
+                "manufacturer": "PACCAR Incorporated",
+                "productMake": "KENWORTH",
+                "productModel": "T800",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "RECALL 99V303/ ALUMINUM DRIVELINE.   PARTS THAT WERE NEEDED TO PERFORM RECALL REPAIRS WERE NOT AVAILABLE. *AK",
+        "vin": "1NKDLT0X7YJ"
+    },
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "01/20/2000",
+        "dateOfIncident": "01/29/1999",
+        "fire": false,
+        "manufacturer": "PACCAR Incorporated",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 855209,
+        "products": [
+            {
+                "manufacturer": "PACCAR Incorporated",
+                "productMake": "KENWORTH",
+                "productModel": "T800",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE EXPERIENCING ONGOING PROBLEM WITH VEHICLE CONTINUALLY PULLING TO THE RIGHT WHILE DRIVING AT HIGHWAY SPEED. DEALER NOTIFIED.  *AK",
+        "vin": "1XKDDB9X1XR"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "03/13/2003",
+        "dateOfIncident": "03/12/2003",
+        "fire": false,
+        "manufacturer": "Subaru of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10011661,
+        "products": [
+            {
+                "manufacturer": "Subaru of America, Inc.",
+                "productMake": "SUBARU",
+                "productModel": "FORESTER",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE REAR WHEEL BEARING FAILED, HOWEVER THE MANUFACTURER DID NOT AGREE TO CORRECT THE PROBLEM.   *JB.  *AK",
+        "vin": "JF1SF65611G"
+    }
+]

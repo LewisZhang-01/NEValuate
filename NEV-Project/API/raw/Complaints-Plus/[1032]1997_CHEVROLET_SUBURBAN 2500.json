@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "02/22/2015",
+        "dateOfIncident": "02/21/2015",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10689861,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN 2500",
+                "productYear": "1997",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "PEP BOYS",
+                "productMake": "PEP BOYS",
+                "productModel": "DEFINITY DAKOTA H/T",
+                "productYear": "9999",
+                "size": "LT245/75R16",
+                "type": "Tire"
+            }
+        ],
+        "summary": "PEP BOYS DEFINITY DAKOTA H/T SIZE LT245/75/R16 LOAD RATING E TIRE MANUFACTURED IN THE 38TH WEEK OF 2009 EXPERIENCED COMPLETE 360 DEGREE SEPARATION OF THE TREAD AT 65MPH RESULTING IN SIGNIFICANT DAMAGE TO THE BODY AND TAILPIPE OF THE VEHICLE.  THE TIRE CONTINUED TO HOLD PRESSURE AFTER TREAD SEPARATION BUT STEEL BELTS WERE VISIBLE.  *TR",
+        "vin": ""
+    }
+]

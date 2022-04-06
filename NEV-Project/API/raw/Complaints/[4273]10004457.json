@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "01/22/2003",
+        "dateOfIncident": "12/25/2002",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004457,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "CAMRY",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CAR WAS HIT IN BETWEEN THE DRIVER'S FRONT WHEEL AND THE VEHICLE'S FRONT FENDER  VEHICLE WAS TRAVELING BETWEEN 40-50 MPH.  THE DRIVER'S AIR BAG DID NOT DEPLOY. *AK",
+        "vin": "4T1BE30K62U"
+    }
+]

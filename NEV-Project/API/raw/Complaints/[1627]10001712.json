@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "12/31/2002",
+        "dateOfIncident": "12/12/2002",
+        "fire": false,
+        "manufacturer": "Mazda Motor Corp.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001712,
+        "products": [
+            {
+                "manufacturer": "Mazda Motor Corp.",
+                "productMake": "MAZDA",
+                "productModel": "MILLENIA",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATES WHILE DRIVING THE VEHICLE. THE VEHICLE HAD AN ACCIDENT WITH ANOTHER VEHICLE. CONSUMER REAR ENDED THE VEHICLE GOING 30MPH. THE DRIVER SIDE AIR BAG DID NOT DEPLOY. DEALER NOTIFIED.",
+        "vin": "FULL FILL"
+    }
+]

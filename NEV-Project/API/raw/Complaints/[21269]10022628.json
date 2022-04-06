@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, OTHER",
+        "crash": false,
+        "dateComplaintFiled": "06/09/2003",
+        "dateOfIncident": null,
+        "fire": true,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022628,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "CARAVAN",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "RECALL 00V268000; VEHICLE CAUGHT ON FIRE DUE TO ENGINE FUEL RAILS WITH NITROLE RUBBER O-RING SEALS WHICH DEGRADED OVER TIME, RESULTING INTO FUEL LEAKAGE FROM THE UNDERHOOD FUEL INJECTION FUEL RAIL. *AK",
+        "vin": ""
+    }
+]

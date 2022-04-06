@@ -1,0 +1,24 @@
+[
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "05/09/2003",
+        "dateOfIncident": "05/09/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019578,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING, THE VEHICLE LOST TOTAL POWER DUE TO THE AIR CONDITIONER LINE WAS ROUTED ON TOP OF THE DISTRIBUTOR, WHICH CAUSED CONDENSATION AND WATER DRIPPED INSIDE THE DISTRIBUTOR.   *JB",
+        "vin": ""
+    }
+]

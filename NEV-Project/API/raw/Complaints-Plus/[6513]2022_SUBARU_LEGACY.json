@@ -1,0 +1,90 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "01/24/2022",
+        "dateOfIncident": "01/23/2022",
+        "fire": false,
+        "manufacturer": "Subaru of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11448680,
+        "products": [
+            {
+                "manufacturer": "Subaru of America, Inc.",
+                "productMake": "SUBARU",
+                "productModel": "LEGACY",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact owns a 2022 Subaru Legacy. The contact stated while at a standstill the windshield cracked without warning. The vehicle was taken to a local dealer where it was diagnosed with needing the windshield replaced. The vehicle was not repaired. The manufacturer was not informed of the failure. The failure mileage was approximately 2,000.",
+        "vin": "4S3BWAN67N3"
+    },
+    {
+        "components": "VISIBILITY/WIPER",
+        "crash": false,
+        "dateComplaintFiled": "01/17/2022",
+        "dateOfIncident": "01/15/2022",
+        "fire": false,
+        "manufacturer": "Subaru of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11447747,
+        "products": [
+            {
+                "manufacturer": "Subaru of America, Inc.",
+                "productMake": "SUBARU",
+                "productModel": "LEGACY",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The windshield on my 2022 Subaru Legacy cracked.  The crack looks like it started at the bottom center of the windshield and is working its way up several inches and now spreading to the passenger side.  I took it to the dealer this morning.  They used a marker to trace the crack and found a very small impact point.  They said it doesn't take much as the windshields are thinner in Subaru's due to the camera system.  I feel like this is a safety issue. And it seems to be common issue with Subaru.",
+        "vin": "4S3BWAH67N3"
+    },
+    {
+        "components": "UNKNOWN OR OTHER,VISIBILITY/WIPER",
+        "crash": false,
+        "dateComplaintFiled": "12/22/2021",
+        "dateOfIncident": "12/22/2021",
+        "fire": false,
+        "manufacturer": "Subaru of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11444756,
+        "products": [
+            {
+                "manufacturer": "Subaru of America, Inc.",
+                "productMake": "SUBARU",
+                "productModel": "LEGACY",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "My car's windshield was hit by a small stone while driving on highway speed. At first it seemed to be a small chip/ crack. After a minute or two the crack got bigger. This is the second time I'm facing this issue. Same kind of incident happened a month ago as well. I thought subaru had best safety ratings. But if this happens to someone while driving in the middle of nowhere and the glass shatters all of a sudden for just a mere tiny stone chips, I don't feel safe driving this car at all. I have attached my previous insurance claim info and pictures of incident as well. I have noticed many cars with a chip or small crack on windshield. But they don't pose any serious concern to drive the vehicle.  In my case it's a serious concern for safety as the small chip spreads across the windshield which is a threat to drivability of the vehicle. I urge NHTSA to investigate this as soon as possible.",
+        "vin": "4s3bwad6xn3"
+    },
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "06/24/2021",
+        "dateOfIncident": "06/21/2021",
+        "fire": true,
+        "manufacturer": "Subaru of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11422097,
+        "products": [
+            {
+                "manufacturer": "Subaru of America, Inc.",
+                "productMake": "SUBARU",
+                "productModel": "LEGACY",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "While attempting to restart the battery, and upon opening the hood of the vehicle, an explosion occurred, causing a fire under the hood between what we believe to be the AC pipe and the battery/fuse box terminals. The car was not on, but we did notice that there appears to be a hole in the pipe that is leaking what we presume to be Freon.  Reporting on behalf of GSA Fleet.  Not expecting any actions, just reporting for your records.",
+        "vin": "4S3BWAB61N3"
+    }
+]

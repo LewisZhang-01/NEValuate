@@ -1,0 +1,54 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "02/15/2011",
+        "dateOfIncident": "09/24/2010",
+        "fire": false,
+        "manufacturer": "Northwood Manufacturing, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10382767,
+        "products": [
+            {
+                "manufacturer": "Northwood Manufacturing, Inc.",
+                "productMake": "NORTHWOOD",
+                "productModel": "ARCTIC FOX",
+                "productYear": "2004",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "TA CHUNG HUA",
+                "productMake": "TA CUNG HUA",
+                "productModel": "11R245",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 2004 ARCTIC FOX 29V TRAILER EQUIPPED WITH SUTONG, HI RUN HIGHWAY TRAILER TUBELESS TIRES, SIZE P235-85R-16/14. THE TIRES WERE REPLACEMENT, PURCHASED IN AUGUST 13, 2008. WHILE DRIVING APPROXIMATELY 55-60 MPH THE LEFT REAR TIRE ON THE TRAILER BLEW UP AND CAUSED DAMAGE TO THE LEFT WHEEL WELL AND THE SIDE OF THE TRAILER. HE WENT BACK TO THE TIRE COMPANY AND WAS ADVISED TO WRITE A LETTER TO THE MANUFACTURER WHO RESPONDED AND ADVISED HIM THAT HIS TIRE WARRANTY HAD EXPIRED. THE TIRES WERE ONLY TWO YEARS AND ONE MONTH OLD. THE TIRE COMPANY STATED THAT THERE WAS 67% OF TREAD LEFT ON THE TIRE. HE REPLACED THE TIRE AT HIS OWN EXPENSE. THE DOT NUMBER WAS UNKNOWN. THE FAILURE MILEAGE ON THE TIRE WAS 6,000. THE FAILURE MILEAGE FOR THE TRAILER WAS UNKNOWN. UPDATED 04/14/11*LJ  UPDATED 12/28/2011 *LN",
+        "vin": "4N11V292340"
+    },
+    {
+        "components": "WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "10/22/2007",
+        "dateOfIncident": "07/01/2006",
+        "fire": false,
+        "manufacturer": "Northwood Manufacturing, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10206504,
+        "products": [
+            {
+                "manufacturer": "Northwood Manufacturing, Inc.",
+                "productMake": "NORTHWOOD",
+                "productModel": "ARCTIC FOX",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 2004 ARCTIC FOX TRAILER (NA).  THE VEHICLE IS LOSING AIR THROUGH THE WHEELS DUE TO A FAILED WELD.  HE CALLED THE DISTRIBUTOR. THE DRIVER SIDE FRONT AXLE WHEEL WAS REPLACED TWICE.  HE DISCOVERED A RECALL ON THE WHEEL, BUT HE WAS INFORMED THAT THE TRAILER WAS NOT INCLUDED.  THE CONTACT FELT THAT HIS VEHICLE SHOULD BE INCLUDED IN THE RECALL BECAUSE THE VEHICLE WAS EXPERIENCING THE SAME FAILURE.  THE VIN, ENGINE SIZE, RECALL NUMBER, NUMBER OF CYLINDERS, AND POWERTRAIN WERE UNKNOWN.  THE FAILURE MILEAGE WAS 25,000 AND CURRENT MILEAGE WAS 45,000.   UPDATED 11/05/07. *JB",
+        "vin": "4N15L272140"
+    }
+]

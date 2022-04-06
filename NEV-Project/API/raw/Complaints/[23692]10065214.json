@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": true,
+        "dateComplaintFiled": "05/20/2004",
+        "dateOfIncident": "03/24/2004",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 2,
+        "odiNumber": 10065214,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "CAMRY",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE SWITCHING  FROM PARK TO DRIVE CONSUMER  TOUCHED THE GAS PEDAL AND VEHICLE SUDDENLY ACCELERATED ON ITS OWN, CONSUMER PRESSED BRAKES PEDAL TO STOP, BUT VEHICLE  DID NOT STOP UNTIL HITTING  A WALL. *AK   MECHANIC TESTED VEHICLE AND FOUND THAT GEAR SELECTOR ON TRANSMISSION MOVED BY ITSELF FROM DRIVE TO NEUTRAL.  *LA",
+        "vin": "4T1BE30K22U"
+    }
+]

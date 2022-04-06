@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "04/02/2003",
+        "dateOfIncident": "03/28/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015048,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPEDITION",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WATER LEAKED INTO THE VEHICLE THROUGH THE WINDSHIELD SEAM, AND SHORTED OUT THE ELECTRICAL SYSTEM.  WIPERS WERE INOPERATIVE.  THE VEHICLE WOULD NOT START.  THE FUSE BOX AND THE WINDSHIELD HAD TO BE REPLACED.",
+        "vin": ""
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "05/12/2003",
+        "dateOfIncident": "05/11/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10018544,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERCURY",
+                "productModel": "MOUNTAINEER",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE UPPER BOLT ON THE DRIVER'S SEAT BACK BRACKET BROKE, ALLOWING THE SEAT TO DROP PAST IT'S FULLY RECLINED POSITION.  THE DRIVER IS EXPERIENCING SOME BACK AND NECK PAIN FROM THE UNEXPECTED DROP.  THE VEHICLE WILL BE UNUSABLE UNTIL THE SEAT IS REPAIRED.  *NLM",
+        "vin": "4M2ZU52P2XU"
+    }
+]

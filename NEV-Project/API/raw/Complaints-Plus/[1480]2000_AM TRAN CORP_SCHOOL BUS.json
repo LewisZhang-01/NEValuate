@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, AIR",
+        "crash": true,
+        "dateComplaintFiled": "03/01/2000",
+        "dateOfIncident": "01/08/2000",
+        "fire": false,
+        "manufacturer": "IC CORPORATION",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 551174,
+        "products": [
+            {
+                "manufacturer": "IC CORPORATION",
+                "productMake": "AM TRAN CORP",
+                "productModel": "SCHOOL BUS",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE CRASHED INTO STOPPED LINE OF TRAFFIC DUE TO BRAKE FAILURE. YH",
+        "vin": "XA086916"
+    }
+]

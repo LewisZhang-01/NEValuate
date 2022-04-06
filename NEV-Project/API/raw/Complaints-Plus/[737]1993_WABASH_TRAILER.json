@@ -1,0 +1,90 @@
+[
+    {
+        "components": "SUSPENSION,POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "04/30/2007",
+        "dateOfIncident": "01/19/2007",
+        "fire": true,
+        "manufacturer": "Wabash National Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10190066,
+        "products": [
+            {
+                "manufacturer": "Wabash National Corporation",
+                "productMake": "WABASH",
+                "productModel": "TRAILER",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE AXLE CAUGHT ON FIRE CAUSING THE TIRE TO BLOW OUT AND THE RIGHT REAR DUALS CAME OFF. *MC  (OHIO TRAFFIC CRASH REPORT) *JB",
+        "vin": "1JJV532Y2PL"
+    },
+    {
+        "components": "TRAILER HITCHES",
+        "crash": false,
+        "dateComplaintFiled": "06/06/2000",
+        "dateOfIncident": "04/20/2000",
+        "fire": false,
+        "manufacturer": "Wabash National Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 552521,
+        "products": [
+            {
+                "manufacturer": "Wabash National Corporation",
+                "productMake": "WABASH",
+                "productModel": "TRAILER",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "LOCKING MECHANISM FOR THE KING PIN FAILED RESULTING IN THE TRAILER UNIT COMPLETELY DETACHING FROM THE TRACTOR, DAMAGE TO TRAILER UNIT AS A RESULT OF FAILURE.  (OHIO TRAFFIC CRASH REPORT)   *MJS",
+        "vin": "1JJV53240PL"
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "11/29/1999",
+        "dateOfIncident": "10/14/1999",
+        "fire": true,
+        "manufacturer": "Wabash National Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 549736,
+        "products": [
+            {
+                "manufacturer": "Wabash National Corporation",
+                "productMake": "WABASH",
+                "productModel": "TRAILER",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING THE AXLE BROKE CAUSING FLUID LOSS, BRAKES IGNITED CATCHING THE TIRE ON FIRE (OHIO TRAFFIC CRASH REPORT).  *MJS",
+        "vin": "1JJV532Y5PL"
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "11/29/1999",
+        "dateOfIncident": "10/14/1999",
+        "fire": true,
+        "manufacturer": "Wabash National Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 549736,
+        "products": [
+            {
+                "manufacturer": "Wabash National Corporation",
+                "productMake": "WABASH",
+                "productModel": "TRAILER",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING THE AXLE BROKE CAUSING FLUID LOSS, BRAKES IGNITED CATCHING THE TIRE ON FIRE (OHIO TRAFFIC CRASH REPORT).  *MJS",
+        "vin": "1JJV532Y5PL"
+    }
+]

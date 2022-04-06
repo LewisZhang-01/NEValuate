@@ -1,0 +1,46 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER,FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "05/28/2019",
+        "dateOfIncident": "05/28/2019",
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11210469,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "FLTRUSE",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BAD WATER PUMP DESIGN, WILL LEAK AND CAUSE LOSS OF CONTROL. DEATH OR INJURY. THE PUMP THAT CAME ON THE BIKE WAS SUPER CEDED AND REDESIGNED.  BIKE SHOULD BE RECALLED AND CHANGED AT HARLEY'S EXPENSE",
+        "vin": "1HD1TAN1XGB"
+    },
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "01/15/2016",
+        "dateOfIncident": "09/24/2015",
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10820585,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "FLTRUSE",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE RIGHT-SIDE EXHAUST PIPE RUNS SO HOT THAT IT MELTS THE INSIDE OF THE RIDER'S RIGHT PANTS LEG DURING NORMAL OPERATION WHILE RIDING.",
+        "vin": "1HD1KGL12GB"
+    }
+]

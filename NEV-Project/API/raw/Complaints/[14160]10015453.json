@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,TIRES",
+        "crash": true,
+        "dateComplaintFiled": "04/08/2003",
+        "dateOfIncident": "01/29/2003",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015453,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "SENTRA",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE CONSUMER LOSS CONTROL OF THE VEHICLE ON A SNOWY STREET, HIT A CURB AND WAS REAR ENDED.  *JB",
+        "vin": "3N1CB51D4YL"
+    }
+]

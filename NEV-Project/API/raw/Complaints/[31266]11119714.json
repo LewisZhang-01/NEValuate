@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,EXTERIOR LIGHTING,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "08/13/2018",
+        "dateOfIncident": "01/09/2018",
+        "fire": true,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11119714,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "GRAND CHEROKEE",
+                "productYear": "2012",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TAKATA RECALL  MY VISOR CAUGHT FIRE WHILE I WAS DRIVING, VEHICLE SHAKES WHEN STOPPED, CHECK ENGINE LIGHT REMAINS ON AFTER NUMEROUS MAINTENCE CHECK UPS",
+        "vin": "1C4RJEAG4CC"
+    }
+]

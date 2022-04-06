@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": true,
+        "dateComplaintFiled": "02/10/2003",
+        "dateOfIncident": "08/05/2000",
+        "fire": false,
+        "manufacturer": "UNKNOWN MANUFACTURER",
+        "numberOfDeaths": 1,
+        "numberOfInjuries": 0,
+        "odiNumber": 10008880,
+        "products": [
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE STEEL PROD. CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "FIRESTONE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "TIRE.  WITNESSES SAW THE CONSUMERS TIRE DETREAD ON HER VEHICLE,  THE VEHICLE WENT ONTO THE SHOULDER AND STRUCK A TREE.  THE IMPACT DECAPITATED THE CONSUMER.  THE MATTER WAS IN LITIGATION.  *JB",
+        "vin": ""
+    }
+]

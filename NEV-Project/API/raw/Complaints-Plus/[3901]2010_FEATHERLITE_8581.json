@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "05/07/2012",
+        "dateOfIncident": "05/07/2012",
+        "fire": false,
+        "manufacturer": "Featherlite, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10457634,
+        "products": [
+            {
+                "manufacturer": "Featherlite, Inc.",
+                "productMake": "FEATHERLITE",
+                "productModel": "8581",
+                "productYear": "2010",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "UNIROYAL GOODRICH TIRE CO",
+                "productMake": "HOOD",
+                "productModel": "G7814",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2010 FEATHERLIGHT HORSE TRAILER, MODEL NUMBER: 8581 EQUIPPED WITH HI RUN ST TIRES, SIZE: 235/85 R16. THE CONTACT STATED THAT WIRES AND BELTS WERE PROTRUDING THROUGH THE TIRES. THE VEHICLE WAS NOT TAKEN TO THE DEALER. THE MANUFACTURER WAS NOT CONTACTED AND THE VEHICLE WAS NOT REPAIRED. THE VIN WAS UNAVAILABLE. THE FAILURE AND CURRENT MILEAGES WERE LESS THAN 2,000.",
+        "vin": ""
+    }
+]

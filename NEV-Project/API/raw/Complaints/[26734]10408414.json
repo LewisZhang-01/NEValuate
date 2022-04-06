@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "06/21/2011",
+        "dateOfIncident": "08/01/2010",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10408414,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "MURANO",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SEAT SUPPORT CROSS-BAR BROKE, SEAT NOW FLOATS WHEN DRIVING",
+        "vin": "JN8AZ08T55W"
+    }
+]

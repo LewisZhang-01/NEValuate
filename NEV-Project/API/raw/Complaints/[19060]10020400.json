@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/26/2003",
+        "dateOfIncident": "04/01/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020400,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1996",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "STEELTEX TIRE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE RIGHT REAR TIRE EXPERIENCED TREAD SEPARATION WHILE DRIVING AT 60 MPH.   *JB   THE REAR OF THE VEHICLE WENT AIRBORNE AND VIBRATED  BADLY.  THE VEHICLE IMMEDIATELY STOPPED AND NOTHING APPEARED OUT OF ORDER AND AT THE SPEED OF 40 MPH THERE WAS NO INDICATION OF VIBRATING OR BOUNCING.  THE DEALER FOUND THE TIRE TREAD PARTIALLY SEPARATED FROM THE CARCASS, THERE WAS NO LEAKAGE OF AIR, AND NO SPLITTING OF TREAD OR SIDEWALL.  THE FIRESTONE DEALER SAID THERE WERE NO RECALLS.  (MODEL TIRE/R4S II)   *SCC    *JB",
+        "vin": "1GNGC26JTTJ"
+    }
+]

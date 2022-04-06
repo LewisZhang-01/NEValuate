@@ -1,0 +1,31 @@
+[
+    {
+        "components": "EXTERIOR LIGHTING,EQUIPMENT,BACK OVER PREVENTION",
+        "crash": false,
+        "dateComplaintFiled": "03/24/2003",
+        "dateOfIncident": "03/20/2003",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010941,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "MAXIMA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN DIESEL",
+                "productModel": "CLA83",
+                "productYear": "1989",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "FLAW IN THE DESIGN OF THE FACTORY ALARM SYSTEM ALLOWS IT TO BE EASILY DISABLED.   FLAW/DEFECT IN THE DESIGN OF HID HEADLIGHTS IN THE 2002-03 NISSAN MAXIMA. THE LIGHTS ARE EASILY PRIED OFF THE CAR WITH A CROWBAR. CRIMINALS CAN STEAL THEM IN LESS THAN 30 SECONDS.  ANTI-THEFT KIT MADE AVAILABLE IS ALSO DEFECTIVE. ACCESS TO ENGINE COMPARTMENT IS GAINED WITH A SCREWDRIVER OR CROWBAR.  RISK OF DRIVER INJURY IS INCREASED BECAUSE OF THIS.  *JB",
+        "vin": ""
+    }
+]

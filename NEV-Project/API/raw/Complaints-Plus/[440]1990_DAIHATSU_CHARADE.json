@@ -1,0 +1,134 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "01/22/1997",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "DAIHATSU AMERICA, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 807953,
+        "products": [
+            {
+                "manufacturer": "DAIHATSU AMERICA, INC.",
+                "productMake": "DAIHATSU",
+                "productModel": "CHARADE",
+                "productYear": "1990",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE DRIVER'S SIDE SEAT BELT RETRACTOR STOPPED WORKING.      *AK",
+        "vin": "1D1EG1127L4"
+    },
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "01/18/1996",
+        "dateOfIncident": "01/16/1994",
+        "fire": false,
+        "manufacturer": "DAIHATSU AMERICA, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 977746,
+        "products": [
+            {
+                "manufacturer": "DAIHATSU AMERICA, INC.",
+                "productMake": "DAIHATSU",
+                "productModel": "CHARADE",
+                "productYear": "1990",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVER'S SIDE AUTOMATIC SEAT BELT HAS FAILED, SHOULDER BELT HAS TOTALLY FAILED.  TT",
+        "vin": "JD1HG1229L4"
+    },
+    {
+        "components": "SEAT BELTS",
+        "crash": true,
+        "dateComplaintFiled": "09/18/1995",
+        "dateOfIncident": "09/16/1995",
+        "fire": false,
+        "manufacturer": "DAIHATSU AMERICA, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 3,
+        "odiNumber": 972123,
+        "products": [
+            {
+                "manufacturer": "DAIHATSU AMERICA, INC.",
+                "productMake": "DAIHATSU",
+                "productModel": "CHARADE",
+                "productYear": "1990",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE INVOLVED IN HEAD ON COLLISION, SEAT BELT DID NOT KEEP PASSENGER IN PLACE.  TT",
+        "vin": ""
+    },
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "08/17/1995",
+        "dateOfIncident": "08/31/1993",
+        "fire": false,
+        "manufacturer": "DAIHATSU AMERICA, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 483168,
+        "products": [
+            {
+                "manufacturer": "DAIHATSU AMERICA, INC.",
+                "productMake": "DAIHATSU",
+                "productModel": "CHARADE",
+                "productYear": "1990",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "MOTORIZED SEAT BELT FAILED TO LATCH.   *AK",
+        "vin": "JD1HG1127L4"
+    },
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "08/02/1995",
+        "dateOfIncident": "08/31/1993",
+        "fire": false,
+        "manufacturer": "DAIHATSU AMERICA, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 969743,
+        "products": [
+            {
+                "manufacturer": "DAIHATSU AMERICA, INC.",
+                "productMake": "DAIHATSU",
+                "productModel": "CHARADE",
+                "productYear": "1990",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SEAT BRELT WILL NOT LATCH, CAUSING AUTOMATIC SEAT  BELT TO CYCLE, DEALER DISCONNECTED THE SYSTEM.    8AK",
+        "vin": "JD1HG1127L4"
+    },
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "03/01/1995",
+        "dateOfIncident": "01/01/1994",
+        "fire": false,
+        "manufacturer": "DAIHATSU AMERICA, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 960859,
+        "products": [
+            {
+                "manufacturer": "DAIHATSU AMERICA, INC.",
+                "productMake": "DAIHATSU",
+                "productModel": "CHARADE",
+                "productYear": "1990",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "LAP/SHOULDER BELT WILL NOT RETRACT ON DRIVERS AND PASSENGERS SIDE SEAT.  TT",
+        "vin": ""
+    }
+]

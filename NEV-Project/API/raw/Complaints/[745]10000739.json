@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/05/2003",
+        "dateOfIncident": "10/17/2002",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000739,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "CIVIC",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "FR680",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE HONDA DEALER REPAIRED MY FIRESTONE TIRE WITH A PLUG.  LATER THE REPAIR DID NOT HOLD.  I TOOK IT TO THE FIRESTONE STORE AND HE SAID A PLUG WAS AN INCORRECT AND UNSAFE WAY TO REPAIR THE TIRE.  I THEN TOOK IT TO A GOODYEAR STORE AND HE TOLD ME THE SAME THING.    I RETURNED TO THE HONDA DEALER AND TOLD HIM MY SITUATION; WHEREUPON HE SAID THE TIRE PEOPLE WERE TRYING TO SELL MORE TIRES AND EVERYONE KNOWS PLUG REPAIRS ARE THE MOST EFFICEINT WAY TO REPAIR A PUNCTURE BY A NAIL.    CAN YOU COMMENT ON THE HONDA DEALER'S REMARKS?  ARE THERE ANY REGULATIONS BY THE NHTSA ABOUT REPAIRS TO A TIRE WITH A PLUG?  YOUR ATTENTION TO THIS QUESTION IS GREATLY APPRECIATED.    HAROLD V.WEBB",
+        "vin": "1HGES15502L"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "01/03/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002034,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "GRAND CHEROKEE",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE KEYLESS ENTRY WORKS INTERMITTENTLY.  CONSUMER STATES SOMETIMES THE WINDOWS WILL GO UP AND SOMETIMES THEY WON'T. PLEASE PROVIDE ANY FURTHER INFORMATION. TS",
+        "vin": "1J4G24850YC"
+    }
+]

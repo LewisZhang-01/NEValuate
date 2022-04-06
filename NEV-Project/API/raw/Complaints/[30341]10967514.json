@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS,STRUCTURE,ELECTRONIC STABILITY CONTROL",
+        "crash": true,
+        "dateComplaintFiled": "03/21/2017",
+        "dateOfIncident": "05/08/2016",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 2,
+        "odiNumber": 10967514,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "PASSAT",
+                "productYear": "2010",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AIR BAG DID NOT DEPLOY IN HIGHWAY ACCIDENT",
+        "vin": "WVWJK7AN2AE"
+    }
+]

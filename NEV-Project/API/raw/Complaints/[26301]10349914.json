@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, ELECTRIC",
+        "crash": false,
+        "dateComplaintFiled": "08/17/2010",
+        "dateOfIncident": "06/11/2009",
+        "fire": true,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10349914,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "VRSCDX",
+                "productYear": "2007",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKE SWITCH FAILURE DURING USE, LEAKED, CAUGHT FIRE AND REAR BRAKES FAILED. *TR",
+        "vin": ""
+    }
+]

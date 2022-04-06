@@ -1,0 +1,31 @@
+[
+    {
+        "components": "SERVICE BRAKES, AIR,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "06/17/2010",
+        "dateOfIncident": "11/28/2009",
+        "fire": false,
+        "manufacturer": "NATIONAL RV, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10336886,
+        "products": [
+            {
+                "manufacturer": "NATIONAL RV, INC.",
+                "productMake": "NATIONAL RV",
+                "productModel": "TROPI-CAL",
+                "productYear": "2008",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FEDERAL-MOGUL CORPORATION",
+                "productMake": "NATIONAL",
+                "productModel": "515058",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "FREIGHTLINER MOTOR HOME DIESEL PUSHER CHASSIS (FCCC XC CHASSIS LIGHTBAR CONTROL UNITS)    THE LOW AIR BRAKE PRESSURE LIGHT AND ALARM ACTIVATES ON ELECTRONIC CONTROL LIGHT BAR. GAUGES FLUCTUATE INDICATING THE LOSS OF AIR BRAKE PRESSURE AND POSSIBLE LOSS OF AIR PRESSURE IN BRAKE SYSTEM WITH POSSIBLE LOSS OF BRAKE APPLICATION. ALARM APPEARS TO BE A FALSE FAILURE NOTICE SINCE NO LOSS OF APRESSURE NOISE IS EVIDENT    MORE THAN TEN ATTEMPTS HAVE BEEN MADE TO REPAIR THE SITUATION WITH NO SUCCESS. LIGHT BAR WAS REPLACED AND AN ATTEMPTED WIRING REPAIR HAS BEEN MADE AND ISSUE REMAINS. *TR",
+        "vin": "4UZAB2DT68C"
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "components": "CHILD SEAT",
+        "crash": false,
+        "dateComplaintFiled": "04/23/2011",
+        "dateOfIncident": "03/01/2011",
+        "fire": false,
+        "manufacturer": "Kia Motors America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10397214,
+        "products": [
+            {
+                "manufacturer": "Kia Motors America",
+                "productMake": "KIA",
+                "productModel": "SEDONA",
+                "productYear": "2005",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Diono",
+                "productMake": "RADIAN",
+                "productModel": "10600",
+                "productYear": "9999",
+                "type": "Child Seat"
+            }
+        ],
+        "summary": "SL LATCH STRAP LOOSENING  (RELATED VEHICLE INFORMATION: MODEL YEAR=2005, MAKE=SEDONA, MODEL=KIA).  *TR",
+        "vin": ""
+    }
+]

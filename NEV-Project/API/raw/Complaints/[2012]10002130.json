@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "01/06/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002130,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TAURUS",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER NOTICE ONCE PLACING KEY IN IGNITION SWITCH, IGNITION SWITCH WOULD NOT TURN OR STEERING WHEEL. DEALER WAS CONTACTED. PLEASE PROVIDE FURTHER INFORMATION.   PH",
+        "vin": ""
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": true,
+        "dateComplaintFiled": "01/14/2003",
+        "dateOfIncident": "01/03/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003831,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "EXPLORER",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE SUDDEN ACCELERATED  OUT OF CONTROL,  RESULTING IN CONSUMER'S VEHICLE  HITTING ANOTHER VEHICLE.*JB",
+        "vin": "1FMDU35P1VZ"
+    }
+]

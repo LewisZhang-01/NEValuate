@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "07/31/2005",
+        "dateOfIncident": "07/20/2005",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10130714,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ABS ACTIVATION AT LOW SPEEDS(5 - 10 MPH)  AT LOW SPEEDS AND ONLY AT LOW SPEEDS ABS WILL RANDOMLY ACTIVATE AND CAUSE INABILITY TO STOP.  BRAKE PEDAL MUST BE RELEASED AND REAPPLIED CAREFULLY TO PREVENT HITTING CARS OR OTHER OBJECTS.  NO ACCIDENT AS OF YET, BUT THE PROBLEM MATCHES EXACTLY NHTSA ACTION NUMBER PE05020.   *NM",
+        "vin": "2GCEK19V111"
+    }
+]

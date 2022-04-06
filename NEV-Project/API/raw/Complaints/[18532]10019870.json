@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "05/14/2003",
+        "dateOfIncident": "05/14/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019870,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-250",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NHTSA# 93-V-125-000 THE VEHICLE EXPERIENCED THE SAME PROBLEM AS STATED IN RECALL 93 V 125 000, HOWEVER THE DEALER REFUSED TO FIX.  *JB",
+        "vin": ""
+    }
+]

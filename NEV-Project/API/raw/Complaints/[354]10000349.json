@@ -1,0 +1,31 @@
+[
+    {
+        "components": "SEAT BELTS,CHILD SEAT",
+        "crash": false,
+        "dateComplaintFiled": "12/23/2002",
+        "dateOfIncident": "12/23/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000349,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO",
+                "productYear": "2003",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Evenflo Company, Inc.",
+                "productMake": "EVENFLO",
+                "productModel": "CHILD SAFETY SEAT",
+                "productYear": "9999",
+                "type": "Child Seat"
+            }
+        ],
+        "summary": "JUST PURCHASED 2003 4 DOOR CHEVY SILVERADO WITH LATCH SYSTEM.  TRIED USING SYSTEM WITH EVENFLO BASE UNIT BUT LATCH BELT DOES NOT FIT PROPERLY DUE TO THE BELT TIGHTENING UNIT BECOMING TO CLOSE TO PLASTIC HOLDER ALLOWING BELT IN SLIPPING OVER BASE UNIT.",
+        "vin": "1GCHK23153F"
+    }
+]

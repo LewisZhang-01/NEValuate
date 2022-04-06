@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, OTHER",
+        "crash": false,
+        "dateComplaintFiled": "05/02/2011",
+        "dateOfIncident": "09/20/2009",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10398514,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "TRAILBLAZER",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "GAS GAUGE FAILURE.  ALWAYS SHOWS VEHICLE ON EMPTY AND CAUSES THE \"CHECK ENGINE\" LIGHT TO ILLUMINATE. ALSO CAUSES CONTINUOUS ALARM DINGS AS TO \"LOW FUEL\".  *TR",
+        "vin": "1GNDS13SX62"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "06/27/2003",
+        "dateOfIncident": "05/15/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020067,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "GRAND AM",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING THE GAS GAUGE WOULD INDICATE THE INCORRECT AMOUNT OF FUEL.   *NLM   THE VEHICLE SHUT OFF GOING 58 MPH WITH NO WARNING LIGHTS TO INDICATE THE VEHICLE WAS ABOUT TO RUN OUT OF FUEL.   *SCC   *JB",
+        "vin": ""
+    }
+]

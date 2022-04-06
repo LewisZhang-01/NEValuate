@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "02/13/2003",
+        "dateOfIncident": "02/13/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005796,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "EXPRESS",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "POSITIVE BATTERY BOLT CAME OUT OF BATTERY CAUSING LEAK AND RENDERING BATTERY USELESS. SOUNDS LIKE A MAJOR FACTORY DEFECT. (NOT CABLE FROM BOLT - BUT BOLT OUT OF BATTERY)",
+        "vin": "1GAGG25R4X1"
+    }
+]

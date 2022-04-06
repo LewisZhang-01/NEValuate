@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "03/31/2003",
+        "dateOfIncident": "03/31/2001",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10014722,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "CONTINENTAL",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE REAR VIEW MIRROR BECAME CLOUDED, WHICH CAUSED POOR VISIBILITY. THE DEALERSHIP INDICATED THE PROBLEM MAY BE CAUSED BY THE FLUID IN THE MIRROR WHICH WAS SUPPOSE TO BLOCK GLARE. *JB",
+        "vin": "1LNLM97V3VY"
+    }
+]

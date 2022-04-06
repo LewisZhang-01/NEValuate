@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "03/16/2003",
+        "dateOfIncident": "03/12/2003",
+        "fire": false,
+        "manufacturer": "GEORGIE BOY MFG., LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010553,
+        "products": [
+            {
+                "manufacturer": "GEORGIE BOY MFG., LLC",
+                "productMake": "GEORGIE BOY",
+                "productModel": "MAVERICK",
+                "productYear": "1998",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "LT22575R16E",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "FOUR TIRE BLOWOUTS BETWEEN 18,000 - 19,000 MILES OF FIRESTONE LT225-75R16 E FACTORY INSTALLED TIRES ON 1998 31' G.B.M. MAVERICK CLASS C MOTORHOME ON FORD E-SUPER DUTY CHASSIS.  ALL TIRES REGULARLY CHECKED FOR MAX. PRESSURE OF 80#; NONE OR VERY LITTLE SIDEWALL CHECKING; ALL BLOWOUTS OCCURRED ON REAR TIRES, AT JUNCTURE OF TREAD WITH SIDEWALL; TREAD ALL BUT COMPLETELY CAME OFF ON ONE TIRE, RESULTING IN DESTRUCTION OF TWO STORAGE DEPARTMENTS, SOME CONTENTS OF SAME, AND DESTRUCTION OF POORLY ROUTED 12V WIRING HARNESS IN PASSENGER SIDE, REAR WHEEL WELL.     *NLM",
+        "vin": "1FDXE40S1WH"
+    }
+]

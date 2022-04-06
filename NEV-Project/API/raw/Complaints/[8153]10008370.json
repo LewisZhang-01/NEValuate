@@ -1,0 +1,31 @@
+[
+    {
+        "components": "STRUCTURE,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "03/04/2003",
+        "dateOfIncident": "01/05/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10008370,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERCURY",
+                "productModel": "SABLE",
+                "productYear": "1995",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "WAGNER ELEC. BRAKE/CLUTCH",
+                "productMake": "WAGNER",
+                "productModel": "BRAKE/CLUTCH",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "FREQUENT FAILURE OF ANALOG SPEEDOMETER. I  HAVE A 95 MERCURY SABLE THAT HAS IT'S THIRD SPEEDOMETER. FIRST TWO REPLACED UNDER WARRANTY. IT HAS FAILED AGAIN. I BELIEVE THIS TO BE AN ABNORMAL FAILURE RATE. I CALLED A SPEEDOMETER REPAIR SHOP AND THEY WERE VERY FAMILIAR WITH THE PROBLEM ON THE 95-96 SABLE AND TAURUS.  *NLM",
+        "vin": "1MELM50UXSA"
+    }
+]

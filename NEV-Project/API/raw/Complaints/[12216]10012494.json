@@ -1,0 +1,24 @@
+[
+    {
+        "components": "WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "03/26/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10012494,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "DAKOTA",
+                "productYear": "1988",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE CONSUMERS VEHICLE EXPERIENCED THE SAME DEFECT DESCRIBED IN RECALL RECALL NUMBER 88 V 074 (WHEEL, LUGS, NUTS).  THE CONSUMERS VEHICLE WAS NOT INCLUDED IN THE RECALL DUE TO VIN.   *NLM",
+        "vin": "1B7GN14X0JS"
+    }
+]

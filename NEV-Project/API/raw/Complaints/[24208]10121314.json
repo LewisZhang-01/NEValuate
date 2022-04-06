@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "05/18/2005",
+        "dateOfIncident": "04/23/2005",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10121314,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "RIGHT PASSENGER MIRROR FAILED WHILE ON HIGHWAY.  GLASS PORTION ONLY POPPED OUT WHILE ON THE HIGHWAY.",
+        "vin": "1FTZR45E04T"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "04/01/2003",
+        "dateOfIncident": "07/21/2001",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10014972,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "850",
+                "productYear": "1987",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE REAR SWINGING DOOR OF THE WAGON HAD ELECTRICAL WIRES THAT RAN THROUGH THE FRAME.  OVER TIME THE DOOR CUT THROUGH THE WIRES, WHICH CAUSED THE REAR TAIL LIGHTS NOT TO WORK.  *JB",
+        "vin": "YV1AX8850H1"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "04/01/2003",
+        "dateOfIncident": "01/01/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10013752,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "SATURN",
+                "productModel": "SC1",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SEAT BELT RETRACTOR ON DRIVER SIDE NO LONGER WORKS, THIS ALLOWS  THE BELT TO BECOME CAUGHT IN THE DOOR, DAMAGING THE STRAP.  *JB",
+        "vin": "1G8ZG1272WZ"
+    }
+]

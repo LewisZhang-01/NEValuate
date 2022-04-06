@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "01/28/2003",
+        "dateOfIncident": "01/01/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10007256,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "RAM",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2003 DODGE DIESEL TRUCK. THE THROTTLE LINKAGE POSITION FAILED WHILE THE CRUISE CONTROL WAS ENGAGED GOING UP A STEEP INCLINE. T HE SENSOR BECAME STUCK AND THE VEHICLE WOULD NOT DECELERATE GOING DOWN THE HILL.  *JB",
+        "vin": "3D7MU48C73G"
+    }
+]

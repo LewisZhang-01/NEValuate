@@ -1,0 +1,31 @@
+[
+    {
+        "components": "STEERING,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "01/11/2006",
+        "dateOfIncident": "01/11/2006",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10147414,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "G6",
+                "productYear": "2005",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "GM PRODUCTS DIV. GM CORP.",
+                "productMake": "GM PRODUCTS",
+                "productModel": "GM PRODUCTS",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "PURCHASED PONTIAC G6 GT IN APRIL 2005 SINCE FALL OF 2005 STEERING COLUMN HAS LOCKED UP NUMEROUS TIMES FOR 2 SEC INTERVALS. HAVE TAKEN IT BACK 5 TIMES FOR THIS TILL THEY REPLACED STEERING COLUMN. AS OF TODAY 1/11/06 IT WAS DROPPED OFF AT THE DEALERSHIP AGAIN FOR THE SAME PROBLEM ALONG WITH BRAKE PEDAL AND PANELS AROUND IT RATTLING. CAR ONLY HAS 13,800 MILES ON IT.  *JB",
+        "vin": "1G2ZH528854"
+    }
+]

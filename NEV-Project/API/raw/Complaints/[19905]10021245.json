@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "06/08/2003",
+        "dateOfIncident": "04/02/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021245,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "JIMMY",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WINDSHIELD WIPERS WORKED INTERMITTENTLY.   RECALL ISSUED FOR THIS PROBLEM, BUT ONLY GOES UP TO 1997 VEHICLES.    *TT",
+        "vin": "1GKCS13W6W2"
+    }
+]

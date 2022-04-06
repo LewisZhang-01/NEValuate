@@ -1,0 +1,68 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "07/06/2000",
+        "dateOfIncident": "01/01/1999",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 864889,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE TANKS ARE SADDLE TANKS.  THE PLASTIC DOESN'T GO ALL THE WAY UP ON THE TANKS A DESIGN FLAW.  BOTH TANKS ARE LEAKING GASOLINE.  *AK",
+        "vin": "2GCDC14H3G1"
+    },
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "02/11/1999",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 834760,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN ACCELERATING TO PASS ANOTHER VEHICLE, ALL OF SUDDEN VEHICLE  ACCELERATED TO A HIGHER SPEED. WHEN HITTING THE BRAKE PEDAL, SPEED WOULD NOT DECREASE. THE CRUISE CONTROL WAS NOT ENGAGED AT THIS TIME. DRIVER HAD TO REALLY STAND ON THE BRAKES AND SHUT OFF THE IGNITION TO STOP TRUCK. NOTHING WAS FOUND TO BE WRONG WITH THE TRUCK WHEN TAKEN TO A SHOP.  OWNER HAS NOT HAD THIS PROBLEM SINCE DISENGAGING THE CRUISE CONTROL.  *AK",
+        "vin": "1GCGC24M3SJ"
+    },
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "09/08/1998",
+        "dateOfIncident": "08/15/1998",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 827689,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUEL TANK HAS PIN HOLES FROM A PLASTIC COVER THAT WAS PUT ON IT. THE TANK RUSTED AND HAS HUNDREDS OF TINY PINHOLES, ALLOWING GASOLINE TO LEAK.  DEALER REPAIRED TANK FOR THE PREVIOUS OWNER AND CANNOT REPAIR AGAIN.  *AK",
+        "vin": "1GCDC14HOFF"
+    }
+]

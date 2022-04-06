@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC,ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "04/08/2003",
+        "dateOfIncident": "03/10/2003",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10014108,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "740I",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TRACTION CONTROL, BRAKE AND ABS LIGHT ARE ALL INDICATING FAILURE. DEALER IS UNABLE TO DETERMINE CAUSE. BRAKES APPEAR TO WORK OK BUT WARNING LIGHTS CAUSE CONCERN.   *NLM",
+        "vin": "WBAGG8338XD"
+    }
+]

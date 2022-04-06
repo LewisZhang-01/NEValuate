@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "09/13/2004",
+        "dateOfIncident": "06/01/2002",
+        "fire": false,
+        "manufacturer": "UNKNOWN MANUFACTURER",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10092714,
+        "products": [
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE STEEL PROD. CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "FIRESTONE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE CONSUMER'S VEHICLE HAD TWO FIRESTONE TIRE BLOWOUTS.  *NM  THE CONSUMER STATED THE BLOW OUTS SEEMED TO HAVE OCCURRED DUE TO TIRE DELAMINATION.  THE CONSUMER REPLACED ALL THE TIRES WITH MICHELIN TIRES.  *JB",
+        "vin": ""
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "components": "TIRES,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "06/27/2019",
+        "dateOfIncident": "06/27/2019",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11222914,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "2010",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "ALL AMERICAN TIRE CO.",
+                "productMake": "ALL AMERICAN",
+                "productModel": "ALL AMERICAN",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            },
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "SERVICE FUEL TANK",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "I LIVE IN CONN. AND AS YOU KNOW, WE HAVE THE BEST CORROSIVE ROAD SALT- SO, IN THE PAST YEAR, I, PERSONALLY HAVE  FOUND IN THE MIDDLE OF THE STREET FULL TIRES- ALL SIZES WITH RIMS. SO, AS A PAST MECHANIC I HAVE FIGURED IT OUT TO BE THE SPARE TIRES UNDERNEATH TRUCKS,AND SUVS THAT ARE HELD BY A CABLE AND ARE LOCATED IN THE REAR SO WHEN THEY RUST AND FALL OFF THE CAR THEY DO NOT REALIZE OR FEEL IT COMING OFF THE VEHICLE,WHICH COULD CAUSE A CRASH TO AVOID",
+        "vin": ""
+    }
+]

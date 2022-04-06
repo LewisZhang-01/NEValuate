@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "04/30/2019",
+        "dateOfIncident": "04/20/2019",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11204764,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "VOLT",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "INSIDE REAR BRAKE PAD MATERIAL SEPARATED FROM THE STEEL BACKING RESULTING IN DAMAGED BRAKE ROTORS AND ERRATIC BRAKING. ALL OTHER BRAKE PADS IN SATISFACTORY CONDITION. THESE WERE THE OEM BRAKES AND ROTORS.",
+        "vin": "1G1RB6E46DU"
+    }
+]

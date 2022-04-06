@@ -1,0 +1,46 @@
+[
+    {
+        "components": "TIRES",
+        "crash": true,
+        "dateComplaintFiled": "08/07/2000",
+        "dateOfIncident": "06/10/1997",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 726912,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "4RUNNER",
+                "productYear": "1984",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AS I WAS DRIVING ON I-85 N.  THE LEFT REAR TREAD OF THE TIRES CAME OFF, CAUSING ME TO LOSE CONTROL OF MY VEHICLE.  THE TOYOTA 4 RUNNER WAS DESTROYED I WAS VERY FORTUNATE.  I ROTATED AND BALANCED MY TIRES ON A REGULAR BASIS.  THE WEATHER WAS CLEAR, AND DRY.   THESE TIRES NEED TO BE THOROUGHLY INVESTIGATED. *AK( DOT NUMBER:   TIRE SIZE: 195R15 )",
+        "vin": ""
+    },
+    {
+        "components": "SUSPENSION",
+        "crash": true,
+        "dateComplaintFiled": "08/09/1999",
+        "dateOfIncident": "05/01/1986",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 2,
+        "odiNumber": 709763,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "4RUNNER",
+                "productYear": "1984",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ROLLOVER ON FLAT, DRY PAVEMENT, 50 MPH, \"FISH HOOK\" MANEUVER TO AVOID OTHER VEHICLE, AS PER 1986 POLICE REPORT.  IS THERE SOMEONE I SHOULD CONTACT? PAID 4 YEARS ON BANK LOAN FOR A DESTROYED VEHICLE, BROKE NECK/HALO TRACTION/FUSION OF 3 VERTEBRAE.",
+        "vin": "NO LONGER H"
+    }
+]

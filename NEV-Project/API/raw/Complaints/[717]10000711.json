@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/03/2003",
+        "dateOfIncident": "12/24/2002",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000711,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "LEXUS",
+                "productModel": "SC400",
+                "productYear": "1995",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Pirelli Tire, LLC",
+                "productMake": "PIRELLI",
+                "productModel": "P600",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "TIRES: PIRELLI MODEL P6000;  A FEW MONTHS AGO, ONE OF THE TIRES SPLIT ON THE INSIDE CAUSING A FLAT.  RECENTLY, ANOTHER TIRE OF THE SAME SET DID THE SAME THING.  THE TIRES HAVE LESS THAN 20,000 MILES.  THE RETAILER IS NOT AWARE OF A RECALL.",
+        "vin": ""
+    }
+]

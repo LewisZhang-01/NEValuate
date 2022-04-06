@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY/WIPER",
+        "crash": false,
+        "dateComplaintFiled": "02/28/2022",
+        "dateOfIncident": "02/24/2022",
+        "fire": false,
+        "manufacturer": "Daimler Trucks North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11454538,
+        "products": [
+            {
+                "manufacturer": "Daimler Trucks North America, LLC",
+                "productMake": "THOMAS BUILT BUSES",
+                "productModel": "SAF-T-LINER C2",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "snow and ice buildup on windshield and wiper blades reducing visibility.  defrost was set on high, also used overhead fans to direct warm air onto windshield and still does not melt off until stopped.",
+        "vin": "4UZABRFD8MC"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "02/28/2003",
+        "dateOfIncident": "02/25/2003",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10008272,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "M COUPE",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "RECURRING AIRBAG LIGHT.  *JB",
+        "vin": "WBSCM9333XL"
+    }
+]

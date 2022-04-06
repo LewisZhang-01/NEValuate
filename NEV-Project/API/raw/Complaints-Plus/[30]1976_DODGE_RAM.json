@@ -1,0 +1,24 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "09/05/2000",
+        "dateOfIncident": "06/01/2000",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 869614,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "RAM",
+                "productYear": "1976",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "POE00 020; WHILE TRAVELING ABOUT 10MPH AND VEHICLE STARTED TO WOBBLE DUE TO LEFT FRONT TIRE TREAD SEPARATION.  THERE WERE TWO TIRES.  SIDEWALL FAILED. FIRESTONE MODEL TRIUMPH 2 8537 DESIGN NUMBER.  ANOTHER SIDEWALL FAILURE, TIRE WAS LEAKING AIR. THE FOURTH TIRE STILL INTACT.  *AK",
+        "vin": ""
+    }
+]

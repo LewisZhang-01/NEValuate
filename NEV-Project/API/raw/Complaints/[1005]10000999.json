@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "01/13/2003",
+        "dateOfIncident": "01/06/2003",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10000999,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "JETTA",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVER'S SIDE AIR BAGS FAILED TO DEPLOY DURING AN ACCIDENT THAT MAY HAVE TOTALED THE CAR.  DAMAGE WAS TO THE DRIVER'S SIDE ONLY AND THE PASSENGER FRONT AIRBAG DID DEPLOY.",
+        "vin": "3VWSK69M31M"
+    }
+]

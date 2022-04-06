@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": true,
+        "dateComplaintFiled": "12/01/2006",
+        "dateOfIncident": "03/09/2006",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10176470,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPEDITION",
+                "productYear": "1993",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "1993 FORD EXPEDITION TREAD SEPARATED FROM THE TIRES. CONSUMER RECEIVED A RECALL LETTER ABOUT THE TIRES AFTER THE FACT.  *KB  WHEN THE TIRE TREAD SEPARATED THE CONSUMER LOST CONTROL OF THE VEHICLE AND IT WENT OVER AN OVERPASS.  THE VEHICLE WAS TOTALED  (FIRESTONE TIRES).  *NM",
+        "vin": "1FMDU34X3PU"
+    }
+]

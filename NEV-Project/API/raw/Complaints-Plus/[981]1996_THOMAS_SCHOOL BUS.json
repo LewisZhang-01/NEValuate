@@ -1,0 +1,46 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "08/16/2002",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "THOMAS BUILT BUSES, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 8016544,
+        "products": [
+            {
+                "manufacturer": "THOMAS BUILT BUSES, INC.",
+                "productMake": "THOMAS",
+                "productModel": "SCHOOL BUS",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "PARTS FOR RECALL 96V08000 CONCERNING STRUCTURE: BODY: GRAB BAR   WERE NOT AVAILABLE.  DEALER SHIP DIDN'T KNOW WHEN PARTS  WILL BE AVAILABLE. *AK",
+        "vin": "1T7HT4B24T1"
+    },
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "09/17/1998",
+        "dateOfIncident": "05/18/1998",
+        "fire": false,
+        "manufacturer": "THOMAS BUILT BUSES, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 538546,
+        "products": [
+            {
+                "manufacturer": "THOMAS BUILT BUSES, INC.",
+                "productMake": "THOMAS",
+                "productModel": "SCHOOL BUS",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "LEFT REAR AXLE U-BOLTS BROKE, CAUSING REAR SUSPENSION TO DROP/CONTACT ROAD SURFACE.  (QCAW)",
+        "vin": "1T88T4B22T1"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "05/02/2003",
+        "dateOfIncident": "05/27/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018066,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "CONCORDE",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLES BATTERY LIGHT ILLUMINATED AT 65 MPH THEN THE ENGINE DIED.  THE  DEALER STATED THAT THE BATTERY CABLE SHORTED OUT BETWEEN THE BATTERY AND THE ALTERNATOR.  *NLM",
+        "vin": "2C3HD36J4YH"
+    }
+]

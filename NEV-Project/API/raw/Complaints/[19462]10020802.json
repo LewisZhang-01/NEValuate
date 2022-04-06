@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "05/31/2003",
+        "dateOfIncident": "05/26/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020802,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CADILLAC",
+                "productModel": "ESCALADE",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SUSPENSION SERVICE STABILITY DISABLED DIGITAL WARNING 5 TIMES.  ON THE FIRST OCCASION IT ALSO READ REDUCED POWER AND POWERED DOWN FROM 70 TO 35 MPH WITHIN SECONDS WHEN DRIVEN IN FREEWAY TRAFFIC.  REMOTE ANALYSIS BY ONSTAR INDICATED MOST RECENTLY AN ABS PROBLEM REQUIRED SERVICE.  OTHER FUSE AND WIRE/SHORT PROBLEMS HAVE OCCURRED WITHIN THE DASH.    *TT",
+        "vin": "1GYEK63N03R"
+    }
+]

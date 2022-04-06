@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "02/06/2003",
+        "dateOfIncident": "02/01/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10005394,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TAURUS",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "50 MPH CRASH HIT A MAILBOX AND TWO SIX INCH LOCUST TREES. AIRBAGS DID NOT DEPLOY. BOTH OF THE SENSORS WERE PUSHED INTO THE RADIATOR",
+        "vin": "1FALP52U7TA"
+    }
+]

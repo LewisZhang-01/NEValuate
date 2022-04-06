@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": true,
+        "dateComplaintFiled": "12/18/2002",
+        "dateOfIncident": "12/16/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000237,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "ROADMASTER",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "96 BUICK ROADMASTER WAGON DRIVER'S SIDE DOOR CATCHES FIRE AND DESTROYS CAR!  INTERNAL DOOR FIRE.",
+        "vin": "1G4BR82P9TR"
+    }
+]

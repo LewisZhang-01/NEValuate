@@ -1,0 +1,266 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "12/06/2000",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 558307,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "GOODYEAR DEALER OVERINFLATED TIRES (G159 UNISTEEL P235/85R16), THE DEALER ALSO REPLACED TIRES WITH A DEFECTED BENT RIM AND ANOTHER TIRE APPEARS TO BE A RECAP, THE JOINT WHERE THE TREAD CAP CONNECTS TO THE SIDEWALL, WHEN THE TIRES ARE OVERINFLATED IT CAUSES TIRES TO FEEL HARD AND ALSO CAUSES STEERING PROBLEMS.   *SLC",
+        "vin": ""
+    },
+    {
+        "components": "TIRES",
+        "crash": true,
+        "dateComplaintFiled": "08/28/2000",
+        "dateOfIncident": "02/12/1994",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 868962,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "PE00 020; WAS TRAVELING ABOUT 60MPH ON  HIGHWAY AND HAD A BLOWOUT ON THE REAR TIRE.  CONSUMER LOST CONTROL.  VEHICLE SPRUNG AROUND AND WENT INTO FOUR LANE TRAFFIC,  AND A GASOLINE TRUCK RAN INTO IT.   TIRES WERE FIRESTONE #AT STEEL MS/RADIAL R4S .*AK   TIRE SIZE IS (P235 85 R16), AT THE TIME OF THE ACCIDENT THE DRIVER AND THE PASSENGERS CLAIMED NO INJURIES, HOWEVER SINCE THEN THE DRIVER HAS HAD SEVERE SHOULDER PAIN DUE TO THE ACCIDENT.   *SLC",
+        "vin": "LG8GC26W0FF"
+    },
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "12/04/1997",
+        "dateOfIncident": "01/01/1986",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 525687,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SEAT ANCHORS BROKE, CAUSING SEAT TO COLLAPSE. RECALL ON MODELS 1987-1991 (#93V187000), HOWEVER CONSUMERS VEHICLE DOES NOT QUALIFY.",
+        "vin": "1G8GK26M8FF"
+    },
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "10/10/1997",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 523661,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "LOOSE STEERING COLUMN.",
+        "vin": ""
+    },
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "05/29/1996",
+        "dateOfIncident": "05/29/1996",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 505180,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "STRUT ROD LOOSE. *SD",
+        "vin": "1G8GK26SXPF"
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "05/29/1996",
+        "dateOfIncident": "05/29/1996",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 505180,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TRANSFER CASE REPLACED. *SD",
+        "vin": "1G8GK26SXPF"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "05/29/1996",
+        "dateOfIncident": "05/29/1996",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 505180,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENGINE REPLACED. *SD",
+        "vin": "1G8GK26SXPF"
+    },
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "05/29/1996",
+        "dateOfIncident": "05/29/1996",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 505180,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CRUISE CONTROL INOPERATIVE. *SD",
+        "vin": "1G8GK26SXPF"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "04/02/1996",
+        "dateOfIncident": "12/01/1995",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 982223,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "EA95-026 ACTIVE, BRAKE FAILURE, PEDAL WENT TO FLOOR, AFTER IN FOR REPAIR LEFT FRONT LOCKED UP IN WET CONDITIONS.   *AK",
+        "vin": "1GNGC26N9FJ"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "03/16/1996",
+        "dateOfIncident": "03/16/1996",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 503369,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENGINE FIRE. (OHIO STATE POLICE REPORT) *DSH",
+        "vin": ""
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "11/22/1995",
+        "dateOfIncident": "11/05/1995",
+        "fire": true,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 975298,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FIRE STARTED IN THE TRANSMISSION AND TOTALED THE VEHICLE. PLEASE DESCRIBE.  TT",
+        "vin": ""
+    },
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "10/23/1995",
+        "dateOfIncident": "10/20/1995",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 973777,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVER SIDE SEAT BROKE WHILE DRIVING.  TT  UPON FURTHER INSPECTION IT WAS DETERMINED THAT ONE OF THE BOLTS THAT ATTACHES THE SEAT TO THE BACK OF THE SEAT SHEARED IN HALF.  *YH",
+        "vin": "1G8GC26MXFF"
+    }
+]

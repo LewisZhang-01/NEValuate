@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/06/2003",
+        "dateOfIncident": "06/06/2003",
+        "fire": false,
+        "manufacturer": "COACHMEN INDUSTRIES, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022589,
+        "products": [
+            {
+                "manufacturer": "COACHMEN INDUSTRIES, INC.",
+                "productMake": "COACHMEN",
+                "productModel": "COACHMEN",
+                "productYear": "9999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "STEELTEX R45",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHILE TRAVELING ABOUT 55 MPH ON THE HIGHWAY THE LEFT REAR TIRE TREAD SEPARATED FROM THE TIRE.  FIRESTONE STEEL TEX RADIAS R4S LT22575/R16#DOT VD1L1XD398.  HE WAS ABLE TO PULL OVER.  PLEASE FILL IN ADDITIONAL INFORMATION . *AK",
+        "vin": ""
+    }
+]

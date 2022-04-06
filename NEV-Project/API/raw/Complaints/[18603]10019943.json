@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "05/15/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019943,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "DAKOTA",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "WRANGLER ST",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "AT 8,000 MILES ONE OF THE TIRES WENT FLAT.  THE VEHICLE WAS TAKEN TO THE TIRE DEALER WHICH FOUND ALL FOUR TIRES (GOODYEAR WRANGLER ST P215/75R15) HAD CRACKS IN THE TIRE WALL.  THE TIRES WERE REPLACED WITH THE SAME BRAND OF TIRE.  NOW THE DRIVER FRONT AND REAR TIRES HAVE CRACKS IN THE TIRE WALL.  THE CONSUMER FILED A COMPLAINT WITH DODGE #11259201.    *NLM",
+        "vin": "1B7GL2AN61S"
+    }
+]

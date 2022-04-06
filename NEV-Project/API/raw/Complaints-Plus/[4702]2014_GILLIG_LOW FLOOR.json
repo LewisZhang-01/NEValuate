@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "05/21/2021",
+        "dateOfIncident": "01/06/2021",
+        "fire": false,
+        "manufacturer": "Gillig, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11418027,
+        "products": [
+            {
+                "manufacturer": "Gillig, LLC",
+                "productMake": "GILLIG",
+                "productModel": "LOW FLOOR",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "We have approximately 495 buses that we found out can be started even though the battery disconnect switch is in the \"disconnected\" position.  It will start and run for several minutes until the super capacitor is drained.  This is hazardous to maintenance personnel who disconnect the batteries to work on the vehicle, then someone else may start it while that other person is in a dangerous position in the engine compartment.",
+        "vin": "15ggd2713e1"
+    }
+]

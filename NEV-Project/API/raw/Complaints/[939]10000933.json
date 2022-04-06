@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "01/10/2003",
+        "dateOfIncident": "11/06/2002",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000933,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "ODYSSEY",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "POWERTRAIN: TRANSMISSION FAILURE",
+        "vin": "2HKRL1865XH"
+    }
+]

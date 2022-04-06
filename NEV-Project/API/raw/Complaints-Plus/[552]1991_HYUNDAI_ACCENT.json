@@ -1,0 +1,46 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "12/29/1998",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 543246,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "ACCENT",
+                "productYear": "1991",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NOISE IN FRONT END.",
+        "vin": ""
+    },
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "09/25/1996",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 509206,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "ACCENT",
+                "productYear": "1991",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THERE IS A DEFECT IN THE SUSPENSION.",
+        "vin": "VD14N8SU042"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "12/24/2002",
+        "dateOfIncident": "12/23/2002",
+        "fire": false,
+        "manufacturer": "Mazda Motor Corp.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001451,
+        "products": [
+            {
+                "manufacturer": "Mazda Motor Corp.",
+                "productMake": "MAZDA",
+                "productModel": "PROTEGE",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING AT 60 MPH , VEHICLE  STARTED OVERHEATING. CONSUMER HAD VEHICLE SERVICED BY A MECHANIC WHO INDICATED THAT THE HEATING CORE HAD RUSTED. PLEASE PROVIDE MORE DETAILS.",
+        "vin": "JM1BC1413W0"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "09/11/2014",
+        "dateOfIncident": "09/11/2014",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10632514,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "TERRAIN",
+                "productYear": "2011",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2011 GMC TERRAIN. THE CONTACT STATED THAT THE DRIVER'S SEAT BOLT UNSCREWED CAUSING THE SEAT TO MOVE INDEPENDENTLY. THE VEHICLE WAS NOT REPAIRED. THE CONTACT WAS MADE AWARE OF RECALL NHTSA CAMPAIGN ID NUMBER: 14V447000 (SEAT).  HOWEVER, THE VEHICLE WAS NOT INCLUDED IN THE RECALL. THE MANUFACTURER WAS NOT NOTIFIED OF THE FAILURE. THE APPROXIMATE FAILURE MILEAGE WAS 39,000.",
+        "vin": "2CTALMEC3B6"
+    }
+]

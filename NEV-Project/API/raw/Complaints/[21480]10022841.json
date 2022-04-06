@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN,VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "06/11/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022841,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "MALIBU",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE TRAVELING RPMS WOULD IDLE HIGH, RESULTING IN VEHICLE NOT TO GAINING SPEED OR CHANGING INTO PASSING GEAR. VEHICLE HAS BEEN SERVICED SIX TIMES FOR PROBLEM. *AK",
+        "vin": ""
+    }
+]

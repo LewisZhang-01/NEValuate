@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "09/23/2009",
+        "dateOfIncident": "09/02/2009",
+        "fire": false,
+        "manufacturer": "Heartland Recreational Vehicles, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10284984,
+        "products": [
+            {
+                "manufacturer": "Heartland Recreational Vehicles, LLC",
+                "productMake": "HEARTLAND",
+                "productModel": "SUNDANCE",
+                "productYear": "2007",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Cheng Shin Rubber/Maxxis International",
+                "productMake": "CHENG SHIN",
+                "productModel": "CHENG SHIN",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "TRAILER TIRE TREAD SEPARATION AND BLOWOUT.  WHEN THE TIRE TREAD WAS FLAPPING, IT DESTROYED THE WIRING TO THE SLIDE OF THE RV BEFORE I COULD SAFELY STOP.  TIRE WAS PROPERLY INFLATED @ 65 PSI AND WAS NOT OVERLOADED.  SPEED WAS 55 MPH.  THE TIRE HAS 2000 MILES ON IT. *TR",
+        "vin": "5SFGF27237E"
+    }
+]

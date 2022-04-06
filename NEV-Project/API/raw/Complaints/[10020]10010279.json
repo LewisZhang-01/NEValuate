@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN,VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "03/11/2003",
+        "dateOfIncident": "03/05/2003",
+        "fire": false,
+        "manufacturer": "Subaru of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010279,
+        "products": [
+            {
+                "manufacturer": "Subaru of America, Inc.",
+                "productMake": "SUBARU",
+                "productModel": "OUTBACK",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CAR HAS SIGNIFICANT HESITATION DURING PERIODS OF ACCELERATION, USUALLY AROUND 2500-3500 RPM.  POTENTIALLY DANGEROUS IN MANY DRIVING SITUATIONS. HAVE REPORTED TO DEALER MULTIPLE TIMES.   RESPONSE IS ALWAYS \"CANNOT REPRODUCE - COMPUTER SHOWS OPERATING AS DESIGNED\".  CAR ALSO HAS SPONTANEOUS ACCELERATION AT LOW SPEED, SUCH AS FIRST TAKING FOOT OFF BRAKE.*JB",
+        "vin": "4S3BH896017"
+    }
+]

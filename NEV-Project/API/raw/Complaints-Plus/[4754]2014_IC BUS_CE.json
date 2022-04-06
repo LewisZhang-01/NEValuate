@@ -1,0 +1,112 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "02/17/2020",
+        "dateOfIncident": "08/22/2019",
+        "fire": false,
+        "manufacturer": "Navistar, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11309617,
+        "products": [
+            {
+                "manufacturer": "Navistar, Inc.",
+                "productMake": "IC BUS",
+                "productModel": "CE",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENGINE FAILED DUE TO LOST COMPRESSION DURING A SCHOOL ROUTE.",
+        "vin": "4DRBUAAN6EB"
+    },
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "02/17/2020",
+        "dateOfIncident": "11/05/2018",
+        "fire": false,
+        "manufacturer": "Navistar, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11309618,
+        "products": [
+            {
+                "manufacturer": "Navistar, Inc.",
+                "productMake": "IC BUS",
+                "productModel": "CE",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENGINE FAILED DUE TO LOST COMPRESSION DURING A SCHOOL ROUTE.",
+        "vin": "4DRBUAAN1EB"
+    },
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "02/17/2020",
+        "dateOfIncident": "10/02/2019",
+        "fire": false,
+        "manufacturer": "Navistar, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11309626,
+        "products": [
+            {
+                "manufacturer": "Navistar, Inc.",
+                "productMake": "IC BUS",
+                "productModel": "CE",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENGINE FAILED DUE TO LOST COMPRESSION DURING A SCHOOL ROUTE.",
+        "vin": "4DRBUAANXEB"
+    },
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "02/17/2020",
+        "dateOfIncident": "09/04/2019",
+        "fire": false,
+        "manufacturer": "Navistar, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11309604,
+        "products": [
+            {
+                "manufacturer": "Navistar, Inc.",
+                "productMake": "IC BUS",
+                "productModel": "CE",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENGINE FAILED DUE TO LOST COMPRESSION DURING A SCHOOL ROUTE.",
+        "vin": "4DRBUAAN1EB"
+    },
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "02/17/2020",
+        "dateOfIncident": "04/03/2019",
+        "fire": false,
+        "manufacturer": "Navistar, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11309605,
+        "products": [
+            {
+                "manufacturer": "Navistar, Inc.",
+                "productMake": "IC BUS",
+                "productModel": "CE",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENGINE FAILED DUE TO LOST COMPRESSION DURING A SCHOOL ROUTE.",
+        "vin": "4DRBUAAN8EB"
+    }
+]

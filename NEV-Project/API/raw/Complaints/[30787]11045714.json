@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRONIC STABILITY CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "11/13/2017",
+        "dateOfIncident": "11/11/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11045714,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EDGE",
+                "productYear": "2012",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE DOOR LATCH IS FAULTY. IT IS TELLING ME THAT THE DOOR IS AJAR WHEN IT IS CLOSED. THE INTERIOR LIGHTS STAY ON WHICH WILL CAUSE THE BATTERY TO DIE.",
+        "vin": "2FMDK4JC4CB"
+    }
+]

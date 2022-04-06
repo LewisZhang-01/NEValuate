@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION,STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "05/05/2017",
+        "dateOfIncident": "03/01/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10983714,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE FRAME IS COMPLETELY RUSTED. THE BOLTS ARE COMING THROUGH THE BED OF THE TRUCK. BUMPER IS RUSTED AWAY FROM FRAME. UNSAFE TO DRIVE.",
+        "vin": "1FTRX18L4XN"
+    }
+]

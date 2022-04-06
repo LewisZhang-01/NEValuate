@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": true,
+        "dateComplaintFiled": "03/05/2003",
+        "dateOfIncident": "11/08/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10006851,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "ECONOLINE",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "NAR 02/10/2003.  OHIO POLICE REPORT.  TIRE BLEW OUT.  VEHICLE SKIDDED OFF THE ROAD STRUCK A GUARDRAIL. THE REAR TIRE AND RIM WAS MISSING AND THE STUDS HAD BROKE OFF.  TIRE BRAND, SIZE AND DOT # UNKNOWN.  *TT    *JB",
+        "vin": ""
+    }
+]

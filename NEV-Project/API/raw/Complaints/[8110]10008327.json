@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "03/02/2003",
+        "dateOfIncident": "01/27/2003",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10008327,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "SONATA",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "IMPACT TO DRIVERS DOOR AND THE SIDE AIRBAG FAILED TO DEPLOY.*JB",
+        "vin": "KMHWF35H52A"
+    }
+]

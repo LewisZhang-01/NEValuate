@@ -1,0 +1,24 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/27/2003",
+        "dateOfIncident": "06/20/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10023905,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "S10",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SPARE TIRE RESTRAINT CABLE BROKE ALLOWING SPARE TIRE TO FALL FROM BENEATH TRUCK WHILE VEHICLE WAS UNDER OPERATION ON A PUBLIC ROAD.  THE TYPE OF VEHICLE IS A 2001 CHEVROLET S10 PICKUP.  *JB",
+        "vin": "1GCCS19W318"
+    }
+]

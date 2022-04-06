@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "06/10/2003",
+        "dateOfIncident": "06/01/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021378,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "GRAND PRIX",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ABOUT 1 OUT OF 50 TIMES APPLYING BRAKES, THE ABS SYSTEM ACTIVATES THE ABS MOTORS ON THE MASTER BRAKE CYLINDER, CAUSING A BRIEF (1/2 TO 1 SECOND) LOSS OF BRAKES.  ADDITIONAL BRAKE PEDALIS NOT EFFECTIVE DURING THIS TIME. CLICKING NOISE FROM ABS MOTORS AND BRAKE MASTER CYLINDER. ABLE TO REPRODUCE THE ABS MOTORS ACTIVATING FOR 1/2 TO 1 SECOND BY: WITH KEY OFF, APPLY BRAKE, START ENGINE, RELEASE BRAKE. WHEN BRAKE LIGHTS TURN OFF, ABS MOTORS RUN FOR 1/2 TO 1 SECOND. UNABLE TO DEPRESS BRAKE PEDAL DURING THIS TIME.REMOVING ABS FUSE PREVENTS PROBLEM FROM OCCURRING, BUT THE ABS LIGHT IS ON.*AK",
+        "vin": "1G2WJ52K0VF"
+    }
+]

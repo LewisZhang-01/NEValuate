@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "05/08/2003",
+        "dateOfIncident": "07/26/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018239,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "VENTURE",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE RACK AND PINION FAILED PRIOR TO RECALL NOTIFICATION 02V-286000.  THE CONSUMER REQUESTED REIMBURSEMENT BUT WAS DENIED.  *AK  *NLM",
+        "vin": "1GNDX03E9VD"
+    }
+]

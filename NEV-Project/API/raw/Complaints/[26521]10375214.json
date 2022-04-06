@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "01/08/2011",
+        "dateOfIncident": "01/08/2011",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10375214,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "SATURN",
+                "productModel": "OUTLOOK",
+                "productYear": "2008",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "OVERHEATING OF LOW BEAM HEADLAMP WIRING CAUSING MELTING OF PLASTIC COMPONENTS. HEADLAMPS WILL LOOSE ELECTRICAL CONNECTION AND ALL LAMP LIGHT WILL BE LOST. *LN",
+        "vin": "5GZER33798J"
+    }
+]

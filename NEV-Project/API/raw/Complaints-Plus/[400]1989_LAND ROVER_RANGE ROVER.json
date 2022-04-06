@@ -1,0 +1,112 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "11/04/2014",
+        "dateOfIncident": "09/24/2014",
+        "fire": false,
+        "manufacturer": "Land Rover",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10652354,
+        "products": [
+            {
+                "manufacturer": "Land Rover",
+                "productMake": "LAND ROVER",
+                "productModel": "RANGE ROVER",
+                "productYear": "1989",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 1989 LAND ROVER RANGE ROVER. THE CONTACT STATED THAT WHILE PARKED, FUEL LEAKED FROM THE REAR OF THE VEHICLE WITHOUT WARNING. THE FAILURE WAS NOT DIAGNOSED NOR WAS THE VEHICLE REPAIRED. THE MANUFACTURER WAS NOTIFIED OF THE FAILURE AND STATED THAT THE VIN WAS NOT INCLUDED IN NHTSA CAMPAIGN NUMBER: 95V155000 (FUEL SYSTEM, GASOLINE). THE FAILURE MILEAGE WAS 250,000.",
+        "vin": "SALHV1240KA"
+    },
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "06/08/2007",
+        "dateOfIncident": "05/18/2007",
+        "fire": false,
+        "manufacturer": "Land Rover",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10192793,
+        "products": [
+            {
+                "manufacturer": "Land Rover",
+                "productMake": "LAND ROVER",
+                "productModel": "RANGE ROVER",
+                "productYear": "1989",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 1989 LAND ROVER RANGE ROVER.  THE CURRENT AND FAILURE MILEAGE WAS 176000.  THE FUEL TANK IS CORRODED AT THE BOTTOM AND LEAKS GAS.  THE MANUFACTURER STATED THAT THE VIN WAS REPAIRED FOR NHTSA RECALL # 95V155000 NINE YEARS AGO AND THEY WILL NOT MAKE THE REPAIR.",
+        "vin": "SALHV1246KA"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "08/29/2000",
+        "dateOfIncident": "08/27/2000",
+        "fire": false,
+        "manufacturer": "Land Rover",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 729427,
+        "products": [
+            {
+                "manufacturer": "Land Rover",
+                "productMake": "LAND ROVER",
+                "productModel": "RANGE ROVER",
+                "productYear": "1989",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "PARTS SUPPLIER SAYS THIS IS A PROBLEM ASSOCIATED WITH THIS VEHICLE AND THAT SHORTS MAY CAUSE FIRE. MANUFACTURER STATES \"IT'S NOT A PROBLEM UNTIL THEY SAY IT'S A PROBLEM\". PER THEIR RECOMMENDATION, PART WILL BE TAKEN TO SERVICE DEALER FOR INSPECTION.",
+        "vin": "SALHV1147KA"
+    },
+    {
+        "components": "STEERING,ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "11/19/1999",
+        "dateOfIncident": "04/01/1999",
+        "fire": false,
+        "manufacturer": "Land Rover",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 714994,
+        "products": [
+            {
+                "manufacturer": "Land Rover",
+                "productMake": "LAND ROVER",
+                "productModel": "RANGE ROVER",
+                "productYear": "1989",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NO SUMMARY INCLUDED FOR ABOVE VEHICLE.  *AK",
+        "vin": "SALHV1243KA"
+    },
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": true,
+        "dateComplaintFiled": "06/15/1995",
+        "dateOfIncident": "02/04/1995",
+        "fire": false,
+        "manufacturer": "Land Rover",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 485184,
+        "products": [
+            {
+                "manufacturer": "Land Rover",
+                "productMake": "LAND ROVER",
+                "productModel": "RANGE ROVER",
+                "productYear": "1989",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SUDDEN ACCELERATION, CAUSING LOSS OF CONTROL/ACCIDENT/INJURY.  (ATTORNEY FOR CLIENT)  *SKD",
+        "vin": ""
+    }
+]

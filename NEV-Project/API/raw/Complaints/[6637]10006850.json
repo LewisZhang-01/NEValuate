@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES,WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "03/05/2003",
+        "dateOfIncident": "11/04/2002",
+        "fire": false,
+        "manufacturer": "PACCAR Incorporated",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10006850,
+        "products": [
+            {
+                "manufacturer": "PACCAR Incorporated",
+                "productMake": "KENWORTH",
+                "productModel": "CONVENTIONAL SERIES",
+                "productYear": "9999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "NAR 02/10/2003.  OHIO POLICE REPORT.  TIRE AND RIM SHEARED OFF HUB ON LEFT REAR AND STRUCK ANOTHER VEHICLE.  TIRES WERE ROTATED PRIOR TO INCIDENT.  TIRE BRAND, SIZE AND DOT # UNKNOWN.   *TT   *JB",
+        "vin": ""
+    }
+]

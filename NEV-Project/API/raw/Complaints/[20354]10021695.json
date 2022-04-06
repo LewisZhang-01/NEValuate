@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "06/04/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021695,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FORD",
+                "productYear": "9999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE HAD BROKE DOWN WITHIN THE SPECIFIED WARRANTY PERIODS.  FORD DENIED THE WARRANTY BECAUSE THE CONSUMER CANNOT SHOW RECEIPTS OF OIL AND FILTER PURCHASED AND INSTALLED OVER THE PAST TWO YEARS.  *MR  SCC",
+        "vin": "9999"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRONIC STABILITY CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "06/13/2019",
+        "dateOfIncident": "06/12/2019",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11219664,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EDGE",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE DISPLAYED WARNING 'SERVICE ADVANCETRAC' AND BRAKED IN AN EXTREMELY ROUGH AND UNSAFE MANNER. VEHICLE WOULD NOT ACCELERATE THEN AFTER OVER 2000 RPMS. DEALERSHIP IDENTIFIED AS POTENTIAL ISSUE WITH STEERING ANGLE SENSOR.",
+        "vin": "2FMDK4JC2EB"
+    }
+]

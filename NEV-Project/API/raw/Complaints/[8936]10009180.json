@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "02/24/2003",
+        "dateOfIncident": "06/01/2001",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009180,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "GRAND CARAVAN",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN THE REMOTE OR INTERIOR BUTTON WAS USED TO OPEN THE SLIDING ELECTRIC DOOR, THE DOOR POPPED OPEN INCOMPLETE OR POPPED OPEN AND THEN CLOSED IMMEDIATELY.*JB",
+        "vin": "2B8GP54L71R"
+    }
+]

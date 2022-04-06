@@ -1,0 +1,24 @@
+[
+    {
+        "components": "PARKING BRAKE",
+        "crash": false,
+        "dateComplaintFiled": "05/22/2003",
+        "dateOfIncident": "05/21/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019118,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "YUKON XL",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "EMERGENCY BRAKES DO NOT ENGAGE.  I DO NOT NORMALLY USE THE EMERGENCY BRAKE, AND ONLY NOTICED THIS PROBLEM AFTER THE WARRANTY EXPIRED.  *NLM",
+        "vin": ""
+    }
+]

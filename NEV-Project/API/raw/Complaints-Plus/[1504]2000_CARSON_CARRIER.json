@@ -1,0 +1,76 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "11/12/2003",
+        "dateOfIncident": "09/04/2003",
+        "fire": false,
+        "manufacturer": "CARRIER TRANSICOLD CO.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10040597,
+        "products": [
+            {
+                "manufacturer": "CARRIER TRANSICOLD CO.",
+                "productMake": "CARSON",
+                "productModel": "CARRIER",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "CARLISLE TIRE & RUBBER CO",
+                "productMake": "CARLISLE",
+                "productModel": "CARLISLE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "SINCE PURCHASED 2 MONTHS AGO THE LEFT REAR AND RIGHT REAR TIRES EXPERIENCED TREAD SEPARATION WHILE DRIVING 55 MPH . THE LEFT REAR HAD A BLOWOUT AND THE INNER LINER SEPARATED (SUPERTRAIL TIRES ON A NEW CARSON 32FT TRAILER).    *NLM                   THREE TIRES EXPERIENCED THE SAME DEFECT WITHIN A 24 HOUR PERIOD. TWO OF THE TIRES HAD TOTAL TREAD SEPARATION. CONSUMER NOTED IF ALL THE TIRES WOULD'VE FAILED ON THE SAME SIDE, HE WOULD'VE LOST CONTROL. CONSUMER FEELS TIRES SHOULD BE RECALLED.    *PH   *NLM",
+        "vin": ""
+    },
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "08/03/2000",
+        "dateOfIncident": "05/01/2000",
+        "fire": false,
+        "manufacturer": "CARRIER TRANSICOLD CO.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 553368,
+        "products": [
+            {
+                "manufacturer": "CARRIER TRANSICOLD CO.",
+                "productMake": "CARSON",
+                "productModel": "CARRIER",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TIRES/AXLES ON TRAILER ARE 3\" WIDER THAN THE LEGAL LIMIT.   *SLC",
+        "vin": "4HXRC1229YC"
+    },
+    {
+        "components": "SERVICE BRAKES, ELECTRIC",
+        "crash": false,
+        "dateComplaintFiled": "08/03/2000",
+        "dateOfIncident": "05/01/2000",
+        "fire": false,
+        "manufacturer": "CARRIER TRANSICOLD CO.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 553368,
+        "products": [
+            {
+                "manufacturer": "CARRIER TRANSICOLD CO.",
+                "productMake": "CARSON",
+                "productModel": "CARRIER",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ELECTRIC BRAKE WIRE FIXED.   *SLC",
+        "vin": "4HXRC1229YC"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "11/10/2021",
+        "dateOfIncident": "08/20/2021",
+        "fire": false,
+        "manufacturer": "Keystone RV Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11440037,
+        "products": [
+            {
+                "manufacturer": "Keystone RV Company",
+                "productMake": "KEYSTONE",
+                "productModel": "RAPTOR",
+                "productYear": "2021",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact owns a 2021 Keystone Raptor RV. The contact stated while operating the vehicle, there was an abnormal fuel odor inside the RV. Upon inspection, it was discovered that the fuel lines from the generator to the fuel tank had contacted the axle causing a failure to the lines and causing fuel to leak. The manufacturer and local dealer were notified of the failure and the contact received parts to repair the failure. The repair was performed however, the failure reoccurred. The failure mileage was 3,000.",
+        "vin": "4YDF4233XMR"
+    }
+]

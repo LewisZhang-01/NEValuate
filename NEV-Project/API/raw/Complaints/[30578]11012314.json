@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "08/02/2017",
+        "dateOfIncident": "08/01/2017",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11012314,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "HUMMER",
+                "productModel": "H3",
+                "productYear": "2009",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2009 HUMMER H3T. WHILE DRIVING 50 MPH, THE PASSENGER SIDE LEAF SPRING FRACTURED WITHOUT WARNING. THE VEHICLE WAS NOT TAKEN TO THE DEALER. THE VEHICLE WAS NOT DIAGNOSED OR REPAIRED. THE MANUFACTURER WAS NOT CONTACTED. THE FAILURE MILEAGE WAS 75,000.",
+        "vin": "5GNEN13E898"
+    }
+]

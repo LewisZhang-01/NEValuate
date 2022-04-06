@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "12/30/2010",
+        "dateOfIncident": "12/30/2010",
+        "fire": true,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10373414,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "X3",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BMW X3 HEATED SEAT BURNED FOAM & LEATHER AND CAUSED MINOR BURN TO LEFT LEG OF DRIVER. *TR",
+        "vin": "WBXPA93484W"
+    }
+]

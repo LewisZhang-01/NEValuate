@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "03/01/2003",
+        "dateOfIncident": "02/23/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10008306,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350 SD",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "GENERAL TIRE & RUBBER CO.",
+                "productMake": "GENERAL",
+                "productModel": "GRABBER AW",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "INSIDE REAR DUAL TIRE BLEW OUT WHILE DRIVING CAUSING DAMAGE TO THE FENDER, LINER AND MUD FLAP.  COMPANY STATED TIRE HAD BEEN RUN FLAT.  I DON'T THINK IT WOULD HAVE BLOWN IF IT WAS FLAT.  I ALSO HAD TWO MORE TIRES GO OUT IN JULY OF 2002 (I WILL FILE ON IT ALSO).",
+        "vin": "1FTWW32FXYE"
+    }
+]

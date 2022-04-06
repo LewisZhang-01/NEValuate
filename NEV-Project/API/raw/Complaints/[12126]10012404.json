@@ -1,0 +1,32 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "03/25/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Subaru of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10012404,
+        "products": [
+            {
+                "manufacturer": "Subaru of America, Inc.",
+                "productMake": "SUBARU",
+                "productModel": "IMPREZA",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Bridgestone Americas Tire Operations",
+                "productMake": "BRIDGESTONE",
+                "productModel": "POTENZA",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHILE MAKING A TURN , VEHICLE SLID OFF THE  ROAD, WITHOUT CAUSE OR  WARNING. THE DEALERSHIP CANNOT LOCATE THE CAUSE OF THE  PROBLEM.",
+        "vin": "JF1GG68552H"
+    }
+]

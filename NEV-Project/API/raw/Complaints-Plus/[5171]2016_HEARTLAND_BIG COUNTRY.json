@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/15/2018",
+        "dateOfIncident": "08/01/2017",
+        "fire": false,
+        "manufacturer": "Heartland Recreational Vehicles, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11102014,
+        "products": [
+            {
+                "manufacturer": "Heartland Recreational Vehicles, LLC",
+                "productMake": "HEARTLAND",
+                "productModel": "BIG COUNTRY",
+                "productYear": "2016",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Sailun Tire Americas, Inc.",
+                "productMake": "DYNAMIC TIRE",
+                "productModel": "SAILUN",
+                "productYear": "9999",
+                "size": "235/85/R16",
+                "type": "Tire"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2017 (NA) HEARTLAND BIG COUNTRY 3650RL EQUIPPED WITH DYNAMIC SAILUN TIRES, SIZE: 235/85/R16. AFTER DRIVING 70 MPH AND STOPPING AT A REST AREA, THE CONTACT NOTICED THAT ALL FOUR TIRES WERE DETERIORATED. THE RECREATIONAL VEHICLE WAS NOT TAKEN TO A DEALER FOR DIAGNOSTIC TESTING OR REPLACEMENT OF THE TIRES. THE MANUFACTURER WAS NOTIFIED OF THE FAILURE AND CONFIRMED THAT THE VEHICLE AND TIRES WERE NOT INCLUDED IN A RECALL. THE VIN WAS NOT AVAILABLE. THE APPROXIMATE TIRE AND VEHICLE FAILURE MILEAGE WAS 15,000.",
+        "vin": ""
+    }
+]

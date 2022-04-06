@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "06/19/2003",
+        "dateOfIncident": "06/19/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10024414,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "CAMRY",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NHTSA:99-V-307-000: VEHICLE DESCRIPTION:  PASSENGER VEHICLES.   STEERING WHEEL SET NUT MAY NOT HAVE BEEN SUFFICIENTLY TIGHTENED,CAUSING STEERING VIBRATION AND LOOSENESS. CONSUMER HAS THE SAME PROBLEM. HOWEVER THIS VEHICLE WAS NOT RECALLED  DUE TO VIN.*AK",
+        "vin": ""
+    }
+]

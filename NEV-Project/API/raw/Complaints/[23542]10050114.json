@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "12/04/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10050114,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "325XI",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "VEHICLE HAD 2 GOODYEAR TIRES, WHERE THE SIDEWALL HAD BLOWN OUT WHILE DRIVING AT A MODERATE SPEED. OLD TIRES WERE THROWN OUT, THEREFORE THE D.O.T. # FOR THE TIRES WERE UNAVAILABLE.  PROVIDE FURTHER DETAILS.      *PH",
+        "vin": "WBAEU33452P"
+    }
+]

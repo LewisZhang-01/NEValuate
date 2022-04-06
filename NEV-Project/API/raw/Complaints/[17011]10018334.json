@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "05/07/2003",
+        "dateOfIncident": "05/04/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018334,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "SATURN",
+                "productModel": "LS",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "COMPLETE FAILURE OF POWER STEERING PUMP. DEALER REPLACEMENT REQUIRED.    *JB",
+        "vin": "1G8JU82F41Y"
+    }
+]

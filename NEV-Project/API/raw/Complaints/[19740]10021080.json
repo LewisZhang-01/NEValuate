@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/05/2003",
+        "dateOfIncident": "06/04/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021080,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "SUNFIRE",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "YOKOHAMA RUBBER CO. LTD.",
+                "productMake": "YOKOHAMA",
+                "productModel": "ALL SEASON RADIAL",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "I WENT TO LOOK AT MY BRAKES AND FOUND THAT INSIDE MY TREADS AS WELL AS OUTSIDE MY TREADS THE RUBBER IS CRACKING. THE TIRES ARE JUST OVER A YEAR OLD WITH 25,000 MILES ON THEM. PLACE OF PURCHASE WAS CONTACTED BUT DUE TO A MOVE I AM UNABLE TO GET TO DEALER HAVE TO FIND CLOSER DEALER THAT SERVICES THE TIRES.*AK",
+        "vin": "1G2JB524917"
+    }
+]

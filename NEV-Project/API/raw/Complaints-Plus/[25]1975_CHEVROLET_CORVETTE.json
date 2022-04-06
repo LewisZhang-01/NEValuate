@@ -1,0 +1,76 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "10/08/2019",
+        "dateOfIncident": "10/08/2019",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11266332,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CORVETTE",
+                "productYear": "1975",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "1975 CORVETTE STINGRAY. CONSUMER WRITES IN REGARD TO MULTIPLE MALFUNCTIONS WITH VEHICLE; FLUID LEAKAGES, AND DEFECTIVE OIL FILTERS.*AS  *JS",
+        "vin": ""
+    },
+    {
+        "components": "STRUCTURE,TIRES,WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "08/05/2018",
+        "dateOfIncident": "08/03/2018",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11115832,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CORVETTE",
+                "productYear": "1975",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "GOODRICH CORPORATION",
+                "productMake": "GOODRICH",
+                "productModel": "LONG TRAIL T/A",
+                "productYear": "9999",
+                "size": "265/70R15",
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHILE DRIVING ALONG ON A STATE ROAD AT ABOUT 45 TO 50 MPH THE BF GOODRICH RADIAL T/A TIRE ON THE RIGHT REAR COMPLETELY SELF DESTRUCTED WITH TREAD SEPARATION AND STEEL BELT SHREDDING. THE RIGHT REAR QUARTER PANEL WAS TORN AS WELL AS SCRATCHES AND TIRE IMPRESSIONS ON THE DOOR AND FRONT FENDER OF MY 1975 CORVETTE. I HAVE ONLY HAD THIS CLASSIC CAR FOR 1 MONTH AND NOW IT IS DAMAGED.",
+        "vin": "1Z3J5S41311"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "07/14/2007",
+        "dateOfIncident": "06/30/2007",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10196338,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CORVETTE",
+                "productYear": "1975",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ON MY 1975 CHEVROLET CORVETTE WHILE DRIVING ON THE JACKIE ROBINSON PARKWAY IN NEW YORK CITY WHILE ATTEMPTING TO STOP THE BRAKE PEDAL DROPPED TO THE FLOOR. THE CLEVIS PIN AND CLIP RETAINER FELL OFF THE BRAKE PEDAL WITHOUT PRIOR WARNING ALMOST CAUSING A VEHICLE CRASH. PURCHASED NEW PARTS FOR INSTALLATION WITH FEAR THAT IT MIGHT HAPPEN AGAIN.  *TR",
+        "vin": ""
+    }
+]

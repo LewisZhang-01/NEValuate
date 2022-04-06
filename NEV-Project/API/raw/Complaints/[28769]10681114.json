@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VEHICLE SPEED CONTROL,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "02/04/2015",
+        "dateOfIncident": "02/03/2015",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10681114,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "PRIUS",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AUTOMATIC TRANSMISSION SELECTOR SHIFTED FROM DRIVE (D) INTO NEUTRAL (N).  THIS COULD BE TEMPORARILY CORRECTED BY MANUALLY RE-SELECTING D, BUT IN ABOUT 3 SECONDS, IT SHIFTED BACK TO N.  WE DROVE BY KEEPING ONE HAND ON THE LEVER TO KEEP IT IN D.  AFTER WE STOPPED, THE SAME PROBLEM OCCURRED IN REVERSE (R) -- THE SELECTOR SHIFTED INTO N AFTER A COUPLE OF SECONDS.  AGAIN, WE WERE ABLE TO MOVE THE VEHICLE BY MAINTAINING PRESSURE IN THE DIRECTION OF THE R SELECTION.      I'VE FOUND SEVERAL REFERENCES TO THIS PROBLEM ON WEBSITES.  IT APPEARS TO BE SOLVED BY INSTALLING A NEW SELECTOR ASSEMBLY.   *TR",
+        "vin": "JTDKB20UX63"
+    }
+]

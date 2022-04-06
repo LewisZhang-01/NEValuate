@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "10/27/2020",
+        "dateOfIncident": "10/21/2020",
+        "fire": false,
+        "manufacturer": "Aluma KLM",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11366771,
+        "products": [
+            {
+                "manufacturer": "Aluma KLM",
+                "productMake": "ALUMA",
+                "productModel": "ALUMA",
+                "productYear": "2021",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WIRING USED TO CONTROL THE ELECTRIC BRAKES WAS NOT SECURED AND SUFFICIENT IN LENGTH TO CONTACT THE GROUND WHILE IN MOTION.  CONTACT WITH THE GROUND CAUSED THE WEAR UNTIL IT SHORTED AND EVENTUAL COMPLETELY FAIL.  RENDERING THE ELECTRIC BRAKE SYSTEM INOPERABLE.",
+        "vin": "1YGHD1824MB"
+    }
+]

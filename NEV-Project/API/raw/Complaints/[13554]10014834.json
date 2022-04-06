@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": true,
+        "dateComplaintFiled": "04/11/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10014834,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-550 SD",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "GENERAL TIRE & RUBBER CO.",
+                "productMake": "GENERAL",
+                "productModel": "GENERAL",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "GENERAL TIRES WERE NOT ALL TERRAIN WHICH WAS SUPPOSED TO BE THE TIRE EQUIPMENT FOR THE VEHICLE.  MR  THE TIRES INABILITY TO HOLD THE ROAD CAUSED THE CONSUMER TO LOSE CONTROL AND HIT A POLE.  MODEL/LT  SCC  *JB",
+        "vin": "1FDAF57F2YE"
+    }
+]

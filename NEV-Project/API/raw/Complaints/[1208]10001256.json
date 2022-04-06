@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "12/31/2002",
+        "dateOfIncident": "11/05/2002",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001256,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "CHEROKEE",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Cooper Tire & Rubber Co.",
+                "productMake": "COOPER",
+                "productModel": "DISCOVERER H/T",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHILE DRIVING, THE LEFT TIRE EXPERIENCED OUTER SIDEWALL DAMAGE,  CONSUMER WAS ISSUED A 30.00 DOLLAR CREDIT TOWARD THE COST OF THE REPLACEMENT TIRE, HOWEVER CONSUMER IS REQUESTING AN ADDITIONAL CREDIT FOR THE BALANCE OF THE COST OF THE REPLACEMENT TIRE IN THE AMOUNT OF 63.23. (COOPER DISCOVER H/T 225/75R15 OWL TIRES).*JB",
+        "vin": ""
+    }
+]

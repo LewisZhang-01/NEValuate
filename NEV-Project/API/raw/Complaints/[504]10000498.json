@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN,LATCHES/LOCKS/LINKAGES",
+        "crash": false,
+        "dateComplaintFiled": "01/03/2003",
+        "dateOfIncident": "11/16/2002",
+        "fire": false,
+        "manufacturer": "Volvo Car USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000498,
+        "products": [
+            {
+                "manufacturer": "Volvo Car USA, LLC",
+                "productMake": "VOLVO",
+                "productModel": "V70",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SHIFT LOCK ON AUTOMATIC TRANSMISSION OF VOLVO V70  LOCKS OUT. TS",
+        "vin": "YV1LW564XW2"
+    }
+]

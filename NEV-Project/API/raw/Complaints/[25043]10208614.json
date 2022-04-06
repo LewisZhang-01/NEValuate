@@ -1,0 +1,31 @@
+[
+    {
+        "components": "FUEL SYSTEM, OTHER,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "11/11/2007",
+        "dateOfIncident": "06/15/2007",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10208614,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "RAM 3500",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "SPORT UTILITY",
+                "productYear": "1994",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "DIESEL ENGINE LEAKING FUEL AND ECM MANDATING REPLACEMENT OF INJECTION PUMP AS WELL AS THREE AND ONE HALF WEEKS DOWN TIME TO SECURE PARTS. PROBLEMS BEGAN IN JUNE 2007.  *TR",
+        "vin": "1B7MC3363YJ"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "04/10/2003",
+        "dateOfIncident": "04/04/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015582,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "NAVIGATOR",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE TIE ROD ASSEMBLY FAILED.   *JB  THE CONSUMER WAS AT A STOP SIGN AND JUST COMPLETED A RIGHT TURN WHEN IT APPEARED THAT THE LEFT TIE ROD HAD BROKEN.  SCC",
+        "vin": "5LMPU28L0WL"
+    }
+]

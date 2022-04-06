@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "02/24/2003",
+        "dateOfIncident": "01/18/2003",
+        "fire": false,
+        "manufacturer": "Volvo Car USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10008038,
+        "products": [
+            {
+                "manufacturer": "Volvo Car USA, LLC",
+                "productMake": "VOLVO",
+                "productModel": "S60",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "GANS",
+                "productMake": "PIRELLI",
+                "productModel": "PIRELLI",
+                "productYear": "1998",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "VOLVO S60, 17 INCHE LOW PROFILE PIRELLI RADIAL TIRES",
+        "vin": "YV1RH58D722"
+    }
+]

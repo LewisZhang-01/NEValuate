@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "04/22/2003",
+        "dateOfIncident": "04/19/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10016357,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "ESCORT",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ELECTRICAL SYSTEM: I HAVE NO HEAD LIGHTS, TAIL LIGHTS, BRAKE LIGHTS OR TURN SIGNALS. POSSIBLE SHORT IN WIRING. DISCOVERED BURNT WIRES AT THE TOP OF THE HATCHBACK. TRIED TO DO A TEMPORARY FIX USING \"BOOTS\". DID NOT HELP. THE FAULTY WIRES POSSIBLY CAUSED THE MAIN AMP TO BLOW WHICH MAY HAVE CAUSED THE ALTERNATOR TO GO.    *NLM",
+        "vin": "1FARP15J9RW"
+    }
+]

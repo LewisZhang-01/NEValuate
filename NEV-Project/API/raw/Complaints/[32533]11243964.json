@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN,VEHICLE SPEED CONTROL,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "08/14/2019",
+        "dateOfIncident": "07/04/2019",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11243964,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "SENTRA",
+                "productYear": "2012",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN DRIVING ON THE HIGHWAY IN MY 2012 NISSAN SENTRA IT SOMETIMES DEACCELERATES GRADUALLY TO THE POINT WHERE YOU CAN'T GO PAST 60 MPH AND WHEN TRYING TO ACCELERATE IT IS SLUGGISH",
+        "vin": "3N1AB6APXCL"
+    }
+]

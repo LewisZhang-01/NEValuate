@@ -1,0 +1,53 @@
+[
+    {
+        "components": "PARKING BRAKE",
+        "crash": false,
+        "dateComplaintFiled": "01/08/2013",
+        "dateOfIncident": "01/08/2013",
+        "fire": false,
+        "manufacturer": "Tiffin Motorhomes, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10492482,
+        "products": [
+            {
+                "manufacturer": "Tiffin Motorhomes, Inc.",
+                "productMake": "TIFFIN",
+                "productModel": "ALLEGRO",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "RE TIFFIN VEHICLE BUILT ON FREIGHTLINER CHASSIS, OWNER IS CONCERNED THAT THE PARKING BRAKE SYSTEM COULD FAIL AND, IF SO, REPLACEMENT PARTS MAY NOT BE AVAILABLE AND/OR BE COSTLY SINCE THE OWNER ALLEGES THAT THE MANUFACTURER FOR THE PARKING BRAKE  SYSTEM IS EITHER OUT-OF-BUSINESS OR NO LONGER MFG THESE PARKING BRAKE SYSTEM COMPONENTS.   UPDATED 2/14/13 *CN UPDATED 2/21/2013 *JS",
+        "vin": "4UZACLBWX6C"
+    },
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "08/31/2009",
+        "dateOfIncident": "07/20/2009",
+        "fire": true,
+        "manufacturer": "Tiffin Motorhomes, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10282436,
+        "products": [
+            {
+                "manufacturer": "Tiffin Motorhomes, Inc.",
+                "productMake": "TIFFIN",
+                "productModel": "ALLEGRO",
+                "productYear": "2006",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Norcold Inc.",
+                "productMake": "NORCOLD",
+                "productModel": "REFRIGERATOR",
+                "productYear": "1999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 2006 ALLEGRO RV TIFFIN MODEL EQUIPPED WITH AN NORCOLD COOLING UNIT THAT EXPLODED TWO DAYS AFTER SHE RECEIVED RECALL NOTICE 09E027000 EQUIPMENT. SHE WAS ABLE TO EXTINGUISHED THE FIRE WITHOUT THE FIRE DEPARTMENT. A REPORT WAS FILED WITH THE MANUFACTURER WHO STATED THAT HER SERIAL NUMBER WAS OUT OF THE RECALL RANGE; HOWEVER, THE MANUFACTURER GAVE HER A NEW COOLING UNIT THAT IS NOT EQUIPPED WITH AN ICING UNIT OR DOOR.        UPDATED 10/23/09 *CN    THE CONSUMER HAD TO PAY THE DIFFERENCE OF WHAT A NEW COOLING UNIT WOULD COST. UPDATED 10/27/09.*JB",
+        "vin": "4UZACHCY36C"
+    }
+]

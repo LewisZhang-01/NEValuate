@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "08/04/2007",
+        "dateOfIncident": "08/03/2007",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10198514,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "323I",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "COULD NOT BACK UP IN THE MIDDLE OF A BUSY INTERSECTION (NO REVERSE AND NO WARNING). 323I BMW 2000 TRANSMISSION FAILED.  *TR",
+        "vin": ""
+    }
+]

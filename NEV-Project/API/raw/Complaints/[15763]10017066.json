@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "05/05/2003",
+        "dateOfIncident": "04/04/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017066,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TSB NO. 08-15-99 INTERMITTENT AIR BAG WARNING AND CLUSTER OPERATION  CREATES A HAZARDOUS DRIVING CONDITION .  *JB",
+        "vin": "1J4FY29P5XP"
+    }
+]

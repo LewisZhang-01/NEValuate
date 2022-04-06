@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "03/24/2003",
+        "dateOfIncident": "03/18/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10012261,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERCURY",
+                "productModel": "TRACER",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER RECEIVED A RECALL LETTER IN THE MAIL BUT DEALER STILL STATED THE VEHICLE WAS OVER WARRANTY AND REFUSED TO REPAIR THE VEHICLE (RECALL#02V323000 AIRBAG).  *NLM  *SCC",
+        "vin": "1MELM13P6VW"
+    }
+]

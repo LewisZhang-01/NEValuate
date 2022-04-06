@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "12/17/2021",
+        "dateOfIncident": "12/07/2021",
+        "fire": true,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11444167,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "QUEST",
+                "productYear": "2017",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Car had internal fire with the push start system. Brake switch caught fire when the car was started melted electrical underneath",
+        "vin": "Jn8ae2kp4h9"
+    }
+]

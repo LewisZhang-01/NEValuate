@@ -1,0 +1,46 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "04/17/2001",
+        "dateOfIncident": "02/03/1998",
+        "fire": false,
+        "manufacturer": "KEYSTONE, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 886064,
+        "products": [
+            {
+                "manufacturer": "KEYSTONE, INC.",
+                "productMake": "KING OF THE ROAD",
+                "productModel": "MINI MOTOR HOME",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE TRAVELING ANOTHER VEHICLE FLAGGED CONSUMER DOWN AND STATED THAT TIRE HAD BLOWNOUT. CONSUMER PULLED VEHICLE OVER, AND  NOTICED NO TREAD LEFT. *AK  RIGHT REAR  FIRESTONE STEELTEX R4S TIRES, 16 INCH, TIRE FAILURE CAUSED DAMAGE TO VEHICLE.   *SLC",
+        "vin": "1DRRF3125VB"
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "02/20/2001",
+        "dateOfIncident": "11/01/2000",
+        "fire": false,
+        "manufacturer": "KEYSTONE, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 880862,
+        "products": [
+            {
+                "manufacturer": "KEYSTONE, INC.",
+                "productMake": "KING OF THE ROAD",
+                "productModel": "MINI MOTOR HOME",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TREAD SEPARATED ON RIGHT FRONT FIRESTONE STEELTEX RADIAL R45 TIRE, P21585R16, DOT VN0P65C476, TIRE FAILURE CAUSED DAMAGE TO BATTERY COMPARTMENT, TRAILER DROPPED ONTO RIGHT REAR TIRE RUINING BOTH TIRES.   *SLC",
+        "vin": ""
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "04/01/2003",
+        "dateOfIncident": "03/24/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10013787,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "ENVOY",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE GMC ENVOY'S ELECTRONICS FAIL.  NO DASH INSTRUMENTS OR RADIO CONTROLS.  HAPPENS INTERMITTENTLY. OCCURS WHEN DRIVING.  THE ENGINE RACES UNEXPECTEDLY.  THIS HAS HAPPENED 10 TO 12 TIMES.  THE SLV-TRUCK IS CURRENTLY AT THE DEALER WHO IS ONCE AGAIN ATTEMPTING TO REPAIR IT.*JB",
+        "vin": "1GKDT13S222"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "components": "WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "07/29/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10031439,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "FLSTF",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "PER CONSUMER \"THERE IS A FAILURE IN THE WHEELS THAT DOES  NOT ALLOW THEM TO HOLD AIR.*AK",
+        "vin": "1HD1BMY122Y"
+    },
+    {
+        "components": "WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "11/13/2002",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 568272,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "FLSTF",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE CONSUMER STATED THAT THE MOTOR BIKE WAS NOT SAFE ON HIGHWAY DUE TO INCORRECT WHEELS INSTALLED BY THE MANUFACTURER. THE CONSUMER WANTS THE DEALER TO REPLACE THE WHEELS.  *YH",
+        "vin": "1HD1BXB152Y"
+    }
+]

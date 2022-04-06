@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "03/21/2003",
+        "dateOfIncident": "03/13/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010824,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "RAM 1500",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE HAS LUNGED FORWARD WHILE IN DRIVE.    ENGINE IDLE ELECTRONICALLY ADVANCES WHILE TRANSMISSION IN DRIVE, DRIVER MUST KEEP FOOT FIRMLY DEPRESSED ON BRAKE TO AVOID ACCIDENT.   ALSO HAVING SIGNIFICANT ELECTRICAL PROBLEMS - SPECIFICALLY GAUGES DO NOT FUNCTION PROPERLY AND HORN/LIGHTS ENGAGE. PROBLEMS ARE INTERMITTENT.   *NLM",
+        "vin": "1D7HA18N72S"
+    }
+]

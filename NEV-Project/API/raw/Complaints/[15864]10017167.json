@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "05/01/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017167,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "CROWN VICTORIA",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "A PIN HOLE SIZE LEAK DEVELOPED IN THE HIGH PRESSURE FUEL LINE, AND WAS REPLACED ALONG WITH THE BRAKE HYDRAULIC LINE.  MR  SCC",
+        "vin": "2FALP73W5VX"
+    }
+]

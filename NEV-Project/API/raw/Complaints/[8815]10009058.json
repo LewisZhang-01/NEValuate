@@ -1,0 +1,24 @@
+[
+    {
+        "components": "WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "03/04/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009058,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "HARLEY DAVIDSON",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE SOLID WHEELS CAUSE THE MOTORCYCLE TO LOSE STABILITY WHEN PASSED BY A LARGER VEHICLE (MODEL/FATBOY).   SCC   *NLM",
+        "vin": "1HD1BXB152Y"
+    }
+]

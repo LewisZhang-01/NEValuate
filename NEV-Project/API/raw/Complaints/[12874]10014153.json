@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": true,
+        "dateComplaintFiled": "04/08/2003",
+        "dateOfIncident": "04/05/2003",
+        "fire": true,
+        "manufacturer": "Subaru of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10014153,
+        "products": [
+            {
+                "manufacturer": "Subaru of America, Inc.",
+                "productMake": "SUBARU",
+                "productModel": "SVX",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TRANSMISSION HESITATED ON HIGHWAY AND IN REVERSE.   *NLM",
+        "vin": "JF1CX3534NH"
+    }
+]

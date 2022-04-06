@@ -1,0 +1,46 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "03/08/2022",
+        "dateOfIncident": "08/01/2021",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11455720,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350 SD",
+                "productYear": "2021",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact owns a 2021 Ford F-350 SD. The contact received a notification for NHTSA Campaign Number: 21V090000 (Visibility); however, the part to do the recall repair was unavailable. The dealer had been notified about the recall and confirmed that parts were not yet available. The manufacturer had been notified of the recall and referred the contact to NHTSA. The contact stated that the manufacturer had exceeded a reasonable amount of time for the repair. The contact had not experienced a failure. The VIN was not available.",
+        "vin": ""
+    },
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "04/05/2021",
+        "dateOfIncident": "04/05/2021",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11406455,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350 SD",
+                "productYear": "2021",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ABOUT 7-8 TIMES NOW, THE TAILGATE HAS OPENED UNDER IT'S OWN POWER UNEXPECTEDLY. IT HAS HAPPENED WHILE STATIONARY AFTER JUST STARTING THE VEHICLE, WHILE IN REVERSE AND IN FORWARD MOTION. ALL INSTANCES SEEM TO HAPPEN SHORTLY AFTER THE VEHICLE HAS BEEN STARTED.",
+        "vin": "1FT8W3BT0ME"
+    }
+]

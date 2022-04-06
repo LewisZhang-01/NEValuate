@@ -1,0 +1,24 @@
+[
+    {
+        "components": "LATCHES/LOCKS/LINKAGES",
+        "crash": false,
+        "dateComplaintFiled": "05/28/2003",
+        "dateOfIncident": "05/20/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020635,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "AEROSTAR",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SLIDING DOOR WILL EITHER NOT LATCH AT ALL OR IT WILL STAY CLOSED AND WE ARE UNABLE TO OPEN IT .",
+        "vin": ""
+    }
+]

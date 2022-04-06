@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS,SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "05/28/2003",
+        "dateOfIncident": "05/10/2001",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021727,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "ESCAPE",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NAR 05/28/2003  *MR THE CONSUMER MADE SEVERAL ATTEMPTS TO FIX INOPERABLE AIR BAG ASSEMBLY. SEAT BELT RESTRAINT SYSTEM REPLACED.  DEALER NOTIFIED.   *CB",
+        "vin": "9999"
+    }
+]

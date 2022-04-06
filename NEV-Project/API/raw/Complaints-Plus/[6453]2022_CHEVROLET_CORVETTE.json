@@ -1,0 +1,90 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "04/04/2022",
+        "dateOfIncident": "04/01/2022",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11459628,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CORVETTE",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Transmission died after only 1400 miles, vehicle is brand new and I\u2019m concerned about the transmission dying after only a few miles on a $110k car, already took it to a Chevy dealer and confirmed it was the transmission and needed to be changed, warranty will cover it this time",
+        "vin": "1G1YB2D45N5"
+    },
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "03/19/2022",
+        "dateOfIncident": "03/16/2022",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11457405,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CORVETTE",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "On Wednesday March 16, I was driving my 2022 C8 Corvette with only 450 miles on it. I stopped a red light and the car stalled out. I didn't think anything of it and push to start it up again and it started as i continued to drive I approached another red light and as I stopped at it the car shut off and again and wouldn't start back up, as I pushed the start button I smelled smoke and I stop trying to start the car. Oil pressure gauge was reading 0 pressure and flashing red. A notification came across the dash board indicating engine failure and also was notified by my app on my cell phone that the engine failed. Tow truck driver couldn't put the car in neutral due to the vehicle not starting, having to drag onto the flatbed for towing back to dealer",
+        "vin": "1G1YB3D43N5"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM,LANE DEPARTURE",
+        "crash": false,
+        "dateComplaintFiled": "03/12/2022",
+        "dateOfIncident": "03/11/2022",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11456433,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CORVETTE",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Receiving error message \"Side Detection Temporarily Unavailable\"",
+        "vin": "1G1YB3D45N5"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "01/04/2022",
+        "dateOfIncident": "01/03/2022",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11446203,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CORVETTE",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Shifting luggage during a left turn caused the remote front trunk saftey switch inside the trunk to be depressed and open the front trunk, this was at low speed in my neighborhood, no damage or issues occurred, however if this had happened at higher speeds, the front trunk lid could have caused loss of visibility if the lid had completely opened.",
+        "vin": "1g1yc2d44n5"
+    }
+]

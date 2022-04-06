@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "04/16/2003",
+        "dateOfIncident": "03/17/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10014438,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "E-150",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AS THE RESULT OF A HEAD-ON COLLISION, THE AIRBAGS FAILED TO DEPLOY. THE COLLISION WAS SLIGHTLY OFF-CENTER TO THE DRIVERS SIDE OF THE VEHICLE. SUBJECT VEHICLE WAS TRAVELING AT APPROXIMATELY 30-35 M.P.H., OTHER VEHICLE WAS TRAVELING AT LEAST THE SAME SPEED IF NOT MORE. SEAT BELT DID LOCK-UP CAUSING A POSSIBLE TEAR OF THE THE SUBJECT VEHICLE DRIVER'S SPINAL CORD AT THE FOURTH CERVICAL VERTEBRAE (NECK) LEVEL.  *NLM",
+        "vin": "1FTRE14272H"
+    }
+]

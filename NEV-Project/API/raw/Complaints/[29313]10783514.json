@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "10/19/2015",
+        "dateOfIncident": "09/02/2015",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10783514,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "CHEROKEE",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WATER OR FLUID LEAKING FROM EXHAUST SYSTEM. AT START UP AND SHUT DOWN REAR EXHAUST.",
+        "vin": "1C4PJMCS2FW"
+    }
+]

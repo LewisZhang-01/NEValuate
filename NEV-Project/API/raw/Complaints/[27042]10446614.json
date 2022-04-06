@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "02/03/2012",
+        "dateOfIncident": "01/13/2012",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10446614,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "HHR",
+                "productYear": "2007",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AT A STOP LIGHT LEFT WIPER STOPPED WORKING.  PASSENGER SIDE CONTINUED TO OPERATE IN A LIGHT SNOW.  MILEAGE WAS ABOUT 77K.  *KB",
+        "vin": ""
+    }
+]

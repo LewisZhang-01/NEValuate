@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "04/01/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10012219,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "GRAND AM",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "EAGLE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "TIRE REPLACEMENT.  * MR  THE FACTORY AGREED THAT THEY PLACED THE WRONG TIRES ON THE VEHICLE.  THE DEALER STATED THEY WOULD ONLY REPLACE THE FRONT TWO TIRES.  THERE WAS A CONSTANT GRINDING SOUND THAT HAD COME FROM THE FRONT END.  THE CONSUMER REQUESTED THE DEALER TO COVER ALL FOUR TIRES.  SCC  *JB",
+        "vin": "1G2NW52E61C"
+    }
+]

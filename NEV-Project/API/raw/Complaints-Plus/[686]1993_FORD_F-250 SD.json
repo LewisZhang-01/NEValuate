@@ -1,0 +1,90 @@
+[
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "12/21/2015",
+        "dateOfIncident": "12/21/2015",
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10811447,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-250 SD",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "STARTED VEHICLE NORMALLY AND AS SOON AS THE BRAKE WAS APPLIED, A LOUD 'POP' SOUND WAS HEARD BEHIND THE DASH AND A LARGE AMOUNT OF SMOKE CAME INTO THE CAB FROM THE A/C VENTS. I CONTINUED FOR ABOUT ONE MINUTE. THE VEHICLE WAS SHUT OFF AND PARKED IN PLACE. THE SMOKE SUBSIDED. THIS IS CONSISTENT WITH THE PROBLEMS INDICATED IN THE SPEED CONTROL DEACTIVATION SWITCH RECALL AFFECTING 1993 FORD F-250 VEHICLES CAUSING UNDER HOOD FIRES. HOWEVER, AFTER CONTACTING FORD, THEY INDICATED THAT MY PARTICULAR VIN WAS NOT INCLUDED IN THE RECALL, AND I WOULD BE RESPONSIBLE FOR THE COST OF TOWING AND ANY REPAIRS.",
+        "vin": "1FTHX26H0PK"
+    },
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "07/24/2006",
+        "dateOfIncident": "06/01/2006",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10163247,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-250 SD",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE CAPACITY OF THE RECEIVING TANK MAY BE EXCEEDED AND FUEL MAY OVERFLOW FROM THE FILLER CAP.  *NM",
+        "vin": "1FTHX26G5PK"
+    },
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "07/06/2005",
+        "dateOfIncident": "06/27/2005",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10127654,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-250 SD",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DT:  CONSUMER RECEIVED  NHTSA CAMPAIGN RECALL  93V125000 CONCERNING   FUEL SYSTEM CHECK VALVE.  WHEN  THE CONSUMER CONTACTED FORD THEY TOLD HIM THAT BECAUSE THE TWELVE YEAR WARRANTY  EXPIRED HE WOULD NOT BE REIMBURSED.    THE CONSUMER  TOOK THE  VEHICLE TO  A REPAIR SHOP ABOUT A WEEK AGO AND THEY TOLD HIM TO CALL A FORD DEALERSHIP, WHO THEN ADVISED HIM TO CALL THE MANUFACTURER.*AK",
+        "vin": "1FTHF26H1PN"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "09/21/2003",
+        "dateOfIncident": "03/01/1994",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10039234,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-250 SD",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "6 SERP. BELTS & 3 TENSIONER ASSYS IN 65000 MILES. LAST ONE AT FREEWAY SPEED PULLING TRAV TRL. VERY LITTLE BRAKES OR STEERING. THE ONE AT 59000 MILES PULLED TRANS COOLING LINES INTO DAMP PULLEY, NOW MY TRANS (AUTO) IS MAKING NOISES. OCCURRED ON 3/94  7/96  9/96  2/03  6/03  8/03.  *JB",
+        "vin": "1FTHX26M3PK"
+    }
+]

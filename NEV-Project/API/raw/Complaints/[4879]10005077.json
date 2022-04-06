@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "02/01/2003",
+        "dateOfIncident": "01/13/2003",
+        "fire": false,
+        "manufacturer": "Volvo Car USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005077,
+        "products": [
+            {
+                "manufacturer": "Volvo Car USA, LLC",
+                "productMake": "VOLVO",
+                "productModel": "S60",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ELECTRICAL PROBLEM IN VOLVO S60 2001.     TS",
+        "vin": "YV1RS61R212"
+    }
+]

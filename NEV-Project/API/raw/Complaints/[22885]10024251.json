@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "07/25/2003",
+        "dateOfIncident": "06/04/2003",
+        "fire": false,
+        "manufacturer": "MANSFIELD TIRE & RUBBER C",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10024251,
+        "products": [
+            {
+                "manufacturer": "MANSFIELD TIRE & RUBBER C",
+                "productMake": "DUTCHMAN",
+                "productModel": "CLASSIC",
+                "productYear": "9999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "STEELTEX TIRE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE VEHICLE EXPERIENCED TREAD SEPARATION ON THREE  DIFFERENT TIRES. FIRESTONE CLAIMED NO PROBLEMS WERE FOUND AND THAT THEY COULD NOT MAKE REPAIRS  UNLESS IT WAS A RECALL.  THE CONSUMER HAD TO PAY FOR REPAIRS (DUTCHMAN DUTCH 1998, FIRESTONE,STEELTEX,R4S, LT225/75R16MNS,RADIAL R4S).   *AK   *CB    *NLM",
+        "vin": "1FDXE40S3WH"
+    }
+]

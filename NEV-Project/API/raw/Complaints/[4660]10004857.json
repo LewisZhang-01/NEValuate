@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "01/28/2003",
+        "dateOfIncident": "05/16/2002",
+        "fire": false,
+        "manufacturer": "Mercedes-Benz USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004857,
+        "products": [
+            {
+                "manufacturer": "Mercedes-Benz USA, LLC",
+                "productMake": "MERCEDES BENZ",
+                "productModel": "ML320",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "POWER STEERING FAILURE. THE FLUID WAS GUSHING OUT. DEALER REPAIRED WITH NEW POWER STEERING RETURN HOSE AND CLAMP. TS",
+        "vin": "4JGAB54E2YA"
+    }
+]

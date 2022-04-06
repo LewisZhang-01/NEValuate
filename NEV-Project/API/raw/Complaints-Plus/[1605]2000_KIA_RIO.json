@@ -1,0 +1,68 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "08/11/2004",
+        "dateOfIncident": "07/14/2004",
+        "fire": false,
+        "manufacturer": "Kia Motors America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10087730,
+        "products": [
+            {
+                "manufacturer": "Kia Motors America",
+                "productMake": "KIA",
+                "productModel": "RIO",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE STALLED WHEN AT A STOP SIGN.  AFTER TAKING  VEHICLE TO DEALER THE PROBLEM GOT WORSE. MECHANIC STATED THAT THE ENGINE NEEDED TO BE ADJUSTED.  HOWEVER, THE PROBLEM RECURRED.*AK",
+        "vin": "KNADC123926"
+    },
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "08/10/2004",
+        "dateOfIncident": "07/13/2004",
+        "fire": false,
+        "manufacturer": "Kia Motors America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10087611,
+        "products": [
+            {
+                "manufacturer": "Kia Motors America",
+                "productMake": "KIA",
+                "productModel": "RIO",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING THERE WAS VIBRATION IN THE FRONT END. DEALERSHIP WAS NOTIFIED, BUT DID NOT RESOLVE THE PROBLEM. *AK",
+        "vin": "KNADC123726"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC,AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "05/29/2001",
+        "dateOfIncident": "09/01/2000",
+        "fire": false,
+        "manufacturer": "Kia Motors America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 889338,
+        "products": [
+            {
+                "manufacturer": "Kia Motors America",
+                "productMake": "KIA",
+                "productModel": "RIO",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AIRBAG LIGHT COMES ON  DASHBOARD. ALSO,   A WARNING LIGHT,  BRAKE PEDAL GOES ALL THE WAY TO THE FLOOR, AND THERE ARE NOISES.  *AK",
+        "vin": ""
+    }
+]

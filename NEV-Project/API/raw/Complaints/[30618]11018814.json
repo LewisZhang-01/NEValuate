@@ -1,0 +1,24 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "08/22/2017",
+        "dateOfIncident": "08/21/2017",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11018814,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "VOLT",
+                "productYear": "2017",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AT TIMES, THE VEHICLE WILL NOT RECOGNIZE THE KEY FOB AND WILL NOT START, LOCK, OR UNLOCK.  THIS HAPPENS SEEMINGLY RANDOMLY WHEN THE VEHICLE IS STATIONARY AND OFF.  I CAN NOT REPRODUCE THE PROBLEM, BUT IT HAPPENS ABOUT 2-3 TIMES A MONTH.  IT SEEMS THAT IF I GET THE FOB AWAY FROM THE CAR FOR ABOUT 15 MINUTES AND RETURN, THE VEHICLE THEN RECOGNIZES THE KEY AGAIN.",
+        "vin": "1G1RA6S55HU"
+    }
+]

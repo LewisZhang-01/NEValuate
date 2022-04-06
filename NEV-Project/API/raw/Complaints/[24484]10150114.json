@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "02/13/2006",
+        "dateOfIncident": "02/03/2006",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10150114,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "ACURA",
+                "productModel": "TL",
+                "productYear": "2004",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Bridgestone Americas Tire Operations",
+                "productMake": "BRIDGESTONE",
+                "productModel": "BRIDGESTONE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "DT*:  THE CONTACT STATED WHILE DRIVING 65 MPH, THE SIDEWALL SEPARATED FROM THE TREAD ON THE FRONT PASSENGER TIRE.  THE CONTACT THEN NOTICED A TWO INCH CRACK ON THE DRIVER SIDE FRONT TIRE.  THE VEHICLE WAS TAKEN TO THE DEALERSHIP AND IT WAS DETERMINED THESE WERE RATED FOR 25,000 MILES.  THE VEHICLE HAD 27,200 MILES AT TIME OF FAILURE.  THE TIRE LINE IS 92354517EL42.",
+        "vin": "19UUA66264A"
+    }
+]

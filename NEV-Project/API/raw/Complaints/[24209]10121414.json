@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "05/19/2005",
+        "dateOfIncident": "05/17/2005",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10121414,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "COROLLA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "INTEGRITY",
+                "productYear": "9999",
+                "size": "175/70R13",
+                "type": "Tire"
+            }
+        ],
+        "summary": "I HAVE TOYOTA COROLLA 2003. FLETCHER JONES TOYOTA  REPLACED  ALL TIRES ON DECEMBER 11, 2004 AND INSTALLED NEW GOODYEAR TIRES ON THIS CAR. ON MAY 17, 2005 I DROVE THIS CAR ON HIGHWAY AT SPEED APPROXIMATELY 55 MILES/HOURS AND SUDDENLY LOSTED CONTROL. I REDUCED SPEED, BUT COULD NOT CONTROL CAR AND IT PULLED OFF THE ROAD AND STOPPED. THE LEFT REAR TIRE BECAME FLAT.  I CONTACTED GOODYEAR (CLAIM #766745). IN ACCORDANCE WITH GOOODYEAR, NOTHING WRONG WITH TIRE. IT JUST LOSTED SEAL. THEY REFUSED TO REPLACE TIRE. GOODYEAR AUTHORIZED REPAIR FACILITY DIXIELAND (776 SOUTH BLAFF STREET, ST. GEORGE, UT 84770) RESEALED TIRE. TIRE SIZE IS 185-65-R15 AND IT IS NOT IN YOUR LIST.",
+        "vin": "JTDBR32EX32"
+    }
+]

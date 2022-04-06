@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": true,
+        "dateComplaintFiled": "06/03/2003",
+        "dateOfIncident": "05/15/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022112,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "DAKOTA",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE WAS PARKED AND STILL RUNNING WHEN WITHOUT WARNING THE VEHICLE POPPED OUT OF PARK AND ROLLED BACK INTO ANOTHER PARKED VEIHICLE.*AK",
+        "vin": ""
+    }
+]

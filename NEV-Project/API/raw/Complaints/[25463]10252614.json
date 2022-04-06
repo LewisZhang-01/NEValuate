@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN,VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "12/23/2008",
+        "dateOfIncident": "12/23/2008",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10252614,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPEDITION",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "\"CHECK ELECTRONIC THROTTLE\" MESSAGE APPEARED AND ACCELERATOR PEDAL BECAME INOPERATIVE. THIS IS THE SECOND TIME THIS HAS OCCURRED. SHIFTED VEHICLE INTO NEUTRAL, RESTARTED ENGINE WHILE ROLLING ALONG AND ERROR WAS CORRECTED. *TR",
+        "vin": "1FMFU18565L"
+    }
+]

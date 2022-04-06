@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE,VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "03/05/2003",
+        "dateOfIncident": "11/04/2002",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10011349,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "GRAND CHEROKEE",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NAR 03/05/2003    THE CONSUMER EXPERIENCED PROBLEM WITH THE TAIL GATE.  ON MODERATE OCCASIONS HARD ACCELERATION WOULD OCCUR.  *CB",
+        "vin": "9999"
+    }
+]

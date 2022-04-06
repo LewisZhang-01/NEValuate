@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS,FORWARD COLLISION AVOIDANCE",
+        "crash": false,
+        "dateComplaintFiled": "03/20/2022",
+        "dateOfIncident": "02/02/2022",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11457486,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "SENTRA",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Airbag warning light on after purchase.  Took vehicle to dealer, repalced an airbag sensor, did not remedy problem.   Needs airbag control module, that has an unknown eta for replacment.  For issue with auto breaking and foward collision, was merging on freeway, and while accelerating, the dashboard warning lights activated, and the center dash communication area notified me of an error in the system",
+        "vin": "3N1AB8CV4NY"
+    }
+]

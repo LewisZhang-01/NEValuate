@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "06/05/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Mercedes-Benz USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022402,
+        "products": [
+            {
+                "manufacturer": "Mercedes-Benz USA, LLC",
+                "productMake": "MERCEDES BENZ",
+                "productModel": "SLK",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN THERE WAS A QUICK ACCELERATION FROM A COMPLETE STOP POSITION, THE ESP(ELECTRICAL STABILIZER PROGRAM) SYSTEM ENGAGED. THIS RESULTED IN THE VEHICLE STOPPING AFTER ACCELERATING FOR ONLY 2 FEET. THE VEHICLE DID NOT ACCELERATE UNTIL THE ESP SYSTEM DISENGAGED.  *JB",
+        "vin": ""
+    }
+]

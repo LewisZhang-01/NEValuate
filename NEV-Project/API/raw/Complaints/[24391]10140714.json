@@ -1,0 +1,24 @@
+[
+    {
+        "components": "LATCHES/LOCKS/LINKAGES",
+        "crash": false,
+        "dateComplaintFiled": "10/25/2005",
+        "dateOfIncident": "08/01/2005",
+        "fire": false,
+        "manufacturer": "Newmar Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10140714,
+        "products": [
+            {
+                "manufacturer": "Newmar Corporation",
+                "productMake": "NEWMAR",
+                "productModel": "DUTCH STAR",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AUTOMATIC SLIDE LOCKS FAILED TO CLOSE ON SLIDES. THEY HAVE A CHEAP SCREW THAT THEY BEND TO MAKE CONTACT WITH A MAGNET. VERY POOR DESIGN.  *NM",
+        "vin": "4VZBR1D935C"
+    }
+]

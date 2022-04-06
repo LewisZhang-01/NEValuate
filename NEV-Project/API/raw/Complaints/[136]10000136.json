@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "12/16/2002",
+        "dateOfIncident": "12/08/2002",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000136,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "300M",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKES COMPLETELY FAILED AS A RESULT OF A MECHANICAL BREAKDOWN OF THE VACUUM ASSIST/MASTER CYLINDER SYSTEM.",
+        "vin": "2C3HE66G0XH"
+    }
+]

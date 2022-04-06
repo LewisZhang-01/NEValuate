@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "05/11/2006",
+        "dateOfIncident": "04/22/2006",
+        "fire": false,
+        "manufacturer": "Forest River, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10157245,
+        "products": [
+            {
+                "manufacturer": "Forest River, Inc.",
+                "productMake": "FOREST RIVER",
+                "productModel": "GEORGETOWN",
+                "productYear": "1998",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "UNISTEEL TIRE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "DT*:  THE CONTACT STATED WHILE DRIVING 70 MPH ON THE HIGHWAY, THE VEHICLE HAD THREE BLOWOUTS.  THE FIRST TIRE WAS THE REAR INSIDE DUEL ON THE PASSENGER SIDE.  THE VEHICLE WAS ABLE TO GET OFF THE ROAD AND THE TIRE WAS CHANGED.  THE SECOND AND THIRD WERE THE INSIDE DUEL ON THE DRIVER SIDE, THEY TOO WERE CHANGED.  THE FORTH TIRE HAD A BULGE IN THE SIDEWALL AND WAS CHANGED BEFORE ANY PROBLEM OCCURRED.  THIS HAPPENED OVER SEVERAL YEARS.  THE DEALER AND MANUFACTURER HAVE BEEN ALERTED ABOUT THE FORTH TIRE.  THE VEHICLE IS A 1998 FOREST RIVER GEORGETOWN.  *AK",
+        "vin": "3FCMF53S8XJ"
+    }
+]

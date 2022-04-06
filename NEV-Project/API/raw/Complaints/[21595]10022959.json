@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "06/12/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022959,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "QUEST",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FRONT DRIVERS AUTOMATIC SEAT BELT IS STUCK IN ONE STATIONARY POSITION.  CONSUMER CAN HEAR MOTOR RUNNING BUT NO MOVEMENT OF SEATBELT.  *AK",
+        "vin": "4N2DN11W1PD"
+    }
+]

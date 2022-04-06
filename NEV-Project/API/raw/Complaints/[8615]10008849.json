@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "02/20/2003",
+        "dateOfIncident": "02/18/2203",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10008849,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "TRANS AM",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE TRANSMISSION LOCKED UP WHICH CAUSED THE REAR TIRES TO LOCK UP, WHICH MADE THE VEHICLE DIFFICULT TO CONTROL.*JB",
+        "vin": "FULLFILL"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "08/20/2019",
+        "dateOfIncident": "08/20/2019",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11245264,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2012",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "RECENTLY ON MULTIPLE OCCASIONS WHEN I START MY CAR I HAVE NO STEERING AND I SEE A WARNING MESSAGE COME UP ON THE DASH THAT THE STEERING IS NOT FUNCTIONAL.  WHEN I TURN THE IGNITION OFF AND RESTART, IT SEEMS TO WORK PROPERLY AGAIN.  I AM SCARED THAT I AM GOING TO LOSE MY STEERING WHILE DRIVING.",
+        "vin": "1FAHP3F24CL"
+    }
+]

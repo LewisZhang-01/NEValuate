@@ -1,0 +1,31 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC,ENGINE AND ENGINE COOLING,FUEL SYSTEM, GASOLINE,ELECTRICAL SYSTEM,EXTERIOR LIGHTING,LATCHES/LOCKS/LINKAGES,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "05/12/2003",
+        "dateOfIncident": "03/27/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018548,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "MALIBU",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "AUTOMOTIVE CLIMATE CTRL.",
+                "productMake": "ACC",
+                "productModel": "8909",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "1) LEAKING COOLANT FROM INTAKE MANIFOLD INTO ENGINE, REQUIRED GASKET REPLACEMENT AND COOLANT / OIL CHANGE  2) TURN SIGNALS WORK INTERMITTENTLY, HAD TO REPLACE TURN SIGNAL SWITCH  3) A/C DOES NOT WORK, BLOWS HOT AIR, DEALER UNABLE TO REPAIR  4) BRAKES WEAK, VIBRATE.  REPLACED WITH AFTER MARKET COMPONENTS (POWERSLOT ROTORS AND PERFORMANCE FRICTION CARBON METALLIC PADS)  5) AUTOMATIC DOOR LOCKS INOPERATIVE, DEALER UNABLE TO REPAIR  6) POOR FUEL MILEAGE, BEST IS 28 MPG HIGHWAY (CAFE VIOLATION??)  7) STARTER FAILED, REPLACED WITH REBUILT UNIT.   *NLM",
+        "vin": "1G1NE52J316"
+    }
+]

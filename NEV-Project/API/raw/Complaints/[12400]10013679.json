@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "03/30/2003",
+        "dateOfIncident": "02/01/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10013679,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ABS MODULE FAILED--BEGAN EXPERIENCING PROBLEMS IN JUNE 2002.  SOMETIMES WORKED BUT OFTEN DIDN'T--FINALLY HAD THE ABS DISCONNECTED IN FEB 2003.   *NLM",
+        "vin": "1GCEC14W7XZ"
+    }
+]

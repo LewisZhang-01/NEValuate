@@ -1,0 +1,46 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "09/30/2000",
+        "dateOfIncident": "07/27/2000",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 732969,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-450 SD",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TREAD LOSS 10/29/1999, ONE TIRE, TREAD LOSS 7/28/2000, TWO TIRES.  *AK (TIRESIZE: LT23585R16)( DOT NUMBER:   TIRE SIZE: LT23585R16 )",
+        "vin": "1FDLF47F5TE"
+    },
+    {
+        "components": "STEERING,SERVICE BRAKES, HYDRAULIC,ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "07/02/1998",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 824937,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-450 SD",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN APPLYING THE BRAKES WITH A LOAD ON THE TRUCK, THE FRONT BRAKES LOCKED UP AND THE REAR BRAKES ARE INEFFECTIVE. DEALER HAS SEEN 3 TIMES. DEALER ADJUSTED BRAKE PROPORTIONING VALVE TO MAXIMUM SETTING AND REMOVED THE FACTORY INSTALLED TOGGLE WHICH PARTIALLY ALLEVIATED THE PROBLEM, CONSUMER STATED THAT FORD MOTOR COMPANY WOULD NOT COOPERATE.  ALSO, FRONT BRAKES PRONE TO LOCK UP WHEN APPLY BRAKES ON WET OR SOFT FOOTTING UNDER NORMAL ROAD CONDITIONS, CONSUMER STATES THAT THERE IS A COLD START EXHUAST MANIFOLD LEAK.   *AK  *TT",
+        "vin": "1FDLF47G6TE"
+    }
+]

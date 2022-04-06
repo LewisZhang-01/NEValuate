@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "03/04/2003",
+        "dateOfIncident": "02/20/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009792,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE IMPACTED A POLE AT 25 MPH.  AS A RESULT THE FRAME OF THE VEHICLE BENT BUT THE AIR BAGS FAILED TO DEPLOY.  THE DRIVER WAS INJURED.  *NLM",
+        "vin": "2FTZX1722XC"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "components": "POWER TRAIN,TIRES",
+        "crash": false,
+        "dateComplaintFiled": "07/25/2003",
+        "dateOfIncident": "05/31/2003",
+        "fire": false,
+        "manufacturer": "Nu Wa Industries, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022029,
+        "products": [
+            {
+                "manufacturer": "Nu Wa Industries, Inc.",
+                "productMake": "HITCHHIKER",
+                "productModel": "DISCOVERY",
+                "productYear": "1999",
+                "type": "Equipment"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "GOODYEAR",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHILE DRIVING ALL 4 TIRES SHREDDED.  THE VEHICLES AXLE BEAMS WERE ALSO REPLACED.  *PH  *NLM   *CB",
+        "vin": "9999"
+    }
+]

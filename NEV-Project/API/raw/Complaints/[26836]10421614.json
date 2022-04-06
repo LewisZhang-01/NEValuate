@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "08/26/2011",
+        "dateOfIncident": "08/06/2011",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10421614,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "ACURA",
+                "productModel": "MDX",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TORQUE CONVERTER FAILED DUE TO FAULTY EQUIPMENT. THIS CAUSED A TOTAL TRANSMISSION REPLACEMENT PER ACURA. *TT",
+        "vin": "2HNYD18254H"
+    }
+]

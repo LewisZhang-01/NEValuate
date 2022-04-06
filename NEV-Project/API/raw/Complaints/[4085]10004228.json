@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "01/30/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004228,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "HONDA",
+                "productYear": "9999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER WAS UNABLE TO SET UP AN APPOINTMENT TO HAVE THE RECALL WORK PERFORMED ON THE IGNITION SWITCH DUE TO THE UNAVAILABILITY OF PARTS.*JB",
+        "vin": ""
+    }
+]

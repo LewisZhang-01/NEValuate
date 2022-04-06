@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "06/16/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10024070,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "C10",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE EXPERIENCED THE SAME DEFECT WITH ITS WINDSHIELD WIPER WIRING AS STATED IN RECALL 98 V 150 001;  BUT  THIS VEHICLE WAS NOT INCLUDED IN RECALL DUE TO VIN.  *AK",
+        "vin": "1GCDC14Z3RZ"
+    }
+]

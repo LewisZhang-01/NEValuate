@@ -1,0 +1,68 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "01/03/2008",
+        "dateOfIncident": "11/28/2007",
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10213960,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-450 SD",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "1994 FORD F-450 CAUGHT FIRE UNDERNEATH THE PASSENGER SIDE DOOR.  *KB  OHIO TRAFFIC CRASH REPORT# 10-91-0820.",
+        "vin": ""
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "11/02/2007",
+        "dateOfIncident": "10/29/2007",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10207724,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-450 SD",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 1994 FORD SUPERDUTY F450.  WHILE STOPPING THE VEHICLE, THE CONTACT NOTICED THAT THE BRAKES HAD A BURNING SMELL AND PUFFS OF SMOKE APPEARED.  HE CONTINUED DRIVING A SHORT DISTANCE TO A FORD DEALER AND THEY STATED THAT THE CALIPER PISTONS WOULD NOT RELEASE, WHICH CAUSED THE BURNING SMOKE SMELL.  THE DEALER ALSO STATED THAT THE PISTON WAS NOT RELEASING ON THE CALIPER AND WAS CORRODED UNDERNEATH.  THE VEHICLE IS CURRENTLY AT THE DEALER AND THEY WILL CHANGE ALL OF THE CALIPERS.  THE PURCHASE DATE AND SPEED WERE UNKNOWN.  UPDATED 01/11/08.  *LJ  UPDATED *JB",
+        "vin": "1FDLF47K9RE"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "02/21/1995",
+        "dateOfIncident": "09/01/1994",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 960321,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-450 SD",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN CARS ARE LOADED ON TRUCK BRAKES DO NOT WORK PROPERLY.  TT",
+        "vin": "1FDLF47G2RE"
+    }
+]

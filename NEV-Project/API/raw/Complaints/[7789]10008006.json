@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "02/22/2003",
+        "dateOfIncident": "02/17/2003",
+        "fire": false,
+        "manufacturer": "Mazda Motor Corp.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10008006,
+        "products": [
+            {
+                "manufacturer": "Mazda Motor Corp.",
+                "productMake": "MAZDA",
+                "productModel": "626",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TRANSMISSION FAILED, AND IT LOOKS AS THOUGH THIS IS A BIG PROBLEM WITH THIS YEAR/MAKE OF VEHICLE.",
+        "vin": "1YVGE22D8S5"
+    }
+]

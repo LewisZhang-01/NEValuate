@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "01/06/2003",
+        "dateOfIncident": "10/17/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002090,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-550 SD",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE'S STEERING WHEEL LOCKED UP AT 30 MPH, IN WHICH THE CONSUMER HAD TO USE THE EMERGENCY BRAKE TO STOP.  PH  THE POWER STEERING HOSE HAD POPPED OUT CAUSING A LOSS OF STEERING AND BRAKES.  SCC",
+        "vin": "1FDAF56F8XE"
+    }
+]

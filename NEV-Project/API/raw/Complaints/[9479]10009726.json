@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "03/17/2003",
+        "dateOfIncident": "12/13/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009726,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "9999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE STEEL PROD. CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "FIRESTONE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "GOODYEAR TIRE (FLAT TIRE PROBLEM).  THE TIRE WENT FLAT.  WHEN THE FLAT FIRESTONE TIRE WAS REMOVED, THERE WERE TWO 3 INCH TO 9 INCH SPLITS.   ALL FOUR FIRESTONE TIRES WERE REPLACED ON 9/01 AT CONSUMER'S EXPENSE.  HOWEVER, DEALERSHIP/TIRE MERCHANT NOT WILLING TO  REIMBURSE CONSUMER FOR DEFECTIVE TIRE/TIRE REPLACEMENT(S).   *TT  *NLM",
+        "vin": ""
+    }
+]

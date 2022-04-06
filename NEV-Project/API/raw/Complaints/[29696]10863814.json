@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN,ELECTRICAL SYSTEM,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "05/08/2016",
+        "dateOfIncident": "05/05/2016",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10863814,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "AVALANCHE 1500",
+                "productYear": "2009",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENGINE DIES, DOOR LOCKS START OPENING AND CLOSING, ALL DASH LIGHTS GO OFF, RADIO GOES OFF,CAR STARTS ON OWN 3 TO 6 SECONDS, DID THIS AT 60 MPH AND AT 15 MPH.",
+        "vin": "3GNFK12Y09G"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN,VEHICLE SPEED CONTROL",
+        "crash": true,
+        "dateComplaintFiled": "02/24/2003",
+        "dateOfIncident": "02/17/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009107,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPEDITION",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN THE GEAR WAS SHIFTED INTO DRIVE, THE VEHICLE ACCELERATED IN REVERSE, WHICH CAUSED A MINOR ACCIDENT. *JB",
+        "vin": "PLEASE PROV"
+    }
+]

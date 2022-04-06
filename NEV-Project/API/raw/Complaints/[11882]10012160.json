@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "03/20/2003",
+        "dateOfIncident": "09/03/1998",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10012160,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TAURUS",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLES TRANSMISSION FAILED. DEALER HAD BEEN NOTIFIED AND REPAIRED THE TRANSMISSION. TRANSMISSION FAILED AGAIN AFTER REPAIR.  *NLM",
+        "vin": "1FALP53U7SG"
+    }
+]

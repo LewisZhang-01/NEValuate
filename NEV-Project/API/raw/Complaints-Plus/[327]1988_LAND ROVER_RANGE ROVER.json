@@ -1,0 +1,46 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "05/27/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Land Rover",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021591,
+        "products": [
+            {
+                "manufacturer": "Land Rover",
+                "productMake": "LAND ROVER",
+                "productModel": "RANGE ROVER",
+                "productYear": "1988",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THERE IS CORROSION AROUND THE FUEL TANK.  PLEASE PROVIDE DETAILS.*AK",
+        "vin": "SALHV1148JA"
+    },
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "01/26/1996",
+        "dateOfIncident": "12/01/1995",
+        "fire": false,
+        "manufacturer": "Land Rover",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 500989,
+        "products": [
+            {
+                "manufacturer": "Land Rover",
+                "productMake": "LAND ROVER",
+                "productModel": "RANGE ROVER",
+                "productYear": "1988",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "RECALL REPAIRS FOR LEAKY FUEL TANK REFUSED DUE TOUNAVAILABILITY OF PARTS. *DSH",
+        "vin": ""
+    }
+]

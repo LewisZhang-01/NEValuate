@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/09/2003",
+        "dateOfIncident": "05/23/2003",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021283,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "MAXIMA",
+                "productYear": "1993",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "EAGLE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "GOODYEAR EAGLE  205-65-15 TIRE BLEW OUT SUDDENLY. THERE WAS NO IMPACT PRIOR TO THE BLOWOUT, IT JUST SUDDENLY OCCURRED. I REPORTED THE INCIDENT TO GOODYEAR, AND THEY SECURED THE TIRE AND HAVE DENIED ANY PROBLEM WITH THEIR TIRE. SUDDEN NHTSA FOR THEIR REVIEW AND INVESTIGATION IN THE EVENTS OTHERS HAVE BEEN SUBJECT TO SUCH INCIDENTS .*AK",
+        "vin": "JN1HJ01F3PT"
+    }
+]

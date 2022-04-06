@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "05/04/2003",
+        "dateOfIncident": "05/05/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017013,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CORVETTE",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "STEERING COLUMN MOTOR ON MY 1998 CHEVROLET CORVETTE DEFECTIVE FOR THE SECOND TIME IN ONE YEAR CAUSING THE STEERING COLUMN TO LOCK AND BE INOPERABLE.  *JB REF. IN EA02-031 *CJS",
+        "vin": ""
+    }
+]

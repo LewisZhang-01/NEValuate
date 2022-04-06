@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "04/04/2019",
+        "dateOfIncident": "04/03/2019",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11193764,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "X3",
+                "productYear": "2011",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WATER PUMP AND THERMOSTAT HAVE FAILED AT 63,000 MILES. THAT IS AN EXTREMELY SHORT LIFE SPAN FOR THOSE ITEMS AND FROM GENERAL RESEARCH IT APPEARS THAT THIS IS A COMMON ISSUE WITH THESE VEHICLES.",
+        "vin": "5UXWX7C50BL"
+    }
+]

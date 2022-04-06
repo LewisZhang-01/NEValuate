@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "05/28/2003",
+        "dateOfIncident": "12/02/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022015,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPEDITION",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Continental Tire the Americas, LLC",
+                "productMake": "CONTINENTAL",
+                "productModel": "CONTINENTAL",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "TIRE RECALL FROM CONTINENTAL TIRES.  *MR.  THE CONSUMER NOTICED THE VEHICLE HAD A BUMPY RIDE, WHEN HE CHECKED THE VEHICLE, HE NOTICED THE RIGHT REAR TIRE WAS DAMAGED, THE RUBBER HAD PARTIALLY SEPARATED FROM THE TIRE AND THE WIRES WERE EXPOSED.  THE CONSUMER EXPERIENCED THE SAME PROBLEM 3 MONTHS LATER. THE CONSUMER WAS INFORMED OF A RECALL, BUT IT HAD ALREADY ENDED. *JB",
+        "vin": "1FMRU15L21L"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/10/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Subaru of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002557,
+        "products": [
+            {
+                "manufacturer": "Subaru of America, Inc.",
+                "productMake": "SUBARU",
+                "productModel": "OUTBACK",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "WILDERNESS",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHILE TRAVELING AT 65 MPH, CONSUMER STATES RIGHT REAR TIRE BLEW 2 1/2 INCHES FROM THE RIM, AND THERE WERE SPLITS GOING ALL THE WAY AROUND TIRE.  PLEASE PROVIDE ANY FURTHER INFORMATION.*JB",
+        "vin": "4S3BH665017"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "01/30/2003",
+        "dateOfIncident": "08/23/2002",
+        "fire": true,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004972,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "GRAND PRIX",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "- DEFECTIVE HIGH PRESSURE TRANSISSION LINE  - DEFECTIVE CRIMP  - HOSE SEPARATED FROM METAL TUBE, CAUSING SEVERE FIRE DAMAGE IN ENGINE       COMPARTMENT",
+        "vin": "1G2WP12K5WF"
+    }
+]

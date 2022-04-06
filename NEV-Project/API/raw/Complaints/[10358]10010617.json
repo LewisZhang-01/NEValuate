@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "03/17/2003",
+        "dateOfIncident": "07/14/2002",
+        "fire": false,
+        "manufacturer": "Isuzu Technical Center of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010617,
+        "products": [
+            {
+                "manufacturer": "Isuzu Technical Center of America, Inc.",
+                "productMake": "ISUZU",
+                "productModel": "TROOPER II",
+                "productYear": "1988",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Bridgestone Americas Tire Operations",
+                "productMake": "FIRESTONE",
+                "productModel": "WILDERNESS AT",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "I HAVE IN FRONT OF ME NHTSA RECALL NOTICE 01T016000 WHICH RECALL FIRESTONE WILDERNESS AT P235/75R15 TIRES WITH DOT SERIAL NUMBERS ENDING IN \"7\" (AMONG OTHER NUMBERS). I HAVE THESE TIRES ON MY CAR. I CALLED THE 800 NUMBER IN THE RECALL NOTICE FOR FIRESTONE, BUT THEY DENY THERE IS ANY RECALL. HOW DO I GET FIRESTONE TO FOLLOW THE RECALL?   *NLM",
+        "vin": ""
+    }
+]

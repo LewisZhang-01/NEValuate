@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": true,
+        "dateComplaintFiled": "03/03/2003",
+        "dateOfIncident": "05/15/2001",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10008356,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "CROWN VICTORIA",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUEL TANK ASSEMBLY BRACKETS.  *JB",
+        "vin": "2FACP73W8PX"
+    }
+]

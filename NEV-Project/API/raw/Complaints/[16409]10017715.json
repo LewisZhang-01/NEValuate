@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "04/29/2003",
+        "dateOfIncident": "04/24/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017715,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "S10",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE CONSUMERS VEHICLE EXPERIENCED THE SAME PROBLEM AS THE RECALL ON THE WINDSHIELD WIPER MODULE. RECALL# 1557585.  THE DEALER WOULD NOT REPAIR THE VEHICLE BECAUSE THE VIN WAS NOT INCLUDED.  *NLM  THE CONSUMER REPLACED THE MODULE HIMSELF WHICH SOLVED THE PROBLEM.  *SCC",
+        "vin": "1GCCS1441W8"
+    }
+]

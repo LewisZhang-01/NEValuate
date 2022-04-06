@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "04/08/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015387,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE PASSENGER SEAT BELT LOCKED UP SO TIGHT, THE PASSENGER WAS UNABLE TO MOVE.  THE SEAT BELT DID NOT GIVE ANY ROOM FOR MOVING COMFORTABLY.  *JB",
+        "vin": "3GNEC16T91G"
+    }
+]

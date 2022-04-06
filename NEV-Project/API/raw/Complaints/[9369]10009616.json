@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "03/17/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009616,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "CONTOUR",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FORD RECALL 01B78 CONCERNING INSTRUMENT PANEL WARPAGE.  *AK  CYNTHIA MAYO CALLED 6/6/2003 TO REQUEST A QUESTIONNAIRE TO MAKE ADDITIONAL COMMENTS AND TO SEND COPIES OF DOCUMENTS.",
+        "vin": ""
+    }
+]

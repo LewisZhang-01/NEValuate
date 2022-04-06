@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "06/09/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022664,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "ENVOY",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THERE IS A PROBLEM WITH THE ELECTRICAL SYSTEM.  VEHICLE SHUTS OFF INTERMITTENTLY.   VEHICLE HAS EXPERIENCED THIS PROBLEM FIVE TIMES.  *AK",
+        "vin": "1GKDS13S122"
+    }
+]

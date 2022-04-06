@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "05/31/2015",
+        "dateOfIncident": "05/30/2015",
+        "fire": false,
+        "manufacturer": "Mazda Motor Corp.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10722514,
+        "products": [
+            {
+                "manufacturer": "Mazda Motor Corp.",
+                "productMake": "MAZDA",
+                "productModel": "MAZDA3",
+                "productYear": "2007",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "MAIN AIRBAG LIGHT ON DASHBOARD COMES ON.   WHEN TURNING A CORNER.",
+        "vin": "JM1BK324371"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "04/11/2003",
+        "dateOfIncident": "03/15/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015652,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE HEAT SHIELD WAS DEFECTIVE. WHILE DRIVING, THE ENGINE COMPARTMENT AND UNDERBODY OF VEHICLE BECAME EXTREMELY HOT.  WHICH CAUSED THE SHIELD TO EXPAND. THE DEALER INSTALLED A STRAP AROUND THE SHIELD, HOWEVER THE PROBLEM STILL EXISTED.  *JB",
+        "vin": "3GNFK16Z02G"
+    }
+]

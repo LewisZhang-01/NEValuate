@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "04/02/2003",
+        "dateOfIncident": "03/12/2003",
+        "fire": false,
+        "manufacturer": "COACHMEN INDUSTRIES, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10013856,
+        "products": [
+            {
+                "manufacturer": "COACHMEN INDUSTRIES, INC.",
+                "productMake": "COACHMEN",
+                "productModel": "CATALINA",
+                "productYear": "1995",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "STEELTEX TIRE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "TREAD CAME OFF A FIRESTONE STEELTEX R4S II LT225/75R16 BW 150-886.   *NLM",
+        "vin": ""
+    }
+]

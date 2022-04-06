@@ -1,0 +1,406 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "12/03/2012",
+        "dateOfIncident": "10/30/2012",
+        "fire": false,
+        "manufacturer": "GM DAEWOO AUTO & TECHNOLOGY COMPANY",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10487232,
+        "products": [
+            {
+                "manufacturer": "GM DAEWOO AUTO & TECHNOLOGY COMPANY",
+                "productMake": "DAEWOO",
+                "productModel": "LEGANZA",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Continental Tire the Americas, LLC",
+                "productMake": "CONTINENTAL",
+                "productModel": "CONTI PRO CONTACT",
+                "productYear": "9999",
+                "size": "245/60R18",
+                "type": "Tire"
+            }
+        ],
+        "summary": "TIRE SIDEWALL BUBBLE.  TIRE FIRST STARTED MAKING NOISE AND VIBRATING FOR APPROX. 400 MILES BEFORE FAILURE.  HAD MECHANIC CHECK AND HE SAID IT WAS SIMPLY WEAR.  THE FAILURE OCCURRED ON FREEWAY AT 65 MILES AN HOUR CAUSING MAJOR SHAKING AND CONTROL ISSUES.  TIRES ARE ROTATED REGULARLY BUT COMMUNITY TIRE INSPECTED AND SAID THAT THERE WAS AN ALIGNMENT PROBLEM AND TIRES ARE WEARING UNEVENLY.  THIS TIRE WAS DETERMINED BY MANUFACTURER REPRESENTATIVE TO HAVE IMPACT DAMAGE.  THE TIRE HAS NOT HAD ANY TYPE OF IMPACT DAMAGE.  THERE IS ONE DRIVER OF VEHICLE. *TR",
+        "vin": "KLAVB69262B"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "04/23/2008",
+        "dateOfIncident": "04/22/2008",
+        "fire": false,
+        "manufacturer": "GM DAEWOO AUTO & TECHNOLOGY COMPANY",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10225517,
+        "products": [
+            {
+                "manufacturer": "GM DAEWOO AUTO & TECHNOLOGY COMPANY",
+                "productMake": "DAEWOO",
+                "productModel": "LEGANZA",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 2002 DAEWOO LEGANZA.  WHILE THE VEHICLE WAS BEING SERVICED AT A LOCAL AUTO SHOP, THE TECHNICIAN STATED THAT NEW CAMSHAFT POSITION SENSORS WERE NEEDED.  THE CONTACT CALLED AN AUTHORIZED DEALER AND THEY STATED THAT ALTHOUGH HIS VEHICLE WAS MANUFACTURED IN THE SAME YEAR, HIS VIN WAS NOT INCLUDED IN NHTSA CAMPAIGN ID NUMBER 04V394000 (ENGINE AND ENGINE COOLING).  THE VEHICLE IS CURRENTLY BEING REPAIRED AT THE CONTACT'S EXPENSE.  THE VIN WAS UNKNOWN.  THE FAILURE AND CURRENT MILEAGES WERE 101,082.",
+        "vin": ""
+    },
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "11/01/2006",
+        "dateOfIncident": "06/01/2006",
+        "fire": false,
+        "manufacturer": "GM DAEWOO AUTO & TECHNOLOGY COMPANY",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10172333,
+        "products": [
+            {
+                "manufacturer": "GM DAEWOO AUTO & TECHNOLOGY COMPANY",
+                "productMake": "DAEWOO",
+                "productModel": "LEGANZA",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DT*:  THE CONTACT STATED THAT THE AIRBAG LIGHT ILLUMINATED ON A CONSISTENT BASES.  THE DEALER WAS CONTACTED AND COULD NOT DETERMINED THE PROBLEM.  THERE WERE NO RECALLS ON THIS VEHICLE.  COMPLAINTS WERE FOUND ON THE NHTSA WEBSITE PERTAINING TO AIR BAGS: FRONTAL: SENSOR/CONTROL MODULE. YEAR: 2002  MANUFACTURER: DAEWOO MAKE: LEGANZA.*AK",
+        "vin": "KLAVB69292B"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "06/22/2005",
+        "dateOfIncident": "02/09/2005",
+        "fire": false,
+        "manufacturer": "GM DAEWOO AUTO & TECHNOLOGY COMPANY",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10126202,
+        "products": [
+            {
+                "manufacturer": "GM DAEWOO AUTO & TECHNOLOGY COMPANY",
+                "productMake": "DAEWOO",
+                "productModel": "LEGANZA",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DT: CONSUMER RECEIVED RECALL 04V394000 CONCERNING CAM SHAFT POSITION SENSOR.  NO DEALERS IN HIS AREA WOULD DO THE RECALL REPAIR WORK  WITHOUT PAYMENT.  CONSUMER HAD TO ORDER PARTS FROM CALIFORNIA AND PAY FOR THE RECALL WORK.  THE LETTER STATED THAT CONSUMER WOULD BE REIMBURSED FOR RECALL REPAIR  WORK.  CONSUMER SENT IN HIS RECEIPTS FOR RECALL REIMBURSSMENT ON FEBRUARY 9, 2005.  HE HAS NOT HEARD FROM DAEWOO, AND  WAS CONCERNED HE WILL NOT GET REIMBURSED. *AK",
+        "vin": "KLAVG69271B"
+    },
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "01/13/2005",
+        "dateOfIncident": "11/13/2004",
+        "fire": false,
+        "manufacturer": "GM DAEWOO AUTO & TECHNOLOGY COMPANY",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10109486,
+        "products": [
+            {
+                "manufacturer": "GM DAEWOO AUTO & TECHNOLOGY COMPANY",
+                "productMake": "DAEWOO",
+                "productModel": "LEGANZA",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE PASSENGER'S FACE WAS SEVERELY BURNED BY THE CHEMICALS/POWDER IN THE AIR BAG WHEN IT DEPLOYED.  *NM   *JB",
+        "vin": ""
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING,VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "01/05/2005",
+        "dateOfIncident": "11/29/2004",
+        "fire": false,
+        "manufacturer": "GM DAEWOO AUTO & TECHNOLOGY COMPANY",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10103194,
+        "products": [
+            {
+                "manufacturer": "GM DAEWOO AUTO & TECHNOLOGY COMPANY",
+                "productMake": "DAEWOO",
+                "productModel": "LEGANZA",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NHTSA RECALL 04V357000 CONCERNING  CAM SHAFT POSITION SENSOR.  CONSUMER WAS UNABLE TO LOCATE A DEALER TO HONOR THE RECALL.  *AK  RECALL CAMPAIGN.  THE CONSUMER STATED THAT THE WINDOW MOTOR DID NOT WORK WHEN THE VEHICLE WAS PURCHASED DEALER PROMISED TO FIX IT BUT NEVER DID.  *TC",
+        "vin": "KLAVB69212B"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "10/22/2004",
+        "dateOfIncident": "10/22/2004",
+        "fire": false,
+        "manufacturer": "GM DAEWOO AUTO & TECHNOLOGY COMPANY",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10097550,
+        "products": [
+            {
+                "manufacturer": "GM DAEWOO AUTO & TECHNOLOGY COMPANY",
+                "productMake": "DAEWOO",
+                "productModel": "LEGANZA",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER RECEIVED  RECALL 02V257001 CONCERNING BRAKE HOSE.  DEALER WAS NOT IN OPERATION.  *AK",
+        "vin": ""
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "10/18/2004",
+        "dateOfIncident": "10/18/2004",
+        "fire": false,
+        "manufacturer": "GM DAEWOO AUTO & TECHNOLOGY COMPANY",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10097089,
+        "products": [
+            {
+                "manufacturer": "GM DAEWOO AUTO & TECHNOLOGY COMPANY",
+                "productMake": "DAEWOO",
+                "productModel": "LEGANZA",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER RECEIVED A RECALL NOTICE(02V257001) REGARDING THE BRAKE HOSE. THERE WAS  NO DEALER TO PERFORM THE RECALL.  *JB",
+        "vin": "KLAJC52Z71K"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "10/13/2004",
+        "dateOfIncident": "10/04/2004",
+        "fire": false,
+        "manufacturer": "GM DAEWOO AUTO & TECHNOLOGY COMPANY",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10096711,
+        "products": [
+            {
+                "manufacturer": "GM DAEWOO AUTO & TECHNOLOGY COMPANY",
+                "productMake": "DAEWOO",
+                "productModel": "LEGANZA",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE CONSUMER RECEIVED RECALL NOTICE #04V357000 FOR CAM SHAFT SENSOR.  THE  MECHANIC REFUSED TO PERFORM THE RECALL. THEY STATED THE PART WAS NOT INCLUDED IN THE  RECALL.*JB",
+        "vin": ""
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "09/30/2004",
+        "dateOfIncident": "09/30/2004",
+        "fire": false,
+        "manufacturer": "GM DAEWOO AUTO & TECHNOLOGY COMPANY",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10094791,
+        "products": [
+            {
+                "manufacturer": "GM DAEWOO AUTO & TECHNOLOGY COMPANY",
+                "productMake": "DAEWOO",
+                "productModel": "LEGANZA",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER RECEIVED  RECALL 0V4357000 CONCERNING CAM SHAFT POSITION SENSOR.  DEALER WAS NOT IN OPERATION.*AK",
+        "vin": ""
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "09/28/2004",
+        "dateOfIncident": "09/28/2004",
+        "fire": false,
+        "manufacturer": "GM DAEWOO AUTO & TECHNOLOGY COMPANY",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10094472,
+        "products": [
+            {
+                "manufacturer": "GM DAEWOO AUTO & TECHNOLOGY COMPANY",
+                "productMake": "DAEWOO",
+                "productModel": "LEGANZA",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER RECEIVED, NHTSA RECALL 04V357000 REGARDING  CRANK SHAFT POSITION SENSOR. NO DEALERSHIP WAS AVAILABLE, THE FOLLOWING DEALERSHIP IN THAT AREA WAS CLOSED. COOPER DAEWOO,  ADDRESS:  5022 COMMERCIAL DRIVE  NEW YORK MILLS , NY 13413 .  PHONE:  315-768-1818.  *AK",
+        "vin": ""
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "09/24/2004",
+        "dateOfIncident": "09/24/2004",
+        "fire": false,
+        "manufacturer": "GM DAEWOO AUTO & TECHNOLOGY COMPANY",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10094332,
+        "products": [
+            {
+                "manufacturer": "GM DAEWOO AUTO & TECHNOLOGY COMPANY",
+                "productMake": "DAEWOO",
+                "productModel": "LEGANZA",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER RECIVED  RECALL 04V357000 CONCERNING CAM SHAFT POSITION SENSOR.  DEALER WAS NOT IN OPERATION.*AK",
+        "vin": ""
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "09/24/2004",
+        "dateOfIncident": "09/24/2004",
+        "fire": false,
+        "manufacturer": "GM DAEWOO AUTO & TECHNOLOGY COMPANY",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10094334,
+        "products": [
+            {
+                "manufacturer": "GM DAEWOO AUTO & TECHNOLOGY COMPANY",
+                "productMake": "DAEWOO",
+                "productModel": "LEGANZA",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER RECEIVED  RECALL NOTICE 04V357000 CONCERNING CAM SHAFT POSITION SENSOR. DEALER WAS NOT IN OPERATION.*AK",
+        "vin": ""
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC,ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "09/16/2004",
+        "dateOfIncident": "02/01/2002",
+        "fire": false,
+        "manufacturer": "GM DAEWOO AUTO & TECHNOLOGY COMPANY",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10092482,
+        "products": [
+            {
+                "manufacturer": "GM DAEWOO AUTO & TECHNOLOGY COMPANY",
+                "productMake": "DAEWOO",
+                "productModel": "LEGANZA",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING, THE ABS LIGHT  ILLUMINATEED ON THE DASH BOARD. THE FRONT WHEELS LOCKED WHEN THE CONSUMER APPLIED THE BRAKES. ALSO, THE CONSUMER RECEIVED A LETTER OF RECALL 04V357000. PROBLEMS HAVE NOT YET BEEN RESOLVED. PLEASE PROVIDE ANY FURTHER IFORMATION.  *JB",
+        "vin": "KLAVA69281B"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "09/10/2004",
+        "dateOfIncident": "09/01/2004",
+        "fire": false,
+        "manufacturer": "GM DAEWOO AUTO & TECHNOLOGY COMPANY",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10091804,
+        "products": [
+            {
+                "manufacturer": "GM DAEWOO AUTO & TECHNOLOGY COMPANY",
+                "productMake": "DAEWOO",
+                "productModel": "LEGANZA",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATED CHECK ENGINE LIGHT STAYED ON. AS A RESULT, VEHICLE ACCELERATED SLOWLY. A RECALL WAS ISSUED, HOWEVER, THIS VEHICLE WAS NOT INCLUDED IN THE RECALL DUE TO MODEL YEAR.  *AK",
+        "vin": "KLAVB69232B"
+    },
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "07/10/2003",
+        "dateOfIncident": "07/02/2003",
+        "fire": false,
+        "manufacturer": "GM DAEWOO AUTO & TECHNOLOGY COMPANY",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10024691,
+        "products": [
+            {
+                "manufacturer": "GM DAEWOO AUTO & TECHNOLOGY COMPANY",
+                "productMake": "DAEWOO",
+                "productModel": "LEGANZA",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE CONSUMER NOTICED THE AIR BAG LIGHT ILLUMINATED ABOUT A MONTH AFTER PURCHASING THE VEHICLE.  THE VEHICLE WAS TAKEN TO THE DEALER ON 6/19/2003, WHO STATED THE AIR BAG CONTROL MODULE NEEDED TO BE REPLACED.  *AK *TS  *JB",
+        "vin": "KLAVA69212B"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "04/23/2003",
+        "dateOfIncident": "04/23/2003",
+        "fire": false,
+        "manufacturer": "GM DAEWOO AUTO & TECHNOLOGY COMPANY",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017456,
+        "products": [
+            {
+                "manufacturer": "GM DAEWOO AUTO & TECHNOLOGY COMPANY",
+                "productMake": "DAEWOO",
+                "productModel": "LEGANZA",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE HAS BEEN THROUGH 4 SET OF BRAKES IN ONE YEAR AND NOW THE MANUFACTURER IS OUT OF BUSINESS.  *NLM",
+        "vin": ""
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "03/28/2002",
+        "dateOfIncident": "02/20/2002",
+        "fire": false,
+        "manufacturer": "GM DAEWOO AUTO & TECHNOLOGY COMPANY",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 8006588,
+        "products": [
+            {
+                "manufacturer": "GM DAEWOO AUTO & TECHNOLOGY COMPANY",
+                "productMake": "DAEWOO",
+                "productModel": "LEGANZA",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATES THAT WHILE DRIVING AT HIGHWAY SPEEDS THE VEHICLE WITHOUT ANY NOTICE STALLED OUT.  NLM",
+        "vin": "KLAVA6927XB"
+    }
+]

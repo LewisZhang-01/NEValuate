@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": true,
+        "dateComplaintFiled": "01/06/2003",
+        "dateOfIncident": "08/30/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 3,
+        "odiNumber": 10000543,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "WINDSTAR",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2002 FORD WINDSTAR STRUCK BROADSIDE BY A OLD CIERA ON RIGHT SIDE.  RIGHT SIDE OF CAR WAS LIFTED UP, THEN CAR CAME BACK DOWN.  EITHER COLLISION OR NEAR-OVERTURNING POPPED THE LEFT CENTER SEAT (CAPTAIN STYLE SEAT) LOOSE FROM FLOOR.  INJURIES IN CRASH WERE NOT RELATED TO SEAT FAILURE.  SEAT WAS NOT OCCUPIED.",
+        "vin": "2FMZA51452B"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "10/31/1997",
+        "dateOfIncident": "03/03/1997",
+        "fire": false,
+        "manufacturer": "Subaru of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 524121,
+        "products": [
+            {
+                "manufacturer": "Subaru of America, Inc.",
+                "productMake": "SUBARU",
+                "productModel": "IMPREZA",
+                "productYear": "1990",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TRANSMISSION WILL NOT COME OUT OF PARK UNLESS PRESSING RELEASE BUTTON, DISSCONNECT ALLARM, NO POWER TO SOLENOID, REPAIR WIRING FOR STOP LITES AND SHIFT LOCK SOLENOID.",
+        "vin": ""
+    },
+    {
+        "components": "EXTERIOR LIGHTING",
+        "crash": false,
+        "dateComplaintFiled": "10/31/1997",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Subaru of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 524121,
+        "products": [
+            {
+                "manufacturer": "Subaru of America, Inc.",
+                "productMake": "SUBARU",
+                "productModel": "IMPREZA",
+                "productYear": "1990",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKE LIGHT FAILURE.",
+        "vin": "JF2BJ65C9LH"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/08/2003",
+        "dateOfIncident": "09/27/2002",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001574,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "RAM 1500",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "MICHELIN TIRE CORP.",
+                "productMake": "MICHELIN",
+                "productModel": "MICHELIN",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "CONSUMER STATES MICHELIN TIRE BLEW OUT WHILE DRIVING OVER A SHEET OF PLASTER.  ONE MILE LATER ANOTHER TIRE STARTED TO LEAK AIR.  TRUCK ALWAYS EXHIBITED A PULL / WANDER CONDITION WHICH STOPPED AFTER REPLACING MICHELIN TIRES.  *TT  *NLM",
+        "vin": "3B7HC13Z21G"
+    }
+]

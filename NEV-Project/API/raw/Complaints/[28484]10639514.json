@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VEHICLE SPEED CONTROL,FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "09/27/2014",
+        "dateOfIncident": "09/27/2014",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10639514,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "THUNDERBIRD",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE EXPERIENCES UNINTENDED ENGINE ACCELERATION WHEN STOPPING FOR A RED LIGHT OR PLACING THE CAR IN PARK. MOTOR HIT OVER 3500 RPM WHILE PARKING BEFORE I COULD SHUT DOWN THE IGNITION.  *TR",
+        "vin": "1FAHP60A03Y"
+    }
+]

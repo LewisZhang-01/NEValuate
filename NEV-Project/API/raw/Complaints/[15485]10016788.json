@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "04/30/2003",
+        "dateOfIncident": "06/15/2001",
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10016788,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "CONTOUR",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ELECTRICAL FIRE INSIDE CAR ABOUT 2 YEARS AGO. ELECTRICAL SYSTEM DOWN A/C DOES NOT  WORK, BACK WINDOW SWITCHES DO NOT WORK, KILLED BATTERY AND ALTERNATOR.",
+        "vin": "1FALP6533VK"
+    }
+]

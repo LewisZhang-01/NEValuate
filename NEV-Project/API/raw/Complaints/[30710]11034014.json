@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "10/17/2017",
+        "dateOfIncident": "10/14/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11034014,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERCURY",
+                "productModel": "MARINER",
+                "productYear": "2009",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "POWER ASSIST STEERING STOPS WHEN TURNING WHILE VEHICLE IS MOVING. ALSO, NO POWER STEERING WHEN VEHICLE TURNED ON AFTER BEING TURNED OFF AND SITTING FOR A WHILE. SEEMS TO HAPPEN WHEN MAKING HARD TURNS ,LIKE BACKING INTO A PARKING SPOT, OR TURNING AROUND.",
+        "vin": "4M2CU91GX9K"
+    }
+]

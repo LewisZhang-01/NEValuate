@@ -1,0 +1,68 @@
+[
+    {
+        "components": "EXTERIOR LIGHTING",
+        "crash": false,
+        "dateComplaintFiled": "10/29/2021",
+        "dateOfIncident": "10/26/2021",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11438653,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "YUKON XL",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The Navigation screen system is flickering and goes completely black and kept coming on and off  Switching from USB to navigation to radio to home screen  And sometimes affect the signal lights also when I pull out the USB under the armrest it's super Hot ... I was wondering if its a Recall also I have 2 friends having the same problems on Chevrolet suburban 2020",
+        "vin": "1GKS2GKC6LR"
+    },
+    {
+        "components": "AIR BAGS,TRACTION CONTROL SYSTEM",
+        "crash": true,
+        "dateComplaintFiled": "05/17/2021",
+        "dateOfIncident": "05/16/2021",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 11417456,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "YUKON XL",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "GMC SUV - Hydroplaned -- could not achieve Traction Control despite moving away from water patch..   Front Angle Crashed into Concrete Median; All Side Airbags Deployed, No Front Airbags Deployed.",
+        "vin": "1GKS1HKJ8LR"
+    },
+    {
+        "components": "SERVICE BRAKES,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "12/02/2020",
+        "dateOfIncident": "12/02/2020",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11377586,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "YUKON XL",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE BRAKES WOULD NOT OPERATE PROPERLY, INCREASED BRAKING EFFORT AND MESSAGE DISPLAYED ON INSTRUMENT CLUSTER 'SERVICE BRAKE SYSTEM'.  THIS IS THE 4TH TIME A BEAKE ISSUE HAS BEEN EXPERIENCED WITH A GM SUBURBAN/YUKON VEHICLE.  FIRST 3 WERE ON OUR 2017 CHEVROLET SUBURBAN PREMIER.  ALSO, ENGINE JUST SHUTOFF IN THE MIDDLE OF A TURN LANE OF A BUSY INTERSECTION, NO OTHER SYMPTOMS SO FAR.",
+        "vin": "1GKS2GKJ9LR"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "12/12/2018",
+        "dateOfIncident": "05/30/2018",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11160914,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "ENCLAVE",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SIDE OBJECT DETECTION MODULE HAS AN INTERNAL OPEN SIGNAL.  REPLACEMENT COST EXCEEDS $500.00.  ODOMETER READING AT TIME OF DETECTION WAS 83,218 MILES. VEHICLE WAS/IS IN MOTION.",
+        "vin": "5GAKRCKD8DJ"
+    }
+]

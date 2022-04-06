@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "12/05/2018",
+        "dateOfIncident": "12/03/2018",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11156364,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-250",
+                "productYear": "2017",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DEATH WOBBLE. HAPPENS AT MANY DIFFERENT SPEEDS AND DIFFERENT HIGHWAYS. STEERING WHEEL SHAKES VIOLENTLY. TRUCK IS STOCK WITH STOCK WHEELS AND TIRES.",
+        "vin": "1FT7W2BTXHE"
+    }
+]

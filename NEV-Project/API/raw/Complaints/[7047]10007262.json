@@ -1,0 +1,24 @@
+[
+    {
+        "components": "PARKING BRAKE",
+        "crash": true,
+        "dateComplaintFiled": "03/03/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10007262,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "ACURA",
+                "productModel": "RSX",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "A FAILED PARKING BRAKE CAUSED VEHICLE TO ACCELERATE/LOSE CONTROL, WHICH RESULTED IN A COLLISION.  *AK   *JB",
+        "vin": "JH4DC53852C"
+    }
+]

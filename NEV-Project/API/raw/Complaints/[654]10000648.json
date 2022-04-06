@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": true,
+        "dateComplaintFiled": "12/31/2002",
+        "dateOfIncident": "12/09/2002",
+        "fire": false,
+        "manufacturer": "Mazda Motor Corp.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10000648,
+        "products": [
+            {
+                "manufacturer": "Mazda Motor Corp.",
+                "productMake": "MAZDA",
+                "productModel": "MIATA",
+                "productYear": "1999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Nitto Tire U.S.A. Inc.",
+                "productMake": "NITTO",
+                "productModel": "NITTO",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHILE TRAVELING DOWN THE NEW JERSEY TURNPIKE, MY REAR NITTO 450 TIRE HAD A TREAD SEPARATION FAILURE WHICH CAUSED MY 1999 MAZDA MIATA TO LOSE CONTROL, SPINNING OUT FROM THE LEFT LANE ACROSS THREE LANES OF TRAFFIC DURING RUSH HOUR, FINALLY HITTING THE EMBANKMENT ON THE FAR RIGHT SIDE.  THE NITTO TIRE WAS EXAMINED AND DETERMINED TO HAVE FAILED BASED ON TREAD SEPARATION.  THE TRAUMATIC INDICIDENT CAUSED SIGNIFICANT HARM TO THE MYSELF.",
+        "vin": ""
+    }
+]

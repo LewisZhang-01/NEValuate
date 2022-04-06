@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "03/24/2003",
+        "dateOfIncident": "02/14/2003",
+        "fire": false,
+        "manufacturer": "Motor Coach Industries",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010960,
+        "products": [
+            {
+                "manufacturer": "Motor Coach Industries",
+                "productMake": "MCI",
+                "productModel": "RENAISSANCE",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE STEEL PROD. CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "FIRESTONE",
+                "productYear": "2003",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "TIRE PUT ON 11/5/02 AT 158,624 MILES.  FAILED AT 175,576 MILES.  MOTOR COACH WAS TRAVELING FROM BARABOO, WI TO MILWAUKEE, WI.  DRIVER HAD NO ADVANCE WARNING WHEN RIGHT FRONT BLEW OUT, AT 65 MPH.  VEHICLE DIVED TO THE RIGHT, BUT DRIVER WAS ABLE TO REGAIN CONTROL AND MOVE THROUGH TRAFFIC TO SHOULDER AREA. *JB",
+        "vin": "1M8TRMPA61P"
+    }
+]

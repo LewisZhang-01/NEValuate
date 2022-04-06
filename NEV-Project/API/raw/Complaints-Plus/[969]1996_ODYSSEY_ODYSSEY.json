@@ -1,0 +1,46 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "11/26/1997",
+        "dateOfIncident": "10/01/1997",
+        "fire": false,
+        "manufacturer": "ODYSSEY R.V., INC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 525456,
+        "products": [
+            {
+                "manufacturer": "ODYSSEY R.V., INC",
+                "productMake": "ODYSSEY",
+                "productModel": "ODYSSEY",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "POWER STEERING PUMP PROBLEM.",
+        "vin": "JHMRA1845SC"
+    },
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "05/03/1996",
+        "dateOfIncident": "04/29/1996",
+        "fire": true,
+        "manufacturer": "ODYSSEY R.V., INC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 984034,
+        "products": [
+            {
+                "manufacturer": "ODYSSEY R.V., INC",
+                "productMake": "ODYSSEY",
+                "productModel": "ODYSSEY",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE HAD A FIRE START ON THE CONTROL PANEL FOR THE POWER WINDOWS AND DOOR LOCKS.PLEASE DESCRIBE.   *AK",
+        "vin": ""
+    }
+]

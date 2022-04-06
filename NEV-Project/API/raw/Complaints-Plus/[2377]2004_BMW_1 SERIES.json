@@ -1,0 +1,68 @@
+[
+    {
+        "components": "STEERING,SUSPENSION,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "01/11/2018",
+        "dateOfIncident": "06/06/2016",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11062271,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "1 SERIES",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE '04 BWM 545I HAS BEEN LEAKING MOTOR OIL THROUGHOUT THE  MOTOR GASKET AND HOLES.  THE POWER STEERING IS LEAKING  HOLES CONNECTING TO THE TRANSMISSION IS LEAKING AND THE RESERVOIR STAYS LOW ON FUILD DUE TO THE ISSUE  I HAD TO PARK THE CAR IN GARAGE, IS CURRENTLY NOT BEING USED BECAUSE ALL OF THESE ISSUES NOT DRIVEABLE",
+        "vin": "WBANB335X4B"
+    },
+    {
+        "components": "FUEL/PROPULSION SYSTEM,VISIBILITY/WIPER",
+        "crash": false,
+        "dateComplaintFiled": "06/03/2016",
+        "dateOfIncident": "06/01/2016",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10872407,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "1 SERIES",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "GAS TANK IS NOT REGISTERING PROPERLY. GAUGE SHOWS NEEDING FUEL BUT GAS COMES OUT WHEN YOU ARE PUMPING SIGNIFYING THAT IT IS FULL.  ALSO, PUMP TO WINDSHIELD WIPER FLUID IS NOT WORKING. DEALER REFUSED TO FIX.",
+        "vin": "WBAAZ33424K"
+    },
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "06/06/2014",
+        "dateOfIncident": "05/01/2014",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10596583,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "1 SERIES",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2004 BMW 5301. THE CONTACT STATED THAT THE AIR BAG WARNING LIGHT REMAINED ILLUMINATED. THE DEALER RESET THE AIR BAG SYSTEM HOWEVER, THE FAILURE CONTINUED TO OCCUR. THE MANUFACTURER ADVISED THE CONTACT THAT THE VIN WAS NOT INCLUDED IN NHTSA CAMPAIGN NUMBER 08V384000 (AIR BAGS). THE APPROXIMATE FAILURE MILEAGE WAS 60,000. THE CURRENT MILEAGE WAS 61,000.",
+        "vin": "WBANA73505C"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "04/04/2003",
+        "dateOfIncident": "04/01/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10013964,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "TOWN AND COUNTRY",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "INSTRUMENT PANEL CEASED TO FUNCTION WHILE THE VEHICLE WAS BEING DRIVEN.  PROBLEM APPARENTLY CAUSED BY DESIGN DEFECT IN CABLE ROUTING - WIRING TOO CLOSE TO ALTERNATOR, DAMAGED WIRING AND INSTRUMENT CLUSTER CIRCUITRY.  CABLES WERE REPLACED AT COST OF $235, BUT PROBLEM RETURNED 3 MONTHS LATER.  REPLACEMENT OF INSTRUMENT PANEL CIRCUIT BOARD NOW NECESSARY AT COST OF OVER $500.  WERE TOLD THAT CHRYSLER RECENTLY INCREASED COST OF PART TENFOLD.  DEALER REPORTED SEVERAL SIMILAR COMPLAINTS OVER PAST YEAR.  SAFETY ISSUE AS SPEEDOMETER AND SHIFT INDICATOR CEASED TO FUNCTION. *JB",
+        "vin": "1C4GP64L4WB"
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "12/31/2002",
+        "dateOfIncident": "12/26/2002",
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000661,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "MUSTANG",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "WAGNER ELEC. BRAKE/CLUTCH",
+                "productMake": "WAGNER",
+                "productModel": "BRAKE/CLUTCH",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "MY 2000 FORD MUSTANG LOST ALL ITS POWER AFTER I JUST PULLED OUT OF A PARKING LOT.  I THEN NOTICED SMOKE COMING FROM UNDER THE HOOD ON THE PASSENGER SITE.  ABOUT 1-2 MINUTES LATER I SAW FLAMES COMING FROM THE SAME PLACE.  AS I EXITED THE CAR AND CLOSED THE DOOR ALL THE INTERIOR LIGHTS FLASHED ON AND A HORRID NOISE CAME FROM THE FRONT RIGHT SIDE OF THE CAR.  I IMMEDIATELY CALLED THE FIRE DEPARTMENT BUT BY THE TIME THEY ARRIVED 10-15 FOOT HIGH FLAMES WERE SHOOTING IN THE AIR FROM THE FRONT OF THE CAR [THIS ALL STARTED TO HAPPEN INCREDIBLY FAST] AND THERE ALSO WAS LOTS OF BLACK SMOKE.  ONE OF THE FIREMEN/LADIES TOLD ME THAT IT LOOKED LIKR THE FIRE HAD STARTED IN THE WIRING.  ALL OF THE FRONT OF THE CAR BURNED OUT INCLUDING THE HOOD AND SOMEOF THE DASH INSIDE MELTED AND THE FRONT WINDSHILD STARTED TO CRACK FROM THE HEAT OF THE FIRE.",
+        "vin": "1FAFP4045YF"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS,SEAT BELTS",
+        "crash": true,
+        "dateComplaintFiled": "03/09/2003",
+        "dateOfIncident": "03/09/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10010200,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "WINDSTAR",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I WAS IN A CAR ACCIDENT. AFTER I SLAMMED ON THE BRAKES, THE SEAT BELT POPPED OFF.   I HIT THE STEERING WHEEL.  THE PASSENGER AIR BAG DEPLOYED BUT THE DRIVER'S SIDE AIR BAG DID NOT DEPLOY.  ALTHOUGH THE CAR WAS DRIVABLE, THE SEAT BELT REMAINED LOCKED AND UNUSABLE AFTER THE ACCIDENT.    *NLM   RQ04011.*PCO",
+        "vin": "2FMZA52411B"
+    }
+]

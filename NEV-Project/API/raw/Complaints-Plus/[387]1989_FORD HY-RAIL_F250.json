@@ -1,0 +1,46 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "10/04/2000",
+        "dateOfIncident": "09/28/2000",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 733431,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD HY-RAIL",
+                "productModel": "F250",
+                "productYear": "1989",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TIRE TREAD SEPARATION WHILE DRIVING ON FREEWAY AT 55 MPH. TIRE DID NOT BLOW OUT, BUT DID CAUSE DAMAGE TO WHEEL WELL AND WIRING HARNESS.  ALL FOUR TIRES HAVE BEEN REPLACED. (DOT NUMBER: VNOR1WT492  TIRESIZE: LT23585R16)",
+        "vin": ""
+    },
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "08/27/1998",
+        "dateOfIncident": "08/10/1998",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 540410,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD HY-RAIL",
+                "productModel": "F250",
+                "productYear": "1989",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUEL TANK LEAKAGE.",
+        "vin": "1FTHX26G0KK"
+    }
+]

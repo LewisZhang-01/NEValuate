@@ -1,0 +1,24 @@
+[
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "01/27/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 2,
+        "odiNumber": 10004025,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "MOTOR HOME",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE BED IN THE MOTOR HOME CAME DOWN HARD.  IT TOOK FOUR PEOPLE TO PUT IT BACK UP.  ALSO, THERE WERE NO WARNING LABELS OR THE PERMANENTLY ATTACHED SAFETY PINS.  VEHICLE IS A CHEVY TREK MOTOR HOME.  *JG",
+        "vin": "1G8KP37F653"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "01/29/2003",
+        "dateOfIncident": "12/15/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005932,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "GRAND PRIX",
+                "productYear": "1991",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKE PEDAL GOES TO THE FLOOR CAUSING VEHICLE TO HAVE EXTENDED STOPPING DISTANCE. DEALER HAS BEEN NOTIFIED.   PH",
+        "vin": "FULL FILL"
+    }
+]

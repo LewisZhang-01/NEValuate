@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": true,
+        "dateComplaintFiled": "06/20/2003",
+        "dateOfIncident": "06/15/2003",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 2,
+        "odiNumber": 10023472,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "SENTRA",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "GENERAL TIRE & RUBBER CO.",
+                "productMake": "GENERAL",
+                "productModel": "GENERAL",
+                "productYear": "1966",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "I WAS RIDING ON THE EXPRESSWAY WHEN MY TREAD SEPARATED FROM MY TIRE. I HAD MY 2 YR OLD DAUGHTER IN THE CAR. I CRASHED AND MY CAR WAS TOTALED. MY DAUGHTER AND I ARE LUCKY TO BE ALIVE BUT WE ARE HURT.   *NLM",
+        "vin": ""
+    }
+]

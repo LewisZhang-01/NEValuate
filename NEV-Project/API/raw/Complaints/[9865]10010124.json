@@ -1,0 +1,31 @@
+[
+    {
+        "components": "SEATS,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "03/07/2003",
+        "dateOfIncident": "12/11/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010124,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "BLAZER",
+                "productYear": "1998",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "14048271",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "FRONT BUCKET SEAT RELEASE PIECE HAS COME OFF ONCE ON BOTH FRONT SEATS, ALREADY OFF FOR SECOND TIME FOR DRIVER SIDE (AND NOT THAT I USE IT THAT MUCH EITHER!). CANNOT MOVE THE LOCATION OF THE BACK OF THE FRONT SEAT, MAKING SITTING STRAIGHT UP VERY TIRING AND AGGRAVATING FOR DRIVING!*JB",
+        "vin": ""
+    }
+]

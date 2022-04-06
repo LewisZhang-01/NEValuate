@@ -1,0 +1,134 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "07/20/1999",
+        "dateOfIncident": "07/10/1999",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 842622,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "MALIBU",
+                "productYear": "1980",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "GAS TANK IS 10 INCHES FROM REAR BUMPER.CONTACTED MANUFACTURER.  *AK",
+        "vin": "1W27JAK4111"
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "08/26/1998",
+        "dateOfIncident": "07/24/1995",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 539395,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "MALIBU",
+                "productYear": "1980",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "U.S. ROYAL, STEEL BELTED RADIAL 195R75-14 TIRE SIDEWALL FAILED CAUSING BLOW OUT.",
+        "vin": "1T27KAK4439"
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "08/26/1998",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 539395,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "MALIBU",
+                "productYear": "1980",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SPARE TIRE ON VEHICLE CAUSED POOR CONTROL RESULTING IN VEHICLE COLLISION.",
+        "vin": "1T27KAK4439"
+    },
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "08/26/1998",
+        "dateOfIncident": "06/04/1998",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 539356,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "MALIBU",
+                "productYear": "1980",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUEL PROPANE TANK HAD HOLE.",
+        "vin": "1T35JAK4616"
+    },
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "08/26/1998",
+        "dateOfIncident": "09/22/1997",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 539397,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "MALIBU",
+                "productYear": "1980",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DESIGN MATERIAL OF THE WINDSHIELD WIPER ASSEMBLY FAILED (APOXY BONDING).",
+        "vin": "1T27KAK4439"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "06/06/1997",
+        "dateOfIncident": "06/05/1997",
+        "fire": true,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 812840,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "MALIBU",
+                "productYear": "1980",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE VEHICLE WAS PARKED  IT CAUGHT ON FIRE UNDER THE HOOD. OWNER HAD DRIVEN VEHCLE FOR ABOUT (20) MINUTES BEFORE FIRE HAPPENED. FIRE DEPARTMENT BELIEVED FIRE WAS ELECTRICAL OR CAUSED BY OVERHEATING. THE VEHICLE HAS BEEN TOTALLED.   *AK",
+        "vin": "1W27JAB4202"
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "10/24/2006",
+        "dateOfIncident": "10/15/2006",
+        "fire": false,
+        "manufacturer": "Navistar, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10171709,
+        "products": [
+            {
+                "manufacturer": "Navistar, Inc.",
+                "productMake": "INTERNATIONAL",
+                "productModel": "4300",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ABS MALFUNCTION, ATTRIBUTED TO RUSTED TRIGGER WHEEL ON EACH BRAKE ROTOR. POWER ASSIST FAILED ON BRAKE SYSTEM, RESULTING NO POWER ASSIST. NO BRAKE POWER.  *NM",
+        "vin": "1HTMMAAM52H"
+    },
+    {
+        "components": "PARKING BRAKE",
+        "crash": false,
+        "dateComplaintFiled": "06/10/2005",
+        "dateOfIncident": "05/27/2005",
+        "fire": false,
+        "manufacturer": "Navistar, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10124880,
+        "products": [
+            {
+                "manufacturer": "Navistar, Inc.",
+                "productMake": "INTERNATIONAL",
+                "productModel": "4300",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "EMERGENCY BRAKE CONTROL FAILURE. TRUCK ROLLS AWAY. REPLACED WITH WITH UPDATED PART# 3590226C1. INTERNATIONAL KNOWS ABOUT PROBLEM BUT WILL NOT WARRANTY PART DESIGN CHANGE.",
+        "vin": "1HTMMAAM32H"
+    },
+    {
+        "components": "POWER TRAIN,ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "06/04/2005",
+        "dateOfIncident": "06/04/2005",
+        "fire": false,
+        "manufacturer": "Navistar, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10124208,
+        "products": [
+            {
+                "manufacturer": "Navistar, Inc.",
+                "productMake": "INTERNATIONAL",
+                "productModel": "4300",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE ABS WARNING LIGHT INDICATING SYSTEM TROUBLE,OR THE ENTIRE ABS SYSTEM FAILURE CANNOT BE REPAIRED BY FACTORY AUTHORIZED  REPAIR CENTERS",
+        "vin": "1HTMMAAM72H"
+    },
+    {
+        "components": "SERVICE BRAKES, AIR,ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "07/06/2004",
+        "dateOfIncident": "04/16/2002",
+        "fire": false,
+        "manufacturer": "Navistar, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10075642,
+        "products": [
+            {
+                "manufacturer": "Navistar, Inc.",
+                "productMake": "INTERNATIONAL",
+                "productModel": "4300",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE ABS LIGHT ILLUMINATED INTERMITTENTLY.  THE VEHICLE HAS BEEN TAKEN TO DEALER 7 TIMES BUT THEY HAVE BEEN UNABLE TO REPAIR THE PROBLEM.  THE TRANSMITTER WAS REPLACED.  THE DEALER BLAMED THE PROBLEM ON A WIRING HARNESS.  THE WIRING HARNESS HAD NOT BEEN REPLACED.  THE ABS LIGHT CAME BACK ON A WEEK AFTER THE COMPONENT WAS REPAIRED.   *NM   THERE WERE ALSO PROBLEM WITH THE ELECTRICAL SYSTEM (WIPERS, HEATER MOTOR AND INSTRUMENT PANEL)   *SC   *JB",
+        "vin": "1HTMMAAL42H"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM,STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "02/19/2004",
+        "dateOfIncident": "01/05/2004",
+        "fire": false,
+        "manufacturer": "Navistar, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10053654,
+        "products": [
+            {
+                "manufacturer": "Navistar, Inc.",
+                "productMake": "INTERNATIONAL",
+                "productModel": "4300",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AFTER DRIVING 60 MPH IN THE RAIN, THE CONSUMER NOTICED THAT THE HOOD  WAS FLAPPING UP AND DOWN.  WHEN THE CONSUMER GOT HOME HE NOTICED THAT THE FENDER ON BOTH SIDES CRACKED AND BROKE.  THE ELECTRICAL SYSTEM INTERMITTENTLY  FAILED, CAUSING THE MILEAGE TO ERASE.  *AK  *JB",
+        "vin": "1HTMMAAM12H"
+    }
+]

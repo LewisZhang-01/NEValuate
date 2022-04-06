@@ -1,0 +1,46 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "08/06/2015",
+        "dateOfIncident": "07/20/2015",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10746825,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "S 1000 RR",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2015 BMW S 1000 RR. THE CONTACT HEARD AN ABNORMAL NOISE COMING FROM THE VEHICLE. THE VEHICLE WAS TAKEN TO THE DEALER, WHERE IT WAS CONFIRMED THAT THE CAMSHAFT MALFUNCTIONED. THE VEHICLE WAS NOT REPAIRED DUE TO THE MANUFACTURER NOT SENDING THE PARTS. THE MANUFACTURER WAS NOT NOTIFIED OF THE FAILURE. THE FAILURE MILEAGE WAS 1,500.",
+        "vin": "WB10D2109FZ"
+    },
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "06/17/2015",
+        "dateOfIncident": "05/23/2015",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10725786,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "S 1000 RR",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE BIKE TIPS OR VEERS TO THE RIGHT EVERYTIME IT IS RIDDEN. THE PROBLEM IS MORE APPARENT AT SPEEDS ABOVE 35MPH AND IS NOT AFFECTED BY THE CROWN OF THE ROAD. EXTRA STEERING EFFORT IS REQUIRED ESPECIALLY AT HIGHWAY SPEEDS AS THE BIKE ALWAYS WANTS TO TIP INTO TO THE RIGHT SIDE OF THE ROAD. THIS COMPROMISES SAFETY OF BOTH THE RIDER AND THOSE AROUND SINCE DURING BRAKING (ESPECIALLY EMERGENCY BRAKING) THE BIKE MAY LOWSIDE (FALL TO THE SIDE).",
+        "vin": "WB10D2103FZ"
+    }
+]

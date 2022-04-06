@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "05/01/2002",
+        "dateOfIncident": "04/16/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009194,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "PICKUP",
+                "productYear": "1999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "TIRE CAME APART WHILE DRIVING. NO ROAD HAZARDS OR ANYTHING ON THE ROAD. TIRE MADE A NOISE, PIECES OF RUBBER WERE FALLING ON THE ROAD, TIRE COMPLETELY FAILED AS I PULLED OVER. TREAD WAS PARTIALLY OFF AND CAUSED DAMAGE TO THE TRUCK. I HAVE ELECTRONIC PICTURES. *TS  ***DIMSII IVOQ ENTRY POSTED AFTER 12-12-02 CUT OVER TO ARTEMIS***761431",
+        "vin": "2GCEK19T7X1"
+    }
+]

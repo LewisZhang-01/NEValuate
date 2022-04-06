@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "01/03/2003",
+        "dateOfIncident": "05/27/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002029,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "ROADMASTER",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING VEHICLE'S FUEL PUMP STOPPED WORKING DUE TO AN ELECTRICAL SHORT. DEALER NOTIFIED. PLEASE PROVIDE ADDITIONAL INFORMATION. TS...*AK",
+        "vin": "1G4BN52P9SR"
+    }
+]

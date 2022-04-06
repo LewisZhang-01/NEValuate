@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/04/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022514,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CADILLAC",
+                "productModel": "CADILLAC",
+                "productYear": "9999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "GOODYEAR",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "SAFETY COMPLAINT ---VOGUE TIRES--GOODYEAR.  *MR  THE CONSUMERS CONCERN IS WITH HIS TWO CADILLAC'S, THE VEHICLES ARE:  1995 CONCOUR AND 1999 DEVILLE.  THE PROBLEM WITH THE 95 CADILLAC CONCOUR WAS  THE REPLACEMENT TIRES HAD 17K MILES ON THEM AND HAD BALLOONED ON THE SIDEWALLS, AND HAD TWO RADIAL CRACKS ON THE SIDEWALLS.  THE 99 CADILLAC DEVILLE REQUIRED REPLACEMENT AT 22K MILES AND THE TREAD ON THE TIRE HAD WORN EXCESSIVELY.  ALSO WITH THE 99 CADILLAC DEVILLE, AT 20K MILES THE DRIVER SIDE RIGHT FRONT TIRE HAD A BALLOON AND HAD TO BE REPLACED.  *SCC  *JB",
+        "vin": "9999"
+    }
+]

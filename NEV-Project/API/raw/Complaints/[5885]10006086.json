@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "01/31/2003",
+        "dateOfIncident": "01/26/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10006086,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING AT 48/52 MPH, VEHICLE WAS IN A SQUARE FRONT COLLISION, BUT NONE THE AIRBAGS DEPLOYED UPON IMPACT.  THE POLICE INVESTIGATOR INDICATED THAT THE AIR BAG SENOR WAS HIT DIRECTLY IN  THE CENTER UPON IMPACT.      TS",
+        "vin": ""
+    }
+]

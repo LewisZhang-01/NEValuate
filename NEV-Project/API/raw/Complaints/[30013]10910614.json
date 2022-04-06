@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "09/29/2016",
+        "dateOfIncident": "08/14/2016",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10910614,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "2011",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ELECTRONIC POWER STEERING ASSIST FAILURE CAUSES THE STEERING TO LOCK. VEHICLE IS IMPOSSIBLE TO CONTROL WITHOUT EXTREME EFFORT. FAILURE OCCURS IN THE MIDDLE OF A TURN. AT ONLY 44000 MILES. THIS IS A POORLY ENGINEERED DESIGN, NOT A RESULT OF ABUSE OR NORMAL WEAR AND TEAR.",
+        "vin": "1FTEX1CMXBF"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "04/03/2003",
+        "dateOfIncident": "04/02/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015105,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "VAN",
+                "productYear": "1976",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE STEERING IDLER ARM BRACKET BROKE, WHICH ALMOST CAUSED AN ACCIDENT.    *JB",
+        "vin": ""
+    }
+]

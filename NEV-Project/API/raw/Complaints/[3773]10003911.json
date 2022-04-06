@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "01/15/2003",
+        "dateOfIncident": "07/17/2002",
+        "fire": false,
+        "manufacturer": "Kia Motors America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003911,
+        "products": [
+            {
+                "manufacturer": "Kia Motors America",
+                "productMake": "KIA",
+                "productModel": "SEPHIA",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVER'S AIR BAG DEPLOYED WITHOUT WARNING WHILE DRIVING.  VEHICLE WAS NOT INVOLVED IN A COLLISION. AK",
+        "vin": "KNAFA1251V5"
+    }
+]

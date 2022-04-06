@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "12/18/2002",
+        "dateOfIncident": "12/04/2002",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000212,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "JETTA",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "COIL PACKS WHICH CONTROL SPARK TO THE ENGINE FAILED ON CYLINDERS #2 AND #4.   REPLACED BY DEALER UNDER WARRANTY.  FIVE DAYS LATER COIL PACK ON CYLINDER #3 FAILED. ALSO REPLACED BY DEALER.  THE COIL PACK FAILURES RESULTED IN A CONSIDERABLE LOSS OF POWER AND A FOUL ODOR FROM THE EXHAUST.  IN ADDITION, THE COIL PACK BROKE APART ALLOWING THE ELECTRICAL PARTS TO BE EXPOSED.",
+        "vin": "3VWSE69M22M"
+    }
+]

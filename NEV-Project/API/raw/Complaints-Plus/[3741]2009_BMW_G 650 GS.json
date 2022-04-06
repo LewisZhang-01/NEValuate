@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "12/13/2015",
+        "dateOfIncident": "12/10/2015",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10809868,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "G 650 GS",
+                "productYear": "2009",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "RUNS FINE, THEN STALLS AT STOP, HAVE TO KEEP RPM'S ABOVE 2000 TO KEEP RUNNING, LET IT SIT FOR A TIME, THEN IT'S FINE, AND THEN IT HAPPENS AGAIN, NEVER KNOWING WHEN IT WILL HAPPEN AGAIN.",
+        "vin": "WB10179099Z"
+    }
+]

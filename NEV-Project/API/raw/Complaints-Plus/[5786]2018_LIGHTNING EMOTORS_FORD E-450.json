@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN,ELECTRICAL SYSTEM,FORWARD COLLISION AVOIDANCE",
+        "crash": false,
+        "dateComplaintFiled": "03/10/2022",
+        "dateOfIncident": "09/08/2021",
+        "fire": false,
+        "manufacturer": "Lightning eMotors Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11455982,
+        "products": [
+            {
+                "manufacturer": "Lightning eMotors Inc.",
+                "productMake": "LIGHTNING EMOTORS",
+                "productModel": "FORD E-450",
+                "productYear": "2018",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DESCRIPTION OF CONTINUING DEFECT(S) OR CONDITION(S): 1.Continued issues when shifting from park to reverse. 2.An inaccurate description as to the state of charge, with discrepancies between the two state of charge displays. 3.Shifting the vehicle into neutral when the state of charge is depleted with no warning while the vehicle is in motion. 4.Loss of control due to regenerative braking in unfavorable road conditions. 5.Subsequent to the air condition being modified, a loud noise frequently can be heard. The noise is distracting to both the driver and any passenger.  Consumer stated Lightning eMotors has been unresponsive and provided limited documentation to ensure they\u2019ve resolved the issues, meeting the compliant of automotive standard.",
+        "vin": "1FDFE4FS4JD"
+    }
+]

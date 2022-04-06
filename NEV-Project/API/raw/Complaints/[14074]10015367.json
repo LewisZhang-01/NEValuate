@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "06/09/2003",
+        "dateOfIncident": "04/02/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10015367,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "TRAILBLAZER",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER WAS HIT TWICE IN A SIDE AND FRONTAL COLLISION WHILE TRAVELING APPROXIMATELY 30MPH.  NEITHER THE FRONTAL OR SIDE AIR BAGS DEPLOYED.   *NLM",
+        "vin": "1GNDS13S622"
+    }
+]

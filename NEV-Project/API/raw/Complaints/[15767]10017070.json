@@ -1,0 +1,31 @@
+[
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "05/05/2003",
+        "dateOfIncident": "05/05/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017070,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "VAN",
+                "productYear": "1998",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "WAGNER ELEC. BRAKE/CLUTCH",
+                "productMake": "WAGNER",
+                "productModel": "BRAKE/CLUTCH",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "1997 CHEVROLET SW THIS IS ACTUALLY A CONVERSION VAN NOT A STATION WAGON.  THE CONVERSION PACKAGE HAS BEEN PLAGUED WITH ELECTRICAL PROBLEMS WHICH COULD RESULT IN PERSONAL OR PROPERTY DAMAGE.  THE CONVERSION PACKAGE CAME WITH A BRIGHT ORANGE CONSUMER ALERT STICKER.  IT ADVISED CONSUMERS TO CONSULT DEALERSHIP FOR DETAILS.  *JB",
+        "vin": ""
+    }
+]

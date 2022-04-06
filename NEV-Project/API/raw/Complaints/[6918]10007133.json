@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION,TIRES",
+        "crash": false,
+        "dateComplaintFiled": "02/11/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Volvo Trucks North America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10007133,
+        "products": [
+            {
+                "manufacturer": "Volvo Trucks North America",
+                "productMake": "VOLVO",
+                "productModel": "VN610",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "POOR TIRE TREAD WEAR - TREAD FAILS AFTER 60000 MILES.  WHEEL ALIGNMENT GOOD, PERHAPS SPRINGS TOO WEAK.  STEER AXLE APPEARS HEAVY - BOBTAIL WEIGHT 12,180 LBS.  VEHICLE EQUIPPED WITH CUMMINS N-14 ENGINE.  *AK",
+        "vin": ""
+    }
+]

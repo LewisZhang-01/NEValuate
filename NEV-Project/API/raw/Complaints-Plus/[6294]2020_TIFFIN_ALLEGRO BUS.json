@@ -1,0 +1,46 @@
+[
+    {
+        "components": "FUEL SYSTEM, DIESEL",
+        "crash": false,
+        "dateComplaintFiled": "03/31/2022",
+        "dateOfIncident": "03/28/2022",
+        "fire": true,
+        "manufacturer": "Tiffin Motorhomes, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11459074,
+        "products": [
+            {
+                "manufacturer": "Tiffin Motorhomes, Inc.",
+                "productMake": "TIFFIN",
+                "productModel": "ALLEGRO BUS",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact owns a 2020 Tiffin Allegro Bus. The contact stated that while operating the vehicle the odor of diesel fuel was present inside the motorhome. Upon inspection it was discovered that the diesel fuel was leaking from the high pressure fuel rail onto the reburner causing smoke to be present. The fire dept was call to the scene but no action was needed. The vehicle was towed to the local service center who diagnosed that the high pressure fuel rail was faulty and needed to be replaced. The contact indicated that the vehicle was previously serviced under the NHTSA recall campaign number 21v306000(fuel system) for the same failure but after the recall repair the same failure had occurred. The failure mileage was 15,000.",
+        "vin": "5VBBA27A2LA"
+    },
+    {
+        "components": "FUEL SYSTEM, DIESEL",
+        "crash": false,
+        "dateComplaintFiled": "03/30/2022",
+        "dateOfIncident": "02/02/2022",
+        "fire": false,
+        "manufacturer": "Tiffin Motorhomes, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11458968,
+        "products": [
+            {
+                "manufacturer": "Tiffin Motorhomes, Inc.",
+                "productMake": "TIFFIN",
+                "productModel": "ALLEGRO BUS",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact owns a 2020 Tiffin Allegro Bus. The contact received a notification for NHTSA Campaign Number: 21E320000 (Fuel System, Diesel). The dealer had been notified about the recall and informed him that if the fuel rails were stable upon inspection of the vehicle, they could make needed reinforcements and return the vehicle; however, if the fuel rails needed replacement, the vehicle would have to remain in the dealer's possession until parts became available. The manufacturer had been notified of the recall. The contact stated that the manufacturer had exceeded a reasonable amount of time for the repair. The contact had not experienced a failure. Parts distribution disconnect.",
+        "vin": "5vbba67a7la"
+    }
+]

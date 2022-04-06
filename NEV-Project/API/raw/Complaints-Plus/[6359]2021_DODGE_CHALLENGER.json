@@ -1,0 +1,112 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "02/22/2022",
+        "dateOfIncident": "12/25/2021",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11453465,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "CHALLENGER",
+                "productYear": "2021",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact owned a 2021 Dodge Challenger. The contact stated that while driving on the highway at approximately 55-65 MPH when the vehicle hydroplaned, as a result, the vehicle struck a guard rail head-on and spun out of control. The contact stated that the frontal air bags failed to deploy. There were no injuries sustained. A police report was not filed. The vehicle was taken to the local dealer and deemed a total loss. The manufacturer was not notified of the failure. The approximate failure mileage was 8,000.",
+        "vin": "2c3cdzfj5mh"
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "01/10/2022",
+        "dateOfIncident": "08/27/2021",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11446974,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "CHALLENGER",
+                "productYear": "2021",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The transmission/drive shaft thumps and the car \"lurches\" upon start-up. This is somehow related to the push button start. My car is also equipped with a factory remote start and no noise is heard, nor does the car lurch on start-up.  Please refer to video link:  https://youtu.be/SRQJcjpl4mA",
+        "vin": "2C3CDZJG6MH"
+    },
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "10/08/2021",
+        "dateOfIncident": "09/28/2021",
+        "fire": true,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11436031,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "CHALLENGER",
+                "productYear": "2021",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact owns a 2021 Dodge SXT. The contact stated while the vehicle was at a standstill, it caught on fire without warning. The fire marshals extinguished the flames.  A report was filed. The vehicle was towed to a tow lot. The manufacturer was not informed of the failure. The failure mileage was approximately 16,000.",
+        "vin": "2C3CDZAGXMH"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "08/03/2021",
+        "dateOfIncident": "07/30/2021",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11427665,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "CHALLENGER",
+                "productYear": "2021",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "speedometer is messed up and not working properly what should I do?",
+        "vin": "2C3CDZAG0MH"
+    },
+    {
+        "components": "ENGINE,FUEL/PROPULSION SYSTEM,BACK OVER PREVENTION",
+        "crash": false,
+        "dateComplaintFiled": "08/01/2021",
+        "dateOfIncident": "07/17/2021",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11427372,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "CHALLENGER",
+                "productYear": "2021",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Challenger less than a week from the dealership and less than 1,000 miles.  Catastrophic fuel pump failure while driving, unable to recover.   Rear view back up camera freezes and stutters causing safety issues.   Radio volume constantly changes while driving and leads to distraction safety issues.   Door locks are consistently unreliable, roughly 25% chance of door lock failure.   Key fob not detected and electronic security lock down issues.  Uconnect freezing and stuttering causing delays in back up camera and other functions causing safety concerns.",
+        "vin": "2c3cdzfj5mh"
+    }
+]

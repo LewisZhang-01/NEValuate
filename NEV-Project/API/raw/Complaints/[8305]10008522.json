@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "11/05/2002",
+        "dateOfIncident": "11/02/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10008522,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPEDITION",
+                "productYear": "2003",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHILE TRAVELING ON SMOOTH DRY PAVEMENT, THE RIGHT REAR TIRE SUDDENLY EXPLODED. BOTH THE INSIDE AND OUTSIDE SIDEWALLS WERE BLOWN OUT. THIS WAS A NEW ORIGINAL EQUIPMENT TIRE WITH LESS THAN 8000 MILES ON IT. THE CAR HAD JUST BEEN SERVICED BY THE DEALERSHIP WITHIN THE LAST THREE WEEKS AND ALL TIRES WERE PROPERLY INFLATED.    PH   *NLM    **DIMSII IVOQ ENTRY POSTED AFTER 12/12/02 CUT OVER TO ARTEMIS**769301",
+        "vin": "1FMFU18L53L"
+    }
+]

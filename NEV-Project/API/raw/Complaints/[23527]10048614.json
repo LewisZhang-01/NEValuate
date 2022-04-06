@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "01/16/2004",
+        "dateOfIncident": "11/23/2003",
+        "fire": true,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10048614,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "STRATUS",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE WAS IN AN ACCIDENT.   THE VEHICLE WAS TRAVELING ABOUT 60 MPH WHEN IT WAS STRUCK BROADSIDE.  THE VEHICLE RAN INTO SOME TREES AND THE  AIR BAGS DID NOT DEPLOY.   *JB   THIS INCIDENT OCCURRED BECAUSE THE CONSUMER TRIED TO AVOID A HEAD ON COLLISION.  A FIRE STARTED IN THE PASSENGER SIDE AREA.   *SC  *JB",
+        "vin": "1B3EJ46X7VN"
+    }
+]

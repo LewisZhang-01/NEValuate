@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, OTHER",
+        "crash": false,
+        "dateComplaintFiled": "06/03/2003",
+        "dateOfIncident": "05/31/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022205,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "ESCORT",
+                "productYear": "1991",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE WAS HAVING THE SAME PROBLEM AS MENTIONED IN RECALL#92V17000 CONCERNING FUEL TANK. DEALER WILL NOT REPAIR VEHICLE BECAUSE IT IS NOT COVERED UNDER RECALL DUE TO VIN.  *AK",
+        "vin": ""
+    }
+]

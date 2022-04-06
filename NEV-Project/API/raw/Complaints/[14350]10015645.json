@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE,FUEL SYSTEM, DIESEL",
+        "crash": false,
+        "dateComplaintFiled": "04/10/2003",
+        "dateOfIncident": "04/10/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015645,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F250",
+                "productYear": "1990",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE WAS EQUIPPED WITH DUAL GAS TANKS, THE DEALER REPLACED THE PUMP, ELECTRICAL SWITCH AND SENSOR. HOWEVER,  THE PROBLEM STILL EXISTS.  *JB....*AK",
+        "vin": "1FTHX25G6LK"
+    }
+]

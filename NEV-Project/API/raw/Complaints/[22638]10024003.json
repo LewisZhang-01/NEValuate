@@ -1,0 +1,24 @@
+[
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "06/13/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10024003,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "325I",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN AIR CONDITIONER IS BEING USED A VERY BAD ODOR IS DISPENSED. THIS IS DUE TO CONDENSATION IN THE HEATER BOX. THE HEATER BOX WAS CLEANED OUT, BUT THE PROBLEM RECURRED.*AK",
+        "vin": "WBAAN37491N"
+    }
+]

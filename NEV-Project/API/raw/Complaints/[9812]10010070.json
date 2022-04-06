@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "03/27/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010070,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WINDSHIELD WIPER MOTOR FAILED AND CAUSED THE WIPERS TO FAIL INTERMITTENTLY WHEN IT RAINED.   *NLM  *NLM",
+        "vin": "1GECE19K85E"
+    }
+]

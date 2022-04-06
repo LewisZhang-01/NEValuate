@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "07/23/2007",
+        "dateOfIncident": "07/19/2007",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10197214,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "MALIBU",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ANTI-THEFT SYSTEM KEEPING CAR FROM STARTING.  *TR",
+        "vin": "1G1ND52J7Y6"
+    }
+]

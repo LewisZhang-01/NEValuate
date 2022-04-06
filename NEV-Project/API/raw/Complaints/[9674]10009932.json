@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS,VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "02/28/2003",
+        "dateOfIncident": "06/01/2002",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009932,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "TOWN AND COUNTRY",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NAR 02/28/2003  AIR BAG LIGHT CAME ON AND LOST CRUISE CONTROL FUNCTIONS.   *CB",
+        "vin": ""
+    }
+]

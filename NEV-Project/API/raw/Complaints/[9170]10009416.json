@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "02/26/2003",
+        "dateOfIncident": "02/25/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10009416,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "WINDSTAR",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE WAS INVOLVED IN A HIT AND RUN COLLISION, THE DRIVER AND PASSENGER AIRBAGS DEPLOYED, WHICH CAUSED INJURY TO THE CONSUMER.*JB",
+        "vin": "2FMDA5144SB"
+    }
+]

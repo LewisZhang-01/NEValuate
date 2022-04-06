@@ -1,0 +1,24 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "04/16/2003",
+        "dateOfIncident": "04/12/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 2,
+        "odiNumber": 10016008,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TEMPO",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE RIGHT FRONT TIRE EXPERIENCED A BLOW OUT.  *JB  THE LEFT FRONT TIRE HAD SPLIT APART.  THE CONSUMER FOUND THAT THE TIRE WHICH WAS SOLD TO HER NEW WAS PLUGGED PRIOR TO INCIDENT.  *SCC",
+        "vin": "9999"
+    }
+]

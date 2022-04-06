@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "03/09/2009",
+        "dateOfIncident": "02/01/2009",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10261314,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "XTERRA",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUEL SENDING UNIT FAILURE:     FUEL GAUGE FAILS INTERMITTENTLY.  SERVICE ENGINE SOON LIGHT ON AT FUEL LEVEL >3/4 AND <1/4.  WILL TAKE A LONG TIME TO REGISTER ANY LEVEL AFTER A FILLUP. *TR",
+        "vin": ""
+    }
+]

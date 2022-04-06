@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "03/01/2016",
+        "dateOfIncident": "01/01/2016",
+        "fire": true,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10839214,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "REGAL",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNED A 2001 BUICK REGAL. WHEN THE VEHICLE WAS STARTED, IT BURST INTO FLAMES. THE FAILURE OCCURRED WITHOUT WARNING. THE VEHICLE WAS EXTINGUISHED BY THE FIRE DEPARTMENT. THE VEHICLE WAS DEEMED DESTROYED. THERE WERE NO INJURIES. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 15V701000 (ENGINE AND ENGINE COOLING) AFTER THE FAILURE OCCURRED. THE MANUFACTURER WAS NOT NOTIFIED OF THE FAILURE. THE FAILURE MILEAGE WAS NOT PROVIDED.",
+        "vin": "2G4WB55K911"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "01/10/2019",
+        "dateOfIncident": "01/10/2019",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11166364,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AT APPROXIMATELY 35000 THE STEERING STARTED TO SLIP AND BECOME PERIODICALLY UNRESPONSIVE.  AT 35975 MILES IT FAILED COMPLETELY WHILE DRIVING ALMOST LEADING TO AN ACCIDENT.  IT WAS TAKEN TO A FORD DEALERSHIP WHERE THEY SAID THE ENTIRE STEERING SYSTEM WOULD NEED TO BE REPLACED AND QUOTED $3000 FOR THE REPAIR.",
+        "vin": "1FM5K7FH2GG"
+    }
+]

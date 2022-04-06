@@ -1,0 +1,31 @@
+[
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "08/11/2021",
+        "dateOfIncident": "02/11/2021",
+        "fire": false,
+        "manufacturer": "REV Recreation Group",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11428648,
+        "products": [
+            {
+                "manufacturer": "REV Recreation Group",
+                "productMake": "RENEGADE RV",
+                "productModel": "VALENCIA",
+                "productYear": "2020",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Dometic Corporation",
+                "productMake": "DOMETIC",
+                "productModel": "COOKING STOVE",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "There has been a recall on this since last year and I was notified of the recall in February at which time I spoke to Dometic and was told parts were forthcoming.   My stove has still not been repaired under this recall.    The id/reference number I received from them is A980A5EE5D",
+        "vin": "4UZADVFC4LC"
+    }
+]

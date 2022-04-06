@@ -1,0 +1,31 @@
+[
+    {
+        "components": "POWER TRAIN,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "01/23/2003",
+        "dateOfIncident": "01/23/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003278,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "C/K PICKUPS",
+                "productYear": "1998",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "14048271",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "THE SLAVE CYLINDER IN MY TRANSMISSION HAS GONE OUT EVERY 1.5 YEARS.  THIS IS THE THIRD TIME IT WENT OUT AND MY CLUTCH GOT SATURATED AND THUS NEEDED TO BE REPLACED TOO.  THIS IS DEFINITELY A DEFECTIVE PART AND GM SHOULD ADMIT TO IT.",
+        "vin": "1GCEC19W8WE"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": true,
+        "dateComplaintFiled": "02/26/2003",
+        "dateOfIncident": "02/19/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10008162,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SOMETHING IN MY STEERING BROKE CAUSING MY TRUCK TO CRASH INTO A BRIDGE. IT LOCKED MY STEERING CAPABILITY ON THE LEFT SIDE. 2000 FORD RANGER. IT WAS TOTALED.*JB",
+        "vin": "1FTYR10C4YT"
+    }
+]

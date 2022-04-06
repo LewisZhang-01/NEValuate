@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "05/24/2003",
+        "dateOfIncident": "03/06/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019248,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "MALIBU",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "1999 CHEVROLET MALIBU.   \"CHECK\" ENGINE LIGHT HAS REPEATEDLY COME ON SINCE MARCH 03.  SCAN READS CODE P0420 CATALYST SYSTEM LOW EFFICIENCY.   VEHICLE IS OUT OF EMISSION WARRANTY.  VEHICLE HAS BEEN INTO CHEVROLET DEALER TWICE FOR TO DIAGNOSE THIS PROBLEM.   OBDII DIAGNOSTIC  CAN NOT FIND A DEFECTIVE COMPONENT OR CAUSE FOR CODE.  THROUGH DEFAULT, DEALER DIAGNOSED PROBLEM AS BAD CONVERTER.    CATALYTIC CONVERTER HAS BEEN REPLACED TWICE WITH NON OEM BRAND SINCE PROBLEM FIRST DIAGNOSIS IN MARCH 03.   OBDII CODE P0420 REAPPEARED AGAIN 2 WEEKS AFTER LAST CONVERTER WAS REPLACED.     I AM BEGINNING TO DOUBT RELIABILITY OF OBDII SYSTEM.  THE ORIGINAL AND 2 REPLACEMENT CONVERTERS CAN NOT ALL BE BAD.  NO FAULTS FOR OTHER EMISSION COMPONENTS HAVE BEEN IDENTIFIED BY OBDII.   *NLM",
+        "vin": "1G1NE52M9X6"
+    }
+]

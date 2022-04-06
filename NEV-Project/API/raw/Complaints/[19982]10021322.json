@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "06/10/2003",
+        "dateOfIncident": "06/08/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021322,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "TRANS SPORT",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUEL PUMP STOPPED RUNNING, CAUSING ENGINE TO QUIT. HAPPENED THREE TIMES. FOUND CONNECTOR CONTACTS AT BOTH ENDS OF FUEL SENDER HARNESS SEVERELY CORRODED. CONTACTS IN FUEL TANK END OF HARNESS FELL OUT WHEN UNPLUGGED. DEALER HAS HAD OTHER CUSTOMERS WITH SAME PROBLEM. HARNESS IS ON BACKORDER.*AK",
+        "vin": "1GMDX03E1VD"
+    }
+]

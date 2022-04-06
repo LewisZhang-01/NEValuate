@@ -1,0 +1,68 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "03/05/2019",
+        "dateOfIncident": "03/04/2019",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11184431,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "CIVIC GX",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "MY CAR STARTED TO OVERHEAT ON THE WAY HOME FROM WORK. TOOK IT TO A SHOP, THEY TOLD THAT MY ENGINE BLOCK WAS CRACKED BUT IT WAS A  MANUFACTURING DEFECT FROM HONDA. TOOK IT TO THE HONDA DEALERSHIP AND THEY SAID THE 10 YEAR WARRANTY EXT PASSED AND THEY CAN'T DO ANYTHING ABOUT IT. MY CAR CURRENTLY ONLY HAS ABOUT 73,500 MILES AND NOW THEY WANT ME TO PAY 2500-5000 FOR FIX A PROBLEM THAT WAS FROM  MANUFACTURING DEFECT. THAT SHOULD BE A RECALL AND A PROBLEM HONDA NEEDS TO FIX.",
+        "vin": "1HGFA46546L"
+    },
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "10/22/2018",
+        "dateOfIncident": "09/20/2018",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11141939,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "CIVIC GX",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TAKATA RECALL THE ENGINE (CYLINDER) BLOCK MAY LEAK ENGINE COOLANT, RESULTING IN ENGINE OVERHEATING.",
+        "vin": "1HGFA465X6L"
+    },
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "08/01/2016",
+        "dateOfIncident": "06/13/2016",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10892112,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "CIVIC GX",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2006 HONDA CIVIC GX. THE CONTACT RECEIVED A RECALL NOTIFICATION FOR NHTSA CAMPAIGN NUMBER: 16V346000 (AIR BAGS) AND STATED THAT THE PART NEEDED WAS UNAVAILABLE TO PERFORM THE RECALL REPAIR. THE MANUFACTURER WAS NOTIFIED OF THE ISSUE. THE VIN WAS UNKNOWN. THE CONTACT HAD NOT EXPERIENCED A FAILURE. PARTS DISTRIBUTION DISCONNECT.",
+        "vin": ""
+    }
+]

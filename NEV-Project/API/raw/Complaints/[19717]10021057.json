@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE,ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "06/04/2003",
+        "dateOfIncident": "05/17/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021057,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "PLYMOUTH",
+                "productModel": "GRAND VOYAGER",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUEL GAUGE INTERMITTENT NON-FUNCTIONAL. INCREASINGLY MORE FREQUENT ENGINE DYING EPISODES, THEN IS ABLE TO RESTART AFTER 5-10 MINUTES REST PERIOD. MIL LAMP CODE READS BATTERY POWER DISCONNECT TO PCM DURING PREVIOUS 40 ENGINE CRANKS.  I SUSPECT A FAULTY RELAY( SWITCH) COMPONENT THAT FAILS AT CERTAIN VOLTAGES AND AFTER EQUILIBRATION REST PERIOD ITS VALUE RETURNS TO NORMAL AND RESTARTS (ALLOWS CURRENT TO PASS THROUGH FROM BATTERY. SOURCE TO PCM AND INTO IGNITION CIRCUIT).   *NLM",
+        "vin": "2P4GP4434VR"
+    }
+]

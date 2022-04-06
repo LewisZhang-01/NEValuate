@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "07/23/2019",
+        "dateOfIncident": "02/13/2016",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11234214,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "ESCAPE",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TAKATA AIRBAGS REPORTEDLY HAVE ZAXC HAVE A NEED TO BE REPAIRED.",
+        "vin": "1FMCU0GX4GU"
+    }
+]

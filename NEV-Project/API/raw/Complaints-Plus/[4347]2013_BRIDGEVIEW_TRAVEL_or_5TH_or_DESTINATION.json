@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "02/24/2017",
+        "dateOfIncident": "02/23/2017",
+        "fire": false,
+        "manufacturer": "HL Enterprise Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10956691,
+        "products": [
+            {
+                "manufacturer": "HL Enterprise Inc.",
+                "productMake": "BRIDGEVIEW",
+                "productModel": "TRAVEL/5TH/DESTINATION",
+                "productYear": "2013",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "China Manufacturers Alliance, LLC",
+                "productMake": "BCT",
+                "productModel": "HI-RUN",
+                "productYear": "9999",
+                "size": "ST225/75 R15",
+                "type": "Tire"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2013 BEN DRONE TITAN (NA) TRAILER EQUIPPED WITH BCT HI-RUN TIRES, SIZE: 205/75R15 (NA). WHILE DRIVING 60 MPH, THE TRAILER VIBRATED. THE CONTACT WAS ABLE TO COAST TO THE ROAD SHOULDER AND FOUND THAT THE REAR TIRE THREAD HAD SEPARATED AND CAUSED THE TIRE TO BLOW OUT. THE TIRE WAS REPLACED. THE MANUFACTURER WAS NOT NOTIFIED. THE TRAILER FAILURE MILEAGE, DOT NUMBER, AND VIN WERE NOT AVAILABLE. THE TIRE FAILURE MILEAGE WAS 3,800.",
+        "vin": ""
+    }
+]

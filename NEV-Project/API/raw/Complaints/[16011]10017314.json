@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "04/22/2003",
+        "dateOfIncident": "04/21/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017314,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "YUKON",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE DRIVER SIDE DOOR WAS IN THE PROCESS OF BECOMING DISCONNECTED FROM THE HINGES, WHICH MADE IT DIFFICULT TO ENTER AND EXIT THE VEHICLE.              *JB",
+        "vin": "1GKFK16Z02J"
+    }
+]

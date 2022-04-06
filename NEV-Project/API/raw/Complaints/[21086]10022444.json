@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "06/05/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022444,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE WAS TAKEN TO THE DEALER FOR RECALL # 03V196000, HOWEVER AFTER THE MECHANIC STARTED TO WORK ON THE VEHICLE, HE INFORMED THE CONSUMER THAT ALL THE PARTS WERE NOT AVAILABLE, AND TO TAKE THE CAR AND THEY WOULD CALL CONSUMER WHEN THE PARTS ARRIVED, THE CONSUMER FELT UNSAFE DRIVING THE VEHICLE, AND THEREFORE THE VEHICLE WAS AT THE SHOP FOR 4 DAYS.    *JB",
+        "vin": "1FPDF1724VN"
+    }
+]

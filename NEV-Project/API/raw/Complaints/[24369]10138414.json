@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "10/03/2005",
+        "dateOfIncident": "10/01/2005",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10138414,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "TAHOE",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "POWER TRAIN - TRANSMISSION 2002 TAHOE  1) UPON STARTING THE VEHICLE, WILL NOT ENGAGE IN REVERSE AND ENGINE REVS AS IF STILL IN PARK OR NEUTRAL.   PLACE BACK IN PARK SEVERAL TIMES -- OR WAIT 30-60 SECONDS TO ENGAGE.  2) INTERMEDIATE SLIPPAGE IN LOW GEAR UPON ACCELERATION AT LOW SPEEDS OR FROM STOP.  ENGINE BRIEFLY REVS THEN ENGAGES. *JB",
+        "vin": "1GNEK13Z52R"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "01/09/2003",
+        "dateOfIncident": "01/08/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000842,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "MUSTANG",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BOTH SEAT BELT RETRACTORS HAVE BEGUN TO FAIL TO OPERATE. IT TAKES AN EXTREME AMOUNT OF COAXING TO CAUSE THE SEALT BELTS TO RETRACT, IF AT ALL. THE PASSENGER SIDE RETRACTOR IS THE WORSE OF THE TWO AND IS USED FAR, FAR LESS. THIS LEADS ME TO BELEIVE IT IS NOT A SIMPLE WEAR AND TEAR FROM USE ISSUE.",
+        "vin": "1FAFP4040WF"
+    }
+]

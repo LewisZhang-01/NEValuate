@@ -1,0 +1,90 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "01/09/2006",
+        "dateOfIncident": "11/23/2005",
+        "fire": true,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10147576,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "DURANGO",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "1999 DODGE DURANGO LEFT FRONT WHEEL ASSEMBLY CAUGHT ON FIRE WHILE DRIVING.  *TS   THE CONSUMER STATED HE HAD SOME SUSPENSION WORK DONE ON NOV 21, 2005.  *JB",
+        "vin": ""
+    },
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "12/15/2004",
+        "dateOfIncident": "11/25/2004",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10103798,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "DURANGO",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CRUISE CONTROL WAS ON WHEN VEHICLE UNEXPECTEDLY ACCELERATED ON ITS OWN. CONSUMER HAD TO STOMP ON ACCELERATOR IN ORDER TO STOP VEHICLE FROM INCREASING SPEED FOR THE SECOND TIME IN A WEEK. CONSUMER WILL CONTACT MANUFACTURER.*AK......WHEN CRUISE CONTROL STUCK CONSUMER TURNE DIT OFF AND VEHICLE CONTINUED TO ACCELERATE TO 79 MPH BEFORE GETTING ACCELERATOR UNSTUCK.  *AK",
+        "vin": "1B7GG23X8VS"
+    },
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "03/02/2004",
+        "dateOfIncident": "01/16/2004",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10055271,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "DURANGO",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE DEALER REPLACED THE UPPER BALL JOINTS TWICE.  NOW THE UPPER AND LOWER BALL JOINTS NEED TO BE REPLACED.  PLEASE PROVIDE ANY ADDITIONAL INFORMATION.   *NM  *LA",
+        "vin": ""
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "07/10/2000",
+        "dateOfIncident": "06/15/2000",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 865133,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "DURANGO",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKE FAILURE INTERMITTENTLY WHEN APPLYING BRAKES IN HEAVY TRAFFIC WITH A/C ON,  CAUSING PEDAL TO HARDEN BRIEFLY AND RESUME AGAIN. DEALER CONTACTED. FEEL FREE TO PROVIDE FURTHER DETAILS.  *AK",
+        "vin": "1B4HS28Z3XF"
+    }
+]

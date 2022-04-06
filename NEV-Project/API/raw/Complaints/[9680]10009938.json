@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN,VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "03/05/2003",
+        "dateOfIncident": "03/02/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009938,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "VENTURE",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE TRANSMISSION WENT INTO NEUTRAL WITHOUT WARNING AND THE WIPERS  MALFUNCTIONED. *JB",
+        "vin": "1GNDX03E3VD"
+    }
+]

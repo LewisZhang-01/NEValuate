@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC,FUEL SYSTEM, OTHER",
+        "crash": false,
+        "dateComplaintFiled": "06/26/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021766,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAVALIER",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WITH APPLIED PRESSURE TO THE BRAKE PEDAL, THE VEHICLE JERKED.   *TT   THE GAS GAUGE DID NOT GIVE THE CORRECT READING AND WAS FIXED THREE TIMES.   *SCC    *JB",
+        "vin": "1G1JC524X17"
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "03/29/2019",
+        "dateOfIncident": "02/28/2015",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11192534,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "FCA",
+                "productModel": "ALL MODELS",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "REGARDING SAFETY RECALL V06 / NHTSA 19V-021  DRAG LINK. WHY ARE YOU APPROVING RAM TO WELD THE LOCK NUTS ON THE DRAG LINK ADJUSTMENT THAT IS FOR CENTERING THE STEERING WHEEL. YOUR APPROVAL OF THIS FIX FOR THE DRAG LINK ADJUSTMENT TURNBUCKLE LEAVES THE OWNERS OF THESE VEHICLE UNABLE TO HAVE THE STEERING WHEEL RE-CENTERED AFTER A WHEEL ALIGNMENT.     IT SEEMS THAT IF THE LOCK NUTS WILL NOT STAY TIGHTEN CORRECTLY THEN THE DRAG LINK SHOULD BE REPLACED WITH ONE THAT WORK RELIABLY.     NOTE: I FOUND THE FAR SIDE LOCK NUT LOOSE ON MY TRUCK ABOUT 4 WEEKS AGO WHEN THIS ISSUE HIT THE NEWS AND FORUMS. I HAVE APPLIED BLUE LOCTITE AND TIGHTEN THE NUT WHILE RAM WORKS DOWN TO THE 2015 MODELS.     DO TO THE FACT THAT VEHICLE CONTROL CAN BE LOST IF THIS TURNBUCKLE CONNECTION FAILS COMPLETELY, YOU SHOULD REJECT RAM REPAIR AND SEND THEM BACK TO FIGURE OUT A COMPLETE FIX THAT DOES NOT REMOVE THE ABILITY TO USE THIS ADJUSTMENT TO RE-CENTER THE STEER WHEEL.    THIS SOUND A BIT LIKE THE FAA AND BOEING 737 MAX!!! THANK CHRIS",
+        "vin": "3C63R3EL1FG"
+    },
+    {
+        "components": "TIRES,BACK OVER PREVENTION",
+        "crash": false,
+        "dateComplaintFiled": "09/16/2016",
+        "dateOfIncident": "11/15/2001",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10907253,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "FCA",
+                "productModel": "ALL MODELS",
+                "productYear": "2015",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Michelin North America, Inc.",
+                "productMake": "114S UNIROYAL LAREDO AWP",
+                "productModel": "P265/75R16",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "HH",
+        "vin": ""
+    }
+]

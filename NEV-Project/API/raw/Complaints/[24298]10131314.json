@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS,SEAT BELTS",
+        "crash": true,
+        "dateComplaintFiled": "07/27/2005",
+        "dateOfIncident": "05/07/2005",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10131314,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "DAKOTA",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2005 DODGE DAKOTA WAS INVOLVED IN A FRONTAL COLLISION.  THE PASSENGER SIDE AIR BAG FAILED TO DEPLOY AND THE SEAT BELTS FAILED TO LOCK.*MR  THE DRIVER HIT HIS HEAD ON THE STEERING WHEEL WHICH KNOCKED ONE OF HIS TEETH OUT.  *NM",
+        "vin": "1D7HW48N55S"
+    }
+]

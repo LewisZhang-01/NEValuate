@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "12/17/2002",
+        "dateOfIncident": "12/09/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000170,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "PARK AVENUE",
+                "productYear": "1999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "EAGLE LS",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "ALL FOUR GOODYEAR EAGLE LS TIRES THAT CAME INSTALLED ON MY BUICK PARK AVE HAVE TREAD SEPARATIONS.   THREE OF THE FOUR TIRES HAVE OPEN SEPARATIONS.  EXPECT THAT THIS IS NOT AN ISOLATED INCIDENT.   TREAD SEPARATIONS DEVELOPED OVER SOME TIME.",
+        "vin": "1G4CW52K2X4"
+    }
+]

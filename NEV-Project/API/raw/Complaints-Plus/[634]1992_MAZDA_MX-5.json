@@ -1,0 +1,68 @@
+[
+    {
+        "components": "EXTERIOR LIGHTING,AIR BAGS,STRUCTURE",
+        "crash": true,
+        "dateComplaintFiled": "05/21/2015",
+        "dateOfIncident": "05/11/2015",
+        "fire": false,
+        "manufacturer": "Mazda Motor Corp.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10717588,
+        "products": [
+            {
+                "manufacturer": "Mazda Motor Corp.",
+                "productMake": "MAZDA",
+                "productModel": "MX-5",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE ACCIDENT OCCURRED WHEN A PEDESTRIAN DARTED OUT INTO A CROSSWALK.  THE FIRST CAR SLAMMED ON THE BREAKS.  THE CAR BEHIND IT SLAMMED ON THEIR BREAKS, AND I WAS THE CAR BEHIND THE SECOND CAR.  I TRIED TO AVOID THE CAR IN FRONT OF ME, BUT MY CAR DID NOT STOP IN TIME.  I WAS TRAVELING AT APPROXIMATELY 30 MPH ON A SIDE STREET.  I HAD MY SEATBELT FASTENED.  MY NOSE HIT THE STEERING WHEEL AND STARTED TO BLEED PROFUSELY.  I WENT TO EMERGENCY, AND THEY ADVISED ME TO SEE MY DOCTOR FOR A CHECKUP.  THE DOCTOR ORDERED AN X-RAY OF MY NOSE.  I HAVE A TINY FRACTURE AND CONTUSION, WHICH LED TO TWO VERY BLACK EYES AND SWELLING.  I HAVE PHOTOS OF THE DAMAGE TO THE VEHICLE AND TO MY FACE.    THE AIRBAG DID NOT INFLATE.",
+        "vin": "JM1NA3517N0"
+    },
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "10/03/2002",
+        "dateOfIncident": "10/03/2002",
+        "fire": false,
+        "manufacturer": "Mazda Motor Corp.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 768073,
+        "products": [
+            {
+                "manufacturer": "Mazda Motor Corp.",
+                "productMake": "MAZDA",
+                "productModel": "MX-5",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "MR",
+        "vin": "JM1NA3511N1"
+    },
+    {
+        "components": "WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "07/23/1995",
+        "dateOfIncident": "07/23/1995",
+        "fire": false,
+        "manufacturer": "Mazda Motor Corp.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 484413,
+        "products": [
+            {
+                "manufacturer": "Mazda Motor Corp.",
+                "productMake": "MAZDA",
+                "productModel": "MX-5",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "EXCESSIVE FORCE REQUIRED TO REMOVE SHOP INSTALLED LOCKING LUG NUT, CAUSING IT TO BREAK. *DSH",
+        "vin": ""
+    }
+]

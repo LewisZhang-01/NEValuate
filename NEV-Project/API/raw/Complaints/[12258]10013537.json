@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "03/27/2003",
+        "dateOfIncident": "01/23/2002",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10013537,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "AUDI",
+                "productModel": "A4",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FAILURE OF IGNITION COIL. CAR SPUTTERS. AUDI ONLY REPLACING THE COIL THAT MALFUNCTIONED LEAVING THE REST OF THE CYLINDERS SUBJECT TO THE SAME DANGEROUS FAILURE, AS ALL COILS OBVIOUSLY WERE THE SAME WHEN INSTALLED AT FACTORY AND THEREFORE ALL ARE POTENTIALLY FAULTY.  *NLM",
+        "vin": "WAUAC68D81A"
+    }
+]

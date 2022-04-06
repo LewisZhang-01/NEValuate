@@ -1,0 +1,266 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "04/10/2003",
+        "dateOfIncident": "02/03/1985",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015609,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "1984",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE STALLED WITHOUT WARNING.  *JB",
+        "vin": "1FTBR10S9EU"
+    },
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "10/07/2000",
+        "dateOfIncident": "06/20/1986",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 733666,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "1984",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NO SUMMARY",
+        "vin": "1FTLR11S6EU"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": true,
+        "dateComplaintFiled": "05/11/2000",
+        "dateOfIncident": "06/15/1990",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 2,
+        "odiNumber": 722565,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "1984",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NO SUMMARY LISTED FOR ABOVE VEHICLE. *AK",
+        "vin": ""
+    },
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "02/23/1999",
+        "dateOfIncident": null,
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 703638,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "1984",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NOTICED IN LOCAL PAPER CONCERN OVER FIRES IN HEATING/VENTILATING SYSTEM OF FORD VEHICLES.  BURNING OF LEAVES CAUGHT IN HEATER DUCTING WHICH WAS IGNITED BY HEATER MOTOR SPEED CONTROL RESISTANCE COILS LOCATED IN HEATER DUCTWORK HAS HAPPENED TWO TIMES ON MY 1984 FORD RANGER PICKUP.  THE FIRST TIME WAS IN THE LATE 1980'S IN OCTOBER OR NOVEMBER AND THE LATEST INCIDENT WAS OCTOBER OF 1997.  HORTOCULTURIST AT BOTANICAL GARDEN WHERE I VOLUNTEER HAD A SIMILAR FIRE IN JANUARY OF 1999 IN A 1980'S FULL SIZED FORD PICKUP (DON'T KNOW EXACT YEAR). ALTHOUGH THIS TYPE OF FIRE IS SHORT AND DOES NOT APPEAR TO DO A GREAT AMOUNT OF DAMAGE; IT IS VERY DISTURBING AT THE TIME.  YOUR VISIBILITY IS CLOUDED, YOU IMMEDIATELY GET OFF OF ROAD TO GET OUT OF 'BURNING' VEHICLE AND FOR SOME TIME VEHICLE HAS ASHES BLOWING FROM VENT SYSTEM AND ODOR OF SMOLDERING LEAVES LEFT IN VEHICLE.  THIS COULD BE A SIGNIFICANT TRAFFIC SAFETY OCCURANCE IF TRAFFIC WAS HEAVY AND CONTROL OF VEHICLE WAS LOST OR ONCOMING TRAFFIC HIT VEHICLE AS IT WAS BEING STOPPED TO CHECK SOURCE OF THE 'FIRE'.  I NOTICE THAT THE 1992 FORD E-150 VAN WHICH WE OWN HAS A FINER MESH SCREEN BELOW THE VENT AIR INTAKE IN FRONT OF THE WINDSHIELD; WHEREAS, THE 1984 (AND OTHER) FORD VEHICLE DOES NOT.  WHEN I CAN REMEMBER EACH YEAR, I REMOVE THE HEATER CONTROL SWITCH FROM THE DUCTING AND FISH OUT THE LEAVES WITH A PIECE OF WIRE THROUGH THE SMALL ACCESS HOLE.  DON'T REMEMBER TO DO THIS EVERY YEAR--AND I EXPECT MOST OWNERS DON'T OR DON'T KNOW HOW AND FORD DEALERS PROBABLY ARE NOT AWARE THAT THIS IS A POTENTIAL SAFETY ISSUE WHICH SHOULD BE ADDRESSED.",
+        "vin": "1FTCR10P2EU"
+    },
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "06/03/1998",
+        "dateOfIncident": "05/04/1998",
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 536262,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "1984",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE DESIGN AND LOCATION OF THE OPEN WIRE WOUND MOTOR SPEED CONTROL RESISTOR BLOCK ALLOWS FOR DEBRIS TO COLLECT RESULTING IN VEHICLE FIRE AND INJURY TO CONSUMER. (ATTORNRY FOR CONSUMER).",
+        "vin": ""
+    },
+    {
+        "components": "TRAILER HITCHES",
+        "crash": false,
+        "dateComplaintFiled": "06/16/1997",
+        "dateOfIncident": "05/11/1997",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 518585,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "1984",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TRAILER HITCH SNAPPED, DISCONNECTING TRAILER, RESULTING IN ACCIDENT. (OHIO STATE POLICE REPORT)",
+        "vin": ""
+    },
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "05/05/1997",
+        "dateOfIncident": "10/01/1996",
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 804836,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "1984",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "STARTED SMOKING FIRST AND THEN CAUGHT ON FIRE UNDER HOOD BECAUSE OF A GAS LEAKAGE. VEHICLE WAS TOTALED.    *AK",
+        "vin": "1FTBR10A3EU"
+    },
+    {
+        "components": "SEAT BELTS",
+        "crash": true,
+        "dateComplaintFiled": "12/17/1996",
+        "dateOfIncident": "11/09/1996",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 2,
+        "odiNumber": 804846,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "1984",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TRAVELING ON WILLOW GROVE ROAD, SWERVED TO AVOID AN ONCOMING VEHICLE, CROSSED CENTER LINE AND LOST CONTROL OF VEHICLE,  SEAT BELTS FAILED TO RESPOND, ALLOWING DRIVER TO BE PARTIALLY EJECTED FROM VEHICLE.  BOTH DRIVER AND PASSENGER SUFFERED INJURIES.  *AK",
+        "vin": "1FTBR10C8EU"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "07/30/1996",
+        "dateOfIncident": null,
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 506871,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "1984",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENGINE COMPARTMENT FIRE. *SD",
+        "vin": "1FTBR10C7EU"
+    },
+    {
+        "components": "PARKING BRAKE",
+        "crash": false,
+        "dateComplaintFiled": "05/03/1996",
+        "dateOfIncident": "06/12/1995",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 984044,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "1984",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FAILURE OF THE EMERGENCY PARKING BRAKE, ALLOWING THE VEHICLE TO ROLL FREELY.   *AK",
+        "vin": "1FTCR14U2RT"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "04/25/1996",
+        "dateOfIncident": "05/01/1990",
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 983521,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "1984",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE HAD AN ELECTRICAL FIRE AND THE SOURCE IS UNKWON. THE VEHICLE WAS PARKED. PLEASE DESCRIBE.     *AK",
+        "vin": "1FTBR10C4EU"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "02/14/1996",
+        "dateOfIncident": "02/14/1992",
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 979223,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "1984",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FIRE DEVELOPED IN THE IGNITION SWITCH. PLEASE EXPLAIN IN MORE DETAIL.  TT",
+        "vin": ""
+    }
+]

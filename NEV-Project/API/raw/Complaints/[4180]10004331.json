@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "01/22/2003",
+        "dateOfIncident": "01/07/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004331,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "CROWN VICTORIA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATES VEHICLE HAS NO SHIELD BETWEEN THE FUEL TANK AND THE REAR AXLE. DEALER NOTIFIED. PLEASE PROVIDE ADDITIONAL INFORMATION.",
+        "vin": "PLEASE FILL"
+    }
+]

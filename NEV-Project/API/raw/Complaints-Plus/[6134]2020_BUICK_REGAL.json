@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/13/2022",
+        "dateOfIncident": "01/01/2022",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11447368,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "REGAL",
+                "productYear": "2020",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Continental Tire the Americas, LLC",
+                "productMake": "CONTINENTAL",
+                "productModel": "CONTI PRO CONTACT",
+                "productYear": "9999",
+                "size": "245/40 R19",
+                "type": "Tire"
+            }
+        ],
+        "summary": "The contact owns a 2020 Buick Regal GS equipped with Continental ProContact TX Tires, Tire Size: 245/40/R19, DOT Number: 6Y66WBR71819. The contact stated while driving approximately 70 MPH, the TPMS warning light indicated that the rear driver\u2019s side tire air pressure was low. The tire lost air pressure and became flat. Also, later the front passenger\u2019s side tire developed bubbles and had to be replaced. Within the first 200 miles of driving the vehicle, a dealer employee experienced a blowout of the front passenger\u2019s side tire. The contact stated that the vehicle was equipped with the tires when it was purchased new. The contact stated that three of the four tires had experienced a failure. The contact was informed that the tire size was not included in the NHTSA Campaign Number: 21T001000 (Tires). The failure mileage was 200.",
+        "vin": "W04GS6SS5L1"
+    }
+]

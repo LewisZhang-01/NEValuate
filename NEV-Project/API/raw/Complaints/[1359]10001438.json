@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, DIESEL",
+        "crash": false,
+        "dateComplaintFiled": "12/23/2002",
+        "dateOfIncident": "12/03/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001438,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "CROWN VICTORIA",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATED HAVING THE SAME PROBLEMS AS RECALL #021003000 FUEL TANK/POLICE VEHICLE. DEALER WILL NOT REPAIR BECAUSE VIN# WAS NOT INCLUDED. TS",
+        "vin": "PLEASE PROV"
+    }
+]

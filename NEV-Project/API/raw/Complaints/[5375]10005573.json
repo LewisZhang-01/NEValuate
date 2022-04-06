@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "02/09/2003",
+        "dateOfIncident": "09/01/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005573,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "C1500",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WIPERS FAIL INTERMITANTLY AT ANY SPEED.  GM CLAIMS VIN NOT PART OF MASSIVE WIPER RECALL, BUT PROBLEM IS OBVIOUSLY THE SAME (BAD SOLDER JOINTS).",
+        "vin": "1GCEC19R9TE"
+    }
+]

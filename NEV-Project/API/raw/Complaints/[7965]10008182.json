@@ -1,0 +1,31 @@
+[
+    {
+        "components": "STEERING,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "02/27/2003",
+        "dateOfIncident": "02/27/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10008182,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "ESCORT",
+                "productYear": "1998",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I READ THAT THAT NHTSA CONDUCTED A STUDY ON TIE ROD END FAILURE IN FORD CARS AT SOME POINT. I HAVE JUST HAD TWO SETS OF TIE ROD ENDS REPLACED ON MY FORD ESCORT (98 MODEL YEAR) WITHIN A SPAN OF A YEAR AND A HALF. IF YOU ARE STILL COLLECTING DATA FOR THIS ISSUE, I RESPECTFULLY SUBMIT MY CASE. *JB",
+        "vin": ""
+    }
+]

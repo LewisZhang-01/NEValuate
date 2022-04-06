@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "05/16/2003",
+        "dateOfIncident": "05/13/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018819,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TAURUS",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "POWER STEERING FAILED DUE TO BROKEN SEAL IN STEERING RACK. SPENT $711 TO REPLACE. APPEARS TO BE FREQUENT OCCURRENCE ON MANY FORDS. SHOULD RECALL.  *NLM",
+        "vin": "1FAFP58U7XG"
+    }
+]

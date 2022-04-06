@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "12/05/2006",
+        "dateOfIncident": "12/01/2006",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10175214,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "GRAND CHEROKEE",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FAILED HVAC BLENDER DOORS HAVE CAUSED VEHICLE TO LOSE HEAT FUNCTIONALITY.  THIS IS CAUSING THE CAR TO BE UNABLE TO DEFROST SO DURING POOR WEATHER CONDITIONS THE VEHICLE IS UNUSABLE.  *NM",
+        "vin": "1J4GX58N42C"
+    }
+]

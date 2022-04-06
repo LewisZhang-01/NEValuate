@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "04/15/2003",
+        "dateOfIncident": "01/01/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10014422,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "LOSS OF POWER, STALLING WHEN FUEL TANK IS LESS THAN ONE QUARTER FULL. ACCORDING TO FORD SERVICE EMPLOYEE THIS RESULTS FROM PROBLEMS WITH EITHER FUEL PUMP OR FUEL FILTER(DUE TO BUILD UP OF SLUDGE AND/OR DEBRIS IN FUEL TANK.  *JB",
+        "vin": "1FAFP33P2YW"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "components": "SERVICE BRAKES",
+        "crash": true,
+        "dateComplaintFiled": "01/10/2015",
+        "dateOfIncident": "11/23/2014",
+        "fire": false,
+        "manufacturer": "Polaris Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10671570,
+        "products": [
+            {
+                "manufacturer": "Polaris Inc.",
+                "productMake": "POLARIS",
+                "productModel": "SPORTSMAN 850XP",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "COMPLETE BRAKE FAILURE WHILE OPERATING. SUBSEQUENT INVESTIGATION FOUND BRAKE MASTER CYLINDER COMPLETELY FAILED FOR UNKNOWN REASON.  *TR",
+        "vin": "4XAMH46AXEA"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING,SEATS",
+        "crash": false,
+        "dateComplaintFiled": "06/27/2014",
+        "dateOfIncident": "06/21/2014",
+        "fire": false,
+        "manufacturer": "Polaris Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10606375,
+        "products": [
+            {
+                "manufacturer": "Polaris Inc.",
+                "productMake": "POLARIS",
+                "productModel": "SPORTSMAN 850XP",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SMELLED PLASTIC BURNING UPON INSPECTION FOUND BASE OF SEAT MELTING ON EXHAUST HEAR SHIELD. COULD HAVE VERY EASILY CAUSED FIRE OR SEVERE BURNS.  *TR",
+        "vin": "4XAMH5EA0EA"
+    }
+]

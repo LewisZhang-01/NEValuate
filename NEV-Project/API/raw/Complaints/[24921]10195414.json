@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY,STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "07/05/2007",
+        "dateOfIncident": "06/04/2007",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10195414,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "2007",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE EXTERIOR MIRRORS ARE TOO SMALL AND THE INSIDE DOOR/WINDOW COWLING/TRIM IS TO RESTRICTIVE FOR QUICK ACCURATE VISIBILITY.  *AK",
+        "vin": "1FTYR10EX7P"
+    }
+]

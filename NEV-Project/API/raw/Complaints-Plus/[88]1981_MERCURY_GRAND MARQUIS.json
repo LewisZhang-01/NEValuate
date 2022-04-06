@@ -1,0 +1,46 @@
+[
+    {
+        "components": "FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "10/08/2020",
+        "dateOfIncident": "10/02/2020",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11363336,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERCURY",
+                "productModel": "GRAND MARQUIS",
+                "productYear": "1981",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUEL PUMP ISN'T WORKING RIGHT. I SEE IT'S BEEN RECALLED. HOW CAN I FIX IT? CAR WAS AT A STOP LIGHT, KEEP DYING ON ME... VERY UNSAFE FOR ME TO BE STALLING OUT. THE FUEL PUMP...",
+        "vin": "1MEBP85F0BZ"
+    },
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "05/13/1997",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 517169,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERCURY",
+                "productModel": "GRAND MARQUIS",
+                "productYear": "1981",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SEAT BELT BUCKLE JAMMED/TRAPPING PASSENGER INSIDE VEHICLE.",
+        "vin": "1MEBP85F6B2"
+    }
+]

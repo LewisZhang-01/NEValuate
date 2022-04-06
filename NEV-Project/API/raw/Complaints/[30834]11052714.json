@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "12/06/2017",
+        "dateOfIncident": "12/01/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11052714,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FLEX",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ON 12/01/2017 APPROXIMATELY 20:00 HRS.  STEERING ASSIST FAULT SERVICE REQUIRED  ON PARKING LOT   STEERING WHEEL NO POWER STEERING.  2014 FORD FLEX  VIN. 2FMGK5B83EBD11092",
+        "vin": ""
+    }
+]

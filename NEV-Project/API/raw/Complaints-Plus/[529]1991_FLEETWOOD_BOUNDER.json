@@ -1,0 +1,112 @@
+[
+    {
+        "components": "PARKING BRAKE",
+        "crash": false,
+        "dateComplaintFiled": "04/27/2006",
+        "dateOfIncident": "04/01/2004",
+        "fire": false,
+        "manufacturer": "FLEETWOOD ENTERPRISES, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10156329,
+        "products": [
+            {
+                "manufacturer": "FLEETWOOD ENTERPRISES, INC.",
+                "productMake": "FLEETWOOD",
+                "productModel": "BOUNDER",
+                "productYear": "1991",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN MOTOR HOME IS TAKEN OUT OF PARK THE POWER STEERING AND BRAKES ARE LOST.  *JB",
+        "vin": "1GBKP37N5M3"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "12/17/1996",
+        "dateOfIncident": "11/27/1996",
+        "fire": false,
+        "manufacturer": "FLEETWOOD ENTERPRISES, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 512954,
+        "products": [
+            {
+                "manufacturer": "FLEETWOOD ENTERPRISES, INC.",
+                "productMake": "FLEETWOOD",
+                "productModel": "BOUNDER",
+                "productYear": "1991",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKES FAILED AFTER RECALL REPAIRS.",
+        "vin": "3FCMF5361MJ"
+    },
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "05/28/1996",
+        "dateOfIncident": "05/17/1996",
+        "fire": false,
+        "manufacturer": "FLEETWOOD ENTERPRISES, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 984892,
+        "products": [
+            {
+                "manufacturer": "FLEETWOOD ENTERPRISES, INC.",
+                "productMake": "FLEETWOOD",
+                "productModel": "BOUNDER",
+                "productYear": "1991",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "STEERING GEAR BOX HAS FAILED, RETENTION PINS BROKE AND JAMMED IT.   *AK",
+        "vin": "3FCMF53G1MJ"
+    },
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "08/07/1995",
+        "dateOfIncident": "08/07/1995",
+        "fire": false,
+        "manufacturer": "FLEETWOOD ENTERPRISES, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 484643,
+        "products": [
+            {
+                "manufacturer": "FLEETWOOD ENTERPRISES, INC.",
+                "productMake": "FLEETWOOD",
+                "productModel": "BOUNDER",
+                "productYear": "1991",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FRONT SHIMMIES VIOLENTLY UPON HITTING POT HOLES IN ROAD.  *AW",
+        "vin": "3FCMF53GXLJ"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "07/31/1995",
+        "dateOfIncident": "06/12/1995",
+        "fire": false,
+        "manufacturer": "FLEETWOOD ENTERPRISES, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 484702,
+        "products": [
+            {
+                "manufacturer": "FLEETWOOD ENTERPRISES, INC.",
+                "productMake": "FLEETWOOD",
+                "productModel": "BOUNDER",
+                "productYear": "1991",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKE FLUID OVERHEATED, CAUSING COMPLETE BRAKE FAILURE. *DSH",
+        "vin": "3FMCF53GXLJ"
+    }
+]

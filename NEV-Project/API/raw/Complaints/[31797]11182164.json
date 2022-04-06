@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,UNKNOWN OR OTHER,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "02/23/2019",
+        "dateOfIncident": "02/23/2019",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11182164,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "PACIFICA HYBRID",
+                "productYear": "2018",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE WILL NOT START WITH THE LIGHTS FLASHING, DISABLING THE VEHICLE FOR A NUMBER OF HOURS UNTIL THE BATTERY IS COMPLETELY DRAINED. AFTER THIS, THE CAR NEEDS TO BE JUMPSTARTED. WHEN DISABLED THE CAR DOES NOT JUMP START. THIS HAS HAPPENED 5 TIMES IN ~5 MONTHS I HAVE OWNED THE VEHICLE.",
+        "vin": "2C4RC1N70JR"
+    }
+]

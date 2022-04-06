@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/27/2003",
+        "dateOfIncident": "11/27/2002",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004645,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "330I",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Continental Tire the Americas, LLC",
+                "productMake": "CONTINENTAL",
+                "productModel": "CONTINENTAL",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "REGARDLESS OF WEATHER OR ROAD CONDITIONS TIRES FAIL WITHOUT WARNING IF VEHICLE GOES OVER A BUMP, COVERED POTHOLE, ETC.  TIRE WILL DEVELOP A \"BUBBLE\" ONCE VEHICLE GOES OVER A BUMP OR POTHOLE, CAUSING CONSUMER TO REPLACE BECAUSE CONCERNED TIRE WILL BLOWOUT.*AK CONSUMER  HAD TO REPLACE ALL 4 TIRES SINCE 11/27/02.  TIRES ARE RUBBING AGAINST RIM AND HAVE NO \"BUOYANCY\".*AK",
+        "vin": "WBAAV53411J"
+    }
+]

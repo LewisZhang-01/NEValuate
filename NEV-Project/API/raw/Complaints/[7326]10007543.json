@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "02/15/2003",
+        "dateOfIncident": "02/13/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10007543,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "WINDSTAR",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "COOLANT LOW ENGINE RAN WARM, NO LEAKS FOUND.  FEBRUARY 2003, ENGINE WAS FILLED WITH COOLANT BECAUSE OF LEAK.  STARTER BLEW AND ENGINE LOCKED UP.             PH",
+        "vin": "2FMDA514XVB"
+    }
+]

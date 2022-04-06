@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "05/29/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022408,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "300M",
+                "productYear": "9999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "RECALL NOTICE RECEIVED/ CONSUMER CONCERNED ABOUT POSSIBLE SEAT RECLINER BOLTS BREAKING BEFORE RECALL IS PERFORMED.  *MR   PH",
+        "vin": ""
+    }
+]

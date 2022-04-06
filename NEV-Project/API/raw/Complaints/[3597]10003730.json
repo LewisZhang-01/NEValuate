@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "01/30/2003",
+        "dateOfIncident": "06/06/2002",
+        "fire": true,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003730,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "FIREBIRD",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "A FIRE STARTED IN THE TRUNK OF THE VEHICLE.  SCC *TS",
+        "vin": "2G2F532K812"
+    }
+]

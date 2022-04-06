@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "01/31/2003",
+        "dateOfIncident": "01/25/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004999,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "IMPALA",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "POWER STEERING RACK - THE POWER STEERING FAILED WHILE DRIVING.  DEALER FOUND OUT THAT THE POWER STEERING RACK NEED TO BE REPLACED.  THE CAR WAS JUST OUT OF WARRANTY.  IT IS TOO IMMATURE FOR THIS COMPONENT TO FAIL AT THIS AGE OF THE CAR.",
+        "vin": "2G1WH55KXY9"
+    }
+]

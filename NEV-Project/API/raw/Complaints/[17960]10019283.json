@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "05/26/2003",
+        "dateOfIncident": "03/13/2003",
+        "fire": false,
+        "manufacturer": "Yamaha Motor Corporation, USA",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019283,
+        "products": [
+            {
+                "manufacturer": "Yamaha Motor Corporation, USA",
+                "productMake": "YAMAHA",
+                "productModel": "ROYAL STAR TOUR DELUXE",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FAULT IGNITION SWITCH HAS AN INTERMITTENT CONNECTION.  THIS CAUSES THE MOTORCYCLE TO LOSS POWER SUDDENLY WITHOUT WARNING.   *NLM",
+        "vin": ""
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "02/05/2003",
+        "dateOfIncident": "02/03/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005334,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "PLYMOUTH",
+                "productModel": "GRAND VOYAGER",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "A STRESS FRACTURE HAS DEVELOPED IN THE BEAM THAT HOLDS THE BOTTOM HINGE OF THE DRIVER'S DOOR. DOOR SAGS AND WILL NOT PROPERLY SHUT.",
+        "vin": ""
+    }
+]

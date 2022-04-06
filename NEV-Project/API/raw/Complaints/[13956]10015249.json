@@ -1,0 +1,32 @@
+[
+    {
+        "components": "STRUCTURE,TIRES",
+        "crash": true,
+        "dateComplaintFiled": "04/08/2003",
+        "dateOfIncident": "03/18/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015249,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "9999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE STEEL PROD. CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "FIRESTONE",
+                "productYear": "1999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "LETTER ON BEHALF OF CONSTITUENT BRIAN TATE (MD) FORWARDED TO NHTSA BY SEANTOR  BARBARA MIKULSKI'S OFFICE AND ASKED THAT NHTSA RESPOND DIRECTLY TO MR. TATE.   MR. TATE INQUIRED ABOUT FEDERAL STATISTICS   OF SPORT UTILITY VEHICLES (SUV) ACCIDENTS, SPECIFICALLY INVOLVING FORD EXPLORERS AND/OR FIRESTONE TIRES.  *PH   *NLM.     *AK",
+        "vin": ""
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "05/02/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018075,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "MUSTANG GT",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLES CLUTCH MADE A SQUEAKING NOISE WHEN ENGAGED.  THE CLUTCH FAILED AND WAS REPLACED BUT THE PROBLEM RE-OCCURRED WITHIN 10000 MILES.  *NLM",
+        "vin": ""
+    }
+]

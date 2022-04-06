@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "01/31/2003",
+        "dateOfIncident": "01/31/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005031,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CRACK IN DRIVERS SIDE DOOR SHEET METAL AT THE LOWER REAR OF THE BELT MOLDING.SERVICE BULLETIN NUMBER:  996754    BULLETIN SEQUENCE NUMBER:  845    DATE OF BULLETIN:  9908    NHTSA ITEM NUMBER:  SB608461",
+        "vin": "1FTDX0763VK"
+    }
+]

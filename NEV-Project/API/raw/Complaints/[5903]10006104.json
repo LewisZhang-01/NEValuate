@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "01/31/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10006104,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "CONCORDE",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "HOOD HYDRAULIC CYLINDERS FAILED, CAUSING HOOD TO FALL DOWN, RESULTING IN INJURIES.  TS.  *AK",
+        "vin": ""
+    }
+]

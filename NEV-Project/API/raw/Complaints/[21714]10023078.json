@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "06/14/2003",
+        "dateOfIncident": "06/06/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10023078,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "S SERIES",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WINDSHIELD WIPERS STOP WORKING WHEN USING INTERMITTENT WIPER FUNCTION.  HAPPENS WITHOUT WARNING AND WIPERS MUST BE SET ON FULL SPEED SETTING TO GET THEM TO WORK AT ALL. THEY WILL REMAIN UNUSABLE IN INTERMITTENT SETTINGS FOR SEVERAL MINUTES OR SOMETIMES DAYS.  THE DEFECT GOES AWAY AND RETURNS WITHOUT ANY PATTERN OF FAILURE.   *NLM",
+        "vin": "1GCCS19X2W8"
+    }
+]

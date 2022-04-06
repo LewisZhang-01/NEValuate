@@ -1,0 +1,24 @@
+[
+    {
+        "components": "WHEELS",
+        "crash": true,
+        "dateComplaintFiled": "02/04/2003",
+        "dateOfIncident": "02/01/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10006435,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAVALIER",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FRONT WHEEL LOCKED UP CAUSING CONSUMER TO GO INTO A BRICK WALL.  PLEASE FURNISH ADDITIONAL INFORMATION. DEALER IS AWARE OF THE PROBLEM.     PH",
+        "vin": "PLEASE FILL"
+    }
+]

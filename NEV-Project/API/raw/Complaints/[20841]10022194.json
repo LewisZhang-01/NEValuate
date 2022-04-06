@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "07/10/2003",
+        "dateOfIncident": "05/28/2003",
+        "fire": false,
+        "manufacturer": "NATIONAL RV, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022194,
+        "products": [
+            {
+                "manufacturer": "NATIONAL RV, INC.",
+                "productMake": "NATIONAL RV",
+                "productModel": "DOLPHIN",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "GOODYEAR",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHILE DRIVING AND WITHOUT WARNING, THE TIRES FAILED TO GRIP WHILE DRIVING ON WET SURFACES. *AK  *TS  THE TIRES FAILED TO GRIP THE ROAD AT NORMAL SPEED AND BRAKING, THE RV SKIDDED WHEN THE CONSUMER TRIED TO BRAKE WHEN HE APPROACHED A TRAFFIC LIGHT *JB",
+        "vin": "1FCNF53SX10"
+    }
+]

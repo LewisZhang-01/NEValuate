@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "01/03/2003",
+        "dateOfIncident": "10/30/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000713,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "ESCORT",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I CANNOT SHUT OFF THE ENGINE IN MY 1995 FORD ESCORT STATION WAGON.  THE ENGINE CONTINUES TO RUN EVEN THOUGH THE IGNITION IS TURNED TO OFF AND THE KEY HAS BEEN REMOVED.  THERE HAVE BEEN 4 IGNITION SWITCHES INSTALLED IN THIS CAR, BUT THE LOCKSMITH DOES NOT BELIEVE THAT THE IGNITION SWITCH IS THE PROBLEM.   HE BELIEVES THAT SOMETHING IS NOT WORKING IN THE COMPUTER THAT TELLS THE ENGINE TO SHUT OFF.  THE ONLY WAY TO STOP THIS CAR WAS TO REMOVE THE BATTERY CABLE AND THEN REMOVE THE SPARK PLUG, WHICH IS VERY DANGEROUS TO DO WHEN THE CAR IS RUNNING.",
+        "vin": "1FASP15J7SW"
+    }
+]

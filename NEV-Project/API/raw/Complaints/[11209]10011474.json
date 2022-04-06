@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "03/26/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10011474,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "P30",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "PRESSURE SWITCH ON THE HYDRAULIC SYSTEM LEAKED AND CAUSED THE AUTO PARK/EMERGENCY BRAKE TO FAIL.  *NLM",
+        "vin": ""
+    }
+]

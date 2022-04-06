@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "01/30/2003",
+        "dateOfIncident": "01/01/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10006027,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "CHEROKEE",
+                "productYear": "9999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "A PIN  BOLT FELL OUT OF THE STEERING COLUMN, CAUSING STEERING COLUMN TO COLLAPSE.  PLEASE PROVIDE ADDITIONAL INFORMATION DEALER IS AWARE OF THE PROBLEM.      TS.  *AK",
+        "vin": "1J4FF28S0XL"
+    }
+]

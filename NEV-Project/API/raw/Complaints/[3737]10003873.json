@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,ENGINE AND ENGINE COOLING,POWER TRAIN,VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "02/27/2003",
+        "dateOfIncident": "12/27/2000",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003873,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "EAGLE",
+                "productModel": "TALON",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE TRANSMISSION FAILED, THE VEHICLE STALLED WHEN STOPPED, WHEN IN GEAR WITH THE BRAKE ENGAGED, ALSO UPON ACCELERATION, THE POWER STEERING FAILED, THE CHECK ENGINE LIGHT WAS INTERMITTENT, THE VEHICLE HAD BUCKED WHEN STOPPED IN PARK, AND HAD CONTINUED TO IDLE ERRATICALLY. TSB # 18-04-96    SCC         *JB",
+        "vin": "4E3AK44Y3SE"
+    }
+]

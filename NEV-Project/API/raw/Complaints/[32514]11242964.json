@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "08/10/2019",
+        "dateOfIncident": "08/10/2019",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11242964,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "MALIBU",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CAR WAS JERKING WHILE ACCELERATING HAPPENED FOR ABOUT 5 MINS THEN CHECK ENGINE LIGHT CAME ON",
+        "vin": "1G11B5SAXDF"
+    }
+]

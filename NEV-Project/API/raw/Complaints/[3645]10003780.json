@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "01/14/2003",
+        "dateOfIncident": "01/01/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003780,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "TRAILBLAZER",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATES THAT WINDSHIELD WIPER MOTOR ENGAGED WHILE VEHICLE WAS TURNED OFF AND RAN CONTINUOUSLY UNTIL SERVICED BY THE DEALER. DEALER REPLACED THE WIPER MOTOR WITH A DIFFERENT KIND.",
+        "vin": "1GNET16S026"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "04/28/2003",
+        "dateOfIncident": "04/23/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017624,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE SET BELTS LOCKED UP WITHOUT THE BRAKES BEING APPLIED.        *JB  PASSENGER SEAT BELT SHOULDER HARNESS ONLY WILL NOT UNLOCK, UNLESS THE SEAT BELT IS UNBUCKLED AND RETRACTS BACK. *TS  *CB",
+        "vin": "3GNEC16ZX21"
+    }
+]

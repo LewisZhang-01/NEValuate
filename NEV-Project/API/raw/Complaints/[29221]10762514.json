@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "09/09/2015",
+        "dateOfIncident": "09/09/2015",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10762514,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CORVETTE",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "STRONG GASOLINE ORDER/FUMES IN CABIN OF CAR. SMELL SEEMS TO BE COMING FROM FUEL TANK AREA AND NOT UNDER HOOD.",
+        "vin": "1G1YY24U355"
+    }
+]

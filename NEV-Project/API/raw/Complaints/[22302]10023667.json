@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": true,
+        "dateComplaintFiled": "06/24/2003",
+        "dateOfIncident": "06/22/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 5,
+        "odiNumber": 10023667,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "ECHO",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2 ACCIDENTS DUE TO BRAKES NOT WORKING.  STEPPING ON BRAKES, PUMPING BRAKES AND THE VEHICLE CONTINUES TO ACCELERATE.  1 ACCIDENT OCCURRED DURING A BLIZZARD AND THE SECOND ONE OCCURRED IN THE RAIN.  I BELIEVE THERE IS A DEFECT IN THE MASTER CYLINDER.  *JB",
+        "vin": "JTDBT1234Y0"
+    }
+]

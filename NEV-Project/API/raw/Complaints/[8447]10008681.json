@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "02/19/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10008681,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPEDITION",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE MASTER SWITCH FAILED, WHICH CAUSED THE VEHICLE TO HAVE NO BLINKERS, THE WIPERS WORKED INTERMITTENTLY, AND THE SECURITY SYSTEM DID NOT WORK PROPERLY.*JB",
+        "vin": ""
+    }
+]

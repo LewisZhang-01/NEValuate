@@ -1,0 +1,24 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "10/31/2018",
+        "dateOfIncident": "10/30/2018",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11144414,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "TAHOE",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AC STOPPED BLOWING COLD AIR AT 44000 MILES.",
+        "vin": "1GNSCAKC3GR"
+    }
+]

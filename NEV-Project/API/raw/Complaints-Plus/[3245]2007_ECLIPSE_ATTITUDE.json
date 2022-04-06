@@ -1,0 +1,46 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "03/05/2015",
+        "dateOfIncident": "03/04/2013",
+        "fire": false,
+        "manufacturer": "Eclipse Recreational Vehicles, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10692254,
+        "products": [
+            {
+                "manufacturer": "Eclipse Recreational Vehicles, Inc.",
+                "productMake": "ECLIPSE",
+                "productModel": "ATTITUDE",
+                "productYear": "2007",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 2007 ECLIPSE ATTITUDE RV. THE CONTACT DISCOVERED CRACKS ON THE CORNERS ON THE SLIDE OUT OF THE KINGPIN. THE VEHICLE WAS NOT DIAGNOSED OR REPAIRED. THE MANUFACTURER WAS MADE AWARE OF THE FAILURE. THE APPROXIMATE FAILURE MILEAGE WAS 50,000.",
+        "vin": "5LZBF39338R"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "06/10/2009",
+        "dateOfIncident": "05/29/2009",
+        "fire": true,
+        "manufacturer": "Eclipse Recreational Vehicles, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10273460,
+        "products": [
+            {
+                "manufacturer": "Eclipse Recreational Vehicles, Inc.",
+                "productMake": "ECLIPSE",
+                "productModel": "ATTITUDE",
+                "productYear": "2007",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 2009 (NA) ECLIPSE ATTITUDE TRAVEL TRAILER.  THE CONTACT STATED THAT THE WIRING IN THE TRAILER WAS FAULTY.  ALL OF THE ELECTRICAL COMPONENTS WOULD NOT OPERATE.  UPON FURTHER INVESTIGATION, THE WIRING IN THE TRAILER WAS FOUND TO BE CORRODED AND BURNED.  THE CONTACT NOTICED SPARKS COMING FROM THE WIRING AND FUSES, WHICH EMITTED A GLOWING RED COLOR.  THE MANUFACTURER WOULD NOT ASSIST WITH ANY REPAIRS OR ASSUME LIABILITY.  THE VIN WAS UNKNOWN.  THE FAILURE AND CURRENT MILEAGES WERE LESS THAN 300.",
+        "vin": ""
+    }
+]

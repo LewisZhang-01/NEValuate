@@ -1,0 +1,24 @@
+[
+    {
+        "components": "LATCHES/LOCKS/LINKAGES",
+        "crash": false,
+        "dateComplaintFiled": "03/28/2003",
+        "dateOfIncident": "03/28/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10013607,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "C10",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TAILGATE DOESN'T LATCH.  IT CAME OPEN WHILE DRIVING. *JB",
+        "vin": "2GCEK19T2Y1"
+    }
+]

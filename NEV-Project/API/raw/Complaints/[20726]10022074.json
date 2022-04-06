@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "06/03/2003",
+        "dateOfIncident": "05/31/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022074,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "GRAND CHEROKEE",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AIR BAG LIGHT ILLUMINATED WHILE DRIVING.  DEALER DIAGNOSED THAT THE AIR BAG HARNESS SHORT CIRCUITED.  RELATED RECALL 02V099000, CONSUMER'S VEHICLE NOT INCLUDED DUE TO VIN.  *AK",
+        "vin": "1J4GW48S42C"
+    }
+]

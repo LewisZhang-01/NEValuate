@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "10/25/2017",
+        "dateOfIncident": "10/25/2017",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11039714,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "HHR",
+                "productYear": "2007",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "POWER STEERING GOES OUT WHILE DRIVING.  CUT THE ENGINE OFF AND RESTART AND THE POWER STEERING COMES BACK.  THEN IT GOES OUT AGAIN. VERY DANGEROUS.",
+        "vin": "3GNDA23P87S"
+    }
+]

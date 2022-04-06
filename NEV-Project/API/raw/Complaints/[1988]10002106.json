@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/15/2003",
+        "dateOfIncident": "09/06/2002",
+        "fire": false,
+        "manufacturer": "RV IND., INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002106,
+        "products": [
+            {
+                "manufacturer": "RV IND., INC.",
+                "productMake": "RV",
+                "productModel": "RV",
+                "productYear": "9999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "CARLISLE TIRE & RUBBER CO",
+                "productMake": "CARLISLE",
+                "productModel": "CARLISLE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE CONSUMER STATED THAT EACH TIRE BLISTERED OUT ON THE SIDEWALL.  THE FIRST TIRE UNRAVELED BEFORE THE DAMAGE WAS NOTICED.  THE SECOND TIRE WAS BROUGHT TO THE ATTENTION BY ANOTHER MOTORIST.  (3-4 TIRES BLISTERS WERE NOTICED BY THE DRIVER.  (CEDAR CREEK 30 FKSS/TRAVEL TRAILER)  SCC",
+        "vin": "4X4TCRF221P"
+    }
+]

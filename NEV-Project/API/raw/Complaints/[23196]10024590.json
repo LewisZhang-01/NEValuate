@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "09/23/2003",
+        "dateOfIncident": "05/18/2003",
+        "fire": false,
+        "manufacturer": "Coachmen RV Company, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10024590,
+        "products": [
+            {
+                "manufacturer": "Coachmen RV Company, LLC",
+                "productMake": "SHASTA",
+                "productModel": "TRAVELMASTER",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "STEELTEX R4S",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHILE DRIVING THE MOTOR HOME,  THE DRIVER SIDE REAR TIRE BLEW OUT.  FIRESTONE LT 225/75R16.   *AK   THE ROAD WAS CLEAR AND FLAT.   *SCC     *JB",
+        "vin": "1FDXE4559YH"
+    }
+]

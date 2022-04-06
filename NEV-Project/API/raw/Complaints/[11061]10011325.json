@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "03/05/2004",
+        "dateOfIncident": "03/03/2003",
+        "fire": false,
+        "manufacturer": "UNKNOWN MANUFACTURER",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10011325,
+        "products": [
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DEFECTIVE POWER CONTROL MODULE. CERTAIN 2003 MODEL YEAR DODGE AND CHRYSLER VEHICLES WERE BUILT WITH A  DEFECTIVE POWER CONTROL MODULE.  THE CONDITION IS CREATED BY AN OVER TEMPERATURE PROCESSING CONDITION FOR POWERING  THE TRANSMISSION SOLENOID PACK THAT CAN MALFUNCTION AND CAUSE THE VEHICLE TO DEFAULT INTO 2ND GEAR LIMP HOME MODE.  *JB",
+        "vin": ""
+    }
+]

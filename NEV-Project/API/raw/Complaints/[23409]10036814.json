@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "08/28/2003",
+        "dateOfIncident": "08/23/2003",
+        "fire": false,
+        "manufacturer": "Newmar Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10036814,
+        "products": [
+            {
+                "manufacturer": "Newmar Corporation",
+                "productMake": "NEWMAR",
+                "productModel": "KOUNTRY STAR",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "MICHELIN TIRE CORP.",
+                "productMake": "MICHELIN",
+                "productModel": "RADIAL TIRE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "ADD TO NHTSA 10036804.  WHILE TRAVELING AT ABOUT 65 MPH, ON I-495 NEAR LITTLETON MA, AFTER THE INCIDENT IN BANGOR.  THE PASSENGER SIDE REAR INSIDE DUAL TIRE ALSO BLEW A SIDEWALL. THERE WAS NO CONTROL LOSS AND WE WENT ABOUT A MILE GETTING OFF THE FREEWAY AND PARKED IN A PARKING LOT BEHIND LITTLETON LUMBER.",
+        "vin": "4UZAAHBV41C"
+    }
+]

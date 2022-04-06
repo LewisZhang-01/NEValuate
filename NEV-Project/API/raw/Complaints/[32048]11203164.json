@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "04/23/2019",
+        "dateOfIncident": "04/23/2019",
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11203164,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "FLHX",
+                "productYear": "2008",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "REAR PEDAL BECAME TO HARD TO PRESS ABS MODULE FAIL WHILE IN MOTION ON THE HIGHWAY",
+        "vin": ""
+    }
+]

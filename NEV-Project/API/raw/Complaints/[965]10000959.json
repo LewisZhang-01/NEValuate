@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "01/11/2003",
+        "dateOfIncident": "12/14/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000959,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F250",
+                "productYear": "1989",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUEL TANK AUXILIARY SELECTOR SWITCH PROBLEM, OVERFLOW FROM ONE TANK TO THE OTHER, RESULTING OF OVERFLOW OF FUEL PAST THE FILLER CAP.  SAME AS NHTSA CAMPAIGN ID 91V146000.  HOWEVER MY VEHICLE WAS MANUFACTURED SLIGHTLY BEFORE THE EARLIEST CUTOFF DATE OF 2/1989. TS",
+        "vin": "1FTHX25G3KK"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "01/15/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003879,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "ROADTREK",
+                "productModel": "MOTOR HOME",
+                "productYear": "9999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN VEHICLE IS TURNING A CORNER, THE REAR END SLIDES. THIS RESULTS IN LOSS OF CONTROL OF VEHICLE, WHICH ALMOST CAUSED AN ACCIDENT. PLEASE PROVIDE MORE  DETAILS. TS",
+        "vin": ""
+    }
+]

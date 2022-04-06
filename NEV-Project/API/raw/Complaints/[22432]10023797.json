@@ -1,0 +1,31 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "06/26/2003",
+        "dateOfIncident": "06/21/2003",
+        "fire": true,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10023797,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "BEETLE",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "SEAT BELTS",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "FAULTY ELECTRICAL SYSTEM IN 2000 VOLKSWAGEN BEETLE.  *AK",
+        "vin": "3VWCC21C0YM"
+    }
+]

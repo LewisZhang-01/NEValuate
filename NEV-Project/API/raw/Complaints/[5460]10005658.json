@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, AIR",
+        "crash": false,
+        "dateComplaintFiled": "02/11/2003",
+        "dateOfIncident": "08/01/2001",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005658,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "ACCORD",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ABS SYSTEM FAILED AT 67,548 MILES. ABS LIGHT CAME ON. HONDA SERVICE DEPARTMENT  REPLACED ACCUMULATOR AND REBUILT MODULATOR FOR $590. 14 MONTHS LATER DURING STATE INSPECTION SAME HONDA SERVICE DEPARTMENT SAID ABS SYSTEM FAILED AGAIN LATER AT 84,300 MILES. ABS LIGHT DID NOT COME ON THIS TIME. ESTIMATED COST TO REPLACE MODULATOR IS $1,270. CAR CANNOT PASS INSPECTION WITHOUT THAT REPLACED.",
+        "vin": "1HGCD5668TA"
+    }
+]

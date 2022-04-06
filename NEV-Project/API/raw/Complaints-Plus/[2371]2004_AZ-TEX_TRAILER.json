@@ -1,0 +1,53 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "08/28/2004",
+        "dateOfIncident": "08/25/2004",
+        "fire": false,
+        "manufacturer": "Az-Tex",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10088740,
+        "products": [
+            {
+                "manufacturer": "Az-Tex",
+                "productMake": "AZ-TEX",
+                "productModel": "TRAILER",
+                "productYear": "2004",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THIS IS A TIRE DEFECT COMPLAINT/INQUIRY:  TIRE IS IDENTIFIED AS BCT JB42 RADIAL A/P  LT235/85R16 M+S  DOT 0J 21 G03 4503.   *JB     - IT WAS INSTALLED ON A DREAMCOACH HORSE TRAILER PURCHASED IN 2004.  THE TIRE HAD GOTTEN A FLAT ON THE TREAD AREA (A SCREW WAS EMBEDDED IN THE TREAD AREA).  THE TIRE WAS TAKEN TO A LOCAL SHOP FOR REPAIR AND THEY FIXED THE TIRE AND HAD IT IN THE SHOP OVERNIGHT LEANING AGAINST THE WALL - IT WAS NOT INSTALLED ON THE TRAILER AND WAS (ACCORDING TO THE OWNER) AIRED UP TO 80 PSI (THIS TIRE IS RATED FOR THIS PRESSURE).  THE SIDEWALL (NOT NEAR THE AREA REPAIRED FOR THE FLAT) BLEW OUT OVERNIGHT AT THE REPAIR SHOP RESULTING IN A LONG, ROUGHLY STRAIGHT, SLIT IN THE TIRE.  IT APPARENTLY FAILED ABRUPTLY, SINCE SOME THINGS WERE KNOCKED OFF A SHELF BY THE FORCE OF THE FAILURE.  THE INTENT OF THIS COMPLAINT IS TO NOTIFY NHTSA OF THIS FAILURE TO LOG IT AGAINST THIS MANUFACTURER. IT IS POSSIBLE THAT THE SHOP OWNER OVERINFLATED THE TIRE - THERE MAY BE OTHER REASONS FOR THE FAILURE (DRIVING ON THE FLAT, THOUGH IT WAS NOTICED WHILE THE TRAILER WAS PARKED, NOT WHILE DRIVING).  GIVEN THAT THE TIRE IS AN \"OFF\" BRAND, THE CONCERN WAS THAT THERE ARE SOME QUALITY ISSUES WITH THE TIRE.  WE HAVE THE TIRE IN OUR POSSESSION IF AN INSPECTION IS DESIRED.  DIGITAL PICTURES CAN BE EMAILED IF DESIRED.",
+        "vin": ""
+    },
+    {
+        "components": "SERVICE BRAKES, ELECTRIC",
+        "crash": false,
+        "dateComplaintFiled": "06/14/2004",
+        "dateOfIncident": "06/01/2004",
+        "fire": false,
+        "manufacturer": "Az-Tex",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10079340,
+        "products": [
+            {
+                "manufacturer": "Az-Tex",
+                "productMake": "AZ-TEX",
+                "productModel": "TRAILER",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKES ON VEHICLE ARE INADEQUATE.*MR  THE TRAILER HAD NO LOAD ON IT AND THE BRAKES SEEMED INADEQUATE.  THE  TRAILER WAS LOADED THE BRAKES WERE COMPLETELY INADEQUATE.  THE MANUFACTURER REPLACED ALL COMPONENTS YET THE TRAILERS BRAKES WERE STILL NOT WORKING PROPERLY (2004 AZ-TEX OKLAHOMA CAR HAULER).  *NM",
+        "vin": "4ZBSU2163YR"
+    }
+]

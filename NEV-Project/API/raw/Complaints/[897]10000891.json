@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "01/09/2003",
+        "dateOfIncident": "12/19/2002",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10000891,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "LIBERTY",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVER SIDE AIRBAG FAILED TO DEPLOY HOWEVER THE PASSENGERSIDE DID.  COLLISION OCCURED ON THE FRONT DRIVER SIDE CAUSING ABOUT $9500  IN DAMAGE. SCAN TEST COMPLETED AND THE INVESTIGATOR  FOR CHRYSLER  FOUND 3 FAULTS IN THE SQUIB 1 AND SQUIB 2 MODULES, ALSO  SAID THAT THE SEATBELT TENSIONER SENSOR CREATED A FAULT WHICH TO THE COMPUTER  NOT TO DEPLOY THE BAG.  THE BELT WAS FASTENED AT TIME OF CRASH.",
+        "vin": "1J4GL58K52W"
+    }
+]

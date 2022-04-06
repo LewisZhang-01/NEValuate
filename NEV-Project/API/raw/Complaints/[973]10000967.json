@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS,SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "01/12/2003",
+        "dateOfIncident": "08/15/2001",
+        "fire": false,
+        "manufacturer": "Volvo Car USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000967,
+        "products": [
+            {
+                "manufacturer": "Volvo Car USA, LLC",
+                "productMake": "VOLVO",
+                "productModel": "V70",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SUPPLEMENTAL RESTRAINT SYSTEM,'SRS' WARNING LIGHT IS CONTINUOSLY ON DURING  OPERTATION OF VEHICLE.THIS CONDITION HAS PREVAILED  FOR OVER ONE YEAR DESPITE  ATTEMPTS BY DEALER SERVICE TECHNICIANS TO CORRECT. BOTH DEALER SERVICE MANAGER  AND FACTORY CUSTOMER SERVICE PERSONNEL AGREE THAT 'SRS' SYSTEM MAY BE  COMPROMISED.",
+        "vin": "YV1LW55A6X2"
+    }
+]

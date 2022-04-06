@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "05/14/2003",
+        "dateOfIncident": "03/05/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10018721,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "PRIZM",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "MY AIRBAGS DID NOT DEPLOY DURING MY MVA,CAUSING ME EXTENSIVE PROBLEMS.   *NLM",
+        "vin": "1Y1SK5287XZ"
+    }
+]

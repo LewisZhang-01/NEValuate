@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN,WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "02/24/2003",
+        "dateOfIncident": "11/26/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10014758,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "ESCAPE",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NAR 02/28/2003    MR    THE CONSUMER EXPERIENCED PROBLEMS WITH THE CLUTCH AND FLYWHEEL.      *CB",
+        "vin": "1FMYU02B22K"
+    }
+]

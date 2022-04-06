@@ -1,0 +1,68 @@
+[
+    {
+        "components": "POWER TRAIN,ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "02/22/2020",
+        "dateOfIncident": "02/03/2020",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11310729,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "K 1600 GT",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "MOTORCYCLE GOES INTO 'LIMP MODE' DISPLAYING A CHECK ENGINE LIGHT. HAS OCCURRED AT IDLE BUT OFTEN OCCURS AT SPEED (30-75MPH). ENGINE RPMS ARE STUCK AT APPROXIMATELY 2,000RPM. CODE READER DISPLAYS A STORED CODE OF 'THROTTLE VALVE 1 COMPARING ERROR'. THE ABRUPT ERROR CAUSES VEHICLES TO COME DANGEROUSLY CLOSE TO REAR OF MOTORCYCLE WHILE TRYING TO PULL OFF ROAD. WILL SOMETIMES RESET ERROR AFTER CYCLING POWER.",
+        "vin": "WB106110XGZ"
+    },
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "10/18/2019",
+        "dateOfIncident": "08/01/2019",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11269469,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "K 1600 GT",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2016 BMW K 1600 GT. WHILE EMPTYING THE OIL PAN, THE CONTACT FOUND METAL SHAVINGS INSIDE THE OIL AND OIL FILTER. THE VEHICLE WAS TAKEN TO BMW MOTORCYCLES OF WESTERN OREGON (12010 SW GARDEN PL, TIGARD, OR 97223, (503) 597-7097) WHERE THE CONTACT WAS INFORMED THAT THERE WERE NO FAILURES AND THE VEHICLE WAS SAFE TO DRIVE. THE VEHICLE WAS TAKEN BACK TO THE DEALER AND THE OIL WAS CHANGED. THE VEHICLE WAS NOT REPAIRED. THE MANUFACTURER WAS MADE AWARE OF THE FAILURE AND INFORMED THE CONTACT THAT THERE WERE NO FAILURES. THE VIN WAS NOT AVAILABLE. THE FAILURE MILEAGE WAS 860.",
+        "vin": ""
+    },
+    {
+        "components": "ELECTRONIC STABILITY CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "08/18/2017",
+        "dateOfIncident": "08/10/2017",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11016233,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "K 1600 GT",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SOFTWARE UPDATE INSTALLED BY THE DEALER HAS CAUSED THE TRACTION CONTROL WARNING LIGHT TO ILLUMINATE AND AN APPARENT FAILURE IN THE TRACTION CONTROL.  BMW (MOTORCYCLES) REFUSES TO PROVIDE ANY INFORMATION RELATED TO THIS ISSUE, NOT EVEN A CONFIRMATION THAT THE ISSUE EXISTS.",
+        "vin": "WB106110XGZ"
+    }
+]

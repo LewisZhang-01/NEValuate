@@ -1,0 +1,90 @@
+[
+    {
+        "components": "STEERING,SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "03/17/2021",
+        "dateOfIncident": "09/15/2020",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11403467,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-550",
+                "productYear": "2018",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2018 FORD F-550. THE CONTACT STATED WHILE DRIVING 45 MPH, THE VEHCILE STARTED TO SHAKE VIOLENTLY FROM FRONT END OF VEHICLE. THE CONTACT STATED NO WARNING LIGHT WAS ILLUMINATED. THE VEHICLE WAS TAKEN TO HEARTLAND FORD (5979 WEST, US HWY 136, COVINGTON, IN 47932, (765)793-2233) WHERE IT WAS DIAGNOSED WITH NEEDING THE STEERING DAMPER, 3 BALL JOINTS, AND TRACK BAR TO BE REPLACED. THE VEHICLE WAS THEN TAKEN TO LAFAYETTE FORD (2051 SAGAMORE PKWY S, LAFAYETTE, IN 47905, (765) 447-9444) BUT WAS NOT DIAGNOSED. THE VEHICLE WAS REPAIRED HOWEVER, THE FAILURE PERSISTED. THE MANUFACTURER WAS NOT INFORMED OF THE FAILURE. THE FAILURE MILEAGE WAS APPROXIMATELY 17,000. ## VIN PASSED ## FORD F550 2018 ##",
+        "vin": "1FD0W5HT4JE"
+    },
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "01/20/2021",
+        "dateOfIncident": "09/11/2018",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11388990,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-550",
+                "productYear": "2018",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2018 FORD F-550. THE CONTACT STATED THAT WHEN DRIVING THEIR VEHICLE, THE VEHICLE WOULD VEER LEFT OR RIGHT ON IT'S OWN WITHOUT WARNING. THE VEHICLE'S STEERING WOULD NOT BE ABLE TO STRAIGHTEN ITSELF. THE CONTACT TOOK THE VEHICLE TO THE DEALER (DORSCH FORD LINCOLN KIA   2641 EATON RD, GREEN BAY, WI 54311;  (920) 469-3000) WHO REPLACED THE STEERING BOX, A FEW TIE RODS, AND A FEW WHEEL ALIGNMENTS. THE FAILURE STILL PERSIST. THE MANUFACTURER WAS NOT MADE AWARE OF THE FAILURE. THE APPROXIMATE FAILURE MILEAGE WAS 14,000.   ## VIN PASSED ## 2018 FORD F550  ##",
+        "vin": "1FDUF5HYXJE"
+    },
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "10/06/2020",
+        "dateOfIncident": "07/16/2020",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11362983,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-550",
+                "productYear": "2018",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FRONT END VIOLENTLY SHAKES ON VEHICLE ABOVE 45MPH CITY AND HIGHWAY DRIVING. BEEN TO DEALER 2X FOR ISSUE WITH NO RESOLVE",
+        "vin": "1FDUF5GT6JD"
+    },
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "08/05/2019",
+        "dateOfIncident": "07/02/2019",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11241724,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-550",
+                "productYear": "2018",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE AIR BAG COVERING HAS FAILED ALONG THE SEAMS.*DT*JB *DT  *TR",
+        "vin": "1FDAF5GY9JD"
+    }
+]

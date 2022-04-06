@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "05/10/2003",
+        "dateOfIncident": "05/02/2003",
+        "fire": false,
+        "manufacturer": "Mazda Motor Corp.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018507,
+        "products": [
+            {
+                "manufacturer": "Mazda Motor Corp.",
+                "productMake": "MAZDA",
+                "productModel": "626",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TRANSMISSION FAILURE AND REPLACEMENT ON AUTOMATIC TRANSMISSION AT 70,000 MILES.   *NLM",
+        "vin": "1YVGF22CXW5"
+    }
+]

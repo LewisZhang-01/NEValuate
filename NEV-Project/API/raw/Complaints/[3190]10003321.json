@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "01/24/2003",
+        "dateOfIncident": "01/24/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003321,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "CONTOUR",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "MAKE : FORD MODEL : CONTOUR YEAR : 1995   NHTSA CAMPAIGN ID NUMBER : 00V367000  RECALL DATE : NOV 03, 2000   COMPONENT: ENGINE AND ENGINE COOLING   POTENTIAL NUMBER OF UNITS AFFECTED : 262559   TERRE HAUTE FORD DEALER(IN) SAYS THEY DON'T KNOW ABOUT THIS, AND WILL NOT PERFORM THIS RECALL.",
+        "vin": "1FALP66L1SK"
+    }
+]

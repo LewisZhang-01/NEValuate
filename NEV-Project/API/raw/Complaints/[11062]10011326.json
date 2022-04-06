@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "03/19/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10011326,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAVALIER",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "LOWER PINION BEARING IN POWER STEERING GEAR MAY SEPARATE CAUSING A LOSS OF POWER STEERING ASSIST WHEN MAKING LEFT TURNS AT LOW SPEED.*AK",
+        "vin": "1G1JF5245V7"
+    }
+]

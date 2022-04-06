@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "12/12/2002",
+        "dateOfIncident": "11/01/2001",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000031,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "OLDSMOBILE",
+                "productModel": "INTRIGUE",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ELECTRICAL PROBLEMS WITH VEHICLE.  POWER LOSS AND POSSIBLY SURGES THROUGHOUT ENTIRE VEHICLE.  REPLACING ALTERNATOR WILL NOT SOLVE ISSUE.  ALL WIRING IS TIGHTLY CONNECTED.",
+        "vin": "1G3WH52H3YF"
+    }
+]

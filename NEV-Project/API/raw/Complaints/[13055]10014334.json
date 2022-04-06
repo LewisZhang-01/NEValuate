@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "04/13/2003",
+        "dateOfIncident": "03/10/2001",
+        "fire": false,
+        "manufacturer": "Subaru of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10014334,
+        "products": [
+            {
+                "manufacturer": "Subaru of America, Inc.",
+                "productMake": "SUBARU",
+                "productModel": "OUTBACK",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "\"FUZZY LOGIC\" TRANSMISSION CONTROLLER IS DANGEROUSLY SLOW, INCONSISTENT, AND UNPREDICTABLE.  SCANNING 19 INPUTS IS EXCESSIVE OVER-KILL AND REMOVES MUCH OF DRIVER'S CONTROL AND PEACE OF MIND.   *NLM",
+        "vin": "4S3BH6754Y7"
+    }
+]

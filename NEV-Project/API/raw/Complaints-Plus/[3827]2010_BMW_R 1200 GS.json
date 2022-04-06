@@ -1,0 +1,46 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "06/28/2021",
+        "dateOfIncident": "02/15/2021",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11422595,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "R 1200 GS",
+                "productYear": "2010",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact owns a 2010 BMW R-1200 GS. The contact stated that the motorcycle failed to start-up. Upon investigation, the contact associated the failure with NHTSA campaign number: 20V471000 (Fuel System, Gasoline). The manufacturer was informed of the failure. The contact was referred to the dealer however, there was no dealer within a 50-mile radius. The failure mileage was approximately 17,000.",
+        "vin": "WB1048003AZ"
+    },
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "11/15/2019",
+        "dateOfIncident": "10/01/2019",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11280300,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "R 1200 GS",
+                "productYear": "2010",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2010 BMW R 1200 GS MOTORCYCLE. WHILE STARTING THE VEHICLE, THE FUEL PUMP SPRAYED FUEL ONTO THE DRIVER AND VEHICLE WITHOUT WARNING. THE VEHICLE WAS TAKEN TO ALAMO BMW MOTORCYCLES (25600 I-10, BOERNE, TX 78006, (210) 828-5513) WHERE IT WAS DIAGNOSED THAT THE FUEL PUMP NEEDED TO BE REPLACED. THE MANUFACTURER WAS CONTACTED AND DID NOT ASSIST. THE CONTACT STATED THAT THE FAILURE WAS SIMILAR TO NHTSA CAMPAIGN NUMBER: 13V617000 (FUEL SYSTEM, GASOLINE). THE FAILURE MILEAGE WAS 50,000. THE VIN WAS UNKNOWN.",
+        "vin": ""
+    }
+]

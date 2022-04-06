@@ -1,0 +1,46 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "09/14/2000",
+        "dateOfIncident": "01/01/1999",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 731374,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "RAM",
+                "productYear": "1981",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "PARCHASED 4 EA. FIRESTONE FIREHAWK ATX 31X10.50 R15 LT 1090 M/S ,1-18-1996. 2 WENT BAD INCLUDING 1 FULL TREAD SEPARATION AT 60 MPH CAUSING MUFFLER AND FENDER DAMAGE. NO INJURIES.. FULL INFO SENT TO WEB MASTER.I( DOT NUMBER: VD60AW3183 TIRE SIZE: 31X10.50 R )",
+        "vin": "1B4GW12R6BS"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "03/21/1997",
+        "dateOfIncident": "01/01/1994",
+        "fire": true,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 602894,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "RAM",
+                "productYear": "1981",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FAULTY VACUUM PUMP CAUSED MUFFLER  TO EXPLODE/GAS TANK TO CATCH ON FIRE.",
+        "vin": "1B7KW24T9BS"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "04/06/2012",
+        "dateOfIncident": "03/05/2012",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10454314,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "ODYSSEY",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SUDDEN LOSS OF POWER WHEN ACCELERATING FROM A STOP.  OCCURS MOST WHEN HEADING UP INCLINE.  NEED TO SHIFT FROM D TO D3 TO RESTORE POWER.  NO ERROR CODES, CHECK ENGINE LIGHT, OR TCS LIGHT IS EVIDENT.  TRANSMISSION WAS REBUILT @141K DUE TO SLIPPING AND P0730 ERROR CODE FROM ORIGINAL TRANSMISSION.  *TR",
+        "vin": "2HKRL18692H"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "01/28/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004847,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "TAHOE",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AIRBAGS FAILED TO DEPLOY DURING SIDE IMPACT.    HE STATES THAT THE \"B-PILLAR\" IS SHOVED AGAINST THE AIR BAG.  PLEASE DESCRIBE DETAILS. TS",
+        "vin": "1GNEK13T01R"
+    }
+]

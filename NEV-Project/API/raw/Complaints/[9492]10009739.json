@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "02/24/2003",
+        "dateOfIncident": "01/30/2003",
+        "fire": false,
+        "manufacturer": "Land Rover",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10009739,
+        "products": [
+            {
+                "manufacturer": "Land Rover",
+                "productMake": "LAND ROVER",
+                "productModel": "RANGE ROVER",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NAR 03/03/2003. THE CONSUMER WAS INVOLVED IN A HEAD ON COLLISION, WHERE ANOTHER VEHICLE ENTERED HIS LANE.  THE DRIVERS AIR BAG DID NOT DEPLOY, HOWEVER THE PASSENGER AIR BAG DEPLOYED. THE CONSUMER WAS INJURED.   *JB",
+        "vin": "SALPV1445WA"
+    }
+]

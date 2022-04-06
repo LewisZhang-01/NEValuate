@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "01/13/2003",
+        "dateOfIncident": "08/14/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002579,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA 2500",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATED THE  VEHICLE VIBRATED EXCESSIVELY WHEN TRAVELING BETWEEN 40-60MPH.  DEALER DIAGNOSED THAT A DEFECTIVE FRAME FLEX WAS CAUSING VIBRATION AND THERE WAS NO REMEDY.*JB",
+        "vin": "1GTHK23UX2F"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "09/06/2016",
+        "dateOfIncident": "08/30/2016",
+        "fire": false,
+        "manufacturer": "Keystone RV Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10903773,
+        "products": [
+            {
+                "manufacturer": "Keystone RV Company",
+                "productMake": "KEYSTONE",
+                "productModel": "BULLET",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I EXPERIENCED A PROBLEM WITH MY TRAILER BRAKES WHILE ON A TRIP. MY BRAKE CONTROLLER SHOWED THAT THERE WAS A SHORT IN THE WIRING. WHILE IT SHOWED A SHORT I HAD NO BRAKES. THE PROBLEM EVENTUALLY CLEARED UP. WHEN I GOT HOME I STARTED CHECKING OUT THE BRAKE WIRING UNDER MY TRAILER. ALTHOUGH I DID NOT FIND THE SOURCE OF THE SHORT I DISCOVERED THAT KEYSTONE USED 14 GAUGE WIRE FOR THE WIRING TO THE BRAKES. THE AXLES AND BRAKES ARE MANUFACTURED BY DEXTER AXLES. DEXTERS SERVICE MANUAL SPECIFICALLY RECOMMENDS THAT A TRAILER UNDER 30 FEET WITH FOUR BRAKES USE A MINIMUM OF 12 GAUGE WIRE.MY TRAILER MEETS THAT CRITERIA.I DO NOT THINK THAT THE UNDERSIZED WIRE CAUSED MY PROBLEM. BUT IT IS APPARENT THAT KEYSTONE IS USING A SMALLER GAUGE WIRE TO SAVE MONEY IRREGARDLESS OF WHAT THE INDUSTRY STANDARDS ARE. THIS COULD POSSIBLY CAUSE BRAKING PROBLEMS. AS A CONSUMER I KNOW THAT MY BRAKES WORK BUT BECAUSE OF THE UNDERSIZED WIRING I DO NOT KNOW HOW WELL THEY MIGHT WORK IF THE WIRING WAS SIZED PROPERLY.",
+        "vin": "4YDT22R29DD"
+    },
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "07/01/2015",
+        "dateOfIncident": "04/23/2013",
+        "fire": false,
+        "manufacturer": "Keystone RV Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10732105,
+        "products": [
+            {
+                "manufacturer": "Keystone RV Company",
+                "productMake": "KEYSTONE",
+                "productModel": "BULLET",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CPSC: X1530922A. KEYSTONE BULLET. CONSUMER STATED WHEN COOKING INSIDE THE TRAILER, THE RANGE HOOD CAUSES THE SMOKE ALARM TO GO OFF, DUE TO FUMES AND ODORS BECOME AIRBORNE  IN THE CABIN. *SS  UPDATED 10/07/15*LJ     UPDATED 11/07/2017*CN",
+        "vin": "4YDT21229DX"
+    }
+]

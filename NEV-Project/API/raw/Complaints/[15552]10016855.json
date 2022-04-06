@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "05/01/2003",
+        "dateOfIncident": "05/01/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10016855,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "GRAND CARAVAN",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "UNSAFE GEN3 SEAT BELTS - REQUEST TO DEMAND THAT DAIMLERCHRYLER RECALL ALL VEHICLE TYPES THAT HAVE THE GEN3 SEAT BELTS.",
+        "vin": ""
+    }
+]

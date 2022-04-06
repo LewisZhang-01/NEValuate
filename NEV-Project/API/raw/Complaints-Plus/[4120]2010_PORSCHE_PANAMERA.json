@@ -1,0 +1,90 @@
+[
+    {
+        "components": "FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "03/19/2021",
+        "dateOfIncident": "03/19/2021",
+        "fire": false,
+        "manufacturer": "Porsche Cars North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11403857,
+        "products": [
+            {
+                "manufacturer": "Porsche Cars North America, Inc.",
+                "productMake": "PORSCHE",
+                "productModel": "PANAMERA",
+                "productYear": "2010",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "HIGH PRESSURE FUEL PUMP HAS FAILED I'M TO BELIEVE THAT IT WAS REPLACED BUT FAILED ONCE AGAIN",
+        "vin": "WP0AB2A72AL"
+    },
+    {
+        "components": "FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "02/25/2017",
+        "dateOfIncident": "12/01/2016",
+        "fire": false,
+        "manufacturer": "Porsche Cars North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10956944,
+        "products": [
+            {
+                "manufacturer": "Porsche Cars North America, Inc.",
+                "productMake": "PORSCHE",
+                "productModel": "PANAMERA",
+                "productYear": "2010",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FAILURE OF THE HIGH PRESSURE FUEL PUMP CAUSED LOSS OF POWER.  VEHICLE DRIVEN TO PORSCHE DEALER WHO WAS TOO BUSY TO DO A SCAN FOR AN ENTIRE WEEK AND SENT ME AWAY ON A 65 MPH HIGHWAY.  MY REPAIR SHOP SCANNED AND IDENTIFIED THE PROBLEM.  CAR AT HOME TO BE TOWED INTO PORSCHE DEALER FOR REPAIRS.  CANNOT BE DRIVEN BECAUSE LOSS OF POWER COULD CAUSE SUDDEN STOP AND SERIOUS ACCIDENT ON HIGHWAY.",
+        "vin": ""
+    },
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "10/30/2014",
+        "dateOfIncident": "10/17/2014",
+        "fire": false,
+        "manufacturer": "Porsche Cars North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10651470,
+        "products": [
+            {
+                "manufacturer": "Porsche Cars North America, Inc.",
+                "productMake": "PORSCHE",
+                "productModel": "PANAMERA",
+                "productYear": "2010",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2010 PORSCHE PANAMERA. THE CONTACT STATED WHILE DRIVING APPROXIMATELY 65 MPH, THE VEHICLE STALLED WITHOUT WARNING. THE VEHICLE WAS TAKEN TO A DEALER. HOWEVER, THE FAILURE WAS NOT DIAGNOSED NOR WAS THE VEHICLE REPAIRED. THE MANUFACTURER WAS NOT NOTIFIED OF THE FAILURE. THE FAILURE MILEAGE WAS 47,000. THE VIN WAS UNAVAILABLE.",
+        "vin": ""
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": true,
+        "dateComplaintFiled": "05/04/2010",
+        "dateOfIncident": "04/24/2010",
+        "fire": true,
+        "manufacturer": "Porsche Cars North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10328766,
+        "products": [
+            {
+                "manufacturer": "Porsche Cars North America, Inc.",
+                "productMake": "PORSCHE",
+                "productModel": "PANAMERA",
+                "productYear": "2010",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "A SMALL HIT ON THE FRONT BY A MOTOR CYCLE. NO DAMAGE TO MOTORCYCLE AND JUST A SMALL DENT TO PANAMERA ON THE FRONT. BUT THE PANAMERA CAUGHT FIRE IMMEDIATELY. *TR",
+        "vin": ""
+    }
+]

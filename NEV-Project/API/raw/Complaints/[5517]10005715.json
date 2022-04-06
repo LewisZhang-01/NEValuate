@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "02/12/2003",
+        "dateOfIncident": "02/03/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005715,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN GOING OVER A BUMP THE RETRACTOR ON THE PASSENGER SIDE SEAT BELT WILL LOCK AND NOT LET GO. CREATES A VERY UNCOMFTABLE RIDE FOR THE PASSENGER AND POSSIBLE INJURY.",
+        "vin": "1GCEK19TXXE"
+    }
+]

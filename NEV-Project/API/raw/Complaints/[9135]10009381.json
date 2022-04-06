@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "02/26/2003",
+        "dateOfIncident": "02/19/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009381,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "E-350",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE INJECTOR MODULE FAILED, WHICH CAUSED THE POWER STEERING TO STOP WORKING.  *JB  THIS WAS THE SECOND FUEL INJECTOR DRIVER MODULE THAT FAILED DUE TO WATER IN THE MODULE.  THE ENGINE STOPPED WITH OVT WARNING.  SCC",
+        "vin": "1FMHE31F3TH"
+    }
+]

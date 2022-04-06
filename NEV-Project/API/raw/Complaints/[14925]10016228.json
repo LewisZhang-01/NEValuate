@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "04/20/2003",
+        "dateOfIncident": "04/19/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10016228,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAPRICE",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUEL PUMP FAILURE.  WIRE CONNECTED TO FUEL PUMP MELTED BARE.  WIRE CONNECTOR MELTED ONTO FUEL PUMP.  WIRE HARNESS MELTED.               *JB",
+        "vin": "1G1BN52WXRR"
+    }
+]

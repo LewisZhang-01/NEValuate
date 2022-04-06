@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "07/28/2014",
+        "dateOfIncident": "01/14/2014",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10616914,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "MONTE CARLO",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "INSTRUMENT CLUSTER STOPPED WORKING (SPEEDOMETER, ETC) JANUARY 2014  FUEL REGULARTOR SWITCH WAS LEAKING FUEL (ONTO EXHAUST?)     WAS TOLD NEITHER WAS CONSIDERED A SAFETY ISSUE BUT FUEL ON A EXHAUST COULD CAUSE A FIRE.  *JS",
+        "vin": "2G1WW12E759"
+    }
+]

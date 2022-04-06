@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "05/21/2003",
+        "dateOfIncident": "05/21/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019050,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "OLDSMOBILE",
+                "productModel": "ALERO",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE INTERMITTENTLY DOES NOT START ON FIRST ATTEMPT, ESPECIALLY AFTER CAR IS WARMED UP.  MANUFACTURER CLAIMS THEY CANNOT DUPLICATE THE PROBLEM, THEREFORE THERE IS NO PROBLEM. HAPPENS AT LEAST 5 TIMES A WEEK.  *JB",
+        "vin": "1G3NL52E21C"
+    }
+]

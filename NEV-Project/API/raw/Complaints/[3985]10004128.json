@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "01/17/2003",
+        "dateOfIncident": "10/13/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004128,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAVALIER",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER WAS IN A ACCIDENT WHEN THE CAR FLIPPED FIVE TIMES WHEN NONE OF THE AIR BAGS DEPLOYED.",
+        "vin": "NOT AVAILAB"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "12/27/2002",
+        "dateOfIncident": "12/11/2002",
+        "fire": false,
+        "manufacturer": "Volvo Car USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000618,
+        "products": [
+            {
+                "manufacturer": "Volvo Car USA, LLC",
+                "productMake": "VOLVO",
+                "productModel": "C70",
+                "productYear": "1998",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "B.F. GOODRICH TIRE CO.",
+                "productMake": "B.F.GOODRICH",
+                "productModel": "COMP TA",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHILE TRAVELING AT 70 MPH ON OPEN HIGHWAY, DRIVER SIDE FONT TIRE TREAD SEPARATED AND TIRE DESINTEGRATED CAUSING VEHICLE TO TURN LEFT ALMOST RUNNING OFF THE ROAD. TIRE TYPE BF GOODRICH COMP T/A, 225/45ZR-17. TIRE CAME APART COMPLETELY. THE ROAD CONDITIONS WERE GOOD SURFACE, EVEN PAVEMENT, AMBIENT TEMPERATURE 46 DEGREES, DRY SURFACE AND CALM WINDS.",
+        "vin": ""
+    }
+]

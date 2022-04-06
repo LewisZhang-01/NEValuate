@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/24/2003",
+        "dateOfIncident": "01/24/2003",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003334,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "ACCORD",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Bridgestone Americas Tire Operations",
+                "productMake": "BRIDGESTONE",
+                "productModel": "STEEL RADIAL TIRE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "MY SON'S 2000 HONDA ACCORD IS FITTED WITH FOUR BRIDGESTONE BLIZZAK TIRES FOR WINTER DRIVING.  I SUGGESTED THAT THEY BE INFLATED TO 32 PSI AS INDICATED ON THE DOOR FRAME PLATE.  THE INSTALLER INSISTS, HOWEVER, THAT THEY SHOULD BE RUN 5 PSI LOWER (I.E. 27 PSI) THAN NOMINAL.  I THINK THAT RUNNING AT THE LOWER PRESSURE IS DANGEROUS ESPECIALLY IN NORTHERN VERMONT WHERE FRIGID TEMPERATURES DROP TIRE PRESSURES EVEN LOWER.  THE TIRE MANUFACTURER'S CONSUMER WEBSITE HAS BEEN UNRESPONSIVE. PLEASE ADVISE WHERE I CAN GET EXPERT ADVICE ON THIS MATTER.",
+        "vin": ""
+    }
+]

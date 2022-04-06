@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "02/01/1999",
+        "dateOfIncident": "10/11/1998",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 607894,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "323I",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "IGNITION CYLINDER FAILED.  *YC",
+        "vin": "WBABF7322WE"
+    }
+]

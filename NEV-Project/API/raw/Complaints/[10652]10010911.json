@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "03/23/2003",
+        "dateOfIncident": "11/24/2002",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010911,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "GOLF",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN I LET DOWN THE BACK SEAT ON MY 99 VW GOLF THE SEAT BELT PULLS UP THE SLACK, BUT WHEN I TRY TO PUT THE SEAT BACK UP, IT DOES NOT RELEASE.*JB",
+        "vin": "WVWGA31J6XW"
+    }
+]

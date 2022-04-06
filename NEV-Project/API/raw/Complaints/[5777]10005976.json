@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "01/30/2003",
+        "dateOfIncident": "01/29/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005976,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING VEHICLE WAS IN A FRONTAL COLLISION, BUT NONE OF THE AIR BAGS DEPLOYED UPON IMPACT. THE DRIVER WAS NOT INJURED BECAUSE THEY WERE WEARING THERE SEAT BELTS.*AK",
+        "vin": ""
+    }
+]

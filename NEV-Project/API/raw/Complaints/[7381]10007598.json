@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "02/16/2003",
+        "dateOfIncident": "08/20/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10007598,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CORVETTE",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "STEERING COLUM LOCK UP AND SHIFTER LOCK UP    REF. IN EA02-031 *CJS",
+        "vin": "1G1YY22G7W5"
+    }
+]

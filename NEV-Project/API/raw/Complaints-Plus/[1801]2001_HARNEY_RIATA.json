@@ -1,0 +1,46 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "11/12/2004",
+        "dateOfIncident": "09/20/2004",
+        "fire": false,
+        "manufacturer": "SAFARI MOTOR COACHES, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10099820,
+        "products": [
+            {
+                "manufacturer": "SAFARI MOTOR COACHES, INC.",
+                "productMake": "HARNEY",
+                "productModel": "RIATA",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "RECALL 01V130001/MERITOR WABCO ABS/FMVSS 105: UNABLE TO GET DEALER TO HONOR RECALL. DEALER GAVE SEVERAL APPOINTMENTS TO THE CONSUMER AND BROKE EACH APPOINTMENT DATE. MANUFACTURER WAS NOTIFIED. THE REPRESENTATIVE INFORMED  CONSUMER THAT THEY HAD NOTHING TO DO WITH THE SCHEDULING PROBLEM.*AK",
+        "vin": ""
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "10/01/2004",
+        "dateOfIncident": "03/19/2004",
+        "fire": true,
+        "manufacturer": "SAFARI MOTOR COACHES, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10091606,
+        "products": [
+            {
+                "manufacturer": "SAFARI MOTOR COACHES, INC.",
+                "productMake": "HARNEY",
+                "productModel": "RIATA",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE ON A TRIP FRONT BRAKES LOCKED.  VEHICLE WAS TOWED AND REPAIRED.  THE SECOND TIME  REAR  BRAKES CAUGHT ON FIRE.  VEHICLE WAS TOWED, AND REPAIRED BY THE MANUFACTURER.*AK  BRAKE FAILURE   *TC",
+        "vin": "4SLG7CN2911"
+    }
+]

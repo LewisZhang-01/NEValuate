@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "04/17/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10016127,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "MALIBU",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN THE VEHICLE WAS STARTED THE GAS GAUGE REGISTERED FULL.  WHILE DRIVING THE GAS GAUGE CHANGED TO DIFFERENT AMOUNTS (1/4, 1/2, 3/4) OF GAS.  THE VEHICLE SHUT DOWN FROM HAVING NO GAS IN THE TANK BUT THE GAUGE READ FULL.   *NLM   *NLM",
+        "vin": "1G1ND52T3XY"
+    }
+]

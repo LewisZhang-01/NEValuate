@@ -1,0 +1,68 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "06/26/1995",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Kawasaki Motors Corp., U.S.A.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 967850,
+        "products": [
+            {
+                "manufacturer": "Kawasaki Motors Corp., U.S.A.",
+                "productMake": "KAWASAKI",
+                "productModel": "ZX600",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER HAD RECALL FIX #94V231000 WAS DRIVING HOME AND APPLY THE BRAKE THE FOOT LEVEL BROKEN.  TT",
+        "vin": ""
+    },
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "06/07/1995",
+        "dateOfIncident": "06/07/1995",
+        "fire": false,
+        "manufacturer": "Kawasaki Motors Corp., U.S.A.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 965175,
+        "products": [
+            {
+                "manufacturer": "Kawasaki Motors Corp., U.S.A.",
+                "productMake": "KAWASAKI",
+                "productModel": "ZX600",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "REAR SWING ARM LOOSE PRIOR TO/AFTER RECALL REPAIRS (94V-231).  *AK",
+        "vin": "JKAZX4E14PB"
+    },
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "04/18/1995",
+        "dateOfIncident": "04/15/1995",
+        "fire": false,
+        "manufacturer": "Kawasaki Motors Corp., U.S.A.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 963941,
+        "products": [
+            {
+                "manufacturer": "Kawasaki Motors Corp., U.S.A.",
+                "productMake": "KAWASAKI",
+                "productModel": "ZX600",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SWING ARM FAILURE, CHAIN ADJUSTER BOKE.  TT",
+        "vin": "JKAZX4D1XPB"
+    }
+]

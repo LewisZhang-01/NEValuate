@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "11/04/2013",
+        "dateOfIncident": "03/15/2013",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10550714,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "TRAILBLAZER",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "GAS GAUGE AND OIL PRESSURE GAUGE STOPPED WORKING.  *TR",
+        "vin": "1GNDT13SX52"
+    }
+]

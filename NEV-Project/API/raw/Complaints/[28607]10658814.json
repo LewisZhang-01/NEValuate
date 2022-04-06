@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "11/18/2014",
+        "dateOfIncident": "10/28/2014",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10658814,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "ENVOY",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2005 GMC ENVOY. AFTER TURNING THE KEY IN THE IGNITION SWITCH, THE VEHICLE FAILED TO START INTERMITTENTLY. THE VEHICLE WAS NOT DIAGNOSED OR REPAIRED. THE MANUFACTURER WAS NOTIFIED OF THE FAILURE. THE APPROXIMATE FAILURE MILEAGE WAS 105,000.",
+        "vin": "1GKET63M452"
+    }
+]

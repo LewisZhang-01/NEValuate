@@ -1,0 +1,134 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "10/06/2000",
+        "dateOfIncident": "04/06/2000",
+        "fire": false,
+        "manufacturer": "CARPENTER INDUSTRIES, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 872481,
+        "products": [
+            {
+                "manufacturer": "CARPENTER INDUSTRIES, INC.",
+                "productMake": "CARPENTER",
+                "productModel": "SCHOOL BUS",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DEALER KEEPS GIVING CONSUMER THE  RUN AROUND ON REPAIRING SCHOOL BUS DOOR FRAME. *AK",
+        "vin": "IHVBBPENORH"
+    },
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "04/03/1996",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "CARPENTER INDUSTRIES, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 506799,
+        "products": [
+            {
+                "manufacturer": "CARPENTER INDUSTRIES, INC.",
+                "productMake": "CARPENTER",
+                "productModel": "SCHOOL BUS",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WINDOWS BECOME MISALIGNED, CAUSING THEM TO JAM IN THE CLOSED POSITION. *DH",
+        "vin": ""
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "01/23/1996",
+        "dateOfIncident": "01/23/1996",
+        "fire": false,
+        "manufacturer": "CARPENTER INDUSTRIES, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 500961,
+        "products": [
+            {
+                "manufacturer": "CARPENTER INDUSTRIES, INC.",
+                "productMake": "CARPENTER",
+                "productModel": "SCHOOL BUS",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WATER PUMP FAILED. (SUPERINTENDENT FOR SCHOOL).  TT",
+        "vin": "1C9AAM371SR"
+    },
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "01/23/1996",
+        "dateOfIncident": "01/23/1996",
+        "fire": false,
+        "manufacturer": "CARPENTER INDUSTRIES, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 500961,
+        "products": [
+            {
+                "manufacturer": "CARPENTER INDUSTRIES, INC.",
+                "productMake": "CARPENTER",
+                "productModel": "SCHOOL BUS",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "REAR DOOR FAILED.  TT",
+        "vin": "1C9AAM371SR"
+    },
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "01/23/1996",
+        "dateOfIncident": "01/23/1996",
+        "fire": false,
+        "manufacturer": "CARPENTER INDUSTRIES, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 500961,
+        "products": [
+            {
+                "manufacturer": "CARPENTER INDUSTRIES, INC.",
+                "productMake": "CARPENTER",
+                "productModel": "SCHOOL BUS",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "HEATER FAILED.  TT",
+        "vin": "1C9AAM371SR"
+    },
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "02/09/1995",
+        "dateOfIncident": "02/09/1995",
+        "fire": false,
+        "manufacturer": "CARPENTER INDUSTRIES, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 481100,
+        "products": [
+            {
+                "manufacturer": "CARPENTER INDUSTRIES, INC.",
+                "productMake": "CARPENTER",
+                "productModel": "SCHOOL BUS",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "PASSENGER WINDOW DOES NOT CLOSE DUE TO BAD SEAL DESIGN ON WINDOW FRAMES, ALSO LATCH RIVITS ON EMERGENCY WINDOWS LOOSE, PREVENTING WINDOWS FROM LATCHING.  *SKD",
+        "vin": "1HVBBPPNXRH"
+    }
+]

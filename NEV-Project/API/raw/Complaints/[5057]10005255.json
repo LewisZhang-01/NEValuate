@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "02/04/2003",
+        "dateOfIncident": "02/04/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005255,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CORVETTE",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "MESSAGE \"SERVICE STEERING COLUMN LOCK\". DEALER SAID RECALL DOES NOT INCLUDE THE '01 CORVETTE, JUST PREVIOUS YEARS. APPARENTLY THE PROBLEM WAS NOT CURED, JUST DROPPED THE RECALL.  REF. IN EA02-031 *CJS",
+        "vin": "1G1YY32G815"
+    }
+]

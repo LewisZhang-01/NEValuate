@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "09/09/2005",
+        "dateOfIncident": "01/01/1901",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10137714,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CADILLAC",
+                "productModel": "ELDORADO",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2001 ELDORADO ETC SEAT BACK RECLINED WHILE DRIVING.***NO ANSWER REQUIRED***. *MR *JB",
+        "vin": "1G6ET12971B"
+    }
+]

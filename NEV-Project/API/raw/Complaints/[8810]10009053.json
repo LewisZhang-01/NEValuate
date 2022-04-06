@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "02/24/2003",
+        "dateOfIncident": "01/01/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009053,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE ACCELERATOR PEDAL HAD BECOME STUCK.  THE CONSUMER HAD TO PUMP THE PEDAL IN ORDER FOR IT TO RELEASE, WHICH THEN CAUSED THE VEHICLE TO SURGE FORWARD.  *JB  *SCC",
+        "vin": "1GTEC19V2XZ"
+    }
+]

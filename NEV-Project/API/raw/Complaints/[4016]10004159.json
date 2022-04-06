@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "01/17/2003",
+        "dateOfIncident": "01/17/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004159,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE DRIVER SIDE SEAT BELT WILL NOT STAY CLOSED THE BUCKLE WILL LOOSEN.  ALSO CENTER AND REAR SEAT BELTS LOOSEN WHILE VEHICLE IS IN MOTION. *TS",
+        "vin": "1GNEC16K6SJ"
+    }
+]

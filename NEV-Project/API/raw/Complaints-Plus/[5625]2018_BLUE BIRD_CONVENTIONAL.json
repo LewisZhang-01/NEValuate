@@ -1,0 +1,46 @@
+[
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "09/03/2019",
+        "dateOfIncident": "11/14/2018",
+        "fire": false,
+        "manufacturer": "Blue Bird Body Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11252923,
+        "products": [
+            {
+                "manufacturer": "Blue Bird Body Company",
+                "productMake": "BLUE BIRD",
+                "productModel": "CONVENTIONAL",
+                "productYear": "2018",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "REAR BRAKE WEAR EXCESSIVE THIS SCHOOL BUS REQUIRES REAR BRAKES EVERY 5000 MILES AND AT TIMES EVEN LESS HAVING BEEN IN CONTACT WITH BLUE BIRD AND GETTING NO FACTORY HELP ITS TIME TO SEEK HELP",
+        "vin": "1BAKGCEAOJF"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "10/16/2018",
+        "dateOfIncident": "08/21/2018",
+        "fire": false,
+        "manufacturer": "Blue Bird Body Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11140635,
+        "products": [
+            {
+                "manufacturer": "Blue Bird Body Company",
+                "productMake": "BLUE BIRD",
+                "productModel": "CONVENTIONAL",
+                "productYear": "2018",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "INSTRUMENT CLUSTER BECOMES COMPLETELY UNRESPONSIVE WHILE DRIVING MAKING THE OPERATOR UNAWARE OF ANY MALFUNCTIONS WHICH COULD RESULT IN AN UNSAFE CONDITION.   ...*BF..  UPDATED 10/29/18*JB *DT *JB",
+        "vin": "1BAKFCEA1JF"
+    }
+]

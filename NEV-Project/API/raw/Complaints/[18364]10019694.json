@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "05/12/2003",
+        "dateOfIncident": "05/12/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019694,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "CHEROKEE",
+                "productYear": "1988",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "GILLETTE TIRE CO.",
+                "productMake": "GILLETTE",
+                "productModel": "GILLETTE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE REAR PASSENGER TIRE EXPERIENCED TREAD SEPARATION.  *JB  THE CONSUMER WAS DRIVING WHEN LOUD NOISE HAD COME FROM THE RIGHT REAR WHEEL WELL.  THE EXACT SAME PROBLEM HAPPENED TO THE LEFT FRONT TIRE.  (MODEL PEERLESS FORCE 4)  *SCC",
+        "vin": "1JCMC7724JT"
+    }
+]

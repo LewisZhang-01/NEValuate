@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "01/08/2003",
+        "dateOfIncident": "12/11/2000",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002310,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "DAKOTA",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING AT 35 MPH, VEHICLE WAS INVOLVED IN A HEAD ON COLLISION AND AIR BAGS DID NOT DEPLOY. PLEASE PROVIDE ADDITIONAL INFORMATION.",
+        "vin": "PLEASE FILL"
+    }
+]

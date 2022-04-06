@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "02/17/2003",
+        "dateOfIncident": "12/13/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10007666,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TAURUS",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WINDSHIELD WIPERS FAILED INTERMITTENTLY ON DECEMBER 13, 2002 (WELL WITHIN FIRST 500 MILES OF OPERATION). FORD DEALER COULD NOT IDENTIFY PROBLEM.  ON DECEMBER 14, WIPERS SUFFERED CATASTROPHIC FAILURE.      WIPERS WERE SUPPOSEDLY FIXED BY FORD DEALER ON FEBRUARY 13, 2003.    ACCORDING TO PO, FUSE 215 WAS NOT SEATED AND HAD BURN MARK; REPLACED FUSE, RECHECKED OPERATION.    ON FEBRUARY 15, WIPERS EXPERIENCED INTERMITTENT FAILURE AGAIN (SHUT DOWN FOR APPROXIMATELY ' HOUR WITHIN FIRST 5 MINUTES OF OPERATION FOLLOWING COLD START, THEN RESUMED OPERATION).",
+        "vin": "1FAFP53U63G"
+    }
+]

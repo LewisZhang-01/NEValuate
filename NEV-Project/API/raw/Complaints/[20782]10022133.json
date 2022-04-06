@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "06/03/2003",
+        "dateOfIncident": "01/23/2003",
+        "fire": false,
+        "manufacturer": "Volvo Car USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022133,
+        "products": [
+            {
+                "manufacturer": "Volvo Car USA, LLC",
+                "productMake": "VOLVO",
+                "productModel": "S40",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER'S VEHICLE WAS INVOLVED IN A FRONTAL COLLISION  WHILE DRIVING AT 25MPH AND NEITHER AIR BAGS DEPLOYED. DEALER NOTIFIED. *AK",
+        "vin": ""
+    }
+]

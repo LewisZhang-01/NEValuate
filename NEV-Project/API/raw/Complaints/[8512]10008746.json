@@ -1,0 +1,24 @@
+[
+    {
+        "components": "WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "02/19/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10008746,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "E-150",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE ALUMINUM WHEEL CAUSED THE SEAL TO BREAK BETWEEN THE RIM AND TIRE WHICH  RESULTED IN ALL FOUR TIRES LOSING AIR PRESSURE.*JB",
+        "vin": "1FDRE1465WH"
+    }
+]

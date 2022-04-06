@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "05/28/2019",
+        "dateOfIncident": "05/28/2019",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11210314,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "GTI",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CAR STALLS AT LOW SPEEDS WHILE CLUTCH IS FULLY ENGAGED. SOFT SHUTDOWN ALMOST FEELS LIKE THE AUTO START/STOP ON AUTOMATIC MODELS.. THIS HAPPENED THREE TIMES THIS MORNING WHILE COMING ONTO A MILITARY BASE WHERE THERE IS TYPICALLY STOP AND START TRAFFIC. NO CEL OR ERRORS ON DASH.",
+        "vin": "3VWST7AU5KM"
+    }
+]

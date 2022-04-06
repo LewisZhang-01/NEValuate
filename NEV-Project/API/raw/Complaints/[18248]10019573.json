@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "05/09/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019573,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "LAREDO",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE DRIVER'S SEAT WAS UNSTABLE AND ROCKED WHILE DRIVING.  THE VEHICLE WAS TAKEN TO AN INDEPENDENT MECHANIC WHO STATED THE BOLT WAS MISSING.               *JB",
+        "vin": "1J4GZ58S8TC"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "10/16/2001",
+        "dateOfIncident": "10/22/1997",
+        "fire": false,
+        "manufacturer": "INTERNATIONAL TRUCK & ENGINE CORPORATION",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 753270,
+        "products": [
+            {
+                "manufacturer": "INTERNATIONAL TRUCK & ENGINE CORPORATION",
+                "productMake": "INTERNATIONAL HARVESTER",
+                "productModel": "4700",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "INSTALLED FROM FACTORY ALTERNATOR TO SMALL FOR TYPE TRUCK. I HAVE REPLACED THE ALTERNATOR  EIGHT TIMES AND THE BATTERIES THREE TIMES.*AK",
+        "vin": "1HTSCAAM1TH"
+    },
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "02/05/1998",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "INTERNATIONAL TRUCK & ENGINE CORPORATION",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 529961,
+        "products": [
+            {
+                "manufacturer": "INTERNATIONAL TRUCK & ENGINE CORPORATION",
+                "productMake": "INTERNATIONAL HARVESTER",
+                "productModel": "4700",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FRAME RAILS AND CROSS MEMBERS FAILED.",
+        "vin": "1HTSCABMXTH"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": true,
+        "dateComplaintFiled": "03/07/1996",
+        "dateOfIncident": "02/23/1996",
+        "fire": false,
+        "manufacturer": "INTERNATIONAL TRUCK & ENGINE CORPORATION",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 980406,
+        "products": [
+            {
+                "manufacturer": "INTERNATIONAL TRUCK & ENGINE CORPORATION",
+                "productMake": "INTERNATIONAL HARVESTER",
+                "productModel": "4700",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN PEDAL APPLIED, PEDAL IS HARD AND THERE IS NO BRAKING ACTION, RESULTING IN AN ACCIDENT. *AK",
+        "vin": "1HTSCABM6TH"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": true,
+        "dateComplaintFiled": "03/07/1996",
+        "dateOfIncident": "02/23/1996",
+        "fire": false,
+        "manufacturer": "INTERNATIONAL TRUCK & ENGINE CORPORATION",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 980406,
+        "products": [
+            {
+                "manufacturer": "INTERNATIONAL TRUCK & ENGINE CORPORATION",
+                "productMake": "INTERNATIONAL HARVESTER",
+                "productModel": "4700",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN PEDAL APPLIED, PEDAL IS HARD AND THERE IS NO BRAKING ACTION, RESULTING IN AN ACCIDENT. *AK",
+        "vin": "1HTSCABM6TH"
+    }
+]

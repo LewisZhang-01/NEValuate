@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS,SEAT BELTS",
+        "crash": true,
+        "dateComplaintFiled": "02/14/2003",
+        "dateOfIncident": "02/11/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10007417,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "PLYMOUTH",
+                "productModel": "PLYMOUTH",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER WAS INVOLVED IN AN ACCIDENT, THE AIRBAG DEPLOYED, HOWEVER THEY DID NOT INFLATE, WHICH CAUSED INJURIES TO CONSUMER.  *JB  THE AIR BAG WAS PARTIALLY OUT WITHOUT INFLATING AND CAUSED STEERING WHEEL INJURIES.  ALSO THE SEAT BELT DID NOT HOLD.  SCC",
+        "vin": "2P4GH45R6P1"
+    }
+]

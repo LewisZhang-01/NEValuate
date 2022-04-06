@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": true,
+        "dateComplaintFiled": "06/12/2003",
+        "dateOfIncident": "05/05/2003",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 3,
+        "odiNumber": 10021501,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "CIVIC",
+                "productYear": "1989",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "MONARCH SPORT SYSTEM",
+                "productMake": "MONARCH",
+                "productModel": "MONARCH",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "TRAVELING ON I-15 SOUTH AT 75 MPH THE PASSENGER SIDE REAR TIRES TREAD SEPARATED WHICH IMMEDIATELY SENT MY 89 HONDA CIVIC HATCHBACK INTO A SPIN ENDING WITH US HITTING HEAD FIRST INTO THE CENTER DIVIDE, WRECKING THE CAR AND LUCKILY ONLY GIVING US WHIPLASH AND NOTHING MORE.  *JB",
+        "vin": ""
+    }
+]

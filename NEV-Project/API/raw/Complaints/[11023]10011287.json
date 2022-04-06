@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY,AIR BAGS,SEATS",
+        "crash": true,
+        "dateComplaintFiled": "04/01/2003",
+        "dateOfIncident": "01/14/2003",
+        "fire": false,
+        "manufacturer": "Volvo Car USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10011287,
+        "products": [
+            {
+                "manufacturer": "Volvo Car USA, LLC",
+                "productMake": "VOLVO",
+                "productModel": "S40",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE WAS INVOLVED IN A REAR END ACCIDENT. UPON IMPACT,THE  WINDSHIELD BLEW OUT, THE SEATS RECLINED AND THE AIR BAGS FAILED TO DEPLOY.  *AK   *JB",
+        "vin": "YV1VS2553YF"
+    }
+]

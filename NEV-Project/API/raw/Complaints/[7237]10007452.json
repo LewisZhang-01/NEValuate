@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": true,
+        "dateComplaintFiled": "10/03/2002",
+        "dateOfIncident": "09/29/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 5,
+        "odiNumber": 10007452,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "1998",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "TIRE BLEW OUT ON THE HIGHWAY. DRIVER LOSS CONTROL OF THE CAR, VEERED TO THE RIGHT, MISSED A COUPLE OF CARS ON THE RIGHT LANES AND HIT THE SIDE OF THE HILL ON THE LEFT OF THE ROAD. CAR SPUN AND ROLLED OVER SEVERAL TIMES. ALL PASSENGERS (5) WERE INJURED. TIRE WAS IN GOOD CONDITION AND DRIVER DID NOT DRIVE OVER ANYTHING (I.E. POTHOLES, DEBRIS, ETC).  *PH  *JB    **DIMSII IVOQ ENTRY POSTED AFTER 12/12/02 CUT OVER TO ARTEMIS**768040",
+        "vin": "1FMZU32EXWU"
+    }
+]

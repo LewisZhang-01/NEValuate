@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "11/16/2015",
+        "dateOfIncident": "11/10/2015",
+        "fire": false,
+        "manufacturer": "LGS Industries, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10790746,
+        "products": [
+            {
+                "manufacturer": "LGS Industries, Inc.",
+                "productMake": "CARGO EXPRESS",
+                "productModel": "CARGO TRAILER",
+                "productYear": "2016",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Cooper Tire & Rubber Co.",
+                "productMake": "GENERIC",
+                "productModel": "MENTOR ALL TERRAIN RADIAL SXT",
+                "productYear": "9999",
+                "size": "LT265/75R16",
+                "type": "Tire"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2016 DIAMOND CARGO (NA) TRAILER EQUIPPED WITH ARISUN ST205/75R15 TIRES (NA). WHILE INSPECTING THE TIRES, THE CONTACT NOTICED THAT THE FRONT PASSENGER TIRE WAS BUBBLING AND THE PRESSURE WAS BELOW THE RECOMMENDED LEVEL. THE MANUFACTURER WAS NOTIFIED OF THE FAILURE. THE VEHICLE AND TIRE FAILURE MILEAGE WAS APPROXIMATELY 75.",
+        "vin": "53NBE1224G1"
+    }
+]

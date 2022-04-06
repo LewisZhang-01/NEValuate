@@ -1,0 +1,90 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "12/18/2014",
+        "dateOfIncident": "12/03/2014",
+        "fire": false,
+        "manufacturer": "Carriage, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10667134,
+        "products": [
+            {
+                "manufacturer": "Carriage, Inc.",
+                "productMake": "CARRIAGE",
+                "productModel": "CAMEO",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "WRANGLER SR-A",
+                "productYear": "9999",
+                "size": "LT235/85R16",
+                "type": "Tire"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2002 CARRIAGE CAMEO EQUIPPED WITH GOODYEAR TIRES, TIRE LINE: WRANGLER SR-A, TIRE SIZE: LT235/85/R16 TIRES AND DOT NUMBER: PJORH5HV3110. THE CONTACT STATED THAT WHILE THE VEHICLE PARKED, THE REAR DRIVER SIDE TIRE WAS FLAT. THE VEHICLE WAS TAKEN TO THE DEALER, WHO DIAGNOSED THAT THE TIRE TREAD WAS SEPARATING. THE TIRE WAS NOT REPLACED. THE CONTACT MENTIONED THAT THE FAILURE OCCURRED ON THREE OCCASIONS. THE MANUFACTURER WAS NOT NOTIFIED OF THE FAILURE. THE VIN WAS NOT AVAILABLE. THE VEHICLE AND TIRE MILEAGE WAS 2,000.",
+        "vin": ""
+    },
+    {
+        "components": "ELECTRICAL SYSTEM,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "02/09/2006",
+        "dateOfIncident": "02/01/2006",
+        "fire": false,
+        "manufacturer": "Carriage, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10149909,
+        "products": [
+            {
+                "manufacturer": "Carriage, Inc.",
+                "productMake": "CARRIAGE",
+                "productModel": "CAMEO",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Carriage, Inc.",
+                "productMake": "CARRIAGE",
+                "productModel": "5TH WHEEL",
+                "productYear": "1997",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "DT*:  THE CONTACT OWNS A 2002 CARRIAGE CAMEO MODEL # F34CK3 TRAILER.  THE CONVERSION KIT THAT SWITCHES THE AC TO DC IS MALFUNCTIONING.  THIS RESULTS IN THE LIGHTS DIMMING AND THE BATTERY BEING DRAINED OF WATER.  THE DEALERSHIP WAS NOT ALERTED AND NO REPAIRS HAVE BEEN MADE.  *AK",
+        "vin": ""
+    },
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "12/02/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Carriage, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10046343,
+        "products": [
+            {
+                "manufacturer": "Carriage, Inc.",
+                "productMake": "CARRIAGE",
+                "productModel": "CAMEO",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "SAMSUNG ELECTRONICS CO., LTD",
+                "productMake": "SAMSUNG MICROWAVE",
+                "productModel": "MR5491G01",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "THE CONSUMER RECEIVED RECALL NOTICE 03E044000 SUBJECT: MICROWAVE OVENS/CIRCUIT SHORT.  THE CONSUMER CONTACTED SAMSUNG WHO INDICATED THAT THE PARTS WOULD BE SENT TO HIM AND A SERVICE DEALER IN THE AREA WOULD FIX THE MICROWAVE.  AFTER A PERIOD OF TEN DAYS, THE CONSUMER CONTACTED SAMSUNG AGAIN.  THE REPRESENTATIVE FOUND NO PARTS HAD BEEN ORDERED AND THEY COULD NOT LOCATE A DEALER IN THE CONSUMER'S AREA TO FIX THE MICROWAVE.   *AK   THE SCENARIO REMAINED THE SAME.   *SCC  *JB",
+        "vin": "16F62E3R621"
+    }
+]

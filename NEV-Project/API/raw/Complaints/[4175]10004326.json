@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "01/21/2003",
+        "dateOfIncident": "01/21/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004326,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE WAS PARK WITHOUT PRIOR WARNING THE STEERING COLUMN LOCK UP AND WILL NOT UN LOCK THE VEHICLE WAS TOWED.  PLEASE PROVIDE ADDITIONAL INFORMATION DEALER IS AWARE OF THE PROBLEM. TS",
+        "vin": "1FAFP33P81W"
+    }
+]

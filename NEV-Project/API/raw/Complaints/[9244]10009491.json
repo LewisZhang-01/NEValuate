@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "02/27/2003",
+        "dateOfIncident": "09/25/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009491,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TAURUS",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AFTER THE RECALL FOR THE SUBFRAME WAS PERFORMED, THE SUBFRAME BROKE. RECALL # 98 V 323 000.*JB",
+        "vin": "1FACP52U9LG"
+    }
+]

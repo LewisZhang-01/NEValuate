@@ -1,0 +1,24 @@
+[
+    {
+        "components": "EXTERIOR LIGHTING",
+        "crash": false,
+        "dateComplaintFiled": "01/28/2003",
+        "dateOfIncident": "01/25/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003523,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAVALIER",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "HEADLIGHT SWITCH FAILED. HEADLIGHTS WILL NOT GO ON, (HIGH OR LOW BEAM) RESULTS IN UNABLE TO DRIVE TO AND FROM WORK AT NIGHT.",
+        "vin": ""
+    }
+]

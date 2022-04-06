@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "03/21/2003",
+        "dateOfIncident": "03/21/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10012245,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA 2500",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING THE VEHICLE BETWEEN 40 OR 45 MPH THE VEHICLE VIBRATED.  THE  DEALER INSPECTED THE VEHICLE AND COULD  NOT DUPLICATE OR CORRECT THE PROBLEM.   *NLM",
+        "vin": "1GTHK29U42Z"
+    }
+]

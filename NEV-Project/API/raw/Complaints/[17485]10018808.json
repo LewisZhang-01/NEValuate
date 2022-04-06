@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "05/16/2003",
+        "dateOfIncident": "04/01/1996",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018808,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "E-250",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NOTICED GASOLINE DRIPPING ON GROUND WHILE FILING TANK. THEN IT CONTINUED TO DRIP WHEN PARKED. INVESTIGATED THE FILLER TUBE AND IT WAS CRACKED. REPLACED THE TUBE. IT APPEARED THE ORIGINAL TUBE WAS TOO SHORT AND A STRESS CRACK RESULTED.   *NLM",
+        "vin": "1FDGE24H3NH"
+    }
+]

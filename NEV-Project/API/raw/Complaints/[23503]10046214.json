@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, OTHER",
+        "crash": false,
+        "dateComplaintFiled": "12/02/2003",
+        "dateOfIncident": "06/01/1998",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10046214,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "RAM",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AFTER FILLING VEHICLE WITH FUEL THE FUEL GAUGE WILL READ EMPTY. THE FUEL-SENDING UNIT IS THE CAUSE OF IMPROPER FUEL GAUGE  READING.  *AK    *PH",
+        "vin": "ZB7KC23D4VH"
+    }
+]

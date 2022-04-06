@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "09/05/2008",
+        "dateOfIncident": "08/20/2007",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10241014,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FREESTYLE",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "INSTRUMENT CLUSTER AND PCM FAILURE WITH 2005 FORD FREESTYLE (TSB06-17-9).  BOTH ITEMS NEED TO BE REPLACED.  MANUFACTURER, FORD MOTOR COMPANY, WILL NOT ASSUME OR ACKNOWLEDGE RESPONSIBILITY OR LIABILITY FOR REPLACEMENT OF DEFECTIVE PARTS. *TR",
+        "vin": "1FMZK06175G"
+    }
+]

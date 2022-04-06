@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "04/08/2016",
+        "dateOfIncident": "06/01/2004",
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10854314,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "VRSCA",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUEL GAUGE NOT WORKING CORRECTLY   GOES FROM FULL TO EMPTY IN 15 MINUTES.",
+        "vin": "1HD1HAZ182K"
+    }
+]

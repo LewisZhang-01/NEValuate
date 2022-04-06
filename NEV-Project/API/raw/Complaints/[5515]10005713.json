@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "02/12/2003",
+        "dateOfIncident": "02/10/2003",
+        "fire": false,
+        "manufacturer": "Suzuki Motor USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005713,
+        "products": [
+            {
+                "manufacturer": "Suzuki Motor USA, LLC",
+                "productMake": "SUZUKI",
+                "productModel": "GSXR750",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SECOND GEAR TRANSMISSION FAILURE",
+        "vin": "JS1GR7HA3Y2"
+    }
+]

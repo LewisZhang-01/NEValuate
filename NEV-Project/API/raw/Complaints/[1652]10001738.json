@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION,ENGINE AND ENGINE COOLING,POWER TRAIN,VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "01/09/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001738,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "BLAZER",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ACCELERATOR STICKS DUE TO CARBON BUILDUP ON THROTTLE BODY.  GASOLINE PREMATURELY BURNS BEFORE REACHING THE CYLINDER.  BALL JOINTS HAD TO BE REPLACED.  ENGINE OIL LEAKS.  COOLANT LEAKS.  TRANSMISSION LEAKS.   *TT  *NLM",
+        "vin": "1GNDT13W2Y2"
+    }
+]

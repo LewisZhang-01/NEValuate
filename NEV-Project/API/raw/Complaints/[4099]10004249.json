@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "01/21/2003",
+        "dateOfIncident": "01/14/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004249,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "STRATUS",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE WAS SOLD WITHOUT THE LOWER SEAT BELT ANCHOR.  CONSUMER FEELS THIS WOULD BE AN UNSAFE VEHICLE FOR A CHILD PASSENGER.  PLEASE PROVIDE ANY FURTHER INFORMATION.   PH",
+        "vin": "1B3EL46X02N"
+    }
+]

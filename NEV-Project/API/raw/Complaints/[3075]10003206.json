@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE,FUEL SYSTEM, OTHER",
+        "crash": false,
+        "dateComplaintFiled": "01/22/2003",
+        "dateOfIncident": "03/01/2001",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003206,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "AUDI",
+                "productModel": "A4",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUEL GAUGE ERRATIC.  FUEL GAUGE AND DISTANCE TO EMPTY COMPUTER WILL FLUCTUATE BETWEEN 1/4 AND 3/4 WHILE THE VEHICLE IS STOPPED.  THIS OCCURS REGARDLESS OF THE LEVEL OF FUEL IN THE TANK.  FUEL HAS ALSO LEAKED FROM VEHICLE DURING THE PRESSURIZATION OF THE TANK.  FUEL SENDER UNIT HAS BEEN REPLACED AND THE PROBLEM STILL EXISTS.  INACCURATE GAUGE CAUSED DRIVER TO RUN OUT OF FUEL AND RESULTED IN LOSS OF CONTROL OF THE VEHICLE SINCE STEERING AND BRAKING ARE POWER ASSISTED.",
+        "vin": "WAUED28DXXA"
+    }
+]

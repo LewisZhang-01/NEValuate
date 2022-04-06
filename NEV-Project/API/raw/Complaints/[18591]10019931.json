@@ -1,0 +1,24 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "05/15/2003",
+        "dateOfIncident": "03/10/2001",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019931,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLES TIRES NEEDED TO BE CONTINUOUSLY ALIGNED AND REPLACED. THIS WAS NOT FROM WEAR. CAUSE UNKNOWN.   *NLM",
+        "vin": "1FAFP34P1YW"
+    }
+]

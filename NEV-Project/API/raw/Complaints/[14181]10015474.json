@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": true,
+        "dateComplaintFiled": "04/09/2003",
+        "dateOfIncident": "03/02/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10015474,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING AT 60/70 MPH, THE VEHICLE SUDDENLY LOST POWER STEERING,  WHICH CAUSED AN ACCIDENT.   *JB",
+        "vin": "3GNFK16R2VG"
+    }
+]

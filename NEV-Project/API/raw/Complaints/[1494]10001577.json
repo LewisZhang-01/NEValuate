@@ -1,0 +1,24 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/09/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001577,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPEDITION",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER IS CONCERNED THAT TIRE RECALL REPLACEMENT DOES NOT COMPLY WITH THE OWNERS MANUAL INSTRUCTIONS.  TIRE RECALL CALLED FOR REPLACED CONTINENTAL TIRE P275/60R17 GENERAL GRABBER AW WITH SMALLER TIRES P265/70R17 CONTENTIAL CONTITRAC TIRES.    *TT   *NLM",
+        "vin": "1FMRU17L81L"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "04/13/2003",
+        "dateOfIncident": "04/12/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10014336,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO 3500",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "LT 24575R16",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "TIRE/TREAD SEPARATION ON A FIRESTONE LT245/75R16.  RIGHT REAR WHEEL (THE TIRE DID NOT LOOSE AIR PRESSURE).  THIS TIRE WAS ORIGINAL EQUIPMENT ON A 2000 CHEVROLET PASSENGER VAN - LESS THAN 25000 MILES.  *NLM",
+        "vin": "1GAHG39R8X1"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "05/27/2003",
+        "dateOfIncident": "05/27/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021623,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "BONNEVILLE",
+                "productYear": "1995",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "AFFINITY",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHILE DRIVING ABOUT 55 MPH THE DRIVER HEARD A POPPING.  UPON INSPECTION THE CONSUMER NOTICED THAT THE PASSENGER SIDE REAR TIRE TREAD SEPARATED FROM THE INSIDE (FIRESTONE AFFINITY P22560/R16R).   *NLM.  *AK",
+        "vin": "PLEASE FILL"
+    }
+]

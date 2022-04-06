@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/23/2003",
+        "dateOfIncident": "06/21/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10023592,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "GRAND CHEROKEE",
+                "productYear": "1998",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "WRANGLER",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "ON SATURDAY, JUNE 21, 2003, I WAS DRIVING HOME ON A COUNTRY ROAD AT @ 40 MILES PER HOUR WHEN MY RIGHT FRONT TIRE EXPLODED AND SEPARATED FROM THE TIRE RIM. I WAS VERY LUCKY THAT I WAS NOT DRIVING AT A HIGHER RATE OF SPEED, AS I WAS NOT INJURED AND MY JEEP GRAND CHEROKEE REMAINED UPRIGHT.   *NLM",
+        "vin": "1J4GZ78Y4WC"
+    }
+]

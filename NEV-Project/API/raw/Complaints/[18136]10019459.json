@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "05/14/2003",
+        "dateOfIncident": "03/08/2002",
+        "fire": false,
+        "manufacturer": "DAMON MOTOR COACH",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019459,
+        "products": [
+            {
+                "manufacturer": "DAMON MOTOR COACH",
+                "productMake": "DAMON",
+                "productModel": "DAMON",
+                "productYear": "1995",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Cooper Tire & Rubber Co.",
+                "productMake": "COOPER",
+                "productModel": "COOPER",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "PIECES OF THE TIRE RUBBER CAME OFF AND THE TIRE HAD BLEW OUT AND CAUSED EXTENSIVE DAMAGES TO THE VEHICLE.  (5TH WHEEL TRAILER/HORNET 305R).    *MR  *SCC   *NLM",
+        "vin": ""
+    }
+]

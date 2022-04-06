@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "11/21/1996",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 805431,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FIESTA",
+                "productYear": "1988",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN THE WEATHER GETS BELOW A CERTAIN TEMPERATURE, AROUND 32 DEGREES OR SO,  THE HORN WILL NOT WORK.      *AK",
+        "vin": ""
+    }
+]

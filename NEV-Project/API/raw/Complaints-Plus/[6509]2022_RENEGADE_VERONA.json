@@ -1,0 +1,24 @@
+[
+    {
+        "components": "WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "01/10/2022",
+        "dateOfIncident": "07/15/2021",
+        "fire": false,
+        "manufacturer": "REV Recreation Group",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11446911,
+        "products": [
+            {
+                "manufacturer": "REV Recreation Group",
+                "productMake": "RENEGADE",
+                "productModel": "VERONA",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "* TPMS is faulty. Gauges intermittently report a high heat warning which is too high for a tire to actually reach without blowing up. I've used an infrared camera to capture the actual temperature. The warning gauge claims temps are above 250 degrees farenheit when the actual temp per the camera reading is 80 -90 degrees * False periodic readings are causing us to ignore this system which could lead to blowouts and accidents when there is a real problem with tire temperatures * We've called the Freightliner dealer and they stated this is a known problem. When we took it in for service the warning didn't occur so they said they couldn't address the issue.",
+        "vin": "3ALACYFE9ND"
+    }
+]

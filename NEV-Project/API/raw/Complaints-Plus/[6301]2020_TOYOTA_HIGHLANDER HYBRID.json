@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "05/05/2021",
+        "dateOfIncident": "02/26/2021",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11415346,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "HIGHLANDER HYBRID",
+                "productYear": "2020",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "EAGLE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2020 TOYOTA HIGHLANDER HYBRID EQUIPPED WITH GOODYEAR TIRES, TIRE LINE: EAGLE, TIRE SIZE: 235/55/R20, DOT NUMBER: M68AJM1R0720. THE CONTACT STATED WHILE DRIVING 70 MPH, THE TREAD ON THE PASSENGER'S SIDE REAR SEPARATED, CAUSING THE TIRE TO EXPLODE. THE CONTACT PULLED OVER AND REPLACED THE TIRE WITH THE SPARE TIRE. THE VEHICLE WAS TAKEN TO VANCOUVER TOYOTA (10455 NE 53RD ST, VANCOUVER, WA 98662, (360)944-3001) WHERE THE TIRE WAS REPLACED. THE MANUFACTURER WAS INFORMED OF THE FAILURE HOWEVER, THERE WAS NO ASSISTANCE PROVIDED. THE APPROXIMATE FAILURE MILEAGE WAS 9,000.",
+        "vin": "5TDEBRCH5LS"
+    }
+]

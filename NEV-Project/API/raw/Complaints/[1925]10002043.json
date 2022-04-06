@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "01/06/2003",
+        "dateOfIncident": "01/02/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002043,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "YUKON XL",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATES THAT INSTRUMENT PANEL GETS EXTREMELY HOT DURING NORMAL VEHICLE OPERATION.  CONSUMER CONCERNED ABOUT POSSIBLE FIRE HAZARD.   PH  COMPUTER MODULE WAS REPLACED AND THE INSTRUMENT PANEL IS NO LONGER HOT.   MODULE ALSO CAUSED NO START CONDITION.  *TT",
+        "vin": "3GKFK16Z43G"
+    }
+]

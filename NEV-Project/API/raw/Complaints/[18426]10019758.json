@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "05/13/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Kia Motors America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10019758,
+        "products": [
+            {
+                "manufacturer": "Kia Motors America",
+                "productMake": "KIA",
+                "productModel": "SEPHIA",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE WAS IN A FRONTAL COLLISION WHILE DRIVING 45 MPH BUT NONE OF THE AIR BAGS DEPLOYED UPON IMPACT.  THE VEHICLE WAS TOTALED.  *NLM",
+        "vin": "KNAFBR17X57"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "04/18/2017",
+        "dateOfIncident": "03/30/2017",
+        "fire": false,
+        "manufacturer": "Navistar, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10979088,
+        "products": [
+            {
+                "manufacturer": "Navistar, Inc.",
+                "productMake": "INTERNATIONAL",
+                "productModel": "4300",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT LEASED A 2006 INTERNATIONAL 4300. WHILE DRIVING IN THE RAIN, WATER MADE CONTACT WITH THE FUSE BOX IN THE CABIN OF THE VEHICLE. THE NEXT DAY, THE VEHICLE FAILED TO START. THE VEHICLE WAS TOWED TO THE LEASING GARAGE, BUT WAS NOT DIAGNOSED OR REPAIRED. WHEN THE WATER DRIED OUT OF THE CABIN THE NEXT DAY, THE VEHICLE WAS ABLE TO START AND BE DRIVE. THE LEASING COMPANY WAS MADE AWARE OF THE FAILURE. THE MANUFACTURER WAS NOT MADE AWARE OF THE FAILURE. THE VIN WAS UNKNOWN. THE APPROXIMATE FAILURE MILEAGE WAS 410,000.",
+        "vin": ""
+    },
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "12/15/2011",
+        "dateOfIncident": "04/20/2006",
+        "fire": false,
+        "manufacturer": "Navistar, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10440059,
+        "products": [
+            {
+                "manufacturer": "Navistar, Inc.",
+                "productMake": "INTERNATIONAL",
+                "productModel": "4300",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2006 INTERNATIONAL TOW TRUCK 4300. THE CONTACT STATED THAT THE STEERING WAS HARD TO CONTROL, CAUSING THE VEHICLE TO SWERVE AND VIBRATE EXCESSIVELY. THE VEHICLE WAS TAKEN TO THE DEALER SEVERAL TIMES FOR THE FAILURE. THE DEALER STATED THAT THERE WAS NOTHING WRONG WITH THE VEHICLE.  THE TRUCK WAS THEN TAKEN TO A LOCAL MECHANIC WHO PERFORMED A DIAGNOSTIC AND LOCATED THE FAILURE AT THE DIRECTIONAL BOX.  THE TRUCK WAS NOT REPAIRED. THE FAILURE MILEAGE WAS 1,450 AND THE CURRENT MILEAGE WAS 150,000.",
+        "vin": "1HTMMAAM66H"
+    },
+    {
+        "components": "SUSPENSION",
+        "crash": true,
+        "dateComplaintFiled": "07/27/2010",
+        "dateOfIncident": "07/25/2010",
+        "fire": false,
+        "manufacturer": "Navistar, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10345684,
+        "products": [
+            {
+                "manufacturer": "Navistar, Inc.",
+                "productMake": "INTERNATIONAL",
+                "productModel": "4300",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT RENTED A 2006 INTERNATIONAL 4300 FROM A VEHICLE RENTAL FACILITY. WHILE BRAKING FROM APPROXIMATELY 58 MPH, THE REAR END OF THE VEHICLE BEGAN TO EXCESSIVELY SWAY FROM THE RIGHT, RESULTED IN A SINGLE VEHICLE CRASH. THE CONTACT SUSTAINED MODERATE, UNKNOWN INJURIES AS A RESULT. A POLICE REPORT WAS AVAILABLE. THE VEHICLE WAS TOWED TO A SALVAGE LOT. THE VEHICLE WAS INVESTIGATED BY THE RENTAL VEHICLE FACILITY WHICH ADVISED THERE WAS A HAIRLINE FRACTURE IN THE SUSPENSION AND THE REAR AXLE WAS MISSING FROM THE VEHICLE BUT NOT FOUND AT THE SCENE OF THE CRASH. THE VEHICLE WAS NOT REPAIRED. THE FAILURE MILEAGE WAS 121,003 AND THE CURRENT MILEAGE WAS 122,126.",
+        "vin": "1HTMMAAM27H"
+    },
+    {
+        "components": "PARKING BRAKE",
+        "crash": true,
+        "dateComplaintFiled": "08/02/2007",
+        "dateOfIncident": "06/21/2007",
+        "fire": false,
+        "manufacturer": "Navistar, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 2,
+        "odiNumber": 10198336,
+        "products": [
+            {
+                "manufacturer": "Navistar, Inc.",
+                "productMake": "INTERNATIONAL",
+                "productModel": "4300",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE WAS PARKED AND THE DRIVER GOT OUT OF THE VEHICLE. THE EMERGENCY BRAKE WAS NOT SET AND THERE IS NO WARNING IN THE VEHICLE FOR THAT. THE VEHICLE ROLLED DOWN A STREET, WENT THROUGH A FENCE AND HIT TWO SMALL CHILDREN PLAYING IN THE YARD. THIS TRUCK HAS NO \"PARK\" GEAR SO IT SHOULD REQUIRE THE EMERGENCY BRAKE TO BE SET BUT IT DOES NOT. THE MANUFACTURER SAYS THERE IS NO BELL OR LIGHT FROM THE FACTORY BUT THEY CAN ENABLE THIS AT THE DEALER FOR AN EXTRA CHARGE. THE VEHICLE IS A 2006 INTERNATIONAL 4300 TRUCK WHICH IS A POPULAR CHASSIS FOR SCHOOL BUSES. THIS IS A BIG OVERSIGHT FROM THE MANUFACTURER AND THEY ARE NOT CORRECTING THE HAZARD. *JB",
+        "vin": "1HTMMAAM06H"
+    }
+]

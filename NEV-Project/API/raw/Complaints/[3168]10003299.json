@@ -1,0 +1,31 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "01/23/2003",
+        "dateOfIncident": "01/01/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003299,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "DAKOTA",
+                "productYear": "1993",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "WAGNER ELEC. BRAKE/CLUTCH",
+                "productMake": "WAGNER",
+                "productModel": "BRAKE/CLUTCH",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "THE VEHICLE RUNS FINE, BUT WHEN YOU STOP AT LIGHT OR SIGN THE VEHCLE WILL STALL. YOU CAN EVEN PUT IN NEUTRAL WHEN YOU STOP AND STILL STALLS. NOW THE TRUCK IS HAVING PROBLEMS STARTING. IT BACK FIRES AND RUNS ROUGH FOR A MIN. TO START YOU HAVE TO HOLD THE THROLLE DOWN FOR A MIN. HAS HAD FULL TUNE UP AND NEW CATALITIC CONVERT.",
+        "vin": "JH2RC44362M"
+    }
+]

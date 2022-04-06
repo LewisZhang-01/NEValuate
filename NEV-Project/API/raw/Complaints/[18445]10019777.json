@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "05/13/2003",
+        "dateOfIncident": "05/13/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019777,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERCURY",
+                "productModel": "SABLE",
+                "productYear": "1991",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE CONSUMER VEHICLE EXPERIENCED SYMPTOMS OF NHTSA RECALL   # 98-V-323-000 WHICH WAS RELATED TO THE REAR LOWER SUBFRAME MOUNT PLATE NUT.  THE CONSUMER VEHICLE WAS NOT INCLUDED IN THE RECALL DUE TO VIN.  *NLM",
+        "vin": "PROVIDE"
+    }
+]

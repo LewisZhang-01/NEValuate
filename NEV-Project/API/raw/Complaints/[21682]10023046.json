@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "06/13/2003",
+        "dateOfIncident": "05/31/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10023046,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "ASTRO",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WINDSHIELD WIPER MOTOR WORKS INTERMITTENTLY.  WIPERS WORK SOMETIMES, SOMETIMES NOT.  HAD TO REPLACE WIPER MOTOR AND PULSE MODULE.  1997 MODEL ASTROS HAVE A RECALL FOR THEM.  IT LOOKS LIKE 1998 ASTROS NEED THE SAME RECALL.   *NLM",
+        "vin": "1GNDM19W0WB"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "04/16/2003",
+        "dateOfIncident": "12/13/2000",
+        "fire": false,
+        "manufacturer": "Kia Motors America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10015950,
+        "products": [
+            {
+                "manufacturer": "Kia Motors America",
+                "productMake": "KIA",
+                "productModel": "SEPHIA",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE WAS IMPACTED IN THE REAR WHILE STOPPED.  AS A RESULT THE VEHICLE WAS PUSHED INTO ONCOMING TRAFFIC.  NONE OF THE AIR BAGS DEPLOYED UPON IMPACT.   *NLM",
+        "vin": "KNAFB1218Y5"
+    }
+]

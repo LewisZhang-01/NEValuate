@@ -1,0 +1,54 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "07/23/2012",
+        "dateOfIncident": "07/23/2012",
+        "fire": false,
+        "manufacturer": "Keystone RV Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10467076,
+        "products": [
+            {
+                "manufacturer": "Keystone RV Company",
+                "productMake": "KEYSTONE",
+                "productModel": "OUTBACK",
+                "productYear": "2010",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2010 KEYSTONE OUTBACK. THE CONTACT STATED THAT WHILE DRIVING 45 MPH, THE BUMPER BECAME PARTIALLY DETACHED FROM THE VEHICLE. UPON FURTHER INSPECTION BY THE CONTACT, HE NOTICED METAL FATIGUE AND POOR WELDING. THE CONTACT HAD MADE ARRANGEMENTS TO HAVE A DEALER EXAMINE THE VEHICLE. THE MANUFACTURER WAS NOTIFIED AND AGREED TO PAY FOR THE REPAIRS DUE TO THE STRUCTURAL DEFECT. THE VEHICLE HAD NOT BEEN REPAIRED. THE FAILURE MILEAGE WAS UNKNOWN.",
+        "vin": "4YDT31227AB"
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "09/24/2009",
+        "dateOfIncident": "09/23/2009",
+        "fire": false,
+        "manufacturer": "Keystone RV Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10285119,
+        "products": [
+            {
+                "manufacturer": "Keystone RV Company",
+                "productMake": "KEYSTONE",
+                "productModel": "OUTBACK",
+                "productYear": "2010",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "MARATHON",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "I WAS TRAVELING FROM FLAGSTAFF HEADING TO SUN LAKES AZ WHEN MY TRAILER HAD A TIRE BLOW OUT.  I HAVE A 2010 KEYSTONE MONTANA 5TH WHEEL PURCHASED MAY 2009. I CHECKED THE AIR PRESSURE IN ALL 4 OF THE TRAILER TIRES THE DAY BEFORE. THEY WERE ALL ABOVE 75 PSI AND LESS THAN 80 PSI (CHECKED THEM COLD). THE FAILURE OCCURRED APPROX 1000FT FROM EXIT 293 CORNVILLE RD. I WAS TRAVELING AT 55 MPH OR LESS DUE TO \"ROAD WORK AHEAD\" SIGNS.  THERE WAS NO DEBRIS ON THE ROAD. *TR",
+        "vin": "4YDF34025A4"
+    }
+]

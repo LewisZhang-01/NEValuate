@@ -1,0 +1,32 @@
+[
+    {
+        "components": "STEERING,ENGINE AND ENGINE COOLING,VISIBILITY,STRUCTURE,TIRES",
+        "crash": false,
+        "dateComplaintFiled": "04/18/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015670,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "WINDSTAR",
+                "productYear": "9999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "GENERAL TIRE & RUBBER CO.",
+                "productMake": "GENERAL",
+                "productModel": "GENERAL",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE CONSUMER EXPERIENCED THE FOLLOWING:  REPLACED TWO QUICK CHANGE VALVES, WHICH APPEARED TO BE LEAKING, THE TIRES DRY ROTTED, AND NEEDED A NEW RADIATOR.  AFTER THE VEHICLE WAS PICKED UP FROM REPAIR(S), IT STARTED TO MAKE A NOISE, WHICH WAS COMING FROM THE POWER STEERING, WHEN TURNING LEFT OR RIGHT.  THE POWER STEERING PUMP ND RACK NEEDED TO BE REPLACED.  THE VEHICLE STALLED IN A PARKING LOT.  THE DEALER STATED THAT THE IAC MOTOR NEEDED TO BE REPLACED.  THE VEHICLE STALLED AGAIN, AND THE DEALER STATED THAT THE RCM MODULE NEEDED TO BE REPLACED.  THE EXTERIOR TEMPERATURE GAUGE WAS INOPERATIVE, AND THERE WAS A HOLE IN THE LEFT REAR WINDOW WHERE THE LATCH HAD FALLEN OUT.  THE CONSUMER HAS REQUESTED A REFUND FOR THE MONEY SPENT ON REPAIRS.  SCC",
+        "vin": "9999"
+    }
+]

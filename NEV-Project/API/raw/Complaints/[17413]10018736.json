@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "05/15/2003",
+        "dateOfIncident": "05/09/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018736,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GEO",
+                "productModel": "STORM",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "93 GEO STORM RANDOMLY STALLS AND WILL NOT RESTART FOR SEVERAL MINUTES TO SEVERAL HOURS.  HAVE REPLACED CAP, WIRES, ROTOR, PLUGS, PICK-UP AND IGNITION MODULE AND CANNOT FIND PROBLEM.  I HAVE FOUND MANY REPORTS OF THE INSULATION ON THE ECU GOING BAD AND CAUSING PROBLEMS. *JB",
+        "vin": ""
+    }
+]

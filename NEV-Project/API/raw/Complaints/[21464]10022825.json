@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "06/11/2003",
+        "dateOfIncident": "06/05/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022825,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "CAMRY SOLARA",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE SENSOR CIRCUIT MALFUNCTIONED.   VEHICLE WAS TAKEN TO THE DEALER FOR REPAIRS ON 6/5/2003.  THE DIRECT CLUTCH SPEED SENSOR HAS TO BE REPLACED. *AK",
+        "vin": "2T1CF28P9XC"
+    }
+]

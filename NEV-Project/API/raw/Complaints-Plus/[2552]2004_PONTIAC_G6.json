@@ -1,0 +1,46 @@
+[
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "08/11/2014",
+        "dateOfIncident": "08/08/2014",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10621448,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "G6",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2004 PONTIAC G6. WHILE DRIVING 65 MPH, THE VEHICLE FAILED TO COME TO A COMPLETE STOP WHEN THE BRAKE PEDAL WAS DEPRESSED. THE FAILURE OCCURRED TWICE. THE VEHICLE WAS NOT DIAGNOSED OR REPAIRED. THE MANUFACTURER WAS NOTIFIED. THE APPROXIMATE FAILURE MILEAGE WAS 100,272.",
+        "vin": "1G2ZH158764"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM,EXTERIOR LIGHTING",
+        "crash": false,
+        "dateComplaintFiled": "03/12/2013",
+        "dateOfIncident": "03/12/2013",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10502480,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "G6",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WE HAVE A PONTIAC G6 WHERE THE TRUNK BRAKE LIGHT REMAINS ON AND WILL NOT SHUT OFF.  I HAVE PULLED THE WIRE CONNECTOR APART TO SHUT OFF LIGHT. IT APPEARS THIS IS COMMON ON ALL PONTIAC G6.  *TR  CARS. *TR",
+        "vin": ""
+    }
+]

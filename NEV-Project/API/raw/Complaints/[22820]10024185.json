@@ -1,0 +1,31 @@
+[
+    {
+        "components": "CHILD SEAT",
+        "crash": false,
+        "dateComplaintFiled": "06/16/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10024185,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "MALIBU",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Britax Child Safety, Inc.",
+                "productMake": "BRITAX",
+                "productModel": "161 (ROUNDABOUT)",
+                "productYear": "9999",
+                "type": "Child Seat"
+            }
+        ],
+        "summary": "CONSUMER APPRECIATED SERVICE TO SHOW WHETHER OR NOT CAR SEAT WAS INSTALLED CORRECTLY.  *MR   PH",
+        "vin": ""
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,SERVICE BRAKES, HYDRAULIC",
+        "crash": true,
+        "dateComplaintFiled": "05/28/2003",
+        "dateOfIncident": "05/28/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021765,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "STEERING FROZE WHILE MAKING A LEFT TURN.   COULD NOT STRAIGHTEN  STEERING WHEEL.   THIS CAUSED CONSUMER TO HIT ANOTHER AUTO'S DOOR HEAD ON.  ALSO THE BRAKES DID NOT WORK, LOST COMPLETE BRAKING POWER.     *TT",
+        "vin": "1FDSF35S6XE"
+    }
+]

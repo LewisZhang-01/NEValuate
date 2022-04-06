@@ -1,0 +1,24 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": true,
+        "dateComplaintFiled": "04/22/2018",
+        "dateOfIncident": "04/14/2018",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11089314,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "CAMRY",
+                "productYear": "2012",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "UNINTENDED ACCELERATION IN REVERSE WHILE BACKING OUT OF PARKING SPACE IN A PARKING LOT. THE VEHICLE ACCELERATED VERY FAST, RESULTING IN EXTENSIVE DAMAGE TO VEHICLE AND TWO OTHER PARKED VEHICLES.",
+        "vin": "4T1BF1FK5CU"
+    }
+]

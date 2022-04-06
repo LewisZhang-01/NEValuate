@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "07/13/2019",
+        "dateOfIncident": "07/01/2019",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11231564,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "CHEROKEE",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENGINE STALLS INTERMITTENTLY WHILE IN MOTION TURNING LEFT AND  INTERMITTENT DELAY BETWEEN PUSHING THE GAS PEDAL AND HAVING ACCELERATION START WHEN TRAVELING AT MODERATE SPEED.  ENGINE ALREADY REPLACED UNDER WARRANTY WITH THE SAME SYMPTOMS OCCURRING. ENGINE REPLACED AT 5K MILES, SYMPTOMS REPEATING AT 8K MILES. *DT*JB",
+        "vin": "1C4PJMLB6KD"
+    }
+]

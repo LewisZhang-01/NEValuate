@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "09/24/2005",
+        "dateOfIncident": "09/20/2005",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10137514,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "ACCORD",
+                "productYear": "2003",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "MICHELIN TIRE CORP.",
+                "productMake": "MICHELIN",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "DURING VISIT FOR ROTATION AND REBALANCE (AT 11,500 MILES ON TIRES, 3 YEARS OLD), TIRES SHOWED CHUCKS OF RUBBER MISSING AND NUMEROUS SMALL SEPARATIONS IN TREAD. I CALLED THE MANUFACTURER (MICHELIN), BUT THEY REFUSED TO REPLACE THE TIRES, SO I REPLACED THE TIRES WITH ANOTHER BRAND.  *NM",
+        "vin": "JHMCM56493C"
+    }
+]

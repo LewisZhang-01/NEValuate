@@ -1,0 +1,46 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "11/05/2019",
+        "dateOfIncident": "08/05/2019",
+        "fire": false,
+        "manufacturer": "Subaru of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 2,
+        "odiNumber": 11278304,
+        "products": [
+            {
+                "manufacturer": "Subaru of America, Inc.",
+                "productMake": "SUBARU",
+                "productModel": "WRX STI",
+                "productYear": "2018",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNED A 2018 SUBARU WRX STI. WHILE THE CONTACT'S SON WAS DRIVING 5-10 MPH, A 2009 CHEVROLET HHR T-BONED HIS VEHICLE AND PUSHED IT 60 FEET. THERE WERE NO WARNING INDICATORS ILLUMINATED. THE DRIVER SUSTAINED HEAD INJURIES AND THE PASSENGER SUSTAINED NECK INJURIES. MEDICAL ATTENTION WAS RECEIVED. A POLICE REPORT WAS FILED. THE AIR BAGS DID NOT DEPLOY. THE VEHICLE WAS TOWED TO AN INDEPENDENT MECHANIC. THE CONTACT CALLED YOUNG SUBARU (3920 RIVERDALE RD, OGDEN, UT 84405, (801) 528-9342) AND INFORMED THEM OF THE FAILURE. THE VEHICLE WAS NOT DIAGNOSED OR REPAIRED. THE MANUFACTURER WAS CONTACTED AND PROVIDED CASE NUMBER: 1-46604412545. THE INSURANCE COMPANY DEEMED THE VEHICLE A TOTAL LOSS. THE FAILURE MILEAGE WAS 28,028.  THE VIN WAS NOT AVAILABLE.",
+        "vin": "JF1VA2W63J9"
+    },
+    {
+        "components": "EXTERIOR LIGHTING",
+        "crash": false,
+        "dateComplaintFiled": "06/13/2018",
+        "dateOfIncident": "06/13/2018",
+        "fire": false,
+        "manufacturer": "Subaru of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11101674,
+        "products": [
+            {
+                "manufacturer": "Subaru of America, Inc.",
+                "productMake": "SUBARU",
+                "productModel": "WRX STI",
+                "productYear": "2018",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THIS IS AN ISSUE REGARDING THE HEADLIGHT HOUSING. FOR UNKNOWN REASONS PART OF IT SEEMS TO BE MELTING FROM THE INSIDE. THIS TO ME CAN BE A SAFETY OR EVEN FIRE HAZARD.",
+        "vin": "JF1VA2M63J9"
+    }
+]

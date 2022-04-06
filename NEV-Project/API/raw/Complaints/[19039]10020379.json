@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,SUSPENSION,SERVICE BRAKES, HYDRAULIC,POWER TRAIN,VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "05/21/2003",
+        "dateOfIncident": "06/05/2001",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020379,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "SEBRING",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NARY 05/21/2003   *MR  THE CONSUMER EXPERIENCED REAR BRAKE SUSPENSION, TRANSMISSION SLIPPAGE, REAR WINDOW SEALANT LOOSE,  AND STEERING PROBLEMS.   *CB",
+        "vin": "1C3AL56U41N"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "EQUIPMENT",
+        "crash": true,
+        "dateComplaintFiled": "02/07/2003",
+        "dateOfIncident": "02/02/2003",
+        "fire": false,
+        "manufacturer": "AUTOMOTIVE CLIMATE CTRL.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10005443,
+        "products": [
+            {
+                "manufacturer": "AUTOMOTIVE CLIMATE CTRL.",
+                "productMake": "ACC",
+                "productModel": "8909",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "DEFECTIVE WHEELS.     PH",
+        "vin": null
+    }
+]

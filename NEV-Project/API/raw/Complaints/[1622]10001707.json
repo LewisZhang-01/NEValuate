@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "12/31/2002",
+        "dateOfIncident": "12/19/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001707,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "OLDSMOBILE",
+                "productModel": "SILHOUETTE",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATES STILL HAVING THE SAME PROBLEMS AFTER RECALL HAS BEEN PERFORMED ON VEHICLE RECALL #01V264000 SLIDING DOOR. PLEASE PROVIDE THE DEALER NAME, ADDRESS AND NUMBER. TS",
+        "vin": "1GHDX06E1VD"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "03/17/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009729,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "LUMINA",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "PROBLEMS WITH SPARE TIRE.  *MR   WHILE DRIVING THE SPARE TIRE FELL OUT IT'S COMPLETELY RUSTED FASTENERS.   *TT   *NLM",
+        "vin": "1GNDU06D3RT"
+    }
+]

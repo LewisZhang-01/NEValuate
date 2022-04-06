@@ -1,0 +1,24 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "03/11/2019",
+        "dateOfIncident": "07/18/2018",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11185914,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "ESCAPE",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE HAS REPEATEDLY LOST POWER WHILE DRIVING, ON MORE THEN ONE OCCASION WHILE PULLING INTO TRAFFIC IN TOWN",
+        "vin": "1FMCU0HX2DU"
+    }
+]

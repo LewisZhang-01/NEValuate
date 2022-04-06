@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "12/26/2002",
+        "dateOfIncident": "12/23/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000594,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-250 SD",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE WILL SHUT DOWN AND RESTART ITSELF WHILE DRIVING.  THE GAS MILEAGE HAS GONE DOWN QUICKLY.  VEHICLE WILL STALL AND NOT START AT ALL.  PRIOR SENSOR PROBLEMS WITH SIMILAR SYMPTOMS.",
+        "vin": "1FTHX26F0VE"
+    }
+]

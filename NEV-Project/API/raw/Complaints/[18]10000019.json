@@ -1,0 +1,24 @@
+[
+    {
+        "components": "EQUIPMENT,UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "12/11/2002",
+        "dateOfIncident": "12/11/2002",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000019,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "M ROADSTER",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SPEEDOMETER ON NEW VEHICLE READS EXCESSIVLY HIGH (7 MPH AT 65 MPH).  THERE WAS NOSPECIFIC INCIDENT.  I WOULD LIKE TO KNOW IF THERE ARE ANY STANDARDS REGARDING THIS, AS MANUFACTURER SAYS THIS IS AN ACCEPTABLE ERROR.  DATE BELOW IS ENTERED FOR REFERENCE ONLY.",
+        "vin": "5UMCL93462L"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "06/03/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022153,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERCURY",
+                "productModel": "MYSTIQUE",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE DASHBOARD CURLS UP INTO THE WINDSHIELD WHICH CAUSES POOR VISIBILITY.  THE DRIVER CANNOT SEE OVER THE DASHBOARD.  THE PROBLEM WAS FIXED BEFORE UNDER WARRANTY. *AK",
+        "vin": ""
+    }
+]

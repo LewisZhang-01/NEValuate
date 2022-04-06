@@ -1,0 +1,31 @@
+[
+    {
+        "components": "CHILD SEAT",
+        "crash": false,
+        "dateComplaintFiled": "03/17/2003",
+        "dateOfIncident": "03/15/2003",
+        "fire": false,
+        "manufacturer": "UNKNOWN MANUFACTURER",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10011907,
+        "products": [
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN1",
+                "productYear": "9999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Evenflo Company, Inc.",
+                "productMake": "EVENFLO",
+                "productModel": "CHILD SAFETY SEAT",
+                "productYear": "9999",
+                "type": "Child Seat"
+            }
+        ],
+        "summary": "CONSUMER INDICATED THE CHILD SAFETY SEAT HARNESS STRAP TIGHTENED WHILE OCCUPIED. CONSUMER HAD TO USE EXCESSIVE FORCE TO REMOVE INFANT.  MODEL # 366131  *JB  THE ADJUSTMENT STRAPS CONTROL A DOOR TO TIGHTEN OR LOOSEN STRAPS.  SCC",
+        "vin": "9999"
+    }
+]

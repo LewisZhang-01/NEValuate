@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/18/2003",
+        "dateOfIncident": "04/28/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10024638,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE STEEL PROD. CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "FIRESTONE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "FR 680 02 FIRESTONE TIRE FAILURE ON 2000 TOYOTA SIENNA.  *MR  LOW TIRE PRESSURE INDICATOR LIGHT CAME ON.  DRIVER SIDE REAR TIRE LOST PRESSURE REPEATEDLY.  DEALER CLAIMED THERE WAS A NAIL IN THE TIRE.  HOWEVER, AT A LATER DATE THE CONSUMER FOUND A BULGE IN THE REPAIRED TIRE.  FURTHER INSPECTION REVEALED TIRE HAD SPLIT FROM THE INSIDE.  THE TIRE WAS REPLACED WITH A SPARE TIRE.  CONSUMER WAS AWARE OF FIRESTONE RECALL AND REQUESTED THAT ALL TIRES BE REPLACED AS WELL AS THE SPARE TIRE.    HOWEVER DEALER WAS NOT WILLING TO REPLACE TIRES INCLUDING THE SPARE UNDER WARRANTY.     DOT # UNKNOWN.   *TT   *JB",
+        "vin": ""
+    }
+]

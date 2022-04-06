@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "05/23/2003",
+        "dateOfIncident": "05/22/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019165,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "OLDSMOBILE",
+                "productModel": "AURORA",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN THE BRAKE PEDAL IS RELEASED, THE TURN SIGNAL RELAY (OR AT LEAST SOMETHING THAT SOUNDS EXACTLY LIKE IT) ENERGIZES AND DE-ENERGIZES (MAKING A 'BLINKER' SOUND) AT A RATE 2X OR 3X THE NORMAL TURN SIGNAL RATE.  THE TURN SIGNAL INDICATORS (GREEN ARROWS ON THE DASH) DO NOT ILLUMINATE.  ABOUT 90% OF THE TIME IT ONLY HAPPENS ONCE PER TIME THE BRAKE PEDAL IS RELEASED.  ABOUT 7% OF THE TIME IT CONTINUES FOR 2 TO 5 SECONDS, AND THEN STOPS BY ITSELF.  ABOUT 3% OF THE TIME IT CONTINUES UNTIL THE BRAKE IS PRESSED AGAIN, OR THE TURN SIGNAL SWITCH IS ACTIVATED.    THIS DOES NOT HAPPEN EVERY TIME THE BRAKE PEDAL IS PUSHED.  IT HAPPENS ABOUT 50% OF THE TIME WHEN THE CAR IS FIRST STARTED IN THE MORNING (I HOLD THE BRAKE PEDAL DOWN WHEN STARTING THE CAR).  ONCE DRIVING, THE FREQUENCY OF OCCURENCES DECREASES AS THE CAR \"WARMS UP\".",
+        "vin": ""
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "01/22/2003",
+        "dateOfIncident": "11/04/2002",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10003194,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "INTREPID",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE WAS IN A MINOR COLLISION.  HIT ANOTHER CAR IN REAR AT LESS THAN 15MPH.  AIR BAGS DEPLOYED HITTING DRIVER.  VERY LITTLE FRONT END DAMAGE.  I DO NOT BELIEVE THAT THE AIR BAGS SHOULD HAVE DEPLOYED, AND I AM CONCERNED FOR OUR EMPLOYEES SAFETY.  THIS IS THE SECOND TIME WE HAVE HAD AN INTREPID DEPLOY AIR BAGS AT UNDER 15MPH.",
+        "vin": "2B3HD46R1WH"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "06/11/2004",
+        "dateOfIncident": "05/15/2004",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10075214,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "VTX1300",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "HANDLE BAR WOBBLED AT 40-45 MPH.  *AK",
+        "vin": "1HFSC52044A"
+    }
+]

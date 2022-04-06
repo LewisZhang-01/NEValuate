@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/26/2003",
+        "dateOfIncident": "05/07/2003",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019750,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "MINI",
+                "productModel": "COOPER S",
+                "productYear": "2003",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "GANS",
+                "productMake": "PIRELLI",
+                "productModel": "PIRELLI",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE RIGHT FRONT TIRE WAS BALD.  THE CONSUMER STATED IT WAS NOT FROM ROUGH DRIVING.  *NLM    PH  *JB",
+        "vin": "WMWRE33473T"
+    }
+]

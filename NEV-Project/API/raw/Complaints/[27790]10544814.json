@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "09/22/2013",
+        "dateOfIncident": "09/21/2013",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10544814,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "TAHOE",
+                "productYear": "2009",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DOOR LOCK ACTUATOR FAILURE.  REAR DOORS CAN NOT BE UNLOCKED OR LOCKED WITH THE KEY FOB OR THE MANUAL UNLOCK BUTTON ON THE DRIVER CONTROL PANEL.",
+        "vin": "1GNFC33J29R"
+    }
+]

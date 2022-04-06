@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "11/02/2017",
+        "dateOfIncident": "11/02/2017",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11042614,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "PACIFICA",
+                "productYear": "2008",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ABS WARNING LIGHT COMES ON AND THEN VEHICLE SHUTS-DOWN WHILE DRIVING CAUSING STEERING TO BE LOST ETC. OWNERS MANUAL MENTIONS THIS AS NORMAL HABIT AND YOU MUST PUT VEHICLE IN PARK AND WAIT A FEW MINUTES TO RESTART. THIS IS DANGEROUS WHILE DRIVING TO HAVE VEHICLE JUST STOP OPERATIONS.",
+        "vin": "2A8GM68X58R"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "01/17/2003",
+        "dateOfIncident": "01/16/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004123,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "GRAND CARAVAN",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER SMELLED FUEL WHILE DRIVING,  VEHICLE WAS TOWED TO REPAIR SHOP. MECHANIC DETERMINED A FLEXIBLE FUEL LINE IS POROUS FROM FRAME TO FUEL RAIL, SPRAYING FUEL OVER ENGINE. TS",
+        "vin": "1B4GP44R8TB"
+    }
+]

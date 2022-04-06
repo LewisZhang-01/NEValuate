@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE,VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "05/10/2003",
+        "dateOfIncident": "05/10/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018502,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "WINDSTAR",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FOR SOME REASON, THE FIRST TIME, ON 10 MAY 2003, THE ENGINE RACES AT ABOUT 3500 - 4000 RPM, AT A STOP SIGN AND STILL MAINTAINING. WHEN BRAKE PEDAL IS RELEASED VAN SPEEDS VERY, VERY QUICKLY, WHICH COULD CAUSE AN ACCIDENT IN THE REAR END OF A VEHICLE IN FRONT. ALSO, IN IDLE, THE ENGINE RMPS ARE BETWEEN 3500 - 4000 RPM.   *NLM",
+        "vin": "2FMZA5249YB"
+    }
+]

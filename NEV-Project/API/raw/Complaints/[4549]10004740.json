@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "01/27/2003",
+        "dateOfIncident": "01/27/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004740,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER SPORT TRAC",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THERE IS A HOLE IN FRONT BUMPER WITHOUT A FRILL OR GUARD WHICH ALLOWS DEBRIS TO ENTER DIRECTLY INTO VEHICLE'S RADIATOR.*AK",
+        "vin": "1FMZU77E72U"
+    }
+]

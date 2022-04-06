@@ -1,0 +1,32 @@
+[
+    {
+        "components": "SEAT BELTS,TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/31/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003924,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPEDITION",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Continental Tire the Americas, LLC",
+                "productMake": "GRABBER AW",
+                "productModel": "P27560R17",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "CONTINENTAL TIRES SENT THE CONSUMER A RECALL/REIBURSEMENT FORM IN REFERENCE TO GRABBER TIRE(S), WHICH WERE BOUGHT BETWEEN AUG 19, 2001-OCT 10,2002/ AW P275/80R17/P275/60R17.  THE FRONT SEAT BELT ASSEMBLY WAS BROKEN.  SCC",
+        "vin": "1FMRU15W221"
+    }
+]

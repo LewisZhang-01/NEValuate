@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "03/19/2003",
+        "dateOfIncident": "11/10/2000",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010760,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO 2500",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WINDSHIELD WIPER MOTOR FAILED AT NIGHT, IN HEAVY RAIN CAUSING LOSS OF VISIBILITY.  I PULLED OVER AND MANUALLY MOVED WIPER BLADE TO RESTART WIPERS. MOTOR CONTINUED TO FAIL INTERMITTENTLY UNTIL IT WAS REPLACED    *NLM.",
+        "vin": "1GBGC24R8VE"
+    }
+]

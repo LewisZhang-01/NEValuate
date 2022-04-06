@@ -1,0 +1,24 @@
+[
+    {
+        "components": "WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "02/20/2003",
+        "dateOfIncident": "02/18/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10008857,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THERE WAS A RECALL REGARDING PREMATURE FAILURE OF THE WHEEL BEARINGS, HOWEVER THE DEALER STATED THEY DID NOT HAVE THE PROPER TOOLS TO CORRECT THE PROBLEM.*JB",
+        "vin": "3FAFP31311R"
+    }
+]

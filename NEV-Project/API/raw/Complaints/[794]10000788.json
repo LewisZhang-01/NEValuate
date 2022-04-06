@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "01/08/2003",
+        "dateOfIncident": "07/31/2002",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000788,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "VOLKSWAGEN",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "IGNITION SWITCH CONTINUES TO SEND START SIGNALS TO THE STARTER AFTER THE CAR HAS ALREADY STARTED. THE CAR IS A 97 VW PASSAT VR6. THIS CHOICE IS NOT AVAILABLE ON THE MODEL TYPE LISTING.",
+        "vin": ""
+    }
+]

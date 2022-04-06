@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "01/20/2003",
+        "dateOfIncident": "01/15/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002987,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TAURUS",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVERS SIDE FRONT COIL SPRING BREAKAGE.  COILS SPRING BROKE IN HALF NEAR BOTTOM OF SPRING. 1999 TAURUS HAS 75,000 MILES ON.  80% HIGHWAY MILES.",
+        "vin": "1FAFP53U8XA"
+    }
+]

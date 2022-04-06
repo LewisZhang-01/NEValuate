@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "01/27/2018",
+        "dateOfIncident": "01/20/2018",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11065414,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "PASSAT",
+                "productYear": "2012",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVER SIDE DOOR WOULD NOT CLOSE. DOOR LOCK LATCH MECHANISM FAILED. CANNOT DRIVE CAR IF DOOR WON'T STAY LATCHED. INDEPENDENT SHOP REPLACED MECHANISM. BASED UPON INTERNET SEARCH, IT APPEARS THAT DOOR LATCH FAILED SEEMS COMMON WHICH WAS A SURPRISE.",
+        "vin": "1VWCM7A34CC"
+    }
+]

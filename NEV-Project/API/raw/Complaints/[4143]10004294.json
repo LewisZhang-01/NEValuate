@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "01/21/2003",
+        "dateOfIncident": "01/21/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004294,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "TAHOE",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NHTSA#01-V-159-000: RETRACTORS FOR THE 2ND AND 3RD ROW OF SEATS THAT COULD BE CRACKED.   CONSUMER  HAS THE SAME PROBLEM. THIS VEHICLE WAS NOT INCLUDE IN THE RECALL DUE TO THE VIN#. DEALER NOTIFIED.    PH",
+        "vin": "1GNEC13T01J"
+    }
+]

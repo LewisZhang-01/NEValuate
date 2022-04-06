@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, AIR,ELECTRONIC STABILITY CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "11/23/2021",
+        "dateOfIncident": "11/23/2021",
+        "fire": false,
+        "manufacturer": "PACCAR Incorporated",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11441510,
+        "products": [
+            {
+                "manufacturer": "PACCAR Incorporated",
+                "productMake": "KENWORTH",
+                "productModel": "T660",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact owns a 2014 Kenworth T660. The contact received a recall notification for NHTSA Campaign Number: 20V199000 (Electronic Stability Control, Service Brakes, Air). The contact stated that the manufacturer had exceeded a reasonable amount of time for the recall repair. The manufacturer was notified of the issue. The part was not available for repair. The contact had not experienced a failure. Parts distribution disconnect.",
+        "vin": "1xkad49x1ej"
+    }
+]

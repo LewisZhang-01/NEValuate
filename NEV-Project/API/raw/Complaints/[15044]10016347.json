@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "04/22/2003",
+        "dateOfIncident": "02/20/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10016347,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "GRAND CARAVAN",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "MICHELIN TIRE CORP.",
+                "productMake": "MICHELIN",
+                "productModel": "MX4",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THREE TIRE FAILURES WITHIN 12 MONTHS DUE TO \"ROAD HAZARDS\".  THE TIRES ARE MICHELIN 215/60R17.  ONE WAS A SLOW LEAK THE DISCOUNT TIRE REP SAID WAS DUE TO ROAD DAMAGE, THE SECOND WAS A HOLE IN THE SIDE WALL AFTER HITTING A CURB WHILE PARKING, AND THE THIRD WAS A SIDEWALL BUBBLE DISCOVERED WHEN THE SECOND TIRE WAS REPLACED DURING A COURTESY TIRE ROTATION.    *NLM",
+        "vin": "2B4GP54L72R"
+    }
+]

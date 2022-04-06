@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "03/25/2003",
+        "dateOfIncident": "03/24/2003",
+        "fire": false,
+        "manufacturer": "Mazda Motor Corp.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10011005,
+        "products": [
+            {
+                "manufacturer": "Mazda Motor Corp.",
+                "productMake": "MAZDA",
+                "productModel": "PROTEGE",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "GAS STREAMING FROM LEAKING GAS TANK FROM 2002 MAZDA PROTEGE5. SECOND INCIDENT, FIRST OCCURRED ONE DAY AFTER INITIAL DELIVERY ON NOV 2, 2001.",
+        "vin": "JM1BJ246221"
+    }
+]

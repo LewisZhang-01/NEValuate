@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "04/24/2014",
+        "dateOfIncident": "02/01/2013",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10584614,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "productYear": "2008",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AIRBAG ALARM KEEP GETTING TRIGGERED.  *TR",
+        "vin": "1J8GA59158L"
+    }
+]

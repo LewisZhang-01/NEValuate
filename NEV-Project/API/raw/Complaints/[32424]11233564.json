@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "07/20/2019",
+        "dateOfIncident": "07/01/2019",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11233564,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "CHALLENGER",
+                "productYear": "2018",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THIS CONDITION MATCHES NHTSA 19V-203 WHICH IS FOR 2019 DODGE CHALLENGERS. HOWEVER I HAVE A 2018 DODGE CHALLENGER EXHIBITING THE SAME SYMPTOM. WHILE THE CAR IS IN MOTION, AND AT RANDOM TIMES EVERY DAY, THE ENTIRE INSTRUMENT PANEL CLUSTER WILL GO DARK. BY DARK I MEAN ALL ILLUMINATED FEATURE ON THE INSTRUMENT PANEL ARE INVISIBLE. THE CAR DOES NOT STALL, AND IT CAN STILL BE OPERATED, BUT I CAN NOT SEE MY SPEED, RPMS, OR ANY OPERATIONAL DATA, THEREBY CREATING A SAFETY HAZARD, ESPECIALLY AT NIGHT. THIS HAS HAPPENED INTERMITTENTLY SINCE I PURCHASED THE CAR.",
+        "vin": "2C3CDZBT8JH"
+    }
+]

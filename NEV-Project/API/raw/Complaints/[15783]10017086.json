@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "05/06/2003",
+        "dateOfIncident": "04/20/2003",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017086,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "FRONTIER",
+                "productYear": "1999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Bridgestone Americas Tire Operations",
+                "productMake": "FIRESTONE",
+                "productModel": "WILDERNESS HT",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "ON 04/20/03 I EXPERIENCED A SEVERE VIBRATION WHILE DRIVING MY '99 NISSAN FRONTIER AT 65 MPH.  AS I PULLED OVER, THE RIGHT REAR TIRE (OEM FIRESTONE WILDERNESS HT P215/65R-15) SHED MOST OF ITS TREAD.  TIRE WAS REPLACED AND REMAINING TIRES WERE CHECKED AND FOUND TO BE IN GOOD CONDITION. ONE WEEK LATER, THE LEFT REAR TIRE BEGAN A SIMILAR VIBRATION FOR A FEW SECONDS, THEN EXPLODED AT 65 MPH, DESTROYING MOST OF THE SHEET METAL AND BODY SUPPORTS BEHIND THE WHEEL WELL.  TIRES HAD 48K MILES, GOOD TREAD, AND WERE PROPERLY INFLATED TO MFRS. SPECS.   *NLM",
+        "vin": "11111111111"
+    }
+]

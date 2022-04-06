@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "12/20/2002",
+        "dateOfIncident": "10/01/2002",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001300,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "CARAVAN",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE DRIVER'S SIDE SLIDING DOOR WILL NOT OPEN.  THIS POSES A SAFETY HAZARD IF CONSUMER NEEDED TO REMOVE CHILDREN FROM VEHICLE IN AN EMERGENCY. TS",
+        "vin": "2B4GP45R6VR"
+    }
+]

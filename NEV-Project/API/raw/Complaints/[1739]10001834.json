@@ -1,0 +1,24 @@
+[
+    {
+        "components": "PARKING BRAKE",
+        "crash": false,
+        "dateComplaintFiled": "01/02/2003",
+        "dateOfIncident": "01/01/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001834,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "PICKUP",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE PARKING BRAKE IS NOT OPERATING EFFECTIVELY.  IF PARKED ON AN INCLINE AND WHEN THE PARKING BRAKE IS ENGAGED, THE VEHICLE WOULD ROLL ONCE THE GEAR IS SHIFTED TO THE NEUTRAL POSITION.  TS  SCC",
+        "vin": "1FTHX26M4PK"
+    }
+]

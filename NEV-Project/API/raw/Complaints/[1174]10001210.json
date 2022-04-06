@@ -1,0 +1,32 @@
+[
+    {
+        "components": "WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "12/19/2002",
+        "dateOfIncident": "12/16/2002",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001210,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "DAKOTA",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "EAGLE LS",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "CONSUMER CALLED COMPLAINING ABOUT HAVING A DEFECTIVE RIM ON THE VEHICLE. ALSO STATED THAT THERE  IS A CRACK OF ABOUT TWO INCHES  TRUE THE WHOLE RIM AND IS NEVER BEEN USED ALSO SAID THAT THIS IS A SPARE TIRE. MANUFACTURE WAS NOT CONTACTED AT THE TIME OF THIS CALL. TS",
+        "vin": "1B7GL22X9YS"
+    }
+]

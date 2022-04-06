@@ -1,0 +1,32 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC,TIRES",
+        "crash": true,
+        "dateComplaintFiled": "06/18/2003",
+        "dateOfIncident": "05/27/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10023309,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPEDITION",
+                "productYear": "2003",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Continental Tire the Americas, LLC",
+                "productMake": "CONTINENTAL",
+                "productModel": "STEEL BELT RADIAL",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "ON A NUMBER OF OCCASIONS THE ABS SYSTEM HAS FAILED TO PERFORM AS DESCRIBED BY THE MANUFACTURER. UPON STOPPING WHEN THE ABS TAKES OVER MY VEHICLE BUCKS AND SENDS ME BUCKING THROUGH INTERSECTIONS. ACCORDING TO THE DEALERSHIP WHERE I PURCHASED THIS IS THE WAY THE ABS WORKS. THIS VEHICLE ALSO HAS VERY POOR VISIBILITY, THERE ARE MANY LARGE BLIND SPOTS.  *NLM",
+        "vin": "1FMFU16L93L"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "12/06/1999",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "GEORGIE BOY MFG., LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 549841,
+        "products": [
+            {
+                "manufacturer": "GEORGIE BOY MFG., LLC",
+                "productMake": "GEORGIE BOY",
+                "productModel": "CRUISE MASTER",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ABS WARNING LIGHT/BUZZER CONTINUALLY CAME ON, THREE REPAIR ATTEMPTS, HOWEVER DEALERSHIP WAS NOT ABLE TO FIX AND RESULTED IN DISCONNECTING WARNING SYSTEM. MJS",
+        "vin": "4UZ6XFBC0XC"
+    },
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "11/09/1999",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "GEORGIE BOY MFG., LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 848647,
+        "products": [
+            {
+                "manufacturer": "GEORGIE BOY MFG., LLC",
+                "productMake": "GEORGIE BOY",
+                "productModel": "CRUISE MASTER",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN DRIVING THE VEHICLE AT ANY SPEED THE VEHICLES FRONT END VIBRATES OUT OF CONTROL. DEALER  HAS VEHICLE NOW.*AK",
+        "vin": ""
+    },
+    {
+        "components": "SUSPENSION,WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "09/15/1999",
+        "dateOfIncident": "03/30/1999",
+        "fire": false,
+        "manufacturer": "GEORGIE BOY MFG., LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 844219,
+        "products": [
+            {
+                "manufacturer": "GEORGIE BOY MFG., LLC",
+                "productMake": "GEORGIE BOY",
+                "productModel": "CRUISE MASTER",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVER'S SIDE MIRROR CAUSES POOR VISIBILITY THROUGH THE WINDSHIELD AFTER WIPERS HAVE BEEN TURNED OFF.TIRE'S FAILED DUE TO BAD RIMS (GOODYEAR 24570R-19.5) (ACCURISDE FORD STAMPED 6.75 X 19.5). AK",
+        "vin": "3FCMF53S4XJ"
+    }
+]

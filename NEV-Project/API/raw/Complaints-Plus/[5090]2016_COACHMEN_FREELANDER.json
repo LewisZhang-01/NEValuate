@@ -1,0 +1,54 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "12/15/2020",
+        "dateOfIncident": "11/11/2020",
+        "fire": false,
+        "manufacturer": "Forest River, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11383735,
+        "products": [
+            {
+                "manufacturer": "Forest River, Inc.",
+                "productMake": "COACHMEN",
+                "productModel": "FREELANDER",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2016 COACHMEN FREELANDER. CONSUMER WRITES IN REGARDS TO NHTSA SAFETY RECALL 16V-552. *LD    THE CONSUMER STATED THE MANUFACTURER AND DEALER EXCEEDED A REASONABLE AMOUNT OF COMPLETING THE RECALL REPAIR. *JS",
+        "vin": "1FBW58PM3GK"
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "08/31/2015",
+        "dateOfIncident": "08/03/2015",
+        "fire": false,
+        "manufacturer": "Forest River, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10760489,
+        "products": [
+            {
+                "manufacturer": "Forest River, Inc.",
+                "productMake": "COACHMEN",
+                "productModel": "FREELANDER",
+                "productYear": "2016",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Continental Tire the Americas, LLC",
+                "productMake": "GENERAL TIRE",
+                "productModel": "GENERAL GRABBER HTS",
+                "productYear": "9999",
+                "size": "235/75R15",
+                "type": "Tire"
+            }
+        ],
+        "summary": "I WANTED TO REGISTER MY TIRES IN CASE OF A RECALL BUT THE VEHICLE DEALER DIDN'T KNOW ANYTHING ABOUT TIRE REGISTRATION WHEN I BOUGHT THE VEHICLE NEW.",
+        "vin": "1GB6G5CG2F1"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "components": "SUSPENSION,TIRES",
+        "crash": false,
+        "dateComplaintFiled": "11/09/2003",
+        "dateOfIncident": "11/01/2003",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10045814,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "350Z",
+                "productYear": "2003",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Bridgestone Americas Tire Operations",
+                "productMake": "BRIDGESTONE",
+                "productModel": "POTENZA RE92",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "TIRES CUPPING ON THE INNER EDGES.  LOUD ROAR WHEN YOU BRAKE FROM ABOUT 30 MPH TO A COMPLETE STOP. I THINK IS A SUSPENSION PROBLEM BECAUSE THE 2004 CARS DON'T HAVE THE PROBLEM.*AK",
+        "vin": "JN1AZ34E83T"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": true,
+        "dateComplaintFiled": "02/25/2003",
+        "dateOfIncident": "12/14/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10009294,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CADILLAC",
+                "productModel": "DEVILLE",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DEALERSHIP REFUSED TO HONOR RECALL UNTIL THE MANUFACTURER SENT AN INVESTIGATOR TO INSPECT THE  VEHICLE. PRIOR TO THE RECALL, VEHICLE WAS IN AN ACCIDENT AND  SEAT BELTS DID NOT RETRACT, RESULTING IN SERIOUS INJURIES TO THE PASSENGER. *JB....*AK",
+        "vin": "1G6KD54Y11U"
+    }
+]

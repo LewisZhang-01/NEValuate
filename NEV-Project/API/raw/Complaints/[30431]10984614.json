@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "05/10/2017",
+        "dateOfIncident": "03/27/2017",
+        "fire": false,
+        "manufacturer": "Kia Motors America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10984614,
+        "products": [
+            {
+                "manufacturer": "Kia Motors America",
+                "productMake": "KIA",
+                "productModel": "OPTIMA",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TURBO CHARGER MALFUNCTION. MECHANIC STATED THAT THE ISSUE SHOULD HAVE BEEN COVERED UNDER WARRANTY AS THERE WAS NO OTHER INDICATORS AS WHY IT FAILED. IT RESULTED IN LOOSE BOLTS, THE COMPLETE TURBO CHARGER NEEDING TO BE REPLACED, AND ALL NEW HOSES.",
+        "vin": "5XXGR4A6XDG"
+    }
+]

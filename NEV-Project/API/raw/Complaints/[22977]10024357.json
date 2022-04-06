@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "06/18/2003",
+        "dateOfIncident": "06/18/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10024357,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "FIREBIRD",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NHTSA#93-V-199-000:  FUEL LINES ON THESE VEHICLES MAY HAVE BEEN MISROUTED AND MAY CONTACT THE \"AIR\" CHECK VALVE. THE HIGH TEMPERATURES FROM THE \"AIR\" CHECK VALVE COULD ALLOW IT TO MELT THROUGH AND DAMAGE A FUEL LINE. CONSUMER HAS THE SAME PROBLEM. *AK HOWEVER THIS VEHICLE WAS NOT RECALLED DUE TO VIN.  *AK",
+        "vin": ""
+    }
+]

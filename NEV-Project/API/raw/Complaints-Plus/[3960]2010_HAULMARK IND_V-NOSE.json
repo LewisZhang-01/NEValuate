@@ -1,0 +1,90 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "07/11/2016",
+        "dateOfIncident": "07/08/2016",
+        "fire": false,
+        "manufacturer": "Haulmark Trailers",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10884000,
+        "products": [
+            {
+                "manufacturer": "Haulmark Trailers",
+                "productMake": "HAULMARK IND",
+                "productModel": "V-NOSE",
+                "productYear": "2010",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FRAME ON TRAILER IS CRACKING AND FAILING.",
+        "vin": "16HGB2935AA"
+    },
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "07/11/2016",
+        "dateOfIncident": "01/01/2016",
+        "fire": false,
+        "manufacturer": "Haulmark Trailers",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10884015,
+        "products": [
+            {
+                "manufacturer": "Haulmark Trailers",
+                "productMake": "HAULMARK IND",
+                "productModel": "V-NOSE",
+                "productYear": "2010",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "OUTER FRAME RAILS ON THE TRAILER ARE SAGGING FROM THE INNER MAIN FRAME RAIL, COMPROMISING STRUCTURAL INTEGRITY.",
+        "vin": "16HGB2939AA"
+    },
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "07/09/2016",
+        "dateOfIncident": "07/09/2016",
+        "fire": false,
+        "manufacturer": "Haulmark Trailers",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10883765,
+        "products": [
+            {
+                "manufacturer": "Haulmark Trailers",
+                "productMake": "HAULMARK IND",
+                "productModel": "V-NOSE",
+                "productYear": "2010",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CRACKING IN FRAME AND BOWING OF FRAME BY WHEEL WELLS.",
+        "vin": "16HGB2936AA"
+    },
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "07/08/2016",
+        "dateOfIncident": "07/08/2016",
+        "fire": false,
+        "manufacturer": "Haulmark Trailers",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10883548,
+        "products": [
+            {
+                "manufacturer": "Haulmark Trailers",
+                "productMake": "HAULMARK IND",
+                "productModel": "V-NOSE",
+                "productYear": "2010",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE FRAME OF THE TRAILER HAS DEVELOPED CRACKS ON BOTH SIDES OF THE FRAME CREATING AN UNSAFE SITUATION.",
+        "vin": "16HGB2936AA"
+    }
+]

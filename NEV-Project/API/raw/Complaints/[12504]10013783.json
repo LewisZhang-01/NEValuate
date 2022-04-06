@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "04/01/2003",
+        "dateOfIncident": "03/24/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10013783,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F150",
+                "productYear": "1988",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "STEERING SHAFT LOST STEERING COMPLETELY. UPPER SHOCK BRACKETS ROTTED OUT AND SHOCKS  PUT HOLE IN GAS TANK AND LOST ALL FUEL. *JB",
+        "vin": "1FTEF14N9JL"
+    }
+]

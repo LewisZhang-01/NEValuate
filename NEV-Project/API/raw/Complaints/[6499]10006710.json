@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": true,
+        "dateComplaintFiled": "02/06/2003",
+        "dateOfIncident": "12/23/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10006710,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE WAS AT A COMPLETE STOP AND WAS IMPACTED BY ANOTHER VEHICLE GOING 50 MPH IN THE REAR END. THE SEAT BELT DIDN'T RETRACT. PLEASE PROVIDE MORE DETAILS.                          PH",
+        "vin": ""
+    }
+]

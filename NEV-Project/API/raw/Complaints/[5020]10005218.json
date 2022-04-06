@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": true,
+        "dateComplaintFiled": "02/03/2003",
+        "dateOfIncident": "01/29/2000",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005218,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "MONTE CARLO",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "B.F. GOODRICH TIRE CO.",
+                "productMake": "B.F.GOODRICH",
+                "productModel": "BF GOODRICH",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "ACCIDENT CONTRIBUTED TO DRIVING IN SLUSH AND HYDROPLANING DUE TO LOW PROFILE WIDE TIRES 2001 MONTE CARLO WITH 36,045 MILES. MAN WHO TOWED MINE SAID HE HAS TOWED 6 MONTE CARLOS IN 4 DAYS",
+        "vin": "2G1WX15K719"
+    }
+]

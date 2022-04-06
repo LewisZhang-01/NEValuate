@@ -1,0 +1,90 @@
+[
+    {
+        "components": "FUEL SYSTEM, OTHER",
+        "crash": false,
+        "dateComplaintFiled": "06/12/1997",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 813044,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "FLSTC",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "RECEIVED A RECALL LETTER ON MOTORCYCLE TOOK IN TO MANUFACTURER FOR REPAIR TWICE AND MOTORCYCLE KEEPS CUTTING OFF.   *AK",
+        "vin": "1HD1BJL44TY"
+    },
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "03/11/1997",
+        "dateOfIncident": "10/01/1996",
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 809805,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "FLSTC",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE OWNER HAS CALLED THE DEALERSHIP SINCE OCTOBER, AND THE PARTS HAVE NOT BEEN AVAILABLE.  THE RECALL IS NOT SHOWING UP IN OUR COMPUTER SYSTEM.   *AK",
+        "vin": "1HD1BKL16SY"
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "10/04/1996",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 803196,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "FLSTC",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE SPEEDOMETER IS NOT ACCURATE,  NOT WORKING RIGHT.   PLEASE DESCRIBE .   *AK",
+        "vin": ""
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "07/30/1996",
+        "dateOfIncident": "06/01/1995",
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 506883,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "FLSTC",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SPEEDOMETER/ODOMETER INOPERATIVE.",
+        "vin": "1HD1BJL46TY"
+    }
+]

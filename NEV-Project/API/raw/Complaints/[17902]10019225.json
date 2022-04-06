@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "05/24/2003",
+        "dateOfIncident": "05/21/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019225,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "C/K PICKUP",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE WINDSHIELD WIPERS ON MY 1998 GMC PICKUP WORK INTERMITTENTLY, SOMETIMES THEY WON'T TURN ON, OTHER TIMES THEY STOP WHILE IN USE.   *NLM",
+        "vin": "1GTEK19R0WR"
+    }
+]

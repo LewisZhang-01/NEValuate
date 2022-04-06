@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "12/18/2002",
+        "dateOfIncident": "11/14/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000228,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GEO",
+                "productModel": "PRIZM",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING DOWN MAJOR HIGHWAY, REARENDED ANOTHER VEHICLE AT ABOUT 25MPH. RESULTING IN MAJOR DAMAGE TO FRONT END, AND NO AIRBAGS DEPLOYED!",
+        "vin": "1Y1SK5266VZ"
+    }
+]

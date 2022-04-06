@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "03/13/2003",
+        "dateOfIncident": "02/28/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010420,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Bridgestone Americas Tire Operations",
+                "productMake": "FIRESTONE",
+                "productModel": "FIREHAWK GTA-02",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "TREAD SEPARATION ON FIRESTONE FIREHAWK GTA P205-50R16 TIRE.  I WAS TOLD BY  FIRESTONE DEALER # 591289 (JOHNSTOWN, PA) THAT THE TIRE WAS \"CUT\" ON THE SIDEWALL DUE TO ABUSE.  THIS TREAD SEPARATION IS CLEARLY DUE TO A DEFECT AS IF IT WERE A \"RE-CAP\" IN MY OPINION.  I ALSO HAD THE TIRES LOOKED OVER BY AN INDEPENDENT TIRE RETAILER WHO CONCURRED WITH MY SUSPICIONS.   *JB",
+        "vin": "3FAHP31371R"
+    }
+]

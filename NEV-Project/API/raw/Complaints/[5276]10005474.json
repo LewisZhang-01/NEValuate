@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC,AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "02/07/2003",
+        "dateOfIncident": "01/13/2003",
+        "fire": false,
+        "manufacturer": "GM DAEWOO AUTO & TECHNOLOGY COMPANY",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005474,
+        "products": [
+            {
+                "manufacturer": "GM DAEWOO AUTO & TECHNOLOGY COMPANY",
+                "productMake": "DAEWOO",
+                "productModel": "LEGANZA",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKES LOCKED ON VEHICLE PRIOR TO IMPACT WITH ANOTHER VEHICLE >40 MPH AND NEITHER FRONT AIRBAG DEPLOYED DURING OR AFTER IMPACT. VEHICLE WAS TOTALLED BY INSURANCE COMPANY DUE TO UNAVAILABILITY OF REPLACEMENT PARTS. DAMAGE ESTIMATE >$5000.",
+        "vin": ""
+    }
+]

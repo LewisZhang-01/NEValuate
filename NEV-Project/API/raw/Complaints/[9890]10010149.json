@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "03/08/2003",
+        "dateOfIncident": "03/05/2003",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010149,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "AUDI",
+                "productModel": "QUATTRO",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FRONT WHEEL BEARING FAILED- BOTH FRONT WHEELS - AT 51,000 MILES ON ODOMETER.  *NLM",
+        "vin": "WAUDA24B3XN"
+    }
+]

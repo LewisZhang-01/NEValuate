@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "03/28/2003",
+        "dateOfIncident": "12/14/2002",
+        "fire": false,
+        "manufacturer": "AM GENERAL LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10013597,
+        "products": [
+            {
+                "manufacturer": "AM GENERAL LLC",
+                "productMake": "AM GENERAL",
+                "productModel": "AM GENERAL",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ANTI LOCK BRAKE  PUMP FAILED.  *JB",
+        "vin": "1GCEC14T2XZ"
+    }
+]

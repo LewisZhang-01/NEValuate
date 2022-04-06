@@ -1,0 +1,46 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "01/17/2008",
+        "dateOfIncident": "12/29/2007",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10215251,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "EXPRESS 2500",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 2000 CHEVROLET EXPRESS 2500.  WHILE STARTING THE VEHICLE FROM THE OUTSIDE, THE AIR BAGS SUDDENLY DEPLOYED.  THE DEALER REFERRED THE CONTACT TO GENERAL MOTORS.  THE CONTACT WAS INFORMED THAT THE FAILURE WAS CAUSED BY A TWO-WAY RADIO THAT WAS INSTALLED IN 2000.  A WIRE WAS PINCHED DURING THE INSTALLATION.  THE PURCHASE DATE WAS UNKNOWN.  THE CURRENT AND FAILURE MILEAGES WERE 84,000.",
+        "vin": "1GCGG25R1Y1"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "01/22/2007",
+        "dateOfIncident": "01/08/2007",
+        "fire": true,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10179420,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "EXPRESS 2500",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "MY 2000 CHEVROLET CARGO VAN V8 5.7 L WAS PARK IN MY GARAGE FOR 7 HOURS AND I WAS ALERTED TO THE SMOKE BY THE SMOKE ALARM IN MY GARAGE. TURNS OUT AN ELECTRICAL FIRE SEEM TO HAVE STARTED IN THE FUSE BOX. STILL WAITING ON DEALER FOR EXTENT OF DAMAGE. I WAS ABLE TO PUT OUT THE FIRE WITH MY HOME WATER HOSE.  *NM",
+        "vin": "1GCFG25R6Y1"
+    }
+]

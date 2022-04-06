@@ -1,0 +1,31 @@
+[
+    {
+        "components": "SEAT BELTS,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "03/13/2003",
+        "dateOfIncident": "03/12/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010397,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "CHEROKEE",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "ZOBER",
+                "productMake": "ZOBER",
+                "productModel": "ZOBER",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "WHILE DRIVING MY 2001 JEEP CHEROKEE I HAD SMALL OBJECTS FALL OFF MY CENTER ARM REST AND HIT MY GEN 3 SEAT BELT LATCH CAUSING IT TO OPEN.  THIS HAS HAPPENED TWICE.  I HAVE NOTICED THAT JEEP HAS UPGRADED TO THE GEN 4 LATCH.  WHY HASN'T THERE BEEN A RECALL ON THIS ISSUE?  EVERY DAY SEEMS TO BRING A NEW STORY OF ANOTHER FATAL ACCIDENT INVOLVING A DAIMLER CHRYSLER PRODUCT WITH A FAULTY SEAT BELT LATCH. *JB",
+        "vin": "1J4FF48S41L"
+    }
+]

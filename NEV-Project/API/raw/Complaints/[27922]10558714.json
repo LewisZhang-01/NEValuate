@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "01/06/2014",
+        "dateOfIncident": "01/06/2014",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10558714,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EDGE",
+                "productYear": "2008",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVER DOOR SAYS AJAR AND THE DOOR IS CLOSED. LIGHTS WON'T GO OFF.  *TR",
+        "vin": "2FMDK39C08B"
+    }
+]

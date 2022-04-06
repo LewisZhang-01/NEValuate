@@ -1,0 +1,46 @@
+[
+    {
+        "components": "WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "03/23/2015",
+        "dateOfIncident": "11/15/2014",
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10701205,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "FLSTC",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SPOKES ON WHEEL LOOSEN ON A REGULAR BASIS.  THIS MAY CAUSE THE SPOKES TO BREAK CAUSING THE RIM TO GO OUT OF ROUND AND POSSIBLY CAUSING THE WHEEL TO COLLAPSE.    I BELIEVE THIS PROBLEM APPLIES TO ALL H-D BIG TWIN MODELS WITH THE 103CI AND LARGER ENGINES WITH THE STOCK WIRED WHEELS.  *TR",
+        "vin": "1HD1BWV12DB"
+    },
+    {
+        "components": "STEERING,SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "05/05/2014",
+        "dateOfIncident": "05/03/2014",
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10586676,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "FLSTC",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "MOTORCYCLE EXPERIENCED HIGH SPEED WOBBLE AT 75MPH DOWN TO 45MPH.  VEHICLE SHAKES (WOBBLES) AT MEDIUM TO HIGH SPEEDS IN STRAIGHT LINE AND ON CURVES; INCLUDING WHILE ACCELERATING AND COMING OFF THE THROTTLE.  *TR",
+        "vin": "1HD1BWV15DB"
+    }
+]

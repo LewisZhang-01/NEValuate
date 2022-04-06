@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "12/16/2002",
+        "dateOfIncident": "12/13/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000128,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "WINDSTAR",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENGINE 3.8 WAS REMANUFACTURED (68,500) UNDER RECALL AND NOW HAS SAME ISSUE, BLOWN HEAD GASKETS (125,200).  FORD HAS ISSUED A TECH SERVICE BULLETIN IN THE LAST 6 MONTHS ON THIS.  IT SEEMS THAT THE ISSUE WAS NOT ADEQUATELY FIXED ON THE FIRST RECALL, OR THE TSB WOULD NOT HAVE BEEN ISSUED.",
+        "vin": "2FMDA5143SB"
+    }
+]

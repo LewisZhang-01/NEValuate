@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "09/11/2012",
+        "dateOfIncident": "08/22/2012",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10475114,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "TRAILBLAZER",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "GAS GAUGE WAS READING INACCURATELY RESULTING IN CAR STALL.  ALSO, SPEEDOMETER IS NOT FUNCTIONING CORRECTLY - WILL START OUT ANYWHERE FROM 5 MPH TO 45 MPG OVER FROM STANDSTILL.  *TR",
+        "vin": "1GNDT13S752"
+    }
+]

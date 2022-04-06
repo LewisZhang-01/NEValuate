@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "03/24/2003",
+        "dateOfIncident": "03/15/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10012255,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "DURANGO",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE WAS IMPACTED AT 35 MPH IN THE FRONT CENTER OF THE VEHICLE YET THE AIR BAG DID NOT DEPLOY AND CAUSED MINOR INJURIES TO THE CONSUMER. DEALER NOTIFIED .  *NLM",
+        "vin": "1B4HS28Z2XF"
+    }
+]

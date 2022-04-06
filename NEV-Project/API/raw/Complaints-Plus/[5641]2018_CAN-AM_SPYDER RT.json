@@ -1,0 +1,90 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "10/19/2020",
+        "dateOfIncident": "10/11/2020",
+        "fire": false,
+        "manufacturer": "Bombardier Recreational Products, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11365273,
+        "products": [
+            {
+                "manufacturer": "Bombardier Recreational Products, Inc.",
+                "productMake": "CAN-AM",
+                "productModel": "SPYDER RT",
+                "productYear": "2018",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVING MY SPYDER ON THE INTERSTATE IT WOULD SHOW A CODE DPS ON MY DISPLAY AND AS LONG AS IT DISPLAYED YOU COULD NOT STEER MOTORCYCLE. THIS HAPPENED AT LEAST SIX TIMES IN ONE WEEK. YOU COULD STOP AND SHUT UNIT OFF THEN RESTART AND GO 50 TO 100 MILES THEN FLASH CODE DPS AGAIN. THE FAULT CODE P0550 WAS STORED AS LONG AS BIKE WAS RUNNING.",
+        "vin": "2BXNBDD29JV"
+    },
+    {
+        "components": "SEATS,SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "06/06/2020",
+        "dateOfIncident": "05/23/2020",
+        "fire": false,
+        "manufacturer": "Bombardier Recreational Products, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11327510,
+        "products": [
+            {
+                "manufacturer": "Bombardier Recreational Products, Inc.",
+                "productMake": "CAN-AM",
+                "productModel": "SPYDER RT",
+                "productYear": "2018",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "HEATED SEAT CEASES TO OPERATE AFTER 40 MINS. PARKING BRAKE WILL NOT RELEASE.",
+        "vin": "2BXNBDD28JV"
+    },
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "05/25/2020",
+        "dateOfIncident": "05/22/2020",
+        "fire": false,
+        "manufacturer": "Bombardier Recreational Products, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11325876,
+        "products": [
+            {
+                "manufacturer": "Bombardier Recreational Products, Inc.",
+                "productMake": "CAN-AM",
+                "productModel": "SPYDER RT",
+                "productYear": "2018",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE ELECTRONIC PARKING BRAKE WILL NOT RELEASE INTERMITTENTLY. THIS HAPPENS 3-5 TIMES A WEEK.",
+        "vin": "2BXNBDD22JV"
+    },
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "10/02/2018",
+        "dateOfIncident": "09/23/2018",
+        "fire": false,
+        "manufacturer": "Bombardier Recreational Products, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11132980,
+        "products": [
+            {
+                "manufacturer": "Bombardier Recreational Products, Inc.",
+                "productMake": "CAN-AM",
+                "productModel": "SPYDER RT",
+                "productYear": "2018",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DPS FAILED GOING AROUND A TURN CAUSING THE OPERATOR TO GO INTO THE OPPOSING LANE OF TRAFFIC. P1F00 CODE  FIRST CODE P1F05 ONLY HAPPENED IN DRIVE WAY, DEALER COULD NOT DUPLICATE ON 9/18/18, 9/23/18 DPS WENT OUT IN A TURN AND CODE P1F00 EVEN THOUGH THE DEALER HAD BOTH CODES IN MEMORY YET BRP WOULD NOT REPAIR WITHOUT DUPLICATION OF ERRORS.  EVN HAVE A VIDEO OF THE P1F05 CODE COMING UP IN MY DRIVEWAY.",
+        "vin": "2BXNBDD26JV"
+    }
+]

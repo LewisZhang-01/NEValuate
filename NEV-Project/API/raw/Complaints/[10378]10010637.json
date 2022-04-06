@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "03/17/2003",
+        "dateOfIncident": "01/29/2003",
+        "fire": true,
+        "manufacturer": "Volvo Car USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010637,
+        "products": [
+            {
+                "manufacturer": "Volvo Car USA, LLC",
+                "productMake": "VOLVO",
+                "productModel": "850",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "INTERIOR FIRE IN CAR, MOST LIKELY CAUSED BY DEFECTIVE SEAT HEATERS.  CAR SEATS WERE SOURCE OF FIRE.  CAR WAS INCINERATED.   *JB",
+        "vin": ""
+    }
+]

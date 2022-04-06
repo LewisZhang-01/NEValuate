@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": true,
+        "dateComplaintFiled": "05/01/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017159,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "TOWN CAR",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE WAS PLACED IN REVERSE AND SUDDENLY ACCELERATED AT TOP SPEED, THE BRAKE PEDAL WAS APPLIED, BUT DID NOT CONTROL IT AND DAMAGED AN EMPTY VEHICLE.   MR  SCC",
+        "vin": "1LNHM82W71Y"
+    }
+]

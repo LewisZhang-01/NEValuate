@@ -1,0 +1,46 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "02/11/2020",
+        "dateOfIncident": "01/02/2020",
+        "fire": false,
+        "manufacturer": "Navistar, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11308533,
+        "products": [
+            {
+                "manufacturer": "Navistar, Inc.",
+                "productMake": "INTERNATIONAL",
+                "productModel": "4300",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "MANY ELECTRICAL PROBLEMS THE LIGHTS GO OUT ALONE.  THE MOTOR NOT WOERK AFTER CERTAIN MILES. IT STATIONARY ON STREET.",
+        "vin": "1HTJTSKM9CH"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM,ENGINE,FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "10/31/2018",
+        "dateOfIncident": "06/29/2018",
+        "fire": false,
+        "manufacturer": "Navistar, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11144456,
+        "products": [
+            {
+                "manufacturer": "Navistar, Inc.",
+                "productMake": "INTERNATIONAL",
+                "productModel": "4300",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHAT USUALLY HAPPENS IS YOU GET AN OPEN FLOW OF EXHAUST COMING IN AT WILL, WHICH IS FULL OF SOOT, BECAUSE THE ENGINE IS NOT COMBUSTING ALL THE FUEL COMPLETELY AND IT GOES INTO THE EGR COOLERS.THE EXHAUST MANIFOLD, VALVE AND COOLERS INSIDE THE EGR HOUSING ARE FILLED WITH SOOT. FUEL ECONOMY DETERIORATES, A DASHBOARD LIGHT COMES ON AND THE TRUCK NEEDS TO BE TAKEN OUT OF SERVICE.",
+        "vin": "1HTMNAAL7CH"
+    }
+]

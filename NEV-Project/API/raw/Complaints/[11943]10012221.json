@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "03/21/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10012221,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE EXPERIENCED PROBLEMS WITH THE FUEL SYSTEM. THE CONSUMER STATED THAT THERE WAS A RECALL ISSUED WHICH WAS NEVER RECEIVED AND THAT NOW WHEN THEY TOOK THE VEHICLE IN FOR THE RECALL THEY WERE OVER 6000 MILES OVER THE LIMIT FOR THE RECALL. DEALER AND MANUFACTURER WERE NOT CONTACTED AT THE TIME OF THIS CALL. *NLM",
+        "vin": "1FTDF15Y2NL"
+    }
+]

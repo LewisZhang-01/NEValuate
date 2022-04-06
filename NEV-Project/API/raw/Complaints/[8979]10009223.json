@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "02/24/2003",
+        "dateOfIncident": "10/28/2002",
+        "fire": true,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10009223,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "ACCENT",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER WAS INVOLVED IN AN ACCIDENT, AND THE AIR BAGS DEPLOYED, WHICH RESULTED IN SERIOUS INJURIES.*JB",
+        "vin": "PROVIDE"
+    }
+]

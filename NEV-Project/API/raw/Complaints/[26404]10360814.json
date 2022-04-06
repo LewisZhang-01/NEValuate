@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "10/16/2010",
+        "dateOfIncident": "10/12/2010",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10360814,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "E-150",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "GAS FILLER HOSE AND GAS VENT HOSE DETERIORATE ON 2001 FORD E-150  MAY CAUSE FIRE WHEN FILLING GAS TANK. *TR",
+        "vin": "1FTRE14251H"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "07/10/2019",
+        "dateOfIncident": "08/01/2017",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11230814,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "SANTA FE",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AIR BAG LIGHT IS ON CONTINUOUSLY AFTER STARTING (LIGHT GOES OUT FOR 6\" AT IGNITION TO ON). IT THROWS THE CODE B1448. I CAN RESET IT WITH MY SCANNER, BUT IT RETURNS AFTER A WEEK.",
+        "vin": "KM8SC13EX6U"
+    }
+]

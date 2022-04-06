@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "03/20/2001",
+        "dateOfIncident": "03/01/2001",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10006394,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "TOWN AND COUNTRY",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "HEAD ON COLLISION WITH ANOTHER VEHICLE AT 35 MPH. BUMPER, HOOD, FENDERS AND STRUTS WERE DESTROYED.  AIR BAGS DID NOT DEPLOY.      *JB      ***DIMSII IVOQ ENTRY POSTED AFTER 12/12/02 CUT-OVER TO ARTEMIS****742771",
+        "vin": "1C4GP5410YB"
+    }
+]

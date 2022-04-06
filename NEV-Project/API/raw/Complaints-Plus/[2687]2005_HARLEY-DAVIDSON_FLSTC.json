@@ -1,0 +1,46 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "10/03/2011",
+        "dateOfIncident": "09/24/2011",
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10428288,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "FLSTC",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CAM CHAIN TENSIONER FAILURE CAUSING MAJOR DAMAGE TO ENGINE AND POSSIBLE LOSS OF CONTROL OF MOTORCYCLE IF ENGINE LOCKS UP.      I WAS INFORMED BY A SALES PERSON NAMED [XXX] AT EAGLE HARLEY DAVIDSON IN LAFAYETTE IN THAT I HAD A MOTORCYCLE WITH PROBLEM ASSOCIATED WITH THE CAM CHAIN TENSIONER.  THE CHAIN TENSIONER WILL FAIL CAUSING ENGINE DAMAGE AND POSSIBLE LOSS OF CONTROL.  I ASKED WHY THERE IS NOT A RECALL NOTICE AND HE SAID IT WAS NORMAL WEAR BUT WAS REDESIGNED ON NEWER MOTORCYCLES.     I WAS TRYING TO TRADE MY MOTORCYCLE IN FOR A NEW ONE AND THAT IS WHEN HE SAID MINE WAS NOT WORTH MUCH BECAUSE OF THIS PROBLEM, IT WOULD ALWAYS HAVE TO BE REPAIRED AND THAT IS WHY HARLEY DAVIDSON WENT TO A HYDRAULIC TENSIONER ON NEWER MOTORCYCLES.  I KNOW NOTHING ABOUT MOTORCYCLES AND AM CONCERNED ABOUT THE POSSIBILITY OF MAJOR REPAIRS OR INJURY TO MYSELF AND OTHERS IF FAILURE OCCURS AT HIGHWAY SPEED.     I PHONED CORPORATE HARLEY DAVIDSON CUSTOMER SERVICE AND WAS TOLD IT WAS NOT ON RECALL AND NOT TO WORRY, BUT I DO.      INFORMATION REDACTED PURSUANT TO THE FREEDOM OF INFORMATION ACT (FOIA), 5 U.S.C. 552(B)(6).*TR",
+        "vin": "1HD1BWB135Y"
+    },
+    {
+        "components": "STEERING,SUSPENSION",
+        "crash": true,
+        "dateComplaintFiled": "09/06/2006",
+        "dateOfIncident": "06/25/2006",
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10168030,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "FLSTC",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2005 1450CC FRONT TIRES SHIMMIED WHILE DRIVING CAUSING CONSUMER TO DROP THE BIKE.  *TS  THE CONSUMER SON WAS INJURED. *JB",
+        "vin": "1HD1BJY185Y"
+    }
+]

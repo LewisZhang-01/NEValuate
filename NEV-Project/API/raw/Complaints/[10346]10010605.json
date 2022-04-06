@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "03/17/2003",
+        "dateOfIncident": "05/10/2000",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010605,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TRANSMISSION SHIFTS VERY HARD WHEN COMING OUT OF FIRST GEAR.  *NLM",
+        "vin": "1FTEF15N0RN"
+    }
+]

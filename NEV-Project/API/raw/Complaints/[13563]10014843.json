@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, OTHER,AIR BAGS,SEAT BELTS",
+        "crash": true,
+        "dateComplaintFiled": "04/10/2003",
+        "dateOfIncident": "02/06/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10014843,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "MUSTANG",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE AIR BAGS DID NOT DEPLOY DURING AN ACCIDENT.  *MR  THE CONSUMER WAS REAR ENDED AND HIT OTHER VEHICLES, AS THIS HAPPENED, THE SEAT BACK BROKE AND THE SEAT BELT BUCKLE HAD CAME LOOSE.  THE ENGINE CONTINUED TO RUN  AND THE FUEL SAFETY SWITCH DID NOT TURN OFF.  SCC  *NLM",
+        "vin": "1FALP4043TF"
+    }
+]

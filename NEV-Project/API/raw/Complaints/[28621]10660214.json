@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "11/22/2014",
+        "dateOfIncident": "11/21/2014",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10660214,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2003",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "DOUGLAS",
+                "productModel": "XTRA-TRAC AW AS",
+                "productYear": "9999",
+                "size": "P185/65R14",
+                "type": "Tire"
+            }
+        ],
+        "summary": "SIDEWALL OF TIRE BLEW OUT. TIRES ARE NOT EVEN 2 MONTHS OLD.  I HAVE SEEN OTHER COMPLAINTS ABOUT THE SAME ISSUE. DOUGLAS XTRA TRAC II 185/65/14.  *TR",
+        "vin": ""
+    }
+]

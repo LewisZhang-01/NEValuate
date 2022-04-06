@@ -1,0 +1,68 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "02/13/1999",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 703260,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERKUR",
+                "productModel": "XR4TI",
+                "productYear": "1988",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NO SUMMARY",
+        "vin": "WF1BT8OW2JM"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "05/28/1998",
+        "dateOfIncident": null,
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 823718,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERKUR",
+                "productModel": "XR4TI",
+                "productYear": "1988",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING THE VEHICLE CAUGHT ON FIRE.VEHICLE HAS NOT BEEN SEEN BY MECHANIC.   *AK",
+        "vin": ""
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "12/04/1997",
+        "dateOfIncident": "10/20/1997",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 525665,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERKUR",
+                "productModel": "XR4TI",
+                "productYear": "1988",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TIRE MXV4 HAS STARTED TO SEPERATE AND TIRES STILL HAVE TREAD",
+        "vin": "WF18T80WXJM"
+    }
+]

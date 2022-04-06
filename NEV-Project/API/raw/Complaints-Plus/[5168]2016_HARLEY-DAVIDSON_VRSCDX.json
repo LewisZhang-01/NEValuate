@@ -1,0 +1,46 @@
+[
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "09/16/2019",
+        "dateOfIncident": "09/16/2019",
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11255906,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "VRSCDX",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ABS HYDRAULIC CONTROL MODULE FAILURE ON 2016 HARLEY DAVIDSON NIGHT ROD SPECIAL.  CAUSED COMPLETE LOSS OF BRAKING FUNCTIONS AT HIGHWAY SPEED DURING MORNING COMMUTER TRAFFIC.",
+        "vin": "1HD1HHH16GC"
+    },
+    {
+        "components": "FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "02/26/2017",
+        "dateOfIncident": "04/01/2016",
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10957103,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "VRSCDX",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUEL GAUGE DOES NOT WORK PROPERLY.  IT ALWAYS SHOWS AS BEING FULL NO MATTER THE DISTANCE TRAVELED ON THE BIKE.  THIS COULD BE A SAFETY PROBLEM IF SOMEONE THINKS THEY HAVE MORE FUEL THAN THEY DO AND RUN OUT.",
+        "vin": "1HD1HHH15GC"
+    }
+]

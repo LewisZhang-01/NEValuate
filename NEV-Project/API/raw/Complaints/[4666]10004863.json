@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "01/29/2003",
+        "dateOfIncident": "01/26/2003",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004863,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "CIVIC",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ACCIDENT OCCURRED AND AIR BAGS DID NOT DEPLOY. DEALER HAS BEEN NOTIFIED.   PH",
+        "vin": "29TGEJ6626W"
+    }
+]

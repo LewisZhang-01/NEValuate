@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "03/13/2003",
+        "dateOfIncident": "01/15/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010396,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "INTREPID",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FRONT AUTOMATIC DOOR LOCKS/SWITCHES SPONTANEOUSLY AND INTERMITTENTLY STOPPED FUNCTIONING, AND CREATED INABILITY TO EVEN MANUALLY UNLOCK OR OPEN DRIVER AND PASSENGER DOORS, TRAPPING DRIVER AND/OR PASSENGER IN CAR (INCLUDING MECHANIC WHO TEST-DROVE CAR TO DETERMINE SOURCE OF PROBLEM) ELECTRONIC POWER SOURCE TO LOCKS ULTIMATELY HAD TO BE DISCONNECTED FOR SAFETY.*JB",
+        "vin": "2B3HD46R6YH"
+    }
+]

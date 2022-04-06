@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "05/05/2003",
+        "dateOfIncident": "04/08/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10018136,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "CAMRY",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE WAS IN A HEAD ON COLLISION BUT NONE OF THE AIR BAGS DEPLOYED UPON IMPACT.",
+        "vin": "4T1BG22K1VU"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS,SEAT BELTS",
+        "crash": true,
+        "dateComplaintFiled": "01/27/2003",
+        "dateOfIncident": "12/04/2003",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10003499,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "ACCORD",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2002 HONDA ACCORD - SEAT BELT AND AIRBAGS MALFUNCTIONED DURING A FRONT IMPACT COLLISION.  CAR TRAVELING APPROXIMATELY 40 MPH.  SEAT BELT DID NOT RESTRAIN DRIVER (PULLED ENTIRELY OUT) AND AIRBAGS DID NOT DEPLOY.  AUTO BODY SHOP EXAIMED SAFETY FEATURES AND IN THEIR OPINION, SAFETY FEATURES DID NOT OPERATE PROPERLY.",
+        "vin": "1HGCG32582A"
+    }
+]

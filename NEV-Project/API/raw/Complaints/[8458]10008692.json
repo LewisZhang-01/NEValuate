@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "02/19/2003",
+        "dateOfIncident": "02/15/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10008692,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "SUNFIRE",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AFTER RECALL 02V286000 REGARDING THE RACK AND PINION WAS PERFORMED, THE PROBLEM RECURRED. *JB",
+        "vin": ""
+    }
+]

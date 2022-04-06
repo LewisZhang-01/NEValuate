@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": true,
+        "dateComplaintFiled": "02/13/2003",
+        "dateOfIncident": "02/05/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 2,
+        "odiNumber": 10007311,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "SUNBIRD",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE EXPERIENCED SUDDEN ACCELERATION, WHICH RESULTED IN AN ACCIDENT, DRIVER AND PASSENGER SUSTAINED INJURIES, CONSUMER BELIEVED INCIDENT WAS RELATED TO RECALL 93V190000, HOWEVER THE MANUFACTURER STATED THE TWO PROBLEMS WERE NOT RELATED.*JB",
+        "vin": "1G2JC14T9P7"
+    }
+]

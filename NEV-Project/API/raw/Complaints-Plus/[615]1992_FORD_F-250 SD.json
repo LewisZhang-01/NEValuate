@@ -1,0 +1,68 @@
+[
+    {
+        "components": "PARKING BRAKE",
+        "crash": true,
+        "dateComplaintFiled": "09/26/2010",
+        "dateOfIncident": "09/22/2010",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10357676,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-250 SD",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "1992 F-250 WITH MANUAL TRANSMISSION PARKED ON ROADSIDE WITH PARKING BRAKE ENGAGED. APPROX 15 MINUTES AFTER THE VEHICLE WAS PARKED, THE F-250 BEGAN TO ROLL BACKWARD AND STRUCK ANOTHER VEHICLE THAT WAS DRIVING BY. *TR",
+        "vin": "1FTHX26M6NK"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "06/28/2000",
+        "dateOfIncident": "06/23/2000",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 864402,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-250 SD",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "INSIDE BOTTOM PULLEY/CRANKSHAFT KEPT  BREAKING. DEALER REPLACED IT 2 TIMES, BUT IT HAS HAPPENED 4 OTHER TIMES. CONSUMER FOUND OUT THROUGH ANOTHER   MECHANIC THAT THERE WAS A REPIR KIT.  VEHICLE WILL SOMETIMES LOSE POWER & BRAKES.*AK",
+        "vin": "1FTHX25M8NK"
+    },
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "12/21/1999",
+        "dateOfIncident": "11/15/1998",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 854265,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-250 SD",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NHTSA RECALL 93V125 000/ FUEL TANK ASSEMBLY:  PORTION OF UNUSED FUEL FROM ONE TANK WOULD RETURN TO SECOND TANK. WHEN THIS OCCURRED, THE SECOND TANK EXCEEDED, CAUSING FUEL SPILLAGE. SPILLED FUEL COULD RESULT IN A FIRE WHEN EXPOSED TO A SOURCE OF IGNITION. DEALER NOTIFIED, AND INFORMED CONSUMER THAT THIS VEHICLE WAS NOT PART OF RECALL.  *AK",
+        "vin": "2FTHS26G9NC"
+    }
+]

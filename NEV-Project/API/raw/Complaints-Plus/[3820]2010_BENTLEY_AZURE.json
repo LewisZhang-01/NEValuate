@@ -1,0 +1,39 @@
+[
+    {
+        "components": "TIRES,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "01/19/2010",
+        "dateOfIncident": "01/19/2010",
+        "fire": false,
+        "manufacturer": "Bentley Motors, Ltd.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10300226,
+        "products": [
+            {
+                "manufacturer": "Bentley Motors, Ltd.",
+                "productMake": "BENTLEY",
+                "productModel": "AZURE",
+                "productYear": "2010",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "MICHELIN NORTH AMERICA",
+                "productMake": "MICHELIN",
+                "productModel": "11R245",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            },
+            {
+                "manufacturer": "Bentley Motors, Ltd.",
+                "productMake": "BENTLEY",
+                "productModel": "PF59918PB",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "THIS IS A REQUEST IN ORDER FOR US DOT TO BEGIN CONTINUAL MANUFACTURING PLANT AND DEALERSHIP SAFETY INSPECTIONS, ANALYSIS FOR POTENTIAL DEFECTS AND RECALLS ON THE FOLLOWING MAKES:   FERRARI, PORSCHE, BUGGATI, BENZ, BWM, ROLLS, BENTLEY,   JAGUAR, LAMBROGHINI.  PLEASE INSPECT ALL NEW EQUIPMENT.  PLEASE INSPECT ALL TIRES. *TR",
+        "vin": ""
+    }
+]

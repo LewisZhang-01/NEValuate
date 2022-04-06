@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "11/01/2013",
+        "dateOfIncident": "08/14/2013",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10550514,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPEDITION",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2001 FORD EXPEDITION. THE CONTACT STATED WHILE DRIVING APPROXIMATELY 10 MPH, THE VEHICLE STALLED. THE VEHICLE WAS TAKEN TO A PRIVATE MECHANIC WHERE THE FAILURE WAS UNABLE TO BE REPLICATED. THE MANUFACTURER WAS NOT NOTIFIED OF THE FAILURE. THE VEHICLE WAS NOT REPAIRED. THE APPROXIMATE FAILURE MILEAGE WAS 129,000 AND THE CURRENT MILEAGE WAS 130,000.",
+        "vin": "1FMPU18LX1L"
+    }
+]

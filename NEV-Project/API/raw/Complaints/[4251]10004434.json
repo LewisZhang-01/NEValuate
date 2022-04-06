@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": true,
+        "dateComplaintFiled": "02/03/2003",
+        "dateOfIncident": "10/27/2001",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10004434,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "GRAND CHEROKEE",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AFTER AVOIDING A VEHICLE WHICH CROSSED THE CENTER LANE, THE DRIVER'S VEHICLE EXPERIENCED SUDDEN ACCELERATION.  THE VEHICLE RAN INTO A FENCE THEN CRASHED INTO A TREE.  THE DRIVER SUSTAINED INTERNAL INJURIES.   *NLM",
+        "vin": "1J4GZ58S4PC"
+    }
+]

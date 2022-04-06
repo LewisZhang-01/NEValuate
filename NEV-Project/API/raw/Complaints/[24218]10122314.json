@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "05/27/2005",
+        "dateOfIncident": "05/18/2005",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10122314,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "SATURN",
+                "productModel": "VUE",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DT: STEERING SYSTEM IS FAILING.  STEERING LOCKS UP ON LEFT HAND TURNS, THEN STARTS  STRAIGHTENING BACK OUT IN THE MIDDLE OF A TURN AND WHILE GOING ON/OFF EXIT RAMPS.  AT LOW SPEEDS THE WHEEL COMPLETELY STOPS TURNING AND LOCKS UP.    *TT",
+        "vin": "5GZCZ63B52S"
+    }
+]

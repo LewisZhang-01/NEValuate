@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS,SEAT BELTS",
+        "crash": true,
+        "dateComplaintFiled": "07/10/2003",
+        "dateOfIncident": "06/18/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 2,
+        "odiNumber": 10024354,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "LIBERTY",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER'S SON WAS INVOLVED IN A FRONTAL COLLISION  AND NEITHER AIR BAG DEPLOYED.  ALSO,  NEITHER SEAT BELT HELD THE  DRIVER AND PASSENGER IN THEIR SEATS.  DEALER NOTIFIED.   *AK   *SCC    *JB",
+        "vin": "1J4GL48KX2W"
+    }
+]

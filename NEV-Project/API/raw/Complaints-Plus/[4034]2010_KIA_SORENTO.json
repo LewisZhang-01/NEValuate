@@ -1,0 +1,68 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "04/12/2016",
+        "dateOfIncident": "08/01/2013",
+        "fire": false,
+        "manufacturer": "Kia Motors America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10855055,
+        "products": [
+            {
+                "manufacturer": "Kia Motors America",
+                "productMake": "KIA",
+                "productModel": "SORENTO",
+                "productYear": "2010",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2010 KIA SORENTO. WHILE DRIVING AT ANY SPEED, THE VEHICLE PULLED TO THE RIGHT WITHOUT WARNING. THE VEHICLE WAS TAKEN TO AN INDEPENDENT MECHANIC WHO RE-BALANCED THE TIRES AND RE-ALIGNED THE WHEELS, BUT THE FAILURE RECURRED. THE CONTACT NOTIFIED TWO KIA DEALERS ABOUT THE FAILURE. BOTH DEALERS WERE UNAWARE OF THE FAILURE AND STATED THAT THERE WERE NO RECALLS AVAILABLE. THE MANUFACTURER STATED THAT THE FAILURE WAS NOT A KNOWN ISSUE AND ADVISED THE CONTACT TO VISIT A LOCAL DEALER. THE FAILURE WAS NOT DIAGNOSED. THE FAILURE MILEAGE WAS 24,000.",
+        "vin": "5XYKTDA24BG"
+    },
+    {
+        "components": "ENGINE",
+        "crash": true,
+        "dateComplaintFiled": "12/12/2013",
+        "dateOfIncident": "12/07/2013",
+        "fire": false,
+        "manufacturer": "Kia Motors America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10555796,
+        "products": [
+            {
+                "manufacturer": "Kia Motors America",
+                "productMake": "KIA",
+                "productModel": "SORENTO",
+                "productYear": "2010",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2010 KIA SOUL. THE CONTACT STATED THAT THE ENGINE OIL NOTIFICATION SYSTEM FAILED TO INDICATE THAT THE ENGINE OIL WAS EMPTY, CAUSING THE CONTACT TO CRASH INTO A CURB BEFORE THE ENGINE STALLED.  THE CONTACT SUSTAINED INJURIES TO THE RIGHT SIDE OF HER BODY. A POLICE REPORT WAS NOT FILED. THE VEHICLE WAS TOWED TO THE DEALER, WHO CONFIRMED THAT THE ENGINE FAILED DUE TO PREMATURE OIL CONSUMPTION AND CAUSED THE ENGINE TO SEIZE. AS A RESULT, THE ENGINE WOULD NEED TO BE REPLACED. THE VEHICLE WAS NOT REPAIRED.  THE MANUFACTURER WAS NOT MADE AWARE OF THE FAILURE. THE FAILURE AND CURRENT MILEAGE WAS 52,000.  MAILED OUT 01/13/15*LJ",
+        "vin": "KNDJT2A17A7"
+    },
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "02/01/2013",
+        "dateOfIncident": "01/05/2012",
+        "fire": false,
+        "manufacturer": "Kia Motors America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10496103,
+        "products": [
+            {
+                "manufacturer": "Kia Motors America",
+                "productMake": "KIA",
+                "productModel": "SORENTO",
+                "productYear": "2010",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I HAD AN ACCIDENT WHILE GETTING OFF HIGHWAY THE PERSON IN FRONT OF ME SUDDENLY STOPPED AND I REAR ENDED HER  CAR. MY CAR WAS PUSHED IN FROM FRONT AND AIR BAGS DID NOT POP OUT. IT CONCERNS ME. AT WHAT SPEED SHOULD THEY DEPLOYED?  *TR",
+        "vin": "KNDJD736X75"
+    }
+]

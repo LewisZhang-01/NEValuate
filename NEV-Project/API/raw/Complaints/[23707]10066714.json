@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "04/07/2004",
+        "dateOfIncident": "03/25/2004",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10066714,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "RAM 3500",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TRANSMISSION MALFUNCTIONED. AS A RESULT, VEHICLE ACCELERATED AND DECELERATED WITHOUT WARNING. *AK",
+        "vin": ""
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES,WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "07/26/2004",
+        "dateOfIncident": "05/06/2004",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10079714,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "ODYSSEY",
+                "productYear": "2003",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "MICHELIN TIRE CORP.",
+                "productMake": "MICHELIN",
+                "productModel": "MICHELIN",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHILE DRIVING 70 MPH REAR DRIVER'S SIDE TIRE BLEW OUT.  LATER, CONSUMER  FOUND OUT THAT THE REAR PASSENGER WHEEL  PRODUCED A LARGE HOLE IN THE MIDDLE.  DEALER STATED THEY WERE NOT COVERING IT, AND THAT CONSUMER  HIT A POTHOLE.  *AK   *LA",
+        "vin": "5FNRL180X3B"
+    }
+]

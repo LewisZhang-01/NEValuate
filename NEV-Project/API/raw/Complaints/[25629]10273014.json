@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "06/06/2009",
+        "dateOfIncident": "06/04/2009",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10273014,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "UNCONTROLLED ACCELERATION AFTER CAR WAS PARKED. *TR",
+        "vin": "3FAFP37N05R"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": true,
+        "dateComplaintFiled": "06/16/2003",
+        "dateOfIncident": "06/15/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10023118,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "1999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "KELLY SPRINGFIELD TIRE CO",
+                "productMake": "DELTA",
+                "productModel": "P21575B15",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "AS I WAS DRIVING 45 MPH THE FRONT TIRE BLEW OUT AND TAKING THE CAR OUT OF CONTROL THESE TIRES HAS A RECALL BY FORD AND THESE WERE CHANGED BY FIRESTONE IN SEPT 2000..MY WIPES NECK HAS BEEN INJURED..THE TREAD IS GREAT BUT THE BET INSIDE LET LOOSE.  *NLM",
+        "vin": "1FMZU34EXXZ"
+    }
+]

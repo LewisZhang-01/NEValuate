@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": true,
+        "dateComplaintFiled": "03/07/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "UNKNOWN MANUFACTURER",
+        "numberOfDeaths": 18,
+        "numberOfInjuries": 27,
+        "odiNumber": 10007251,
+        "products": [
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN1",
+                "productYear": "9999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "STEELTEX",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "LETTER TO PRESIDENT BUSH FROM LISONI & LISONI, A CALIFORNIA-BASED LAW FIRM WHICH FILED A NATIONAL CLASS ACTION LAWSUIT AGAINST BRIDGESTONE/FIRESTONE REQUESTED THAT NHTSA REOPEN INVESIGATION INTO FIRESTONE STEELTEX R4S, R4SII AND A/T SIERES TIRES THAT SUFFERED SEVERE TREAD SEPARATION. EIGHTEN DEATHS AND TWENTY SEVEN INJURED.   *TT   *JB",
+        "vin": ""
+    }
+]

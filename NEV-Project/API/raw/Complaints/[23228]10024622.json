@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "06/20/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10024622,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "RAM 1500",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN THE DRIVER'S SIDE SEAT BELT IS RELEASED FROM THE LOCKING MECHANISM  THE LATCH PLATE GETS WEDGED BETWEEN THE DOOR AND THE SEAT.  UNABLE TO REMOVE  WITHOUT OPENING DOOR.*AK",
+        "vin": "1D7HA16K62J"
+    }
+]

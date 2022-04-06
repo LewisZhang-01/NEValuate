@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/09/2003",
+        "dateOfIncident": "12/08/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002462,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA",
+                "productYear": "1995",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "KELLY SPRINGFIELD TIRE CO",
+                "productMake": "KELLY SPRINGFIELD",
+                "productModel": "KELLY SPRINGFIELD",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "TIRES WERE PURCHASED NEW ON 01/08/03.  WHILE DRIVING CONSUMER FELT VIBRATION IN VEHICLE.  UPON INSPECTION NOTICED THAT AIR PRESSURE IN LEFT FRONT AND REAR TIRES WAS VERY LOW.  CONSUMER PLACED SPARE ON REAR TIRE AND INFLATED FRONT TIRE IN ORDER TO MAKE IT TO HOME.  WHEN CONSUMER ARRIVED HOME DISCOVERED LEFT FRONT TIRE HAD A \"BUBBLE\" THE SIZE OF A FOOTBALL.  TIRES WERE NOT ORIGINAL.  VEHICLE IS A 1995 GMC 3/4 TON SIERRA PICKUP.   *NLM",
+        "vin": ""
+    }
+]

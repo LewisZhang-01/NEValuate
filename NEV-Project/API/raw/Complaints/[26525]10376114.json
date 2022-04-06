@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING,POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "01/09/2011",
+        "dateOfIncident": "12/20/2010",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10376114,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "GRAND CHEROKEE",
+                "productYear": "2007",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE LOST POWER (ENGINE RPM WENT TO IDLE) FOR NO APPARENT REASON WHILE TURNING ONTO A MULTI-LANE HWY AND ACCELERATING. POWER WAS RESTORED AND VEHICLE ACCELERATED NORMALLY. VEHICLE \"CHECK ENGINE\" LIGHT ILLUMINATED. THIS HAS CONTINUED TO OCCUR SEVERAL TIMES IN THE LAST MONTH. \"CHECK ENGINE\" CODE U0404 WAS VERIFIED THROUGH JEEP IS THE \"TCM\" TRANSMISSION CONTROL MODULE.",
+        "vin": "1J8GR48K37C"
+    }
+]

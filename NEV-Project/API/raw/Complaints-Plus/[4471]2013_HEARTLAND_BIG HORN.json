@@ -1,0 +1,54 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/08/2016",
+        "dateOfIncident": "01/07/2016",
+        "fire": false,
+        "manufacturer": "Heartland Recreational Vehicles, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10838244,
+        "products": [
+            {
+                "manufacturer": "Heartland Recreational Vehicles, LLC",
+                "productMake": "HEARTLAND",
+                "productModel": "BIG HORN",
+                "productYear": "2013",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Cooper Tire & Rubber Co.",
+                "productMake": "POWER KING",
+                "productModel": "TOWMAX",
+                "productYear": "9999",
+                "size": "LT235/80R16 E",
+                "type": "Tire"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2013 HEARTLAND BIGHORN EQUIPPED WITH POWER KING TIRES, TIRE LINE: TOWMAX, TIRE SIZE: 215/80/R16, AND DOT NUMBER: 83B5GPB. THE CONTACT STATED THAT WHILE DRIVING APPROXIMATELY 65 MPH, THE REAR DRIVER'S SIDE TIRE EXPLODED WHICH CAUSED DAMAGE TO THE PROPANE FUEL LINE AND BRAKE LINE. IN ADDITION, AS A RESULT THE FLOORING ABOVE THE DEFECTIVE TIRE WAS SEVERELY DAMAGED. THE VEHICLE WAS MANEUVERED TO THE SIDE OF THE ROAD. THE DAMAGED TIRE WAS REPLACED WITH A SPARE. THE CONTACT PLANNED TO REPLACE THE FOUR TIRES ON THE VEHICLE. THE MANUFACTURER WAS NOT NOTIFIED OF THE FAILURE. THE APPROXIMATE FAILURE MILEAGE OF THE TIRE AND VEHICLE WAS 15,000. THE VIN WAS NOT AVAILABLE.",
+        "vin": ""
+    },
+    {
+        "components": "ELECTRICAL SYSTEM,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "10/22/2015",
+        "dateOfIncident": "10/19/2015",
+        "fire": false,
+        "manufacturer": "Heartland Recreational Vehicles, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10785352,
+        "products": [
+            {
+                "manufacturer": "Heartland Recreational Vehicles, LLC",
+                "productMake": "HEARTLAND",
+                "productModel": "BIG HORN",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2013 HEARTLAND BIG HORN EQUIPPED WITH A FRIGIDAIRE, MODEL NUMBER: CFMV152CLBA MICROWAVE AND SERIAL NUMBER: KG25001782. THE CONTACT STATED THAT THE MICROWAVE INDEPENDENTLY ACTIVATED. THE VEHICLE AND MICROWAVE WERE NOT DIAGNOSED OR REPAIRED. THE MANUFACTURER WAS NOTIFIED OF THE FAILURE. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 14V128000 (EQUIPMENT), BUT THE VIN WAS NOT INCLUDED. THE FAILURE MILEAGE WAS 14,000.",
+        "vin": "5SFBG3423DE"
+    }
+]

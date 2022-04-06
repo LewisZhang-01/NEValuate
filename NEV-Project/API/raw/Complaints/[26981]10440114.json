@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "12/15/2011",
+        "dateOfIncident": "12/15/2011",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10440114,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "CAMRY",
+                "productYear": "2007",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SEAT BELT FAILURE!!! GOT IN THE CAR AND TRIED TO PUT ON SEAT BELT AND IT WILL NOT RETRACT FAR ENOUGH TO CONNECT. *TR",
+        "vin": "4T1BE46K67U"
+    }
+]

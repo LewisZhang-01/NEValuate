@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "10/12/2006",
+        "dateOfIncident": "10/01/2006",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10172214,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "1997",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "CONSUMER RECEIVED A RECALL ON BRIDGESTONE FIRESTONE TIRES. CONSUMER HAS A TIRE BLOWOUT PRIOR TO RECEIVING THIS RECALL.  *TS  THE CONSUMER FEELS HE SHOULD HAVE BEEN ALERTED ABOUT THE FAULTY TIRES LONG BEFORE NOW.  *NM",
+        "vin": "1FMDU34E3VZ"
+    }
+]

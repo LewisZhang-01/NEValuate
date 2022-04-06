@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "02/06/2003",
+        "dateOfIncident": "10/02/2000",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10006682,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "REGAL",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER HAS 1/8 INCH OF \"PLAY\" IN STEERING WHEEL WHERE THERE IS NO VEHICLE CONTROL. DEALER HAS BEEN UNABLE TO DETERMINE CAUSE OF BOTH PROBLEMS.                   PH",
+        "vin": "2G4WB52K4Y1"
+    }
+]

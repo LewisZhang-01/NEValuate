@@ -1,0 +1,24 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "06/17/2003",
+        "dateOfIncident": "04/23/2003",
+        "fire": true,
+        "manufacturer": "INTERNATIONAL TRUCK & ENGINE CORPORATION",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10024675,
+        "products": [
+            {
+                "manufacturer": "INTERNATIONAL TRUCK & ENGINE CORPORATION",
+                "productMake": "INTERNATIONAL HARVESTER",
+                "productModel": "4900",
+                "productYear": "1991",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE FIRE.  NAR 06/18/2003. *MR  CAUSE OF VEHICLE FIRE WAS NOT DETERMINED.   *CB",
+        "vin": "9999"
+    }
+]

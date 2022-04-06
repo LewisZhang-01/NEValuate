@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "05/23/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020478,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "DAKOTA",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE POWER SEAT ADJUSTMENTS ON THE DRIVER SIDE STOPPED WORKING IN 04/2003.  THE SEAT WAS ALSO UNSTABLE.  THE VEHICLE WAS TAKEN TO THE DEALER.  THE SERIAL NUMBER FOR THE PART IS 5012532-AA.  *NLM",
+        "vin": "1B7GG22N3YS"
+    }
+]

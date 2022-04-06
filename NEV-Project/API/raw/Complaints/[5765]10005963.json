@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "01/30/2003",
+        "dateOfIncident": "01/30/2003",
+        "fire": false,
+        "manufacturer": "Mazda Motor Corp.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005963,
+        "products": [
+            {
+                "manufacturer": "Mazda Motor Corp.",
+                "productMake": "MAZDA",
+                "productModel": "626",
+                "productYear": "1990",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE FRONT PASSENGER DOOR HANDLE/LOCK WAS DEFECTIVE.  THIS CAUSED THE DOOR TO OPEN (EVEN IF LOCK) WHEN THE PASSENGER ROLLED THE WINDOW DOWN.  THIS PROBLEM WAS REPAIRED ONCE UNDER RECALL (93V-174000).  MAZDA STATED THAT SINCE THEY REPAIRED IT ONCE THEY ARE NOT LEGALLY OBLIGATED TO REPAIR IT AGAIN.  *TS   *NLM",
+        "vin": "JM1GD2229L1"
+    }
+]

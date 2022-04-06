@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "06/12/1995",
+        "dateOfIncident": null,
+        "fire": true,
+        "manufacturer": "INTERNATIONAL TRUCK & ENGINE CORPORATION",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 966697,
+        "products": [
+            {
+                "manufacturer": "INTERNATIONAL TRUCK & ENGINE CORPORATION",
+                "productMake": "INTERNATIONAL HARVESTER",
+                "productModel": "4700",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TRUCK CAUGHT FIRE ON PASSENGER SIDE. OWNER IS AWARE OF OTHERS WITH SAME RESULT OF FIRE. PLEASE DESCRIBE DETAILS.  TT",
+        "vin": "1HTSCPHM9RH"
+    }
+]

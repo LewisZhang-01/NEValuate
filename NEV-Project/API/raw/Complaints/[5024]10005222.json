@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "02/03/2003",
+        "dateOfIncident": "01/26/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005222,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TAURUS",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "AFFINITY",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "ONE OF MY OEM TIRES (FIRESTONE AFFINITY) SUDDENLY FAILED WITHOUT WARNING.  THERE WAS NO ROAD HAZARD DAMAGE SUCH AS NAILS OR SCREWS INVOLVED.  THE TIRE'S OUTSIDE  SIDEWALL FAILED RESULTING IN A SPLIT LARGE ENOUGH THAT A CREDIT CARD COULD SLIDE THROUGH IT.  THE OEM TIRES HAD LESS THAN 18,000 MILES AT THE TIME OF FAILURE.  THE PRESSURE HAD BEEN CHECKED DURING A ROUTINE SERVICE VISIT ON ALL OF THE TIRES ONE MONTH PRIOR TO THIS.  AFTER TAKING THE TIRE TO A CORPORATE FIRESTONE STORE, THEY BLAMED THE FAILURE AS \"IMPACT DAMAGE\".  BASICALLY THEY SAID IT WAS MY FAULT FOR HITTING SOMETHING AND NOT DUE TO A PROBLEM WITH THE TIRE.  IF I HAD ACTUALLY HIT SOMETHING, THEN I COULD ACCEPT THE PROBLEM.  BUT SINCE I DID NOT HIT ANYTHING WHEN THE TIRE FAILED, I AM NOW CONCERNED ABOUT THE OTHER OEM FIRESTONE AFFINITY TIRES ON MY 2001 FORD TAURUS.  THERE WERE FOUR PASSENGERS IN MY CAR AT THE TIME THIS TIRE FAILED AND ALL WOULD REITTERATE THE FACT THAT NOTHING IN THE ROADWAY WAS STRUCK TO CAUSE THE SIDEWALL FAILURE.  I WAS ONLY TRAVELING LESS THAN 20 MPH WHEN THE TIRE FAILED AS I APPROACED A STOP LIGHT.",
+        "vin": "1FAFP56S01A"
+    }
+]

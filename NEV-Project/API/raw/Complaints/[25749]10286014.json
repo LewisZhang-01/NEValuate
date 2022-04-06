@@ -1,0 +1,24 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "10/01/2009",
+        "dateOfIncident": "09/10/2009",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10286014,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "AUDI",
+                "productModel": "A3",
+                "productYear": "2008",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "PREMATURE WEAR OF TIRES AND EXCESSIVE NOISE FROM TIRES WHEN VEHICLE IS MOVING. *TR",
+        "vin": "WAUNF98P88A"
+    }
+]

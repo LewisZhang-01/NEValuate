@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "05/23/2005",
+        "dateOfIncident": "09/20/2004",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10119114,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "S10",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE THE VEHICLE WAS PARKED, THE DRIVER NOTICED FLUID LEAKING FROM UNDERNEATH THE VEHICLE.  IT WAS TAKEN TO A GARAGE FOR INSPECTION, AND THE MECHANIC DETERMINED THAT THE FUEL TANK NEEDED TO BE REPLACED.   *AK   THE PROBLEM WAS CAUSED BY MOISTURE COLLECTING IN THE PROTECTIVE SHROUD UNDER THE FUEL TANK.   *SC  *JB",
+        "vin": "1GCCS1943S8"
+    }
+]

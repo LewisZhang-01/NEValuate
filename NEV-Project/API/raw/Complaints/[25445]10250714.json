@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "12/04/2008",
+        "dateOfIncident": "11/07/2008",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10250714,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "MALIBU",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "POWER STEERING FAILURE ON 2004 CHEVY MALIBU.  WHEN BACKING OUT OF PARKING SPACE, POWER STEERING FAILED.  SINCE THEN, STEERING HAS INTERMITTENTLY FAILED, SOMETIMES RESULTING IN VIOLENT SHAKING OF STEERING WHEEL.  *TR",
+        "vin": "1G1ZT53816F"
+    }
+]

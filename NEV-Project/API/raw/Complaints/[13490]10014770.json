@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "03/31/2003",
+        "dateOfIncident": "11/20/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10014770,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "THUNDERBIRD",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE SUN VISORS COULD NOT BE TILTED TOWARD THE DRIVER OR PASSENGER WINDOWS.   THE DEALER AND MANUFACTURER WERE CONTACTED BUT THERE HAS BEEN NO RESPONSE.    *JB   *NLM",
+        "vin": "1FAHP60A52Y"
+    }
+]

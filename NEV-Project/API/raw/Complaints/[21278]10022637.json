@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "06/09/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022637,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "AVALON",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE'S KEY GETS INTERMITTENTLY STUCK IN THE IGNITION AND WILL NOT TURN.  RELATED RECALL 98E035000, BUT CONSUMER'S VEHICLE NOT INCLUDED DUE TO VIN. *AK",
+        "vin": "4T1BF18B2W4"
+    }
+]

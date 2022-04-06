@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "01/06/2003",
+        "dateOfIncident": "01/06/2002",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000750,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "PASSAT",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "COILPACK FAILURE IN VOLKSWAGEN 2.8 LITER V6 AND 1.8 LITER INLINE FOUR CYLINDER ENGINES",
+        "vin": ""
+    }
+]

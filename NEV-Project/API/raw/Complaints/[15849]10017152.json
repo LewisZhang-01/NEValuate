@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "04/18/2003",
+        "dateOfIncident": "05/17/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017152,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Bridgestone Americas Tire Operations",
+                "productMake": "FIRESTONE",
+                "productModel": "WILDERNESS AT",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE CONSUMER RECEIVED A NOTICE FROM FORD 10/01 ABOUT A DEFECT WITH THE FIRESTONE WILDERNESS AT TIRES.  THE DEALER SAID THE TIRE PROGRAM HAD BEEN DISCONTINUED (MANUFACTURER RECALL # 0NP01B77; NHTSA CAMPAIGN # 01X001000).   *NLM *TS",
+        "vin": "1FTYR14U81P"
+    }
+]

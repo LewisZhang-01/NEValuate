@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "09/27/2017",
+        "dateOfIncident": "08/02/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11030114,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LAND ROVER",
+                "productModel": "RANGE ROVER SPORT",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE STEERING COLUMN WILL NOT LOCK. KEY WILL NOT START VEHICLE DUE TO ELECTRICAL PROBLEM IN THE STEERING COLUMN.  THIS IS A VERY COMMON AND EXPENSIVE PROBLEM WITH RANGE ROVERS AND THE DEALER KNOWS IT. REPAIR IS $7,000.00 PLUS +",
+        "vin": "SALME15416A"
+    }
+]

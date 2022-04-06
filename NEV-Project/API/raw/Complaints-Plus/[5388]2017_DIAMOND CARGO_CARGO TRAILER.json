@@ -1,0 +1,31 @@
+[
+    {
+        "components": "EQUIPMENT,SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "12/27/2016",
+        "dateOfIncident": "11/30/2016",
+        "fire": false,
+        "manufacturer": "Diamond Cargo",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10937541,
+        "products": [
+            {
+                "manufacturer": "Diamond Cargo",
+                "productMake": "DIAMOND CARGO",
+                "productModel": "CARGO TRAILER",
+                "productYear": "2017",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "New Flyer of America, Inc.",
+                "productMake": "TOW ADAPTER KIT",
+                "productModel": "212795",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "FAILED EMERGENCY BRAKE SYSTEM ON DIAMOND CARGO TRAILER MAKE:2017/DCRG  SIZE: 8.5X20' DOUBLE 5200 LBS AXELS. VIN# [XXX]  PURCHASED IN GEORGIA AND TOOK IT ON THE ROAD TO BOSTON,MA.ON NOVEMBER 30TH, 2016.  BRAKE AWAY PIN REMOVED AND VEHICLE BRAKE DOES NOT ENGAGE THE MAGNETS TO HOLD ON THE DRUMS. DROVE 1300 MILES WITH A WMD ON THE ROAD AND PUT MY SELVES AND OTHERS IN DANGER!   *TR",
+        "vin": "53NBE2029H1"
+    }
+]

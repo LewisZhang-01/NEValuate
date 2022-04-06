@@ -1,0 +1,31 @@
+[
+    {
+        "components": "CHILD SEAT",
+        "crash": false,
+        "dateComplaintFiled": "08/01/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "UNKNOWN MANUFACTURER",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022760,
+        "products": [
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN1",
+                "productYear": "9999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "COSCO, INC.",
+                "productMake": "COSCO",
+                "productModel": "COSCO 13-168",
+                "productYear": "9999",
+                "type": "Child Seat"
+            }
+        ],
+        "summary": "COSCO MODEL # 02-114 CWL, DOM 10/ 05/2002.  THE CHILD SEAT WAS INSTALLED IN THE VEHICLE WITH THE CHILD IN IT, AND THE LEFT SIDE OF THE BASE HAD BROKEN OFF FROM THE CONNECTION TO THE BASE.   *AK   *SCC   *JB",
+        "vin": "9999"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VEHICLE SPEED CONTROL,ENGINE,FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "01/05/2019",
+        "dateOfIncident": "12/26/2018",
+        "fire": false,
+        "manufacturer": "Porsche Cars North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11165314,
+        "products": [
+            {
+                "manufacturer": "Porsche Cars North America, Inc.",
+                "productMake": "PORSCHE",
+                "productModel": "CAYENNE S HYBRID",
+                "productYear": "2012",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THIS VEHICLE SUFFERS UNKNOWN HYBRID SYSTEM FAILURE. IT CAUSED THE VEHICLE TO LOSE POWER ABRUPTLY WHILE IN MOTION ON THE HIGHWAY OR ON A CITY STREET WITHOUT ANY PRIOR WARNING. THE VEHICLE COULD NOT TRAVEL MORE THAN 20 MILES ON AUTOMATIC; UNLESS IT IS SWITCHED TO MANUAL SHIFT GEAR. THIS VEHICLE HAD SUBMITTED TO THE DEALER FOR DIAGNOSIS AND CONCLUSION WAS MADE AS THIS WAS CAUSED BY THE BATTERY FAILURE.  HOWEVER, WITHIN THREE WEEKS AFTER REPAIR; THE HYBRID SYSTEM FAILED AGAIN. THE TECHNICIAN THEN RE-DETERMINED THE CAUSE AS A) FAULTY HIGH POWER VOLTAGE LINE AND COMPRESSOR, AND B) REPLACE HIGH VOLTAGE LINE AND COMPRESSOR.",
+        "vin": "WP1AE2A2XCL"
+    }
+]

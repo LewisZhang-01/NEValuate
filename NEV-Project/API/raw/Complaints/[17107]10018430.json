@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": true,
+        "dateComplaintFiled": "05/08/2003",
+        "dateOfIncident": "05/06/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018430,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "JIMMY",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "EXPERIENCED LEFT UPPER BALL JOINT SEPARATION (FAILURE) WHILE MOVING RESULTING IN LOSS OF CONTROL, DAMAGE, DISABLEMENT. FAILURE IS IDENTICAL TO THAT DESCRIBED IN NHTSA RECALL # 01V200000, AND, ALSO GM BULLETIN 01048A. HOWEVER, VEHICLE VIN # IS NOT WITHIN THE BREAKPOINTS SPECIFIED BY 01048A BULLETIN AND MANUFACTURER REFUSES TO CORRECT.   *NLM",
+        "vin": "1GKDT13W6V2"
+    }
+]

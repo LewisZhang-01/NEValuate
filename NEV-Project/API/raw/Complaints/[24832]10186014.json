@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "03/23/2007",
+        "dateOfIncident": "02/17/2006",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10186014,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "E-150",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "GAS SPILLED OUT OF THE ORIGINAL FUEL TANK WHILE FILLING UP ON FLAT GROUND.  DEALER SAID THE TANK HAD RUBBED ON A CROSS MEMBER AND HAD A HOLE IN THE TANK.*AK",
+        "vin": "1FDEE14L7VH"
+    }
+]

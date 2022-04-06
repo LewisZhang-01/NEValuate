@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "05/22/2003",
+        "dateOfIncident": "05/17/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019140,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERCURY",
+                "productModel": "MYSTIQUE",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DEFROST VENT POPPED OUT AND DASH IS LIFTING UP OBSTRUCTING BOTTOM PORTION OF DRIVER'S VIEW.  *NLM",
+        "vin": "1MEFM66L4YK"
+    }
+]

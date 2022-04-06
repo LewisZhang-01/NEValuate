@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "04/07/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015349,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TAURUS",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE SEAT BELT DID NOT RETRACT PROPERLY. THE DEALER WAS NOTIFIED.*NLM   THE SEAT BELT AND RETRACTOR WAS REPLACED ON APRIL 19, 2001, HOWEVER IT FAILED, AT 59986 THE SEAT BELT AND RETRACTOR FAILED AGAIN. THE DEALER INFORMED CONSUMER THE RETRACTOR COULD BREAK EASILY IF THE SEAT BELT WAS PULLED TOO FAST.   *JB",
+        "vin": "1FAFP58S8XA"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "01/20/2003",
+        "dateOfIncident": "01/14/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10002982,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "SUNFIRE",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "HAD A FRONTAL COLLISION, MY ENTIRE FRONT END WAS EFFECTED BY THE HIT NEITHER AIR BAG DEPLOYED NOR DID MY SEAT BELT KEEP ME AGAINST THE SEAT.",
+        "vin": ""
+    }
+]

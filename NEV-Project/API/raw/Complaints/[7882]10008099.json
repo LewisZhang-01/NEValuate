@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "02/25/2003",
+        "dateOfIncident": "05/19/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10008099,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "BLAZER",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TRANSMISSION TUBE AND DIP STICK WERE RUSTED AND SEDIMENT WAS IN THE TRANSMISSION FLUID. TRANSMISSION JERKS SWITCHING FROM FIRST TO SECOND GEAR. NOTICEABLE SLIPPING BETWEEN SHIFTING WHILE DRIVING 45-55 MPH. *JB",
+        "vin": "1GNCS18W8VK"
+    }
+]

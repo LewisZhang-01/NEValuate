@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "05/14/2003",
+        "dateOfIncident": "01/14/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018689,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPEDITION",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "GENERAL TIRE & RUBBER CO.",
+                "productMake": "GENERAL",
+                "productModel": "GENERAL",
+                "productYear": "1967",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "CONTINENTAL TIRE COMPANY FAILURE TO REIMBURSE PAYMENT ON RECALLED TIRES FROM A 2000 FORD EXPEDITION.   *NLM",
+        "vin": "1FMRU17LXYL"
+    }
+]

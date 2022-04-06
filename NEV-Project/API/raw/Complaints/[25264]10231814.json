@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/24/2008",
+        "dateOfIncident": "03/28/2006",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10231814,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "9999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Bridgestone Americas Tire Operations",
+                "productMake": "BRIDGESTONE",
+                "productModel": "BRIDGESTONE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "BRIDGESTONE FIRESTONE TIRES RECALL. CONSUMER STATES THAT HE REPLACED THE TIRES BEFORE HE RECEIVED THE RECALL NOTICE AND WANTS  TO BE REIMBURSED FOR THE RECALL TIRES.  *NJ  BRIDGESTONE/FIRESTONE INFORMED THE CONSUMER THEY DID NOT HAVE TO HONOR HIS REQUEST BECAUSE HE REPLACED THE TIRES BEFORE THE RECALL WAS ISSUED. *JB",
+        "vin": ""
+    }
+]

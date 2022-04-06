@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "04/22/2003",
+        "dateOfIncident": "04/22/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10016322,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SONOMA",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WINDSHIELD WIPERS STOP WORKING.  THEY WILL SOMETIMES START WORKING AGAIN IF YOU JIGGLE THE CONNECTOR WIRE TO THE WIPER MOTOR.  THE 1995 AND NEWER MODELS HAVE A RECALL FOR THIS PROBLEM, BUT IT DOES NOT EXTEND TO THE 94 YEAR.   *NLM",
+        "vin": "1GTCS19W9R8"
+    }
+]

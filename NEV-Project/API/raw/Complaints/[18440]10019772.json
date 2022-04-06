@@ -1,0 +1,32 @@
+[
+    {
+        "components": "AIR BAGS,TIRES",
+        "crash": false,
+        "dateComplaintFiled": "07/10/2003",
+        "dateOfIncident": "05/10/2003",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10019772,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "325I",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Continental Tire the Americas, LLC",
+                "productMake": "CONTINENTAL",
+                "productModel": "CONTINENTAL",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHILE DRIVING 60 MPH THE DRIVER DOOR SIDE AIR BAG UNEXPECTEDLY DEPLOYED.  *NLM   THE CONSUME R NOTICED THE PASSENGER SIDE TIRES HAD A SMALL ORANGE SIZE BUBBLE IN EACH TIRE.  (THE CONSUMER DIDN'T HIT ANYTHING AND THERE WAS NOTHING IN THE ROAD)   *SCC  AS A RESULT OF THE UNEXPECTED AIR BAG DEPLOYMENT, THE CONSUMER SUFFERED HEARING LOSS.   *JB",
+        "vin": "WBAAV83451F"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": true,
+        "dateComplaintFiled": "12/27/2002",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001555,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "PASSAT",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE WAS IN A FRONTAL COLLISION, AND THE PRESSURE OF THE DRIVER IMPACTING THE CONSOLE, CAUSED THE CONSOLE TO TWIST AND ACTIVATE THE SEAT BELT RELEASE BOTTOM. THIS RESULTED IN THE DRIVER BEING THROWN FROM THERE SEAT, WHICH CAUSE THEM TO HAVE HEAD INJURIES. PLEASE PROVIDE MORE DETAILS. TS",
+        "vin": "WVWMA23B9YP"
+    }
+]

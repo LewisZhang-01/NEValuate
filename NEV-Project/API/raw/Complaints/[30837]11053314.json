@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,SEATS",
+        "crash": false,
+        "dateComplaintFiled": "12/07/2017",
+        "dateOfIncident": "11/10/2017",
+        "fire": true,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11053314,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "DAKOTA",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SEAT HEATER MALFUNCTION, CAUSING SMALL FIRE AND HOLE MELTED INTO THE SEAT.",
+        "vin": "1D7HW28N85S"
+    }
+]

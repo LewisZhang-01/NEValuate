@@ -1,0 +1,68 @@
+[
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "04/10/2019",
+        "dateOfIncident": "12/29/2018",
+        "fire": false,
+        "manufacturer": "Ferrari North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11195454,
+        "products": [
+            {
+                "manufacturer": "Ferrari North America, Inc.",
+                "productMake": "FERRARI",
+                "productModel": "458 ITALIA",
+                "productYear": "2010",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "A FEW OCCURRENCES OF APPLYING THE BRAKE, BUT THE BRAKE PEDAL BARELY MOVES FURTHER (HARD BRAKE FEEL) BUT THE CAR DOES NOT SLOW DOWN.  HAS OCCURRED GOING FORWARD AT SLOW SPEEDS.  HOWEVER NEXT BRAKE APPLICATION IS NORMAL.  PERHAPS ISSUE WITH BRAKE BOOST?",
+        "vin": "ZFF67NFA0A0"
+    },
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "01/16/2019",
+        "dateOfIncident": "11/25/2018",
+        "fire": false,
+        "manufacturer": "Ferrari North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11170450,
+        "products": [
+            {
+                "manufacturer": "Ferrari North America, Inc.",
+                "productMake": "FERRARI",
+                "productModel": "458 ITALIA",
+                "productYear": "2010",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CAR IN MOTION AT 40 MPH. PASSENGER-SIDE AIRBAG SELF-DEPLOYED FOR NO REASON. NO IMPACT, NO ACCIDENT, NOTHING.",
+        "vin": "ZFF67NFA2A0"
+    },
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "09/25/2017",
+        "dateOfIncident": "05/23/2016",
+        "fire": false,
+        "manufacturer": "Ferrari North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11025315,
+        "products": [
+            {
+                "manufacturer": "Ferrari North America, Inc.",
+                "productMake": "FERRARI",
+                "productModel": "458 ITALIA",
+                "productYear": "2010",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* TAKATA RECALL. THE CONTACT OWNS A 2010 FERRARI 458 ITALIA. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 16V341000 (AIR BAGS). THE PARTS TO DO THE REPAIR WERE UNAVAILABLE. THE CONTACT STATED THAT THE MANUFACTURER EXCEEDED A REASONABLE AMOUNT OF TIME FOR THE RECALL REPAIR. THE CONTACT CALLED RON TONKIN GRAN TURISMO (25300 SW PARKWAY AVE, WILSONVILLE, OR 97070 (855) 389-7907) WHERE IT WAS CONFIRMED THAT THE PARTS WERE NOT AVAILABLE FOR THE RECALL REMEDY. THE MANUFACTURER WAS NOTIFIED OF THE ISSUE AND WAS NOT ABLE TO CONFIRM WHEN THE PARTS WERE TO BECOME AVAILABLE. THE CONTACT WAS ADVISED TO CALL A DEALER. THE CONTACT HAD NOT EXPERIENCED A FAILURE. VIN TOOL CONFIRMS PARTS NOT AVAILABLE/PARTS DISTRIBUTION DISCONNECT.",
+        "vin": "ZFF67NFAXA0"
+    }
+]

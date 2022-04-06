@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "05/07/2003",
+        "dateOfIncident": "08/15/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018390,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERCURY",
+                "productModel": "VILLAGER",
+                "productYear": "1995",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE STEEL PROD. CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "FIRESTONE",
+                "productYear": "2003",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "FIRESTONE TIRE MODEL FR575 215/70R15 DOT NO. HYM3R5A427 TREAD SEPARATION. TREAD SEPARATED FROM TIRE WHILE ON I-10 IN HOUSTON, TX. TIRE CONTINUED TO HOLD AIR PRESSURE BUT TREAD DAMAGED REAR AREA OF VEHICLE. FIRESTONE CLAIM LACK OF MAINTENANCE WHICH IS NOT THE CASE. *JB",
+        "vin": ""
+    }
+]

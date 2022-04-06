@@ -1,0 +1,24 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "09/20/2016",
+        "dateOfIncident": "09/20/2016",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10908314,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "RAV4",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SLOWING DOWN AT AN INTERSECTION AND BRAKES START TO FAIL WHEN I'M ALMOST FULLY STOPPED AND THEN THE CAR CONTINUES TO MOVE FORWARD WHEN GOING LESS THAN 5MPH",
+        "vin": "JTMBD33V966"
+    }
+]

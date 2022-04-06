@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "03/14/2009",
+        "dateOfIncident": "03/14/2009",
+        "fire": false,
+        "manufacturer": "Land Rover",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10261814,
+        "products": [
+            {
+                "manufacturer": "Land Rover",
+                "productMake": "LAND ROVER",
+                "productModel": "RANGE ROVER SPORT",
+                "productYear": "2008",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Continental Tire the Americas, LLC",
+                "productMake": "CONTINENTAL TIRE NORTH AM",
+                "productModel": "CONTISPORTCONTACT *",
+                "productYear": "9999",
+                "size": "235/45 R 17",
+                "type": "Tire"
+            }
+        ],
+        "summary": "I HAVE A 2008 LAND ROVER RANGE ROVER SPORT SC WITH  CONTINENTAL SPORTCONTACT TIRES 275/40ZR. I HAVE HAD THREE SIDEWALL  FAILURES IN THREE MONTHS. THE LATEST WAS DRIVING AT 25 MPH FOR A DISTANCE UNDER ONE MILE TWO TIRES DISINTEGRATED. ONE SIDEWALL FAILED COMPLETELY AND THE SECOND COLLAPSED AND IS ALSO DESTROYED. *TR",
+        "vin": "SALSH23498A"
+    }
+]

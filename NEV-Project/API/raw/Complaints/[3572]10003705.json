@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": true,
+        "dateComplaintFiled": "01/14/2003",
+        "dateOfIncident": "12/31/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 2,
+        "odiNumber": 10003705,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "IMPALA",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN TRYING TO APPLY ANTI LOCK BRAKES BRAKES  LOCKED UP, CAUSING VEHICLE TO SKID, RESULTING IN A COLLISION/INJURIES.  DEALER NOTIFIED. TS...*AK",
+        "vin": ""
+    }
+]

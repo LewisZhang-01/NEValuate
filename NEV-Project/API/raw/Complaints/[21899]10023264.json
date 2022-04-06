@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "06/17/2003",
+        "dateOfIncident": "06/01/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10023264,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "IMPALA",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AIR BAG WARNING LIGHT COMES ON WHEN TURNING TO THE RIGHT AND STAYS ON.  DRIVER'S SIDE AIR BAG, AND RELATED WIRING AND COMPUTER COMPONENTS HAVE TO BE REPLACED.  *JB",
+        "vin": "2G1WH55K529"
+    }
+]

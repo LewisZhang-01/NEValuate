@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN,VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "06/17/2003",
+        "dateOfIncident": "06/17/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10024266,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TAURUS",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE PUMP THAT IS ATTACHED TO THE TRANSMISSION IS ALUMINUM  AND IS CAUSING THE PART TO FAIL AND OVERHEAT.  WHILE THE VEHICLE IS IN DRIVE IT WILL NOT MOVE AT ALL AND WILL ACCELERATE WITHOUT PRIOR WARNING.*AK",
+        "vin": "1FALP52U3VA"
+    }
+]

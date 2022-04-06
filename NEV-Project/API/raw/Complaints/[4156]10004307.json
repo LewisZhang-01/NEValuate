@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "01/21/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004307,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "TRACKER",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE BLOWER WAS NOT ADEQUATE TO FULLY DEFROST THE WINDSHIELD.  THE DEFROSTER VENTS WERE AT AN ANGLE AND THE CONSUMER FELT THAT THEY VENTS WERE POORLY POSITIONED.    *PH   *NLM",
+        "vin": "2CNBJ13C916"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "PARKING BRAKE",
+        "crash": false,
+        "dateComplaintFiled": "05/19/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020044,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE EMERGENCY BRAKE RELEASED WHICH ALLOWED THE TRANSMISSION TO ENGAGE ABRUPTLY WITH FORCE.  A RECALL WAS ISSUED REGARDING THE PROBLEM, HOWEVER IT WAS ONLY FOR JEEPS WITH A MANUAL TRANSMISSION.  NHTSA RECALL CAMPAIGN 02V041000 PARKING BRAKE.  *JB",
+        "vin": "1J4FY29S0PP"
+    }
+]

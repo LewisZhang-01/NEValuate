@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/09/2003",
+        "dateOfIncident": "07/24/2002",
+        "fire": false,
+        "manufacturer": "UNKNOWN MANUFACTURER",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001467,
+        "products": [
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN1",
+                "productYear": "9999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "MARATHON",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHILE PULLING THE 5TH WHEEL TRAILER, CONSUMER EXPERIENCED A RAPID AND COMPLETE TIRE FAILURE FROM THE SECOND AXLES DRIVER SIDE.  CONSUMER PREVIOUSLY CONTACTED THE MANUFACTURER BECAUSE OF THE TRAILER BEING TOO HEAVY FOR THE TIRES.  *JG *JB  *NLM",
+        "vin": "1NW32SP0XRC"
+    }
+]

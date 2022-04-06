@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": true,
+        "dateComplaintFiled": "03/27/2003",
+        "dateOfIncident": "01/01/2000",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10011483,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-550 SD",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE VEHICLE WAS PURCHASED WITH ALL TERRAIN TIRES.  THE VEHICLE HAS BEEN INVOLVED IN TWO TIRE RELATED ACCIDENTS WITHIN A 2 YEAR PERIOD.  THE CONSUMER BELIEVES THE TIRES INSTALLED ARE NOT ALL TERRAIN TIRES.    PH    *NLM",
+        "vin": "1FDAF57F2YE"
+    }
+]

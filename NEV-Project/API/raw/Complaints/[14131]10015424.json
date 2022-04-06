@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "04/08/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015424,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AFTER THE CONSUMER PULLED THE FRONT SEAT BELTS OUT TO LATCH, THE BELTS RUBBED AGAINST THE SEAT ADJUSTER, WHICH CAUSED THE SEAT BELTS TO FRAY.  *JB",
+        "vin": ""
+    }
+]

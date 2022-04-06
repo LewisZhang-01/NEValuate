@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "12/18/2002",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001168,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "ESCORT",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING THE REAR LEAF SPRING BROKE.  CONSUMER STATES DEALER HAS BEEN CONTACTED.  CAUSE IS UNKNOWN.  PLEASE PROVIDE ANY FURTHER INFORMATION. TS",
+        "vin": "3FAFP15P0WR"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "01/24/2003",
+        "dateOfIncident": "01/22/2003",
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003325,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "MUSTANG",
+                "productYear": "1987",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE ALTERNATOR ON MY WIFE'S 1987 MUSTANG GT CAUGHT FIRE, DAMAGING ENGINE COMPARTMENT COMPONETS BEFORE FIRE COULD BE EXTINGUISHED.",
+        "vin": "1FABP45E1HF"
+    }
+]

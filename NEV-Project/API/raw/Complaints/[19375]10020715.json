@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "05/29/2003",
+        "dateOfIncident": "02/25/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020715,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F SUPER DUTY",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "STEELTEX R4S",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "FIRESTONE STEELTEX R4S ON MY 2002 F250 FORD.  AT 4000 MILES ON THE TRUCK, BLISTERED ON THE OUTSIDE AND STARTED COMING APART.  THE DEALER REPLACED THAT TIRE AND ANOTHER HE IDENTIFIED AT NO COST TO ME.  HOWEVER THE FAILURE OF THE TIRE COULD HAVE BEEN CATASROPHIC IF I DIDNT SEE IT.  THIS HAS BEEN A COMMON OCCURANCE WITH OTHER F250 OWNERS AND I WANT TO REPORT IT.  THE DEALER KEPT THE TIRES TO ATTEMPT TO TURN INTO FIRESTONE FOR REPLACEMENT",
+        "vin": ""
+    }
+]

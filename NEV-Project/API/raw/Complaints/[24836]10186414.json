@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "03/28/2007",
+        "dateOfIncident": "03/27/2007",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10186414,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BOTH FRONT COIL SPRINGS BROKE WITHIN 7 DAYS OF EACH OTHER, CAUSING THE CAR TO SAG AND DRIVE ABNORMALLY. *JB",
+        "vin": "1FAFP34381W"
+    }
+]

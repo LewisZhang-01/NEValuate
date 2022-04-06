@@ -1,0 +1,31 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "05/19/2003",
+        "dateOfIncident": "05/18/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018915,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERCURY",
+                "productModel": "COUGAR",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "WAGNER ELEC. BRAKE/CLUTCH",
+                "productMake": "WAGNER",
+                "productModel": "BRAKE/CLUTCH",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "ON OCCASION, THE CAR HAS LOST POWER IN TRAFFIC, WHICH HAS RESULTED IN LOSS OF POWER STEERING AND POWER BRAKE CONTROL.  THE DEALERSHIP HAS DIAGNOSED THE CONDITIONS RESULTING IN POWER LOSS AS A PROBLEM WITH THE FUEL PUMP.  THIS PROBLEM HAS PROGRESSIVELY WORSENED.*JB",
+        "vin": "1ZWFT61L3Y5"
+    }
+]

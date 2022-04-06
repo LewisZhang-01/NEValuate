@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "04/24/2003",
+        "dateOfIncident": "04/03/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10016459,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "COROLLA",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "'AIR BAG' LIGHT FLASHING.  CODE 44 IN MEMORY (RIGHT SIDE AIR BAG CIRCUIT).  INDEPENDENT SERVICE CENTER FOLLOWED FLOW CHART TEST RECOMMENDATIONS.  HIGH RESISTANCE IN HARNESS BETWEEN MODULE AND RIGHT AIR BAG.  HARNESS WAS REPLACED AT A COST OF $529.  OLD HARNESS WAS SAVED IF EVER NEEDED FOR TESTING.   *NLM",
+        "vin": "1NXBR18E6WZ"
+    }
+]

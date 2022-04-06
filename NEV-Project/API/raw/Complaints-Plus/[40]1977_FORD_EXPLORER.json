@@ -1,0 +1,46 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "10/02/2000",
+        "dateOfIncident": "08/01/1999",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 555686,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "1977",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FIRESTONE WILDERNESS AT TIRE, NOT INCLUDED IN RECALL, EXPERIENCED TREAD SEPARATION AND CRACKING.",
+        "vin": ""
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "08/17/2000",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 728249,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "1977",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TIRES DID NOT FAIL BUT AN VIBRATION SURFACED AT 60-65 MPH. TIRES CHECKED NO APPARENT PROBLEMS. WHEN THE NEWS OF THE TIRE FAILURES MADE THE NEWS I CHANGED THE TIRES TO A COOPER TIRE. FEEL FIRESTONE IS RESPONSIBLE FOR REIMBURSEMENT OF TIRES AND THAT RUNNING AT MANUFACTURER 26PSI IS CAUSE OF PROBLEM.( DOT NUMBER:   TIRE SIZE: P255X70R16 )",
+        "vin": ""
+    }
+]

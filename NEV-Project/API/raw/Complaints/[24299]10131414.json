@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "08/03/2005",
+        "dateOfIncident": "07/14/2005",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10131414,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "S10",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "STUCK IN 4X4 HIGH CAN'T CHANGE BACK TO 2X4 OR 4X4 LOW.  *NM",
+        "vin": "1GNDT13W3S2"
+    }
+]

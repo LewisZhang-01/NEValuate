@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "01/13/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003636,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "YUKON",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AFTER REAR-ENDING ANOTHER VEHICLE AT 40MPH AIR BAGS FAILED TO DEPLOY.*JB",
+        "vin": "1GKEK13R2XR"
+    }
+]

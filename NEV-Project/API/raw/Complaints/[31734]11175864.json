@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "02/09/2019",
+        "dateOfIncident": "02/09/2019",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11175864,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "RAM",
+                "productModel": "1500",
+                "productYear": "2012",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "KEY FOB STUCK IN IGNITION, UNABLE TO PUT VEHICLE IN PARK. PARKING BRAKE MUST BE APPLIED TO KEEP VEHICLE FROM ROLLING.",
+        "vin": "1C6RD7LT4CS"
+    }
+]

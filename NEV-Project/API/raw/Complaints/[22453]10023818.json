@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE,SEATS",
+        "crash": false,
+        "dateComplaintFiled": "06/26/2003",
+        "dateOfIncident": "04/04/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10023818,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER SPORT",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVERS SIDE SEAT BACK COLLAPSED AND BROKE WHILE DRIVING AT 55 MPH.  THEREFORE THE SEAT BACK ADJUSTMENT HANDLE NO LONGER WORKS.  ALSO, THE FRAME ATTACHED TO THE FLOOR IS CRACKED NOW.  *AK",
+        "vin": "1FMYU22X9WU"
+    }
+]

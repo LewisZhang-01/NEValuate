@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/11/2007",
+        "dateOfIncident": "01/10/2007",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10178414,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "ESCORT",
+                "productYear": "1996",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "TIRE SEPARATION WITH CHUNKS OF TIRE GONE LEAVING RADIAL BELT EXPOSE.  THIS IS THE SECOND TIRE, SAME COMPANY AND SAME TIRE THAT HAS SEPARATED.  BOTH LEAVING LARGE AREAS OF RADIAL BELT EXPOSED.  HAVE PICTURES.  NO ACCIDENT NO INJURIES, DRIVING IN HEAVY TRAFFIC WHEN BOTH EVIDENTLY SEPARATED BASED ON NOISE AND SHAKING. *JB",
+        "vin": ""
+    }
+]

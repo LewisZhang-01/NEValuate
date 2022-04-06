@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN,EXTERIOR LIGHTING,SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "03/02/2016",
+        "dateOfIncident": "03/01/2016",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10839514,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "RAM 3500",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TAKATA RECALL SITTING IN PARK AND THE TRANSMISSION BUCKED TRIED TO GO FORWARD EVEN AGAINST THE BRAKES",
+        "vin": "1B7MC3365WJ"
+    }
+]

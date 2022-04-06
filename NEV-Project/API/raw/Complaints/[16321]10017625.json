@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": true,
+        "dateComplaintFiled": "04/28/2003",
+        "dateOfIncident": "04/26/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017625,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "1500",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE TRAVELING 50 MPH,  THE CONSUMER'S VEHICLE WAS HIT IN THE REAR BY ANOTHER CAR TRAVELING APPROXIMATELY 70 MPH WHICH CAUSED THE  DRIVER'S SEAT TO COLLAPSE BACKWARD.            *JB",
+        "vin": ""
+    }
+]

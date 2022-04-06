@@ -1,0 +1,68 @@
+[
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "12/20/1999",
+        "dateOfIncident": "11/15/1999",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 716284,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "IMPALA",
+                "productYear": "1983",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ACCELERATOR STICKS, AND SOMETIMES INCREASES SPEED. *AK",
+        "vin": "2G1AL6995D1"
+    },
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "04/20/1996",
+        "dateOfIncident": "02/01/1991",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 503971,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "IMPALA",
+                "productYear": "1983",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SEAT BELTS FAILED 2 TIMES. *SD",
+        "vin": "2G1AL6992D1"
+    },
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "06/30/1995",
+        "dateOfIncident": "06/15/1995",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 485892,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "IMPALA",
+                "productYear": "1983",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "REAR ALUMINUM BUMPER ADAPTER DISINTEGRATED AND FELL OFF ONTO ROAD.   *AK",
+        "vin": "2G1AL69H9D1"
+    }
+]

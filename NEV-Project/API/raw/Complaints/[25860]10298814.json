@@ -1,0 +1,24 @@
+[
+    {
+        "components": "WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "01/09/2010",
+        "dateOfIncident": "07/11/2009",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10298814,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "CAMRY",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ON 2005 CAMRY, BUSHING FAILED AT 65,000 MILES. IT IS SERIOUS ENOUGH FAULT THAT THE MECHANIC AT DEALERS SHOP TOLD ME THAT THE VEHICLE WON'T PASS SAFETY INSPECTION. *TR",
+        "vin": "4T1BE32K85U"
+    }
+]

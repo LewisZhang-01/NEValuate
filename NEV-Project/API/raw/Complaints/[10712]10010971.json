@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "03/24/2003",
+        "dateOfIncident": "01/02/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010971,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ELECTRICAL HARNESS WAS FOUND TO BE DEFECTIVE AT THE PCM CONNECTOR RESULTING IN SPORADIC DYING AND FAILURE TO START PROBLEMS.  THIS PROBLEM EXISTS IN THE VEHICLE TO THIS DAY DESPITE SEVERAL ATTEMPTS TO TIGHTEN THE INDIVIDUAL FEMALE PIN CONNECTORS WITHIN THE PCM CONNECTOR.  EACH ATTEMPT CURES THE PROBLEM FROM WEEKS TO MONTHS, BUT IN THE END IT COMES BACK.  AS A SIDE NOTE, THE AIRBAG INDICATOR LIGHT ILLUMINATED.  IT IS ASSUMED TO BE ALSO DUE TO THIS DEFECTIVE WIRING HARNESS.  THIS IS A DANGEROUS DYING CONDITION AND HAS RESULTED IN SEVERAL NEAR ACCIDENTS.  *JB",
+        "vin": "1FMZU35P7XU"
+    }
+]

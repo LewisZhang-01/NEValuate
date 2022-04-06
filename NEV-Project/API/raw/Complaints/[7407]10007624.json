@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "02/17/2003",
+        "dateOfIncident": "02/01/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10007624,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "IMPALA",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "REPORTED TO THE DEALERSHIIP THAT THER AIR BAG LIGHT DISPLAYS ON AND OFF DURING DRIVING.  THE SERVICE DEPARTMENT RAN IT THROUGH A SCANNING MACHINE AND FOUND THE AIR BAG DEFECTIVE.  THEY SAID IT COULD PREMATURELY DEPLOY DURING DRIVING OR BE DISABLED DURING AN ACCIDENT.  ALL AIR BAGS NEEDED TO BE REPLACED.",
+        "vin": "2G1WH55K0Y9"
+    }
+]

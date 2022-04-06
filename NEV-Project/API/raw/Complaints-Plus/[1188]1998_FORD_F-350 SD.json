@@ -1,0 +1,68 @@
+[
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "12/01/2009",
+        "dateOfIncident": "10/13/2009",
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10294191,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350 SD",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 1998 FORD F-350. TEN MINUTES AFTER THE VEHICLE WAS PARKED, IT CAUGHT FIRE. THE CONTACT WAS UNABLE TO EXTINGUISH THE FIRE. THE FIRE DEPARTMENT WAS NOTIFIED AND STATED THAT THE CAUSE OF THE FIRE WAS UNKNOWN. THREE DAYS AFTER THE FIRE OCCURRED THE CONTACT RECEIVED A RECALL NOTICE FROM THE MANUFACTURER REGARDING THE CRUISE CONTROL WHICH STATED THAT A FIRE COULD OCCUR. THE CONTACT WANTS THE  MANUFACTURER TO BE RESPONSIBLE FOR THE REPAIRS.  THE VEHICLE WAS DESTROYED. THE VIN WAS NOT AVAILABLE. THE CURRENT AND FAILURE MILEAGES WERE 220,000.",
+        "vin": ""
+    },
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "01/28/2008",
+        "dateOfIncident": "10/05/2007",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10216239,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350 SD",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "RECALL.  *CN",
+        "vin": "3FCMF53G9VJ"
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "04/07/2003",
+        "dateOfIncident": "02/28/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015327,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350 SD",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING 75 MPH THE VEHICLE'S LEFT REAR AXLE CAME OFF WITHOUT WARNING. THE DEALER WAS NOTIFIED.   *NLM",
+        "vin": "PLEASE FILL"
+    }
+]

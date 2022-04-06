@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "07/03/2003",
+        "dateOfIncident": "05/08/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019972,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "INTREPID",
+                "productYear": "1999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHILE DRIVING AND WITHOUT WARNING THE VEHICLE'S TIRE WOULD NOT GRIP ON THE WET ROAD.   *NLM   THE INCIDENT HAPPENED WHEN THE ROAD WAS WET AND WHILE THE CONSUMER WAS GOING AROUND A CURVE.  THE VEHICLE ALSO DEVELOPED A VIBRATION IN THE STEERING WHEEL.  THE DEALER WAS UNABLE TO FIX THE VEHICLE AND SUGGESTED THE VEHICLE WAS LIKE THIS WHEN THE IT WAS PURCHASED.   (TIRE MODEL/RADIAL GT)   *SCC   *JB",
+        "vin": "2B3HD46R2XH"
+    }
+]

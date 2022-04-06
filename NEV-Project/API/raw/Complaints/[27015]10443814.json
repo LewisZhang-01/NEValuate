@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "01/14/2012",
+        "dateOfIncident": "01/09/2012",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10443814,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "MUSTANG",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE INSTRUMENT GAUGES ARE NOT WORKING PROPERLY.  THE SPEEDOMETER WILL OFTEN STICK AT 0-20MPH WHILE IT IS WELL OVER THAT.  THE TEMPERATURE GAUGE IS ALSO STUCK ON COLD EVEN WHEN THE CAR HAS BEEN WARMED UP FOR QUITE SOME TIME.  *TR",
+        "vin": ""
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN,ELECTRICAL SYSTEM,EXTERIOR LIGHTING,LATCHES/LOCKS/LINKAGES",
+        "crash": false,
+        "dateComplaintFiled": "06/19/2003",
+        "dateOfIncident": "06/17/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10024407,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE HAS A MAJOR ELECTRICAL PROBLEM.  WHILE DRIVING VEHICLE GAUGES WILL GO \"BESERK\".   DOOR CHIME ACTIVATES, ALL LIGHTS FLICKER ON AND OFF, TRANSMISSION CHANGES GEARS,AND THE VEHICLE STALLS.*AK",
+        "vin": "1FAFP3432YW"
+    }
+]

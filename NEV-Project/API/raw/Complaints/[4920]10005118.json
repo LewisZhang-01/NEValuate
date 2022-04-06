@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "02/02/2003",
+        "dateOfIncident": "02/02/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005118,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN PULLING OUT OF MY DRIVEWAY, MY LOWER TIE ROD ON DRIVER SIDE BROKE. NO PRIOR WARNING COULD BE FELT.     *JB",
+        "vin": "2FTRX07L7XC"
+    }
+]

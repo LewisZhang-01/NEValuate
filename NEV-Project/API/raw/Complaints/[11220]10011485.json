@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": true,
+        "dateComplaintFiled": "03/12/2003",
+        "dateOfIncident": "02/28/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10011485,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "MONTE CARLO",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE ENTIRE VEHICLE UNDER CARRIAGE FAILED, WHICH RESULTED IN THE TIE ROD, AND CONTROL ARM BENDING AT A 25 MPH IMPACT.  *JB",
+        "vin": "2G1WX15K529"
+    }
+]

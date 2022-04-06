@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "07/03/2003",
+        "dateOfIncident": "03/15/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020053,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "CAMRY",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "MICHELIN NORTH AMERICA",
+                "productMake": "MICHELIN",
+                "productModel": "MAXI+",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE TIRES CONTAINED BUBBLES .  IT WAS LATER TAKEN TO THE HUDIBURG TOYOTA.  THEY REMOVED THE TIRE AND PERFORMED AN INSPECTION, THE DEALER STATED THE  DEFECT WAS CAUSED BY ROAD HAZARDS. NEW TIRES WERE PLACED ON THE VEHICLE.   *NLM         *CB   *JB",
+        "vin": ""
+    }
+]

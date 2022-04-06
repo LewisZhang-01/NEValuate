@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "02/02/2003",
+        "dateOfIncident": "01/30/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005142,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "TOWN AND COUNTRY",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FRONT SEAT HEATERS BECOME UNCOMFORTABLY HOT. UNABLE TO SAFELY USE HEATERS, AFRAID OF SEATS CATCHING FIRE. LOCAL DEALER STATES NOTHING THEY CAN DO UNDER WARRANTY EVEN THOUGH THIS IS A $36,000+ VEHICLE WITH AN EXTENDED FACTORY WARRANTY.",
+        "vin": "1C4GT64L6XB"
+    }
+]

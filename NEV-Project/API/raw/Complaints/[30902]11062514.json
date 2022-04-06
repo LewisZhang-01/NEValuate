@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "01/12/2018",
+        "dateOfIncident": "12/28/2017",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11062514,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "MALIBU",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUSE CAUSED LOW VOLTAGE POWER STEERING GOING ON AND OFF WIYHOUT THE STEERING SERVICE LIGHT COMING ON. THE STEERING BECAME LOOSE. HARD TO CONTROL WHEN DRIVING. I COULD NOT GET PART FOR OVER A WEEK.",
+        "vin": "1G11D5RR1DF"
+    }
+]

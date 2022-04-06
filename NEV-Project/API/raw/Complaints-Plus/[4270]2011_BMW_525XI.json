@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES,WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "07/20/2011",
+        "dateOfIncident": "01/02/2011",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10413704,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "525XI",
+                "productYear": "2011",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "EAGLE LS 2 ROF",
+                "productYear": "9999",
+                "size": "275/50R20",
+                "type": "Tire"
+            }
+        ],
+        "summary": "I HAVE HAD 8 BENT RIMS AND HAD TO REPLACE 5 TIRES DUE TO MULTIPLE BUBBLES IN EACH TIRE SINCE I PURCHASED THIS VEHICLE IN OCTOBER OF 2010. I HAVE NEVER HAD THIS EXPERIENCE WITH ANY OTHER CAR I HAVE OWNED.  *KB",
+        "vin": "WBAFU7C5XBC"
+    }
+]

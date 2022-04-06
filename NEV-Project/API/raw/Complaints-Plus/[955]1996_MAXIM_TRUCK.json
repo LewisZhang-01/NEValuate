@@ -1,0 +1,68 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "09/13/1997",
+        "dateOfIncident": "07/01/1996",
+        "fire": false,
+        "manufacturer": "MAXIM TRUCK COMPANY, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 605637,
+        "products": [
+            {
+                "manufacturer": "MAXIM TRUCK COMPANY, INC.",
+                "productMake": "MAXIM",
+                "productModel": "TRUCK",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "REAR DIFFERENTIAL AXLES FAILED.",
+        "vin": "1M9MCC6M155"
+    },
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "09/13/1997",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "MAXIM TRUCK COMPANY, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 605637,
+        "products": [
+            {
+                "manufacturer": "MAXIM TRUCK COMPANY, INC.",
+                "productMake": "MAXIM",
+                "productModel": "TRUCK",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "POOR PERFORMANCE OF THE SUSPENSION SYSTEM.",
+        "vin": "1M9MCC6M155"
+    },
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "09/13/1997",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "MAXIM TRUCK COMPANY, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 605637,
+        "products": [
+            {
+                "manufacturer": "MAXIM TRUCK COMPANY, INC.",
+                "productMake": "MAXIM",
+                "productModel": "TRUCK",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "STEERING WHEEL COMES OFF WHILE DRIVING.",
+        "vin": "1M9MCC6M155"
+    }
+]

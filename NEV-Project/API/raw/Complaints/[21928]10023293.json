@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "06/18/2003",
+        "dateOfIncident": "06/18/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10023293,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPEDITION",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "RECEIVED RECALL NOTICE FOR WINDSHIELD WIPER OPERATING IN OFF POSITION.  TOOK TO DEALER, ITEM CONTINUES TO OPERATOR WHEN IN THE OFF POSITION.  DRY WIPE HAS RESULTED IN DAMAGED WINDSHIELD AND CONTINUOUS DAMAGE OF WIPER BLADES.    *NLM",
+        "vin": ""
+    }
+]

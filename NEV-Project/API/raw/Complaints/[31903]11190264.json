@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,ELECTRICAL SYSTEM,ELECTRONIC STABILITY CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "03/20/2019",
+        "dateOfIncident": "03/16/2019",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11190264,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "POWER STEERING DOWN.  WARNING MASSAGE SAID 'POWER STEERING ASSIST FAULT'  'SERVICE ADVANCE TRAC' 'TERRAIN MANAGEMENT SYSTEM FAULT'. IT IS TOO HARD TO STEER. CONTROL MODULE INTERNAL FAILURE, CODES U3000-49, U3000-96, U3000-71.",
+        "vin": "1FM5K8D80DG"
+    }
+]

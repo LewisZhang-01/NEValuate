@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": true,
+        "dateComplaintFiled": "01/31/2003",
+        "dateOfIncident": "01/28/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005035,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "OLDSMOBILE",
+                "productModel": "OLDSMOBILE",
+                "productYear": "1987",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "KELLY SPRINGFIELD TIRE CO",
+                "productMake": "KELLY SPRINGFIELD",
+                "productModel": "P20575B14",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "SPINOUT WITH KELLY-SPRINGFIELD EXPLORER P205/75R14. MY 1988 OLDS DALTA 88 SPINS IN AS LITTLE AS A HALF INCH OF SNOW. HAD THE CAR FOR 8 YEARS AND IT HAS NEVER DONE THIS BEFORE.",
+        "vin": "1G3HN5433HW"
+    }
+]

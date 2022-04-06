@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "10/21/2010",
+        "dateOfIncident": "06/07/2010",
+        "fire": false,
+        "manufacturer": "Keystone RV Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10361559,
+        "products": [
+            {
+                "manufacturer": "Keystone RV Company",
+                "productMake": "KEYSTONE",
+                "productModel": "MONTANA HIGH COUNTRY",
+                "productYear": "2010",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "MARATHON",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2010 KEYSTONE MONTANA HIGH COUNTRY RV EQUIPPED WITH GOODYEAR MARATHON TIRES, TIRE SIZE ST235/80/16, DOT NUMBER UNKNOWN. THE CONTACT STATED THAT THE REAR PASSENGER TIRE TREAD BELT WAS SEVERELY WARPED. THE REAR DRIVER SIDE TIRE ALSO EXPLODED ON A SEPARATE OCCASION. BOTH TIRES WERE REPLACED. THE CONTACT STATED THAT A TOTAL OF FIVE TIRES WERE REPLACED DUE TO BEING DEFECTIVE. THE CURRENT AND FAILURE MILEAGE WAS UNKNOWN.",
+        "vin": "4YDF3452XA4"
+    }
+]

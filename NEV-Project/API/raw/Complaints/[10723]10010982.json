@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "03/25/2003",
+        "dateOfIncident": "03/25/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010982,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CADILLAC",
+                "productModel": "SEVILLE",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "KNOCKING NOISE IN FRONT END OF 2002 CADILLAC SEVILLE STS.",
+        "vin": "1G6KY54982U"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "11/22/2021",
+        "dateOfIncident": "11/15/2021",
+        "fire": false,
+        "manufacturer": "Keystone RV Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11441293,
+        "products": [
+            {
+                "manufacturer": "Keystone RV Company",
+                "productMake": "KEYSTONE",
+                "productModel": "ALPINE",
+                "productYear": "2017",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Sailun Tire Americas, Inc.",
+                "productMake": "SAILUN",
+                "productModel": "S637",
+                "productYear": "9999",
+                "size": "ST 235/80R/16",
+                "type": "Tire"
+            }
+        ],
+        "summary": "The contact owns a 2017 Keystone RV equipped with Sailun S637 Tires  Size: ST235/80/R16, DOT, Number: 1YJ276PLY. The contact stated that while pulling in to rest for the night, he noticed that the front passenger\u2019s side tire tread had detached from the tire and was flapping around, causing additional damage to the body of the RV. The contact had not taken the vehicle to the dealer. The manufacturer was not made aware of the issue. The approximate failure mileage for the RV was 8,000 and for the replacement tire was 5,000.",
+        "vin": "4ydf30523ha"
+    }
+]

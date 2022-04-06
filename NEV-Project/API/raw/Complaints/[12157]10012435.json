@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS,SEAT BELTS",
+        "crash": true,
+        "dateComplaintFiled": "10/12/2003",
+        "dateOfIncident": "03/22/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10012435,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE WAS INVOLVED IN A FRONTAL COLLISION, AND THE AIR BAGS FAILED TO DEPLOY, THE DRIVER WAS INJURED.   *JB     PRIOR TO IMPACT THE CONSUMER ATTEMPTED TO AVOID THE ACCIDENT.  THE DRIVERS BODY WAS TOSSED TO THE LEFT ONTO THE DOOR AND THE SEAT BELT BECAME UNLATCHED.  AS A RESULT THE CONSUMER WAS NOT PROPERLY RESTRAINED AND HIT THE WINDSHIELD.  *SCC   *NLM",
+        "vin": ""
+    }
+]

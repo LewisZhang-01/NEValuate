@@ -1,0 +1,46 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "01/12/2022",
+        "dateOfIncident": "02/15/2021",
+        "fire": false,
+        "manufacturer": "Keystone RV Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11447187,
+        "products": [
+            {
+                "manufacturer": "Keystone RV Company",
+                "productMake": "KEYSTONE",
+                "productModel": "FUZION",
+                "productYear": "2021",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact owns a 2021 Keystone Fusion RV. The contact stated that he noticed that the external sidewall had a crack that had originated from the front slide. The RV was taken to a dealer who diagnosed the failure as a normal crack and installed silicone in the crack. The contact stated that as the crack had significantly expanded, the vehicle was taken to a second dealer; Campers Inn RV of Raleigh (1501 Outlet Center Dr, Selma, NC 27576) who was advised as the first dealer. The dealer patched the crack, but the failure persisted. The contact stated that the crack had significantly expanded. The RV was taken to a third dealer; Northgate RV Center-Ringold (442 Candy Ln, Ringgold, GA 30736) and the RV was diagnosed with a fractured frame. The manufacturer was notified of the failure and informed the contact that they would cover the cost of the repair. The vehicle was not yet repaired. The failure mileage was approximately 2,100.",
+        "vin": "4ydf41933mf"
+    },
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "07/01/2021",
+        "dateOfIncident": "10/12/2020",
+        "fire": false,
+        "manufacturer": "Keystone RV Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11423066,
+        "products": [
+            {
+                "manufacturer": "Keystone RV Company",
+                "productMake": "KEYSTONE",
+                "productModel": "FUZION",
+                "productYear": "2021",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact owns a 2021 Keystone Nexus Viper. The contact stated that while hauling the water and gas tank, the weight caused the suspension and the frame to bend since the Gross Vehicle Weight rating was incorrect. The vehicle was taken to a local dealer where it was diagnosed with nothing needing to be replaced. The vehicle was not repaired. The manufacturer had been informed of the failure and informed the contact that the vehicle performed as designed. The contact received no further assistance. The failure mileage was 500.",
+        "vin": "4YDT29V21MF"
+    }
+]

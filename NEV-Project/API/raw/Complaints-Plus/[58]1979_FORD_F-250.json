@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/06/2012",
+        "dateOfIncident": "06/05/2012",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10460808,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-250",
+                "productYear": "1979",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Michelin North America, Inc.",
+                "productMake": "BFGOODRICH",
+                "productModel": "KO ALL TERRAIN (A/T)",
+                "productYear": "9999",
+                "size": "35X12.5R16",
+                "type": "Tire"
+            }
+        ],
+        "summary": "TL*  THE CONTACT OWNS A 1979 FORD F-250 WITH BF GOODRICH KO ALL TERRAIN TIRES, SIZE: 35X12.5R16. THE CONTACT STATED THAT THE TREAD WAS SEPARATING ON ALL FOUR TIRES.  THE CONTACT SPOKE WITH THE MANUFACTURER AND WAS TOLD THAT THE TIRES WERE OUTDATED AND DID NOT HAVE ANY COVERAGE. THE DOT NUMBER WAS NOT AVAILABLE. THE TIRE FAILURE MILEAGE WAS 6,000. THE FAILURE MILEAGE OF THE VEHICLE WAS 292,000. THE VIN WAS NOT AVAILABLE.",
+        "vin": ""
+    }
+]

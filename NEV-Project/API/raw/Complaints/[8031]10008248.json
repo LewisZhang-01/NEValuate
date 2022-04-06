@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "02/28/2003",
+        "dateOfIncident": "01/22/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10008248,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENGINE MISFIRES IN COLD WEATHER WHILE DRIVING CAUSING SERIOUS LOSS OF POWER FIRST STARTED AT 341 MILES AND CONTINUES TO DATE.*JB",
+        "vin": "2FTRX18W22C"
+    }
+]

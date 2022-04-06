@@ -1,0 +1,31 @@
+[
+    {
+        "components": "EQUIPMENT,UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "02/05/2004",
+        "dateOfIncident": "12/20/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10056614,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CADILLAC",
+                "productModel": "SRX",
+                "productYear": "2004",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Lotus Cars Limited",
+                "productMake": "SEAT BELT ASSEMBLY",
+                "productModel": "SEAT BELT ASSEMBLY",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "CADILLAC IS UNABLE TO SUPPLY A CENTER SEAT ARMREST RESTRAINT STRAP FOR THE 2004 CADILLAC SRX VEHICLES.  THIS IS A SAFETY ISSUE FOR INFANT/CHILD CAR SEATS IN THE EVENT OF CAR ACCIDENT THE ARMREST CAN OPEN AND CAUSE INJURY TO THE INFANT/CHILD SEATED IN THE REAR FACING INFANT/CHILD SEAT.  *JB",
+        "vin": ""
+    }
+]

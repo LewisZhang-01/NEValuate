@@ -1,0 +1,31 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "02/12/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10006174,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "IMPALA",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "COSCO, INC.",
+                "productMake": "COSCO",
+                "productModel": "CHILD SAFETY SEAT",
+                "productYear": "9999",
+                "type": "Child Seat"
+            }
+        ],
+        "summary": "SINCE THE REPAIR, THE CONSUMER WAS UNABLE TO USE A HEAVY DUTY LOCKING CLIP TO SECURE THE CHILD CAR SEAT.  THE IMPALA SEAT BELTS DID NOT LOCK AND REQUIRED A HEAVY DUTY LOCKING CLIP IN ORDER TO SECURE THE SEAT.  (MODEL# 22-750-MGN)  SCC  *JB",
+        "vin": ""
+    }
+]

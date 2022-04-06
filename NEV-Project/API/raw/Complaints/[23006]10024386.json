@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "07/11/2003",
+        "dateOfIncident": "06/18/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10024386,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F350",
+                "productYear": "1990",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE STEEL PROD. CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "FIRESTONE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHILE TRAVELING, THE CONSUMER HEARD A LOUD POPPING NOISE.  THE CONSUMER PULLED OVER AND SAW  THE RIGHT FRONT TIRE TREAD SEPARATED FROM THE WHEEL.  FIRESTONE  STEELTEX, LT 265/75R16.   *AK   *SCC   *JB",
+        "vin": "1FTSW30F61E"
+    }
+]

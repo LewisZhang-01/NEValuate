@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "02/17/2005",
+        "dateOfIncident": "07/30/2004",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10111714,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NHTSA RECALL 04V129000 ON THE TAILGATE SUPPORT CABLE.  FOR SIX MONTHS THE DEALER DID NOT HAVE THE PARTS AVAILABLE FOR THE RECALL.  PLEASE PROVIDE  FURTHER DETAILS.   *NM",
+        "vin": "1GECE14V84Z"
+    }
+]

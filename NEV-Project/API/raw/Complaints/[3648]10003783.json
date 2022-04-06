@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "01/14/2003",
+        "dateOfIncident": "01/02/2003",
+        "fire": true,
+        "manufacturer": "Volvo Car USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003783,
+        "products": [
+            {
+                "manufacturer": "Volvo Car USA, LLC",
+                "productMake": "VOLVO",
+                "productModel": "960",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATES VEHICLE'S HEATED SEATS HAS  MALFUNCTIONED AND CAN CAUSE A VEHICLE FIRE. DEALER NOTIFIED.  TS  BOTH HEATERS UNDER THE FRONT SEATS HAVE SHORTED OUT AFTER BURNING.  SCC",
+        "vin": "YV1KW9615S1"
+    }
+]

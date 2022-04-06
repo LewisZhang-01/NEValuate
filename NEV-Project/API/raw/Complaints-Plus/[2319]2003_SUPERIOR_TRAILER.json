@@ -1,0 +1,31 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "10/06/2004",
+        "dateOfIncident": "06/16/2004",
+        "fire": false,
+        "manufacturer": "SUPERIOR MANUFACTURING, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10095264,
+        "products": [
+            {
+                "manufacturer": "SUPERIOR MANUFACTURING, INC.",
+                "productMake": "SUPERIOR",
+                "productModel": "TRAILER",
+                "productYear": "2003",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "SAMSUNG ELECTRONICS CO., LTD",
+                "productMake": "SAMSUNG MICROWAVE",
+                "productModel": "MR1032BB",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "RECALL 04E031000 CONCERNING SAMSUNG MICROWAVE OVENS. CONSUMER WAS  WAITING SINCE JUNE 16, 2004 TO GET THIS RECALL PROBLEM CORRECTED. MANUFACTURER WAS CONTACTED ON SEVERAL OCCASIONS, AND THIS ISSUE STILL ONGOING.*AK",
+        "vin": ""
+    }
+]

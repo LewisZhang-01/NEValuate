@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "07/09/2019",
+        "dateOfIncident": "07/01/2019",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11230314,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "50K ONLY AND THE RACK AND PINION STEERING COLUMN IS FAILING.",
+        "vin": "1FM5K8GT2FG"
+    }
+]

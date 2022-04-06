@@ -1,0 +1,46 @@
+[
+    {
+        "components": "SERVICE BRAKES",
+        "crash": true,
+        "dateComplaintFiled": "03/10/2016",
+        "dateOfIncident": "12/20/2015",
+        "fire": false,
+        "manufacturer": "SAFARI MOTOR COACHES, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10845994,
+        "products": [
+            {
+                "manufacturer": "SAFARI MOTOR COACHES, INC.",
+                "productMake": "SAFARI",
+                "productModel": "ZANZIBAR",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 1999 SAFARI ZANZIBAR. THE CONTACT STATED THAT THE BRAKE PEDAL WAS HARD TO DEPRESS. THE VEHICLE WAS NOT DIAGNOSED NOR REPAIRED. THE VEHICLE WAS NOT INCLUDED IN NHTSA CAMPAIGN NUMBERS: 02V278000 (SERVICE BRAKES, HYDRAULIC), 01V130001 (SERVICE BRAKES, AIR) AND 00V173000 (SERVICE BRAKES, HYDRAULIC). THE MANUFACTURER WAS NOTIFIED OF THE FAILURE. THE APPROXIMATE FAILURE MILEAGE WAS 97,000.",
+        "vin": "4SLF1EB2XX1"
+    },
+    {
+        "components": "STEERING,AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "04/17/2001",
+        "dateOfIncident": "04/14/2001",
+        "fire": false,
+        "manufacturer": "SAFARI MOTOR COACHES, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 886081,
+        "products": [
+            {
+                "manufacturer": "SAFARI MOTOR COACHES, INC.",
+                "productMake": "SAFARI",
+                "productModel": "ZANZIBAR",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DOING A LUBE JOB ON VEHICLE CONSUMER NOTICED  STEERING ARM HAD RUBBED A HOLE IN AIRBAG. WENT TO DEALER WHO INFORMED HIM THEY WERE AWARE OF THIS PROBLEM.  MANUFACTURER WILL HAVE DEALER GRIND ABOUT 30 % OFF  STEERING ARM, AND INSTALL A NEW AIRBAG SO THAT STEERING ARM WILL NO LONGER RUB ON  AIRBAG. CONSUMER AND DEALER BOTH FELT  30 %  WAS TOO MUCH TO TAKE OFF  STEERING ARM.   *AK  *JB",
+        "vin": "ADD"
+    }
+]

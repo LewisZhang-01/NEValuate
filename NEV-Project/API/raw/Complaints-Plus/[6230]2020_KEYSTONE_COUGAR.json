@@ -1,0 +1,46 @@
+[
+    {
+        "components": "WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "04/03/2022",
+        "dateOfIncident": "03/30/2022",
+        "fire": false,
+        "manufacturer": "Keystone RV Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11459442,
+        "products": [
+            {
+                "manufacturer": "Keystone RV Company",
+                "productMake": "KEYSTONE",
+                "productModel": "COUGAR",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Driving my 2020 Keystone 1/2 Cougar to Camping World in NC when a noise made from camper, parts came from tire, and white smoke from camper to find driver side front axle tire had blown apart.  Bought replacement tire while initial repairs completed. On return home, felt another jerk from camper, just thought normal tow jerk, and got home to find passenger side rear axle tire was completely gone and had rode home on the rim.  Tire:  Trailer King RST  ST225/75R15",
+        "vin": "4YDT32R27LV"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "08/26/2021",
+        "dateOfIncident": "05/22/2020",
+        "fire": false,
+        "manufacturer": "Keystone RV Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11430579,
+        "products": [
+            {
+                "manufacturer": "Keystone RV Company",
+                "productMake": "KEYSTONE",
+                "productModel": "COUGAR",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact owns a 2020 Keystone Cougar. The contact stated while the RV was stationary, the rear motor turned on independently and fractured the gears. The contact took the RV to an independent mechanic, where it was diagnosed with needing the gearbox to be replaced. The RV was not repaired but was pending repairs. Upon investigation, the contact associated the failure with NHTSA Campaign Number: 19V689000 (Electrical System) however, the VIN was not included. A dealer was not contacted. The contact attempted to reach the manufacturer by email but has not been able to reach a representative. The contact also stated that the battery was not holding a charge. The failure mileage was approximately 100.",
+        "vin": "4YDF32B26L2"
+    }
+]

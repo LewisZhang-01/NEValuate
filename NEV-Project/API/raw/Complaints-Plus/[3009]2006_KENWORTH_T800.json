@@ -1,0 +1,90 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "09/19/2011",
+        "dateOfIncident": "06/01/2010",
+        "fire": false,
+        "manufacturer": "PACCAR Incorporated",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10426275,
+        "products": [
+            {
+                "manufacturer": "PACCAR Incorporated",
+                "productMake": "KENWORTH",
+                "productModel": "T800",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2006 KENWORTH T800. THE CONTACT STATED THAT THE BRAKES WOULD NOT FUNCTION PROPERLY UNLESS EXCESSIVE PRESSURE WAS APPLIED TO THE BRAKE PEDAL. THE VEHICLE WAS TAKEN TO AN INDEPENDENT REPAIR SHOP WHERE THE TECHNICIANS STATED THAT ALL OF THE BRAKES WERE PERFORMING BELOW SPECIFICATIONS. THE BRAKES WERE REPAIRED. THE FAILURE SINCE RECURRED REPEATEDLY ON AN INTERMITTENT BASIS. THE VEHICLE WAS TAKEN BACK TO THE REPAIR SHOP NUMEROUS TIMES TO BE REPAIRED, BUT THE FAILURE PERSISTED. THE MANUFACTURER WAS MADE AWARE OF THE FAILURE. THE FAILURE MILEAGE WAS UNAVAILABLE.",
+        "vin": "1NKDXBTX26J"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "08/30/2010",
+        "dateOfIncident": "11/27/2008",
+        "fire": true,
+        "manufacturer": "PACCAR Incorporated",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10352785,
+        "products": [
+            {
+                "manufacturer": "PACCAR Incorporated",
+                "productMake": "KENWORTH",
+                "productModel": "T800",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BOOSTER CABLE ROUTING AND CABLE MOUNTING ON 2002 KENWORTH FOUND TO BE CAUSE OF FIRE.  *TR",
+        "vin": "1XKDDB0X26J"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "08/30/2010",
+        "dateOfIncident": "03/19/2009",
+        "fire": true,
+        "manufacturer": "PACCAR Incorporated",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10352786,
+        "products": [
+            {
+                "manufacturer": "PACCAR Incorporated",
+                "productMake": "KENWORTH",
+                "productModel": "T800",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BOOSTER CABLE ROUTING AND CABLE MOUNTING ON 2002 KENWORTH FOUND TO BE CAUSE OF FIRE.  *TR",
+        "vin": "1XKDDB0X86J"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "08/30/2010",
+        "dateOfIncident": "10/15/2008",
+        "fire": true,
+        "manufacturer": "PACCAR Incorporated",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10352782,
+        "products": [
+            {
+                "manufacturer": "PACCAR Incorporated",
+                "productMake": "KENWORTH",
+                "productModel": "T800",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BOOSTER CABLE ROUTING AND CABLE MOUNTING ON 2006 KENWORTH FOUND TO BE CAUSE OF FIRE. *TR",
+        "vin": "1XKDDB0X36J"
+    }
+]

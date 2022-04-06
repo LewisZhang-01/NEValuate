@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "02/19/2003",
+        "dateOfIncident": "09/04/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10007811,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CORVETTE",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "STEERING COLUMN LOCKED ON 1998 CORVETTE - DID NOT LOCK WHILE VEHICLE WAS MOVING - REMAINED LOCKED AFTER STARTING VEHICLE FROM PARKED POSITION  REF. IN EA02-031 *CJS",
+        "vin": "1G1YY22G2W5"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/13/2003",
+        "dateOfIncident": "01/01/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10006039,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPEDITION",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Continental Tire the Americas, LLC",
+                "productMake": "CONTINENTAL",
+                "productModel": "CONTINENTAL",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "NAR 1/29/2003. THE CONSUMER REPLACED ALL 4 TIRES PRIOR TO THE RECALL DUE TO POOR TREAD WEAR.  THE CONSUMER SUBMITTED ALL THE NECESSARY PAPERWORK AND WAS TOLD HE WOULD BE REIMBURSED, HOWEVER THERE HAS BEEN NO REFUND.  8JB",
+        "vin": "1FMRU15L5YL"
+    }
+]

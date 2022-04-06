@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "06/09/2003",
+        "dateOfIncident": "01/02/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021302,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ABS FAILS ON UNEVEN SURFACES, SUCH AS WASHBOARD ROADS AND WHEN HITTING BUMPS DURING BRAKING. ABS PERFORM POORLY IN MOST CONDITIONS, INCLUDING DRY PAVEMENT. THEY DO PROVIDE SOME BENEFIT ON SNOW/ICE. HOWEVER, MY ABS HAS NOW FAILED AND OVERALL BRAKING PERFORMANCE IS BETTER. THIS SYSTEM, AND THE LOGIC IN THE CONTROLLER, NEED SIGNIFICANT CHANGES.   *JB",
+        "vin": "1GNFK16K6PJ"
+    }
+]

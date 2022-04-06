@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN,ELECTRICAL SYSTEM,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "08/17/2012",
+        "dateOfIncident": "07/02/2012",
+        "fire": false,
+        "manufacturer": "Jaguar Cars, Ltd.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10471314,
+        "products": [
+            {
+                "manufacturer": "Jaguar Cars, Ltd.",
+                "productMake": "JAGUAR",
+                "productModel": "X-TYPE",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE ENGINE WOULD QUIT RUNNING, USUALLY WHEN TURNING RIGHT AND USUALLY WHILE BOUNCING OVER A BUMP.  THE CAR WOULD SOMETIMES SHOW CODES RELATING TO THE TRANSMISSION, CYLINDER MISFIRING, OR THE SECURITY SYSTEM FAILING.  SOMETIMES NO CODES AT ALL WOULD BE STORED, AND SOMETIMES THE CAR WOULD START BACK UP ON ITS OWN AFTER A BRIEF MOMENT.  OTHER TIMES IT WAS UN-DRIVABLE.  THE UNDERLYING ISSUE TURNED OUT TO BE THE POSITIVE BATTERY CABLE SUPPLYING THE FUSE BOX WAS RUBBING AGAINST A TRANSMISSION MOUNT BOLT HEAD AND GROUNDING OUT.  *TR",
+        "vin": "SAJEA51C02W"
+    }
+]

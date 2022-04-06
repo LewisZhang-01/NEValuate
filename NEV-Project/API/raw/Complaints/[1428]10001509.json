@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "01/09/2003",
+        "dateOfIncident": "08/25/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001509,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "LUMINA",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER FOUND GAS LEAKING FROM THE TOP OF THE GAS TANK.  THE GAS TANK IS DEGRADING BECAUSE SNOW, RAIN AND ROAD SALT ACCUMULATES ON THE TOP OF THE TANK.  *JG *JB  *NLM",
+        "vin": "2G1WL52M9V9"
+    }
+]

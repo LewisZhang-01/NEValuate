@@ -1,0 +1,46 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "05/17/2021",
+        "dateOfIncident": "04/11/2021",
+        "fire": false,
+        "manufacturer": "Thor Motor Coach",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11417389,
+        "products": [
+            {
+                "manufacturer": "Thor Motor Coach",
+                "productMake": "THOR",
+                "productModel": "HURRICANE",
+                "productYear": "2017",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Returned home from a weekend trip with the RV with no issues.  Departing my home to return the RV to storage, as I was driving down the street, the RV engine stopped, no brakes, no lights, no steering, all gauges froze in position.  There was NO warning lights, or other symptoms prior to the failure. Could not stop the vehicle without using the emergency brake. Vehicle would not restart.  Vehicle was towed to a repair facility.  Repair facility was able to start the vehicle, but could not duplicate failure.",
+        "vin": "1F66F5DY7H0"
+    },
+    {
+        "components": "VISIBILITY/WIPER",
+        "crash": false,
+        "dateComplaintFiled": "07/11/2019",
+        "dateOfIncident": "06/30/2019",
+        "fire": false,
+        "manufacturer": "Thor Motor Coach",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11231035,
+        "products": [
+            {
+                "manufacturer": "Thor Motor Coach",
+                "productMake": "THOR",
+                "productModel": "HURRICANE",
+                "productYear": "2017",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2016 (NA) FORD F53. WHILE DRIVING 50 MPH IN THE RAIN, THE PASSENGER SIDE WINDSHIELD WIPER DISCONNECTED AND JAMMED INTO THE DRIVER'S SIDE WINDSHIELD WIPER. THE FAILURE CAUSED THE MECHANISM TO JAM AND THE WIPERS FAILED TO FUNCTION. THE VEHICLE WAS NOT DIAGNOSED OR REPAIRED. THE MANUFACTURER WAS NOTIFIED. THE DEALER WAS NOT CONTACTED. THE APPROXIMATE FAILURE MILEAGE WAS 20,000.",
+        "vin": "1F65F5DY1G0"
+    }
+]

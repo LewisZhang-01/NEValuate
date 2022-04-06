@@ -1,0 +1,24 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "02/06/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002330,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "1991",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DEFECTIVE FIRESTONE TIRES. FORD REFUSED REIMBURSEMENT BECAUSE THE TIRES WERE BEYOND THE PARAMETERS OF FIRESTONE TIRE REFUND SINCE VEHICLE WAS MORE THAN SIX YEARS OLD.  *AK",
+        "vin": "1FMDU34X6MU"
+    }
+]

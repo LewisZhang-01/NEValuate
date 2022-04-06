@@ -1,0 +1,32 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC,ELECTRICAL SYSTEM,TIRES,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "08/11/2005",
+        "dateOfIncident": "08/11/2005",
+        "fire": false,
+        "manufacturer": "EBUS",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10132531,
+        "products": [
+            {
+                "manufacturer": "EBUS",
+                "productMake": "EBUS",
+                "productModel": "TROLLEY",
+                "productYear": "2003",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "MICHELIN TIRE CORP.",
+                "productMake": "MICHELIN",
+                "productModel": "TRUCK TIRE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "CONTINUOUS PROBLEMS WITH AIR CONDITIONER, DPC CONTROLLERS, COMPUTERS, TURBINES, BRAKES, BATTERIES.  *NM",
+        "vin": "1E9TL12273C"
+    }
+]

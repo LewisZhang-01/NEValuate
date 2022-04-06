@@ -1,0 +1,31 @@
+[
+    {
+        "components": "CHILD SEAT",
+        "crash": false,
+        "dateComplaintFiled": "05/29/2003",
+        "dateOfIncident": "05/29/2003",
+        "fire": false,
+        "manufacturer": "UNKNOWN MANUFACTURER",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021870,
+        "products": [
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN MANUFACTURER",
+                "productModel": "UNKNOWN MANUFACTURER",
+                "productYear": "9999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Evenflo Company, Inc.",
+                "productMake": "EVENFLO",
+                "productModel": "CHILD SAFETY SEAT",
+                "productYear": "9999",
+                "type": "Child Seat"
+            }
+        ],
+        "summary": "CONSUMER NOTICED A PROBLEM WITH THE EVENFLO CHILD SEAT, MODEL# 235210P2,  DOM  JULY/24/2002, SHIELD ARM SEPARATED WHILE DRIVING AND LEFT THE CHILD UNRESTRAINED.  *AK",
+        "vin": ""
+    }
+]

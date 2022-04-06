@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "01/10/2003",
+        "dateOfIncident": "01/04/2003",
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000930,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "BRONCO",
+                "productYear": "1990",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "1990 FORD BRONCO DESTROYED IN FIRE.  SPONTANEOUS FIRE ORGINATED IN ENGINE COMPARTMENT OR UNDER DASH INSIDE VEHICLE WHILE PARKED ON STREET.  VEHICLE WAS NOT RUNNING AT THE TIME.  VEHICLE IS A TOTAL LOSS.",
+        "vin": "1FMPU18L2WL"
+    }
+]

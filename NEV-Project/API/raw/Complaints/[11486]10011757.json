@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "04/02/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10011757,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "CAMRY",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE POSITION OF THE BRAKE PEDAL IS IN THE SAME PLANE AS THE ACCELERATOR PEDAL, WHICH CAUSED THE CONSUMERS FOOT TO ACTIVATE THE ACCELERATOR WHILE BEING MOSTLY ON THE BRAKE PEDAL.  THE BRAKE PEDAL WENT TOO LOW TO THE FLOOR DURING BRAKING.",
+        "vin": "4T1BE32K02U"
+    }
+]

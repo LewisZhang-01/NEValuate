@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "12/12/2002",
+        "dateOfIncident": "09/04/2002",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000075,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "K1200LT",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "REAR END BEARING WORN OUT ON MY BMW K1200LT @ 38,632 MILES",
+        "vin": "WB10555A2YZ"
+    }
+]

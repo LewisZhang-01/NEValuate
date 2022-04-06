@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/02/2003",
+        "dateOfIncident": "12/31/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000680,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "E-450",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "MICHELIN TIRE CORP.",
+                "productMake": "MICHELIN",
+                "productModel": "MICHELIN",
+                "productYear": "1982",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WE HAVE HAD AT LEAST 5 SIDEWALL BLOWOUTS ON THE REAR OF OUR AMBULANCES IN THE LAST 9 MONTHS. THE LATEST BEING YESTERDAY.  WE ARE USING MICHELEN XPS RADIALS. DOT FWJHAHWX1702.  THERE IS 10/32 TREAD LEFT ON THE TIRE.  OTHERS HAVE HAD MORE SOME LESS.  THIS ONLY OCCURS ON THE REAR OF THE VEHICLE.  I HAVE E-MAILED MICHELIN WITH THIS PROBLEM BUT HAVE GOT NO RESPONSE. PLEASE ADVISE ME OF REMEDY.  THIS MAY BE OF A SAFETY CONCERN.  THANK YOU.",
+        "vin": "1FDXE45F0YH"
+    }
+]

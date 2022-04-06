@@ -1,0 +1,31 @@
+[
+    {
+        "components": "SERVICE BRAKES, AIR,AIR BAGS,EQUIPMENT",
+        "crash": true,
+        "dateComplaintFiled": "02/21/2003",
+        "dateOfIncident": "05/21/2002",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10007904,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "GTI",
+                "productYear": "1998",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "ADV BRK SYS",
+                "productMake": "ADV BRK SYS",
+                "productModel": "ADV BRK SYS",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "1998 VOLKSWAGEN GOLF GTI ROLLED INTO A DITCH OFF 101 NEAR GILROY. THREE DAYS PRIOR IT HAD HAD SERVICED ENTIRELY BY MICHAEL'S AUTO BODY IN DOWNTOWN SAN JOSE. WITH REPAIRS TOTALLING $2000. THESE REPAIRS WERE SUPPOSEDLY MERELY \"WEAR AND TEAR\" FROM A TOWING BY THE SJPD. THE ANTILOCK BRAKES LOCKED AND THE AIRBAG DID NOT RELEASE.",
+        "vin": "3VWDA81H6WM"
+    }
+]

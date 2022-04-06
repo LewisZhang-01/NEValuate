@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "04/25/2003",
+        "dateOfIncident": "04/24/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017603,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "WINDSTAR",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN THE KEY WAS TAKEN OUT OF THE IGNITION, THE ENGINE DID NOT SHUT OFF.  THE VEHICLE WAS TAKEN TO THE DEALERSHIP WHO STATED A PIN CAME OUT OF THE STEERING SYSTEM.          *JB",
+        "vin": "2FMDA5147TB"
+    }
+]

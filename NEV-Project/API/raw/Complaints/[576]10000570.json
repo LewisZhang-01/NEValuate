@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "01/06/2003",
+        "dateOfIncident": "12/21/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000570,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "MARK VII",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "1997/98 LINCOLN & FORD VEHICLE A/C/HEAT BLEND DOOR FAILURES THAT CAUSE FOGGING OF WINDSHIELDS IN COLD OR DAMP WEATHER",
+        "vin": ""
+    }
+]

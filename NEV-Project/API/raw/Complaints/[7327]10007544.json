@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": true,
+        "dateComplaintFiled": "02/15/2003",
+        "dateOfIncident": "10/01/2002",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10007544,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "PLYMOUTH",
+                "productModel": "NEON",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DASHBOARD INDICATORS STOP WORKING.  I COULD HAVE A FULL TANK OF GAS AND THE FUEL INDICATOR WILL READ EMPTY.  THE CAR COULD BE RUNNING FOR AN HOUR AND THE TEMPERATURE STILL READS COLD.                  PH",
+        "vin": ""
+    }
+]

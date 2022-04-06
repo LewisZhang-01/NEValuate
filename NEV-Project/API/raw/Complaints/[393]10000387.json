@@ -1,0 +1,31 @@
+[
+    {
+        "components": "POWER TRAIN,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "12/26/2002",
+        "dateOfIncident": "12/25/2002",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000387,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "RAM 1500",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "C BODY",
+                "productYear": "1969",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "TRANSMISSION STARTED SLIPPING IN OVERDRIVE. TOOK TO DEALER WAS TOLD NOTHING WAS WRONG. 1 1/2 WEEKS LATER. ON CHRISTMAS. STOPPED AT STOP SIGN. WENT TO GO AND HAD NO FOWARD GEARS. LUCKILY THERE WAS VERY LITTLE TRAFFIC. VEHICLE WAS TOWED TO DEALER. STILL WAITING FOR A RESPONSE.",
+        "vin": "1B7HF13Z6YJ"
+    }
+]

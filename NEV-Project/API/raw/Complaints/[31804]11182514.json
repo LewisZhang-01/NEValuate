@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "02/26/2019",
+        "dateOfIncident": "02/23/2019",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11182514,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "IMPALA",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "LEFT REAR SIDE DETECTION MODULE AND RELATED WIRING HARNESS FAILED DUE TO CORROSION FROM EXPOSURE TO WATER AND WEATHER ELEMENTS DURING NORMAL OPERATION. PLACEMENT OF MODULE INSIDE THE REAR BUMPER CAUSED MOISTURE TO ACCUMULATE WITHIN MODULE AND ITS RELATED ELECTRICAL CONNECTORS. DURING FAILURE, WHILE OPERATING THE VEHICLE, MODULE SENT ERRATIC SIGNALS TO OBC CAUSING PARTIAL SHUTDOWN OF KEY ELECTRICAL COMPONENTS INCLUDING TURN SIGNALS AND INSTRUMENT CLUSTER.     THIS MODULE HAS A HIGH, PRE-MATURE FAILURE RATE, DUE TO EXPOSURE TO WEATHER ELEMENTS AND ROAD SALT IN NORTHERN STATES.  CHEVROLET HAS DIFFICULTY KEEPING SUFFICIENT MODULES IN STOCK AT LOCAL DEALERS. ORDER OUT TIME FOR SUBJECT COMPONENTS IS 3-5 BUISNESS DAYS.",
+        "vin": "1G1155S33EU"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": true,
+        "dateComplaintFiled": "05/14/2003",
+        "dateOfIncident": "05/02/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018732,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350 SD",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "STEELTEX R4S",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "BLOWOUT WITH TREAD SEPARATION WHILE DRIVING 70 MPH ON LEFT FRONT R4S II LT265/75/R16 STEELTEX RADIAL M/S LOAD RANGE E CAUSING AN ACCIDENT CROSSING MEDIAN OPPOSITE DIRECTION TRAFFIC BARELY MISSING AN ONCOMING 18 WHEELER THROUGH A DITCH/6FT CULVERT THROUGH A FENCE AND INTO FIELD. EXTENSIVE ($8.000+) DAMAGE TO F-350 SCLWB 4X4 FRAME AND FRONT END.  22800 MILES ON FACTORY TIRES, FORD HAD REFUSED TO REPLACE TIRES IN 2000 WHEN ASKED \"THEY WEREN'T ON THE LIST\"  TIRES VDW8-DECATUR PLANT.   *NLM",
+        "vin": "1FTSX31F0YE"
+    }
+]

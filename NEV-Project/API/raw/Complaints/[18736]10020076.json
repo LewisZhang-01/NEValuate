@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "05/19/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020076,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERCURY",
+                "productModel": "GRAND MARQUIS",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE CONSUMER TOOK THE VEHICLE IN FOR AN OIL CHANGE AND THE MECHANIC STATED THAT THE LEFT TIE ROD NEEDED TO BE REPLACED BECAUSE THERE WAS TOO MUCH PLAY IN THE TIE ROD.   *NLM",
+        "vin": "2MEFM75W3XX"
+    }
+]

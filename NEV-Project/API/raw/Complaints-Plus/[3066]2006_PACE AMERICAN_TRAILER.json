@@ -1,0 +1,61 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "09/21/2009",
+        "dateOfIncident": "06/12/2009",
+        "fire": false,
+        "manufacturer": "PACE AMERICAN, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10284691,
+        "products": [
+            {
+                "manufacturer": "PACE AMERICAN, INC.",
+                "productMake": "PACE AMERICAN",
+                "productModel": "TRAILER",
+                "productYear": "2006",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "I BOUGHT A NEW 2006 PACE PALIMINO FIFTH WHEEL TRAVEL TRAILER IN 2008.  I HAVE ABOUT 5000 MILES ON IT.  ALL FOUR TIRES HAVE SEVERE CRACKING OF THE SIDEWALLS AND APPEAR UNSAFE.  THE TIRES ARE MAXXIS 225/75D15  DOT 5XHN26 10-05  WHAT SHOULD I DO ABOUT IT? *TR",
+        "vin": ""
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "07/10/2008",
+        "dateOfIncident": "07/08/2008",
+        "fire": false,
+        "manufacturer": "PACE AMERICAN, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10233728,
+        "products": [
+            {
+                "manufacturer": "PACE AMERICAN, INC.",
+                "productMake": "PACE AMERICAN",
+                "productModel": "TRAILER",
+                "productYear": "2006",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "MARATHON",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "TIRE BELT RIPPED ON OUTSIDE OF TIRE NEAR SIDEWALL.  *TR",
+        "vin": "99999999999"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "12/13/2002",
+        "dateOfIncident": "12/13/2001",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000016,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TEMPO",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "OIL LEAKS FROM INTAKE MANIFOLD.",
+        "vin": ""
+    }
+]

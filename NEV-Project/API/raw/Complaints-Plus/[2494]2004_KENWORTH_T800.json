@@ -1,0 +1,68 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "06/02/2011",
+        "dateOfIncident": "04/19/2011",
+        "fire": true,
+        "manufacturer": "PACCAR Incorporated",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10404975,
+        "products": [
+            {
+                "manufacturer": "PACCAR Incorporated",
+                "productMake": "KENWORTH",
+                "productModel": "T800",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2004 KENWORTH T800, UNIT 1 WAS TRAVELING EAST ON THE OHIO TURNPIKE ON THE RIGHT SHOULDER IN THE CONSTRUCTION ZONE. UNIT 1 STATED SHE SMELLED SMOKE COMING FROM UNDERNEATH THE GLOVE BOX AREA.  UNIT 1 STOPPED AND GOT OUT OF THE VEHICLE.  UNIT 1 BECAME ENGULFED AND WAS PUT OUT BY WATER TRUCK IN THE CONSTRUCTION  ZONE.   *BF  (OHIO TRAFFIC CRASH REPORT # 10-0277-90)",
+        "vin": "1NKDX0TX34J"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "04/29/2011",
+        "dateOfIncident": "02/14/1992",
+        "fire": true,
+        "manufacturer": "PACCAR Incorporated",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10398226,
+        "products": [
+            {
+                "manufacturer": "PACCAR Incorporated",
+                "productMake": "KENWORTH",
+                "productModel": "T800",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 2004 KENWORTH T800B TRUCK. THE CONTACT STATED THE GEAR WAS IN THE PARK POSITION WITH THE ENGINE IN OPERATION WHEN SHE EXITED THE VEHICLE. THE CONTACT NOTICED FLAMES EMITTING FROM THE INSTRUMENT PANEL UPON ENTERING THE VEHICLE. THE FIRE DEPARTMENT EXTINGUISHED THE FLAMES. THE VEHICLE WAS TOWED TO AN AUTHORIZED DEALER. THE CAUSE OF FAILURE WAS NOT DETERMINED. THERE WAS A NHTSA RECALL RELATED TO THE DEFECT, CAMPAIGN 04V580000(ELECTRICAL SYSTEM:WIRING). THE VIN WAS NOT INCLUDED IN THE RECALL. THE FAILURE MILEAGE WAS APPROXIMATELY 240,000.",
+        "vin": "1NKDX0TX34J"
+    },
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": true,
+        "dateComplaintFiled": "04/21/2005",
+        "dateOfIncident": "04/20/2005",
+        "fire": false,
+        "manufacturer": "PACCAR Incorporated",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10118239,
+        "products": [
+            {
+                "manufacturer": "PACCAR Incorporated",
+                "productMake": "KENWORTH",
+                "productModel": "T800",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SUDDEN FULL UNCONTROLLED ACCELERATION BROUGHT ON BY A REAR END COLLISION WHILE MY VEHICLE WAS STOPPED IN TRAFFIC. DUMP TRUCK WITH ALLISON AUTOMATIC TRANSMISSION. TRANSMISSION TOWER BUTTONS WERE UNRESPONSIVE AND TRUCK WAS ESTIMATED BY WITNESS TO JUMP TO ALMOST IMMEDIATE 60 PLUS.   DID NOT STOP UNTIL KEY WAS REMOVED. VIRGINIA DOT INSPECTION APPROX. 2 HOURS LATER FOUND NO PROBLEM AND TRUCK RESPONDED NORMALLY(EXCEPT FOR ACCIDENT DAMAGE) AFTER IT WAS RESTARTED.  THERE WAS A SUDDEN SURGE IN THE ENGINE FOR APPROX. 2-3 SECONDS AFTER I WAS REAR ENDED AND THERE WERE NO PRIOR PROBLEMS.  *NM",
+        "vin": ""
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "11/07/2000",
+        "dateOfIncident": "09/19/2000",
+        "fire": false,
+        "manufacturer": "Trailers by Dorsey, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 735930,
+        "products": [
+            {
+                "manufacturer": "Trailers by Dorsey, Inc.",
+                "productMake": "DORSEY",
+                "productModel": "PLATFORM",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TREAD SEPERATION ON TIRE MANUFACTURED BY GOODYEAR/KELLY SPRINGFIELD (DOT NUMBER: WILL ADVIS  TIRESIZE: L245/75/16)",
+        "vin": ""
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": true,
+        "dateComplaintFiled": "04/09/2003",
+        "dateOfIncident": "04/06/2003",
+        "fire": false,
+        "manufacturer": "Yamaha Motor Corporation, USA",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10014172,
+        "products": [
+            {
+                "manufacturer": "Yamaha Motor Corporation, USA",
+                "productMake": "YAMAHA",
+                "productModel": "YZF600RG",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "STEERING MECHANISM OF MOTORCYCLE LOCKED UPON TURNING TO THE RIGHT,  THEN SUBSEQUENTLY LOCKED TO THE LEFT AS WELL, CAUSING A VEHICLE CRASH. *JB",
+        "vin": ""
+    }
+]

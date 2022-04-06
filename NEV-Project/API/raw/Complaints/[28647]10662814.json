@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "01/06/2015",
+        "dateOfIncident": "01/01/2015",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10662814,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FORD",
+                "productYear": "9999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER WRITES IN REGARDS TO POWER STEERING FAILURE RECALL NOTICE PROBLEMS.  *SMD",
+        "vin": ""
+    }
+]

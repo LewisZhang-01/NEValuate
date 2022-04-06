@@ -1,0 +1,464 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,VEHICLE SPEED CONTROL,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "03/20/2022",
+        "dateOfIncident": "01/31/2022",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11457481,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA 2500",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DEF system failed. Wire harness burned out. Tank failure. Truck went into limp mode. I personally know 3 others with the same issue.",
+        "vin": "1GT49REYXLF"
+    },
+    {
+        "components": "FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "03/15/2022",
+        "dateOfIncident": "02/09/2022",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11456825,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA 2500",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DEF tank system failure. Vehicle is under warranty, 18 months old, (purchased 08/20) with 20,000 miles. 6 WEEKS AGO I took to dealer who informed me that there are no DEF tanks available and don't know when they will be available. This is a hazard: if I am on a trip and the system shuts off I could be stranded anywhere with the reduced speed that the DEF system creates. If this system is designed to shut off (with warning) there should be ample supplies at all GMC dealers for repair. If there aren't ample supplies the system should NOT shut the truck down. THIS IS A SAFETY HAZARD THAT IS PREVENTABLE!",
+        "vin": "1GT49PEY4LF"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM,SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "03/11/2022",
+        "dateOfIncident": "02/05/2022",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11456261,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA 2500",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Service  Trailer Brake System  Alert constantly going off",
+        "vin": "1GT49REY1LF"
+    },
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "02/25/2022",
+        "dateOfIncident": "02/02/2022",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11454084,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA 2500",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DEF Emission system failure. Total component breakdown requiring replacement. Parts unavailable.",
+        "vin": "1GT49PEY4LF"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM,SERVICE BRAKES,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "01/23/2022",
+        "dateOfIncident": "01/22/2022",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11448544,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA 2500",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Truck has had multiple issues related to the electrical system and truck modules.  It is my opinion that these are all related to voltage issues or module problems.  i have had multiple infotainment issues with delays loading, freezing up etc.  dealer has ran updates and checks with nothing found.  In October around $35k miles the truck Radio would not work if i used the push button start.  if i shut the truck off opened the door and let everything reset i could push the start button in the truck and the radio would work majority of the time.  The next day i went out to a completely dead truck.  I talked to my service department at the local dealer and they said i would need to bring it in but suggested i disconnect the batteries and recharge the batteries.  after doing so everything started working correctly.  it fixed my radio problem and never went dead again.  since then i have experienced popping noises through the speakers when playing music occasionally. over the last few weeks i noticed the engine does not attempt to increase cold idle speed until i press the brake to put it in gear.   January 22nd i hit the autostart button and it did not work.  i started the truck and it had CEL, Traction control, park brake and wrench, lights on with service emissions, and power reduced messages displayed.  Truck is running odd.  codes present are (ENGINE GMLAN)P0118 - engine coolant temp circuit high voltage, (BRAKES GMLAN_ABS) U0401- invalid data from engine control module, P0562- system voltage low,  (HVAC CONTROLS GMLAN_HVAC) B1325 - . control module power circuit.  Truck is starting and charging fine.  No connection issues at batteries.  There are many TSB's and many complaints regarding similar issues.  common brake and emissions faults with minor differences.  Module failures, communication faults, and or electrical faults are likely causing all of these similar issues.  they need to be categorized as the same failure group which will show GM has a bigger issue.",
+        "vin": "1GT49REY5LF"
+    },
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "12/17/2021",
+        "dateOfIncident": "12/01/2021",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11444113,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA 2500",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Was driving truck down driveway at about 5km per hour and the parking brake automatically engage bringing the vehicle to a sudden and unexpected hard stop.  Brought to dealership, then said they cannot duplicate the problem and therefore there is no action to be taken.",
+        "vin": "1GT49PEY4LF"
+    },
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "12/17/2021",
+        "dateOfIncident": "12/08/2021",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11444126,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA 2500",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "While driving Truck was setting Cruise Control at approx 100km/hr.  The cruise would set but at approx 70km/hr.  Tried to set multiple time throughout the trip but no change.  Recorded video and sent to dealer.  They brought truck in to check it out, but said that since they can't duplicate the problem they cannot diagnose it.  This has happened multiple times and have recorded video each time.  Again dealer said they can't do anything unless they see it themselves.",
+        "vin": "1GT49PEY4LF"
+    },
+    {
+        "components": "STEERING,SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "06/17/2021",
+        "dateOfIncident": "06/17/2021",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11421278,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA 2500",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "While driving my 2020 GMC 2500 Denali with the Duramax Diesel engine, the power assist for the steering and brakes failed without any warning.  This made the truck nearly impossible to steer and stop. Luckily, I was able to avoid a collision and get the truck stopped in a safe location.  The truck is currently being towed to Rivard GMC in Tampa, Fl.  Doing an internet search, I found this problem has happened to others as well.  Please ask GM to rectify this extremely dangerous defect.",
+        "vin": "1GT49REYXLF"
+    },
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "04/22/2021",
+        "dateOfIncident": "01/06/2021",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 11413345,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA 2500",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2020 GMC SIERRA 2500. THE CONTACT STATED THAT UPON DRIVING OVER A HILL AT 45 MPH, A VEHICLE WAS STOPPED IN THE MIDDLE OF THE ROAD. IN AN EFFORT TO AVOID HITTING THE VEHICLE, THE CONTACT DROVE THE VEHICLE OFF THE ROAD AND INTO A  CONCRETE CULVERT AT THE END OF THE RAVINE. THE AIR BAGS DID NOT DEPLOY UPON IMPACT. THE AUTHORITIES WERE CALLED TO THE SCENE AND THE CONTACT WAS RUSHED TO A LOCAL HOSPITAL VIA AMBULANCE.  THE CONTACT WAS DIAGNOSED WITH FRACTURED VERTEBRAE THAT MAY REQUIRE POSSIBLE SURGERY. A POLICE REPORT WAS FILED AT THE SCENE. DUE TO THE ACCIDENT, THE VEHICLE WAS TOWED TO AN INDEPENDENT MECHANIC WHERE THE VEHICLE WAS REPAIRED. THE DEALER NOR THE MANUFACTURER HAVE YET TO BE NOTIFIED OF THE FAILURE. THE VEHICLE WAS REPAIRED AND SOLD. THE FAILURE MILEAGE WAS APPROXIMATELY 15,500.",
+        "vin": "1GT49PEY6LF"
+    },
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "02/14/2021",
+        "dateOfIncident": "02/14/2021",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11396147,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA 2500",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE SCREEN ON MY TRUCK HAS GONE BLANK SEVERAL TIMES AND THE VOLUME ON THE RADIO GOES SUPER LOAD AND THE ONLY WAY TO STOP IT SEEMS TO BE TO STOP AND TURN OFF THE TRUCK, OPEN THE DOORS AND RE START TRUCK.  TODAY, I COULDN'T GET MY SCREEN TO GO OFF IN MY TRUCK WHEN I TURNED IT OFF, I TRIED TURNING OFF, RESTARTING ETC BUT TO NO AVAIL.  I'M AT WORK NOW AND FEAR THAT THE BATTERY WILL GO DEAD BEFORE I GET OFF WORK.  I JUST HAD THE TRUCK AT GMC 2/6/2021 AND WAS TOLD THAT THEIR WERE NO RECALLS.  ALSO, NOTE THAT WHEN THE SCREEN KEPT GOING OUT I TOOK IT TO THE DEALER AND THEY SAID THEY HAD TO REFLASH/REPROGRAM IT WHICH TOOK 5 HOURS.",
+        "vin": "1GT49REY3LF"
+    },
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "02/01/2021",
+        "dateOfIncident": "01/27/2021",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11390937,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA 2500",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKES SINCE NEW SQUEELED. TOOK TO DEALER AND DEALER SAID IT WAS NORMAL. HAVE HAD THE TRUCK ABOUT 11 MONTHS NOW. DEALER STATED GM NOW USES A DIFFERENT PAD MATERIAL AND I WOULD HAVE TO PAY FOR IT AT A COST OF CLOSE TO $1,000 TO REPLACE THE PADS.",
+        "vin": "1GT49PE71LF"
+    },
+    {
+        "components": "STEERING,SUSPENSION,WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "01/20/2021",
+        "dateOfIncident": "01/16/2021",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11389001,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA 2500",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE PULLS TO THE RIGHT OR LEFT INTO ONCOMING TRAFFIC WITHIN 800 FEET OR SOONER DEPENDING ON SPEED. THIS OCCURS ON CITY STREETS OR INTERSTATE.    GM AND GM APPROVED DEALERSHIPS SAY THIS IS DONE TO GM SPECIFICATIONS. THE FIRST 7000 MILES, IT DIDN'T PULL. AFTER GM SHOP ALIGNED, AND 3 MONTHS LATER, IT IS UNSAFE TO OPERATE.",
+        "vin": "1GT49PE73LF"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "12/09/2020",
+        "dateOfIncident": "12/09/2020",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11382789,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA 2500",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WENT OUT TO MY VEHICLE THAT HAS BEEN SITTING IN MY DRIVEWAY FOR 24 HOURS AND ATTEMPTED TO UNLOCK IT WITH THE KEY FOB. NOTHING. TRIED THE OTHER FOB. NOTHING. USED THE KEY TO UNLOCK THE DOOR AND GET IN TO PUSH BUTTON START AND NOTHING.     I PLUGGED BOTH BATTERIES INTO CHARGERS AND THEY WOULD START TO CHARGE, THEN DISCHARGE AFTER THE BATTERIES GOT UP TO ABOUT 20%    I CALLED GMC ROADSIDE ASSISTANCE AND THEY SENT SOMEONE OUT. THE SERVICE GUY SHOWED UP ABOUT 45 MIN LATER AND HOOKED UP A JUMP BOX TO EACH BATTERY. STILL NO LUCK IN GETTING IT STARTED. HE SAID IT MUST HAVE SOME MAJOR ELECTRICAL ISSUES. SINCE WE COULD NOT GET IT TO SHIFT TO NEUTRAL, HE COULD NOT TOW IT AND I AM  NOW WAITING FOR A TOW IN THE MORNING.     THIS TRUCK HAS LESS THAN 10,000 MILES ON IT. I'M DEALING WITH THIS LESS THAN 5 MONTHS INTO OWNERSHIP AND THIS COMES AFTER I HAD TO TAKE IT INTO SERVICE THE SECOND DAY OF OWNING THE VEHICLE BECAUSE I HAD A DEF SENSOR CRYSTALLIZE AND GO BAD. SO, I OWNED THE TRUCK FOR LESS THAN 24 HRS AND HAD TO PUT IT IN THE SHOP FOR A WEEK. NOW, IT GOES BACK. THIS IS RIDICULOUS FOR A $81,000 TRUCK THAT HAS LESS THAN 10K MILES.",
+        "vin": "1GT49REY7LF"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM,EXTERIOR LIGHTING,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "10/02/2020",
+        "dateOfIncident": "10/02/2020",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11362480,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA 2500",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AS I WAS DRIVING HOME MY CHECK ENGINE LIGHT CAME ON AND ALL OF MY LIGHTS WENT OUT. I HAD NO TAIL LIGHTS AND THE RADIO STARTED SAYING NO SIGNAL DETECTED.  THE DASH SCREEN WAS SAYING SERVICE KEYLESS ENTRY SYSTEM. AND I HAD NO RUNNING LIGHTS BUT MY HEADLIGHTS. PRETTY SCARY THINKING NO ONE COULD SEE ME AS THEY WERE DRIVING BEHIND ME AT A HIGH RATE OF SPEED. MY TRUCK ONLY HAS 200 MILES ON IT SO THIS IS REALLY SCARY TO BE HAVING ISSUES SO EARLY IN THE OWNERSHIP OF THIS TRUCK. I'VE ALWAYS HAD FORDS BUT THIS TRUCK CAUGHT MY EYE AND I STEPPED OUT OF MY COMFORT ZONE AND NOW WISHING I WOULD HAVE STAYED IN IN.",
+        "vin": "1GT19PEY0LF"
+    },
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "09/28/2020",
+        "dateOfIncident": "09/28/2020",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11361606,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA 2500",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "MY BRAKES ARE SQUEAKING VERY LOUDLY THEY HAVE BEEN SINCE AUGUST. I WAS DRIVING DOWN THE ROAD ON US1 AND PREPARED TO STOP TO MAKE A TURN AND MY TRUCK WOULD NOT STOP. I WAS MAKING A RIGHT TURN AND ENDED UP IN THE OTHER LANE OF ONCOMING TRAFFIC SIDEWAYS BECAUSE I TRIED TO TURN MY TRUCK TO SLOW IT DOWN. I COMPLAINED ABOUT MY BRAKES SEVERAL TIMES TO THE DEALERSHIP THEY ORDERED ME NEW BRAKES WITHOUT EVEN LOOKING AT MY VEHICLE AROUND AUGUST 8TH. WE ARE NOW AT THE LAST TWO DAYS OF SEPTEMBER AND THEY STILL DO NOT KNOW WHEN THE BRAKES WILL COME IN. THIS IS A SERIOUS SAFETY ISSUE AT THIS POINT. I HAVE NO OTHER VEHICLE TO DRIVE. I BOUGHT A 70,000 TRUCK AND MY AND MY FAMILY'S SAFETY IS ON THE LINE. GMC NEEDS TO FIND ME A COMPARABLE LOANER VEHICLE UNTIL MY TRUCK IS REPAIRED.",
+        "vin": "1GT49REY9LF"
+    },
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "09/24/2020",
+        "dateOfIncident": "09/18/2020",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11360930,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA 2500",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2020 GMC SIERRA 2500. THE CONTACT STATED THAT WHILE DRIVING AND TOWING A TRAILER, SHE DISCOVERED THAT THE BRAKES WERE OVERHEATING. THERE WAS A STRONG BURNING HOT ODOR COMING FROM THE BRAKES. THE CONTACT PULLED OVER AND DISCOVERED ALL FOUR BRAKE ROTORS WERE EXTREMELY HOT. THE CONTACT DROVE AND DROPPED OFF THE TRAILER. THE CONTACT DROVE 20 MPH AND DOWN SHIFTED TO CONTROL THE SPEED TO GET BACK HOME. THE DEALER DAVE ARBOGAST BUICK-GMC (3540 S CO ROAD 25A, TROY, OH 45373, (937) 335-0068) STATED THAT INCORRECT BRAKE PADS WERE INSTALLED ON THE VEHICLE FROM THE FACTORY AND THERE WAS A TECHNICAL SERVICE BULLETIN FOR THE FAILURE. THE VEHICLE WAS NOT REPAIRED DUE TO THE REPLACEMENT PARTS NOT BEING AVAILABLE. THE MANUFACTURER WAS CONTACTED AND PROMISED TO PROVIDE A CALLBACK. THE FAILURE MILEAGE WAS 500.",
+        "vin": "1GT49NEY2LF"
+    },
+    {
+        "components": "STEERING,ELECTRICAL SYSTEM,ELECTRONIC STABILITY CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "09/21/2020",
+        "dateOfIncident": "09/21/2020",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11360146,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA 2500",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2020 GMC SIERRA DENALI DURAMAX 3000 MILES   TRIED TURNING ON TRUCK THIS MORNING TO GO TO WORK AND WOULD NOT EVEN CRANK IT IS A PUSH START OPTION HAVE NO CLUE ON HOW IM GOING TO TAKE IT TO THE DEALERSHIP IF I CANT GET IT OF PARK INTO NEUTRAL FOR A TOW TRUCK AT LEAST ! TRUCK DOES NOT CRANK IT THROWS ME A TON OF MESSAGES   STABILITY TRAK DSC ABS POWER REDUCED 4WD  CHECK TRAILER LIGHTS. BUNCH OF MESSAGES  I TOOK VIDEO OF IT AND SO TRUCK DOESN'T EVEN TRY TO START.  I TOOK A VIDEO OR THE PROBLEM",
+        "vin": "1GT49REY4LF"
+    },
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "07/29/2020",
+        "dateOfIncident": "07/17/2020",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11342047,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA 2500",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "PART #19419266 TONNEAU WAS INSTALLED 07/16/2020 AND LEAKS TERRIBLE IN THE RAIN",
+        "vin": "1GT49REY6LF"
+    },
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "06/22/2020",
+        "dateOfIncident": "02/01/2020",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11330146,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA 2500",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE FRONT PARK  ASSIST SENSORS ON THIS TRUCK DO NOT OPERATE AS INTENDED, OR AS ON PRIOR YEARS OR AS ON OTHER VEHICLES.  THE SENSORS DID NOT PICK UP PARKING BOLLARDS IN FRONT OF A CONVENIENCE STORE AND RESULTED IN A MINOR DING THAT COST OVER $1300 TO REPAIR.  WHEN BUMPER WAS REPAIRED THE SERVICE PERSON SAID SENSORS WERE FIXED, YET, TO HIS SURPRISE,  WE WERE ABLE TO INCH UP TO A CAR DIRECTLY INTERSECTING THE FRONT OF THE CAR AND IT DID NOT PICK IT UP.  I DID A SIMILAR TEST WITH A BRAND NEW/UNSOLD VEHICLE ON DEALER LOT  IND IT FAILED TO SENSE THE LARGE TRUCK DIRECTLY IN FRONT OF IT.  THIS I BELIEVE CAN BE A VERY DANGEROUS SAFETY ISSUE AS THE TRUCK HOOD SITS VERY HIGH IMPEDING VIABILITY AND A SMALL PERSON OR PET CAN EASILY GO UNDETECTED.  THESE VEHICLES  HAS ALSO HAD NUMEROUS RECALLS INCLUDING ONE FOR THE POSSIBILITY OF THE HOOD FLYING OPEN WHILE OPERATING.  I HAVE SOLD THE TRUCK AS ALL OF THESE ISSUES HAVE DEVALUED THE VEHICLE, IT REMAINS UNSAFE  AND GM RESPONSE HAS BEEN LESS THAN FAVORABLE.",
+        "vin": "1GT49REYXLF"
+    },
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "05/20/2020",
+        "dateOfIncident": "05/18/2020",
+        "fire": true,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11325262,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA 2500",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2020 GMC SIERRA 2500. THE CONTACT STATED THAT WHILE DRIVING, HE NOTICED SMOKE ENTERING THE VEHICLE THROUGH THE AIR VENTS. THE CONTACT COASTED TO THE SIDE OF THE ROAD, EXITED THE VEHICLE SAFELY WITH HIS PASSENGER, UPON OPENING THE HOOD NOTICED THAT THE WHOLE ENGINE COMPARTMENT WAS ON FIRE. THE CONTACT STATED THAT THE FIRE DEPARTMENT ARRIVED BUT WAS UNABLE TO EXTINGUISH THE FLAMES AS THEY ALLOWED THE VEHICLE TO BURN UNTIL THE FIRE SELF EXTINGUISHED. THE DEALER NOR THE MANUFACTURER WAS MADE AWARE OF THE FAILURE. THE FAILURE MILEAGE WAS APPROXIMATELY 2,800. VIN WAS NOT AVAILABLE.",
+        "vin": ""
+    },
+    {
+        "components": "TRACTION CONTROL SYSTEM,SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "11/27/2019",
+        "dateOfIncident": "08/09/2019",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11282649,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA 2500",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2020 GMC SIERRA 2500. WHILE DRIVING 5 MPH, THE BRAKES ENGAGED AUTOMATICALLY AND THE TRACTION CONTROL WARNING INDICATOR ILLUMINATED. THE VEHICLE WAS TAKEN SEVERAL TIMES TO CARL BLACK CHEVROLET BUICK GMC (LOCATED AT 1110 ROBERTS BOULEVARD NORTHWEST, KENNESAW, GA 30144, (888) 457-2417). THE DEALER DIAGNOSED THAT THE SPEED SENSOR NEEDED TO BE REPLACED. THE VEHICLE WAS REPAIRED, BUT THE FAILURE CONTINUED. THE DEALER DIAGNOSED THE VEHICLE AGAIN AND STATED THAT THE WHEEL HUBS NEEDED TO BE REPLACED. THE VEHICLE WAS REPAIRED, BUT THE FAILURE RECURRED. THE DEALER DIAGNOSED THE VEHICLE A THIRD TIME AND STATED THAT AN UNKNOWN STEERING ANGLE SENSOR NEEDED TO BE UPDATED. THE VEHICLE WAS REPAIRED, BUT THE FAILURE CONTINUED. THE MANUFACTURER WAS INFORMED OF THE FAILURE. THE FAILURE MILEAGE WAS 571.",
+        "vin": "1GT49REYXLF"
+    }
+]

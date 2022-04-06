@@ -1,0 +1,31 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "06/04/2003",
+        "dateOfIncident": "02/24/2003",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021005,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "PASSAT",
+                "productYear": "1998",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "ADVANCED ENGINE MANAGEMENT",
+                "productMake": "AIR BYPASS VALVE",
+                "productModel": "20-401",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "AIR FLOW METER O2 SENSOR.  *NLM",
+        "vin": "WVWMA63B6WE"
+    }
+]

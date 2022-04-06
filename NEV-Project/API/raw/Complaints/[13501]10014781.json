@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "03/31/2003",
+        "dateOfIncident": "03/16/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10014781,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE T-BONED ANOTHER AT 45 MPH. NEITHER AIR BAG DEPLOYED, DRIVER SUFFERED SEVERE HEAD INJURIES. VEHICLE WAS TOTALED.  *JB",
+        "vin": "1JAFA49F52P"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "01/19/2003",
+        "dateOfIncident": "01/17/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002931,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CORVETTE",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "JUST AFTER STARTING MY 2001 CORVETTE, I WAS PULLING OUT OF THE GARAGE AND THE STEERING LOCKED UP.    I THINK THIS IS BECAUSE THE STEERING PIN SOLENOID DOESN'T PULL THE PIN WHEN THE VOLTAGE DROPS.  MY BATTERY WAS APPARENTLY WEAK BECAUSE WHEN THE TOW TRUCK DRIVER BEAT THE STEERING COLUMN UNTIL THE PIN DROPPED, THE CAR WOULDN'T START WITHOUT A JUMP.  REF. IN EA02-031 *CJS",
+        "vin": "1G1YY22G415"
+    }
+]

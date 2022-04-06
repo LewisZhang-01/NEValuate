@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN,ENGINE,FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "03/15/2019",
+        "dateOfIncident": "03/07/2019",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11187014,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DIESEL EXHAUST FLUID REDUCTANT HEATER FAULT, CHECK ENGINE LIGHT HAS ILLUMINATED AND IS NOT COVERED UNDER PREVIOUS RECALLS. RECURRING PROBLEM FOR FORD SUPER DUTY THAT NEEDS TO BE EXTENDED FOR THIS MODEL AS IT IS THE SAME PROBLEM THAT PREVIOUS ATTENTION WAS GIVEN TO. IT IS A EMISSIONS PROBLEM THAT FAILS ON THESE TRUCKS.",
+        "vin": "1FT8X3DT2FE"
+    }
+]

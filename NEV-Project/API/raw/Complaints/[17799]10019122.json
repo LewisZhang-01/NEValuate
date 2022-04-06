@@ -1,0 +1,24 @@
+[
+    {
+        "components": "WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "05/22/2003",
+        "dateOfIncident": "05/21/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019122,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "CVPI",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEEL FAILURE ON NEW STYLE STEEL WHEELS (OEM) ON 2003 FORD CVPI VEHICLES. TWO PIECE WHEELS ARE EXPERIENCING FAILURE OF WELDING SEAMS. FAILURE EXPERIENCED ON THREE SEPARATE VEHICLES. ALSO SEE ODI ID NUMBER 10003263. FORD MOTOR CO. DEALERSHIP IS NOT AWARE OF POTENTIAL FOR WIDESPREAD FAILURE.  PRELIMINARY INVESTIGATION INDICATES PROBLEM MAY BE NATIONWIDE.   *NLM",
+        "vin": ""
+    }
+]

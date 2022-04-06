@@ -1,0 +1,24 @@
+[
+    {
+        "components": "INTERIOR LIGHTING,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "01/16/2003",
+        "dateOfIncident": "01/13/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002815,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "PLYMOUTH",
+                "productModel": "NEON",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "99 PLYMOUTH NEON 2.0 DOHC",
+        "vin": ""
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": true,
+        "dateComplaintFiled": "12/23/2016",
+        "dateOfIncident": "12/20/2016",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10937214,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "CIVIC",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TAKATA RECALL- THE CAR WAS INVOLVED IN A COLLISION ON THE EXPRESSWAY.  IT SUSTAINED MAJOR FRONT END DAMAGE, HOWEVER THE AIR BAGS DID NOT DEPLOY.  THE VEHICLE WAS PART OF THE MAJOR AIRBAG RECALL.  THE RECALL WAS COMPLETED OCTOBER 2015.",
+        "vin": "1HGES26742L"
+    }
+]

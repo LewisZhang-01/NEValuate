@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "12/18/2002",
+        "dateOfIncident": "06/15/2002",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000219,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "RAM 2500",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "199 DOGE RAM EXT CAB 4X4, DIESEL - BALL JOINTS AND FRONT BUSHINGS WEARING OUT AND NEED TO BE REPLACED WITH LESS THAN 48,000 MILES ON VEHICLE",
+        "vin": "1B7KF2360XJ"
+    }
+]

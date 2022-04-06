@@ -1,0 +1,32 @@
+[
+    {
+        "components": "STEERING,TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/04/2003",
+        "dateOfIncident": "12/31/2001",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022512,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "ASTRO",
+                "productYear": "1994",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE STEEL PROD. CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "FIRESTONE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "TIRE SIDEWALL BLOW-OUT.  *MR  THE RIGHT FRONT SIDEWALL HAD BLOWN OUT.  THE TIRE WAS 1 1/2 YEARS OLD WITH A 2-3 INCH GASH IN A LINE FROM THE HUB TO THE OUTER TREAD IN THE OUTSIDE SIDEWALL.  THE DEALER REP STATED THAT THERE WAS A HISTORY OF BLOWOUTS WITH THESE TIRES.  DURING AN OIL CHANGE THE CONSUMER WAS TOLD HE RIGHT SIDE IDLER ARM WAS LOOSE AND NEEDED TO BE REPLACED AND THAT THE IDLER ARM MAY HAVE CAUSED THE RIGHT FRONT TIRE TO BECOME CHOPPY ALSO RECOMMENDED REPLACEMENT OF THE RIGHT REAR TIRE.  (THE TIRE ONLY HAD 12500K MILES AT THE TIME)  (FIRESTONE FT70CTUWSPS)  *SCC  *JB",
+        "vin": ""
+    }
+]

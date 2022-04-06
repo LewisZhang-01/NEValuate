@@ -1,0 +1,62 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "08/27/2011",
+        "dateOfIncident": "08/05/2011",
+        "fire": false,
+        "manufacturer": "Big Dog Motorcycles, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10421686,
+        "products": [
+            {
+                "manufacturer": "Big Dog Motorcycles, LLC",
+                "productMake": "BIG DOG",
+                "productModel": "MASTIFF",
+                "productYear": "2007",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Max-Trac Tire Co., Inc.",
+                "productMake": "AVON",
+                "productModel": "COBRA AV72",
+                "productYear": "9999",
+                "size": "240/50R16 84V",
+                "type": "Tire"
+            }
+        ],
+        "summary": "I HAD A AVON COBRA 300/35-18 TIRE START TO SEPARATE WITH ONLY 1800 MILES ON IT.  *TT",
+        "vin": ""
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "08/06/2011",
+        "dateOfIncident": "08/04/2011",
+        "fire": false,
+        "manufacturer": "Big Dog Motorcycles, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10417779,
+        "products": [
+            {
+                "manufacturer": "Big Dog Motorcycles, LLC",
+                "productMake": "BIG DOG",
+                "productModel": "MASTIFF",
+                "productYear": "2007",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Max-Trac Tire Co., Inc.",
+                "productMake": "AVON",
+                "productModel": "COBRA AV72",
+                "productYear": "9999",
+                "size": "240/50R16 84V",
+                "type": "Tire"
+            }
+        ],
+        "summary": "MOTORCYCLE TIRE AVON COBRA AV72 3000/35 VR18  (87V) THIS TIRE IS SEPERATING AT THE JOIN SLICE AFTER ONLY 6500 MILES. THE SAME IDENTICAL TIRE ON A DIFFERENT BIKE IS SEPERATING AFTER 2500 MILES. A BLOW OUT IF THIS TIRE FAILS COULD RESULT IN INJURY OR DEATH. THIS FAILURE HAS BEEN REPORTED ON MANY BIKES WITH THE SAME EXACT TIRE.  *TT",
+        "vin": "5J11MBJB57W"
+    }
+]

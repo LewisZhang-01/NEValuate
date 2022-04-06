@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN,SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "01/18/2018",
+        "dateOfIncident": "12/20/2017",
+        "fire": false,
+        "manufacturer": "Subaru of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11063414,
+        "products": [
+            {
+                "manufacturer": "Subaru of America, Inc.",
+                "productMake": "SUBARU",
+                "productModel": "IMPREZA",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TAKATA RECALL:   PLEASE NOTE SHIFT LEVEL GEAR CONTROL LOCKS WHEN CAR IS TURNED ON, IN PARK, FOOT ON BRAKE. THE TRACTION CONTROL SENSORS, EMERGENCY BRAKE SENSORS, AND HILL SENSORS TURN ON WHEN THIS HAPPENS. THE GEAR LOCKS AND THE CAR WILL NOT TURN ON OR OFF COMPLETELY WHEN THESE SENSORS ARE ON. IT WILL ONLY TURN OFF WHEN THE BRAKE HAS BEEN APPLIED FOR SO LONG. THIS HAS HAPPENED ON NUMEROUS OCCASIONS AND PLACES, PARKING LOTS, DRIVEWAYS, AND IN AREAS WHEN CHANGING GEARS NEEDS TO OCCUR AND SIMPLE WILL NOT",
+        "vin": "JF1GPAL65E8"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "09/22/2004",
+        "dateOfIncident": "09/22/2004",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10094114,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TAURUS",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER RECEIVED  RECALL 04V332000 CONCERNING COIL SPRINGS. NO PARTS  WERE AVAILABLE. SERVICE MANAGER PAT MILLIKEN.  *AK",
+        "vin": "1B4GP45R4WB"
+    }
+]

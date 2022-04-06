@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "12/30/2015",
+        "dateOfIncident": "12/29/2015",
+        "fire": false,
+        "manufacturer": "Porsche Cars North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10817114,
+        "products": [
+            {
+                "manufacturer": "Porsche Cars North America, Inc.",
+                "productMake": "PORSCHE",
+                "productModel": "CAYENNE",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AUTO START STOP FUNCTION.  WHEN APPROACHING A STOP LIGHT, THE ENGINE WILL SHUT OFF WHILE CAR IS STILL MOVING SLOWLY.  YOU LOSE ABILITY TO STEER VEHICLE WHILE MOVING (ALBEIT SLOWLY) WHEN THE AUTO START/STOP FUNCTION ENGAGES.  THIS FUNCTION SHOULD ONLY OCCUR WHEN THE CAR IS STOPPED, NOT MOVING SLOWLY.   *JS",
+        "vin": "WP1AB2A28GL"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "01/20/2003",
+        "dateOfIncident": "01/19/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003014,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE TRANSMISSION DISENGAGED WHILE DRIVING. CHECKED THE TRANSMISSION FLUID LEVEL, AND NOTICED THAT IT WAS VERY LOW. I BROUGHT THE FLUID LEVEL TO NORMAL LEVELS, AND NOTICED THAT IT LEAKS TRANSMISSION FLUID VERY BADLY.",
+        "vin": ""
+    }
+]

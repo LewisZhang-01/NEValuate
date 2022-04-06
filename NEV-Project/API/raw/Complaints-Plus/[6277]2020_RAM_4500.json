@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "10/22/2021",
+        "dateOfIncident": "11/11/2020",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11437842,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "RAM",
+                "productModel": "4500",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Truck turned off while driving and died. Would not turn back on. Was towing a 40ft gooseneck trailer with a load on it. Truck was stopped blocking multiple lanes of traffic. Truck and trailer had to be towed to nearest dealership where they found the CP4 fuel pump had failed and the entire fuel system needed to be replaced.",
+        "vin": "3C7WRLDL8LG"
+    }
+]

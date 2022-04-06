@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": true,
+        "dateComplaintFiled": "02/03/2003",
+        "dateOfIncident": "12/05/2002",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10006243,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "ACCORD",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE WAS IN A REAR END COLLISION. THE DRIVER/PASSENGER BACK SEAT RECLINED BACKWARD UPON  IMPACT. THE  REAR  SEAT WAS NOT OCCUPIED AT THE TIME OF THE ACCIDENT SO NO ONE WAS HURT. PLEASE  PROVIDE MORE DETAILS.    PH",
+        "vin": ""
+    }
+]

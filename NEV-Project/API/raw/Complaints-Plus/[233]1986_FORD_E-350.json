@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "05/04/2020",
+        "dateOfIncident": "05/03/2020",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11323289,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "E-350",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENGINE STARTER WOULD NOT DISENGAGE EVEN WITH KEY REMOVED",
+        "vin": "1FDKE30L9GH"
+    }
+]

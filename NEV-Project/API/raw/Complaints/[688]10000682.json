@@ -1,0 +1,32 @@
+[
+    {
+        "components": "POWER TRAIN,TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/02/2003",
+        "dateOfIncident": "10/16/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000682,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "CONTOUR",
+                "productYear": "1996",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "RADIAL",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "TRANSMISSION HAS FAILED REPEATEDLY EVEN AFTER COMPLETE REBUILD.      HAVE ALSO HAD TREAD SEPARATION IN TIRES ON 5 SEPARATE OCCASIONS",
+        "vin": "3FALP6534TM"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "PARKING BRAKE,ELECTRICAL SYSTEM,VISIBILITY,AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "01/06/2003",
+        "dateOfIncident": "12/31/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000539,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPEDITION",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "INTERRIOR LIGHT FAILS TO GO OFF, EVEN WITH VEHICLE RUNNING.  ON ONE INSTANCE, IT BEGAN FLASHING.  THIS WAS VERY DISTRACTING AND DANGEROUS AS IT WAS AT NIGHT.  I WAS ONLY ABLE TO TURN THE INTERIOR LIGHT OFF BY PULLING THE RELAY.  THIS IS A KNOWN ISSUE WITH 1999-2000 EXPEDITIONS, BUT APPARENTLY IT AFFECTS 1998 VEHICLES AS WELL.",
+        "vin": "1FMRU1762WL"
+    }
+]

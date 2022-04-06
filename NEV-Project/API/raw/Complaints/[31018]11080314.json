@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "03/19/2018",
+        "dateOfIncident": "03/12/2018",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 11080314,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "ELANTRA",
+                "productYear": "2017",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TAKATA RECALL- VEHICLE WAS TURNING LEFT WHEN HIT FROM DRIVER'S SIDE BY ANOTHER VEHICLE. DRIVER WAS INJURED, AIRBAGS DID NOT DEPLOY. SEE PICTURES. STATE POLICE SUSPECT THAT NONE OF THE AIRBAG SENSORS WERE TRIGGERED DURING THE COLLISION WHEN IT WAS EXPECTED THEY WOULD DO SO UNDER SUCH CIRCUMSTANCES.",
+        "vin": "5NPDH4AE4DH"
+    }
+]

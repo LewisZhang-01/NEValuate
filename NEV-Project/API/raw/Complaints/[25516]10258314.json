@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "02/11/2009",
+        "dateOfIncident": "01/15/2009",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10258314,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "TOWN AND COUNTRY",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "RACK AND PINION CAUSING SEVERE INTERMITTENT SHUDDER AND LOSS OF POWER ASSIST WHEN TURNING AT LOW SPEEDS.  *TR",
+        "vin": "2C8GP54L35R"
+    }
+]

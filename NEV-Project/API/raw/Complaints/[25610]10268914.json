@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "05/16/2009",
+        "dateOfIncident": "05/10/2009",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10268914,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EDGE",
+                "productYear": "2007",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "HANKOOK TIRE MFG. CO.",
+                "productMake": "HANKOOK",
+                "productModel": "HANKOOK",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "SUDDEN DEFLATION OF FRONT DRIVERS TIRE. UPON INSPECTION THREE OF THE FOUR TIRE VALVE STEMS ON THE VEHICLE ARE CRACKED. ALSO THE SCISSOR TYPE JACK PROVIDED IN THE FORD EDGE COLLAPSED UNDER THE WEIGHT OF THE SUV. HAD TO CALL 911 FOR A TOW TRUCK. *TR",
+        "vin": "2FMDK49C27B"
+    }
+]

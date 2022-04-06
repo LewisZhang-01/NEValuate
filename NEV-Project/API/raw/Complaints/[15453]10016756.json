@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": true,
+        "dateComplaintFiled": "04/30/2003",
+        "dateOfIncident": "04/27/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10016756,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-250 SD",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "STEELTEX AT",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "MY WIFE WAS DRIVING SOUTH OF KANSAS CITY ON MO HIGHWAY 71.  SHE WAS PASSING A CAR ON THE LEFT LANE OF A DIVIDED HIGHWAY AND THE RIGHT FRONT TIRE \"EXPLODED, IMMEDIATELY PULLING HER OFF THE ROAD DOWN A 3-4 FT. EMBANKMENT INTO THE MEDIAN.  LUCKILY, SHE AVOIDED ROLLING THE TRUCK AND WAS NOT PERSONALLY INJURED.  THE TIRE HAS SEPERATED BELTS AND LOOKS LIKE IT \"EXPLODED\".  THE TIRE IS A FIRESTONE STEELTEX A/T LT 265/75 R16 DOT VNW8 1XL 289.  IT IS NOT LISTED IN THE FIRESTONE RECALL.  THE TRUCK BUMPER, FENDER AND WHEEL WELL WAS DAMAGED.",
+        "vin": ""
+    }
+]

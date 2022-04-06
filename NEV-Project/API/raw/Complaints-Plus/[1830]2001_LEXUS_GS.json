@@ -1,0 +1,68 @@
+[
+    {
+        "components": "STEERING,AIR BAGS,ELECTRONIC STABILITY CONTROL",
+        "crash": true,
+        "dateComplaintFiled": "05/13/2020",
+        "dateOfIncident": "04/25/2020",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 2,
+        "odiNumber": 11324419,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "LEXUS",
+                "productModel": "GS",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "STEERING WENT OUT.  *TR",
+        "vin": "JT8BD69S310"
+    },
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "05/08/2006",
+        "dateOfIncident": "05/05/2006",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10156978,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "LEXUS",
+                "productModel": "GS",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "LOWER BALL JOINT CAME APART OR LOSE. *JB",
+        "vin": "JT8BD69S910"
+    },
+    {
+        "components": "LATCHES/LOCKS/LINKAGES",
+        "crash": false,
+        "dateComplaintFiled": "04/05/2006",
+        "dateOfIncident": "04/05/2005",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10154665,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "LEXUS",
+                "productModel": "GS",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I OWN A 2001 LEXUS GS300.  I BOUGHT IT NEW.  MY COMPLAINT IS ABOUT THE DESIGN OF THE TRUNK LID.  EVERY TIME YOU OPEN IT, IT WILL NOT STAY UP IN A WIND OR WHEN PARKED ON A HILL. IT HAS COME DOWN ON MY HEAD MORE TIMES THAN I CAN COUNT.  THE LAST TIME WAS TODAY IN A WIND.  IT CUT MY HEAD.  I HAVE TALKED TO THE DEALER ABOUT THE PROBLEM AND HE SAID THAT IS THE WAY IT IS DESIGNED AND TO GET A STICK TO HOLD IT UP.   THE FIRST DAY I OPENED THE TRUNK WHEN I BOUGHT IT, IT CAME DOWN ON MY HEAD.   I WONDER WHAT WOULD HAPPEN IF A CHILD GOT HIT BY THE TRUNK LID.  *JB",
+        "vin": "JT8BD69S410"
+    }
+]

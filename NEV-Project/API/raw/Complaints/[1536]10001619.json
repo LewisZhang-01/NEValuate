@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "12/30/2002",
+        "dateOfIncident": "12/23/2002",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001619,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "NEON",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE WAS INVOLVED IN A FRONT PANEL COLLISION ON THE DRIVER SIDE AND NEITHER AIR BAG DEPLOYED. DEALER AND THE MANUFACTURER HAS NOT BEEN NOTIFIED AT THIS TIME. FEEL FREE TO PROVIDE ANY FURTHER INFORMATION. TS",
+        "vin": ""
+    }
+]

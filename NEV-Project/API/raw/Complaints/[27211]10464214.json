@@ -1,0 +1,24 @@
+[
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "07/04/2012",
+        "dateOfIncident": "07/01/2012",
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10464214,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "2009",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVING SOWN ROAD, A/C FAN QUIT AND SMOKE CAME OUT OF THE VENTS. A FIRE STARTED UNDER THE DASH ON PASSENGER SIDE.    *JS",
+        "vin": "1FTRF14W29K"
+    }
+]

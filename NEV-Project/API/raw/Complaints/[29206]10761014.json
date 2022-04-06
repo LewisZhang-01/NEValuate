@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "09/02/2015",
+        "dateOfIncident": "07/06/2015",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10761014,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "300C",
+                "productYear": "2008",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "RECALLED IGNITION HAD BECOME LOCKED IN \"OFF\" AND \"ACCESSORY\" POSITION.  DEALER HAD TO TAKE IGNITION APART IN ORDER TO GET THE KEY FOB RELEASED FROM ITS LOCKED POSITION.  VEHICLE HAS SAT ON DEALERSHIP LOT SINCE 7/6/2015, WAITING FOR REPLACEMENT IGNITION THAT HAS BEEN RELEASED SINCE 8/26/15, BUT WAS ORIGINALLY TO BE RELEASED 7/28/15.",
+        "vin": "2C3KK63H88H"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "01/07/2017",
+        "dateOfIncident": "10/01/2016",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10940314,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "MALIBU",
+                "productYear": "2012",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CRACK IN THE WELD AT ONE OF THE SPOKES WHERE IT IS CONNECTED TO THE WHEEL. SO FAR 3 OF THE 4 WHEELS HAVE FAILED.",
+        "vin": "1G1ZB5E07CF"
+    }
+]

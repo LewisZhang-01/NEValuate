@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "07/23/2010",
+        "dateOfIncident": "01/01/2008",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10344914,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DEFECT IN HATCH AREA OF FORD EXPLORER CAUSING A CRACK NEAR THE FORD EMBLEM. HAPPENED WHEN VEHICLE HAD LESS THAN 60K MILES. CALLED FORD DEALER WHO SAID NOT COVERED UNDER WARRANTY. *TR",
+        "vin": "1FMDU74K94U"
+    }
+]

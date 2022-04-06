@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "06/22/2003",
+        "dateOfIncident": "04/19/2002",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10023556,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "PT CRUISER",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ALL AIR BAGS FAILED  TO INFLATE IN A SIDE AND FRONT IMPACT CRASH OF 2002 CHRYSLER PT CRUISER.    *NLM",
+        "vin": ""
+    }
+]

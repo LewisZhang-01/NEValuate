@@ -1,0 +1,31 @@
+[
+    {
+        "components": "CHILD SEAT",
+        "crash": false,
+        "dateComplaintFiled": "06/17/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "UNKNOWN MANUFACTURER",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10024217,
+        "products": [
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN1",
+                "productYear": "9999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Evenflo Company, Inc.",
+                "productMake": "EVENFLO",
+                "productModel": "492 (ON MY WAY TRAVEL SYSTEM)",
+                "productYear": "9999",
+                "type": "Child Seat"
+            }
+        ],
+        "summary": "WHILE ATTEMPTING TO PICK UP CHILD SEAT THE HANDLE SUDDENLY RELEASED AND THE CHILD SEAT FLIPPED FORWARD.  CHILD WAS STRAPPED IN, BUT NOT  INJURED.  *AK",
+        "vin": ""
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "01/01/2003",
+        "dateOfIncident": "08/21/2001",
+        "fire": false,
+        "manufacturer": "Mercedes-Benz USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000457,
+        "products": [
+            {
+                "manufacturer": "Mercedes-Benz USA, LLC",
+                "productMake": "MERCEDES BENZ",
+                "productModel": "300 SERIES",
+                "productYear": "1988",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ODOMETER TAMPERING",
+        "vin": "WDBCA25D1JA"
+    }
+]

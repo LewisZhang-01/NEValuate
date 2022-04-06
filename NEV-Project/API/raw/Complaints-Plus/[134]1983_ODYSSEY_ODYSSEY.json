@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "01/02/1997",
+        "dateOfIncident": "09/28/1996",
+        "fire": false,
+        "manufacturer": "ODYSSEY R.V., INC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 527347,
+        "products": [
+            {
+                "manufacturer": "ODYSSEY R.V., INC",
+                "productMake": "ODYSSEY",
+                "productModel": "ODYSSEY",
+                "productYear": "1983",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE EXPERIENCED RECALL COMPONENT FAILURE (REAR AXLE ASSEMBLY) CAUSING VEHICLE DAMAGE.",
+        "vin": "JT5RN44D7D1"
+    }
+]

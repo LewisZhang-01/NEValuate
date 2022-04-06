@@ -1,0 +1,32 @@
+[
+    {
+        "components": "STEERING,TIRES",
+        "crash": false,
+        "dateComplaintFiled": "12/31/2002",
+        "dateOfIncident": "01/20/2001",
+        "fire": false,
+        "manufacturer": "MONACO COACH CORPORATION",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000654,
+        "products": [
+            {
+                "manufacturer": "MONACO COACH CORPORATION",
+                "productMake": "MONACO COACH",
+                "productModel": "DIPLOMAT LE",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "UNISTEEL TIRE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "2ND UPDATE TO OD ID 8005766.  THE GOODYEAR TIRE REPLACEMENT, WE ARE TOLD, WAS NOT A RECALL AND DID NOT INCLUDE OUR COACH.  HOWEVER, WE FEEL BECAUSE THE TIRE SIZES BEING REPLACED WERE THE SAME AS OURS, WE SHOULD BE INCLUDED.  MONACO STATES THEY DID NOT TELL GOODYEAR NOT TO REPLACE THE TIRES, GOODYEAR CHOSE NOT TO PUT LARGER TIRES ON.   WE HAVE ALSO SOUGHT TO HAVE THE MONROE SHOCKS REPLACED AND WERE TOLD BY MONROE THAT ROADMASTER WOULD HAVE TO TAKE THEM OFF AND SEND THEM BACK; HOWEVER, BECAUSE OF THE LEGAL DISPUTE, ROADMASTER WILL NOT DO THIS.  THE SHOCKS ARE UNDER WARRANTY.  WE ARE STILL BEING TOLD TO CONTACT A MONROE DEALER.  HOWEVER, WE STILL FEEL THAT BECAUSE MONACO HAS BEEN AWARE OF THIS PROBLEM WITH THE STEERING SINCE WE'VE HAD THE MOTOR HOME, THEY SHOULD BE MORE COOPERATIVE WHEN OUTSIDE AGENCIES TRY TO ASSIST US.  WE FEEL THE MOTOR HOME IS NOT SAFE TO DRIVE BECAUSE OF THE STEERING.",
+        "vin": "1RF12061212"
+    }
+]

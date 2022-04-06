@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": true,
+        "dateComplaintFiled": "01/22/2003",
+        "dateOfIncident": "12/30/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003215,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO 3500",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "APPLIED ABS BRAKES AT 40 MPH .BRAKES STARTED TO CATCH THEN WENT TO FLOOR CAUSING INCREASED STOPPPING DISTANCE AND VEHICLE COLLISION.",
+        "vin": ""
+    }
+]

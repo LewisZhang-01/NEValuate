@@ -1,0 +1,46 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "12/16/2014",
+        "dateOfIncident": "06/27/2012",
+        "fire": false,
+        "manufacturer": "FREIGHTLINER LLC",
+        "numberOfDeaths": 2,
+        "numberOfInjuries": 2,
+        "odiNumber": 10664674,
+        "products": [
+            {
+                "manufacturer": "FREIGHTLINER LLC",
+                "productMake": "WESTERN STAR",
+                "productModel": "4900",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNED A 2001 WESTERN STAR 4900 TRUCK. THE CONTACT STATED THAT THE DRIVER CRASHED INTO ANOTHER VEHICLE AND THE AIR BAGS FAILED TO DEPLOY. THE FRONT SEAT OCCUPANTS IN THE SECOND VEHICLE SUSTAINED FATAL INJURIES. A POLICE REPORT WAS FILED. THE DETAILS OF THE CRASH WERE LIMITED AND THE SPECIFICS ON WHETHER THE VEHICLE WAS DIAGNOSED OR REPAIRED WERE NOT AVAILABLE. THE MANUFACTURER WAS NOT NOTIFIED OF THE FAILURE. THE FAILURE MILEAGE WAS NOT AVAILABLE.",
+        "vin": "2WLPDD3JX1K"
+    },
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "03/14/2008",
+        "dateOfIncident": "08/16/2001",
+        "fire": false,
+        "manufacturer": "FREIGHTLINER LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10221205,
+        "products": [
+            {
+                "manufacturer": "FREIGHTLINER LLC",
+                "productMake": "WESTERN STAR",
+                "productModel": "4900",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 2001 WESTERN STAR 4964SX (NA).  THE VEHICLE SWAYS SIDE TO SIDE EACH TIME IT IS DRIVEN.  THE VEHICLE WAS TAKEN TO AN INSTALLATION COMPANY AND THEY STATED THAT THE PUSHER AXLE WAS INSTALLED IMPROPERLY.  THE SPEED AND ENGINE SIZE WERE UNKNOWN.  THE CURRENT MILEAGE WAS 74,068 AND FAILURE MILEAGE WAS 1,000.",
+        "vin": "2WLPCD2H11K"
+    }
+]

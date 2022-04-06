@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "02/02/2003",
+        "dateOfIncident": "01/15/2001",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005119,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "PROBE",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "POWER STEERING GETS TIGHT. HAPPENS WHEN EXITING A HIGHWAY AT HIGH RATE OF SPEED TO THE RIGHT.   *JB",
+        "vin": "1ZVLT22B1S5"
+    }
+]

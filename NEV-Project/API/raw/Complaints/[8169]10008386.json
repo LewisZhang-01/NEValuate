@@ -1,0 +1,31 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "03/04/2003",
+        "dateOfIncident": "02/22/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10008386,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD MOTOR COMPANY",
+                "productModel": "AFTERMARKET TRAILER HITCH",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "REPLACED IGNITION LOCK AND CYLINDER TWICE ON A 2000 FORD FOCUS.  HAD TO  HAVE THE CAR TOWED.  THE STEERING WHEEL OCCASIONALLY LOCKS.  HAVE AROUND 46338 MILES ON THE AUTOMOBILE.  THE BILL WAS $215.52.  PURCHASED THE AUTOMOBILE FROM TEAM FORD IN TARBORO, NORTH CAROLINA.  *NLM",
+        "vin": "1FAFP33P3YW"
+    }
+]

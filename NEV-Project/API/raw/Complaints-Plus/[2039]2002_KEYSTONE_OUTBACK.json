@@ -1,0 +1,46 @@
+[
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "06/06/2008",
+        "dateOfIncident": "05/26/2008",
+        "fire": false,
+        "manufacturer": "Keystone RV Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10230104,
+        "products": [
+            {
+                "manufacturer": "Keystone RV Company",
+                "productMake": "KEYSTONE",
+                "productModel": "OUTBACK",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 2002 KEYSTONE OUTBACK.  THE CONTACT STATED THAT HIS REFRIGERATOR WAS REPAIRED ACCORDING TO THE DOMETIC RECALL; HOWEVER, HE DOES NOT FEEL THAT THE FAILURE HAS BEEN CORRECTED.  THE MECHANIC WHO REPAIRED HIS VEHICLE INFORMED HIM THAT IT WAS NOT SAFE BECAUSE A FIRE COULD STILL OCCUR AND THE COOLANT COULD STILL LEAK.  THERE HAD BEEN NO FAILURE TO DATE.  THE RECALL NUMBER AND REFRIGERATOR INFORMATION WERE UNKNOWN.  THE VEHICLE IS A PULL BEHIND TRAILER; THEREFORE, THERE IS NO VIN OR MILEAGE INFORMATION.",
+        "vin": ""
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "11/02/2004",
+        "dateOfIncident": "11/19/2003",
+        "fire": false,
+        "manufacturer": "Keystone RV Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10099207,
+        "products": [
+            {
+                "manufacturer": "Keystone RV Company",
+                "productMake": "KEYSTONE",
+                "productModel": "OUTBACK",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE CONSUMER HAS A PROBLEM WITH RODENTS EATING THE WIRING INSULATION.  THE WIRING INSULATION WAS REPLACED AND THEY ARE EATING UP THE NEW REPLACEMENT WIRING AGAIN.  *JB",
+        "vin": "4S3BH896X27"
+    }
+]

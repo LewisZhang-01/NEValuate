@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/08/2003",
+        "dateOfIncident": "05/07/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021269,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TAURUS",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "AFFINITY",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHILE DRIVING AT 70 MPH THE PASSENGER REAR TIRE BLEW OUT.  THE BLOWOUT OCCURRED ON THE SIDEWALL OF THE TIRE, AND HALF OF THE TIRE WAS SEPARATED FROM THE TREAD.  IT APPEARS THAT THE RIM WAS SLIGHTLY DAMAGED.        *TT",
+        "vin": "1FAHP53U31A"
+    }
+]

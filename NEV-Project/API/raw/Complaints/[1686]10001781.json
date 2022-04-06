@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "12/31/2002",
+        "dateOfIncident": "12/14/2002",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001781,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "CAMRY",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATES THAT VEHICLE'S FRONT RIGHT STRUT HAS BEEN DESTROYED. WHEN VEHICLE DRIVES OVER BUMPS IT MAKES LOUD NOISE. PLEASE PROVIDE ADDITIONAL INFORMATION. TS",
+        "vin": "4T1BG22K87U"
+    }
+]

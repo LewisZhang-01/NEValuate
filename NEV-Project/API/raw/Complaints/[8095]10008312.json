@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "03/01/2003",
+        "dateOfIncident": "02/25/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10008312,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-250 SD",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "HORN CANNOT BE ACTIVATED QUICKLY OR REPEATEDLY BECAUSE ONLY A VERY SMALL SPOT IN THE AIRBAG/STEERING PAD IS LIVE.  FINDING THE SMALL, UNMARKED SPOT IS IMPOSSIBLE UNDER EMERGENCY CONDITIONS AND DIFFICULT AT ANY TIME.  DEALERS KNOW IT'S A PROBLEM BUT HAVE NO FIX.  COMMON TO ALL SUPER DUTY WITH AIRBAG.*JB",
+        "vin": "1FTNF20L4XE"
+    }
+]

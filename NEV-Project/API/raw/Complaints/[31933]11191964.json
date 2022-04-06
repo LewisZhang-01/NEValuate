@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "03/27/2019",
+        "dateOfIncident": "03/25/2019",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11191964,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "CIVIC",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENGINE PERIODICALLY STALLS WITHOUT WARNING WHILE DRIVING.   AFTER A FEW MINUTES, ENGINE RE-STARTS, BUT MAY THEN STALL AGAIN. IT HAS HAPPENED ALL TIMES OF DAY [MORNING, AFTERNOON, ETC] AND AT VARIOUS SPEEDS [ UNDER 20 MPH, AT 60MPH] . THIS IS NOW HAPPENING WITH INCREASING FREQUENCY. WAS INITIALLY ONCE EVERY FEW MONTHS, AND IS NOW EVERY FEW DAYS.",
+        "vin": "1HGEJ6671XL"
+    }
+]

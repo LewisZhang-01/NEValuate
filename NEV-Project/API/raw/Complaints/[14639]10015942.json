@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "04/15/2003",
+        "dateOfIncident": "04/15/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015942,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAVALIER",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN THE MANUAL TRANSMISSION WAS SHIFTED FROM SECOND GEAR TO THIRD GEAR IT MADE A RATTLING NOISE.  THE DEALER CHANGED THE TRANSMISSION BUT THE NOISE WAS STILL PRESENT.  *NLM",
+        "vin": "PROVIDE"
+    }
+]

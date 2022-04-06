@@ -1,0 +1,46 @@
+[
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "10/12/2021",
+        "dateOfIncident": "10/12/2021",
+        "fire": false,
+        "manufacturer": "Grand Design RV, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11436414,
+        "products": [
+            {
+                "manufacturer": "Grand Design RV, LLC",
+                "productMake": "GRAND DESIGN",
+                "productModel": "SOLITUDE",
+                "productYear": "2021",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2021 GRAND DESIGN SOLITUDE RV. CONSUMER WRITES IN REGARDS TO VARIOUS ISSUES WITH RV.  THE CONSUMER STATED THE REGULATOR MALFUNTIONED CAUSING A SMELL OF PROPANE. THERE WAS LEAKAGE THAT PREVENTED THE USE OF APPLIANCES THAT REQUIRED PROPANE. WATER SEEPED FROM UNDER THE DRIVER'S SIDE  KITCHEN SLIDE OUT. THE BLINDS HAD WATER MARKS. REFRIGERATOR DISPLAYED CODE DR DUE TO A FAULTY DOOR SWITCH. BEDROOM CLOSET DOOR WAS DIFFICULT TO OPEN AND CLOSE. WALL PANELING SEPARATED. PANTRY DRAWER WOULD NOT OPEN PROPERLY DUE TO BEARING FALLEN OUT. THE RECLINING CHAIRS WERE NOT SECURED AND MOVED WHILE VEHICLE WAS BEING TRANSPORTED. THE SCREEN DOOR WAS DIFFICULT  TO CLOSE. WHILE BEING TRANSPORTED, SCREWS FALL OUT OF THE VEHICLE AND STORAGE COMPARTMENTS.",
+        "vin": "573fs4224ma"
+    },
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "07/21/2021",
+        "dateOfIncident": "06/27/2021",
+        "fire": true,
+        "manufacturer": "Grand Design RV, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11425821,
+        "products": [
+            {
+                "manufacturer": "Grand Design RV, LLC",
+                "productMake": "GRAND DESIGN",
+                "productModel": "SOLITUDE",
+                "productYear": "2021",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Electrical system spontaneously caught fire. Had this happened while on the road or with people inside the trailer, it would have lead to serious injury or death. The issue has been confirmed by the manufacturer and they are refusing to take action or honor the warrantee. The RV has been inspected by the manufacturer and is the in process of being inspected by insurance. There was no warning or symptoms prior to smoke pouring from various compartments of the RV.",
+        "vin": "573FS4322MA"
+    }
+]

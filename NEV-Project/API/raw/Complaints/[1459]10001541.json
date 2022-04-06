@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "12/27/2002",
+        "dateOfIncident": "10/29/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001541,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "CENTURY",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "RACK AND PINION STEERING PROBLEM. DEALER WAS CONTACTED, AND HAD FOUND THAT PROBLEM WAS FIXED. ALSO  THERE WAS A RECALL ON  DIFFERENT MAKES AND MODELS  WITH SAME PROBLEM; BUT, HIS VEHICLE WAS NOT INCLUDED DUE TO VIN.  TS...*AK",
+        "vin": "2G4WS52M5W1"
+    }
+]

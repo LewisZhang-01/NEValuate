@@ -1,0 +1,46 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,EXTERIOR LIGHTING",
+        "crash": false,
+        "dateComplaintFiled": "03/07/2022",
+        "dateOfIncident": "08/18/2021",
+        "fire": false,
+        "manufacturer": "Daimler Trucks North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11455571,
+        "products": [
+            {
+                "manufacturer": "Daimler Trucks North America, LLC",
+                "productMake": "FCCC",
+                "productModel": "S2RV",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact owns 2019 FCC RV000042S. The contact received notification of NHTSA Campaign Number: 20V404000 (Electrical System, Exterior Lighting) however, the part to do the recall repair was not yet available. The local dealer was contacted. The contact stated that the manufacturer had exceeded a reasonable amount of time for the recall repair. The manufacturer was not made aware of the issue. The contact had not experienced a failure. Parts distribution disconnect.",
+        "vin": "4uzaajfc3kc"
+    },
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "03/15/2021",
+        "dateOfIncident": "03/15/2021",
+        "fire": false,
+        "manufacturer": "Daimler Trucks North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11403071,
+        "products": [
+            {
+                "manufacturer": "Daimler Trucks North America, LLC",
+                "productMake": "FCCC",
+                "productModel": "S2RV",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2019 FREIGHTLINER S2 106. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 20V796000 (EQUIPMENT) HOWEVER, THE PART TO DO THE RECALL REPAIR WAS UNAVAILABLE. THE VEHICLE WAS TAKEN TO MANTECA TRAILER & MOTORHOME, LLC. (204 VASCONCELLOS AVE, MANTECA, CA 95336) WHERE IT WAS CONFIRMED THAT THE PART WAS NOT YET AVAILABLE. THE CONTACT STATED THAT THE MANUFACTURER EXCEEDED A REASONABLE AMOUNT OF TIME FOR THE RECALL REPAIR. THE MANUFACTURER WAS NOT MADE AWARE OF THE ISSUE. THE CONTACT HAD NOT EXPERIENCED A FAILURE. VIN TOOL CONFIRMS PARTS NOT AVAILABLE.",
+        "vin": "4UZADVFC8KC"
+    }
+]

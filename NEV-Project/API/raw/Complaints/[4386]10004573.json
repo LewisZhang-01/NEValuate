@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS,WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "02/03/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004573,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAVALIER",
+                "productYear": "9999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE WHEEL WAS REPAIRED, AND THE DRIVER SEAT BELT WAS REPAIRED ON 5 SEPARATE OCCASIONS.*JB",
+        "vin": ""
+    }
+]

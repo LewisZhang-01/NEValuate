@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "08/17/2011",
+        "dateOfIncident": "08/10/2011",
+        "fire": false,
+        "manufacturer": "Big Dog Motorcycles, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10419911,
+        "products": [
+            {
+                "manufacturer": "Big Dog Motorcycles, LLC",
+                "productMake": "BIG DOG",
+                "productModel": "MUTT",
+                "productYear": "2008",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Max-Trac Tire Co., Inc.",
+                "productMake": "AVON",
+                "productModel": "COBRA AV72",
+                "productYear": "9999",
+                "size": "240/50R16 84V",
+                "type": "Tire"
+            }
+        ],
+        "summary": "MY MOTORCYCLE AVON COBRA AV72 REAR TIRE, SIZE 250/40R18 REAR TIRE IS SEPARATING AND BEGINNING TO SPLIT ACROSS THE WIDTH OF THE TIRE WITH ONLY 2,000 MILES OF RIDING ON IT. THE SPLITS LOOK TO BE WHERE THE LAP SEAMS ARE JOINED TOGETHER. THERE IS NO DOUBT THAT CONTINUED USE WILL RESULT IN A BLOW OUT.  *KB",
+        "vin": ""
+    }
+]

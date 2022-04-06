@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "01/08/2003",
+        "dateOfIncident": "10/30/2002",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10001931,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "PLYMOUTH",
+                "productModel": "VOYAGER",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE FUEL LINE CRACKED CAUSING FUEL TO LEAK ONTO THE MANIFOLD ALLOWING FUMES TO ESCAPE INTO THE VEHICLE. FUEL LINE HAD TO BE REPLACED.  *TT  *NLM",
+        "vin": "2P4FP2537VR"
+    }
+]

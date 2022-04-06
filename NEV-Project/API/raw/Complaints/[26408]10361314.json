@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "10/20/2010",
+        "dateOfIncident": "10/17/2010",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10361314,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "MURANO",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVERS' SIDE SEAT LIFTER LINK FAILED, CAUSING VEHICLE TO SWERVE AT 40MPH. *TR",
+        "vin": "JN8AZ08W76W"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "02/25/2003",
+        "dateOfIncident": "02/25/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10008108,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TRANSMISSION FAILED AT 64,400 MILES WHILE ON EXPRESS WAY TRAVELING 60 MPH.  DEALER RECOMMENDS FULL REPLACEMENT WITH RE-MANUFACTURED UNIT.  INCIDENT OCCURED AFTER 60K EXTENDED MILEAGE WARRANTY EXPIRED.  ESTIMATES FOR REPAIR EXCEED $2,000 ON A VEHICLE WHICH IS LESS THAN 5 YEARS OLD.*JB",
+        "vin": "1FTZX18W7WK"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "04/15/2003",
+        "dateOfIncident": "07/20/2000",
+        "fire": false,
+        "manufacturer": "FEATHERLITE   INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015905,
+        "products": [
+            {
+                "manufacturer": "FEATHERLITE   INC.",
+                "productMake": "POLARIS",
+                "productModel": "VICTORY",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE CONSUMER ATTEMPTED TO START THE BIKE WHEN IT CAUGHT ON FIRE DUE TO A DEFECTIVE FUEL PUMP.   *NLM",
+        "vin": "5VPCB15D1Y3"
+    }
+]

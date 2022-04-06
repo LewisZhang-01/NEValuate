@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "06/02/2003",
+        "dateOfIncident": "05/03/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021579,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERCURY",
+                "productModel": "MOUNTAINEER",
+                "productYear": "1999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "WRANGLER HT",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE CONSUMERS VEHICLE WAS ORIGINALLY EQUIPPED WITH RECALL FIRESTONE WILDERNESS TIRES WHICH WERE REPLACED AT 30K MILES.  THE TIRES WERE REPLACED WITH GOODYEAR WRANGLER HT TIRES.  WITH 38K MILES ON THE TIRE,THE REAR PASSENGER SIDE TIRE BLEW OUT WHILE DRIVING 75 MPH.   THE CONSUMER PROCEEDED TO CHANGE THE TIRE WHEN HE NOTICED THAT THE JACK POINTS WERE LOCATED WHERE THE TIRE HAD BUNCHED UP.  ONCE THE CONSUMER FOUND A SUITABLE JACK POINT THE JACK DID NOT ADEQUATELY RAISE THE VEHICLE.   *MR   *SCC   *NLM",
+        "vin": "4M2ZU52E0XU"
+    }
+]

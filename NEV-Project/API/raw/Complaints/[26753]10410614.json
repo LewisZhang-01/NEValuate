@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "07/05/2011",
+        "dateOfIncident": "06/01/2011",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10410614,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "2011",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ARM RESTS FOR DRIVER'S SEAT TOO FAR FROM SEAT, ESPECIALLY ON THE LEFT, AND PROVIDE NO SUPPORT.  NOT A PROBLEM FOR LOCAL DRIVING BUT ON LONG TRIPS CAUSES ARM FATIGUE.  *KB",
+        "vin": ""
+    }
+]

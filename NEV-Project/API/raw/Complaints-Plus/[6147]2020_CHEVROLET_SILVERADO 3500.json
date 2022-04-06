@@ -1,0 +1,68 @@
+[
+    {
+        "components": "FUEL SYSTEM, DIESEL",
+        "crash": false,
+        "dateComplaintFiled": "03/03/2022",
+        "dateOfIncident": "02/23/2022",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11454995,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO 3500",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact owns a 2020 Chevrolet Silverado 3500. The contact stated that while driving at various speeds, the vehicle would independently downshift as the vehicle would fail to accelerate upon the depression of the accelerator pedal. The DEF (Diesel Exhaust Fluid) malfunction warning light would illuminate on the instrument panel during the failure. The contact had taken the vehicle to a dealer where they acknowledged the failure but informed him that the parts to repair the vehicle was unavailable. The manufacturer was notified of the failure and a complaint was filed. The vehicle had yet to be repaired. The failure mileage was approximately 40,000.",
+        "vin": "1gc4ytey5lf"
+    },
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "03/19/2021",
+        "dateOfIncident": "03/12/2021",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11403934,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO 3500",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2020 CHEVROLET SILVERADO 3500. THE CONTACT STATED THAT WHILE DRIVING 45 MPH, THE BRAKE PEDAL WAS DEPRESSED AND MADE AN ABNORMAL GRINDING SOUND. THE CONTACT STATED THAT EXTRA EFFORT WHILE DEPRESSING THE BRAKE PEDAL WAS NEEDED TO STOP THE VEHICLE. THE CONTACT STATED THE BRAKE WEAR SENSOR INDICATED THAT THE FRONT BRAKE PADS WERE AT 73 PERCENT WHILE THE REAR BRAKES WERE AT 52 PERCENT. THE CONTACT STATED THAT THE REAR BRAKE PADS HAD FAILED. THE CONTACT TOOK THE VEHICLE TO LONE STAR CHEVROLET (18900 NORTHWEST FWY, HOUSTON, TX 77065; (281) 653-6119) AND WAS INFORMED THEM THAT THEY SHOULD NOT RELY ON THE BRAKE SENSOR TO ACCURATELY DISPLAY THE BRAKE WEAR OF THE VEHICLE. THE VEHICLE WAS NOT DIAGNOSED NOR REPAIRED. THE MANUFACTURER WAS MADE AWARE OF THE FAILURE. THE APPROXIMATE FAILURE MILEAGE WAS 23,000.",
+        "vin": "1GB4WRE71LF"
+    },
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "09/19/2020",
+        "dateOfIncident": "09/15/2020",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11359976,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO 3500",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NEW VEHICLE ON DEALER LOT. ENGINE (DIESEL) WOULD NOT START REMOTELY AND ENGINE LIGHT CAME ON WHEN THE ENGINE WAS STARTED MANUALLY.",
+        "vin": "1GC4YVEY3LF"
+    }
+]

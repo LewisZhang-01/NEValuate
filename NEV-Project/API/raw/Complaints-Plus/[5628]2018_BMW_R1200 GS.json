@@ -1,0 +1,68 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "08/21/2021",
+        "dateOfIncident": "08/20/2021",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11429961,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "R1200 GS",
+                "productYear": "2018",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Vehicle reported engine fault and cut engine power while on freeway (commonly known as \"limp mode\").  It was extremely dangerous trying to find somewhere to pull over with very little engine power.   It has happened several times now.  Vehicle is now longer safe for freeway use.  It also happened once mid corner which upsets the chassis and is quite dangerous on a motorcycle.  Dealer performed a software update and cleared codes on 10/29/2020 which clearly did not fix anything.  No warning is given.  Power is just suddenly removed.",
+        "vin": "WB10A1206JZ"
+    },
+    {
+        "components": "STEERING",
+        "crash": true,
+        "dateComplaintFiled": "11/06/2020",
+        "dateOfIncident": "09/05/2020",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 11373443,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "R1200 GS",
+                "productYear": "2018",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WITHOUT WARNING THE MOTORCYCLE STEERING WENT INTO WHAT IS COMMONLY KNOW AS \"DEATH WOBBLE\" OR \"TANK SLAPPING\" WITH THE STEERING UNCONTROLLABLE RAPIDLY MOVING RIGHT TO LEFT AND IMMEDIATELY CRASHING CAUSING SEVERE INJURIES TO DRIVER.",
+        "vin": "WB10A6103JZ"
+    },
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "10/08/2020",
+        "dateOfIncident": "10/08/2020",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11363484,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "R1200 GS",
+                "productYear": "2018",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THIS IS IN REFERENCE TO TICKET # 11363230. RELATED TO THIS SAME VEHICLE.  I WENT FOR A RIDE TODAY AND THE SAME THING HAPPENED, WITH THE ENGINE SUDDENLY SHUTTING ALMOST COMPLETELY DOWN.  LUCKILY, IT WAS ON A DESERTED COUNTRY ROAD AND NOT IN RUSH HOUR TRAFFIC.  I AM ATTACHING A PDF OF THE OBD SCAN I TOOK UPON RETURNING HOME TODAY.  ALSO, PLEASE NOTE THAT THIS DEFECT IS SHOWING UP ON A NUMBER OF THESE BIKES--THERE IS A THREAD DISCUSSING THE ISSUE AT:    HTTPS://FORUMS.BMWMOA.ORG/SHOWTHREAD.PHP?98612-2018-R1200RT-WITH-INTERMITTENT-CHECK-ENGINE-LIGHT&P=1223053#POST1223053",
+        "vin": "WB10A6100JZ"
+    }
+]

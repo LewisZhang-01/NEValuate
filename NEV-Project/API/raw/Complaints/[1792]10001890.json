@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "01/02/2003",
+        "dateOfIncident": "01/02/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001890,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO 1500",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FAULTY EVO SENSORS CAUSED THE WHEEL TO JERK TO ONE SIDE WHILE DRIVING 60 MPH.  THE  DEALER HAS BEEN NOTIFIED.  *TS   *NLM",
+        "vin": "2GCEK19R9W1"
+    }
+]

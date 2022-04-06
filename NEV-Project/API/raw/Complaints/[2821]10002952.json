@@ -1,0 +1,31 @@
+[
+    {
+        "components": "LATCHES/LOCKS/LINKAGES,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "01/19/2003",
+        "dateOfIncident": "12/03/2002",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002952,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "PLYMOUTH",
+                "productModel": "GRAND VOYAGER",
+                "productYear": "1996",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "AUTOMATIC EQUIP. MFG. CO.",
+                "productMake": "AUTOMATIC EQUIPMENT",
+                "productModel": "AUTOMATIC EQUIPMENT",
+                "productYear": "1984",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "DOOR LOCKS,ACTUATOR/SOLENOID/MOTOR-ELECTIC DOOR LOCKS. LOCKS HAVE BEEN INOPERATIVE AND FIXED 4 TIMES, THEY ARE INOPERATIVE AGAIN",
+        "vin": "2P4GP443XTR"
+    }
+]

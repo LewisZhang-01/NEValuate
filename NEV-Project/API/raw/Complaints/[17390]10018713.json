@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "05/14/2003",
+        "dateOfIncident": "05/05/2003",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018713,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "JETTA",
+                "productYear": "1990",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Toyo Tire Holdings of Americas, Inc.",
+                "productMake": "TOYO",
+                "productModel": "800 ULTRA",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "I PURCHASED 4 TOYO ULTRA 800 TIRES IN OCTOBER 1998.  SINCE THAT TIME I HAVE HAD TO REPLACE THREE OF THE TIRES DUE TO TREAD SEPARATION.  I DRIVE APPX 5,000 MILES OR LESS PER YEAR.   *NLM",
+        "vin": "WVWRA21GXLW"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": true,
+        "dateComplaintFiled": "02/03/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005961,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "LEXUS",
+                "productModel": "SC430",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SPEED CONTROL FAILURE CAUSED VEHICLE TO LOSE CONTROL. *AK",
+        "vin": ""
+    }
+]

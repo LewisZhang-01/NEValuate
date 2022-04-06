@@ -1,0 +1,68 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "06/08/2021",
+        "dateOfIncident": "05/29/2020",
+        "fire": false,
+        "manufacturer": "Ducati North America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11420070,
+        "products": [
+            {
+                "manufacturer": "Ducati North America",
+                "productMake": "DUCATI",
+                "productModel": "DIAVEL",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Crank failure. Bearing surface between connecting rod and crank failed and caused a catastrophic failure of engine.   Potential for internal debris/loose metal/broken parts to seize gearbox locking up the rear wheel.   Part was inspected by my dealer.   No warning of any type is given prior to failure.   Two (2) other same model year Diavels were in my dealer (Ducati Detroit) for the same issue.  There are multiple  failures of others reported on various message boards and forums.",
+        "vin": "ZDM13BSW8FB"
+    },
+    {
+        "components": "FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "12/11/2018",
+        "dateOfIncident": "05/01/2018",
+        "fire": false,
+        "manufacturer": "Ducati North America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11160765,
+        "products": [
+            {
+                "manufacturer": "Ducati North America",
+                "productMake": "DUCATI",
+                "productModel": "DIAVEL",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FAULTY FUEL SENSOR. AFTER A PERIOD OF TIME, THE FUEL SENSOR WILL BREAK DOWN RESULTING IN AN INACCURATE FUEL GAUGE READING AND WILL SHOW EMPTY. DESPITE MANY REVISIONS OF THIS PART NUMBER, DUCATI IS UNABLE TO PROVIDE A LONG TERM SOLUTION TO THIS PROBLEM.  DUCATI HAS NOT RELEASED OR NOTIFIED THE OWNERS OF THIS MISHAP AND ARE HOLDING BACK INFORMATION ON FIXING IT.",
+        "vin": "ZDM13BSW8FB"
+    },
+    {
+        "components": "FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "10/14/2017",
+        "dateOfIncident": "10/07/2017",
+        "fire": false,
+        "manufacturer": "Ducati North America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11033328,
+        "products": [
+            {
+                "manufacturer": "Ducati North America",
+                "productMake": "DUCATI",
+                "productModel": "DIAVEL",
+                "productYear": "2015",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FAULTY FUEL SENSOR.  AFTER A PERIOD OF TIME, THE FUEL SENSOR WILL BREAK DOWN RESULTING IN AN INACCURATE FUEL GAUGE READING AND WILL SHOW EMPTY.  DESPITE MANY REVISIONS OF THIS PART NUMBER, DUCATI IS UNABLE TO PROVIDE A LONG TERM SOLUTION TO THIS PROBLEM.  AFTER THE 2 YEAR WARRANTY IS OVER, DUCATI WILL NO LONGER COVER A KNOWN ISSUE WITH THIS PART.  THEY WILL SOMETIMES COVER THE COST OF THE PART, BUT SHOULD ALSO COVER THE LABOR TO REPLACE THE PART AS WELL.  THIS WILL BE THE SECOND TIME THIS ISSUE HAS HAPPENED TO ME.  THE SAME PROBLEM IS OCCURRING WITH THE MULTISTRADA AND X-DIAVEL MODELS.",
+        "vin": "ZDM13BSW4FB"
+    }
+]

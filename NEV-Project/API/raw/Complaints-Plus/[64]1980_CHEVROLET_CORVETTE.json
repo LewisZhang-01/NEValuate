@@ -1,0 +1,76 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/07/2010",
+        "dateOfIncident": "06/06/2010",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10335115,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CORVETTE",
+                "productYear": "1980",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Bridgestone Americas Tire Operations",
+                "productMake": "FIRESTONE",
+                "productModel": "FIREHAWK",
+                "productYear": "9999",
+                "size": "P215/55R18",
+                "type": "Tire"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 1980 CHEVROLET CORVETTE EQUIPPED WITH FIRESTONE FIREHAWK P255/60/R15 TIRES. WHILE DRIVING AT APPROXIMATELY 60 MPH, THE FRONT PASSENGER TIRE EXPLODED. THE CONTACT PULLED OVER AND INSTALLED THE SPARE TIRE. THE VEHICLE HAD NOT BEEN INSPECTED AT THE TIME OF THE COMPLAINT. THE CURRENT AND FAILURE MILEAGES WERE APPROXIMATELY 96,000.",
+        "vin": ""
+    },
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "11/24/1998",
+        "dateOfIncident": "10/01/1998",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 700864,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CORVETTE",
+                "productYear": "1980",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CRACKED FRONT CROSSMEMBER AND FRAME SIDE RAILS, OTHER CORVETTE OWNERS  STATED THIS IS NORMAL, BUT THE 2-PIECE CROSSMEMBER WAS PULLED APART  AND CAUSED THE FRONT FRAME RAILS TO COME IN TOWARDS THE ENGINE,  THIS IN TURNED CAUSED THE POWER STEERING PUMP PULLEY TO COME IN CONTACT  WITH THE FRAME. ALSO THERE WERE CRACKS WHERE THE RUBBER STOPS ON THE UPPER A-ARMS COME IN CONTACT WITH THE FRAME RAILS.",
+        "vin": "1Z87HAS4228"
+    },
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "07/08/1997",
+        "dateOfIncident": "06/04/1997",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 519480,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CORVETTE",
+                "productYear": "1980",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "LEFT SIDE FRAME IS RUSTED FROM  TRANSMISSION TO DIFFERENTIAL CROSS MEMBERS, PREVENTING LEFT REAR WHEEL FROM BEING ALIGNED.",
+        "vin": ""
+    }
+]

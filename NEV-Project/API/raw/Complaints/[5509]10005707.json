@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "02/11/2003",
+        "dateOfIncident": "02/06/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005707,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "TACOMA",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FOGGING INSIDE WINDSHIELD DURING HEATER/DEFROST OPERATION. SOMETIME FOGGING WITHOUT OPERATING HEATER/DEFROST CONTROLS.  A/C WILL NOT CLEAR WINDSHIELD OR SIDE WINDOWS.",
+        "vin": "4TAVL52N5VZ"
+    }
+]

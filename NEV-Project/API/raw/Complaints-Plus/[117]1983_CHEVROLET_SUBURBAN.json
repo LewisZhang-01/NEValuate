@@ -1,0 +1,90 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "05/16/2002",
+        "dateOfIncident": "03/12/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 8010008,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1983",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATES HAVING PROBLEMS WITH THE TREAD SEPARATION ON THE TIRE. GOOD YEAR #LT23585R.*JB",
+        "vin": "1G8EC16C8DF"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "01/18/2002",
+        "dateOfIncident": "09/01/2001",
+        "fire": true,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 564042,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1983",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING, VEHICLE BEGAN TO CHUG, CONSUMER NOTICED WHITE SMOKE COMING FROM THE VEHICLE SO HE PULLED OVER AND VEHICLE CAUGHT ON FIRE, POSSIBLE ENGINE FAILURE, OHIO TRAFFIC CRASH REPORT.   *SLC",
+        "vin": "1G8GC26W9DF"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "01/18/2002",
+        "dateOfIncident": "09/01/2001",
+        "fire": true,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 564042,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1983",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING, VEHICLE BEGAN TO CHUG, CONSUMER NOTICED WHITE SMOKE COMING FROM THE VEHICLE SO HE PULLED OVER AND VEHICLE CAUGHT ON FIRE, POSSIBLE ENGINE FAILURE, OHIO TRAFFIC CRASH REPORT.   *SLC",
+        "vin": "1G8GC26W9DF"
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "11/27/2000",
+        "dateOfIncident": "11/24/2000",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 736938,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1983",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "REAR RIGHT TIRE PROBLEM. TREAD SEPARATED FROM TIRE WHILE DRIVING ON FREEWAY AT 65 MPH. TREAD HIT SIDE OF CHEVROLET SUBURBAN CAUSING BODY DAMAGE. TIRES HAVE APPROXIMATELY 28,000 MILES OF NON-COMMERCIAL USE, AND ARE WARRANTED FOR 50,000 MILES.*AK (TIRESIZE: 235/85 R16)( DOT NUMBER:  TIRE SIZE: 235/85 R16 )",
+        "vin": "1G8GC26M2DF"
+    }
+]

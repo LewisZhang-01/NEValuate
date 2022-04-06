@@ -1,0 +1,31 @@
+[
+    {
+        "components": "CHILD SEAT",
+        "crash": false,
+        "dateComplaintFiled": "08/22/2003",
+        "dateOfIncident": "05/29/2003",
+        "fire": false,
+        "manufacturer": "UNKNOWN MANUFACTURER",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021875,
+        "products": [
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN1",
+                "productYear": "9999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Evenflo Company, Inc.",
+                "productMake": "EVENFLO",
+                "productModel": "203 (JOYRIDE)",
+                "productYear": "9999",
+                "type": "Child Seat"
+            }
+        ],
+        "summary": "EVENFLO MODEL #3221328P1, THE METAL CLIP ON THE CHILD SEAT WAS INOPERATIVE.  THE CONSUMER INDICATED THAT THIS WAS NOT SAFE FOR A CHILD.   *AK   (5 POINT CHAIR)   *SCC  *JB",
+        "vin": ""
+    }
+]

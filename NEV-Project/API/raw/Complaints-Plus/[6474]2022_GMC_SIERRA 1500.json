@@ -1,0 +1,68 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,SERVICE BRAKES,FORWARD COLLISION AVOIDANCE",
+        "crash": false,
+        "dateComplaintFiled": "03/27/2022",
+        "dateOfIncident": "03/25/2022",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11458511,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA 1500",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Truck drove as expected with no prior warnings.  We pulled over for road snacks/drinks upon starting the truck we got a whole slew of warnings and warning lights.  The warnings included:. Service ESC, Service Trailer Brake System, Service Brake Assist, Steering Assist is reduced Drive with care and finally Brake System Failure 43 MPH top speed.  The check engine light, Traction Control Off and BRAKE light stayed on.  We slowly drove to an O'Reilly's and got the ODB Code P25A2 (1 of 2 stored) and P25A2 (2 of 2 pending). I then noticed I had an email notification from OnStar Advanced Diagnostics: This is a Diagnostic Alert for your GMC Sierra.   Dear [XXX], An issue with the Antilock Braking System in your 2022 GMC Sierra has been detected. Please service your vehicle within 7 days. The following morning the truck was was started and all seemed normal like nothing ever happened, no warning lights or warning messages  Our of concern we dropped off at Garlyn Shelton Buick GMC service center to diagnose the issue. They reported finding code C05B0 for Brake Fluid Leak.  Further states No external leaks found, Brake Fluid test passed 2 of 3 times, recommend needs Master Cylinder Assembly but No replacement parts available.   INFORMATION Redacted PURSUANT TO THE FREEDOM OF INFORMATION ACT (FOIA), 5 U.S.C. 552(B)(6).",
+        "vin": "3GTU9DEL2NG"
+    },
+    {
+        "components": "VEHICLE SPEED CONTROL,SERVICE BRAKES,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "03/24/2022",
+        "dateOfIncident": "03/22/2022",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11458165,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA 1500",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "service trailer brake system, service esc, steering assist is reduced, brake system failure. almost had an accident because of the brake system failure",
+        "vin": "3GTU9DED3NG"
+    },
+    {
+        "components": "LANE DEPARTURE",
+        "crash": false,
+        "dateComplaintFiled": "02/16/2022",
+        "dateOfIncident": "12/01/2021",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11452251,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA 1500",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact owns a 2022 GMC Sierra 1500. The contact stated that while driving at an undisclosed speed, the Lane Departure Assist function failed to operate as needed. The vehicle was taken to the dealer and diagnosed as a malfunction of the Lane Departure Assist System. The vehicle was not repaired. The manufacturer was made aware of the failure. The failure mileage was approximately 6.",
+        "vin": "3gtu9ded0ng"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": true,
+        "dateComplaintFiled": "05/16/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020020,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "LHS",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING 30 MPH IN RAINY CONDITIONS THE CONSUMER ATTEMPTED TO MANEUVER A CURVE WHEN THE STEERING WHEEL LOCKED UP WHICH CAUSED THE VEHICLE TO HIT A TREE.  *NLM",
+        "vin": "2C3HC56GXXH"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "08/28/2018",
+        "dateOfIncident": "08/26/2018",
+        "fire": false,
+        "manufacturer": "Crossroads RV",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11123098,
+        "products": [
+            {
+                "manufacturer": "Crossroads RV",
+                "productMake": "CROSSROADS",
+                "productModel": "ZINGER",
+                "productYear": "2015",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "RFD COMPONENTS, INC.",
+                "productMake": "RFD",
+                "productModel": "TRAIL EXPRESS",
+                "productYear": "9999",
+                "size": "ST225/75R15",
+                "type": "Tire"
+            }
+        ],
+        "summary": "TIRES SEPARATED - ONE ON DRIVER SIDE AND ONE ON PASSENGER SIDE. THIS HAPPENED WHEN TOWING A 35 FOOT TRAILER ON I 70 AT 60 MPH.  TIRES ONLY HAD 5000 MILES ON THEM.  NOTHING LEFT OF TIRES. BRAND TAIL EXPRESS MADE IN CHINA.",
+        "vin": "4V0TC3029FJ"
+    }
+]

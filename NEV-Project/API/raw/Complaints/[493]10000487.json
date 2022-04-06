@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/03/2003",
+        "dateOfIncident": "12/11/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000487,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "TAHOE",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Bridgestone Americas Tire Operations",
+                "productMake": "FIRESTONE",
+                "productModel": "WILDERNESS LE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "BLOWOUT (OUTSIDE SIDEWALL). TIRES WERE USED ON A 2001 CHEVROLET TAHOE WITH ONLY 17,000 MILES USE. SPEED OF THE VEHICLE AT TIME OF INCIDENT WAS APPROX 60MPH. THIS OCCURRED AT NIGHT WHEN TEMPERATURE WAS ABOUT 58 DEGREES.  I HAVE INCLUDED THIS INFORMATION SO YOU CAN SEE THAT NEITHER EXCESSIVE SPEED OR TEMPERATURE WAS A CONTRIBUTING FACTOR. TS",
+        "vin": "1GNEC13T01R"
+    }
+]

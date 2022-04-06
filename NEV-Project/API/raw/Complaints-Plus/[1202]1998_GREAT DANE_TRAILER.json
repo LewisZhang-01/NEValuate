@@ -1,0 +1,46 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "04/30/2007",
+        "dateOfIncident": "01/03/2007",
+        "fire": true,
+        "manufacturer": "Great Dane Trailers",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10190067,
+        "products": [
+            {
+                "manufacturer": "Great Dane Trailers",
+                "productMake": "GREAT DANE",
+                "productModel": "TRAILER",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "1998 GREAT DANE WHITE BOX TRAILER. CONSUMER STATES THAT WHILE DRIVING ON THE OHIO TURNPIKE  THE REAR AXLE OF THE VEHICLE CAUGHT ON FIRE. *MC  (OHIO TRAFFIC CRASH REPORT).*JB",
+        "vin": "1GRAA0624WB"
+    },
+    {
+        "components": "WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "12/01/2006",
+        "dateOfIncident": "09/06/2006",
+        "fire": false,
+        "manufacturer": "Great Dane Trailers",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10175381,
+        "products": [
+            {
+                "manufacturer": "Great Dane Trailers",
+                "productMake": "GREAT DANE",
+                "productModel": "TRAILER",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "1998 GREAT DANE TIRE CAME OFF STRIKING ANOTHER VEHICLE.  *TS  THE CONSUMER STATED ALL THE LUG NUTS HAD BROKE OFF. *JB",
+        "vin": ""
+    }
+]

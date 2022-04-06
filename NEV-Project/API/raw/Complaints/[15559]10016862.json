@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": true,
+        "dateComplaintFiled": "05/01/2003",
+        "dateOfIncident": "06/07/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 1,
+        "numberOfInjuries": 3,
+        "odiNumber": 10016862,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-250 SD",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2001 YEAR MODEL FORD F250.  DRIVER ATTEMPTED TO MAKE LEFT HAND TURN IN FRONT OF A MINIVAN.  THE DRIVER INDICATED THAT THE TRUCK WOULD NOT ACCELERATE AND CAUSED A HEAD-ON COLLISION AND KILLED THE DRIVER OF THE MINIVAN.  LATER, THE TRUCK WAS FOUND TO HAVE A FAULTY ACCELERATOR PEDAL ASSEMBLY KIT.",
+        "vin": "1FTNW21F21E"
+    }
+]

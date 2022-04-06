@@ -1,0 +1,24 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "02/28/2003",
+        "dateOfIncident": "02/12/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009627,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "CAMRY",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE REAR TIRE BLEW OUT, WHEN THE REAR TIRE WAS TO BE CHANGED, IT WAS DISCOVERED THE SPARE TIRE WAS NOT COMPATIBLE FOR THE VEHICLE.*JB",
+        "vin": "4T1BG22K71U"
+    }
+]

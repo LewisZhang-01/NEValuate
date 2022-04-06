@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": true,
+        "dateComplaintFiled": "06/04/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Mazda Motor Corp.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020404,
+        "products": [
+            {
+                "manufacturer": "Mazda Motor Corp.",
+                "productMake": "MAZDA",
+                "productModel": "PROTEGE",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CRUISE CONTROL MALFUNCTIONED CAUSING SUDDEN ACCELERATION. *MR  *PH",
+        "vin": "JM1BC1410V0"
+    }
+]

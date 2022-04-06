@@ -1,0 +1,46 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "01/28/2020",
+        "dateOfIncident": "12/20/2019",
+        "fire": false,
+        "manufacturer": "Winnebago Industries, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11302630,
+        "products": [
+            {
+                "manufacturer": "Winnebago Industries, Inc.",
+                "productMake": "WINNEBAGO",
+                "productModel": "VIEW",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2019 WINNEBAGO VIEW. WHILE DRIVING 65 MPH THE AWNING DETACHED FROM RV WITHOUT WARNING. THE VEHICLE WAS TAKEN TO CAMPING WORLD OF PORTLAND 24000 NE SANDY BLVD, WOOD VILLAGE, OR 97060 (877)268-7319, BUT WAS NOT DIAGNOSED NOR REPAIRED. THE MANUFACTURER WAS CONTACTED BUT NO FURTHER ASSISTANCE WAS PROVIDED. THE FAILURE MILEAGE WAS 14,900. THE VIN WAS NOT AVAILABLE.",
+        "vin": ""
+    },
+    {
+        "components": "FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "09/01/2018",
+        "dateOfIncident": "08/18/2018",
+        "fire": false,
+        "manufacturer": "Winnebago Industries, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11123967,
+        "products": [
+            {
+                "manufacturer": "Winnebago Industries, Inc.",
+                "productMake": "WINNEBAGO",
+                "productModel": "VIEW",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUEL RETURN LINE FOR THE DIESEL GENERATOR IS TIED INTO THE VEHICLE ENGINE FUEL RETURN LINE CAUSING GENERATOR FAILURE AND ODOR IN THE MAIN CABIN. GENERATOR SHOULD HAVE ITS OWN FUEL RETURN LINE.  VEHICLE WAS STATIONARY.",
+        "vin": ""
+    }
+]

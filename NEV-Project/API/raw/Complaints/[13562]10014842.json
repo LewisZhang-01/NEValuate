@@ -1,0 +1,32 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING,POWER TRAIN,TIRES",
+        "crash": false,
+        "dateComplaintFiled": "03/27/2003",
+        "dateOfIncident": "03/03/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10014842,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "SIENNA",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THERE WERE PROBLEMS WITH TRANSMISSION AND TIRE EQUIPMENT.  MR  THE VEHICLE WAS ON IT'S FOURTH SET OF TIRES DUE TO A TRACKING PROBLEM.  THERE WAS A WHINE COMING FROM THE TORQUE CONVERTER PUMP.  THE TRANSMISSION SHIFTED TO NEUTRAL ON THREE OCCASIONS.  DEALER SAW INDICATIONS OF EARLY SLUDGE BUILD UP IN THE OIL.  THE ENGINE MADE NOISES AND VIBRATED.  (DAYTON/GOODYEAR)    *SCC   *NLM    *CB  *JB",
+        "vin": "4T32F13C6YU"
+    }
+]

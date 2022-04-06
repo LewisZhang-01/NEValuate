@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "12/08/1995",
+        "dateOfIncident": "07/06/1995",
+        "fire": false,
+        "manufacturer": "GEORGIE BOY MFG., LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 501829,
+        "products": [
+            {
+                "manufacturer": "GEORGIE BOY MFG., LLC",
+                "productMake": "GEORGIE BOY",
+                "productModel": "CRUISE MASTER",
+                "productYear": "1991",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FRONT END CASTER/CAMBER MISALIGNED, CAUSING VIBRATION IN STEERING. *DH",
+        "vin": "4CBD4XJ28L2"
+    }
+]

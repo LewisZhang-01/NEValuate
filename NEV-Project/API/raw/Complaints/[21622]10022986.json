@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "06/12/2003",
+        "dateOfIncident": "06/10/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022986,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "OLDSMOBILE",
+                "productModel": "INTRIGUE",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FRONT STABILIZER BAR HAS BROKEN WHILE IN ROUTINE USE. LIKELY CAUSE IS FATIGUE FAILURE INDICATING THAT BAR WAS UNDERSIZED OR THERE WAS A MANUFACTURING DEFECT.  *JB",
+        "vin": "1G3WS52K4WF"
+    }
+]

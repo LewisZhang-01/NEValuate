@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "06/07/2003",
+        "dateOfIncident": "06/06/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021195,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "LUMINA",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SMOKE EMITTED FROM THE STEERING COLUMN TWICE DURING NORMAL DRIVING.  *JB",
+        "vin": "2G1WN14T1R9"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "04/23/2003",
+        "dateOfIncident": "04/22/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10016411,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "G VAN",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "STEELTEX RADIAL TIRE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE UNIVERSITY OF NEBRASKA. LINCOLN HAS BEEN EXPERIENCING A NUMBER OF TIRE FAILURES ON 15 PASSENGER VANS. TIRES WHICH ARE PROPERLY INFLATED, AND WITH AMPLE TREAD LIFE ARE EXPERIENCING TREAD SEPARATION AND COMPLETE FAILURE. THE SIZE AND BRAND IS FIRESTONE STEELTEX RADIAL R49 LT245/75R16 LOAD RANGE \"E\" WE HAVE EXPERIENCE 4 TIRE FAILURES SINCE JANUARY 1, 2003/     *JB",
+        "vin": "1GAHG39R511"
+    }
+]

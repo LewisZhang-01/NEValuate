@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "03/10/2003",
+        "dateOfIncident": "03/07/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010227,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-250 SD",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "STEELTEX RADIAL TIRE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "TWO TIRE FAILURES ON FIRESTONE STEELTEX TIRES.  THE A/T LT 265/75R16 E STOCK TIRE ON MY FORD F250 SUPER DUTY PICKUP.  AND A STEELTEX R4S LT 225 75 R ON MY 32' 5TH WHEEL TRAVEL TRAILER.  TRUCK IS A 2000, TRAILER A 2001 CARRIAGE CAMEO.  BOTH TIRES PROPERLY INFLATED, NOT OVER LOADED.*JB",
+        "vin": "1FTNX20FXYE"
+    }
+]

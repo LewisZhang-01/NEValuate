@@ -1,0 +1,54 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "08/06/2010",
+        "dateOfIncident": "08/05/2010",
+        "fire": false,
+        "manufacturer": "Carriage, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10347628,
+        "products": [
+            {
+                "manufacturer": "Carriage, Inc.",
+                "productMake": "CARRIAGE",
+                "productModel": "CAMEO",
+                "productYear": "2007",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Cooper Tire & Rubber Co.",
+                "productMake": "POWER KING",
+                "productModel": "TOWMAX",
+                "productYear": "9999",
+                "size": "LT235/80R16 E",
+                "type": "Tire"
+            }
+        ],
+        "summary": "WE OWN AN RV DEALERSHIP IN NEW HAMPSHIRE.  WE HAVE BEEN IN BUSINESS FOR OVER 20 YEARS.  WE ARE HAVING CONTINUAL PROBLEMS WITH BLOWOUTS ON CUSTOMERS UNITS THAT HAVE THE TOW MAX POWER KING TIRES ON THEM.  THIS TIRE HAS MANY ISSUES, BUT THE BIGGEST IS BELT FAILURE, RESULTING IN BLOWOUTS.  THIS IS VERY UNSAFE.  WE HAVE REPLACED FAR TOO MANY OF THESE TIRES AND I THINK THAT THERE SHOULD BE A RECALL.  THE TIRE SIZE IS 235 80R16 LOAD RANGE E.  IF YOU NEED ANY FURTHER INFORMATION - PLEASE DO NOT HESITATE TO CALL. *TR",
+        "vin": "16F62E5R771"
+    },
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "05/03/2010",
+        "dateOfIncident": "05/01/2010",
+        "fire": false,
+        "manufacturer": "Carriage, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10328552,
+        "products": [
+            {
+                "manufacturer": "Carriage, Inc.",
+                "productMake": "CARRIAGE",
+                "productModel": "CAMEO",
+                "productYear": "2007",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SPRING SHACKLES NOT INSTALLED PROPERLY BY MOR/RYDE          NUTS ON THE RIGHT SIDE WERE NEVER TIGHTENED   3 NUTS WERE MISSING AND 3 NUTS WERE ONLY FINGER TIGHT. COULD HAVE RESULTED IN AXLE BECOMING DETACHED ON RIGHT SIDE. SCARY  WAS CAUGHT ON AN INSPECTION. *TR",
+        "vin": "16F62E5R071"
+    }
+]

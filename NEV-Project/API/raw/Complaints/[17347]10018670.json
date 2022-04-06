@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "05/14/2003",
+        "dateOfIncident": "03/09/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018670,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "INVALID DESIGN OF PLENUM DOOR LEADS TO PART FAILURE RESULTING IN INABILITY TO CONTROL TEMPERATURE SETTING.  CONDITION CAUSES INABILITY TO CONTROL INSIDE AIR TEMPERATURE AND POSSIBLY FAILURE OF DEFROST/DEFOGGING SYSTEM (SAFETY ISSUE).  COST TO REPAIR IS PROHIBITIVE ($500 TO $1000) DUE TO THE NEED TO REMOVE THE DASHBOARD AND THE REPLACEMENT OF THE ENTIRE AIR CHANNEL (BECAUSE PLENUM DOOR ITSELF CANNOT BE PURCHASED/INSTALLED ALONE).  *NLM",
+        "vin": "1FMDU34E0VU"
+    }
+]

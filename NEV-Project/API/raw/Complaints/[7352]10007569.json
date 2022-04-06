@@ -1,0 +1,24 @@
+[
+    {
+        "components": "LATCHES/LOCKS/LINKAGES",
+        "crash": false,
+        "dateComplaintFiled": "02/16/2003",
+        "dateOfIncident": "09/01/2001",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10007569,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "TOWN AND COUNTRY",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BOTH POWER LOCKS ON SIDE DOORS DO NOT FUNCTION AND BOTH DOORS DO NOT LATCH SECURELY. DOORS CAN BE OPENED EVEN WHEN SECURITY ALARM IS ARMED.",
+        "vin": "1C4GP64L1TB"
+    }
+]

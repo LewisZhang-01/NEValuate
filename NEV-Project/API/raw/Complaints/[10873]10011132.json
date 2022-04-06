@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "03/07/2003",
+        "dateOfIncident": "03/07/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10011132,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO 1500",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE WINDSHIELD WIPERS FROZE, WHICH MADE IT DIFFICULT TO SEE WHILE DRIVING.  *JB  THE INCIDENT HAPPENED DURING A RAIN STORM.  THE SERVICE DEALER FOUND A MISSING SODER IN THE MODULE.  SCC",
+        "vin": "1GCCS194XW8"
+    }
+]

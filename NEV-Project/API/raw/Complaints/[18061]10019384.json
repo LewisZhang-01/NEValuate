@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "05/07/2003",
+        "dateOfIncident": "01/01/2001",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019384,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "300M",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE LIGHTS ILLUMINATED ON THEIR OWN EVEN WHEN THE ENGINE WAS NOT ON AND THE KEY WAS NOT IN THE IGNITION.  THE  DEALER IS AWARE AND THEY ARE REPLACING SOME TYPE OF BOX.  *NLM",
+        "vin": "2C3HE66G21H"
+    }
+]

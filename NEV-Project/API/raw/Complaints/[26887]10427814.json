@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "09/28/2011",
+        "dateOfIncident": "09/20/2011",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10427814,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "PATRIOT FWD",
+                "productYear": "2008",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FAILED TIE ROD ENDS AND BALLJOINTS CAUSING PREMATURE TIRE WEAR AND LOOSE STEERING.  *TT",
+        "vin": "1J8FT28W68D"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS,STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "02/26/2003",
+        "dateOfIncident": "05/12/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009453,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERCURY",
+                "productModel": "COUGAR",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE DRIVER'S SEAT BELT FAILED TO UNLOCK.  *JB  THE AUTO SHOULDER  BELT DID NOT MOVE AND INTERRUPTS THE ABILITY TO MANEUVER THE STEERING WHEEL.  THE DRIVER DOOR MOLDING DID WOULD NOT STAY IN PLACE.  THE DRIVER DOOR HAS TO BE PULLED UP IN ORDER TO SHUT.  SCC",
+        "vin": "TMEPM6249PH"
+    }
+]

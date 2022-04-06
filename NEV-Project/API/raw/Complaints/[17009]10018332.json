@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN,ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "05/07/2003",
+        "dateOfIncident": "05/06/2003",
+        "fire": true,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018332,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "PASSAT",
+                "productYear": "1990",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "MANY ELECTRICAL PROBLEMS: POWER WINDOWS, IGNITION SWITCH, PASSENGER SIDE PASSIVE SEAT BELT, AUTOMATIC TRANSMISSION INTERMITTENTLY WILL NOT SHIFT INTO 4TH GEAR (TURN KEY OF AND ON TO RESET TRANSMISSION).  FINALLY, THE ENGINE COMPARTMENT CAUGHT FIRE APPEARS TO BE ELECTRICAL CAUSING WIDE-RANGING DAMAGE TO HOOD AND OTHER ENGINE COMPONENTS.   *JB",
+        "vin": "WVWGB4314LE"
+    }
+]

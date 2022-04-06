@@ -1,0 +1,38 @@
+[
+    {
+        "components": "SEAT BELTS,EQUIPMENT,CHILD SEAT",
+        "crash": false,
+        "dateComplaintFiled": "05/26/2003",
+        "dateOfIncident": "05/26/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019286,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "GRAND CHEROKEE",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "CENTURY PRODUCTS",
+                "productMake": "20TH CENTURY",
+                "productModel": "SLIDE-IN CAMPER",
+                "productYear": "1993",
+                "type": "Child Seat"
+            },
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "RUNNING BOARD KIT",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "RECALL GENERATION 3 SEAT BELTS.   I HAVE ACTUALLY HAD PROBLEMS WITH MOST MANUFACTURER SEAT BELTS, INCLUDING AIRCRAFT BELTS (PACIFIC SCIENTIFIC). I SELECTED \"20\" IN THE FAILURES SLOT SO THIS WILL GET THROUGH. USING MY SKILLS AS AN AIRCRAFT TECH. I HAVE ALSO INSPECTED AUTO BELTS AND FOUND MOST OF THEM REGARDLESS OF MANUFACTURER TO BE '!@#$%.  *NLM",
+        "vin": ""
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "components": "VISIBILITY,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "06/10/2010",
+        "dateOfIncident": "06/09/2010",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10335614,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "G6",
+                "productYear": "2005",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "GM PRODUCTS DIV. GM CORP.",
+                "productMake": "GM PRODUCTS",
+                "productModel": "GM PRODUCTS",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "WIPER ASSEMBLY FAILED TWICE DURING OPERATION.  INITIAL FAILURE WAS IN DEC '08 AND THE ENTIRE WIPER ASSEMBLY WAS REPLACED AT MY EXPENSE.  2ND FAILURE WAS ON JUNE 9TH 2010. ON JUNE 9TH I WAS IN A DRIVING RAINSTORM ON THE EXPRESSWAY DRIVING 55 MPH WHEN WIPERS FAILED AND ALMOST DROVE OFF OF THE ROAD DUE TO LACK OF VISIBILITY. DEALER WANTS TO REPLACE ENTIRE WIPER ASSEMBLY AGAIN.  VEHICLE IS ONLY 5 YEARS OLD.  *TR",
+        "vin": "1G2ZG528X54"
+    }
+]

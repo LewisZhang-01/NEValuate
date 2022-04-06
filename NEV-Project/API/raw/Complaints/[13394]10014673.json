@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC,SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "03/28/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10014673,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "THUNDERBIRD",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE SEAT BELT LOCKED UP WHEN A TURN WAS MADE, ALSO THE ABS DID NOT WORK.  *JB",
+        "vin": "1FTWX33F22E"
+    }
+]

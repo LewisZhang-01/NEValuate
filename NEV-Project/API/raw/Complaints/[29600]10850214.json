@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "03/17/2016",
+        "dateOfIncident": "03/16/2016",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10850214,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE DRIVER SIDE REAR DOOR LATCH STOPPED WORKING.  THE DOOR WILL NO LONGER REMAIN CLOSED.  I GOT INTO THE VEHICLE AND STARTED IT UP AND NOTICED THE WARNING LIGHT ABOUT THE DOOR BEING AJAR.  I TRIED TO CLOSE IT BUT IT WOULD NOT LATCH AND THE WARNING WOULD NOT TURN OFF.  I HAD TO TIE THE DOOR SHUT SO I COULD DRIVE THE VEHICLE HOME.",
+        "vin": "1FADP3N25DL"
+    }
+]

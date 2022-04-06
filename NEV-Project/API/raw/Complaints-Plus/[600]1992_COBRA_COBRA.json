@@ -1,0 +1,46 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "05/11/1995",
+        "dateOfIncident": "02/01/1995",
+        "fire": false,
+        "manufacturer": "COBRA INDUSTRIES, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 486010,
+        "products": [
+            {
+                "manufacturer": "COBRA INDUSTRIES, INC.",
+                "productMake": "COBRA",
+                "productModel": "COBRA",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WELDS ON BRACKET HOLDING SPRING ASSEMBLY FAILED, CAUSING BRACKET TO FALL OFF/REAR AXLE TO BEND.  *AW",
+        "vin": "1TT1130K7N1"
+    },
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "04/04/1995",
+        "dateOfIncident": "06/04/1993",
+        "fire": false,
+        "manufacturer": "COBRA INDUSTRIES, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 963011,
+        "products": [
+            {
+                "manufacturer": "COBRA INDUSTRIES, INC.",
+                "productMake": "COBRA",
+                "productModel": "COBRA",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "REAR AIR SUSPENSION SYSTEM RECALL REPAIRS REFUSED DUE TO DEALER  NO LONGER SELLING COBRAS; NEEDS TO FIND NEW DEALER (93V-099).  *AK",
+        "vin": "1FDKE30G1NH"
+    }
+]

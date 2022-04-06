@@ -1,0 +1,46 @@
+[
+    {
+        "components": "SERVICE BRAKES, AIR",
+        "crash": false,
+        "dateComplaintFiled": "07/24/1997",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "CLEMENT INDUSTRIES",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 605731,
+        "products": [
+            {
+                "manufacturer": "CLEMENT INDUSTRIES",
+                "productMake": "CLEMENT",
+                "productModel": "CLEMENT",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VALVE ON THE BRAKE LINE LOCATED ON REAR AXLE FAILED, CAUSING LOCK UP AND PREMATURE WEAR OF TIRES.",
+        "vin": "1C9BB38B6TM"
+    },
+    {
+        "components": "SERVICE BRAKES, AIR",
+        "crash": false,
+        "dateComplaintFiled": "07/24/1997",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "CLEMENT INDUSTRIES",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 999999999,
+        "products": [
+            {
+                "manufacturer": "CLEMENT INDUSTRIES",
+                "productMake": "CLEMENT",
+                "productModel": "CLEMENT",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKE LINE VALVE ON THE REAR AXLE FAILED, CAUSING LOCK UP, RESULTING IN PREMATURE WEAR OF THE TIRES.",
+        "vin": "1CABB38B7TM"
+    }
+]

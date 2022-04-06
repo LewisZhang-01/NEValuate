@@ -1,0 +1,31 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "06/24/2003",
+        "dateOfIncident": "05/08/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10023638,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "GRAND CHEROKEE",
+                "productYear": "1997",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "AUTO METER PRODUCTS, INC.",
+                "productMake": "FUEL PRESSURE GAUGE",
+                "productModel": "2659",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "WHEN THE GAS TANK WAS 1/4 FULL AND COMPUTED MILES READ MORE THEN 50 MILES LEFT, WE RAN OUT OF GAS. THE CAR STOPPED WORKING AND COMPLETELY SHUT OFF DUE TO RUNNING OUT OF GAS.  *JB",
+        "vin": "1J4FX58S3VC"
+    }
+]

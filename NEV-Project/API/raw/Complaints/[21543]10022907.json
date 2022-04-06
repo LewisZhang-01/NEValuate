@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "06/12/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022907,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "MALIBU",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "POWER WINDOWS FAIL TO OPERATE AT DIFFERENT TIMES. THIS IS CAUSED BY AN IGNITION SWITCH FAILURE.  *AK",
+        "vin": "1G1NES2M1S6"
+    }
+]

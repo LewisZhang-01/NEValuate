@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC,AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "03/25/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10012414,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE CONSUMER LOSS CONTROL OF THE VEHICLE, HIT 3 TREES BEFORE COMING TO A STOP.  NONE OF THE AIR BAGS DEPLOYED.  THERE WAS A RECALL 01 V 095 000, FOR THE SAME PROBLEM.  CONSUMER SUFFERED INJURIES AS A RESULT.   *JB",
+        "vin": "1FTZX172X1N"
+    }
+]

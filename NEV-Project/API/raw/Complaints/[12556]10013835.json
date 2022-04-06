@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "04/02/2003",
+        "dateOfIncident": "03/21/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10013835,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXCURSION",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "STEELTEX R4S",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "FIRESTONE STEELTEX R45 TIRES WHICH WERE ORIGINAL EQUIPMENT ON A 2000 FORD EXCURSION.  THE TIRES HAVE 30,000 MILES WITH MINIMAL TREAD WEAR, HOWEVER, THE SIDEWALLS ON ALL 4 TIRES ARE SPLITTING TO THE CORD.  CONTACT WITH FIRESTONE RESULTED IN A VERBAL EXPLANATION THAT THEY WOULD RECOGNIZE THIS AS A 'ROAD HAZARD' SITUATION AND PRO-RATE 50% OF THE COST OF REPLACEMENT WITH FIRESTONE/BRIDGESTONE TIRES.  THE FIRESTONE CONSUMER AFFAIRS/RETAIL OPERATIONS REPRESENTATIVE FURTHER ADVISED THAT THE NTSB HAS COMPLETED AN INVESTIGATION OF THESE TIRES AND FOUND NO REASON FOR A RECALL.   *NLM",
+        "vin": "1FMNU43S1YE"
+    }
+]

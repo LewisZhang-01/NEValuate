@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "05/15/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019948,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE FRONT SUSPENSION ON THE PASSENGER SIDE COLLASPED.  THIS CAUSED THE DRIVER TO LOOSE CONTROL OF THE VEHICLE AND HIT A  PARK CAR.  *NLM",
+        "vin": "1FAFP34P71W"
+    }
+]

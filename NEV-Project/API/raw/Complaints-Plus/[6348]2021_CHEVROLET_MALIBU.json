@@ -1,0 +1,98 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "10/20/2021",
+        "dateOfIncident": "10/06/2021",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11437532,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "MALIBU",
+                "productYear": "2021",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "The contact owns a 2021 Chevrolet Malibu equipped with Firestone FT140. The contact stated while driving during the rain while coming out of a complete stop the tires began to spin not gaining traction on the road. The manufacturer was not contacted. The failure mileage was approximately 2,000.",
+        "vin": "1g1zb5st8mf"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "05/02/2021",
+        "dateOfIncident": "04/06/2021",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11414799,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "MALIBU",
+                "productYear": "2021",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THIS WAS A RENTAL CAR, EQUIPPED WITH AN ELECTRONIC KEY FOB AND A STARTER/TURN ENGINE-OFF BUTTON ON THE DASHBOARD. THIS PARTICULAR VEHICLE COULD  BE LOCKED REMOTELY FROM OUTSIDE THE VEHICLE, WHILE IT CONTINUED TO RUN. ADDITIONALLY, IT APPERED THAT AN OCCUPANT OF THE LOCKED  VEHICLE  WHO DID NOT HAVE AN ELECTRONIC KEYFOB IN HIS POSSESSION COULD NOT OPEN THE DOORS FROM THE INSIDE.   THUS, ADULTS OR CHILDREN COULD BE ASPHYXIATED UNDER CERTAIN NOT-TOO-HARD-TO-IMAGINE SITUATIONS.",
+        "vin": "1G1ZD5ST5MF"
+    },
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "04/25/2021",
+        "dateOfIncident": "01/15/2021",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 11413839,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "MALIBU",
+                "productYear": "2021",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "IN THE CASE OF A HARD BRAKE WHILE IN MOTION, THE VEHICLES SEATS BOTH FRONT AND REAR UN-LATCH AND BECOME FREE IN MOTION. THE FRONT SEATS UN-LATCH FROM THE BASE, MOVING THE SEAT FORWARD AND THE REAR SEATS UN-LATCH AND FALL FORWARD OPENING THE TRUNK FROM THE INSIDE.",
+        "vin": "1G1ZB5STXMF"
+    },
+    {
+        "components": "STRUCTURE,UNKNOWN OR OTHER,VISIBILITY/WIPER",
+        "crash": false,
+        "dateComplaintFiled": "04/15/2021",
+        "dateOfIncident": "03/15/2021",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11408253,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "MALIBU",
+                "productYear": "2021",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVING THROUGH A SANDSTORM AT 45MPH( SLOW LANE AND SPEED SURE TO VISIBILITY) ON INTERSTATE 10 FROM RANCHO MIRAGE TO DESERT HOT SPRINGS, CALIFORNIA,  THE VEHICLE WINDSHIELD CRACKED NEARLY A FOOT.  I WAS CHARGED $400 BY ENTERPRISE RENTALS SINCE THIS WAS A RENTAL VEHICLE. A SMALL CHIP COULD BE SEEN, SIZE OF A BALL POINT PEN TIP, AT BEGINNING OF CRACK. ENTERPRISE HAS THE PHOTOS AND THIS WAS REPAIRED BY CALIBER AUTO GLASS IN TUSTIN, CA. RENTAL VEHICLE UNIT # 7T1DM2.  2021 CHEVY MALIBU WITH 5,360 MILES ON ODOMETER AT THE TIME.  I FEEL THIS IS A SAFETY HAZARD, A DEFECT IN THIS WINDSHIELD AND SHOULD BE INVESTIGATED FOR PUBLIC SAFETY.  ENTERPRISE RENT A CAR 32UA  78385 VARNER RD. SUITE D  PALM DESERT, CA 92211",
+        "vin": "1G1ZD5ST5MF"
+    }
+]

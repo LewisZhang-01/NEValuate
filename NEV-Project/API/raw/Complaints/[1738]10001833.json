@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "01/02/2003",
+        "dateOfIncident": "02/06/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001833,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "ESCAPE",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE HAS REPEATED ENGINE STALLING WHILE VEHICLE IS IN MOTION OR AT A STOP, THEN IT WILL IMMEDIATELY RESTART.  THE VEHICLE WAS TAKEN TO THE DEALER AND THEY REPLACED THE AIR FLOW SENSOR, AND REPROGRAMMED COMPUTER.  TS  WHEN THE VEHICLE REACHED THE OPERATING TEMPERATURE IN GEAR AT THE IDLE, IN PARK, THE RPM WOULD FLUCTUATE AND THE VEHICLE WOULD STALL.  THE VEHICLE WILL THEN RESTART.  SCC",
+        "vin": "1FMYU04142K"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "05/19/2003",
+        "dateOfIncident": "02/08/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018945,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPEDITION",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ELECTRICAL MOTOR CONTROLLING THE AIR BLEND DOORS LOCATED INSIDE THE AIR PLENUM HAS FAILED, AND THE PLASTIC DOOR(S) ITSELF IS CRACKED AND NON-FUNCTIONING.  I HAVE BEEN UNABLE TO DIRECT WARM AIR TO THE FRONT WINDOW TO DEBUG CAUSING DANGEROUSLY DECREASED VISION.  1999 FORD EDDIE BAUER EXPEDITION.  *JB",
+        "vin": "1FMPU18L2XL"
+    }
+]

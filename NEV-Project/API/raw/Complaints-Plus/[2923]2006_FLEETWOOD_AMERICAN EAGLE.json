@@ -1,0 +1,54 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/30/2018",
+        "dateOfIncident": "05/21/2012",
+        "fire": true,
+        "manufacturer": "FLEETWOOD ENTERPRISES, INC.",
+        "numberOfDeaths": 3,
+        "numberOfInjuries": 1,
+        "odiNumber": 11065902,
+        "products": [
+            {
+                "manufacturer": "FLEETWOOD ENTERPRISES, INC.",
+                "productMake": "FLEETWOOD",
+                "productModel": "AMERICAN EAGLE",
+                "productYear": "2006",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "G-METRIC TIRE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "TREAD SEPARATION OF A GOODYEAR G670 RV TIRE (SIZE 295/80/R22.5 MANUFACTURED AT BUFFALO PLANT IN 2005) WHICH WAS INSTALLED ON RIGHT FRONT OF AN AMERICAN COACH, AMERICAN EAGLE RV WHICH LED TO A FIRE AND DEATH OF 3 OCCUPANTS OF MOTOR HOME.",
+        "vin": "4VZAT1P936C"
+    },
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "07/23/2013",
+        "dateOfIncident": "05/11/2010",
+        "fire": false,
+        "manufacturer": "FLEETWOOD ENTERPRISES, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10526299,
+        "products": [
+            {
+                "manufacturer": "FLEETWOOD ENTERPRISES, INC.",
+                "productMake": "FLEETWOOD",
+                "productModel": "AMERICAN EAGLE",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2006 AMERICAN EAGLE MOTOR HOME. THE CONTACT STATED THAT ALL OF THE WINDOWS ON THE VEHICLE FOG UP WITH THE EXCEPTION OF THE WINDSHIELD. THE CONTACT SPOKE WITH THE MANUFACTURER AND WAS TOLD THE WARRANTY HAD EXPIRED AND THERE WERE NO RECALLS. THE VEHICLE WAS NOT TAKEN TO THE DEALER AND THE CONTACT WAS UNSURE WHAT CAUSED THE FAILURE TO OCCUR. THE CONTACT WAS TOLD THE WINDOW IN THE MOTOR HOME WAS MADE BY SEGI. THE VIN WAS NOT AVAILABLE.  THE FAILURE MILEAGE WAS UNKNOWN, BUT THE CURRENT MILEAGE WAS 17,000.   *TR",
+        "vin": ""
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "01/13/2004",
+        "dateOfIncident": "01/13/2004",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10053964,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TAURUS",
+                "productYear": "1977",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "PASSENGER'S SEAT BELT DID NOT RETRACT. DEALER INDICATED 50,000 MILES WAS THE WARRANTY ON THOSE SEAT BELTS. CONSUMER POSED A  QUESTION,  SINCE IT WAS A SAFETY ITEM, WAS  THE GOVERNMENT RESPONSIBLE TO FORCE MANUFACTURER TO BUILT STRONGER SEAT BELTS.*AK",
+        "vin": "1FALP52U6VG"
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "08/30/2000",
+        "dateOfIncident": "05/05/2000",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 729536,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TAURUS",
+                "productYear": "1977",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THREE OF FOUR TIRES SEPARATED BEFORE I REPLACED ALL WITH MICHELIN TIRES( DOT NUMBER:   TIRE SIZE: 205/65R15 )",
+        "vin": ""
+    }
+]

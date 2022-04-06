@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC,AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "03/21/2003",
+        "dateOfIncident": "12/13/2001",
+        "fire": true,
+        "manufacturer": "Volvo Car USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010861,
+        "products": [
+            {
+                "manufacturer": "Volvo Car USA, LLC",
+                "productMake": "VOLVO",
+                "productModel": "V70",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ABS/ TRACTION COMPUTER FAILURE, PREMATURE BRAKE FAILURE, SIDE AIRBAG DEPLOYED FALSELY (VOLVO V 70 AWD CROSS COUNTRY).  *NLM",
+        "vin": "YV1LW5641W2"
+    }
+]

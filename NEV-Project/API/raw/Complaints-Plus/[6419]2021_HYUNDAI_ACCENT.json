@@ -1,0 +1,46 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "03/12/2022",
+        "dateOfIncident": "03/12/2022",
+        "fire": true,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11456438,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "ACCENT",
+                "productYear": "2021",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Engine compartment fire. Vehicle towed to Hyundai dealer in Bremerton wa",
+        "vin": "3KPC24A69ME"
+    },
+    {
+        "components": "STEERING,WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "08/31/2021",
+        "dateOfIncident": "05/25/2021",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 11431287,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "ACCENT",
+                "productYear": "2021",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The car seems to have sort of an alignment problem. Steering keeps going to the left and I constantly have to pull steering to the right. Even with both have on steering wheel the car goes to the left lane. If I make a left turn the steering seems to want to stay to the left and I get the feeling the car is going to flip over. It's like there is a gap in the steering wheel. A miscommunication between the steering and front axle kind of. They tried to fix it three times without any success, and now they are ignoring me, they don't answer my calls. I only drive it to work because I have to. The dealer says it's not that bad. Well maybe it's not that bad to drive it around the block but to drive it one hour everyday is a problem for me, even my right hand and arm start to hurt after half hour of constant dragging. Dealer told me all there accents drive the same. Well for me it means they all have same problem probably. Mechanics told me they get lot of cars with same problem. I am sure they are aware of it. I even took a video while driving to demonstrate defect and definitely it's not safe to drive. They tried to align the car three times at two different dealers with no success. Dealers repair files attached.",
+        "vin": "3KPC24A60ME"
+    }
+]

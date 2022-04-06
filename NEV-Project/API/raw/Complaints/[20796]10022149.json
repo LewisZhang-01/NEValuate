@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "06/03/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022149,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "CIVIC",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE MALFUNCTION INDICATOR ILLUMINATED.  VEHICLE HAS BEEN TO THE DEALER FOR THIS PROBLEM SIX TIMES.  THE DEALER COULD NOT DETERMINE THE PROBLEM. *AK",
+        "vin": "2HGES16521H"
+    }
+]

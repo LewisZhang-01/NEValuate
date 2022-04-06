@@ -1,0 +1,32 @@
+[
+    {
+        "components": "AIR BAGS,TIRES",
+        "crash": true,
+        "dateComplaintFiled": "06/23/2003",
+        "dateOfIncident": "06/23/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10023599,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "PREVIA",
+                "productYear": "1993",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "KELLY SPRINGFIELD TIRE CO",
+                "productMake": "SIGMA",
+                "productModel": "P20570R14",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "BOUGHT NEW TIRE 6/20/03 (P205/75R14, T47-SIGMA TEMPEST); TIRE BLEW OUT ON SIDE ON 6/23/03 (SERIAL #S AQ5W30/SG01120754W). CAR WENT OFF ROAD AND HIT GUARD RAIL. CAR DAMAGE TO 1993 TOYOTA PREVIA IS TOTALED. MINOR INJURIES TO DRIVER.   *NLM",
+        "vin": "JT3AC11R3P1"
+    }
+]

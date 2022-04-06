@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "08/12/2003",
+        "dateOfIncident": "02/08/2003",
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005672,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUEL PUMP AND MECHANISMS TO SUPPORT CORRECT OPERATION FAILED UPON IGNITION IN DRIVEWAY.  IT IS SECOND REPORT GIVEN TO THE NHTSA AND IT IS POSSIBLE IF VEHICLE IS HOT EXPLOSION COULD OCCUR.   *NM",
+        "vin": "1FTYR10U71T"
+    }
+]

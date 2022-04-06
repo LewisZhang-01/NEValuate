@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,ELECTRICAL SYSTEM,VISIBILITY,STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "11/05/2003",
+        "dateOfIncident": "01/01/2002",
+        "fire": true,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10019746,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "INTREPID",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE  FRONT POWER WINDOWS  FELL DOWN WITHOUT USING THE CONTROLS.   *NLM   THERE WERE FUSE/WIRING SHORTAGES, HEADLIGHT/INTERIOR LIGHT FLICKERED WITHOUT WARNING, THE BELTS, MAIN POWER TRAIN, A/C BELT, AND THE COMPRESSOR CAUGHT FIRE AND THE POWER STEERING HAD BECOME INOPERATIVE.   *SCC THE DOORS DID NOT CLOSE PROPERLY.   *JB    *PH",
+        "vin": "2B3HD46R3XH"
+    }
+]

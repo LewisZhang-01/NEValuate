@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "10/04/2003",
+        "dateOfIncident": "08/01/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10041214,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "MALIBU",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2000 CHEVROLET MALIBU ,  ENGINE SHUT DOWN AT NORMAL DRIVING SPEED 4 TIMES ALTHOUGH PLENTY OF FUEL IN TANK.  *LA",
+        "vin": "1G1ND52J1Y6"
+    }
+]

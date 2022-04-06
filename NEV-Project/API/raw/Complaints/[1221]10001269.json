@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": true,
+        "dateComplaintFiled": "12/19/2002",
+        "dateOfIncident": "11/10/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 2,
+        "odiNumber": 10001269,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "SUNFIRE",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER CALLED COMPLAINING  ABOUT HAVING PROBLEM WITH THE VEHICLE SEAT BACK COLLAPSE. DEALER HAS BEEN NOTIFIED. TS  VEHICLE WAS REAR-ENDED AND SEAT BACKS WERE THROWN FORWARD THEN COLLAPSED INTO RECLINE POSITION.   DRIVER AND PASSENGER SUSTAINED INJURIES.   *TT",
+        "vin": "1G2JB1240W7"
+    }
+]

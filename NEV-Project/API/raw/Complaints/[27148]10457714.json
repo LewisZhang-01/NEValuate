@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION,STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "05/07/2012",
+        "dateOfIncident": "04/20/2012",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10457714,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "PACIFICA",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SUB FRAME RUSTED OUT, DECLARED UNSAFE TO DRIVE.  *TR",
+        "vin": "2C4GM48L25R"
+    }
+]

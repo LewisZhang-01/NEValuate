@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "03/04/2003",
+        "dateOfIncident": "03/11/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009707,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "GRAND AM",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE COLLIDED HEAD-ON WITH A DEER WHILE DRIVING ABOUT 45 MPH.  THE DEER DIED ON IMPACT AND CAUSED EXTENSIVE FRONT END DAMAGE TO THE VEHICLE.  THE DRIVER'S SIDE AIR BAG DID NOT DEPLOY.   *NLM *TS",
+        "vin": "1G2NE52T3VC"
+    }
+]

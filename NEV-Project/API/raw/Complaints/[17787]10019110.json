@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "05/22/2003",
+        "dateOfIncident": "11/20/2002",
+        "fire": false,
+        "manufacturer": "Subaru of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019110,
+        "products": [
+            {
+                "manufacturer": "Subaru of America, Inc.",
+                "productMake": "SUBARU",
+                "productModel": "LEGACY",
+                "productYear": "1992",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE STEEL PROD. CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "FIRESTONE",
+                "productYear": "2003",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "SEVERAL TULSA DEALERS UNABLE/UNWILLING TO REPAIR SMALL NAIL PUNCTURE OF FT70C TIRE.  STATE \"THIS TIRE NOT MADE TO BE REPAIRED-SELF SEALING\" CONTINUAL LOSS OF AIR NECESSITATES CONSTANT REFILLING.  PREVIOUS TIRE REPAIRED BY CERTIFIED TIRE SERVICE FACILITY SHOWED SIDEWALL SEPARATION USING ACCEPTABLE REPAIR EQUIPMENT.  TIRE MAKE HAS BEEN DISCONTINUED. NOW MANUFACTURED UNDER DIFFERENT MODEL DESIGNATION.  *NLM",
+        "vin": ""
+    }
+]

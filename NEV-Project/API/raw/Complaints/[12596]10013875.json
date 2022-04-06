@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "04/03/2003",
+        "dateOfIncident": "04/02/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10013875,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERCURY",
+                "productModel": "COUGAR",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUEL PUMP FAILS TO PRODUCE SUFFICIENT PRESSURE TO RUN ENGINE.  FIRST REPLACEMENT AT 54010 MILES.  PUMP HAS FAILED AGAIN AT 88000 MILES.",
+        "vin": "1ZWFT61L4Y5"
+    }
+]

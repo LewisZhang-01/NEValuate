@@ -1,0 +1,31 @@
+[
+    {
+        "components": "SEAT BELTS,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "05/24/2003",
+        "dateOfIncident": "01/09/2002",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019214,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "CAMRY",
+                "productYear": "1997",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "CROWN",
+                "productYear": "1969",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "SEAT BELTS WON'T RETRACT.  HAVE HAD FRONT BELTS REPLACED ON MY 1997 TOYOTA CAMRY TWICE AND PROBLEM COMES BACK.  BELTS WILL NOT RETRACT AND HANG OUT DOOR OR ON ME AFTER RELEASING.  *NLM",
+        "vin": "4T1BG22K6VU"
+    }
+]

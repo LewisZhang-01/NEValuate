@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "01/23/2003",
+        "dateOfIncident": "01/16/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004499,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "AVALANCHE",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING ON HIGHWAY, CONSUMER'S VEHICLE SKIDDED FROM THE RIGHT TO THE LEFT LANE.  WITHOUT WARNING THE DRIVER'S SIDE AIR BAG FULLY DEPLOYED WHILE THE PASSENGER SIDE AIR BAG PARTIALLY DEPLOYED.  CONSUMER'S VISIBILITY WAS COMPLETELY BLOCKED RESULTING IN CAR CRASHING INTO THE GUARDRAIL.  *TS  BOTH AIR BAGS DEPLOYED AND WERE FULLY DEFLATED BEFORE IMPACT.  *SCC",
+        "vin": "3GNEK13T92G"
+    }
+]

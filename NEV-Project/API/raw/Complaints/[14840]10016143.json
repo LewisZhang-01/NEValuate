@@ -1,0 +1,32 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC,TIRES",
+        "crash": false,
+        "dateComplaintFiled": "04/17/2003",
+        "dateOfIncident": "04/14/2001",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10016143,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TAURUS",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Continental Tire the Americas, LLC",
+                "productMake": "CONTINENTAL",
+                "productModel": "CONTINENTAL",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "2001 FORD TAURUS.  BRAKES RESURFACED AT 23,000 MILES.  (MAY 2002) STILL NOT RIGHT, ASKED TO RECHECK. THE DEALER INSISTED NOTHING WRONG.  ROTORS REPLACED AT 38,000 MILES. SO FAR, FORD REFUSING TO PAY.  NOT TO MENTION, FOUR NEW TIRES ABOUT THE SAME TIME.   *NLM",
+        "vin": "1FAFP55UX1G"
+    }
+]

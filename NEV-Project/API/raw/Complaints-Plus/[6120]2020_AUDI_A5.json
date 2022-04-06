@@ -1,0 +1,46 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "01/08/2022",
+        "dateOfIncident": "01/08/2022",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11446743,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "AUDI",
+                "productModel": "A5",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Rear backup camera displays black screen when engaging into reverse gear.  This happens 95% of the time.   Begun  Occurring after 10k dealer service.  Probably related to recall on 2022 models with same infotainment system.",
+        "vin": "WAUWNGF55LN"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "09/03/2021",
+        "dateOfIncident": "09/02/2020",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11431662,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "AUDI",
+                "productModel": "A5",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Where I am currently living, speed is measured on the roads in km/h. My vehicle allows the speedometer digital display screen (Audi virtual cockpit) to be switched to display MPH or km/h. When working correctly, the speedometer should display the speed with digits and an analog simulation. The display works perfectly when in MPH, however when switching to km/h the analog simulation properly shows km/h, but the digital reading will switch to km/h for a split second but then immediately reverts back to MPH. This defect was confirmed by 2 Audi service technicians at my local Audi service center, but they said Audi doesn't have an update for this defect. I have tried to contact Audi customer service, but I am not getting any answers to my question. I think this is a safety issue because it can be confusing as I expect to see the speed in km/h in both digital and analog display, but it shows the digital in MPH. An image that clearly shows the problem is attached. As you can see the analog style reading is in km/h, but the digital reading is in MPH. I have tried to resolve this with Audi for 1 year. It is my opinion that my safety and others has been placed at risk because this problem often causes me to be confused about the speed I am traveling. For example, if I glance down and see 100 on the display in a 100 km/h zone, I think I am going the speed limit, but fact, I would actually be going 100 MPH or 160 km/h, which would obviously be dangerous. The vehicle has not been inspected by police, insurance, or any other vehicle inspection organization. The problem occurs consistently and can be inspected at any time. This problem was noticed shortly after taking delivery one year ago in September of 2020.",
+        "vin": "WAUCNCF5XLA"
+    }
+]

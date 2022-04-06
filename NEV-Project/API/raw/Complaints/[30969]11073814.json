@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "02/20/2018",
+        "dateOfIncident": "02/01/2018",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11073814,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CADILLAC",
+                "productModel": "SRX",
+                "productYear": "2009",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE MOVING,  ON A CITY STREET,SMOKE CAME FROM THE ENGINE COMPARTMENT AND THE BRAKES NO LONGER FUNCTIONED.",
+        "vin": "1GYEE437190"
+    }
+]

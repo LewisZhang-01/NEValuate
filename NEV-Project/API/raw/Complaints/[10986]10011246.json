@@ -1,0 +1,24 @@
+[
+    {
+        "components": "PARKING BRAKE",
+        "crash": false,
+        "dateComplaintFiled": "03/27/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10011246,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "BRONCO",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE PARKING BRAKE DID NOT HOLD THE VEHICLE.   THE CONSUMER LOOKED ON NHTSA SITE AND DISCOVERED A RECALL (94V-169001) FOR THE SAME PROBLEM.  THE CONSUMER CONTACTED A LOCAL DEALER WHO INDICATED THE CONSUMERS VEHICLE WAS NOT INCLUDED DUE TO VIN.  *NLM  *NLM",
+        "vin": "1FMEU15H7NL"
+    }
+]

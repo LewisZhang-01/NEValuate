@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": true,
+        "dateComplaintFiled": "03/20/2003",
+        "dateOfIncident": "01/12/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10012188,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-350",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE STEERING COLUMN FAILED WHILE DRIVING AND CAUSED LOSS OF CONTROL.  *NLM  THE STEERING WHEEL HAD GONE AROUND IN A CIRCLE WITH NO RESPONSE.  THE CONSUMER THEN TOUCHED THE BRAKES AND HAD GONE INTO A DITCH.  SCC",
+        "vin": "9999"
+    }
+]

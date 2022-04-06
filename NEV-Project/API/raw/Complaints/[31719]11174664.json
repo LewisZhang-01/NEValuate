@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "02/06/2019",
+        "dateOfIncident": "01/29/2019",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 11174664,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "RAM",
+                "productModel": "1500",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AIR BAG DID NOT DEPLOY.  TRAVELING ON CITY STREET GOING STRAIGHT AUTO FROM LEFT HIT ME MAKING LEFT HAND TURN.  STUCK FRONT LEFT BUMPER I WAS GOING ABOUT 32 MPH.  NO AIR BAG DEPLOYMENT.",
+        "vin": "1C6RR6KM6GS"
+    }
+]

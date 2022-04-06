@@ -1,0 +1,54 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "10/15/2018",
+        "dateOfIncident": "10/14/2018",
+        "fire": false,
+        "manufacturer": "Tiffin Motorhomes, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11140387,
+        "products": [
+            {
+                "manufacturer": "Tiffin Motorhomes, Inc.",
+                "productMake": "TIFFIN",
+                "productModel": "ALLEGRO BUS",
+                "productYear": "1999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "G159",
+                "productYear": "9999",
+                "size": "265/75R22.5",
+                "type": "Tire"
+            }
+        ],
+        "summary": "I HAVE A CLASS A MOTORHOME WITH GOODYEAR G159 TIRES (245/70R19.5).  I HAD THE VEHICLE INSPECTED AT A MECHANIC SHOP AND THEY CHECKED THE TIRES, AND SET THEM TO THE MOTORHOME MANUFACTURER'S STATED RECOMMENDATION OF 80 PSI.  A BLOWOUT LATER OCCURRED AT 60 MPH ON I-65 CAUSING THE TREAD TO SEPARATE AND DAMAGE THE VEHICLE.",
+        "vin": "3FCNF53S5XJ"
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "07/26/2002",
+        "dateOfIncident": "04/08/2002",
+        "fire": false,
+        "manufacturer": "Tiffin Motorhomes, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 9007138,
+        "products": [
+            {
+                "manufacturer": "Tiffin Motorhomes, Inc.",
+                "productMake": "TIFFIN",
+                "productModel": "ALLEGRO BUS",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "MICHELIN TIRE  235/80R22.5 XR-V  HAVE HAD FIVE BLOWOUTS ON MICHELIN TIRES IN LAST FOUR YEARS--THEY HAVE REPLACED ONE TIRE AND OFFERED 50 DOLLARS ON THE LAST BLOWOUT",
+        "vin": "4UZ6XRBC9WC"
+    }
+]

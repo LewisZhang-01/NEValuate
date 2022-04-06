@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "08/05/2014",
+        "dateOfIncident": "07/16/2012",
+        "fire": false,
+        "manufacturer": "Hart Trailer LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10618960,
+        "products": [
+            {
+                "manufacturer": "Hart Trailer LLC",
+                "productMake": "HART",
+                "productModel": "CARGO",
+                "productYear": "2008",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "CARLISLE TIRE & RUBBER CO",
+                "productMake": "CARLISLE",
+                "productModel": "CARLISLE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "TL*  THE CONTACT OWNS A 2008 HART CARGO TRAILER. THE TRAILER IS EQUIPPED WITH CARLISLE HIGH RUN (NA) TIRES, SIZE 235/80/16 (NA). WHILE THE TRAILER WAS BEING PULLED AT APPROXIMATELY 45 MPH, THE CONTACT HEARD A LOUD BANGING NOISE AND DISCOVERED THAT THE REAR PASSENGER SIDE TIRE EXPLODED. THE TIRE WAS TEMPORARILY REPLACED WITH A SPARE TIRE UNTIL THE DEALER INSTALLED A NEW TIRE. THE FAILURE OCCURRED WITH THE OTHER THREE TIRES ON THE VEHICLE, WHICH WERE REPLACED. THE MANUFACTURER WAS NOTIFIED. THE VIN AND DOT NUMBER WERE UNAVAILABLE. THE FAILURE MILEAGE WAS NOT APPLICABLE.",
+        "vin": ""
+    }
+]

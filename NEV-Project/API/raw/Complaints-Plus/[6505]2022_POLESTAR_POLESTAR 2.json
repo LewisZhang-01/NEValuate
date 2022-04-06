@@ -1,0 +1,354 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "03/31/2022",
+        "dateOfIncident": "03/27/2022",
+        "fire": false,
+        "manufacturer": "Polestar Automotive USA, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11459117,
+        "products": [
+            {
+                "manufacturer": "Polestar Automotive USA, Inc.",
+                "productMake": "POLESTAR",
+                "productModel": "POLESTAR 2",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact owns a 2022 Polestar Polestar 2. The contact stated that while driving approximately 25 - 30 MPH, the vehicle lost motive power. The vehicle was taken to the dealer but was not yet diagnosed nor repaired. The vehicle remained at the dealer. The manufacturer was made aware of the failure. The failure mileage was approximately 200.",
+        "vin": "LPSED3KA6NL"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM,UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "03/28/2022",
+        "dateOfIncident": "03/25/2022",
+        "fire": false,
+        "manufacturer": "Polestar Automotive USA, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11458563,
+        "products": [
+            {
+                "manufacturer": "Polestar Automotive USA, Inc.",
+                "productMake": "POLESTAR",
+                "productModel": "POLESTAR 2",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "All connectivity goes away including emergency and SOS capability, and GPS.",
+        "vin": "LPSED3KA4NL"
+    },
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "03/15/2022",
+        "dateOfIncident": "03/14/2022",
+        "fire": false,
+        "manufacturer": "Polestar Automotive USA, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11456896,
+        "products": [
+            {
+                "manufacturer": "Polestar Automotive USA, Inc.",
+                "productMake": "POLESTAR",
+                "productModel": "POLESTAR 2",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TCAM/Navigation fails. GPS location got really flaky and jumped all over the map, and ultimately stopped working altogether. This TCAM failure seems like a common issue on the polestar forums.   The safety concern is mainly the amount of confusion it caused since it was telling me to turn left or right in places where that wouldn't have been legal or safe (because it thought I was somewhere else).",
+        "vin": "LPSED3KA1NL"
+    },
+    {
+        "components": "FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "03/12/2022",
+        "dateOfIncident": "03/09/2022",
+        "fire": false,
+        "manufacturer": "Polestar Automotive USA, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11456448,
+        "products": [
+            {
+                "manufacturer": "Polestar Automotive USA, Inc.",
+                "productMake": "POLESTAR",
+                "productModel": "POLESTAR 2",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "This vehicle is less that one month old. I received an alert multiple times in my instrument cluster: Propulsion System Service Required. The vehicle was able to still operate seemingly normally. I contacted Polestar and they suggested a software reboot to attempt to resolve the issue, which did temporarily make the alert disappear. However, the following day the same alert returned. I am currently awaiting service.",
+        "vin": "LPSED3KAXNL"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM,UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "03/09/2022",
+        "dateOfIncident": "03/09/2022",
+        "fire": false,
+        "manufacturer": "Polestar Automotive USA, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11455935,
+        "products": [
+            {
+                "manufacturer": "Polestar Automotive USA, Inc.",
+                "productMake": "POLESTAR",
+                "productModel": "POLESTAR 2",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Constant issues with the cars data connection causing an inability to operate certain functions of the car. This includes safety related actions like SOS and Connect.   Aside from the possible safety issues, the dropping of data to the car prevents a multitude of features from being available to those in the vehicle.  This happens on many occasions across a wide range of driving scenarios. The car is brand new and started this behavior less than 200 miles after purchase. There is a connection icon that shows a data error, with no other indicators from the vehicle.   There have been times where I was unable to use navigation to get to my destination requiring use of my phone to complete the task.   The dealer has been reluctant to address the issue and admit any widespread occurrence.  I may be willing to have my car inspected depending on level of invasiveness.",
+        "vin": "LPSED3KA0NL"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM,UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "03/08/2022",
+        "dateOfIncident": "03/03/2022",
+        "fire": false,
+        "manufacturer": "Polestar Automotive USA, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11455766,
+        "products": [
+            {
+                "manufacturer": "Polestar Automotive USA, Inc.",
+                "productMake": "POLESTAR",
+                "productModel": "POLESTAR 2",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "3/3/22 TCAM went out no LTE no GPS no SOS no Roadside Assistance  called dealer had appt for 3/5/22 to have repaired picked up that afternoon everything worked this afternoon 3/8/22 it all went out again will call dealer again tomorrow and miss more work due to this",
+        "vin": "lpsed3ka6nl"
+    },
+    {
+        "components": "BACK OVER PREVENTION,FORWARD COLLISION AVOIDANCE",
+        "crash": false,
+        "dateComplaintFiled": "02/23/2022",
+        "dateOfIncident": "02/14/2022",
+        "fire": false,
+        "manufacturer": "Polestar Automotive USA, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11453599,
+        "products": [
+            {
+                "manufacturer": "Polestar Automotive USA, Inc.",
+                "productMake": "POLESTAR",
+                "productModel": "POLESTAR 2",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Modem failed on vehicle on 02/04/222. Vehicle went in for diagnostic service on that issue on 02/14/2022. Manufacturer installed new software update which added Auto Brake part of Cross Traffic Alert is to stop the vehicle in the shortest possible distance to avoid collision and did not tell me it was added or advise how to disable it. On the morning of 2/15/2022, while using due caution and circumspection, I attempted to back into my flat, level and unobstructed residential driveway. For no reason at all, a loud noise went off and, for no reason at all, this braking system, engaged immediately. I immediately experienced neck pain. The following morning, I pulled straight out of the same driveway and pulled \"head first\" into my garage. I then went to exit my garage  with due caution and circumspection and with no obstacles of any nature behind my vehicle. Again, for no reason at all again, a loud noise went off and, for no reason at all, this braking system, engaged immediately. I again immediately experienced neck pain. The neck pain persisted resulting in my reporting the events to the dealership that morning and eventually the manufacturer that afternoon. I then sought chiropractic diagnosis and treatment. I was diagnosed with having experienced \"whiplash\" and have been undergoing treatment (at my expense) since 02/15/2022 and still have not fully recovered. Dealership advised me for the first time the afternoon of 2/15/2022 that this new breaking system was installed via a software upgrade on 02/14/2022. Dealership advised me that the new breaking system can be disabled manually on a \"drive - by - drive\" basis. This is dangerous because the auto must be in reverse gear to activate the time consuming 2 step disable process and operator must remember to disable during every use. Manufacturer advised me today that what I perceive to be a safety defect is \"performing as designed\" and that it will not be taking any remedial measures of any nature.",
+        "vin": "LPSED3KA6NL"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "02/19/2022",
+        "dateOfIncident": "02/18/2022",
+        "fire": false,
+        "manufacturer": "Polestar Automotive USA, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11452923,
+        "products": [
+            {
+                "manufacturer": "Polestar Automotive USA, Inc.",
+                "productMake": "POLESTAR",
+                "productModel": "POLESTAR 2",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Vehicle TCAM module stops working, losing LTE connectivity and other vehicle telematics including \u2018SOS\u2019 emergency communication features.",
+        "vin": "LPSED3KA0NL"
+    },
+    {
+        "components": "BACK OVER PREVENTION",
+        "crash": false,
+        "dateComplaintFiled": "02/19/2022",
+        "dateOfIncident": "01/12/2022",
+        "fire": false,
+        "manufacturer": "Polestar Automotive USA, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11452924,
+        "products": [
+            {
+                "manufacturer": "Polestar Automotive USA, Inc.",
+                "productMake": "POLESTAR",
+                "productModel": "POLESTAR 2",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Parking sensors are susceptible to water getting in, causing malfunction.",
+        "vin": "LPSED3KA0NL"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "02/17/2022",
+        "dateOfIncident": "02/16/2022",
+        "fire": false,
+        "manufacturer": "Polestar Automotive USA, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11452552,
+        "products": [
+            {
+                "manufacturer": "Polestar Automotive USA, Inc.",
+                "productMake": "POLESTAR",
+                "productModel": "POLESTAR 2",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Lane keeping assistance function consistently steers the vehicle onto freeway exits when used on the freeway. (note, this is in California with exits using CA's normal shoulder line markings) The steering onto the exit happens abruptly, with significant steering authority; rapid assertive driver intervention is required to maintain vehicle in lane. This behavior appeared after the vehicle completed an OTA update to software version P1.8.",
+        "vin": "LPSED3KA2NL"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM,UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "02/09/2022",
+        "dateOfIncident": "02/08/2022",
+        "fire": false,
+        "manufacturer": "Polestar Automotive USA, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11451202,
+        "products": [
+            {
+                "manufacturer": "Polestar Automotive USA, Inc.",
+                "productMake": "POLESTAR",
+                "productModel": "POLESTAR 2",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "4G LTE (TCAM) lost cellular signal, which controls all connectivity to car including entertainment, driver assistance, SOS and sometimes access to unlock/lock car",
+        "vin": "LPSED3KAXNL"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "02/09/2022",
+        "dateOfIncident": "02/08/2022",
+        "fire": false,
+        "manufacturer": "Polestar Automotive USA, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11451207,
+        "products": [
+            {
+                "manufacturer": "Polestar Automotive USA, Inc.",
+                "productMake": "POLESTAR",
+                "productModel": "POLESTAR 2",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The car spontaneously loses contact with all wireless capabilities. This disables the keys from working to start/lock/unlock the car, breaks SOS/assist functionality, and disables all internet connectivity.  The car has been to the dealership twice so far and they have been unable to fix the problem. They said that there is a software update that will be available 3/22 that will supposedly fix some of the problems. In the meantime they have acknowledged that nothing can be done in the service documentation.",
+        "vin": "LPSED3KA9NL"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "02/09/2022",
+        "dateOfIncident": "01/28/2022",
+        "fire": false,
+        "manufacturer": "Polestar Automotive USA, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11451287,
+        "products": [
+            {
+                "manufacturer": "Polestar Automotive USA, Inc.",
+                "productMake": "POLESTAR",
+                "productModel": "POLESTAR 2",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Polestar TCAM stopped working.  No LTE.",
+        "vin": "Lpsed3ka3nl"
+    },
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "02/07/2022",
+        "dateOfIncident": "02/07/2022",
+        "fire": false,
+        "manufacturer": "Polestar Automotive USA, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11450801,
+        "products": [
+            {
+                "manufacturer": "Polestar Automotive USA, Inc.",
+                "productMake": "POLESTAR",
+                "productModel": "POLESTAR 2",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Selt belt indicator light turns off after about a minute of sitting or a minute of driving even if the seatbelt is not buckled.  There is a concern the system is turning off the indicator despite the fact that the driver side seat belt remains unbuckled.  Also, that the airbag may not deploy as it's designed to because it is not accurately identify if a seat belt is buckled.",
+        "vin": "LPSED3KAXNL"
+    },
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "01/22/2022",
+        "dateOfIncident": "01/20/2022",
+        "fire": false,
+        "manufacturer": "Polestar Automotive USA, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11448468,
+        "products": [
+            {
+                "manufacturer": "Polestar Automotive USA, Inc.",
+                "productMake": "POLESTAR",
+                "productModel": "POLESTAR 2",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The rear brake pads on Polestar 2s (P2) are susceptible to adhering to the rotors, causing a juddering noise from some of the pad breaking off and left stuck on the rotors. This appears to happen in wet climates, after its driven in the rain, after the wheels are cleaned with water, or stored in a humid space. Typical symptoms are: (a) the morning after the pads are exposed to water or excessive humidity, the brakes makes a loud THUD noise when initially moving it out of standstill; (b) it then proceeds with a low-pitched grinding noise coming from the wheels, and then goes away after a few seconds.If the grinding noise persists, turns into a sound similar to having a flat tire, and eventually turning into a repetitive judder noise when either applying the brakes or quickly releasing the accelerator when OPD, there's a good chance you have this issue.  Cause: A high percentage of the brake pads' material consists of metal with an outer metal coating that helps with break in and corrosion. These pads create significantly more brake dust, which coats the rotors while driving. The metal in the dust adheres the pads to the rotors, especially when wet. The leftover thumping noise is brake pad material that broke off and remained on the rotor. It's possible the parking brake uses the same rear brakes. In this scenario, the brakes are essentially applied overnight, which further exacerbates the pad bonding to the rotors. At this moment, it's not possible to park your car without applying the parking brake.",
+        "vin": "LPSED3KA8NL"
+    },
+    {
+        "components": "WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "01/02/2022",
+        "dateOfIncident": "01/02/2022",
+        "fire": false,
+        "manufacturer": "Polestar Automotive USA, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11445851,
+        "products": [
+            {
+                "manufacturer": "Polestar Automotive USA, Inc.",
+                "productMake": "POLESTAR",
+                "productModel": "POLESTAR 2",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I got my Polestar 2 in November and just realized my 19\" Michelin Primacy 4 tires are summer tires. I live in the Northeast US where the weather gets very cold and we get a lot of snow. I looked at my window sticker and it doesn't say anything about summer tires. I'm surprised that Polestar / Volvo negligently put summer tires on a NON-performance model and did not inform customers like me in snowy regions - this is very dangerous! Polestar really needs to either provide all season tires as standard in snowy regions or proactively inform customers that their cars are equipped with summer tires.   The only reason I found out my Polestar came with summer tires is from a Facebook post where a driver got into an accident in the snow with his brand new Polestar not knowing it had summer tires on. There are a lot of facebook posts with Polestar drivers unknowingly driving their Polestars in the snow with summer tires. This is very dangerous!",
+        "vin": "LPSED3KA7NL"
+    }
+]

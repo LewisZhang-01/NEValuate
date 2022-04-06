@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "07/23/2003",
+        "dateOfIncident": "04/26/2003",
+        "fire": false,
+        "manufacturer": "Winnebago Industries, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022725,
+        "products": [
+            {
+                "manufacturer": "Winnebago Industries, Inc.",
+                "productMake": "WINNEBAGO",
+                "productModel": "WINNEBAGO",
+                "productYear": "1997",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "STEELTEX R45",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE RIGHT OUTSIDE REAR TIRE EXPERIENCED TREAD SEPARATION, 20 MILES LATER THE RIGHT FRONT TIRE BLEW OUT.  THE THIRD INCIDENT THE LEFT INSIDE REAR TIRE EXPERIENCED TREAD SEPARATION.  *TS  *JB",
+        "vin": "1FDLES4VHA9"
+    }
+]

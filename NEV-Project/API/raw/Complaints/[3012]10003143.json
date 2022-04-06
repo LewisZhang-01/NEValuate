@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "01/21/2003",
+        "dateOfIncident": "11/22/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003143,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "OLDSMOBILE",
+                "productModel": "BRAVADA",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "REAR QUARTER PANEL BODY SEAM SEPARATION CAUSED LEAKING INTO THE PASSENGER AREA CAUSING CARPET STAINING AND MILDEW SMELL IN PASSENGER COMPARTMENT.  WATER INTRUSION TO INTERIOR AS WELL AS ROAD GRIME AND SALT.",
+        "vin": "1GHDT13W812"
+    }
+]

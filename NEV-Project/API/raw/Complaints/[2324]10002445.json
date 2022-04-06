@@ -1,0 +1,24 @@
+[
+    {
+        "components": "LATCHES/LOCKS/LINKAGES",
+        "crash": false,
+        "dateComplaintFiled": "01/09/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002445,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "PARK AVENUE",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE RIGHT REAR PASSENGER DOOR FAILS TO UNLOCK BY USING ELECTRONIC LOCKING BUTTON OR MANUALLY PULLING ON THE DOOR LOCK.  THE CAUSE OF THE PROBLEM HAS NOT BEEN DETERMINED.  PLEASE DESCRIBE DETAILS.  *NLM",
+        "vin": ""
+    }
+]

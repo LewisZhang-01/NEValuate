@@ -1,0 +1,24 @@
+[
+    {
+        "components": "LATCHES/LOCKS/LINKAGES",
+        "crash": false,
+        "dateComplaintFiled": "06/05/2003",
+        "dateOfIncident": "01/09/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021081,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "LHS",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DOOR LOCK MOTORS HAVE FAILED ON ALL FOUR DOORS. DRIVER SIDE DOOR WAS LOCKED AND UNOPERABLE. *AK",
+        "vin": "2C3HC56G1YH"
+    }
+]

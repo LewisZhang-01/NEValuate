@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "03/20/2003",
+        "dateOfIncident": "03/06/2000",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10011455,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "ODYSSEY",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE TRANSMISSION CONTAINED A BEARING FLAW WHICH CAUSED THE TRANSMISSION TO SPONTANEOUSLY DOWN SHIFT FROM 4TH TO 2ND GEAR, THIS PROBLEM ALSO CAUSED A SEVERE VIBRATION IN THE TRANSMISSION.  *TS  *JB",
+        "vin": "2HKRL186XYH"
+    }
+]

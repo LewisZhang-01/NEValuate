@@ -1,0 +1,90 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "03/15/2022",
+        "dateOfIncident": "02/11/2022",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11456822,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO 1500",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact owns a 2022 Chevrolet Silverado 1500. The contact stated while her son was driving 50 MPH, the vehicle stalled. The contact stated that the \"Shift to Neutral\" and \"Restart Vehicle\" messages were displayed on the instrument panel. The vehicle was not drivable. The contact towed the vehicle to the local dealer, where it was diagnosed with needing the engine to be repaired. The vehicle was not repaired. The manufacturer had been informed of the failure. The failure mileage was approximately 4,340.",
+        "vin": "3GCUYEEL6NG"
+    },
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "03/14/2022",
+        "dateOfIncident": "02/01/2022",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11456587,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO 1500",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I have two GM vehicles. 1) 2022 GMC Sierra Denali 4x4; 6.2 V8 and 2) 2022 Chevy Silverado High Country; 6.2 V8 as well. My Chevy is producing a mysterious black substance, whereas the Sierra does not. I am being told that this behavior is normal. I would expect the same behavior from both vehicles, but that is not the case.",
+        "vin": "3GCUYHEL9NG"
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "02/26/2022",
+        "dateOfIncident": "02/12/2022",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11454224,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO 1500",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "On the first drive everyday, the transmission keeps slipping between 1st and 2nd gear and you have no power trying to accelerate until you find a gear.  Took it to dealership and they couldn\u2019t find anything wrong. They said Chevrolet has a bulletin on this issue already.  Not okay",
+        "vin": "3gcpybek0ng"
+    },
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "12/22/2021",
+        "dateOfIncident": "12/19/2021",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 11444681,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO 1500",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact owns a 2022 Chevrolet Silverado 1500. The contact stated that while her husband was driving at 60 MPH and coughing,  he got distracted and lost control of the vehicle. The vehicle veered off the road and crashed into several trees. The air bags failed to deploy. The contact's husband did not recall whether a warning light illuminated. The contact also stated that the following distance indicator feature of the vehicle that would cause the vehicle to decelerate when approaching an object failed to respond while the vehicle was veering towards the trees. The contact's husband was transported out of the vehicle to the hospital with the assistance of emergency units. The contact's husband sustained chips to his spine, C7+1 chips on his neck, a laceration on his forehead, bruises on the upper body, and a left broken rib. A police report was filed. The vehicle was towed to a tow lot, then it was towed to the dealer. The manufacturer was not notified of the failure. The vehicle was not diagnosed or repaired. The approximate failure mileage was 1100.",
+        "vin": "1GCUYHET5NZ"
+    }
+]

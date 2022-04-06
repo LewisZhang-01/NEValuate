@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "04/17/2003",
+        "dateOfIncident": "07/28/2001",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10016044,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPEDITION",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Continental Tire the Americas, LLC",
+                "productMake": "CONTINENTAL",
+                "productModel": "GRABBER AW",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "IN 07/01 THE RIGHT REAR TIRE EXPERIENCED A SIDEWALL BLOWOUT WHILE DRIVING. THE DEALER REPLACED THE TIRE.  THE REPLACEMENT TIRE VIBRATED EXCESSIVELY WHILE DRIVING.  TIRE DEALER STATED THE TIRE COULD NOT BE BALANCED, BECAUSE THE TIRE WAS COMING APART ON THE INSIDE.  TIRE INFO:  CONTINENTAL GENERAL AW GRABBERS  P275/60R17  ORIGINAL  1ST FAILURE-100 MILES ON TIRE  2ND FAILURE- 29K MILES ON TIRE  DOT# 1ST TIRE- ADT044T5100  DOT# REPLACEMENT TIRE- ADT0441701  *JB  MANUFACTURER DID NOT TAKE RESPONSIBILITY.  *SCC",
+        "vin": "1FMRU17W31L"
+    }
+]

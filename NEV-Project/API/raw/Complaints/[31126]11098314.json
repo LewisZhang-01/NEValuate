@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "05/28/2018",
+        "dateOfIncident": "05/27/2018",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11098314,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "RENEGADE",
+                "productYear": "2017",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENGINE HAS STALLED OUT MULTIPLE TIMES. LATEST TIME STALLED OUT ON A CITY STREET AFTER TURNING INTO IT.  TENDS TO HAPPEN WHEN OIL IS LOW. JEEP BURNING THROUGH OIL TOO FAST.",
+        "vin": "ZACCJBCB9HP"
+    }
+]

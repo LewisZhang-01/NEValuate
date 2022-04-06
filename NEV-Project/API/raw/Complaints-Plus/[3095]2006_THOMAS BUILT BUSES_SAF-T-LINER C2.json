@@ -1,0 +1,53 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "04/11/2011",
+        "dateOfIncident": "02/03/2011",
+        "fire": true,
+        "manufacturer": "FREIGHTLINER LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10395455,
+        "products": [
+            {
+                "manufacturer": "FREIGHTLINER LLC",
+                "productMake": "THOMAS BUILT BUSES",
+                "productModel": "SAF-T-LINER C2",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2006 THOMAS/FREIGHTLINER SCHOOL BUS CAUGHT FIRE AND BURNT WHILE PARKED. INVESTIGATION FOUND FIRE ORIGIN FROM FLOOR MOUNTED BATTERY CABLES TO THE LEFT OF DRIVER'S SEAT. FURTHER INVESTIGATION INTO NINE SIMILAR BUSES IN THE FLEET FOUND HEAVY CORROSION AT THE BATTERY CABLE ISOLATORS IS OCCURRING WHICH CAN RESULT IN SHORTING AND FIRE.  *TR",
+        "vin": "4UZABRDD06C"
+    },
+    {
+        "components": "PARKING BRAKE,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "04/27/2007",
+        "dateOfIncident": "04/23/2007",
+        "fire": false,
+        "manufacturer": "FREIGHTLINER LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10189089,
+        "products": [
+            {
+                "manufacturer": "FREIGHTLINER LLC",
+                "productMake": "THOMAS BUILT BUSES",
+                "productModel": "SAF-T-LINER C2",
+                "productYear": "2006",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "PHOENIX",
+                "productMake": "PHOENIX",
+                "productModel": "PHOENIX",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "AIR BRAKES WOULD NOT RELEASE. REPLACED CMU PART NUMBER 06-34530-006, PART HAD WATER INSIDE UNIT. THIS IS THE SECOND REPLACEMENT FOR THIS SCHOOL BUS. THE BUS IS A 2006 THOMAS SAF-T-LINER 72 PASSENGER. THE CMU IS LOCATED BEHIND THE BATTERY BOX ON THE DRIVER SIDE. THIS SECOND UNIT WAS SUPPOSED TO BE AN UPDATED VERSION THAT PREVENTED MOISTURE FROM ENTERING THE CMU THE VEHICLE. *JB",
+        "vin": "4UZABRCS37C"
+    }
+]

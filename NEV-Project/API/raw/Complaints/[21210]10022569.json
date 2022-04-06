@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "06/06/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022569,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "MONTE CARLO",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DEALER HAD TO REPLACE VEHICLE'S ENGINE CRADLE DUE TO A DESIGN DEFECT.*AK",
+        "vin": "2G1WX12K7Y9"
+    }
+]

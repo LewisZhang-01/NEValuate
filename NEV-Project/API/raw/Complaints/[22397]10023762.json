@@ -1,0 +1,31 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "06/25/2003",
+        "dateOfIncident": "06/21/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10023762,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "GRAND CHEROKEE",
+                "productYear": "1999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Brake Parts Inc.",
+                "productMake": "BRAKE PARTS",
+                "productModel": "DISC BRAKE ROTOR",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "THE ROTORS ON MY 1999 JEEP GRAND CHEROKEE LAREDO ARE GOING BAD AFTER HAVING THEM DONE LAST YEAR.  THIS IS A KNOWN PROBLEM WITH JEEPS.  I FEEL THIS SHOULD BE LOOKED INTO BECAUSE THIS IS NOT A NORM.   *NLM",
+        "vin": "1J4GW58SXXC"
+    }
+]

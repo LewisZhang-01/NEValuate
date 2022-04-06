@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "05/20/2003",
+        "dateOfIncident": "05/18/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019018,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "OLDSMOBILE",
+                "productModel": "BRAVADA",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WIPER MOTOR FAILURE DURING INCLEMENT WEATHER. ALSO, WINDSHIELD DEFROSTER/DEFOGGER NOT WORKING DUE TO RUST CLOGGING THE HEATER CORE ALSO CAUSING MOTOR TO OVERHEAT AND STALL IN THE SUMMER.  *NLM",
+        "vin": "1GHDT13W6W2"
+    }
+]

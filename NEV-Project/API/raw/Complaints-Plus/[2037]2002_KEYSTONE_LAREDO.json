@@ -1,0 +1,31 @@
+[
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "03/03/2008",
+        "dateOfIncident": "10/15/2007",
+        "fire": false,
+        "manufacturer": "Keystone RV Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10219890,
+        "products": [
+            {
+                "manufacturer": "Keystone RV Company",
+                "productMake": "KEYSTONE",
+                "productModel": "LAREDO",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Dometic Corporation",
+                "productMake": "DOMETIC",
+                "productModel": "RM2652",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 2002 LAREDO FIFTH WHEEL.  THE VEHICLE HAS A DOMETIC REFRIGERATOR, MODEL NUMBER RM2652.  THE CONTACT RECEIVED A SAFETY RECALL NOTICE FOR NHTSA CAMPAIGN ID NUMBER 07V134000 (EQUIPMENT:RECREATIONAL VEHICLE).  THE REMEDY CONSISTED OF PLACING SHEET METAL AROUND THE TUBING INSTEAD OF PERFORMING AN ACTUAL REPAIR.  HE IS CONCERNED THAT THE VEHICLE WILL CATCH FIRE WHILE HE AND HIS FAMILY ARE INSIDE.  THERE HAD BEEN NO FAILURE TO DATE.  UPDATED 03/25/08  *TR",
+        "vin": "4YDF27R2624"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "06/09/2003",
+        "dateOfIncident": "06/02/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022653,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "YUKON",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING, VEHICLE STALLED WITHOUT WARNING.  UPON INSPECTION, DEALER DISCOVERED THAT  ELECTRICAL WIRES LOCATED INSIDE OF FUEL PUMP WERE COMPLETELY EXPOSED CAUSING THEM TO MELT.*AK",
+        "vin": "3GKEC16T8YG"
+    }
+]

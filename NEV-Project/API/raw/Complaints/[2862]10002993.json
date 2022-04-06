@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "01/20/2003",
+        "dateOfIncident": "01/20/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002993,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "SATURN",
+                "productModel": "SC",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FRONT DRIVERS' SIDE SEATBACK MECHANISM FAILS REPEATEDLY.  5-SPEED CAR.  DRIVER ATTEMPTS TO ENGAGE CLUTCH AND SEATBACK COLLAPSES DUE TO THE PRESSURE, SENDING DRIVER BACK AND MOMENTARILY LOOSING CONTROL OF CLUTCH AND/OR BRAKE APPLICATION.  BUILD DATE AND VIN OUTSIDE OF RECALL, BUT FAILURE HAS OCCURED AND IS VERIFIABLE.",
+        "vin": "1G8ZE1280SZ"
+    }
+]

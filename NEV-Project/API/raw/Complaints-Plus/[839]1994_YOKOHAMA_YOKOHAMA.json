@@ -1,0 +1,46 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "07/29/2002",
+        "dateOfIncident": "06/18/2002",
+        "fire": false,
+        "manufacturer": "YOKOHAMA",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 8015034,
+        "products": [
+            {
+                "manufacturer": "YOKOHAMA",
+                "productMake": "YOKOHAMA",
+                "productModel": "YOKOHAMA",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE TRAVELING ON HIGHWAY AND WITHOUT PRIOR WARNING THREE  OUT FOUR TIRES HAD  TREAD SEPARATIN IN THE CROWN AREA.  YOKOHAMA TIRES, P215/65R15 ,#DOTCC1HVD61201 DEALERSHIP IS ASWARE OF PROBLEM.*AK",
+        "vin": ""
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/05/1995",
+        "dateOfIncident": "06/04/1995",
+        "fire": false,
+        "manufacturer": "YOKOHAMA",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 966316,
+        "products": [
+            {
+                "manufacturer": "YOKOHAMA",
+                "productMake": "YOKOHAMA",
+                "productModel": "YOKOHAMA",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TIRE BLEW WHILE DRIVING CAUSING CAR TO GO OUT OF CONTROL. PLEASE DESCRIBE.  TT",
+        "vin": ""
+    }
+]

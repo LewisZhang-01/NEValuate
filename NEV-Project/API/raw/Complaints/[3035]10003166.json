@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, AIR",
+        "crash": false,
+        "dateComplaintFiled": "01/22/2003",
+        "dateOfIncident": "01/18/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003166,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE EBCM (ELECTRONIC BRAKE CONTROL MODULE) HAS FAILED ON MY 1999 GMC SIERRA.  IT HAS LESS THAN 40000 MILES ON IT, AND FROM INFORMATION OBTAINED ONLINE, THIS APPEARS TO BE QUITE A COMMONPLACE EVENT ON THESE VEHICLES.  THE ABS LIGHT COMES ON, AND THE PUMP WILL RUN EVEN WITH THE IGNITION KEY REMOVED.",
+        "vin": "1GTEK19T1XE"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "09/16/2009",
+        "dateOfIncident": "08/15/2009",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10284114,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "XTERRA",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUEL GAUGE SHOWS INCORRECT FUEL AMOUNT IN TANK. THE TANK WILL SHOW MORE THAN A QUARTER OF A TANK AND THEN ALL OF A SUDDEN DROP TO DEAD EMPTY AND THE LOW FUEL LIGHT WILL COME ON. THIS ALSO TRIGGERS THE TRIP COMPUTER TO READ '---' FOR THE DTE (DISTANCE TO EMPTY) READING. THIS IS A COMMON PROBLEM THAT NISSAN HAS ISSUED A TECHNICAL SERVICE BULLETIN ON (NTB07-069B). *TR",
+        "vin": ""
+    }
+]

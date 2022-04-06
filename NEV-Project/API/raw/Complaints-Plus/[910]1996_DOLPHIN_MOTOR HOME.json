@@ -1,0 +1,68 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC,VEHICLE SPEED CONTROL",
+        "crash": true,
+        "dateComplaintFiled": "07/05/2000",
+        "dateOfIncident": "06/01/2000",
+        "fire": false,
+        "manufacturer": "DOLPHIN RV PRODUCTS INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 3,
+        "odiNumber": 864744,
+        "products": [
+            {
+                "manufacturer": "DOLPHIN RV PRODUCTS INC.",
+                "productMake": "DOLPHIN",
+                "productModel": "MOTOR HOME",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN THE BRAKES WERE APPLIED  WHILE SPEED CONTROL WAS ACTIVATED, THE FRONT WHEELS LOCKED UP AND THE VEHICLE WENT INTO A SLIDE, RESULTING IN A COLLISION AND  MINOR INJURIES.   VEHICLE WAS TOTALED. *AK *ML",
+        "vin": "3FCM753G0SJ"
+    },
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "05/06/1996",
+        "dateOfIncident": "01/03/1996",
+        "fire": false,
+        "manufacturer": "DOLPHIN RV PRODUCTS INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 504237,
+        "products": [
+            {
+                "manufacturer": "DOLPHIN RV PRODUCTS INC.",
+                "productMake": "DOLPHIN",
+                "productModel": "MOTOR HOME",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "STEERING PROBLEM, CAUSING VEHICLE TO BOUNCE ALL OVER THE ROAD. *DSH",
+        "vin": ""
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "05/06/1996",
+        "dateOfIncident": "01/03/1996",
+        "fire": false,
+        "manufacturer": "DOLPHIN RV PRODUCTS INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 504237,
+        "products": [
+            {
+                "manufacturer": "DOLPHIN RV PRODUCTS INC.",
+                "productMake": "DOLPHIN",
+                "productModel": "MOTOR HOME",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "MICHELIN TIRES FAIL.",
+        "vin": ""
+    }
+]

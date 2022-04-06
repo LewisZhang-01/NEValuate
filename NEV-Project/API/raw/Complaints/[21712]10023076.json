@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING,POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "06/14/2003",
+        "dateOfIncident": "08/26/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10023076,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "LS",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHINE IN ENGINE OR TRANSMISSION DURING IDLE WHEN THE ENGINE RPM IS INCREASED OR DECREASED.  NOISE IS MORE NOTICEABLE AT CITY SPEEDS (1000 TO 1400 RPM).PITCH CHANGES WITH ENGINE RPM.   *NLM",
+        "vin": "1LNHM87A11Y"
+    }
+]

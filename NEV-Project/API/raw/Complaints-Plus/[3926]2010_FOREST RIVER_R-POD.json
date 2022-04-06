@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "08/21/2012",
+        "dateOfIncident": "08/12/2012",
+        "fire": false,
+        "manufacturer": "Forest River, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10471769,
+        "products": [
+            {
+                "manufacturer": "Forest River, Inc.",
+                "productMake": "FOREST RIVER",
+                "productModel": "R-POD",
+                "productYear": "2010",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "VOMA TIRE CORP.",
+                "productMake": "VOMA",
+                "productModel": "TRAIL EXPRESS",
+                "productYear": "9999",
+                "size": "ST235/80R16",
+                "type": "Tire"
+            }
+        ],
+        "summary": "RIGHT FRONT TIRE ON OUR CEDAR CREEK SILVERBACK 5TH WHEEL BLEW WHILE TRAVELING. LARGE HOLE WAS MADE IN TIRE AND TREAD SEPERATED FROM TIRE AND CAUSED DAMAGE TO SIDE OF THE 5TH WHEEL.VEHICLE WAS NOT OVERLOADED AND SPEED WAS APROX 55 MPH.  *TR",
+        "vin": "4X4FCRE20AS"
+    }
+]

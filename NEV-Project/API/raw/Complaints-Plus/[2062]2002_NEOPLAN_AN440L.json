@@ -1,0 +1,68 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING,STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "12/18/2006",
+        "dateOfIncident": "12/18/2006",
+        "fire": false,
+        "manufacturer": "NEOPLAN USA CORPORATION",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10176474,
+        "products": [
+            {
+                "manufacturer": "NEOPLAN USA CORPORATION",
+                "productMake": "NEOPLAN",
+                "productModel": "AN440L",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "COWLING - AIR INTAKE VENT IS EXPOSED AND MICE CAN GET IN.  NEAR EACH FENDER WHERE IT MOUNTS TO YOUR FIREWALL MICE CAN EASILY GET IN THERE.  THE SCREEN HAS A WIRE FOR WIPER MOTOR THAT ALLOWS MICE TO GET IN.  WHERE THE WIRE GOES THROUGH THE SCREEN THE OPENING IS TO BIG AND MICE CAN GET IN.   NEEDS SOME TYPE OF INSTALLATION.    *NM",
+        "vin": "1B3ES26C42D"
+    },
+    {
+        "components": "SERVICE BRAKES, AIR",
+        "crash": false,
+        "dateComplaintFiled": "02/17/2006",
+        "dateOfIncident": "12/20/2005",
+        "fire": true,
+        "manufacturer": "NEOPLAN USA CORPORATION",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10150515,
+        "products": [
+            {
+                "manufacturer": "NEOPLAN USA CORPORATION",
+                "productMake": "NEOPLAN",
+                "productModel": "AN440L",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "RFTA BELIEVES THE FIRE ON UNIT #326 WAS A RESULT OF AN IMPROPER BRAKE RELEASE TIED TO THE WABCO ATC SYSTEM. THE HEAT GENERATED FROM THE BRAKES RESULTED IN A TIRE FIRE THAT ENGULFED THE REAR OF THE COACH.   IT APPEARS THAT THE PROBLEM MAY BE TIED TO SUB-ZERO TEMPERATURES AND BUS WASHING AND ITS EFFECT ON THE WABCO  AUTOMATIC TRACTION CONTROL (ATC) SYSTEM. THERE HAVE BEEN VERY SIMILAR PROBLEMS REPORTED ON OTHER BUSES EQUIPPED WITH THE WABCO SYSTEM.  THERE SEEMS TO BE A TENDENCY FOR THE ABS OR ATC VALVE EXHAUST PORT TO FREEZE UP DURING EXTREMELY COLD WEATHER CONDITIONS.  DURING AN ABS OR AN ATC EVENT, AIR IS NOT ALLOWED TO ESCAPE IN A NORMAL MANNER RESULTING IS DRAGGING BRAKES.     IN SEPTEMBER OF 2002 RFTA RECEIVED FSRP FROM NEOPLAN  TO ADDRESS SLOW RELEASE TIMES OF BRAKES  ON NAPOLEON ARTICULATED BUSES EQUIPPED WITH MULTI-RELAY AND ATC VALVES.  THOSE MODIFICATIONS WERE DONE BY RFTA.   GEORGE FISHER, A SERVICE TECHNICIAN WITH WABCO CONTACTED ME ABOUT THE PROBLEM WITH THESE UNITS.  I EXPLAINED TO HIM HOW WE THOUGHT THAT WE ISOLATED THE PROBLEM TO THE EXHAUST MUFFLER ON THE ATC VALVE.   I REVIEWED THE FSRP HIM.  ACCORDING TO GEORGE, WABCO HAD USED THAT DESIGN SEVERAL YEARS AGO, BUT DISCONTINUED IT BECAUSE OF THE VERY PROBLEM RFTA WAS EXPERIENCING.   WABCO DETERMINED WITH THAT DESIGN THAT THE CHECK VALVE WOULD SOMETIMES STICK AND CAUSE A NON- RELEASE THAT COULD OCCUR WITH A ATC EVENT OR A SERVICE BRAKE APPLICATION.  WABCOS POSITION IS THAT NEOPLANS FSRP WAS THE CAUSE OF THE NON-RELEASE THAT RFTA BELIEVES LED TO THE FIRE.    RFTA HAS BEEN ABLE TO DUPLICATE THE MALFUNCTION AND HAS TEST DATA THAT FULLY SUPPORTS THIS THEORY. *JB",
+        "vin": "1N9TA39A02L"
+    },
+    {
+        "components": "SERVICE BRAKES, AIR",
+        "crash": false,
+        "dateComplaintFiled": "12/16/2005",
+        "dateOfIncident": "12/13/2005",
+        "fire": true,
+        "manufacturer": "NEOPLAN USA CORPORATION",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10145492,
+        "products": [
+            {
+                "manufacturer": "NEOPLAN USA CORPORATION",
+                "productMake": "NEOPLAN",
+                "productModel": "AN440L",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE REAR BRAKES ON TWO NEOPLAN AN 460 ARTICULATED BUSES APPEARED TO APPLY FOR NO APPARENT REASON RESULTING IN TWO TIRE FIRES AND ONE FIRE THAT ENGULFED THE ENTIRE REAR OF ONE BUS.  *NM",
+        "vin": "1N9TA39A02L"
+    }
+]

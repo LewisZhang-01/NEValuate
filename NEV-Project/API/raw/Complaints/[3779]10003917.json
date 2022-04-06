@@ -1,0 +1,24 @@
+[
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "01/31/2003",
+        "dateOfIncident": "11/08/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003917,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "OLDSMOBILE",
+                "productModel": "AURORA",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER WAS TURNING THE JACK CRANK TO EXTEND THE JACK, IT TWISTED AND FAILED AT THE CRIMP JOINT CAUSING THE VEHICLE TO FALL TO THE GROUND.  SCC *DT",
+        "vin": "1G3GR62C5X4"
+    }
+]

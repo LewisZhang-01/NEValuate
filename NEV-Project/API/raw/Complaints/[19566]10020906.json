@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "06/02/2003",
+        "dateOfIncident": "03/16/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020906,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "BONNEVILLE",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "GRINDING OR SQUEALING NOISE WHEN TURNING LEFT AT LOW SPEED.  DEALER HAS PLACED RACK 3 TIMES, NOISE STILL THERE ALTHOUGH INTERMITENT.  REPLACED TIE ROD ENDS ALSO.*AK",
+        "vin": "1G2HZ5411Y4"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/26/2003",
+        "dateOfIncident": "06/25/2003",
+        "fire": false,
+        "manufacturer": "Jaguar Cars, Ltd.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10023820,
+        "products": [
+            {
+                "manufacturer": "Jaguar Cars, Ltd.",
+                "productMake": "JAGUAR",
+                "productModel": "S-TYPE",
+                "productYear": "2003",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Continental Tire the Americas, LLC",
+                "productMake": "CONTINENTAL",
+                "productModel": "STEEL BELT RADIAL",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "2003 JAGUAR 4.2 R EQUIPPED WITH CONTINENAL TIRES 275/35/ZR18 APRIL 2, 2003 RIGHT REAR BLOW OUT 50MPH AT 3550 MILES. DEALER STATED ROAD HAZARD JUNE 25, 2003. LEFT FRONT BLOW OUT AT 70 MPH ,7000 MILES. DEALER STATES ROAD HAZARD. BOTH BLOWOUTS WERE ON SIDEWALL BELOW TREAD. TIRES APPEARS TO FAIL UNDER SPEED. *AK",
+        "vin": "SAJEA03V531"
+    }
+]

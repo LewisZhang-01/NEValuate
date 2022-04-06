@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "02/04/2003",
+        "dateOfIncident": "01/08/2003",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005249,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "AUDI",
+                "productModel": "A6",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "INSTRUMENT PANEL IS FADED TO UNREADABLE.  AN ALARM IS GOING OFF AND I CAN'T READ WHAT IT SAYS.  A KNOWN PROBLEM WITH AUDI'S.  CAN'T BELIEVE THEY DIDN'T DO A RECALL.",
+        "vin": "WAUDA24B0XN"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS,SEAT BELTS",
+        "crash": true,
+        "dateComplaintFiled": "01/08/2003",
+        "dateOfIncident": "05/24/2001",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002365,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "318",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATES WHILE DRIVING THE VEHICLE WAS IN ACCIDENT WITH ANOTHER VEHICLE. CONSUMER STATES THAT THE DRIVER SIDE AIR BAG DID NOT DEPLOY ON TIME.THE CONSUMER STATES HER HEAD HIT THE STEERING WHEEL THEN THE AIR BAG DEPLOYED. ALSO PASSENGER SIDE AIR BAG DID NOT DEPLOY. CONSUMER STATES THE VEHICLE WAS RUNNING AT 30MPH DURING IMPACT. CONSUMER ALSO STATES THE SEAT BELTS DID NOT LOCK UP. DEALER NOTIFIED. TS",
+        "vin": "4USCC8322SL"
+    }
+]

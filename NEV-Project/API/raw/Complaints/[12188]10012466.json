@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,STRUCTURE,VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "03/25/2003",
+        "dateOfIncident": "12/01/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10012466,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERCURY",
+                "productModel": "VILLAGER",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN THE GAS PEDAL WAS PRESSED, THERE WAS A DELAY IN ACCELERATION.  THE CONSUMER HAD TO PUMP THE GAS PEDAL TO GET THE VEHICLE TO MOVE.  IT WAS LATER DETERMINED THAT THE THROTTLE WAS DIRTY.  A FAULTY RESISTOR CAUSED THE BLOWER TO ONLY WORK ON HIGH.  THE LEFT FRONT DOOR PANEL FELL OFF.   *JB   *NLM",
+        "vin": "4M2XV11T2XD"
+    }
+]

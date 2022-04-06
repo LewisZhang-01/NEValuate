@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "04/21/2003",
+        "dateOfIncident": "04/20/2003",
+        "fire": false,
+        "manufacturer": "COACHMEN INDUSTRIES, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017260,
+        "products": [
+            {
+                "manufacturer": "COACHMEN INDUSTRIES, INC.",
+                "productMake": "COACHMEN",
+                "productModel": "COACHMEN",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE STEEL PROD. CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "FIRESTONE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHILE DRIVING AND WITHOUT WARNING THE TIRE TREAD SEPARATED WHICH MADE IT DIFFICULT FOR THE CONSUMER TO CONTROL THE VEHICLE.  THE DEALER WAS NOTIFIED (FIRESTONE SIZE#2257516,  PLEASE PROVIDES THE DOT#).  *NLM *TS",
+        "vin": "1FDXE45S81H"
+    }
+]

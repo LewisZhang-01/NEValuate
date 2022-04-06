@@ -1,0 +1,31 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "06/06/2003",
+        "dateOfIncident": "06/06/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021151,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERCURY",
+                "productModel": "VILLAGER",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Brake Parts Inc.",
+                "productMake": "BRAKE PARTS",
+                "productModel": "DISC BRAKE ROTOR",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "HAVE HAD REPEATED FRONT BRAKE WEAR OUT AND NOISE (SQUAEK/GROAN) ON MY 2000 MERCURY VILLAGER SINCE NEW. HAVE HAD 4 SETS OF FRONT BRAKE PADS AND A SET OF ROTORS REPLACED IN ONLY 28,000 MILES. DEALER SAYS THERE IS NOTHING WRONG. THE OTHER TWO MERCURY VILLAGERS THAT I'VE OWNED (1996 AND 1998 MODELS) DID NOT HAVE THIS PROBLEM.*AK",
+        "vin": "4M2XV11TXYD"
+    }
+]

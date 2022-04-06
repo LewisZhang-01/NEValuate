@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "03/04/2003",
+        "dateOfIncident": "07/11/2002",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10008402,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "ACCORD",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "1998 HONDA ACCORD PAINT PROBLEM: MANUFACTURER DEFECT ON THE EXTERIOR PAINT CAUSING IT TO CRACK UNDERNEATH THE COATING LAYER.  *NLM",
+        "vin": "1HGCG6674WA"
+    }
+]

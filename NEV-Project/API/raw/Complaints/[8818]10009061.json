@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS,VEHICLE SPEED CONTROL,EQUIPMENT",
+        "crash": true,
+        "dateComplaintFiled": "03/17/2004",
+        "dateOfIncident": "02/22/2003",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10009061,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "ACCORD",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE WAS INVOLVED IN AN ACCIDENT, AND THE AIR BAGS DID NOT DEPLOY, CONSUMER WAS INJURED, HOWEVER PRIOR TO INCIDENT, THE AIR BAG LIGHT ILLUMINATED, BUT THE DEALER STATED NOTHING WAS WRONG.*JB  ALSO, DEALER MADE REPAIRS ON CRUISE CONTROL AND RADIO.  *LA",
+        "vin": "1HGCG22511A"
+    }
+]

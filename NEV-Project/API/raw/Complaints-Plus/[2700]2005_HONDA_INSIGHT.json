@@ -1,0 +1,54 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/12/2007",
+        "dateOfIncident": "12/01/2006",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10178554,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "INSIGHT",
+                "productYear": "2005",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Michelin North America, Inc.",
+                "productMake": "MICHELIN",
+                "productModel": "ENERGY LX4",
+                "productYear": "9999",
+                "size": "P225/60R17",
+                "type": "Tire"
+            }
+        ],
+        "summary": "TL*  - THE CONTACT STATED THAT HE HEARS A HUMMING IN HIS DRIVER & PASSENGER REAR RUN FLAT TIRES OF HIS 2005 HONDA ODYSSEY WITH AN ODOMETER READING 30,000 MILES.  HE HAS TAKEN THE VEHICLE TO THE HONDA DEALER.  ALTHOUGH THEY CAN HEAR THE HUMMING, THEY TOLD THE CONTACT THERE IS NOTHING THEY CAN DO.  *NM",
+        "vin": "5FNRL38895B"
+    },
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "07/14/2006",
+        "dateOfIncident": "07/10/2006",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10162404,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "INSIGHT",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DT*:  THE CONTACT STATED WHILE DRIVING 50 MPH ON NORMAL ROAD CONDITIONS ABNORMAL NOISE WAS OBSERVED IN THE REAR AXLE.  UPON INSPECTION, EXCESIVE WEAR WAS OBSERVED IN THE REAR TIRES.  A VEHICLE OF THE SAME MAKE AND MODEL BUT A YEAR OLDER OWNED BY THE CONTACT EXPERIENCED THE SAME PROBLEMS IN THE REAR AXLE.  NEW TIRES WERE INSTALLED IN THE REAR AND THE DEALERSHIP PERFORMED ALIGNMENT AT NO COST.",
+        "vin": "JHMZE13795S"
+    }
+]

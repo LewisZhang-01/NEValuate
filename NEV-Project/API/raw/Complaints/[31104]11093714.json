@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "05/14/2018",
+        "dateOfIncident": "05/14/2018",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11093714,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SSR",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUEL GAGE READS WAY PASS FULL",
+        "vin": "1GCES14H551"
+    }
+]

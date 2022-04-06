@@ -1,0 +1,68 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "08/28/2013",
+        "dateOfIncident": "08/01/2013",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10537655,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "AMERICAN MOTORS",
+                "productModel": "EAGLE",
+                "productYear": "1984",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "1984 AMERICAN MOTORS EAGLE.  CONSUMER REQUESTS RECALL NOTICE INFORMATION FOR VEHICLE.  *SMD",
+        "vin": "2CCCK3555EB"
+    },
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "05/01/1997",
+        "dateOfIncident": "04/01/1992",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 811909,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "AMERICAN MOTORS",
+                "productModel": "EAGLE",
+                "productYear": "1984",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "PASSIVE RESTRAINTS: DRIVER'S AND PASSENGER'S SEAT BELT BUCKLES BROKE AND THE ENTIRE  SEATBELT SYSTEM FAILED,  CAUSE UNKNOWN.   *AK",
+        "vin": ""
+    },
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "12/13/1994",
+        "dateOfIncident": "12/13/1994",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 478914,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "AMERICAN MOTORS",
+                "productModel": "EAGLE",
+                "productYear": "1984",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DOORS WON'T STAY OPEN IN COLD WEATHER DUE TO BEING OUT OF ADJUSTMENT.    *AK",
+        "vin": "2CCCK3851E8"
+    }
+]

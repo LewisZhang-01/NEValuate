@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "01/14/2003",
+        "dateOfIncident": "12/27/2002",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003717,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "PASSAT",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE IGNITION COILS WERE DEFECTIVE AND FAILED WITHOUT WARNING CAUSING VEHICLE TO STALL WHILE DRIVING.  CONSUMER HAD 3 COILS FAIL.  MANUFACTURER IS AWARE OF THE PROBLEM, BUT WOULD NOT REPLACE UNTIL COMPONENT FAILED.   *TS    *NLM",
+        "vin": "WVWPD63B32P"
+    }
+]

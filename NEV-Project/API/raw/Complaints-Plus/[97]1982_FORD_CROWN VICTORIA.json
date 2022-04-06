@@ -1,0 +1,90 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "08/30/1999",
+        "dateOfIncident": "07/09/1999",
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 548220,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "CROWN VICTORIA",
+                "productYear": "1982",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE EXPERIENCED ENGINE FIRE. (OHIO TRAFFIC CRASH REPORT). MJS",
+        "vin": ""
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "05/26/1998",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 516984,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "CROWN VICTORIA",
+                "productYear": "1982",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "IGNITION SWITCH DEFECT CAUSED FIRE.",
+        "vin": ""
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "05/06/1997",
+        "dateOfIncident": "10/25/1995",
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 1,
+        "numberOfInjuries": 1,
+        "odiNumber": 516984,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "CROWN VICTORIA",
+                "productYear": "1982",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AN IGNITION SWITCH FIRE RESULTED IN A FATALITY AND INJURIES.",
+        "vin": "2FABP35FICB"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "03/10/1997",
+        "dateOfIncident": "10/23/1995",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 1,
+        "numberOfInjuries": 0,
+        "odiNumber": 515775,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "CROWN VICTORIA",
+                "productYear": "1982",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE IGNITION SWITCH FAILED, CAUSING ACCIDENT.",
+        "vin": ""
+    }
+]

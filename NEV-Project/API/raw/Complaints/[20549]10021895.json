@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": true,
+        "dateComplaintFiled": "07/03/2003",
+        "dateOfIncident": "05/20/2003",
+        "fire": false,
+        "manufacturer": "Subaru of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021895,
+        "products": [
+            {
+                "manufacturer": "Subaru of America, Inc.",
+                "productMake": "SUBARU",
+                "productModel": "IMPREZA",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE REAR WHEEL BEARING REPEATIDLY FAILED.  THE PART HAS BEEN REPLACED TEN TIMES.  THE VEHOICLE WAS INVOLVED IN AN ACCIDENT RELATED TO THE FAULT BEARING.   *AK       *CB   *NLM",
+        "vin": "JF1GM67581G"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/11/2003",
+        "dateOfIncident": "01/07/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000942,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPEDITION",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Continental Tire the Americas, LLC",
+                "productMake": "GRABBER AW",
+                "productModel": "P27560R17",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "IN REFERENCE TO THE RECALL ON THE CONTINENTAL/GENERAL GRABBER AW TIRE SIZE P275/60R17 ON MY 2000 FORD EXPEDITION. I FOLLOWED THE INSTRUCTIONS PER CONTINENTAL TIRE FOR REIMBURSEMENT OF TIRES I HAD ALREADY REPLACED, NOW THEY REFUSE TO DO SO. UNFORTUNATELY I FEEL THIS COULD BE RESOLVED IF SOMEONE WOULD JUST LISTEN, BUT THAT DOES NOT SEEM TO HAPPEN WHEN I CONTACTED THEM. TS",
+        "vin": "1FMRU17L5YL"
+    }
+]

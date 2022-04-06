@@ -1,0 +1,46 @@
+[
+    {
+        "components": "SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "05/27/2019",
+        "dateOfIncident": "05/10/2019",
+        "fire": false,
+        "manufacturer": "Bombardier Recreational Products, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11210216,
+        "products": [
+            {
+                "manufacturer": "Bombardier Recreational Products, Inc.",
+                "productMake": "CAN-AM",
+                "productModel": "SPYDER RT",
+                "productYear": "2008",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "08 CAN AM SPYDER .PARK BRAKE WARNING ON .PARK BRAKE NOT HOLDING . BUT BRAKES LOCKED UP AFTER BACKING OUT OF GARAGE. WAITED ABOUT 20 MIN AND THEY RELEASED. BUT LOCKED UP AGAIN WHEN APPLIED FOOT BRAKE . EACH TIME I USED FOOT BRAKE SAME THING WOULD HAPPEN.HAVE NOT RIDDEN SINCE PROBLEM.",
+        "vin": "2BXJAHA128V"
+    },
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "10/29/2014",
+        "dateOfIncident": "08/31/2010",
+        "fire": false,
+        "manufacturer": "Bombardier Recreational Products, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10650926,
+        "products": [
+            {
+                "manufacturer": "Bombardier Recreational Products, Inc.",
+                "productMake": "CAN-AM",
+                "productModel": "SPYDER RT",
+                "productYear": "2008",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "MAIN SHAFT BEARINGS FAILED AT 24,000 MILES CAN AM TECHNICAL ADVISORIES HAVE DECREASED ATTENTION ON MAIN DRIVE BELT TWICE. MONTHS DELAY ON REPLACEMENT PARTS MAKES ME THINK A LOT OF THESE ARE FAILING. UNABLE TO GET ADEQUATE EXPLANATION FROM CUSTOMER SERVICE OUT OF CANADA.  *TR",
+        "vin": "2BXJAWA168V"
+    }
+]

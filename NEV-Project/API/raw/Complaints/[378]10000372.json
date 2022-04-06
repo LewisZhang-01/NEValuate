@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "12/26/2002",
+        "dateOfIncident": "12/18/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000372,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "S10",
+                "productYear": "1995",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "AFFINITY",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "REAR PASSENGER TIRE BLEW OUT.  BLEW GASHES TROUGH WHOLE TIRE.  FRONT PASSENGER SIDE IS EXPERIENCING TREAD SEPERATION AND HAS A HUGE BLISTER IN IT.  BOTH DRIVER SIDE TIRES ARE EXPERIENCING TREAD SEPERATION AROUND THE WHOLE TIRE.  TIRES ARE BRAND NEW.",
+        "vin": "1GCCS1946S8"
+    }
+]

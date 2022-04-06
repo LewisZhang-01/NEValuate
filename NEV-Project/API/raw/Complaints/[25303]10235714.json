@@ -1,0 +1,39 @@
+[
+    {
+        "components": "TIRES,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "07/25/2008",
+        "dateOfIncident": "07/20/2008",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10235714,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "ACCORD",
+                "productYear": "1998",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "MICHELIN TIRE CORP.",
+                "productMake": "MICHELIN",
+                "productModel": "PILOT",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            },
+            {
+                "manufacturer": "DILL AIR CONTROLS PRODUCTS",
+                "productMake": "DILL-ACP",
+                "productModel": "TR-413 (TIRE VALVE)",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "I HAVE HAD TWO VALVE STEM FAILURES IN AS MANY MONTHS.  *TR",
+        "vin": ""
+    }
+]

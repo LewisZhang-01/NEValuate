@@ -1,0 +1,46 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": true,
+        "dateComplaintFiled": "02/02/2012",
+        "dateOfIncident": "05/01/2010",
+        "fire": true,
+        "manufacturer": "PACCAR Incorporated",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10446473,
+        "products": [
+            {
+                "manufacturer": "PACCAR Incorporated",
+                "productMake": "KENWORTH",
+                "productModel": "T660",
+                "productYear": "2008",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2008 KENWORTH T660 WITH A CATERPILLAR C-15 ENGINE. CONSUMER STATES TRUCK CAUGHT FIRE AFTER ACCIDENT *TGW  THE CONSUMER STATED A TANKER TRUCK SUDDENLY STOPPED UNEXPECTEDLY AND THE CONSUMERS HUSBAND HIT THE TANKERS BUMPER. SMOKE AND FLAMES STARTED POURING OUT FROM UNDER THE GOOD OF THE TRACTOR. THE CONSUMERS HUSBAND GRABBED THE EXTINGUISHER, RAN TO THE FRONT OF THE TRUNK, BUT BECAUSE OF THE SMOKE AND FLAMES, HE WAS UNABLE TO  OPEN THE HOOD. HE DISCHARGED THE FIRE EXTINGUISHER UNDER THE DRIVER'S SIDE WHEEL WELL, BUT THE ENTIRE TRACTOR WAS SOON ENGULFED IN FLAMES. THE FIRE DEPARTMENT EXTINGUISHED THE FLAMES AND THE TRACTOR WAS TOWED TO AN IMPOUND YARD.  THE INSURANCE INVESTIGATORS COULD NOT DETERMINE THE CAUSE OF THE FIRE, DUE TO THE AMOUNT OF FIRE DAMAGE TO THE ENGINE.  *JB",
+        "vin": "1XKADB9XX8R"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING,ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "03/05/2010",
+        "dateOfIncident": "03/05/2010",
+        "fire": false,
+        "manufacturer": "PACCAR Incorporated",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10317599,
+        "products": [
+            {
+                "manufacturer": "PACCAR Incorporated",
+                "productMake": "KENWORTH",
+                "productModel": "T660",
+                "productYear": "2008",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CUMMINS ISX ENGINE SHUT DOWN TWELVE TIMES SINCE AUG (7 MONTH PERIOD) ON HWY OFTEN  REQUIRING  A TOW     UPDATED 4/26/10 *CN  IT WAS FINALLY DETERMINED THE WIRING HARNESS THAT SUPPLIED POWER TO THE ECM WAS NOT CONNECTED PROPERLY FROM THE FACTORY.  OVER TIME, THE CONNECTION BECAME WORSE WHICH CAUSED THE ENGINE TO SHUT DOWN. UPDATED 06/04/10. *JB",
+        "vin": "1XKAD49X88J"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "08/26/2021",
+        "dateOfIncident": "05/03/2021",
+        "fire": true,
+        "manufacturer": "Heartland Recreational Vehicles, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11430613,
+        "products": [
+            {
+                "manufacturer": "Heartland Recreational Vehicles, LLC",
+                "productMake": "HEARTLAND",
+                "productModel": "CYCLONE",
+                "productYear": "2021",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact owns a 2021 Heartland Cyclone.  The contact stated that the RV was parked at a campground charging station when the contact noticed there was dark grey smoke coming from inside of the RV under the bar area in the vehicle. The contact unplugged the main power from the vehicle and removed the fireplace station where the smoke was coming from to see that the outlet plugs and outlet box connection were burnt. The contact had a technician at the site inspect the RV and diagnosed the failure as a faulty outlet box and needed to be replaced. The contact was concerned that the failure was caused due to water dripping from the sink next to the outlet box that caused the failure. The RV was not repaired. The manufacturer was made aware of the failure. The failure mileage was unknown.",
+        "vin": "5ffcg4637me"
+    },
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "08/18/2021",
+        "dateOfIncident": "08/18/2021",
+        "fire": false,
+        "manufacturer": "Heartland Recreational Vehicles, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11429553,
+        "products": [
+            {
+                "manufacturer": "Heartland Recreational Vehicles, LLC",
+                "productMake": "HEARTLAND",
+                "productModel": "CYCLONE",
+                "productYear": "2021",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact owns a 2021 Heartland Cyclone travel trailer. The contact stated that the two axles that support the weight of the trailer were bent. The axles only supported 14,000 pounds however, the trailer weighs 15,320 pounds, which caused the axles to bend. The travel trailer was taken to an independent mechanic and the axles were straightened. The manufacturer was made aware of the failure and informed the contact that they would send out replacement axles. The failure mileage was approximately 3,000.",
+        "vin": "5sfcg4529me"
+    }
+]

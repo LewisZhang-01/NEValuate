@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,POWER TRAIN,SERVICE BRAKES,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "09/05/2014",
+        "dateOfIncident": "08/08/2014",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10630914,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENGINE QUITS RUNNING AND WONT RESTART, SO YOU HAVE NO POWER STEERING OR BRAKES.   PROBLEM INDICATORS ARE 1. ENGINE WONT RESTART/ OR QUIT RUNNING 2. ODOMETER READS ALL DASHES, NO NUMBERS,3. ANTI THEFT ACTIVATED.     THIS IS CAUSED BY THE POWER WIRE IN THE FUSE BOX UNDER THE HOOD CORRODING OFF FOR THE PCM RELAY AND LEAVING THE PCM DEAD.  *TR",
+        "vin": "1FTRX18W42N"
+    }
+]

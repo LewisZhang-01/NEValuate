@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "02/06/2003",
+        "dateOfIncident": "07/01/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10006684,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "OLDSMOBILE",
+                "productModel": "INTRIGUE",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN ACCELERATING FROM A STOP, VEHICLE EXPERIENCES A \"DELAY\" WHEN THE PEDAL IS DEPRESSED.  VEHICLE WILL THEN SURGE FORWARD INTO GEAR.   DEALER HAS BEEN UNABLE TO DUPLICATE PROBLEM.                         PH",
+        "vin": "1G3WH52H02F"
+    }
+]

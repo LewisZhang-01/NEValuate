@@ -1,0 +1,54 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "10/29/2003",
+        "dateOfIncident": "09/07/2003",
+        "fire": false,
+        "manufacturer": "FLEETWOOD ENTERPRISES, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10043853,
+        "products": [
+            {
+                "manufacturer": "FLEETWOOD ENTERPRISES, INC.",
+                "productMake": "FLEETWOOD",
+                "productModel": "AMERICAN EAGLE",
+                "productYear": "1997",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "UNISTEEL TIRE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WE PURCHASED A AMERICAN EAGLE 1997 MOTORHOME ON 08/22/97, WHICH AS 33,000 MILES ON IT.  WE REPLACED THE TIRES AT 21,000 MILES AND WE HAVE EXPERIENCED 2 BLOW OUTS.  THE LATESTED BLOW OUT CAUSED EXTENSIVE DAMAGE.  WE HAVE PICTURES OF THIS IF NEEDED.*AK",
+        "vin": "4S7MT9K05TC"
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/04/2000",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "FLEETWOOD ENTERPRISES, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 550245,
+        "products": [
+            {
+                "manufacturer": "FLEETWOOD ENTERPRISES, INC.",
+                "productMake": "FLEETWOOD",
+                "productModel": "AMERICAN EAGLE",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "RECALL #99V-277 IS A POOR SOLUTION TO THE OVERWEIGHT/UNDER PRESSURE TIRE PROBLEM, CHANGING FRONT TIRES TO LARGER SIZE TO RECTIFY OVERWEIGHT PROBLEM DOES NOT PREVENT FURTHER PROBLEMS THAT MAY ARISE FROM LARGER TIRES IN FRONT AND SMALLER TIRES IN THE REAR. *MJS",
+        "vin": "4VZBN1093VC"
+    }
+]

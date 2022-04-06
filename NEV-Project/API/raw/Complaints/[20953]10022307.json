@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "06/04/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10022307,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAMARO",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING LOST CONTROL, ACCIDENT OCCURRED AND AIR BAGS DID NOT DEPLOY.  *MR  THE CONSUMER WAS DRIVING DOWN THE ROAD WHEN HE HIT A TREE, BOUNCED FORWARD, AND SMASHED INTO ANOTHER VEHICLE.  *SCC",
+        "vin": "9999"
+    }
+]

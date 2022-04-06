@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "05/22/2003",
+        "dateOfIncident": "02/15/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019138,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "CAMRY",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DURING COLD WEATHER THE PISTON THAT RELEASES THE GAS HATCH DOOR FROZE TO THE HOUSING.  WHEN THE DRIVER ATTEMPTED TO RELEASE THE GAS DOOR FROM INSIDE THE VEHICLE, THE PISTON BROKE IN HALF.  SINCE THE PISTON WAS FROZEN IN PLACE, THE GAS DOOR WOULD NOT OPEN.  OWNERS MANUAL DID NOT REFERENCE HOW TO DEFEAT THE MECHANISM AND DRIVER COULD NOT FILL WITH GAS.   *NLM",
+        "vin": "4T1BG22K4VU"
+    }
+]

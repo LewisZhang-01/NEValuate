@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "11/03/2004",
+        "dateOfIncident": "10/25/2004",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10099314,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "RAV4",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "MANUAL TRANSMISSION INTERMITTENTLY CAME OUT OF FIFTH GEAR AND WENT INTO NEUTRAL WHILE DRIVING 50-70 MPH.  DEALER WAS NOTIFIED, AND UNABLE TO DETERMINE THE CAUSE OF THE PROBLEM.*AK",
+        "vin": "JT3HP10VXY7"
+    }
+]

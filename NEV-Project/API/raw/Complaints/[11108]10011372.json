@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "03/11/2003",
+        "dateOfIncident": "02/25/2003",
+        "fire": false,
+        "manufacturer": "Navistar, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10011372,
+        "products": [
+            {
+                "manufacturer": "Navistar, Inc.",
+                "productMake": "INTERNATIONAL",
+                "productModel": "8600",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "INSTRUMENT PANEL LIGHTS FAILED INTERMITTENTLY WITHOUT WARNING.  THE DEALER HAD PREVIOUSLY DIAGNOSED A \"LOOSE WIRE\" AS THE CAUSE AND REPLACED IT, HOWEVER THE PROBLEM RECURRED.*JB",
+        "vin": ""
+    }
+]

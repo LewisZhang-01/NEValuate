@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/02/2003",
+        "dateOfIncident": "05/28/2003",
+        "fire": true,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020892,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "YUKON XL",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Bridgestone Americas Tire Operations",
+                "productMake": "FIRESTONE",
+                "productModel": "P26570R16",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "FIRESTONE TIRE EXPLODED WHILE DRIVING SPEED LIMIT TOO LAKE HAVASU, AZ, MAY 28, CAUSING ERRATIC  CONTROL OF VEHICLE.  APPEARS SIDEWALL DISLODGED FROM TIRE AND AND TREAD DISLODGED FROM BASE TIRE FRAMING.  TIRE INFO:   FIRESTONE WILDERNESS LE - P265/70R16  111S  M/S; TUBELESS; OTHER NUMBER ON SIDE OF TIRE:  DD726G  G09R  (E4) 027680  DOT 8 X 72  WL2  .DAMAGED AREA SHOWS A NUMBER  ?4601? (? = DENOTES UNKNOWN NUMBERS IF ANYIN THESE PLACES)  DAMAGE TO UNDERCARRAGE OF VEHICLE AS WELL TO THE WHEEL WELL.*AK",
+        "vin": "1GKFK16Z22J"
+    }
+]

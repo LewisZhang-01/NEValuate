@@ -1,0 +1,46 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "01/03/2011",
+        "dateOfIncident": "10/10/1990",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10374046,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "4RUNNER",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "1985 TOYOTA FRAME RUSTED BEYOND REPAIR?? *TR",
+        "vin": ""
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": true,
+        "dateComplaintFiled": "02/14/1996",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 979280,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "4RUNNER",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING, AT APPROX. 50MPH, MADE ATTEMPT TO SLOW VEHICLE, WHEN CAR JUMPED OUT IN FRONT, REAR BRAKES LOCKED, RESULT ROLLOVER INTO AN EMBANKMENT.  TT",
+        "vin": "JT4RN61D5F5"
+    }
+]

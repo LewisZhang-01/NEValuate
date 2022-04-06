@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "04/27/2003",
+        "dateOfIncident": "04/08/2003",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10016602,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "K1200LT",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FINAL DRIVE FAILURE ON 2000 MODEL BMW K1200LT MOTORCYCLE  FAILED AT 27,000 MILES.  APPARENT BEARING FAILURE.  STOPPED RIDING WHEN FINAL DRIVE NOISE BECAME LOUD, PROBABLY FROM A BEARING FAILURE.  *NLM",
+        "vin": "WB10555A9YZ"
+    }
+]

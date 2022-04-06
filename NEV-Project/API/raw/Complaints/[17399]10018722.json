@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "05/14/2003",
+        "dateOfIncident": "09/21/2000",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018722,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "CAMRY",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NORMAL OPENING AND CLOSING OF THE TRUNK LID HAS CAUSED THE BACKUP WARNING LIGHT WIRING HARNESS TO BE WARN AND SEVERED, RESULTING IN FAILURE OF BACKUP LIGHTS.   *NLM",
+        "vin": "JT2SK12E5S0"
+    }
+]

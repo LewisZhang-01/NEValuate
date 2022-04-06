@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,SERVICE BRAKES,ENGINE",
+        "crash": true,
+        "dateComplaintFiled": "03/28/2017",
+        "dateOfIncident": "03/25/2017",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10968914,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "LEXUS",
+                "productModel": "GS 350",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING AT APPROXIMATELY 40 MPH, I EXPERIENCED AN ENGINE STALL.  THIS CAUSED DIFFICULTY IN STEERING AND BRAKING RESULTING IN AN ACCIDENT.",
+        "vin": "JTHBE1BL6E5"
+    }
+]

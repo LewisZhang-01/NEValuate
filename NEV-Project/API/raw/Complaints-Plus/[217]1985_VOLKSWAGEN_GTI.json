@@ -1,0 +1,46 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE,TIRES",
+        "crash": false,
+        "dateComplaintFiled": "12/05/1996",
+        "dateOfIncident": "03/01/1996",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 511785,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "GTI",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUEL PUMP FAILED, CAUSING VEHICLE TO STALL/STARTING PROBLEMS, ALSO PREMATURE WEA ROF GOODYEAR TIRES.  *AK",
+        "vin": "3VWHD81H8SM"
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "08/14/1996",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 507367,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "GTI",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TRANSMISSION FAILURE.  *AK",
+        "vin": "1VWDB0176FV"
+    }
+]

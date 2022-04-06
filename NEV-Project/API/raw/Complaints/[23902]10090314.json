@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "09/02/2004",
+        "dateOfIncident": "08/02/2004",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10090314,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TEMPO",
+                "productYear": "1990",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVER'S SIDE SEAT BELT MALFUNCTIONED.   DEALER REFUSED TO REPAIR SEAT BELT WITHOUT PAYMENT.  *AK",
+        "vin": ""
+    }
+]

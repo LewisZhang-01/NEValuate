@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "02/20/2003",
+        "dateOfIncident": "02/19/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10008915,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPLORER",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE FRONT ROW ELECTRIC BUCKET SEAT COLLAPSED BACKWARD WITHOUT WARNING.  *JB  THE BOLT THAT HOLDS THE SEAT, HAD CRYSTALLIZED AND BROKE.  SCC",
+        "vin": "1FMYU24X0XU"
+    }
+]

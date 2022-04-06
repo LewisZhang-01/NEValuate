@@ -1,0 +1,46 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "09/20/2017",
+        "dateOfIncident": "09/19/2017",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11024741,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "SCION",
+                "productModel": "XD",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRIEF ENGINE KNOCK/RATTLE NOISE AT COLD STARTUP. WHEN STARTING THE VEHICLE AFTER A COLD SOAK STARTUP, THE VEHICLE EXHIBITS A BRIEF KNOCK/RATTLE NOISE FROM THE ENGINE COMPARTMENT FOR APPROXIMATELY ONE SECOND.",
+        "vin": "JTKKUPB40E1"
+    },
+    {
+        "components": "EXTERIOR LIGHTING",
+        "crash": false,
+        "dateComplaintFiled": "12/24/2014",
+        "dateOfIncident": "11/03/2014",
+        "fire": true,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10668175,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "SCION",
+                "productModel": "XD",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2014 SCION XD. THE CONTACT STATED THAT WHILE PARKED, THE REAR OF THE VEHICLE CAUGHT FIRE. THE FIRE DEPARTMENT EXTINGUISHED THE FIRE AND STATED THAT THERE WAS A WIRE SHORTAGE IN THE REAR PASSENGER SIDE LIGHT. A POLICE/FIRE REPORT WAS FILED AND THERE WERE NO INJURIES REPORTED. THE VEHICLE WAS DESTROYED. THE MANUFACTURER WAS NOTIFIED OF THE FAILURE. THE FAILURE MILEAGE WAS 999.",
+        "vin": "JTKKUPB41E1"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "02/21/2003",
+        "dateOfIncident": "01/01/1999",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10008993,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "E-250",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE SWAYED WHEN DRIVING AT A HIGH RATE OF SPEED.  THE MECHANIC NOTICED A STABILIZER BAR HAD NOT BEEN INSTALLED WHICH CAUSED THE FRONT TIRE TO WEAR ON THE INSIDE.  *JB   *NLM",
+        "vin": "1FTNE24L5XH"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS,STRUCTURE,SERVICE BRAKES",
+        "crash": true,
+        "dateComplaintFiled": "10/23/2017",
+        "dateOfIncident": "10/06/2016",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 11035914,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "JOURNEY",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TAKATA RECALL. BRAKES LOCKED UP TRYING TO AVOID A CAR COMING TOWARDS ME, LOST CONTROL AND  AIRBAGS DEPLOYED IN AN ACCIDENT AND SMOKED AND BURNT MY ARM AND LEG",
+        "vin": "3C4PDCBG5DT"
+    }
+]

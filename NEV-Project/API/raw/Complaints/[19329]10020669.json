@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, AIR",
+        "crash": false,
+        "dateComplaintFiled": "05/28/2003",
+        "dateOfIncident": "05/10/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020669,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ABS PUMP FAILURE RESULTING IN LOSS OF ABS BRAKING ABILITY.  ABS PUMP REMAINED ON AFTER EVEN AFTER IGNITON WAS SHUT OFF.  HAD TO REMOVE ABS FUSE  TO GET ABS PUMP TO SHUT OFF",
+        "vin": "1GCEK19V4XZ"
+    }
+]

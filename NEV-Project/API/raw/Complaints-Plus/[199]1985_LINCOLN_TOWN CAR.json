@@ -1,0 +1,538 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/25/2006",
+        "dateOfIncident": "01/21/2006",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10148596,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "TOWN CAR",
+                "productYear": "1985",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "SEARS ROEBUCK & CO.",
+                "productMake": "SEARS",
+                "productModel": "GUARDSMAN TIRE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "TIRE FAILURE: ABNORMAL BELT SEPARATION.  PHOTO AND TIRE IS AVAILABLE. SEARS GUARDSMAN, RESPONSE XL, P215/75R15. 78615, DOT#CHHF244.   ALSO, THERE WERE  LARGE CRACKS WITHIN  THE TREAD.*AK",
+        "vin": ""
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "11/05/2003",
+        "dateOfIncident": "09/16/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10040014,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "TOWN CAR",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING  AT 32 MPH, THE ENGINE STALLED.  THE STEERING WHEEL LOCKED AND THE BRAKES FAILED.  DEALERS NOTIFIED.*AK                CONSUMER HAD A SHORT IN THE WIRE.  HER CONCERN WAS THAT SHE COULDN'T STOP THE VEHICLE AFTER A WHILE.     *PH  *JB",
+        "vin": "1LNBP96F8DY"
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "05/28/2002",
+        "dateOfIncident": "05/05/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 8010522,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "TOWN CAR",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SPARE TIRE HAD TREAD SEPARATION ON IT. 13OOO MILES, 225/75R15. *AK  MICHELN DOT M 3DY D3NX 527.  MONTHLY INSPECTION OF SPARE TIRE FOUND AIR WAS ESCAPING FROM TIRE.  TOOK TIRE OUT OF TRUNK AND THE AREA FACING REAR FIREWALL WAS BLOWN OUT, TIRE SEPARATION.  CONTACTED MICHELIN AND REPLY WAS TIRE IS OLD.  PHOTO ATTACHED. 1985 LINCOLN TOWN CAR.  *TT",
+        "vin": ""
+    },
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "05/13/2002",
+        "dateOfIncident": "05/06/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 8009688,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "TOWN CAR",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER  IS HAVING THE SAME ISSUES  AS MENTIONED IN  RECALL  90 V 000 000 EQUIPMENT: CERTIFICATION LABEL. BUT,  THIS VEHICLE NOT PART OF RECALL DUE TO VIN.",
+        "vin": "1LNBP96FY73"
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "10/01/2001",
+        "dateOfIncident": "06/18/1999",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 563499,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "TOWN CAR",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FIRESTONE,215/70/R15, TIRE UNRAVELED, COMPLETELY SEPERATED.",
+        "vin": "1LNBP96F5FY"
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "10/01/2001",
+        "dateOfIncident": "06/18/1999",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 9004750,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "TOWN CAR",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TIRE UNRAVELLED AND TREAD COMPLETELY SEPARATED.",
+        "vin": "1LNBP96F5FY"
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "10/01/2001",
+        "dateOfIncident": "06/18/1999",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 563499,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "TOWN CAR",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FIRESTONE,215/70/R15, TIRE UNRAVELED, COMPLETELY SEPERATED.",
+        "vin": "1LNBP96F5FY"
+    },
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "01/20/2001",
+        "dateOfIncident": "01/03/2001",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 739661,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "TOWN CAR",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I HAD ALWAYS FELT A SLUGGISHNESS IN THE CAR WHEN THE GEARS WERE CHANGING.  BEING IT THAT THIS WOULD ALWAYS CORRECT ITSELF STILL I HAD AN UNCOMFORTABLE FEELING WHEN THIS HAPPENED.  YET IT WASN'T SOMETHING THAT I CONSTANLY DWELLED UPON, UNTIL NOW.  SEVERAL MACHANICS MADE STATEMENTS THEA THEY HAD NEVER KNOWN OF AN INTAKE MANIFOLD TO EXPLODE. THIS IS WHEN I STARTED TO THINK ABOUT THINGS THAT HAD HAPPENED IN THE PAST. ONCE THE MECHANIC HAD REMOVED THIS UNIT HE MENTIONED THAT THIS UNIT HAD MANY DEFECTS IN IT.  THERE WERE THIN SPOTS AND THICK SPOTS THAT VARIED THROUGH OUT THIS UNIT. ONE BEING WHERE THIS UNIT HAD EXPLODED, LEAVING A HOLE IN IT THE SIZE OF A BULLET, YET IT WASN'T A BULLET HOLE. AFTER DRIVING MY CAR HOME I IMMEDIATELY REALIZED THAT THIS CAR WAS DRING BETTER THAN IT EVER HAD WITH OUT THE HESITATIONS.  I THEN REALIZED THAT THIS DEFECT COULD HAVE BEEN EFFECTING THE OPERATION OF THIS CAR FROM DAY ONE.  ONE DEALER'S SERVICE MANAGER TOLD ME THAT THE PARTS WERE OBSOLETE, THEREFORE I WOULD HAVE TO SCRAP IT.  ONCE I FOUND MANY PARTS ON THE INTERNET I KNEW THAT SOMETHING WAS WRONG. THIS PARTICULAR PART SELDOM WORE OUT UNLESS IT WAS FACTORY DEFECTIVE, I FELT BETTER.  NOT BECAUSE OF THE DEFECT ITSELF, BUT TO KNOW THAT MY COMPLAINT FOR ALL THESE YEARS HAD NOT BEEN A FIGMENT OF MY IMAGINATION, JUSTIFIED MY COMPLAINTS TO THE MANUFACTURER. I KNOW THE CAR IS OLD AS I HAVE BEEN REMINDED OF MORE TIMES THAN I CARE TO MENTION.  MUST KNOW IF THERE ARE ANY OTHER CONSUMERS THAT WENT THROUGH THIS SAME ORDEAL. I'M CURIOUS BECAUSE I HAD ALWAYS BRAGGED ABOUT THE FACT THAT THIS CAR WAS THE LESS TROUBLESOME CAR I HAD EVER OWNED, UNTIL THIS LITTLE TIDBIT POPPED UP.  BELIEVE IT OR NOT THE MILAGE ON IT IS ORIGINAL MILES.  A SIXTEEN YEAR OLD CAR WITH LESS THAN ONE HUNDRED THOUSAND MILES ON IT, AND STILL CRANKS ON THE FIRST TURN OF THE KEY!*AK",
+        "vin": "1LNBP96F7FY"
+    },
+    {
+        "components": "STEERING,ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "01/10/2001",
+        "dateOfIncident": "01/10/2001",
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 877832,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "TOWN CAR",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER WAS DRIVING AT APPROXIMATELY 20 MPH WHEN STEERING COLUMN EXPLODED AND CAUGHT ON FIRE. CONSUMER PULLED OVER ,AND POURED SNOW ON IT TO TAKE FIRE OUT. *AK",
+        "vin": "1LNBP96FOFY"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "04/04/2000",
+        "dateOfIncident": "02/25/2000",
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 551715,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "TOWN CAR",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENGINE FAILURE RESULTED IN ENGINE FIRE (OHIO TRAFFIC CRASH REPORT).  *MJS",
+        "vin": ""
+    },
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "10/07/1999",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 850210,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "TOWN CAR",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE HYDRAULIC CYLINDERS USED TO HOLD THE HOOD UP GAVE WAY, ALLOWING THE  HOOD T0 FALL DOWN, ALMOST INJURING THE OWNER. DEALER HAS NOT SEEN VEHICLE. *AK",
+        "vin": ""
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "07/07/1999",
+        "dateOfIncident": "09/19/1985",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 838602,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "TOWN CAR",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING AT ANY SPEED VEHICLE IS STALLED AND CUT OFF WITHOUT PRIOR WARNING. IGNITION SWITCH HAS BEEN REPLACE THREE TIMES.  *AK",
+        "vin": "1LNBP96FOFY"
+    },
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "01/07/1999",
+        "dateOfIncident": "01/05/1999",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 833140,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "TOWN CAR",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER HAD A SICK PASSENGER  IN BACK SEAT , DROVE TO HOSPITAL , WENT  TO UNLOCK DOORS BY THE AUTOMATIC SYSTEM NEXT TO DRIVER , BUT IT WAS INOPERATIVE. NEXT, CONSUMER WENT TO OPEN THE BACK DOOR MANUALLY, BUT IT WILL NOT OPEN ON EITHER SIDE. CONSUMER HAD TO PULL SICK PASSNEGER TO THE FRONT SEAT IN ORDER TO GET  HIM OUT. DEFECT CAUSING A SAFETY HAZARD.  *AK",
+        "vin": ""
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "06/04/1996",
+        "dateOfIncident": "10/01/1995",
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 985216,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "TOWN CAR",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ELECTRICAL SHORT, STEERING COLUMN FIRE, VEHICLE WAS DRIVEN AND PARKED AND RETURN VEHICLE WAS ON FIRE.  *AK",
+        "vin": ""
+    },
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "04/26/1996",
+        "dateOfIncident": "02/16/1996",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 983557,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "TOWN CAR",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING VEHICLE SAW WHITE SMOKE COMING FROM STEERING COLUMN, DROVE TO HOUSE, AFTER ARRIVING HOME, SMOKE STOPPED.   *AK",
+        "vin": ""
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "04/23/1996",
+        "dateOfIncident": "09/01/1993",
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 983330,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "TOWN CAR",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "IGNITION FIRE.    *AK",
+        "vin": "1LNBP96F1FY"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "04/23/1996",
+        "dateOfIncident": "09/01/1994",
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 983332,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "TOWN CAR",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "IGNITION FIRE.     *AK",
+        "vin": ""
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": true,
+        "dateComplaintFiled": "04/23/1996",
+        "dateOfIncident": "03/09/1996",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 503685,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "TOWN CAR",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKES FAILED, CAUSING ACCIDENT. (NEW JERSEY STATE POLICE REPORT) *DSH",
+        "vin": "1LNBP96FZFY"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "04/18/1996",
+        "dateOfIncident": "10/11/1993",
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 982917,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "TOWN CAR",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE CAR BURNED UP FROM THE HARNESS UNDER THE DASH. PLEASE DESCRIBE.    *AK",
+        "vin": "1LNBP96E4FY"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "04/18/1996",
+        "dateOfIncident": "10/11/1993",
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 982917,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "TOWN CAR",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE CAR BURNED UP FROM THE HARNESS UNDER THE DASH. PLEASE DESCRIBE.    *AK",
+        "vin": "1LNBP96E4FY"
+    },
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "01/23/1996",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 978068,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "TOWN CAR",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CAR ACCELERATES TO 70 MPH FOR NO REASON BEFORE IT WARMS UP. IT STAYS AT THIS SPEED UNTIL YOU GO ABOUT 25 MILES.PLEASE DESCRIBE DETAILS.  TT",
+        "vin": ""
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "05/10/1995",
+        "dateOfIncident": "05/10/1995",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 1,
+        "numberOfInjuries": 1,
+        "odiNumber": 489817,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "TOWN CAR",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CARBON MONOXIDE FUMES FROM DEFECTIVE CATALYTIC EXHAUST SYSTEM, CAUSING INJURY/DEATH.  *SKD",
+        "vin": "1LNBP96F4FY"
+    },
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "01/20/1995",
+        "dateOfIncident": "08/10/1992",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 2,
+        "numberOfInjuries": 0,
+        "odiNumber": 480652,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "TOWN CAR",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CARBON MONIXIDE EMITTED FROM AIR CONDITIONER, RESULTING IN TWO DEATHS.  *AW",
+        "vin": "1LNBP96F6FY"
+    },
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "11/19/1994",
+        "dateOfIncident": "11/10/1994",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 476593,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "TOWN CAR",
+                "productYear": "1985",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEELS BENT UNDER BROKEN FRAME, CAUSING STEERING/STOPPING DIFFICULTY.  *AW",
+        "vin": "LMRBP98F4FY"
+    }
+]

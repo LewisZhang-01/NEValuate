@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "03/01/2003",
+        "dateOfIncident": "02/27/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10008299,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ABS MOTOR RUNS CONTINUALLY, EVEN AFTER THE KEY IS REMOVED.  PULLING THE 60 AMP FUSE IS THE ONLY WAY TO SHUT IT OFF.  NOW THE ABS AND BRAKE SYSTEM WARNING LIGHT ARE ON.*JB",
+        "vin": ""
+    }
+]

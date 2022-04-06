@@ -1,0 +1,31 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC,EQUIPMENT",
+        "crash": true,
+        "dateComplaintFiled": "01/14/2003",
+        "dateOfIncident": "09/02/2001",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002656,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "DURANGO",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "SPORT UTILITY",
+                "productYear": "1979",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "WHEN REQUIRING TO STOP QUICKLY, FRONT BRAKES LOCK UP, AND VEHICLE SKIDS, REAR ANTI-LOCKS WORK BUT DONT KEEP VEHICLE FROM SKIDDING. CLICKING NOISE FROM UNDER DASH WHEN THIS HAPPENS. HAVE HAD SEVERAL ACCIDENTS DUE TO THIS PROBLEM. EVEN AT 35 MPH ON DRY STREET THEY STILL LOCK UP. DEALER WOULDNT TALK TO ME, REFERED ME TO DODGE COMPLAINTS, THEY TESTED THE BRAKE SYSTEM AND READ THAT THE COMPUTER SHOWED NO FAILURE IN BRAKING SYSTEM.",
+        "vin": "1B4HS28N1YF"
+    }
+]

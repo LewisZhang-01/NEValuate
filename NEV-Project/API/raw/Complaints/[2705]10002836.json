@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "01/17/2003",
+        "dateOfIncident": "01/15/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002836,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "PLYMOUTH",
+                "productModel": "VOYAGER",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TRANSMISSION WOULD NOT ENGAGE INTO REVERSE WHILE VEHICLE WAS COLD.  FINALLY, TRANSMISSION STARTED SLIPPING OUT OF GEAR WHEN SLOWING DOWN CAUSING VEHICLE TO STALL.  STALLING STARTED ON REPORTED INCIDENT DATE. TS",
+        "vin": "2P4FP25B8YR"
+    }
+]

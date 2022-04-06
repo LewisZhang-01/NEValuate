@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": true,
+        "dateComplaintFiled": "02/06/2003",
+        "dateOfIncident": "12/23/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10006711,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE WAS AT A COMPLETE STOP,AND WAS IMPACTED AT 50 MPH BY ANOTHER VEHICLE. THE DRIVER SIDE SEAT BACK TWISTED IN THE DIRECTION OF THE PASSENGER SIDE SEAT AND SNAPPED. PLEASE PROVIDE MORE DETAILS.                       PH",
+        "vin": ""
+    }
+]

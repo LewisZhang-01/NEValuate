@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "07/28/2003",
+        "dateOfIncident": "03/20/2003",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10014634,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "ODYSSEY",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE FIRST FAILURE RESULTED IN THE BELT NOT RETRACTING, THE SECOND FAILURE RESULTED IN THE BELT NOT LOCKING AFTER BEING RETRACTED.  (BOTH INCIDENT OCCURRED IN THE SAME SEAT)   *JB   *SCC     *JB",
+        "vin": "5FNRL180X2B"
+    }
+]

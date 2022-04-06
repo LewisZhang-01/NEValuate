@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "12/23/2002",
+        "dateOfIncident": "11/16/2002",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001434,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "DAKOTA",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SPEEDODOMETER READS LOWER THAN ACTUAL SPEED, CAUSING  DRIVER TO GO FASTER. TS.  *AK",
+        "vin": ""
+    }
+]

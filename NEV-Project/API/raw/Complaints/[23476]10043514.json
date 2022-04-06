@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "10/24/2003",
+        "dateOfIncident": "10/21/2003",
+        "fire": false,
+        "manufacturer": "HINO DIESEL TRUCKS(USA)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10043514,
+        "products": [
+            {
+                "manufacturer": "HINO DIESEL TRUCKS(USA)",
+                "productMake": "CHINOOK",
+                "productModel": "CHINOOK",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "STEELTEX R4S",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "TIRE TREAD SEPARATION.  *LA",
+        "vin": "1FDWE30S3XH"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/03/2003",
+        "dateOfIncident": "01/02/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002035,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPEDITION",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Continental Tire the Americas, LLC",
+                "productMake": "CONTINENTAL",
+                "productModel": "GRABBER AW",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "CONSUMER  STATES WHILE DRIVING  AT 55MPH THE REAR DRIVER SIDE TIRE BLEWOUT CONSUMER HAD TO PULL OFF THE ROAD. (ORIGINAL EQUIPMENT CONTINENTAL GENERAL GRABBER  P275/60R17 DOT ADT044T300) THIS TIRE HAS BEEN RECALL MANUFACTURER SENT A RECALL LETTER  TO THE CONSUMER. DEALER  WAS OUT OF STOCK FOR THE NEXT SIX MONTHS, AFTER THE INCIDENT DEALER DOESN'T WANT TO DO ANYTHING. PLEASE PROVIDE FURTHER INFORMATION. TS",
+        "vin": "PROVIDE"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/02/2003",
+        "dateOfIncident": "06/02/2003",
+        "fire": false,
+        "manufacturer": "UNKNOWN MANUFACTURER",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020902,
+        "products": [
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "TRAILER MARATHON RAD",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THIS IS RE A TRAVEL TRAILER TIRE PROBLEM.  OUR 2000 HILO TOWLITE HAS ST175-80X13 LOAD RANGE B GOODYEAR MARATHON TIRES.  THE MANUFACTURER STICKER WITH GVWR ETC STATES TIRE PRESSURE AT 50 PSI.  LOAD RANGE B TIRES ARE DESIGNED FOR 35 PSI.  SOME MONTHS AGO I SENT THE MANUFACTURER AN EMAIL ADVISING THEM OF THIS.  THEY SAID 50 PSI WAS SAFE.  I REQUESTED CONFIRMATION FROM GOODYEAR, WHICH RESPONDED THAT 35 PSI WAS THE MAXIMUM.  I ADVISED THE MANUFACTURER, WHO ASKED IF I WANTED A NEW STICKER.  I ASKED IF THEY SHOULDN'T RESEARCH TO SEE HOW MANY TRAILERS HAD THE WRONG INFO, SINCE THIS COULD BE A SAFETY ISSUE.  THEY BECAME INDIGNANT AND REFUSED TO DISCUSS IT FURTHER BY EMAIL.  THAT CONCERNS ME, BECAUSE SUCH OVERINFLATION COULD WELL CAUSE A BLOWOUT, ENDANGERING LIVES.  MY VIN IS [XXX].*AK    INFORMATION REDACTED PURSUANT TO THE FREEDOM OF INFORMATION ACT (FOIA), 5 U.S.C. 552(B)(6).  *TR",
+        "vin": "4FTCTAL26YB"
+    }
+]

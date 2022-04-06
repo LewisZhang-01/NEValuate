@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "03/29/2003",
+        "dateOfIncident": "03/10/2003",
+        "fire": false,
+        "manufacturer": "Volvo Car USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10013633,
+        "products": [
+            {
+                "manufacturer": "Volvo Car USA, LLC",
+                "productMake": "VOLVO",
+                "productModel": "S80",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "1) P/S UNIT FAILED ALLOWING P/S FLUID TO RAPIDLY DRAIN OUT.   *NLM",
+        "vin": "YV1TS90D6X1"
+    }
+]

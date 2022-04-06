@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "08/18/2008",
+        "dateOfIncident": "08/15/2008",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10238714,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "TERCEL",
+                "productYear": "1994",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "OPTIMA WHEELS",
+                "productMake": "AEROLITE",
+                "productModel": "WHEEL",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 1994 TOYOTA TERCEL.  THE VEHICLE HAS AEROLITE WHEEL TIRES.  WHILE DRIVING APPROXIMATELY 70 MPH, THE FRONT PASSENGER SIDE RUBBER IN THE CENTER OF THE TIRE SHREDDED AND DETACHED.  THERE WAS NO CRASH.  THE TIRES ARE 50,000 MILE TIRES, WHICH SHREDDED AT APPROXIMATELY 18,000 MILES.  THE VIN WAS UNKNOWN.  THE CURRENT MILEAGE WAS 123,865 AND FAILURE MILEAGE WAS 123,625.",
+        "vin": ""
+    }
+]

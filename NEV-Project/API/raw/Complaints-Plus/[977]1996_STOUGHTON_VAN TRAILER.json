@@ -1,0 +1,46 @@
+[
+    {
+        "components": "SERVICE BRAKES, AIR",
+        "crash": true,
+        "dateComplaintFiled": "03/24/2010",
+        "dateOfIncident": "07/21/2009",
+        "fire": false,
+        "manufacturer": "Stoughton Trailers, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10322006,
+        "products": [
+            {
+                "manufacturer": "Stoughton Trailers, LLC",
+                "productMake": "STOUGHTON",
+                "productModel": "VAN TRAILER",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2007 MACK CONVENTIONAL. TRAILER BRAKES DISCONNECTED FROM  FIRST TRAILER.  *BF  ACCORDING TO THE POLICE REPORT, THE AIR LINE FOR THE TRAILER BRAKES DISCONNECTED CAUSING THE TRAILER BRAKES TO THE SHORT DOUBLE TRAILERS TO ENGAGE.  THE TRAILER BRAKES ENGAGED CAUSING THE TRAILER TIRES TO SKID. THE DRIVER TURNED TO THE RIGHT TO GET OFF THE ROADWAY CAUSING THE REAR TRAILER TO STRIKE THE GUARDRAIL. OHIO TRAFFIC CRASH REPORT. *JB      UPDATED 04/14/10 *BF",
+        "vin": "1DW1C2819TE"
+    },
+    {
+        "components": "SERVICE BRAKES, AIR",
+        "crash": false,
+        "dateComplaintFiled": "08/28/2001",
+        "dateOfIncident": "06/01/2001",
+        "fire": true,
+        "manufacturer": "Stoughton Trailers, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 562262,
+        "products": [
+            {
+                "manufacturer": "Stoughton Trailers, LLC",
+                "productMake": "STOUGHTON",
+                "productModel": "VAN TRAILER",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER WAS TOWING A TRAILER, WHEN ALL OF A SUDDEN THE BRAKES CAUGHT ON FIRE, THERE WAS DAMAGE TO THE REAR RIGHT CORNER OF THE TRAILER.(OHIO TRAFFIC CRASH REPORT#10-89-161)*JB",
+        "vin": ""
+    }
+]

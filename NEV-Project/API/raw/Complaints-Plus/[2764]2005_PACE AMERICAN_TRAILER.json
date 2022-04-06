@@ -1,0 +1,76 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "12/19/2012",
+        "dateOfIncident": "09/06/2012",
+        "fire": false,
+        "manufacturer": "PACE AMERICAN, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10489250,
+        "products": [
+            {
+                "manufacturer": "PACE AMERICAN, INC.",
+                "productMake": "PACE AMERICAN",
+                "productModel": "TRAILER",
+                "productYear": "2005",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Greenball Corporation",
+                "productMake": "GREENBALL",
+                "productModel": "TOW MASTER",
+                "productYear": "9999",
+                "size": "P205/75R15",
+                "type": "Tire"
+            }
+        ],
+        "summary": "TIRE BLOW OUT ON INTERSTATE ON SEPTEMBER 6, 2012 ON MY TRAILER.  *TR",
+        "vin": "4FPWB24275G"
+    },
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "05/22/2007",
+        "dateOfIncident": "05/19/2007",
+        "fire": false,
+        "manufacturer": "PACE AMERICAN, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10191447,
+        "products": [
+            {
+                "manufacturer": "PACE AMERICAN, INC.",
+                "productMake": "PACE AMERICAN",
+                "productModel": "TRAILER",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 2005 PACE AMERICAN 4X8 UTILITY TRAILER.  THE CONTACT STATED THAT THE MEASUREMENTS ON THE FRAME OF THE TRAILER ARE OUT OF SQUARE.  THE DEALER STATED THAT THEY COULD NOT DO ANYTHING ABOUT THIS ISSUE.  THE TRAILER DOES NOT HAVE MILEAGE, ENGINE SIZE, CYLINDERS, OR A TRANSMISSION TYPE.",
+        "vin": "13ZLS081551"
+    },
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "08/07/2006",
+        "dateOfIncident": "04/01/2006",
+        "fire": false,
+        "manufacturer": "PACE AMERICAN, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10164870,
+        "products": [
+            {
+                "manufacturer": "PACE AMERICAN, INC.",
+                "productMake": "PACE AMERICAN",
+                "productModel": "TRAILER",
+                "productYear": "2005",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DT: CONTACT STATED TRAILER IS FALLING APART; SHE FOUND MANY CRACKS IN THE STRUCTURE AND THE BASE WAS BROKEN ON ALL THE AXLES. THE BIGFOOT''S TRAILER WAS NOT WELL-BUILT TO CARRY A SHIPMENT OR SUPPORT A LONG TRIP. ALSO, OWNER AFFIRMED THE TRAILER IS THE LOWEST QUALITY AND DANGER,FOR THAT REASON, THE TRAILER CURRENTLY CANNOT BE USED.OWNER WLL CONTACT THE MANUFACTURER FOR REPAIR.",
+        "vin": "4FPAB20235G"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "07/28/2003",
+        "dateOfIncident": "04/23/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017807,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-250",
+                "productYear": "1991",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN THE  FRONT TANK WAS EMPTY AND THE CONSUMER SWITCHED TO THE REAR FULL TANK, SOMEHOW THE GAS FROM THE REAR TANK PUMPED  BACK INTO THE FRONT TANK WHICH RESULTED IN THE REAR TANK BEING EMPTY.  *NLM   *CB  *NLM",
+        "vin": "2FTEF26Y4MC"
+    }
+]

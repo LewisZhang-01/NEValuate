@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "07/03/2003",
+        "dateOfIncident": "05/21/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020302,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F150",
+                "productYear": "1990",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING ON THE HIGHWAY WITHOUT PRIOR WARNING THE GAS TANKS LEAKED FUEL.  THE VEHICLE HAD TWO FUEL TANKS  AND GASOLINE WOULD CROSS FLOW BETWEEN TANKS PRESSURING AND FORCING GAS TO OVER FLOW OUT FUEL FILL CAPS.   *NLM     *CB   *NLM",
+        "vin": "1FTDF15YXLN"
+    }
+]

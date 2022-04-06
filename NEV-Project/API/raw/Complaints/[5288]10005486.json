@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "02/07/2003",
+        "dateOfIncident": "01/15/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005486,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAVALIER",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "HEADLIGHT FAILURE, NOT BULB. CALLED DEALER, THEY SAID IT WAS WIRING HARNESS PROBLEM, THAT IT IS VERY COMMON ON 1999 CHEVY CAVALIERS (WHAT I HAVE), BUT REFUSED TO WARRANTY IT. IF IT IS SO COMMON THAT THE HARNESS FAILS WHY DOES CHEVY NOT RECALL IT?",
+        "vin": "1G1JF12T8X7"
+    }
+]

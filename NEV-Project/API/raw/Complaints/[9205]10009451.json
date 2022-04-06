@@ -1,0 +1,24 @@
+[
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "03/07/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "FLEETWOOD ENTERPRISES, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009451,
+        "products": [
+            {
+                "manufacturer": "FLEETWOOD ENTERPRISES, INC.",
+                "productMake": "FLEETWOOD",
+                "productModel": "FLEETWOOD",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENTRY STEP TOO NARROW FOR DOOR WIDTH, WHICH CAUSED A PERSON TO MISS THE STEP WHEN EXITING TRAILER.  *AK",
+        "vin": "1EB1T182931"
+    }
+]

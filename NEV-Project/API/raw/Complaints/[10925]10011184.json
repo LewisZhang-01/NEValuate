@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, DIESEL",
+        "crash": false,
+        "dateComplaintFiled": "03/10/2003",
+        "dateOfIncident": "12/06/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10011184,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO 2500 HD",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUEL BLEW INTO THE ENGINE, WHICH COULD HAVE RESULTED IN A FIRE.*JB",
+        "vin": "1GCHK29121E"
+    }
+]

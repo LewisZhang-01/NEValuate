@@ -1,0 +1,31 @@
+[
+    {
+        "components": "SUSPENSION,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "12/17/2002",
+        "dateOfIncident": "12/13/2002",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000153,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "TACOMA",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "TRUCK PARTS & EQUIP.,INC.",
+                "productMake": "TRUCK PARTS",
+                "productModel": "TRUCK PARTS",
+                "productYear": "1971",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "TRANSMISSION JUMPS FROM FIRST TO SECOND AND SECOND TO THIRD  TRANSMISSION SLIPS BACKWARD ON HILL IN DRIVE",
+        "vin": "5TESN92N52Z"
+    }
+]

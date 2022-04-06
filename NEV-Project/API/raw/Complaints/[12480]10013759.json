@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "04/01/2003",
+        "dateOfIncident": "03/29/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10013759,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SAVANA",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WINDSHIELD WIPER MOTOR QUIT WORKING WHILE DRIVING IN A SEVERE THUNDER STORM.  AFTER PULLING TO THE SIDE OF THE ROAD THE WIPERS STARTED WORKING INTERMITTENTLY.  *JB",
+        "vin": "1GDFG15M3T1"
+    }
+]

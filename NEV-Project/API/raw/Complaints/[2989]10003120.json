@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "01/21/2003",
+        "dateOfIncident": "01/21/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003120,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "JIMMY",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ABS WHEEL SPEED SENSOR DESIGN DOES NOT PROVIDE AN ADEQUATE SEAL WITH THE UNITIZED HUB ALLOWING MOISTURE TO CAUSE A PREMATURE FAILURE OF THE BEARING ON A 2001 GMC JIMMY.",
+        "vin": "1GKDT13WX12"
+    }
+]

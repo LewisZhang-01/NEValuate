@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "02/01/2010",
+        "dateOfIncident": "01/22/2010",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10303714,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "RAINIER",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SPEEDOMETER STICKS. DO NOT KNOW HOW FAST THE VEHICLE IS GOING. *TR",
+        "vin": "5GAET13P742"
+    }
+]

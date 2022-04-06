@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "04/29/2003",
+        "dateOfIncident": "04/29/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017804,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "NAVIGATOR",
+                "productYear": "1998",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Continental Tire the Americas, LLC",
+                "productMake": "CONTINENTAL",
+                "productModel": "CONTITRAC",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHILE DRIVING THE VEHICLE EXPERIENCED TREAD SEPARATION.  *NLM  THE ENTIRE MEDIAL WALL OF THE TIRE HAD BLOWN OUT.  THE VEHICLE VEERED OFF TO THE RIGHT SIDE OF THE ROAD AND STOPPED 10 FEET IN FRONT OF THE GUARD RAIL.  CONTINENTAL WAS SUPPOSEDLY EXAMINING THE TIRE BUT THE CONSUMER HAVEN'T GOTTEN ANY WORD FROM THEM.  *SCC",
+        "vin": "9999"
+    }
+]

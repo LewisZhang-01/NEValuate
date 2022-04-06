@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": true,
+        "dateComplaintFiled": "01/07/2003",
+        "dateOfIncident": "12/18/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002289,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "MUSTANG",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATED WITHOUT DEPRESSING THE BRAKE PEDAL THE ANTI LOCK BRAKES LOCKED UP CAUSING THE CONSUMER TO HAVE A VEHICLE ACCIDENT. DEALER NOTIFIED. TS  *TT",
+        "vin": "1FAFP4041YF"
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "components": "EQUIPMENT,UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "06/19/2003",
+        "dateOfIncident": "05/01/2003",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10023403,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "SENTRA",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Ferrari North America, Inc.",
+                "productMake": "OIL FILTER",
+                "productModel": "111782",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "2000 NISSAN SENTRA - ENGINE OIL STICK BROKE OFF, UNABLE TO CHECK OIL, PLASTIC HANDLE ON OIL STICK BRITTLE AFTER A FEW YEARS. COSTLY REPAIR TO DUE TO DEFECTED OIL STICK.   *NLM",
+        "vin": ""
+    }
+]

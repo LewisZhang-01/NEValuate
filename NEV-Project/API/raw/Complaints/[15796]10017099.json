@@ -1,0 +1,24 @@
+[
+    {
+        "components": "LATCHES/LOCKS/LINKAGES",
+        "crash": false,
+        "dateComplaintFiled": "05/06/2003",
+        "dateOfIncident": "01/01/2002",
+        "fire": false,
+        "manufacturer": "SAAB CARS USA, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017099,
+        "products": [
+            {
+                "manufacturer": "SAAB CARS USA, INC.",
+                "productMake": "SAAB",
+                "productModel": "9-5",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DOOR DOES NOT UNLOCK WITH UNLOCK SWITCH WHEN DOOR IS LOCKED MANUALLY.  IF YOU LOCK THE DOOR MANUALLY -- BY RESTING YOUR ELBOW ON THE LOCKING BUTTON -- THE UNLOCK SWITCH DOES NOT UNLOCK THE DOOR.  THE UNLOCK SWITCH MAKES A NOISE LIKE IT IS TRYING TO UNLOCK THE DOOR BUT IT DOES NOT ACTUALLY UNLOCK IT.  THE DEALER VERIFIED THAT THIS OCCURS ON OTHER MODELS OF THIS SAME CAR.    *NLM",
+        "vin": "YS3ED48E5Y3"
+    }
+]

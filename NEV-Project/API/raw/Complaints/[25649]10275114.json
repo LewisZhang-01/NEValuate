@@ -1,0 +1,31 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "06/27/2009",
+        "dateOfIncident": "10/08/2008",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10275114,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "PASSAT",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "SEAT BELTS",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "DEFECTIVE ABS MODULE IN 2000 VOLKSWAGEN PASSAT. ABS AND BRAKE/STOP LIGHTS FLASH BUT BRAKES WORK. *TR",
+        "vin": ""
+    }
+]

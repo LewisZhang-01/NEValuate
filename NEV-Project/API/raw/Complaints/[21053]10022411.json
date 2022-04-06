@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": true,
+        "dateComplaintFiled": "05/30/2003",
+        "dateOfIncident": "05/01/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 2,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022411,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "MUSTANG",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "LTRS FM C. MECHAND, J.LAWRENCE, L BRADY(VA) REQUEST AN INVESTIGATION RE STEERING WHEEL LOCKING UP AT SPEEDS OVER 40 MPH...*MR   THERE WERE TWO DEATHS. *JB",
+        "vin": ""
+    }
+]

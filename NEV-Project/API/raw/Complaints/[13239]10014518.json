@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "04/17/2003",
+        "dateOfIncident": "05/30/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10014518,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "MALIBU",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING VEHICLE AND WHEN ROAD CONDITION VARIES (SUCH AS A BUMP IN THE ROAD), VEHICLE SHUTS OFF AS IF DEACTIVATING THE CAR, E.G.  CAR DOORS UNLOCK, NO RPM, GAS NEEDLE IMMEDIATELY DESCENDS TO E, IMMEDIATE DECELERATION.   *JB",
+        "vin": "1G1NE52J516"
+    }
+]

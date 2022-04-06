@@ -1,0 +1,31 @@
+[
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "05/24/2011",
+        "dateOfIncident": "04/22/2010",
+        "fire": true,
+        "manufacturer": "REV Recreation Group",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10402614,
+        "products": [
+            {
+                "manufacturer": "REV Recreation Group",
+                "productMake": "FLEETWOOD",
+                "productModel": "BOUNDER DIESEL",
+                "productYear": "2003",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Norcold Inc.",
+                "productMake": "NORCOLD",
+                "productModel": "1200LRIM",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "A NORCOLD 1200 LRIM REFRIGERATOR INSTALLED AS ORIGINAL EQUIPMENT IN A 2003 FLEETWOOD BOUNDER 39L MOTORHOME MALFUNCTIONED, CAUGHT FIRE, AND DESTROYED THE RV, CAUSED SUBSTANTIAL DAMAGE TO THE OWNER'S HOME, AND SERIOUS PERSONAL INJURIES (BURNS) TO THE OWNER.   AT THE TIME OF THE FIRE, THE RV WAS PARKED AND THE REFRIGERATOR WAS OPERATING ON SHORE POWER (AC CURRENT).  *TR",
+        "vin": "4UZAAHBV63C"
+    }
+]

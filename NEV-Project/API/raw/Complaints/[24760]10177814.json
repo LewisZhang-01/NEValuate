@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/04/2007",
+        "dateOfIncident": "01/04/2007",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10177814,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "3 SERIES",
+                "productYear": "2006",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Bridgestone Americas Tire Operations",
+                "productMake": "BRIDGESTONE",
+                "productModel": "TURANZA EL42",
+                "productYear": "9999",
+                "size": "P235/45R17",
+                "type": "Tire"
+            }
+        ],
+        "summary": "TL* - THE CONTACT OWNS A 2006 325XI BMW.   THE TIRES ON THE BMW WERE BRIDGESTONE, TURANZA EL42, SIZE 205/55/R16 DOT# IS # EJ8KCNK4005.    WHILE DRIVING THE CONTACT HEARD A LOUD NOISE COMING FROM ALL FOUR TIRES.  WHEN THE VEHICLE'S ODOMETER REACHED 7,000 AND AGAIN AT 10,000  MILES THE TIRES BEGAN TO VIBRATE.   BOTH BMW AND BRIDGESTONE WERE AWARE OF THIS FAILURE, AND BRIDGESTONE OFFERED A 25% DISCOUNT TOWARD THE PURCHASE OF A NEW SET OF TIRES. THE VEHICLE'S CURRENT MILEAGE WAS 10,200.  *AK  TIRE SIZE RFT EL42 205/55/16 UPDATED 01/19/07. *JB",
+        "vin": "WBAVD13566K"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "04/01/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10012225,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "CONTOUR",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE PAINT ABOVE THE WINDSHIELD STARTED TO CRACK. * MR  THE CONSUMER FELT THE WINDOW MAY SEPARATE FROM THE STRUCTURE AND THE ROOF MAY RUST.  SCC   *JB",
+        "vin": ""
+    }
+]

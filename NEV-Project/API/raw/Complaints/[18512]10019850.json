@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "05/14/2003",
+        "dateOfIncident": "05/12/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019850,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE CONSUMER DISCOVERED GAS LEAKING FROM UNDER THE VEHICLE.  THE  DEALER STATED THE ELECTRICAL OVER HEATING OF THE FUEL PUMP MODULE CAUSED THE LEAK.  THE WIRES ENTERED THE FUEL TANK CHARGED AND CAUSED THE CAP TO MELT/DEFORM WHICH RESULTED IN THE LEAKAGE.   *JB",
+        "vin": "1GNEC16T41J"
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "01/13/2003",
+        "dateOfIncident": "01/10/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002645,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "PLYMOUTH",
+                "productModel": "GRAND VOYAGER",
+                "productYear": "1992",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE BOLT THAT HOLDS THE TENTION PULLEY ARM ON THE ENGINE, BROKE, RELEASING THE BELT FROM ALL OF THE OTHER PULLEYS. THIS CAUSED THE POWER STEERING, WATER PUMP, AND ALTERNATOR TO FAIL. THIS HAPPENED TWICE WITHIN THREE AND A HALF YEARS.",
+        "vin": "1P4GH44R5NX"
+    }
+]

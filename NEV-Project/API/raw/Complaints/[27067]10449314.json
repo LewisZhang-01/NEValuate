@@ -1,0 +1,31 @@
+[
+    {
+        "components": "EQUIPMENT,ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "02/25/2012",
+        "dateOfIncident": "02/25/2012",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10449314,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "MUSTANG",
+                "productYear": "2005",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "SERVICE FUEL TANK",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "ON MY 2005 FORD MUSTANG V6 THE SPEEDOMETER OFTEN GETS STUCK OR PERFORMS ERRATICALLY AND STAYS STUCK WHEN THE CAR IS TURNED OFF. THIS IS A LARGE PAIN AS IT DOES NOT REGISTER ANY ACCURATE SPEED AND ONE MUST TURN THE CAR ON AND OFF SEVERAL TIMES TO GET THE SPEEDOMETER TO ZERO. THE FAILURE OCCURS RANDOMLY ABOUT ONCE A WEEK. THE QUOTE TO REPLACE THIS PRODUCT IS RIDICULOUS AT AROUND $600.  *TR",
+        "vin": ""
+    }
+]

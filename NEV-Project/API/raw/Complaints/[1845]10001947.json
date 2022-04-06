@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "01/03/2003",
+        "dateOfIncident": "12/10/2002",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001947,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "ODYSSEY",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLES SLIDING DOORS ARE INOPERATIVE IN COLD WEATHER.  DOORS UNLOCK BUT DON'T SLIDE OPEN, AND THE DOOR AJAR WARNING LIGHTS COMES ON, BUT CONSUMER IS NOT ABLE TO LOCK THE DOORS BACK. THE DEALERSHIP HAS MADE SEVERAL ATTEMPTS TO FIX THE PROBLEM, BUT THEY CANNOT. TS",
+        "vin": "2HKRL185X1H"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "04/03/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015131,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "ENVOY",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE EXTERIOR MIRRORS MALFUNCTIONED, WHEN THE VEHICLE WAS PUT INTO   REVERSE, THE MIRRORS MOVED DOWNWARD, HOWEVER WHEN THE VEHICLE WAS PUT INTO DRIVE, THE MIRRORS FAILED TO RETURN TO ITS ORIGINAL POSITION.  *JB",
+        "vin": ""
+    }
+]

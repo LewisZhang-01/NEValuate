@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "02/02/2003",
+        "dateOfIncident": "01/26/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005134,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE FUEL PUMP ASSEMBLY CONTAINED WITHIN THE GAS TANK SHORTED OUT AND MELTED WIRING ASSOCIATED WITH THE ASSEMBLY.    *JB",
+        "vin": "1GTGC29R2VE"
+    }
+]

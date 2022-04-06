@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,POWER TRAIN,ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "05/25/2003",
+        "dateOfIncident": "08/15/1999",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019276,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERCURY",
+                "productModel": "SABLE",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "1997 MERCURY SABLE.   *NLM",
+        "vin": "1MELM50U1VG"
+    }
+]

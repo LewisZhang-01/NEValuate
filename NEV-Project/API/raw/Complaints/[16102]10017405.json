@@ -1,0 +1,24 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "04/23/2003",
+        "dateOfIncident": "04/01/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017405,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "GRAND CHEROKEE",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AAA REFUSED TO MOUNT SPARE TIRE ON WHEEL WHEN CALL FOR SERVICE DUE TO MANUFACTURER'S RECALL 98V006000.  CONSUMER WAS ADVISED BY MFR THAT VIN WAS NOT INCLUDED IN RECALL.   *NLM   *SCC",
+        "vin": "1J4GZ58S4TC"
+    }
+]

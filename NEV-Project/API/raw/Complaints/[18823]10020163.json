@@ -1,0 +1,31 @@
+[
+    {
+        "components": "CHILD SEAT",
+        "crash": true,
+        "dateComplaintFiled": "05/20/2003",
+        "dateOfIncident": "10/22/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10020163,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERCURY",
+                "productModel": "VILLAGER",
+                "productYear": "1995",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Graco Children's Products, Inc.",
+                "productMake": "GRACO",
+                "productModel": "8457GP",
+                "productYear": "9999",
+                "type": "Child Seat"
+            }
+        ],
+        "summary": "THE VEHICLE WAS IN A COLLISION AND ROLLED OVER ONCE. THE ENTIRE CHILD SAFETY SEAT FLIPPED OVER, WHICH CAUSED THE BABY TO LAND ON HIS/HER HEAD.  *JB",
+        "vin": ""
+    }
+]

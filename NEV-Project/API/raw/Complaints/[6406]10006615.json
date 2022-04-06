@@ -1,0 +1,24 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "02/05/2003",
+        "dateOfIncident": "02/05/2003",
+        "fire": false,
+        "manufacturer": "Mazda Motor Corp.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10006615,
+        "products": [
+            {
+                "manufacturer": "Mazda Motor Corp.",
+                "productMake": "MAZDA",
+                "productModel": "MPV",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER RECEIVED A RECALL LETTER FROM  MAZDA MANUFACTURER.   DEALER WON'T HONORING THE RECALL LETTER. PLEASE PROVIDE FURTHER INFORMATION.      PH",
+        "vin": "JM3LW28G3Y0"
+    }
+]

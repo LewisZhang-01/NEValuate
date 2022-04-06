@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "01/20/2019",
+        "dateOfIncident": "01/02/2019",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11171014,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SIERRA 1500",
+                "productYear": "2008",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "LIFTERS FAILED AT 98,000 CAUSING ENGINE REPLACEMENT.",
+        "vin": "2GTEK13M781"
+    }
+]

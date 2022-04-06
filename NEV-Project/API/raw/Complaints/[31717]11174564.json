@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE,FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "02/05/2019",
+        "dateOfIncident": "11/09/2018",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11174564,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "CIVIC",
+                "productYear": "2017",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUEL (GASOLINE) IS SEEPING INTO THE MOTOR OIL CAUSING A OVERFILL MARK ON OIL DIPSTICK AND STRONG ODOR OF GASOLINE WHEN CAR IS STARTED. OIL VISCOSITY SEEMS TO BE \"THINNER\" AFTER 2000 + MILES OF DRIVING.",
+        "vin": "2HGFC3B95HH"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "02/16/2003",
+        "dateOfIncident": "06/15/2001",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10007583,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CORVETTE",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE STEERING COLUMN LOCKUP OCCURRED ON START UP.  GM'S FIX FOR THIS CONDITION WAS PERFORMED BY THE DEALER AND THERE HAS BEEN NO FURTHER OCCURRENCE.  HOWEVER, TWO OF MY FRIENDS HAVE HAD THE \"DEALER FIX\" PERFORMED, ONLY TO HAVE THE FAILURE HAPPEN A SECOND TIME.  I AM WORRIED THAT THIS LOCKUP WILL HAPPEN AT SPEED.  REF. IN EA02-031 *CJS",
+        "vin": "1G1YY32G1Y5"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "05/25/2000",
+        "dateOfIncident": "04/04/2000",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 862583,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "GOLF",
+                "productYear": "1987",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TRANSFER FUEL PUMP WOULD NOT WORK PROPERLY. IT WOULD FAIL TO SUPPLY FUEL TO THE PUMP. THIS CAUSED THE VEHICLE TO STALL OUT. ITS AN INTERMITTENT PROBLEM. ONLY HAPPENS WHEN THE WEATHER IS WARM OR VEHICLE HAS BEEN RUNNING FOR A WHILE.  *AK",
+        "vin": "1VWDC0176HV"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "05/05/2000",
+        "dateOfIncident": "02/02/2000",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 861527,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "GOLF",
+                "productYear": "1987",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER  WAS TRAVELING ABOUT 70MPH ON THE HIGHWAY AND THE CAR JUST STOPPED.  NO PRIOR WARNING AS  HAS HE  WAS DRIVING.   CONSUMER DRIFTED TO THE SHOULDER.   HE TRIED TO RESTART THE VEHICLE,  AND IT STARTED.  *AK",
+        "vin": "1VWFA917XHV"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "08/12/1997",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 815299,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "GOLF",
+                "productYear": "1987",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN APPLYING THE BRAKES, THE MOUNTING BRACKET THAT ATTACHES TO THE BRAKE PEDAL AND CLUTCH PEDAL IS STARTING TO BREAK, CAUSING AN EXTENDED STOPPING DISTANCE.  *AK",
+        "vin": "1VW8A9178HV"
+    },
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "10/03/1996",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 509359,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "GOLF",
+                "productYear": "1987",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AFTER RAIN, THE DRIVER'S SIDE SEAT BELT BECOMES WET/MOULDY AND PRESENTS A FOUL ODOR.  *AK",
+        "vin": ""
+    }
+]

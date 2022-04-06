@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "03/06/2003",
+        "dateOfIncident": "08/01/2001",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010003,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "SONATA",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "EXCESSIVE DUST ENTERED THE TRUNK THROUGH A VENT AND SEEPED THROUGH THE  PASSENGER CABIN.*JB....*AK",
+        "vin": "KMHWF25S41A"
+    }
+]

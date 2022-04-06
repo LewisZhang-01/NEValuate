@@ -1,0 +1,46 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "04/30/2001",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Western Trailer Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 560948,
+        "products": [
+            {
+                "manufacturer": "Western Trailer Company",
+                "productMake": "WESTWIND",
+                "productModel": "TRAILER",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE BRAKE LINES ON THE TRAILER FAILED, CONSUMER IS HAVING TROUBLE OBTAINING ASSISTANCE FROM THE MANUFACTURER.  NLM",
+        "vin": ""
+    },
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "02/28/2001",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Western Trailer Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 559966,
+        "products": [
+            {
+                "manufacturer": "Western Trailer Company",
+                "productMake": "WESTWIND",
+                "productModel": "TRAILER",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE WELDS ARE NOT UNIFORM IN SIZE, SOME OF THEM HAVE POROSITY OPEN TO THE SURFACE MANY OTHERS HAVE EXTENSIVE INCOMPLETE FUSION AND OVERLAP AND SOME WELDS ARE CRACKED.  NLM",
+        "vin": "4MRFD4820YB"
+    }
+]

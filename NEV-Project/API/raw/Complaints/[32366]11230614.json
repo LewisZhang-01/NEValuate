@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "07/10/2019",
+        "dateOfIncident": "03/06/2019",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11230614,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "LEXUS",
+                "productModel": "IS 350",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DOOR INTERIOR QUARTER PANEL MELTS WHEN IT GETS HOT IN THE DAY TIME.",
+        "vin": "JTHBE262962"
+    }
+]

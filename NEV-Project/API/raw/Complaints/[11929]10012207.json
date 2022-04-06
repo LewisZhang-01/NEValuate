@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "04/01/2003",
+        "dateOfIncident": "06/01/2002",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10012207,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "LEXUS",
+                "productModel": "IS 300",
+                "productYear": "9999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "EAGLE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THERE WERE PROBLEMS WITH THE TIRE EQUIPMENT. * MR  THREE TIRES COLLAPSED AND WERE REPLACED.  THE CONSUMER WAS CONCERNED THE DIFFERENCES IN THE TIRES MAY RESULT IN AN UNPREDICTABLE AMOUNT OF TRACTION BETWEEN THE TIRES AND THE PAVEMENT, ESPECIALLY ON SLIPPERY SURFACES AND WHEN THE BRAKES WERE APPLIED.  (MODEL/EAG GS-D2)  SCC.   *JB",
+        "vin": ""
+    }
+]

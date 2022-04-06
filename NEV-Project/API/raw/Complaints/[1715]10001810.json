@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "01/02/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Kia Motors America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001810,
+        "products": [
+            {
+                "manufacturer": "Kia Motors America",
+                "productMake": "KIA",
+                "productModel": "SEPHIA",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATES DRIVER SIDE DOOR HANDLE POPPED PREVENTING OCCUPANT FROM EXISTING . DEALER HAS BEEN CONTACTED. PLEASE PROVIDE FURTHER INFORMATION. TS",
+        "vin": "KNK1B1217X5"
+    }
+]

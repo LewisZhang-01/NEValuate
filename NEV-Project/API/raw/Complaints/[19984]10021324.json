@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/10/2003",
+        "dateOfIncident": "06/04/2003",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021324,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "PRIUS",
+                "productYear": "2003",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Bridgestone Americas Tire Operations",
+                "productMake": "BRIDGESTONE",
+                "productModel": "POTENZA",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE SIDE WALL BLEW OUT AT 75 MPH ON THE FIRST 100 + DEGREE DAY. BRIDGESTONE\u0019S REP CLAIMED THAT THERE WAS MAYBE AN INDICATION OF NAIL DAMAGE; HOWEVER THE TIRE WAS TOO BADLY DAMAGED TO BE SURE. NEXT, IT HAD BEEN RUN FLAT, HOWEVER THAT WOULD HAVE BEEN QUICKLY APPARENT IN THE ENGINE NOISE WITH THE CV TRANS. THEY FAILED TO HONOR THEIR WARRANTY, ADMITTING THAT DOING SO WOULD RAISE A RED FLAG AT THE NHTSA. *AK",
+        "vin": ""
+    }
+]

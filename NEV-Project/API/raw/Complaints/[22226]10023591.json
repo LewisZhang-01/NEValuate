@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": true,
+        "dateComplaintFiled": "06/23/2003",
+        "dateOfIncident": "03/15/1998",
+        "fire": false,
+        "manufacturer": "Isuzu Technical Center of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10023591,
+        "products": [
+            {
+                "manufacturer": "Isuzu Technical Center of America, Inc.",
+                "productMake": "ISUZU",
+                "productModel": "RODEO",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ANTI-LOCK BRAKES DO NOT WORK PROPERLY WHEN ONE TIRE HITS A SLIPPERY SURFACE CAUSING EXTENDED BRAKING DISTANCE.   *NLM",
+        "vin": ""
+    }
+]

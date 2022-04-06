@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "06/03/1999",
+        "dateOfIncident": "05/31/1999",
+        "fire": true,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 838824,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "AMERICAN MOTORS",
+                "productModel": "EAGLE",
+                "productYear": "1983",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE  FIRE; 10 MINUTES AFTER BEING PARKED VEHICLE CAUGHT ON FIRE UNDER THE HOOD. DEALER/MANUFACTURER WERE NOT NOTIFIED AT THIS TIME.  *AK",
+        "vin": "1ACCK3850DK"
+    }
+]

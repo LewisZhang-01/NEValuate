@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "06/03/2019",
+        "dateOfIncident": "05/09/2019",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11217564,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "2012",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING THE VEHICLE ON HIGHWAY AND TURNING LEFT THE STEERING WHEEL WOULD NOT RETURN TO CENTER. THE DRIVER HAD TO MANUALLY WITH EFFORT IN ORDER TO AVOID CROSSING INTO OPPOSING LANE, RETURN STEERING TO RIGHT.  TOOK VEHICLE TO LOCAL DEALER, FOUND FAULT CODE C1B00. STEERING ANGLE SENSOR FAILED.  FORD IS PROBABLY AWARE OF THIS PROBLEM THAT APPEARS TO BE DO TO OVERHEATING IN ENGINE COMPARTMENT. OCCURRENCE USUALLY OUT OF WARRANTY. COST $1800.",
+        "vin": "1FTFX1ETXCF"
+    }
+]

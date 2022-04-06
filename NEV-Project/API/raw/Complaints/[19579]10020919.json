@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": true,
+        "dateComplaintFiled": "06/02/2003",
+        "dateOfIncident": "05/16/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020919,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "GRAND CHEROKEE",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE WAS IDLING IN PARK.  VEHICLE POPPED INTO REVERSE ,AUSING AN ACCIDENT.  ACCIDENT TOOK PLACE IN A PARKING LOT.*AK",
+        "vin": "1J4GW58S0XC"
+    }
+]

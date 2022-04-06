@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "01/22/2003",
+        "dateOfIncident": "12/20/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003152,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "C/K PICKUPS",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WIPERS FAILED TO WORK ON  NUMEROUS OCCASIONS.",
+        "vin": "1GCGK29J6WE"
+    }
+]

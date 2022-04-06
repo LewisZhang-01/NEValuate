@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/08/2003",
+        "dateOfIncident": "05/29/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021268,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "LESABRE",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "GENERAL TIRE & RUBBER CO.",
+                "productMake": "GENERAL",
+                "productModel": "GENERAL",
+                "productYear": "1966",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WITHIN ONE WEEK, BOTH THE LEFT-REAR TIRE, THEN THE LEFT-FRONT TIRE EXPERIENCED TREAD SEPARATION.          *TT",
+        "vin": "1G4HP54K9Y4"
+    }
+]

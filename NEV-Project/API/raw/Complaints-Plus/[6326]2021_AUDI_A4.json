@@ -1,0 +1,68 @@
+[
+    {
+        "components": "SUSPENSION,VEHICLE SPEED CONTROL",
+        "crash": true,
+        "dateComplaintFiled": "11/16/2021",
+        "dateOfIncident": "10/22/2021",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 11440644,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "AUDI",
+                "productModel": "A4",
+                "productYear": "2021",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact leased a 2021 Audi A4. The contact stated that the dealer had provided her with the vehicle rental while her vehicle was being repaired. The contact stated that while driving at 4 MPH and turning into a parking pace on the 4th floor of a parking garage, the vehicle inadvertently accelerated on its own at 100 MPH. The contact depressed the brake pedal several times but it failed to respond. The vehicle crashed into the fence of steel and broke a portion of the wall. The air bags deployed. There were no warning lights illuminated. The contact sustained two concussions and a heart attack. The contact sought medical assistance the next day and had been seeking medical assistance. A police report was filed. The vehicle was towed to the dealer and it was totaled. The manufacturer was notified of the failure. The approximate failure mileage was 1,347.",
+        "vin": "WAUABAF4XMA"
+    },
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "07/19/2021",
+        "dateOfIncident": "04/26/2021",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11425403,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "AUDI",
+                "productModel": "A4",
+                "productYear": "2021",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact owns a 2021 Audi A4. The contact received notification of NHTSA campaign number: 21V295000 (Suspension) however, the part to do the recall repair was unavailable. The vehicle was taken to the local dealer who stated that the parts were not yet available. The contact stated that the manufacturer had exceeded a reasonable amount of time for the recall repair. The manufacturer was not made aware of the issue. The contact had not experienced a failure. Parts distribution disconnect.",
+        "vin": "WAUCBAF42MN"
+    },
+    {
+        "components": "AIR BAGS,VEHICLE SPEED CONTROL",
+        "crash": true,
+        "dateComplaintFiled": "05/25/2021",
+        "dateOfIncident": "05/06/2021",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11418441,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "AUDI",
+                "productModel": "A4",
+                "productYear": "2021",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact owned a 2021 Audi A4. The contact stated that while driving at a low rate of speed through a parking lot, the vehicle independently accelerated and the brake pedal locked. The vehicle accelerated up a hill as the contact was unable to depress the brake pedal; he collided with an electric pole which caused the vehicle to stop. Due to the shock and abruptness of the failure, the contact was uncertain if any warning lights illuminated the instrument panel. The air bags did not deploy upon impact. The contact and no other bystanders were injured as a result of the failure. The police and fire department arrived at the scene and a police report was filed. Due to the failure, the vehicle was towed from the scene to an independent body shop. The dealer nor the manufacturer had yet to be notified of the failure. The vehicle had been destroyed. The failure mileage was approximately 4,000. The VIN was unavailable.",
+        "vin": ""
+    }
+]

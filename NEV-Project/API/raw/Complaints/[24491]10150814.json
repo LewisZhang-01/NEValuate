@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "02/09/2006",
+        "dateOfIncident": "01/01/1901",
+        "fire": false,
+        "manufacturer": "Mercedes-Benz USA, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10150814,
+        "products": [
+            {
+                "manufacturer": "Mercedes-Benz USA, LLC",
+                "productMake": "MERCEDES BENZ",
+                "productModel": "ML350",
+                "productYear": "2006",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "2006 ML 350 PULLS TO THE RIGHT WHEN DRIVING THROUGH WATER PUDDLES.  *TS  THE CONSUMER FEELS THE CONTINENTAL TIRES MAY BE THE CAUSE OF THE PROBLEM.  THE TIRE HAVE BEEN REPLACED WITH BRIDGESTONE DUELER HL.  THE CONSUMER HAS NOT DRIVEN THE VEHICLE IN WET CONDITIONS WITH THE NEW TIRE YET.  *NM",
+        "vin": ""
+    }
+]

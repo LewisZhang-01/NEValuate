@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": true,
+        "dateComplaintFiled": "01/27/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004744,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "TOWN CAR",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE TRAVELING 10 MPH AND WITHOUT ANY INDICATION  BRAKES FAILED, RESULTING IN VEHICLE HITTING CURVE TO STOP. PLEASE PROVIDE FURTHER INFORMATION.*AK",
+        "vin": "1LNFM82W1WY"
+    }
+]

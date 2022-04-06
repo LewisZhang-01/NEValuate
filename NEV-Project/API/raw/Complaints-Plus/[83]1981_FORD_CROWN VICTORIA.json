@@ -1,0 +1,46 @@
+[
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "02/24/1997",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 546839,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "CROWN VICTORIA",
+                "productYear": "1981",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "OWNER REQUESTING ANY INFORMATION PERTAINING TO THIS VEHICLE.",
+        "vin": "2FABP35FXBB"
+    },
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "09/01/1995",
+        "dateOfIncident": "09/01/1995",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 483741,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "CROWN VICTORIA",
+                "productYear": "1981",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CARBURETOR PROBLEMS.  *SKD",
+        "vin": "1FABP35F9BU"
+    }
+]

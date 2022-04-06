@@ -1,0 +1,46 @@
+[
+    {
+        "components": "EXTERIOR LIGHTING",
+        "crash": true,
+        "dateComplaintFiled": "12/31/2021",
+        "dateOfIncident": "12/27/2021",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11445717,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CADILLAC",
+                "productModel": "ESCALADE",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Cadillac Escalade was struck in a rear end collision in Georgia. Driver of trailing car stated that the Escalade \"suddenly stopped\". After reviewing dash cam footage from the trailing car it can be seen that the Escalade was very slowly decelerating for ~4 seconds before suddenly stopping, the trailing driver did not react to the initial deceleration, only the sudden stop.  Closer inspection of the footage suggests the non-standard brake lights of the Escalade contributed to the crash. The vertical stripes do not register as brake lights easily, especially as they blend into the structure of the vehicle. Screenshots of dashcam footage showing this are attached.",
+        "vin": "1GYS3CKJ3LR"
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "04/13/2020",
+        "dateOfIncident": "04/13/2020",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11321030,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CADILLAC",
+                "productModel": "ESCALADE",
+                "productYear": "2020",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CAR STARTS BUT WILL NOT GO INTO DRIVE OR REVERSE.  UPON RESTARTING THE CAR, IT MAY OR MAY NOT GO WORK. WHEN IT DOES WORK THE CAR WILL NOT SHIFT INTO A HIGHER GEAR.",
+        "vin": "1GYS4DKJ1LR"
+    }
+]

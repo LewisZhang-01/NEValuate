@@ -1,0 +1,32 @@
+[
+    {
+        "components": "STEERING,SUSPENSION,ENGINE AND ENGINE COOLING,POWER TRAIN,ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "07/18/2003",
+        "dateOfIncident": "03/27/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10014628,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "REGAL",
+                "productYear": "1999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE VEHICLE SWAYED LEFT TO RIGHT WHILE DRIVING, AND THE STEERING WHEEL WAS HARD TO CONTROL.   *JB  THERE WAS A CLUNK IN THE STEERING WHEEL WHICH CAUSED BY THE UNDERTORQUED STEERING GEAR BOLTS. THE STEERING SHAFT WAS LOOSE AND WAS REPLACED BY THE DEALER. *TS(SEE ANNOTATION - M. JORDAN) *TS.  ALSO THE ENGINE FAILED TO TURN OVER, THE DEALER REPLACED THE ALTERNATOR AND FOUND THE NO VOLTAGE ON THE BATTERY, THE TRANSMISSION JUMPED WHEN IT WAS PUT INTO GEAR, THE DEALER FOUND THE SHAFT FOR THE 4TH GEAR  WORN, THE VEHICLE PULLED TO THE SIDE, THE RACK AND PINION WAS REPLACED, THE OIL PAN AND FRONT MOTOR MOUNT WAS REPLACED",
+        "vin": "2G4WF5217X1"
+    }
+]

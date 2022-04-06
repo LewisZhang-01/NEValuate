@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "04/18/2003",
+        "dateOfIncident": "04/11/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10016182,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WINDSHIELD WIPER MOTOR, CONTROL MODULE P/N 12463090, FAILS DUE TO A COLD (CRACKED) SOLDER JOINT ON THE CONTROLLER CIRCUIT BOARD.  THIS CAUSES THE WINDSHIELD WIPERS TO WORK ERRATICALLY OR NOT AT ALL.   *NLM",
+        "vin": "3GNEC16RXWG"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "12/17/2009",
+        "dateOfIncident": "11/15/2009",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10296214,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "WINDSTAR",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2002 FORD WINDSTAR SPEEDOMETER FAILED, ABS WARNING LIGHT REMAINS ON, BRAKE WARNING LIGHT REMAINS ON, CRUISE CONTROL MALFUNCTIONS, FUSES BURNING OUT, HEAT CONTROL NOT WORKING. *TR",
+        "vin": "2FMZA52482B"
+    }
+]

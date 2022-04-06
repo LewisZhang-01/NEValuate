@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "10/22/2016",
+        "dateOfIncident": "10/21/2016",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10918014,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "MALIBU",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN MAKING TURNS UNDER 30MPH THE POWER STEERING FAILS AND 3 CHIMES ARE HEARD. SHORTLY THEREAFTER POWER STEERING RETURNS. THE LATEST DATE THIS OCCURRED WAS 10/21/2016 BUT HAS HAPPENED A COUPLE WEEK PRIOR AS WELL.",
+        "vin": "1G1ZT63846F"
+    }
+]

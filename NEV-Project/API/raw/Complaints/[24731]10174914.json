@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "12/01/2006",
+        "dateOfIncident": "10/27/2006",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10174914,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "TAHOE",
+                "productYear": "2007",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Bridgestone Americas Tire Operations",
+                "productMake": "BRIDGESTONE",
+                "productModel": "DUELER H/T 684 II",
+                "productYear": "9999",
+                "size": "P245/70R16",
+                "type": "Tire"
+            }
+        ],
+        "summary": "UPON NOTIFICATION BY ONSTAR TO ROTATE MY TIRES, AT 6500 MILES. I HAD THEM ROTATED AT THE DEALERSHIP AND NOTED THAT THE FRONT TIRES WERE \"FEATHERED\" (WEARING INCORRECTLY DUE TO SOME CHAMBER OR CASTER SETTING BEING INCORRECT).  THE DEALER SAID HE HAD SEEN WORSE TIRE FEATHERING ON 07 TAHOE'S AND THERE SHOULD BE A RECALL.  *JB",
+        "vin": "1GNFK13067R"
+    }
+]

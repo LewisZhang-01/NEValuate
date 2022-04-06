@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE,UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "07/22/2019",
+        "dateOfIncident": "01/02/2019",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11234014,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "YUKON DENALI",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "GPS IS NOT WORKING. ANTENNA",
+        "vin": "1GKS1CKJ4GR"
+    }
+]

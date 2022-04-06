@@ -1,0 +1,31 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "01/02/2003",
+        "dateOfIncident": "11/04/2002",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000470,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "GRAND CHEROKEE",
+                "productYear": "1995",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "RUNNING BOARD KIT",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "I HAVE HAD 4 REBUILT FUEL PUMPS REPLACED ON MY 95 JEEP GRAND CHEROKEE SINCE NOEMBER 4,2002 AND THEY KEEP FAILING. THERE IS NOTHING WRONG WITH MY CAR OTHER THAN THE FUEL PUMP. THE MECHANIC HAS CHECKED THE TANK. I HAVE NOW FOUND OUT THAT THE DEALER SELLING THE PUMP TO THE STATION MAY NOT COVER THE WARRANTY. IT SOUNDS LIKE THIS SHOULD BE A RECALL BUT THE DEALER ONLY WANTS TO SEND ME A NEW PUMP. THE DEALER IS NORTHEAST AUTO OUTLET, GRANT & ACADEMY ROAD IN PHILA.,PA.",
+        "vin": "1J4GZ58S2SC"
+    }
+]

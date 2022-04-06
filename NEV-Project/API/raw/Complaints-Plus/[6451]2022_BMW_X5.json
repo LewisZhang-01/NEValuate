@@ -1,0 +1,68 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "03/19/2022",
+        "dateOfIncident": "03/19/2022",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11457409,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "X5",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Received the vehicle less than a week ago, rear right damper/shocks need replacement.",
+        "vin": "5UXCR6C08N9"
+    },
+    {
+        "components": "POWER TRAIN,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "01/06/2022",
+        "dateOfIncident": "01/05/2022",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11446431,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "X5",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The car came to a complete stop due to the Drivetrain Malfunction. The surprising part was that I noticed the error after 45 mins of buying the car.",
+        "vin": "5UXTA6C03N9"
+    },
+    {
+        "components": "FORWARD COLLISION AVOIDANCE,LANE DEPARTURE",
+        "crash": false,
+        "dateComplaintFiled": "12/20/2021",
+        "dateOfIncident": "12/19/2021",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11444453,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "X5",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "New 2022 BMW X5M with a little over 200 miles on it. Received a message stating, \"driver assistance support reduced\". This driver assistance package controls many of the safety features listed above, and then some (could only select 3 from the list above, but affects more). Sad part is, after minor research, I find this has been an ongoing problem with BMW for years, and has not been addressed as the problem still occurs in their cars.",
+        "vin": "5YMJU0C01N9"
+    }
+]

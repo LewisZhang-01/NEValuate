@@ -1,0 +1,31 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "01/19/2003",
+        "dateOfIncident": "06/29/2002",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002962,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "SEBRING CONVERTIBLE",
+                "productYear": "1997",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "REAR DEFOGGER INOPERABLE.  THE WIRING THROUGH THE CAR TO THE BACK WINDOW HAS DETACHED ITSELF.  THIS IS THE SECOND TIME THAT THIS HAS HAPPENED.  THE FIRST TIME THE CAR WAS STILL UNDER WARRANTY.  HOWEVER, THE SECOND TIME THE CAR WAS OUT OF WARRANTY.  WHEN I ASKED THE DEALER IF THERE WERE ANY RECALLS FOR THIS ITEM, I WAS TOLD NO AND THAT IT WOULD BE A VERY EXPENSIVE ITEM TO REPLACE.  I DON'T FEEL THAT I SHOULD HAVE TO REMIT ANY MONIES FOR THE REPLACEMENT.  IT'S OBVIOUSLY DEFECTIVE AND SHOULD BE CORRECTED THROUGH THE EXPENSE OF THE MANUFACTURER.",
+        "vin": "3C3EL45H3VT"
+    }
+]

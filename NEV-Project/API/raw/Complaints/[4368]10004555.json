@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "01/24/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004555,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "ACCORD",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATE WHILE SITTING IN DRIVER SEAT WITHOUT ANY INDICATION SEAT ROCKED BACKWARDS IN RESULT OF SEAT GIVING AWAY. DEALER HAS BEEN CONTACTED. PLEASE PROVIDE FURTHER INFORMATION.          TS",
+        "vin": ""
+    }
+]

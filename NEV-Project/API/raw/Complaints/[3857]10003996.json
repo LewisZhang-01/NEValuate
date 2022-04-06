@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "06/26/2003",
+        "dateOfIncident": "01/02/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003996,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "BLAZER",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE REAR SEAT BELT WAS INOPERATIVE. THE CONSUMER WAS UNABLE TO FASTEN THE SEAT BELT, AS A RESULT OF THE BUCKLE BEING INOPERATIVE.  THE SEAT BELT LATCH PLATE DID NOT GO INTO THE BUCKLE. THE DEALERSHIP REPLACED THE PART. (PART UNKNOWN). *TS  *JB",
+        "vin": "1GNDT13W4W2"
+    }
+]

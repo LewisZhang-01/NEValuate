@@ -1,0 +1,156 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "10/10/2002",
+        "dateOfIncident": "04/15/2001",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10007477,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAPRICE",
+                "productYear": "1984",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "PRNDL READOUT STAYS ON THE \"P\" (FOR PARK) POSITION. I HAVE TO COUNT THE GEARS WHEN I OPERATE THE TRANSMISSION SELECTOR. CABLE THAT LINKS THE PRNDL NEEDLE TO THE TRANSMISSION SELECTOR HAS BROKEN (HAPPENED ONCE BEFORE). THIS MAY BE A DEVELOPING SAFETY DEFECT TREND IN THIS GREAT CAR.  PH    **DIMSII IVOQ ENTRY POSTED AFTER 12/12/02 CUT OVER TO ARTEMIS**768324",
+        "vin": ""
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC,VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "03/23/2000",
+        "dateOfIncident": "01/01/2000",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 859080,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAPRICE",
+                "productYear": "1984",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE SURGED FORWARD. BRAKES WERE NOT WORKING, AND VEHICLE JUMPED INTO CRUISE CONTROL WITHOUT CONSUMER EVEN TOUCHING THE BUTTON.  ALMOST REARENDED ANOTHER CAR.  *AK *ML",
+        "vin": "1G1AN69HXEX"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "07/26/1996",
+        "dateOfIncident": null,
+        "fire": true,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 506714,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAPRICE",
+                "productYear": "1984",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENGINE CAUGHT FIRE/BLEW UP. *DH",
+        "vin": "2G1AN69H6E9"
+    },
+    {
+        "components": "SEATS",
+        "crash": true,
+        "dateComplaintFiled": "05/16/1996",
+        "dateOfIncident": "12/11/1995",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 3,
+        "odiNumber": 984545,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAPRICE",
+                "productYear": "1984",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE WAS STOPPED, REARENDED BY ANOTHER VEHICLE, DRIVER'S SEAT WENT BACKWARDS TO REAR SEAT OF VEHICLE, PASSENGER'S SIDE WENT BACK, SEATBELT DID NOT HOLD. *AK",
+        "vin": "1G1AN69A4EX"
+    },
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "12/28/1995",
+        "dateOfIncident": "03/08/1995",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 490701,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAPRICE",
+                "productYear": "1984",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SEAT BELT DID NOT LOCK IN ACCIDENT, CAUSING INJURY. *DSH",
+        "vin": "2G1ANG9H5E9"
+    },
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "03/22/1995",
+        "dateOfIncident": "04/10/1994",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 962400,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAPRICE",
+                "productYear": "1984",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SUDDEN ACCELERATION OF VEHICLE WHILE DRIVING.  TT",
+        "vin": "2G1AN69H4E9"
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "02/16/1995",
+        "dateOfIncident": "02/01/1995",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 481812,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAPRICE",
+                "productYear": "1984",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TRANSMISSION FAILED TWICE.  *SKD",
+        "vin": "2G1AN35H2E9"
+    }
+]

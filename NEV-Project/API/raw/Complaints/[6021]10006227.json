@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "02/03/2003",
+        "dateOfIncident": "01/05/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10006227,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "RAM 1500",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE CONSUMER WAS IN A COLLISION AND THE AIR BAGS DID NOT DEPLOY. DEALER WAS CONTACTED AND STATED THAT IMPACT WAS NOT STRONG ENOUGH TO ACTIVATE THE SENSOR FOR THE AIR BAGS.",
+        "vin": "1B7HF13ZX1J"
+    }
+]

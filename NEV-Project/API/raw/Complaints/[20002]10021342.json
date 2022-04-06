@@ -1,0 +1,31 @@
+[
+    {
+        "components": "AIR BAGS,EQUIPMENT",
+        "crash": true,
+        "dateComplaintFiled": "06/10/2003",
+        "dateOfIncident": "06/08/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10021342,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "OLDSMOBILE",
+                "productModel": "ALERO",
+                "productYear": "1999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "AIRBAG SYSTEMS, INC.",
+                "productMake": "AIRBAG",
+                "productModel": "SWITCH",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "AIR BAG FAILED TO DEPLOY IN FRONT END COLLISION.  CAR TOTALED.*AK",
+        "vin": ""
+    }
+]

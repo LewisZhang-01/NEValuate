@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN,AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "01/01/2017",
+        "dateOfIncident": "02/03/2016",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10939014,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "CR-V",
+                "productYear": "2008",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "RECEIVED RECALL LETTER ON PASSENGER FRONTAL AIR BAG INFLATOR MAY RUPTURE ,DRIVER'S FRONTAL AIR BAG INFLATOR MAY RUPTURE,AUTOMATIC TRANSMISSION CONTROL MODULE SOFTWARE",
+        "vin": "5J6RE48598L"
+    }
+]

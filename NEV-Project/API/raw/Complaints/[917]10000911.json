@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "01/10/2003",
+        "dateOfIncident": "12/30/2002",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000911,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "PASSAT",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SECOND FAILURE OF IGNITION COIL PACK WITHIN 2 WEEKS. CURRENTLY VEHICLE IS AWAITING PARTS AND HAS BEEN AT THE DEALERSHIP NEARLY 2 WEEKS (SINCE 12/30/02)",
+        "vin": "WVWPD63B42P"
+    }
+]

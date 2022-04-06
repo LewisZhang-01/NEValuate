@@ -1,0 +1,68 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "04/13/2009",
+        "dateOfIncident": "04/12/2009",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10265139,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "323I",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FOR NO REASON THE REVERSE WENT OUT ON MY 2001 BMW 323I.  I TOOK IT INTO THE REPAIR SHOP AND THEY TOLD ME THAT I NEEDED A NEW TRANSMISSION BECAUSE OF AN ELECTRICAL GLITCH THAT IS OCCURRING IN THOUSANDS OF BMW'S FOR NO REASON OTHER THAN THE STEPTRONIC TRANSMISSION THAT BMW PUT IN THE CARS IN DEFECTIVE.  WHY WON'T BMW RECALL THIS TO FIX THE PROBLEM.  THE CAR IS IN PERFECT CONDITION AND I CANNOT AFFORD THE $3700 THE REPAIR SHOP WANTS TO FIX A DEFECTIVE TRANSMISSION. *TR",
+        "vin": "WBAAM3342YC"
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": true,
+        "dateComplaintFiled": "07/22/2008",
+        "dateOfIncident": "04/01/2008",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 2,
+        "odiNumber": 10235328,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "323I",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2001 BMW 323I DOES NOT GO INTO REVERSE WHEN PLACED INTO REVERSE GEAR.     IT HAPPENED SUDDENLY WITHOUT ANY TYPE OF WARNING OR NOISE.     NOTHING HAS BEEN DONE TO CORRECT IT, SINCE IT WILL COST ME 40% OF THE CARS CURRENT VALUE TO REPAIR THE CAR.   *TR",
+        "vin": "WBAAM3330YF"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "06/28/2001",
+        "dateOfIncident": "06/27/2001",
+        "fire": true,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 891547,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "323I",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING 55 TO 60 MPH CONSUMER NOTICED SMOKE COMING FROM UNDER  HOOD OF  VEHICLE.  ALSO, VEHICLE CAUGHT ON FIRE. VEHICLE AT THE DEALER AWAITING REPAIRS.*AK",
+        "vin": "WBAB933461J"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "02/18/2017",
+        "dateOfIncident": "02/14/2017",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10955414,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "AUDI",
+                "productModel": "A5",
+                "productYear": "2011",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE TIMING CHAIN TENSIONOR FAILED WITH NO WARNING CAUSING CATASTROPHIC ENGINE FAILURE. AUDIVW IS AWARE OF THE ISSUE AND REFUSE TO ISSUE A RECALL ON THE PART THEY HAVE REDESIGNED MORE THAN 4 TIMES. REPAIR COST IS $10-12,000 WHEN IT FAILS. REPLACING THE DEFECTIVE PART WOULD COST $700.",
+        "vin": "WAUWFAFR7BA"
+    }
+]

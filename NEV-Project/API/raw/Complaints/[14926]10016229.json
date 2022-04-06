@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "04/20/2003",
+        "dateOfIncident": "03/19/2003",
+        "fire": true,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10016229,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERCURY",
+                "productModel": "GRAND MARQUIS",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2001 MERCURY GRAND MARQUIS TRUNK CAUGHT ON FIRE IN THE MORNING.  WASN'T USED THAT MORNING.  CAUSE OF FIRE UNKNOWN. *JB",
+        "vin": ""
+    }
+]

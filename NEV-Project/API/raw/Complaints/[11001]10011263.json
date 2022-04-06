@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "03/10/2003",
+        "dateOfIncident": "02/11/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10011263,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "RAM",
+                "productYear": "1999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "HEAFNER",
+                "productMake": "REGAL XL",
+                "productModel": "REGAL XL",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "CONSUMER WAS INFORMED THAT ALL 4 TIRES WERE SPLIT/CRACKED ALL THE WAY AROUND THE CENTER IN THE EXACT SAME SPOT.  CONSUMER THEN TOOK THE VEHICLE TO THE DEALER WHO ADVISED THE TIRES WERE DEFECTIVE, CONSUMER REQUESTED A REFUND FOR THE REPLACEMENT TIRES.*JB",
+        "vin": ""
+    }
+]

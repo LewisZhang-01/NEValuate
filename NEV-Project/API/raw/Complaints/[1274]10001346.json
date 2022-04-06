@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "12/20/2002",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001346,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "WINDSTAR",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE BRAKING THERE WAS A CLANKING NOISE IN FRONT END.  TOOK  VEHICLE TO FORD, FORD REPLACED SUBFRAME BUSHINGS AND TIE ROD ENDS.  PLEASE PROVIDE ANY FURTHER INFORMATION. TS.  *AK",
+        "vin": "2FMDA5142WB"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "03/12/2003",
+        "dateOfIncident": "03/06/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10011510,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "CENTURY",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "GENERAL TIRE & RUBBER CO.",
+                "productMake": "GENERAL",
+                "productModel": "AMERICAN",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE TIRE EXPERIENCED A FLAT, CONSUMER NOTICED THE TIRE HAD SPLIT FROM THE INSIDE OUT WHICH WAS NOT NORMAL. DEALER WAS CONTACTED SINCE TIRE WAS ORIGINAL EQUIPMENT, CONSUMER WAS TOLD THERE WERE NO RECALLS OR TSB BULLETINS. CONSUMER HAD TO REPLACED ALL 4 TIRES.*JB",
+        "vin": "2G4WS52J711"
+    }
+]

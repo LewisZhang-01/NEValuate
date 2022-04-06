@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "03/07/2005",
+        "dateOfIncident": "03/03/2005",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10113614,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAVALIER",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING APPROXIMATELY 50 MPH,  THE CONSUMER LOST CONTROL OF THE STEERING. UPON INSPECTION, THE CONSUMER WAS TOLD THE RACK AND PINION HAD FAILED. *JB",
+        "vin": "1G1JC124117"
+    }
+]

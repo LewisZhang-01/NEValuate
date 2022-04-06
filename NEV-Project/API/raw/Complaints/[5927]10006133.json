@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "01/31/2003",
+        "dateOfIncident": "07/01/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10006133,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "PICKUP",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WINDSHIELD WIPERS WERE WORKING INTERMITTENTLY, BUT NOW THEY HAVE FAILED COMPLETELY.  VEHICLE IS A 1995 ,CHEVROLET, FLEETSIDE PICK-UP 4-WHEEL DRIVE.*AK",
+        "vin": "1GCEK14H0SZ"
+    }
+]

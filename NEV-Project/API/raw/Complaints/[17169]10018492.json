@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS,SEAT BELTS",
+        "crash": true,
+        "dateComplaintFiled": "05/10/2003",
+        "dateOfIncident": "02/22/2000",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10018492,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "RAV4",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "HEAD ON COLLISION -AIRBAGS FAILED TO DEPLOY-FRACTURING STERNUM,RIBS AND INJURING RIGHT SHOULDER. PRE-TENSIONER ON SEAT BELT FAILED ALSO.  *NLM",
+        "vin": "JT3HP10V1X7"
+    }
+]

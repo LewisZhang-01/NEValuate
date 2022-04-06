@@ -1,0 +1,53 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "02/14/2022",
+        "dateOfIncident": "02/12/2014",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11451802,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "2022",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Ewr Volpe Acme Inc.",
+                "productMake": "TBD",
+                "productModel": "TBD",
+                "productYear": "9999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I purchased a 2022 Chevrolet Suburban on December 6, 2022 equipped with4 Bridgestone Alenza A/S 02 tires sized 275 50R22.  On December 21, on my way home I hit a bump.  When I got home I could audibly hear air leaking out of the passenger rear tire. I called OnStar who sent a tow truck driver out to put the spare on.  We could not find a nail or anything in the tire but there was about a 1.5 inch crack in the sidewall about 1 inch away from the rim with nothing sticking in it.  I took it to the dealership where I purchased the tire and they ordered a replacement tire.  They said that I could file a complaint  with the State Department of Transportation if I wanted. It cost me about $328 to repair.  On February 12, around 9:00 pm, I was about an hour and a half away from home about to drive back when the tire sensor light came on saying the passenger rear tire had low air pressure. I pulled into a park and went to look and I again could audibly hear air leaking from the tire.  I had not hit any bumps this time, but the tire was completely flat within 20 minutes.  When the tow truck driver came to put the spare on, I explained to him what happened previously and that was the second time this had happened within 2 months of purchasing the vehicle.  He looked at the tire with me and it had the same tear in the sidewall in the same location as the previous tire.  There was no nail or object in the tire, just a 1.5 inch long rigid crack.  I noticed that there had been a Bridgestone recall for this type of tire for size 275 55R20 in 2021 because of a pin hole in the sidewall.  I believe that my tires are defective.",
+        "vin": "1GNSKEKD2NR"
+    },
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "01/18/2022",
+        "dateOfIncident": "01/17/2022",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11447863,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I was driving on the interstate and my sunroof exploded. There were few cars around me and I was not under a bridge. I did not see anything coming at the car or see anything drop or fall behind us. Just heard a lot exploding noise.",
+        "vin": "1GNskdkd5nr"
+    }
+]

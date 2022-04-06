@@ -1,0 +1,31 @@
+[
+    {
+        "components": "SUSPENSION,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "02/14/2003",
+        "dateOfIncident": "01/31/2003",
+        "fire": false,
+        "manufacturer": "Mitsubishi Motors North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005851,
+        "products": [
+            {
+                "manufacturer": "Mitsubishi Motors North America, Inc.",
+                "productMake": "MITSUBISHI",
+                "productModel": "GALANT",
+                "productYear": "1996",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "AUTOMATIC EQUIP. MFG. CO.",
+                "productMake": "UNKNOWN",
+                "productModel": "AUTOMATIC",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "PAID FOR REPAIRS ON A 1996 MITSUBISHI GALANT ES  SUSPENSION FRONT CONTROL ARM BALL JOINT.",
+        "vin": "4A3AJ56G2TE"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "components": "FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "03/18/2022",
+        "dateOfIncident": "03/16/2022",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11457225,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "RAV4",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The fuel tank warning light comes on when the car still has over 4 gallons of gas remaining in the tank.  This was confirmed by checking fuel fill versus tank size and also running vehicle well past warning light.  The warning light appears to mislead drivers and is inaccurate.  The actual range of the vehicle is misleading with this warning light.",
+        "vin": "JTMAB3FV0ND"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM,ENGINE,FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "03/18/2022",
+        "dateOfIncident": "03/18/2022",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11457339,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "RAV4",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "\"The total fuel dispensed is less than expected when the fuel nozzle automatically clicks off when refueling. [Some customer reports] have also noted the \"Distance to Empty\" shown on the multi-information display is less than expected.\"",
+        "vin": "JTMAB3FV3ND"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "05/07/2003",
+        "dateOfIncident": "05/04/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019335,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "ASTRO",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE CONSUMER VEHICLE EXPERIENCED SIMILAR SYMPTOMS OF A RECALL.  THE DEALER REFUSED TO REPAIR THE VEHICLE UNDER RECALL BECAUSE THE VEHICLES VIN WAS NOT INCLUDED IN THE RECALL.  *NLM",
+        "vin": "PLEASE PROV"
+    }
+]

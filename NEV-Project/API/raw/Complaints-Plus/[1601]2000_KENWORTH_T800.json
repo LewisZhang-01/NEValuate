@@ -1,0 +1,134 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "04/06/2001",
+        "dateOfIncident": "11/30/1999",
+        "fire": false,
+        "manufacturer": "PACCAR Incorporated",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 560665,
+        "products": [
+            {
+                "manufacturer": "PACCAR Incorporated",
+                "productMake": "KENWORTH",
+                "productModel": "T800",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AIR LEAK UNDER DASH, CAUSED BY POWER DIVIDER SWITCH.   *SLC",
+        "vin": "1NKDLBOXXYJ"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "04/06/2001",
+        "dateOfIncident": "11/29/1999",
+        "fire": false,
+        "manufacturer": "PACCAR Incorporated",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 560665,
+        "products": [
+            {
+                "manufacturer": "PACCAR Incorporated",
+                "productMake": "KENWORTH",
+                "productModel": "T800",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "OIL LEAK.   *SLC",
+        "vin": "1NKDLB0XXYJ"
+    },
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "04/06/2001",
+        "dateOfIncident": "12/01/1999",
+        "fire": false,
+        "manufacturer": "PACCAR Incorporated",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 560665,
+        "products": [
+            {
+                "manufacturer": "PACCAR Incorporated",
+                "productMake": "KENWORTH",
+                "productModel": "T800",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TELESCOPIC TILT WHEEL WOULD NOT STAY LOCKED IN, HAS BEEN REPAIRED HOWEVER STILL HAS A SQUEAKING NOISE.   *SLC",
+        "vin": "1NKDLBOXXYJ"
+    },
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "04/06/2001",
+        "dateOfIncident": "11/30/1999",
+        "fire": false,
+        "manufacturer": "PACCAR Incorporated",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 560665,
+        "products": [
+            {
+                "manufacturer": "PACCAR Incorporated",
+                "productMake": "KENWORTH",
+                "productModel": "T800",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "LEAK IN AIR SEAT.   *SLC",
+        "vin": "1NKDLBOXXYJ"
+    },
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "04/06/2001",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "PACCAR Incorporated",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 560665,
+        "products": [
+            {
+                "manufacturer": "PACCAR Incorporated",
+                "productMake": "KENWORTH",
+                "productModel": "T800",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SUSPENSION PROBLEMS IN DESIGN OF VEHICLE CAUSED WEAR OF TIRES, DEALER REPLACED FLOATS, REPLACED FRONT AND REAR TANDEMS, BOLT BROKE ON THE CROSS MEMBER TWICE, RIGHT SIDE OF CROSS MEMBER RUNS AT AN ANGLE, AND RUBBER INSERTS ON TORQUE BARS WERE NOT TWISTED.   *SLC",
+        "vin": "1NKDLBOXXYJ"
+    },
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "04/06/2001",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "PACCAR Incorporated",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 560665,
+        "products": [
+            {
+                "manufacturer": "PACCAR Incorporated",
+                "productMake": "KENWORTH",
+                "productModel": "T800",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TOP AND BOTTOM FRAME RAILS SHOULD HAVE SAME THICKNESS, HOWEVER THIS DID NOT, THERE IS A SAG IN TOP OF FRAME RAIL, RIGHT SIDE OF VEHICLE HAS SWAY, INNER FRAME RAIL ON RIGHT SIDE IS THINNER BETWEEN TOP AND BOTTOM.   *SLC",
+        "vin": "1NKDLBOXXYJ"
+    }
+]

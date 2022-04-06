@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/20/2003",
+        "dateOfIncident": "01/08/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002996,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "E-450",
+                "productYear": "1999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "PEUGEOT, INC.",
+                "productMake": "ALL",
+                "productModel": "ALL",
+                "productYear": "1974",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE \"SERVICE\" OF QUICK CHANGE OIL SHOPS TO ADJUST TIRE PRESSURES ON WARM/HOT TIRES TO RECOMMENDED (COLD) PRESSURES. THIS RESULTS IN COLD PRESSURES OF 4 TO 6 PSI BELOW RECOMMENDED PRESSURE IF CHECKED PROPERLY.",
+        "vin": ""
+    }
+]

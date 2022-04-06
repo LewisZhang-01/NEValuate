@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,ENGINE AND ENGINE COOLING,POWER TRAIN,AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "02/13/2003",
+        "dateOfIncident": "06/20/2001",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10006216,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "PLYMOUTH",
+                "productModel": "VOYAGER",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE BELT TENSIONER FAILED, THERE WAS A RECALL ON THE CLOCK SPRING WHICH HAD BROKEN, THE TRANSAXLE PAN SIDE CONVERTER AND THE STEERING PUMP HAD RUSTED.*SCC  *JB",
+        "vin": "1P4GP45R2TB"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "02/05/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10006612,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "TOWN CAR",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "REAR SUSPENSION DROP CAUSING THE VEHICLE TO DROP LOWER TO THE GROUND. PLEASE PROVIDE ANY ADDITIONAL.   PH",
+        "vin": ""
+    }
+]

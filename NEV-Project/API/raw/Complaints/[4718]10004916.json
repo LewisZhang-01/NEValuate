@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "01/29/2003",
+        "dateOfIncident": "01/10/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 2,
+        "odiNumber": 10004916,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AIRBAGS DID NOT DEPLOY AND STEERING WHEEL DID NOT CALLAPSE ON IMPACT. SPEED ON IMPACT WAS ESTIMATED TO BE 50 MILES PER HOUR.",
+        "vin": "1FTYR14V4YP"
+    }
+]

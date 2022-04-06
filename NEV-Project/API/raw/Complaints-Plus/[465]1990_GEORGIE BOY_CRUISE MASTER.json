@@ -1,0 +1,46 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "12/10/1998",
+        "dateOfIncident": "08/01/1995",
+        "fire": false,
+        "manufacturer": "GEORGIE BOY MFG., LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 542965,
+        "products": [
+            {
+                "manufacturer": "GEORGIE BOY MFG., LLC",
+                "productMake": "GEORGIE BOY",
+                "productModel": "CRUISE MASTER",
+                "productYear": "1990",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CALIPER PISTON DEFECTIVE CAUSING OVERHEATING OF CALIPER DUE TO PISTON DESIGN.",
+        "vin": "3FCMF53G61J"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "12/09/1998",
+        "dateOfIncident": "08/18/1995",
+        "fire": false,
+        "manufacturer": "GEORGIE BOY MFG., LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 829697,
+        "products": [
+            {
+                "manufacturer": "GEORGIE BOY MFG., LLC",
+                "productMake": "GEORGIE BOY",
+                "productModel": "CRUISE MASTER",
+                "productYear": "1990",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER IS HAVING A PROBLEMS WITH THE BRAKE SYSTEM FADING WHEN THE CALIPER GETS REAL HOT. DEALER HAS BEEN CONTACTED.  *AK",
+        "vin": "3FCMF53G61J"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "03/17/2003",
+        "dateOfIncident": "10/15/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10011930,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE BRAKES LOCKED UP, WHICH CAUSED THE VEHICLE TO EXPERIENCE EXTENDED STOPPING DISTANCE.  *JB  THE CONSUMER LOST CONTROL AS HE DROVE THROUGH A PUDDLE OF FOUR INCH WATER DUE TO THE ELECTRONIC CONTROL MODULE SHORTING OUT WHICH CAUSED THE ANTILOCK TO FAIL.  SCC",
+        "vin": "2GCEK17T2X1"
+    }
+]

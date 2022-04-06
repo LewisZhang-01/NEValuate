@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "08/10/2008",
+        "dateOfIncident": "08/08/2008",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10237614,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "MUSTANG",
+                "productYear": "2007",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Pirelli Tire, LLC",
+                "productMake": "PIRELLI",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "VALVE STEM FAILURE IN 2007 MUSTANG.  ON AUG 3, BROUGHT MUSTANG INTO SEARS AUTOMOTIVE IN OCOEE.  UPON INSPECTION OF FAILED TIRE THEY FOUND FOUR VALVE STEAMS FAILED ON THE CAR. *TR",
+        "vin": "1ZVFT82HX75"
+    }
+]

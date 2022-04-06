@@ -1,0 +1,31 @@
+[
+    {
+        "components": "AIR BAGS,EQUIPMENT",
+        "crash": true,
+        "dateComplaintFiled": "03/16/2003",
+        "dateOfIncident": "03/13/2003",
+        "fire": false,
+        "manufacturer": "Subaru of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010563,
+        "products": [
+            {
+                "manufacturer": "Subaru of America, Inc.",
+                "productMake": "SUBARU",
+                "productModel": "FORESTER",
+                "productYear": "1998",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "MY SPOUSE HAD A MINOR ACCIDENT WITH OUR 1998 SUBARU FORESTER.  THE FRONTAL IMPACT CAUSED BOTH AIR BAGS TO DEPLOY.  THE PASSENGER SIDE AIR BAG WHEN IT DEPLOYED BROKE THE FRONT RIGHT SIDE (PASSENGER SIDE) DOOR WINDOW AND THE REAR VIEW MIRROR.  NO ONE WAS SEATING IN THE FRONT PASSENGER SEAT.  I BELIEVE THIS IS A DEFECT THAT MAY BE A RESULT OF THE AIR BAG IMPROPERLY INSTALLED OR ALIGNED.   *NLM",
+        "vin": "JF1SF6555WH"
+    }
+]

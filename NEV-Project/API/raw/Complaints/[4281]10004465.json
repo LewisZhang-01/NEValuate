@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "01/22/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004465,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "S10",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "UNDER RAINY CONDITIONS, CONSUMER STATES THE WINDSHIELD WIPERS WILL SUDDENLY STOP.  THEY MAY COME BACK ON OR MAY NOT.  CONSUMER FEELS UNSAFE DRIVING UNDER THESE CONDITIONS.  PLEASE PROVIDE ANY FURTHER INFORMATION. TS",
+        "vin": "1GCCS19Z6SK"
+    }
+]

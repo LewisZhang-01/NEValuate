@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "12/23/2017",
+        "dateOfIncident": "12/18/2015",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 11056214,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "MURANO",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FRACTURED STERNUM AS AIR BAG FAILED TO PROTECT OCCUPANT IN A CRASH. VEHICLE WAS MOVING AND HIT A VEHICLE THAT FAILED TO STOP AT STOP SIGN",
+        "vin": "JN8AZ1MWXEW"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "06/25/2004",
+        "dateOfIncident": "06/12/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022923,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-250",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "NHTSA RECALL 03-V-196-000: ON  CERTAIN PICKUP TRUCKS AND SPORT UTILITY VEHICLES, IF THE INTERMEDIATE SHAFT YOKE SEPARATES FROM THE STEERING GEAR INPUT SHAFT, THE STEERING SYSTEM BECOMES DISCONNECTED.  THIS VEHICLE HAS THE SAME PROBLEM. HOWEVER , IT IS  NOT COVERED UNDER  RECALL DUE TO THE VIN. *AK   *NM",
+        "vin": "1FTHW26F2VE"
+    }
+]

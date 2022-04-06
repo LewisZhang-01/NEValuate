@@ -1,0 +1,24 @@
+[
+    {
+        "components": "LATCHES/LOCKS/LINKAGES",
+        "crash": false,
+        "dateComplaintFiled": "10/20/1997",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "FLXIBLE CORPORATION",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 523667,
+        "products": [
+            {
+                "manufacturer": "FLXIBLE CORPORATION",
+                "productMake": "FLXIBLE",
+                "productModel": "METRO",
+                "productYear": "1989",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "HOOD LATCHES FAILED, CAUSING HOOD INNER PANEL TO BREAK.",
+        "vin": "JG1MR2169KK"
+    }
+]

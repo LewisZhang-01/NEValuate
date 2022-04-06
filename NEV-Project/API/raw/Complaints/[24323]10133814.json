@@ -1,0 +1,39 @@
+[
+    {
+        "components": "TIRES,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "08/22/2005",
+        "dateOfIncident": "07/18/2005",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10133814,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "TITAN",
+                "productYear": "2005",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Goodyear Tire & Rubber Company",
+                "productMake": "GOODYEAR",
+                "productModel": "MARATHON",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            },
+            {
+                "manufacturer": "FLEETWOOD ENTERPRISES, INC.",
+                "productMake": "FLEETWOOD",
+                "productModel": "ALL MODELS",
+                "productYear": "1990",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "DT:  THE TRAILER TIRE BLEW OUT WHILE THE CONSUMER WAS DRIVING AT 50 MPH.  THE TIRE  WRAPPED AROUND THE AXLE OF THE TRAILER AFTER THIS.  THE TIRE WAS ORIGINAL EQUIPMENT.  THE LOCATION WAS ON THE FRONT PASSENGER'S  SIDE.  THERE WAS NO ACCIDENT. A GOODYEAR, MARATHON.  *AK",
+        "vin": "1N6BA06A95N"
+    }
+]

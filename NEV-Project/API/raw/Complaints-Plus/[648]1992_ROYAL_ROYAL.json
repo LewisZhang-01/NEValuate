@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "07/27/1995",
+        "dateOfIncident": "04/20/1995",
+        "fire": false,
+        "manufacturer": "ROYAL INDUSTRIES",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 484532,
+        "products": [
+            {
+                "manufacturer": "ROYAL INDUSTRIES",
+                "productMake": "ROYAL",
+                "productModel": "ROYAL",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "RIGHT REAR TANDEM AXLE BROKE AT SHALLOW WELD. *DSH",
+        "vin": "47CT20P28N1"
+    }
+]

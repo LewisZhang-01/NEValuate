@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "04/09/2012",
+        "dateOfIncident": "04/07/2012",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10454514,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "MURANO",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVER'S SEAT FRAME BROKE IN 2 SPOTS.  METAL FATIGUE LIKELY CAUSE ON THIS CRITICAL COMPONENT.  *TR",
+        "vin": ""
+    }
+]

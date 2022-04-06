@@ -1,0 +1,46 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "02/27/2019",
+        "dateOfIncident": "02/13/2019",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11182719,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "SCION",
+                "productModel": "FR-S",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THROW OUT BEARING FAILING AT 48,500 MILES. DEALER REFUSED TO COVER REPAIR. THIS IS A KNOWN ISSUE FOR WHICH THERE IS A DEALER TSB WITH A REVISED PART AND BETTER GREASE THAT DOES NOT DRY OUT. ISSUE IS REVEALED BY SQUEALING SOUND AT START UP, WHICH DEALER REPLICATED AND CONFIRMED ISSUE IS BAD THROW OUT BEARING. QUOTED ME $850 FOR THE REPAIR. I HAVE NOT HAD A CLUTCH ISSUE IN 25 YEARS OF ONLY DRIVING MANUAL TRANSMISSION VEHICLES PRIOR.",
+        "vin": "JF1ZNAA14G9"
+    },
+    {
+        "components": "FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "02/20/2019",
+        "dateOfIncident": "02/01/2019",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11181394,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "SCION",
+                "productModel": "FR-S",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "HIGH PRESSURE FUEL PUMP NOISE AT IDLE COULD BE INDICATIVE OF MALFUNCTION",
+        "vin": "JF1ZNAA17G8"
+    }
+]

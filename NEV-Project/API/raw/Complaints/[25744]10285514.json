@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "09/28/2009",
+        "dateOfIncident": "09/27/2009",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10285514,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "MALIBU",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "TBC Corporation",
+                "productMake": "TBC",
+                "productModel": "SIGMA REGENT TOURING TR",
+                "productYear": "9999",
+                "size": "205/55R16",
+                "type": "Tire"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 2001 CHEVROLET MALIBU WITH TBC SIGMA TOURING TIRES, DOT # 3PSJE371406. THE CONTACT STATED THAT WHILE DRIVING 65 MPH HE FELT A VIBRATION FROM THE PASSENGER SIDE TIRE. UPON FURTHER INSPECTION, HE NOTICED THAT THE TIRE HAD BLOWN-OUT. NO REPAIRS HAVE BEEN MADE. THE TIRE HAS NOT BEEN INSPECTED BY THE DEALER.. THE FAILURE AND CURRENT  MILEAGES WERE 5000.",
+        "vin": "1G1ND52J416"
+    }
+]

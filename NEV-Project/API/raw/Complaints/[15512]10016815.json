@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": true,
+        "dateComplaintFiled": "05/01/2003",
+        "dateOfIncident": "04/10/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10016815,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SAFARI",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ABS FAILURE AT LOW SPEEDS. TRAVELING AT A SPEED OF 25 MPH APPLIED BRAKES TO STOP VECHILE, PEDAL STARTED PULSING AND DROPPED TO FLOOR. BRAKES NEVER SLOWED VECHILE AND CRASHED INTO REAR OF ANOTHER VECHILE. HAD ABOUT 4 CAR LENGHTS TO GET VECHILE STOPPED.",
+        "vin": "1GTDM19W5YB"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "08/14/2013",
+        "dateOfIncident": "07/12/2013",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10535614,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERCURY",
+                "productModel": "COUGAR",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CPSC: I1370321A. 1999 MERCURY COUGAR. CONSUMER STATED WHILE DRIVING, THE AIR BAG ON THE DRIVER SIDE DEPLOYED FOR NO REASON. *LN",
+        "vin": "1ZWHT61L0X5"
+    }
+]

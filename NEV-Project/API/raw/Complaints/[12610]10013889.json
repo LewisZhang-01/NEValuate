@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": true,
+        "dateComplaintFiled": "04/03/2003",
+        "dateOfIncident": "03/31/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10013889,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "AVALANCHE",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2ND TIME ABS FAILED, THE PEDAL HIT THE FLOOR WHILE BRAKING WHICH CAUSED AN ACCIDENT. THE FIRST TIME WAS AUGUST 2002 AND THE LAST ONE WAS MARCH 31ST 2003. EACH TIME DAMAGE WAS EXTENSIVE AND THE DEALER FOUND NOTHING WRONG WITH THE ABS",
+        "vin": "3GNEC13T72G"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "02/15/2003",
+        "dateOfIncident": "01/01/2003",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10007525,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "VOLKSWAGEN",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENTIRE INSTRUMENT PANEL (FUEL, TEMP, SPEEDOMETER, TACHOMETER AND ODOMETER DISPLAYS) FAILED DURING COLD WEATHER. MULTIPLE REPORTS OF THE SAME PROBLEM CAN BE FOUND VIA A GOOGLE NEWSGROUP SEARCH.",
+        "vin": "WVWGC83A2TE"
+    }
+]

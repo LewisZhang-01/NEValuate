@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN,VEHICLE SPEED CONTROL,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "05/16/2019",
+        "dateOfIncident": "05/10/2019",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11207964,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "GRAND CHEROKEE",
+                "productYear": "2019",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE LOST POWER ON HIGHWAY @ 65 - 70 MPH. OPERATOR WAS USING CRUISE CONTROL TO INCREASE AND DECREASE SPEED IN HEAVY TRAFFIC. OPERATOR PRESSED THE CRUISE OFF BUTTON AND THE VEHICLE LOST POWER TO IDLE AND WOULD NOT ACCELERATE. OPERATOR PULLED OVER AND SWITCHED THE VEHICLE ON AND OFF SEVERAL TIMES OVER ABOUT 5 MINUTES  BEFORE VEHICLE WOLD OPERATE NORMALLY AGAIN.",
+        "vin": "1C4RJEBG3KC"
+    }
+]

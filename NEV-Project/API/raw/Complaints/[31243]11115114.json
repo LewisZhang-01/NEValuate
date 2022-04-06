@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,AIR BAGS,ELECTRONIC STABILITY CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "08/01/2018",
+        "dateOfIncident": "07/14/2018",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11115114,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "VERANO",
+                "productYear": "2016",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SERVICE TIRE MONITOR SYSTEM, TIRE PRESSURE NOT READING PROPERLY, SERVICE BATTERY CHARGING SYSTEM, BATTERY SAVER ACTIVE, SERVICE POWER STEERING, SERVICE AIR BAG, RADIO POWERS OFF & ON WHILE DRIVING. ALL LIGHT INDICATORS",
+        "vin": "1G4PW5SK7G4"
+    }
+]

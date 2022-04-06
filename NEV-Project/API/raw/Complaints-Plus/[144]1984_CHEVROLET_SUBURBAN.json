@@ -1,0 +1,134 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "07/27/2007",
+        "dateOfIncident": "07/25/2007",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10197710,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1984",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "I WAS DISCUSSING A FRIEND'S BRAKE ROTOR REPLACEMENT WITH HIM ONLY TO FIND OUT THAT HIS PARTICULAR YEAR, MAKE, AND MODEL COULD HAVE AS MANY AS FIVE DIFFERENT DISKS, ALL OF WHICH SEEM TO BE INTERCHANGEABLE, UNTIL YOU TEST OUT THE VEHICLE AFTER COMPLETION. IS THERE ANY WAY OF TELLING THE RIGHT PARTS FOR HIS SPECIFIC VEHICLE? *JB",
+        "vin": "1G8EC16LXEF"
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "08/16/2001",
+        "dateOfIncident": "08/15/2001",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 750566,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1984",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TRAVELING @ APPROXIMATELY 65MPH ON A CONCRETE HIGHWAY TODAY, THE TIRE PREVIOUSLY MENTIONED, A FIRESTONE TIRE MODEL STEELTEX, SIZE LT235/85R16, WITH A DOT NUMBER VDOR CRA244, TOTALLY AND UNEXPECTEDLY BLEW APART.  MY WIFE WAS DRIVING AT THE TIME AND HAD TO FIGHT TO KEEP FROM LOOSING CONTROL. I WILL BE CONTACTING FIRESTONE POSSIBLY AS SOON AS TOMORROW. PLEASE ADVISE IF YOU NEED ANY FURTHER INFORMATION A.S.A.P.*AK (DOT NUMBER: VDORCRA244  TIRESIZE: SEE ABOVE)",
+        "vin": "1G8GC26M2EF"
+    },
+    {
+        "components": "TIRES",
+        "crash": true,
+        "dateComplaintFiled": "08/10/2000",
+        "dateOfIncident": "07/29/2000",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 5,
+        "odiNumber": 867340,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1984",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING ABOUT 65 MPH, THE CONSUMER  LOST CONTROL OF VEHICLE AND ROLLED OVER ON ITS RIGHT SIDE.  LATER FOUND OUT THAT A REAR LEFT FIRESTONE FIREHAWK TIRE HAD A BLOWOUT.  *AK   DOT # IS VDYK4RA295.   *SLC",
+        "vin": "1G8EC16L2EF"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "06/07/2000",
+        "dateOfIncident": "06/05/2000",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 863181,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1984",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN APPLYING BRAKES IN A SUDDEN STOP, IT CAUSED  BRAKE PEDAL TO GO DOWN TO THE FLOOR, AND  BRAKES DID NOT RESPOND. VEHICLE WAS TAKEN TO AN INDEPENDENT SHOP. CONSUMER WAS INFORMED THAT NOTHING COULD BE FOUND. DEALER / MANUFACTURER WERE NOT NOTIFIED AT THIS TIME. FEEL FREE TO PROVIDE FURTHER DETAILS. *AK",
+        "vin": "1G8GC26WXEF"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "11/25/1997",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 525409,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1984",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ANTI LOCK BRAKES FAIL WHEN DRIVING OVER BUMPS OR IN WET WEATHER.",
+        "vin": "1GNGK26K0JL"
+    },
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "05/21/1997",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 812421,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1984",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "UNDER NORMAL CONDITIONS DOOR LATCHES AND LOCKS POP OPEN FOR NO REASON.  *AK",
+        "vin": ""
+    }
+]

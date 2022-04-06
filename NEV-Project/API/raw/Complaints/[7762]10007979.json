@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "02/22/2003",
+        "dateOfIncident": "02/10/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 2,
+        "odiNumber": 10007979,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "BUICK",
+                "productModel": "LESABRE",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AIRBAG DEPLOYMENT CAUSED DISLOCATED BROKEN THUMB AND POSSIBLE PERMANENT INJURY.  ON SECOND PASSENGER, SEVERE TINNINTUS POSSIBLY FROM AIR BAG EXPLOSION.",
+        "vin": "1G4HP52K5VH"
+    }
+]

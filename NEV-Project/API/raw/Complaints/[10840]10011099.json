@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "03/07/2003",
+        "dateOfIncident": "03/03/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10011099,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "PLYMOUTH",
+                "productModel": "GRAND VOYAGER",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE SLIDING DOOR OPENED, EVEN IF THE DOOR WAS LOCKED.  *JB  THE PASSENGER SLIDING DOOR WILL NOT STAY ON TRACK.  THE CONSUMER WAS TOLD THAT THE DOOR NEEDED A NEW LATCH.  SCC",
+        "vin": "1P4GH44RIPX"
+    }
+]

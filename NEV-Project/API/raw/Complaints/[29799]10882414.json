@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "07/04/2016",
+        "dateOfIncident": "07/01/2016",
+        "fire": false,
+        "manufacturer": "Hyundai Motor America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10882414,
+        "products": [
+            {
+                "manufacturer": "Hyundai Motor America",
+                "productMake": "HYUNDAI",
+                "productModel": "SANTA FE",
+                "productYear": "2017",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FROM STOP, OR NEAR STOP, ENGINE CUTS OUT (STUMBLES) DURING NORMAL ACCELERATION.",
+        "vin": "KM8SR4HF5HU"
+    }
+]

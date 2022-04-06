@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "05/28/2003",
+        "dateOfIncident": "05/23/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10020660,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "E-250",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "STEERING BOX FAILURE.  SET SCREW ON RACE NUT BACKED OUT CAUSING GEAR RACE NUT TO COMPLETELY BACK OUT CAUSING GEAR INPUT SHAFT TO MOVE AND BIND ON GEAR VALVE HOUSING.  THIS CAUSED MY STEERING TO LOCK UP TO THE RIGHT AND FORCE ME OFF THE FREEWAY AT 45 MPH.",
+        "vin": "1FTHS24L5VH"
+    }
+]

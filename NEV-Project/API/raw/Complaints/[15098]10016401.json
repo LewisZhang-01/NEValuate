@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "04/23/2003",
+        "dateOfIncident": "04/22/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10016401,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "GRAND CHEROKEE",
+                "productYear": "1999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "B.F. GOODRICH TIRE CO.",
+                "productMake": "B.F.GOODRICH",
+                "productModel": "B.F.GOODRICH",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "B.F. GOODRICH TRAIL A/P P245/70 R16  106S M+S SIDEWALL BLOWOUT. DOT BF9LF93J. THIS IS THE 2ND REAR TIRE SIDEWALL BLOWOUT ON THESE TIRES IN 6 MONTHS. THE FIRST OCCURRED 3 MONTHS AGO AT 40 MPH, YESTERDAYS OCCURRED AT 65 MPH. THE UTAH HIGHWAY PATROL STATED THAT WHEN THE FRONT TIRES BLOWOUT, THERE MOST LIKELY WILL BE FATALITIES AND PROPERTY DAMAGE. THESE TIRES ARE DEFECTIVE.   *JB",
+        "vin": ""
+    }
+]

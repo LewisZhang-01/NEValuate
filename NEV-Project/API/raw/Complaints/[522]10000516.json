@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN,SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "01/04/2003",
+        "dateOfIncident": "01/04/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000516,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "WINDSTAR",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVER FRONT SEATBELT MALFUNCTIONING, PERSISTENT VIBRATION IN RT FRONT END AT 60-65MPH NOT CURED BY NEW STRUTS, SWAY BAR LINKS, SPRINGS ALIGNMENT, MULTIPLE WHEEL BALANCE. TS",
+        "vin": "2FMDA5149WB"
+    }
+]

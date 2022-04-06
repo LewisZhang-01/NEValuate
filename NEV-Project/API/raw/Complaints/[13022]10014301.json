@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC,VEHICLE SPEED CONTROL",
+        "crash": true,
+        "dateComplaintFiled": "04/12/2003",
+        "dateOfIncident": "02/28/2003",
+        "fire": false,
+        "manufacturer": "Land Rover",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10014301,
+        "products": [
+            {
+                "manufacturer": "Land Rover",
+                "productMake": "LAND ROVER",
+                "productModel": "DISCOVERY",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE BRAKE AND GAS PEDALS ARE TOO CLOSE TO EACH OTHER AND ALMOST AT THE SAME LEVEL THAT YOU CAN STEP BOTH PEDALS AT THE SAME TIME. THIS CAUSES THE CAR TO SURGE FORWARD.  *NLM",
+        "vin": "SALTR14463A"
+    }
+]

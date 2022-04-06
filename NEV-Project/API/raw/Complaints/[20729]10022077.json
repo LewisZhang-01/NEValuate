@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "06/03/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022077,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE EXCESSIVELY VIBRATES WHEN DRIVING.  DEALER HAS REPLACED 3 OF 4 ORIGINAL TIRES, BUT PROBLEM STILL EXISTS.  HAS NOT BEEN ABLE TO DIAGNOSE ANY OTHER CAUSE.*AK",
+        "vin": "1GCHK29133E"
+    }
+]

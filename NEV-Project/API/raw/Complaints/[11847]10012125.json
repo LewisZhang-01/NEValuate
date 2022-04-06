@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "03/19/2003",
+        "dateOfIncident": "03/19/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10012125,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERCURY",
+                "productModel": "COUGAR",
+                "productYear": "9999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "A LIGHT INSIDE THE VEHICLE FLASHED ON AND OFF, AND THEN THE VEHICLE STALLED.              *JB",
+        "vin": "PLEASE FILL"
+    }
+]

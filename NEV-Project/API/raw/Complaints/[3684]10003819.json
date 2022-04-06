@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "01/27/2003",
+        "dateOfIncident": "04/20/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003819,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Bridgestone Americas Tire Operations",
+                "productMake": "FIRESTONE",
+                "productModel": "WILDERNESS HT",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE CONSUMER EXPERIENCED CONSTANT VIBRATION IN THE TIRES WHILE TRAVELING, APPROXIMATELY A FEW WEEKS AFTER THE VEHICLE WAS PURCHASED.  THE DEALER STATED THAT THERE IS TREAD USAGE IN THE FRONT END AND SOMETHING MAY BE WRONG WITH THE TRANSMISSION.  SCC",
+        "vin": "1FTYR14V31T"
+    }
+]

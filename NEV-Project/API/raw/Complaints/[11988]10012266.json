@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "03/24/2003",
+        "dateOfIncident": "03/20/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10012266,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "PROBE",
+                "productYear": "1990",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLES AUTOMATIC SEAT BELT TRACK FAILED. DEALER NOTIFIED.  *NLM  THE DRIVER SIDE SEAT BELT WAS REPLACED.  ON ANOTHER OCCASION THE PASSENGER SIDE FAILED.  THE DEALER WOULD NOT REPLACE.  SCC",
+        "vin": "1ZVPT20C0L5"
+    }
+]

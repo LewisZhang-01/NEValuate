@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE,VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "06/04/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10022323,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "QUEST",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ACCELERATOR CABLE CONTINUOUSLY STICKS. THIS IS CAUSED BY DEBRIS IN THE FUEL INJECTION SYSTEM.  *AK",
+        "vin": "4N2XN11T8XD"
+    }
+]

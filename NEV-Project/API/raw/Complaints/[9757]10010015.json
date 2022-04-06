@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "03/18/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "MONACO COACH CORPORATION",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010015,
+        "products": [
+            {
+                "manufacturer": "MONACO COACH CORPORATION",
+                "productMake": "HOLIDAY RAMBLER",
+                "productModel": "RAMBLER",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "MICHELIN TIRE CORP.",
+                "productMake": "MICHELIN",
+                "productModel": "MICHELIN",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE VEHICLE EXPERIENCED 4 BLOW OUTS ON THE SIDEWALL, CONSUMER BELIEVED A BUBBLE FORMED BEFORE THE BLOW OUTS OCCURRED, THE LAST BLOW OUT CAUSED DAMAGE TO THE VEHICLE.  *AK   *JB",
+        "vin": ""
+    }
+]

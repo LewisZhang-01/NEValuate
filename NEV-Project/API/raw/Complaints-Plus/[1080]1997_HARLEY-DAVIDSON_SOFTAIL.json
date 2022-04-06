@@ -1,0 +1,24 @@
+[
+    {
+        "components": "WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "09/24/2002",
+        "dateOfIncident": "05/24/2002",
+        "fire": false,
+        "manufacturer": "Harley-Davidson Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 8019309,
+        "products": [
+            {
+                "manufacturer": "Harley-Davidson Motor Company",
+                "productMake": "HARLEY-DAVIDSON",
+                "productModel": "SOFTAIL",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AT 40-45 MPH FRONT TIRE WENT FLAT. RIM HAD SPLIT, CAUSING THE TUBE TO GET PINCHED.",
+        "vin": "ADD"
+    }
+]

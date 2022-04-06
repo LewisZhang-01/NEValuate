@@ -1,0 +1,882 @@
+[
+    {
+        "components": "STEERING,ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "05/08/2014",
+        "dateOfIncident": "05/01/2014",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10585911,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAPRICE",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "1986 CHEVY CAPRICE.  CONSUMER WRITES IN REGARDS TO VEHICLE DIED WHILE DRIVING, IGNITION IS DAMAGED AND STEERING COLUMN PROBLEMS.  *SMD  THE CONSUMER NO MORE THAN 2 MINUTES AFTER THE LEAVING THE DEALER, THE VEHICLE STALLED AGAIN. HE RETURNED THE DEALER TO HAVE THEM LOOK AT THE VEHICLE AGAIN. THE DEALER CALLED THE CONSUMER, AND INFORMED HIM, THEY DIDN'T WANT TO WORK ON THE VEHICLE, BECAUSE THEY HAD NO CLUE AS TO WHAT WAS WRONG WITH IT. *JB",
+        "vin": ""
+    },
+    {
+        "components": "FUEL SYSTEM, GASOLINE,STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "06/17/2001",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 746953,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAPRICE",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE HOOD AND  TRUNK, WAS NEVER PAINTED CORRECTLY FROM THE FACTORY. *AK",
+        "vin": "1G1BN69H7GY"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "02/01/2001",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 559352,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAPRICE",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE HOUSING OF THE POWER MASTER CYLINDER (CAST) BROKE AND OPENED UP WHICH CAUSED THE FLUID TO LEAK OUT.  NLM",
+        "vin": "1G1BN35Y0GX"
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "12/28/2000",
+        "dateOfIncident": "10/01/1998",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 558435,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAPRICE",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE HAD VIBRATION AND BUMPING SOUND IN FRONT END, UPON INSPECTION OF FRONT END CONSUMER NOTICED TREAD SEPARATION AND BLISTER 2/3 AROUND ONE TIRE AND 1/4 AROUND THE OTHER (FIRESTONE TRIUMPH 2000- 205-75-R15 M/S)",
+        "vin": ""
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "10/25/2000",
+        "dateOfIncident": "09/17/2000",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 556862,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAPRICE",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE TREAD SEPARATED FROM THE TIRE CAUSING DAMAGE TO THE VEHICLE (FIRESTONE SUPREME 225/75-15).  NLM",
+        "vin": ""
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "05/06/1999",
+        "dateOfIncident": "05/05/1999",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 837569,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAPRICE",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "INTERMITTENTLY WHEN BRAKES ARE APPLIED PEDAL BECOMES HARD, RESULTING IN EXTENDED STOPPING DISTANCE.  THE DEALER AND MANUFACTURER HAVE BEEN NOTIFIED.  *AK",
+        "vin": "1G1BN35Y8GX"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "02/19/1999",
+        "dateOfIncident": "03/14/1997",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 835051,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAPRICE",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING AT ANY SPEED AND APPLYING THE BRAKES, BAKES GO STRAIGHT TO THE FLOORBOARD.  *AK",
+        "vin": ""
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "12/28/1998",
+        "dateOfIncident": "11/28/1998",
+        "fire": true,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 543141,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAPRICE",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENGINE OVERHEATED AND CAUGHT FIRE. (OHIO TRAFFIC CRASH REPORT).",
+        "vin": ""
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "09/02/1998",
+        "dateOfIncident": "08/01/1998",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 540753,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAPRICE",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKES FAILED.",
+        "vin": "1G1BN35Y8G9"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC,ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "08/11/1998",
+        "dateOfIncident": "03/01/1992",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 826522,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAPRICE",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE STALLED AND BRAKES DIDN'T WORK.  THEY GOT  HARD, THE PEDAL WOULDN'T MOVE AT AL., DRIVING AT 10 MPH, INCLINE TOWARDS RED LIGHT,  CAR WOULD NOT STOP, MANAGED TO SLOW DOWN.   DEALER STATES THEY HAVE REPAIRED BEFORE, AND CANNOT DUPLICATE THE PROBLEM BECAUSE OF VARIOUS WORKMANSHIP.   *AK",
+        "vin": "1G1BN3549G9"
+    },
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "07/15/1998",
+        "dateOfIncident": "07/15/1998",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 538345,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAPRICE",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVER'S SIDE SEAT BELT BUCKLE BROKE.",
+        "vin": "1G1BN69H3GX"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "06/11/1998",
+        "dateOfIncident": "06/01/1998",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 824209,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAPRICE",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE BRAKES GOT HARD AND THE PEDAL WOULD NOT GO DOWN. DRIVER HAD TO STAND ON THE PEDAL WITH TWO FEET TO STOP, SHE PUT IT IN NEUTRAL TO GET THE CAR TO STOP.  THE DEALER HAS HAD OTHER PROBLEMS WITH THESE BRAKES. THE BRAKES ARE NO LONGER USED. DEALER OFFERED TO REPLACE BRAKES WITH THE SAME STYLE FOR A FEE.  WHEN CONSUMER DRIVES AT 45-55MPH ON WET AND DRY PAVEMENTS THE PROBLEM IS THE SAME.  THERE IS NO RECALL.  *AK",
+        "vin": "1G1BN35Y3G9"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "05/12/1998",
+        "dateOfIncident": "05/01/1998",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 823222,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAPRICE",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKE PROBLEMS; WHEN APPLYING THE BRAKES THE HYDRAULIC BRAKE SYSTEM DOES NOT WORK,  IT GOES TO MANUAL. WHEN APPLYING THE BRAKES AT LOW SPEEDS (30-40 MPH) THE PEDAL REMAINS STIFF. THE PROLBEM HAS NOT BEEN CORRECTED.  *AK",
+        "vin": "1G1BN35YXGX"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "01/02/1997",
+        "dateOfIncident": "07/09/1996",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 513392,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAPRICE",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "POWER MASTER BRAKE ASSEMBLY LEAKS , CAUSING BRAKE FAILURE POOR RECALL REPAIR.",
+        "vin": "1G1BN35H7G9"
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "11/27/1996",
+        "dateOfIncident": "09/10/1996",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 511860,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAPRICE",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TWO DUNLOP  TIRES REPLACED DUE TO DEFECTS, 1 RADIAL BELT FAILURE/THE OTHER HAD 'BALLONS' RISING THROUGH THE TREAD.",
+        "vin": "1G1BN35Y9GX"
+    },
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "09/03/1996",
+        "dateOfIncident": "08/31/1996",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 801743,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAPRICE",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUEL LINE AND VAPOUR LINE HAS CATASTROPHIC RUST OUT OF ABOUT 3 OR 4 FT.  FUEL LINE LEAKS NEAR AREA OF CATALYTIC CONVERTER, CAUSING POTENTIAL FOR FIRE.*AK  *SLC",
+        "vin": "1G1BL6961G9"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "05/05/1996",
+        "dateOfIncident": "04/01/1996",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 504124,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAPRICE",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKES FAILED. *DSH",
+        "vin": "1G1BN35K4GX"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "04/04/1996",
+        "dateOfIncident": "04/01/1995",
+        "fire": true,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 982348,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAPRICE",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER PARKED CAR AND CAUGHT ON FIRE. PLEASE DESCRIBE .  *AK",
+        "vin": ""
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "03/01/1996",
+        "dateOfIncident": "02/01/1996",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 979974,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAPRICE",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKE POWER BOOSTER HAS FAILED, TOTAL LOSS OF BRAKES.  *AK",
+        "vin": "1G1BN35Y8GX"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "03/01/1996",
+        "dateOfIncident": "02/01/1996",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 979974,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAPRICE",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKE POWER BOOSTER HAS FAILED, TOTAL LOSS OF BRAKES.  *AK",
+        "vin": "1G1BN35Y8GX"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "02/12/1996",
+        "dateOfIncident": "01/19/1996",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 979081,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAPRICE",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FAILURE OF THE BRAKES CAUSED THE CONSUMER TO HAVE A NEAR ACCIDENT.  TT",
+        "vin": "1G1BN35Y6GX"
+    },
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "12/15/1995",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 976677,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAPRICE",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "PURCHASE CAR USED SOMETIMES THE SEAT BELT BUCKLE CAME LOOSE WILL NOT LOCK .  TT",
+        "vin": ""
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "12/14/1995",
+        "dateOfIncident": "09/26/1995",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 976620,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAPRICE",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ELECTRICAL MASTER CYLINDER FAILED, TOTAL LOSS OF BRAKING.  TT",
+        "vin": "1G1BN35Y9G9"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "11/21/1995",
+        "dateOfIncident": "05/11/1988",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 975264,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAPRICE",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKING PROBLEMS.   TT  MASTER CYLINDER KEEPS FAILING, CONSUMER STATES RECALL 86C27 WAS COMPLETE, HOWEVER PROBLEMS CONTINUE.   *SLC",
+        "vin": "1G1BN35H5G9"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "10/31/1995",
+        "dateOfIncident": "01/01/1988",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 974198,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAPRICE",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "EXPERIENCING POWER BRAKE ASSIST MALFUNCTIONS.  PLEASE GIVE MORE DETAILS.  TT",
+        "vin": ""
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "05/11/1995",
+        "dateOfIncident": "05/01/1995",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 486170,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAPRICE",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKES FAILED.  *SKD",
+        "vin": "1G1BN35Y66X"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "05/10/1995",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 965069,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAPRICE",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "MASTER CYLINDER FAILED, RESULTING BRAKE PEDAL BECOMING HARD. PLEASE DESCRIBE DETAILS.  TT",
+        "vin": ""
+    },
+    {
+        "components": "SEATS",
+        "crash": true,
+        "dateComplaintFiled": "04/04/1995",
+        "dateOfIncident": "09/04/1993",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 963061,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAPRICE",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "UPON REAR END COLLISION BENCH SEAT COLLAPSED. METAL WAS NOT OF SUFFICENT STRENGTH.  TT",
+        "vin": "1G1BN35H36X"
+    },
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "02/02/1995",
+        "dateOfIncident": "07/11/1994",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 480143,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAPRICE",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CRUISE CONTROL FAILED.  *SKD",
+        "vin": "1G1BN35H6GX"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "02/02/1995",
+        "dateOfIncident": "07/11/1994",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 480143,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAPRICE",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "POWER BRAKES FAILED, CAUSING LOSS OF CONTROL.  *SKD",
+        "vin": "1G1BN35H6GX"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "01/27/1995",
+        "dateOfIncident": "10/28/1994",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 480024,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAPRICE",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "POWER MASTER PUMP/MOTOR REPLACED TWICE DUE TO FAILURE.",
+        "vin": "1G1BN35H2GX"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "01/27/1995",
+        "dateOfIncident": "11/30/1990",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 480024,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAPRICE",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FRONT BRAKES REPLACED DUE TO BRAKE FAILURES PRIOR TO RECALL.",
+        "vin": "1G1BN35H2GX"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "01/27/1995",
+        "dateOfIncident": "11/12/1990",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 480024,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAPRICE",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKE LINE REPLACED DUE TO LEAK.  *SKD",
+        "vin": "1G1BN35H2GX"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "01/27/1995",
+        "dateOfIncident": "11/30/1990",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 480024,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAPRICE",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "REAR BRAKE DRUM REPLACED.",
+        "vin": "1G1BN35H2GX"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "01/27/1995",
+        "dateOfIncident": "11/30/1990",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 480024,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAPRICE",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "REAR BRAKES REPLACED.",
+        "vin": "1G1BN35H2GX"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "01/27/1995",
+        "dateOfIncident": "11/30/1990",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 480024,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAPRICE",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FRONT ROTORS CUT.",
+        "vin": "1G1BN35H2GX"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "01/27/1995",
+        "dateOfIncident": "01/27/1995",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 482425,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAPRICE",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKES FAILED PRIOR TO RECALL.  *AW",
+        "vin": "1G1BN35H2GX"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "12/16/1994",
+        "dateOfIncident": "10/12/1993",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 479123,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAPRICE",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "MASTER CYLINDER FAILED TWICE.   *AK",
+        "vin": "1G1BN35Y6GX"
+    },
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "11/15/1994",
+        "dateOfIncident": "11/15/1994",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 476487,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAPRICE",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SCREWS IN TILT STEERING COLUMN LOOSENED, ALLOWING STEERING WHEEL TO MOVE UP/DOWN.  *AW",
+        "vin": ""
+    },
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "10/11/1994",
+        "dateOfIncident": "10/11/1994",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 474227,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAPRICE",
+                "productYear": "1986",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BOLTS HOLDING STEERING COLUMN LOOSENED, CAUSING  STEERING WHEEL TO FLOP UPWARD AND SIDEWAYS.  (OTHER VEHICLE ON 479671)  *SKD",
+        "vin": ""
+    }
+]

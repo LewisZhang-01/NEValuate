@@ -1,0 +1,24 @@
+[
+    {
+        "components": "PARKING BRAKE",
+        "crash": true,
+        "dateComplaintFiled": "07/03/2003",
+        "dateOfIncident": "04/01/2002",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017647,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "productYear": "1989",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE CONSUMER SET THE PARKING BRAKE AND EXITED VEHICLE.  WITHOUT WARNING THE PARKING BRAKE RELEASED WHICH CAUSED THE VEHICLE TO ROLL BACKWARD WHICH RESULTED IN A COLLISION.  THERE WAS A RELATED RECALL 02V041000, HOWEVER THE VEHICLE IDENTIFICATION NUMBER WAS NOT INCLUDED IN THE RECALL.   *JB   *CB   *NLM",
+        "vin": "2J4FY19E1KJ"
+    }
+]

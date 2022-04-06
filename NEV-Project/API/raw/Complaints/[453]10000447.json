@@ -1,0 +1,31 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "12/31/2002",
+        "dateOfIncident": "12/31/2002",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000447,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "PASSAT",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "PASSAT",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FAILED COIL PACK ON VEHICLE AFTER ONLY 16000 MILES.  DEALER SERVICE ADVISER STATED THAT VW IS AWARE OF THIS PROBLEM IN ALL 2001 THRU 2003 VW PASSATS WITH 1.8 LITER TURBO ENGINES.  SERVICE ADVISER STATED THAT VW IS HAVING SO MANY FAILURES ON THIS PRODUCT THAT THE PART HAD TO BE ORDERED THROUGH VIN DIRECT FROM GERMANY.  THEY WILL NOT REPLACE ALL FOUR COILS, ONLY THE FAILED ITEMS.  VEHICLE FAILED ON HIGHWAY AND BECAME A SAFETY HAZARD TO OTHER MOTORISTS UNTIL I COULD NEGOTIATE TO SAFE AREA TO INVESTIGATE FAILURE. TS",
+        "vin": ""
+    }
+]

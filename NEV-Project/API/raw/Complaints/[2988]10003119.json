@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "01/21/2003",
+        "dateOfIncident": "01/21/2001",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003119,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "SENTRA",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "MY VEHICLE BROKE DOWN THIS MORNING, THE PROBLEM IS AN ACTIVE RECALL THAT NISSAN IS NOW PERFORMING ON MY VEHICLE. THE BREAKDOWN AND DIAGNOSTIC CHECKOUT OF THE MY VEHICLE REPLICATES THE SAME VEHICLE, YEAR AND PROBLEM THAT NISSAN IS REPAIRING EXCEPT THEY SAY THAT MY VIN NUMBER IS NOT ON THE RECALL LIST.",
+        "vin": "3N1CB51D41L"
+    }
+]

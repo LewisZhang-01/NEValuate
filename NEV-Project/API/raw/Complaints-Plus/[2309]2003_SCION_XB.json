@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "08/21/2008",
+        "dateOfIncident": "08/19/2008",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10239204,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "SCION",
+                "productModel": "XB",
+                "productYear": "2003",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Cooper Tire & Rubber Co.",
+                "productMake": "COOPER",
+                "productModel": "COOPER LIFELINER TOURING SLE     (T-RATED)",
+                "productYear": "9999",
+                "size": "185/60R15",
+                "type": "Tire"
+            }
+        ],
+        "summary": "A COOPER LIFELINER TOURING TIRE WITH LESS THAN EIGHT THOUSAND MILES ON IT (PURCHASED APP. EIGHT MONTHS AGO) FAILED ON MY WIFE'S CAR. NO PUNCTURE, NO SIGN OF TREAD DAMAGE, BUT THE SIDEWALL OF THE TIRE BURST OPEN. THERE WAS NO IMPACT WITH ANY OBJECT OR CURB, THE CAR WAS TRAVELING AT AROUND 50 MILES PER HOUR. TIRE INFLATION AND ROAD CONDITION WERE OPTIMAL. NO INJURIES OR DAMAGE TO VEHICLE.     TIRE SIZE: 185/60 R15  DOT CODE: DOT UT 90 C53 2806.  *TR",
+        "vin": ""
+    }
+]

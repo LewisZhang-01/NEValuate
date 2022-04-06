@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": true,
+        "dateComplaintFiled": "04/23/2003",
+        "dateOfIncident": "01/31/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 1,
+        "numberOfInjuries": 15,
+        "odiNumber": 10016426,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "E-350",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ACCIDENT WHICH OCCURRED IN EAST ST. LOUIS, ILLINOIS INVOLVING A FORD E-350 15 PASSENGER VAN. DRIVER LOST CONTROL OF VEHICLE, WHICH THEN LEFT THE ROAD AND ROLLED ONTO ITS SIDE. VAN WAS TOP HEAVY, TOO DIFFICULT TO CONTROL, BEGAN FISHTAILING AND ROLLED OVER. DESIGN DEFECT AND FAILURE TO WARN.    *JB",
+        "vin": "1FBSS31L7YH"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "03/14/2003",
+        "dateOfIncident": "03/10/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010483,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "GRAND PRIX",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FAILURE OF THE IGNITION WIRES & PLUGS FOR THE SECOND TIME IN 3 YEARS.  *JB",
+        "vin": "1G2WJ12X7TF"
+    }
+]

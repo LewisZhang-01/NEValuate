@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "05/13/2003",
+        "dateOfIncident": "02/01/2003",
+        "fire": true,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018623,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "SHADOW",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ELECTRICAL, TAIL LAMP, BRAKE LAMP WIRING, AND WIRING HARNESS.  *JB",
+        "vin": "1B3AP68K9RN"
+    }
+]

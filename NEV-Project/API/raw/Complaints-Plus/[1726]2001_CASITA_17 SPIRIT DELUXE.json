@@ -1,0 +1,106 @@
+[
+    {
+        "components": "LATCHES/LOCKS/LINKAGES",
+        "crash": false,
+        "dateComplaintFiled": "09/29/2014",
+        "dateOfIncident": "09/21/2014",
+        "fire": false,
+        "manufacturer": "Casita Enterprises, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10639990,
+        "products": [
+            {
+                "manufacturer": "Casita Enterprises, Inc.",
+                "productMake": "CASITA",
+                "productModel": "17 SPIRIT DELUXE",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2010 (NA) CASITA 17 FREEDOM (NA) DELUXE. THE CONTACT STATED THAT THE DOOR LOCK FAILED AND PREVENTED THE DOORS FROM OPENING FROM THE INSIDE AND OUTSIDE. THE LOCK ASSEMBLY HAD TO BE TAKEN APART IN ORDER TO EXIT THE VEHICLE. THE VEHICLE WAS REPAIRED. THE MANUFACTURER WAS NOTIFIED OF THE FAILURE. THE FAILURE MILEAGE WAS UNKNOWN.",
+        "vin": "1C9TB1714A1"
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "07/12/2004",
+        "dateOfIncident": "07/11/2004",
+        "fire": false,
+        "manufacturer": "Casita Enterprises, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10080860,
+        "products": [
+            {
+                "manufacturer": "Casita Enterprises, Inc.",
+                "productMake": "CASITA",
+                "productModel": "17 SPIRIT DELUXE",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "CARLISLE TIRE & RUBBER CO",
+                "productMake": "CARLISLE",
+                "productModel": "CARLISLE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "TIRE BLOWOUT ON CASITA TRAVEL TRAILER FOR THE THIRD TIME.  *LA",
+        "vin": ""
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/15/2003",
+        "dateOfIncident": "06/15/2001",
+        "fire": false,
+        "manufacturer": "Casita Enterprises, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10023098,
+        "products": [
+            {
+                "manufacturer": "Casita Enterprises, Inc.",
+                "productMake": "CASITA",
+                "productModel": "17 SPIRIT DELUXE",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "CARLISLE TIRE & RUBBER CO",
+                "productMake": "CARLISLE",
+                "productModel": "CARLISLE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "MULTIPLE TIRE FAILURE.  TWO BLOWOUTS WITHIN 15 MILES.   *NLM",
+        "vin": "1C9TB171911"
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "10/21/2002",
+        "dateOfIncident": "10/20/2002",
+        "fire": false,
+        "manufacturer": "Casita Enterprises, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 768695,
+        "products": [
+            {
+                "manufacturer": "Casita Enterprises, Inc.",
+                "productMake": "CASITA",
+                "productModel": "17 SPIRIT DELUXE",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BELT SEPARATED WITH LIGHTLY LOADED TRAILER, 2ND IN LESS THAN 8,000 MILES.  DT",
+        "vin": "1C9TB171911"
+    }
+]

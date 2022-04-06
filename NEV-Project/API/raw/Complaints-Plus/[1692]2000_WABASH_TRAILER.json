@@ -1,0 +1,120 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "09/16/2009",
+        "dateOfIncident": "08/27/2009",
+        "fire": false,
+        "manufacturer": "Wabash National Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10285369,
+        "products": [
+            {
+                "manufacturer": "Wabash National Corporation",
+                "productMake": "WABASH",
+                "productModel": "TRAILER",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2008 VOLVO SEMI WAS TOWING 2000 WABASH TRAILER THAT HAD A REAR TIRE BLOW OUT. THE DEBRIS FROM THE BLOW OUT FLEW BACK AND STRUCK ANOTHER VEHICLE CAUSING DAMAGE.  *KB  OHIO TRAFFIC CRASH REPORT # 10-0762-90. *JB",
+        "vin": "1JJV532W4YL"
+    },
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "08/02/2007",
+        "dateOfIncident": "07/01/2007",
+        "fire": false,
+        "manufacturer": "Wabash National Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10198259,
+        "products": [
+            {
+                "manufacturer": "Wabash National Corporation",
+                "productMake": "WABASH",
+                "productModel": "TRAILER",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AIR RIDE SUSPENSION ON WABASH NATIONAL SEMI TRAILERS MODEL YEARS 2000 AND 2001. HAVE STRESS CRACKS ON SUSPENSION AXLE HANGERS.  AXLE ASSEMBLY IS REPRESENTED AS WABASH NATIONAL AIRRIDE SYSTEM BUT IS IN FACT MADE BY NEWAY.  TRAILERS WILL NOT PASS DOT INSPECTION AND HAVE BEEN PULLED OFF THE ROAD. *TR",
+        "vin": "1JJV502W1YL"
+    },
+    {
+        "components": "SERVICE BRAKES, AIR",
+        "crash": false,
+        "dateComplaintFiled": "06/05/2006",
+        "dateOfIncident": "04/09/2006",
+        "fire": true,
+        "manufacturer": "Wabash National Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10159476,
+        "products": [
+            {
+                "manufacturer": "Wabash National Corporation",
+                "productMake": "WABASH",
+                "productModel": "TRAILER",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2000 WABASH TRAILER BRAKES MALFUNCTIONED THEN VEHICLE CAUGHT ON FIRE.  *TS  THE TRAILERS BRAKES AND HUBS WERE BURNED OUT.  *JB",
+        "vin": "1JJV532W0YL"
+    },
+    {
+        "components": "WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "12/22/2005",
+        "dateOfIncident": "10/20/2005",
+        "fire": false,
+        "manufacturer": "Wabash National Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10146476,
+        "products": [
+            {
+                "manufacturer": "Wabash National Corporation",
+                "productMake": "WABASH",
+                "productModel": "TRAILER",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TRAILER LOST PASSENGER SIDE TIRE.  *TS  THE TRACTOR AND TRAILER CAME TO A CONTROLLED FINAL REST ON THE BERM.  THAT SAME DAY THE TIRE ON THAT AXLE HAD BEEN REPLACED BECAUSE IT WENT FLAT.  THIS WAS THE SAME TIRE AGAIN EXCEPT THIS TIME THE ENTIRE TIRE AND WHEEL SEPARATED FROM THE TRAILER.  ANOTHER TRUCK STRUCK THE TIRE AND RIM CAUSING DAMAGE TO IT'S RIGHT FRONT HEADLIGHT, FRONT BUMPER, RIGHT FRONT QUARTER PANEL AND HOOD.  THERE WERE NO INJURIES.  *NM",
+        "vin": "1JJV532WXYL"
+    },
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "12/22/2005",
+        "dateOfIncident": "10/03/2005",
+        "fire": false,
+        "manufacturer": "Wabash National Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10146475,
+        "products": [
+            {
+                "manufacturer": "Wabash National Corporation",
+                "productMake": "WABASH",
+                "productModel": "TRAILER",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "2000 WABASH TRAILER TIRE BLEW OUT.  *TS  THE LEFT REAR TRAILER TIRE BLEWOUT AND AS A RESULT THE RECAP CAME OFF AND STRUCK ANOTHER VEHICLE'S HOOD AND WINDSHIELD.  THE TRAILER SUSTAINED DAMAGE TO THE LEFT REAR INSIDE TANDEM.  *NM",
+        "vin": ""
+    }
+]

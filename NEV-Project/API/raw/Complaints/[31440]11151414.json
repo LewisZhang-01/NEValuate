@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "11/14/2018",
+        "dateOfIncident": "11/09/2018",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11151414,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "TOWN AND COUNTRY",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AIRBAG LIGHT IS ON. AFRAID TO DRIVE BECAUSE BAGS MAY ACTIVATE.",
+        "vin": "2C4RC1BG2ER"
+    }
+]

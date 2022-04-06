@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "12/12/2016",
+        "dateOfIncident": "11/22/2016",
+        "fire": false,
+        "manufacturer": "Thor Motor Coach",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10934814,
+        "products": [
+            {
+                "manufacturer": "Thor Motor Coach",
+                "productMake": "THOR",
+                "productModel": "FOUR WINDS",
+                "productYear": "2016",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Michelin North America, Inc.",
+                "productMake": "MICHELIN",
+                "productModel": "LTX M/S2",
+                "productYear": "9999",
+                "size": "LT225/75R16 115/112R",
+                "type": "Tire"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2016 THOR FOUR WINDS EQUIPPED WITH MICHELIN LTX M/S2 TIRES, SIZE LT225/75R16 115/112R. WHILE THE VEHICLE WAS PARKED AND ON JACKS, THE SIDEWALL ON THE REAR DRIVER'S SIDE TIRES SEPARATED AND THE TIRES BLEW OUT. THE MANUFACTURER WAS NOTIFIED. THE TIRES WERE NOT REPAIRED OR REPLACED. THE TIRE FAILURE MILEAGE WAS 800. THE VEHICLE FAILURE MILEAGE AND VIN WERE UNKNOWN.  *TR",
+        "vin": ""
+    }
+]

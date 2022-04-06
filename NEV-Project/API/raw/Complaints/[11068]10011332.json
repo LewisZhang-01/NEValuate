@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "03/19/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10011332,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "SUNFIRE",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER DISSATISFIED WITH RECALL REPAIRS OF POWER STEERING SYSTEM.  HAD TO RENT A CAR FOR A WEEK BECAUSE DEALER DID NOT HAVE THE PART FOR THE RECALL. *SC",
+        "vin": ""
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "04/07/2003",
+        "dateOfIncident": "03/23/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10014094,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "K1500",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "10321000 VISUAL SYSTEMS,WINDSHIELD WIPER: MOTOR  WIPERS START AND STOP AT ANY TIME FOR LONG PERIODS OF TIME UNEXPECTEDLY RESULTING IN DECREASED HAZARD VISIBILITY.  *JB",
+        "vin": "1GCEK19K3PE"
+    }
+]

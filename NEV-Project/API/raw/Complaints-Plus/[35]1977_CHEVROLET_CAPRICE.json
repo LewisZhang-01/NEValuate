@@ -1,0 +1,46 @@
+[
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "04/04/2005",
+        "dateOfIncident": "06/20/1993",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10117390,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAPRICE",
+                "productYear": "1977",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING 50 MPH DRIVER RELEASED THE ACCELERATOR PEDAL AND THE VEHICLE ACCELERATED UNCONTROLLABLY. DRIVER WAS ABLE TO MAINTAIN CONTROL OF THE VEHICLE ,AND PULLED OVER. VEHICLE WAS TOWED TO  DEALER FOR INSPECTION, AND  MECHANIC DETERMINED THAT THE  THROTTLE NEEDED TO BE REPLACED. *AK",
+        "vin": ""
+    },
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "06/11/1997",
+        "dateOfIncident": "03/30/1997",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 518388,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAPRICE",
+                "productYear": "1977",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ACCELERATOR  STUCK, CAUSING AN ACCIDENT.",
+        "vin": ""
+    }
+]

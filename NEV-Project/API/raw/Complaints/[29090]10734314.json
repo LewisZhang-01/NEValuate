@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "07/15/2015",
+        "dateOfIncident": "04/01/2011",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10734314,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "SOLSTICE",
+                "productYear": "2007",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE AIRBAG SEAT SENSOR HAS FAILED AND RENDERED THE PASSANGER SIDE AIRBAG NON-WORKING. THE REPAIR IS IN THE RANGE OF $1,000, SO I HAVE NO CHOICE BUT TO DRIVE WITHOUT AN AIRBAG.",
+        "vin": ""
+    }
+]

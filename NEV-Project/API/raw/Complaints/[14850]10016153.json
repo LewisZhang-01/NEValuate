@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "04/18/2003",
+        "dateOfIncident": "04/01/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10016153,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "AVALANCHE",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FRONT PASSENGER SEAT BELT RESTRAINT WILL LOCK AND PIN PASSENGER WITHOUT NOTICE.  PASSENGER HAS TO RELEASE THE MECHANISM AND FULLY RETRACT THE BELT TO GET IT TO RELEASE USUALLY WHILE VEHICLE IS IN MOTION.   *NLM",
+        "vin": "3GNEC13T02G"
+    }
+]

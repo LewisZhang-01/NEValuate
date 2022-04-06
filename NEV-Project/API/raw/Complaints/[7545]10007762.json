@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "02/18/2003",
+        "dateOfIncident": "05/04/2002",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10007762,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "LHS",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "OVER-HEATING OF CAR ENGINE. FAILURE OF COOLING FANS, RADIATOR LEAKING DUE TO CRACK IN RADIATOR.",
+        "vin": "2C3HC56F5VH"
+    }
+]

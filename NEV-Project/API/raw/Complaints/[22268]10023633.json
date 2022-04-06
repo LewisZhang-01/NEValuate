@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "06/24/2003",
+        "dateOfIncident": "03/20/1999",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10023633,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "C2500",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SEAT BRACKETS KEEP BREAKING.  *JB",
+        "vin": "1GTGK29F5SE"
+    }
+]

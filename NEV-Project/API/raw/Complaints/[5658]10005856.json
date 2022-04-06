@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "02/14/2003",
+        "dateOfIncident": "12/31/2002",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005856,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "AUDI",
+                "productModel": "A4",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "GAS GAUGE FAILED. ENGINE DIED ON FREEWAY DUE TO FUEL TANK BEING EMPTY; AT THE TIME, GAUGE SHOWED TANK WAS 1/2 FULL. DEALER REPLACED INSTRUMENT CLUSTER, BUT PROBLEM REMAINS.",
+        "vin": "WAUVT68E82A"
+    }
+]

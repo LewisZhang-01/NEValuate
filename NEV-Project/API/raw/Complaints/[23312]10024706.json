@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/23/2003",
+        "dateOfIncident": "04/17/2003",
+        "fire": false,
+        "manufacturer": "Lazy Daze, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10024706,
+        "products": [
+            {
+                "manufacturer": "Lazy Daze, Inc.",
+                "productMake": "LAZY DAZE",
+                "productModel": "LAZY DAZE",
+                "productYear": "9999",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "STEEL BELTED RADIAL",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "LTR FM NORMAN ANDRESEN(CA) RE A FAULTY FIRESTONE TIRE (STEEL BELT RADIAL R4S LT225-75R 16 M/S) ON HIS LAZY DAZE MOTOR HOME...*MR  THE CONSUMER EXPERIENCED A BLOW OUT DUE TO TREAD SEPARATION.  THE CONSUMER HAD JUST CHECKED THE TIRE PRESSURE AND EVERYTHING WAS FINE PRIOR TO THE INCIDENT.  *SCC      *CB *JB",
+        "vin": ""
+    }
+]

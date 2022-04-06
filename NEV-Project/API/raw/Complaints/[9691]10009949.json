@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": true,
+        "dateComplaintFiled": "03/05/2003",
+        "dateOfIncident": "11/22/2002",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 1,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009949,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "CHRYSLER",
+                "productModel": "SEBRING CONVERTIBLE",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE SUDDENLY ACCELERATED, IT WENT AIRBORNE AND CRASHED INTO A LIGHT POLE, AND  KILLED THE DRIVER.  *JB",
+        "vin": "3C3EL5587XT"
+    }
+]

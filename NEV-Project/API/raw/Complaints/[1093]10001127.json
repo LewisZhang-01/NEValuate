@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "12/18/2002",
+        "dateOfIncident": "12/11/2002",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001127,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "RAM",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CONSUMER STATES WAS TURNING INTO ONCOMING TRAFFIC AND HIT HEAD-ON BY ANOTHER VEHICLE TRAVELING APPROXIMATELY 55MPH.  BOTH DRIVER AND PASSENGER AIR BAGS DID NOT DEPLOY. TS",
+        "vin": "3B7HC13Y91G"
+    }
+]

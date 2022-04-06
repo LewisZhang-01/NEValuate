@@ -1,0 +1,46 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "11/10/2021",
+        "dateOfIncident": "11/05/2021",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11440045,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "M3",
+                "productYear": "2017",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact owns a 2017 BMW M3. The contact stated that while driving at approximately 25 MPH, there was an abnormal banging sound coming from the vehicle. In addition, the vehicle failed to operate as designed, without warning. The vehicle was towed to the dealer where it was diagnosed that the driveshaft was fractured and needed to be replaced. The vehicle was not repaired. The manufacturer was notified of the failure. The VIN was not included in NHTSA Campaign Number: 18V713000 (Power Train). The approximate failure mileage was 53,000.",
+        "vin": "wbs8m9c5xh5"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "01/23/2020",
+        "dateOfIncident": "01/10/2020",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11301469,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "M3",
+                "productYear": "2017",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE IS A 2017 BMW M3 WITH 6352 MILES. IN THIS PARTICULAR CASE THE VEHICLE HAD STARTED AND HAD BEEN OPERATING NORMALLY THE DAY PRIOR. THE FOLLOWING DAY THE CAR WAS STATIONARY AND WOULD NOT START.IT WAS CLEAR THERE WAS NO POWER GETTING TO THE ELECTRONICS EVEN THOUGH THE BATTERY WAS FULLY CHARGED. THE VEHICLE WAS TRANSPORTED BY FLATBED TRUCK TO THE LOCAL DEALERSHIP TO DIAGNOSE THE ISSUE. THE DEALERSHIP INVESTIGATED THE ROOT CAUSE AND FOUND THE PRIMARY BATTERY CABLE CONNECTOR TO THE ELECTRICAL DISTRIBUTION BOX HAD FAILED WHERE THERE WAS NO LONGER ELECTRICAL CONTACT BETWEEN THE CABLE END AND THE DISTRIBUTION BOX TERMINAL.     THE DEALERSHIP HAD NOT INITIALLY DISCLOSED THAT THEY HAD DONE REPAIR WORK ON OTHER MODELS FOR THE SIMILAR TYPE ELECTRICAL FAILURE.     UPON FURTHER RESEARCH IT WAS FOUND THAT THERE HAVE BEEN NUMEROUS RECALLS FOR MANY DIFFERENT MODELS OF BMW INCLUDING 1 SERIES, 3 SERIES AND Z SERIES FOR THE SIMILAR FAILURE MODE OF ELECTRICAL CONNECTION FAILURE AT THE BATTERY CABLE/ DISTRIBUTION BOX CONNECTION.    THE FOLLOWING ARE SO FAR THE KNOWN RECALLS RELATED TO THE BATTERY CABLE CONNECTOR FAILURE:  18V-314 FOR MODEL YEARS 2010-2011.  OVER 7000 VEHICLES AFFECTED  19V-472 FOR MODEL YEARS 2008-2012   13V-044 FOR MODEL YEARS   2008-2012 OVER 500,000 VEHICLES AFFECTED    IT WAS EVENTUALLY CONFIRMED BY THE MECHANICS AT THE DEALERSHIP THAT THIS WAS A SIMILAR FAILURE MODE OF THE CONNECTOR THAT THEY HAD SEEN IN THE PAST HOWEVER THEY COMMENTED THAT THIS WAS THE FIRST 2017 MODEL  THAT THEY HAD SEEN WITH THIS FAILURE. THE CONCLUSION CAN BE DRAWN ON THAT THE BATTERY CABLE/ELECTRICAL DISTRIBUTION BOX CONNECTOR DESIGN IS SIMILAR TO THAT USED IN PREVIOUS MODEL YEARS AND THEREFORE WILL FAIL IN A SIMILAR MANNER AND THAT ADDITIONAL MODEL YEARS SHOULD BE ADDED TO THE RECALL SO THAT THE DEFECT CAN BE IDENTIFIED AND REMEDIED AS SOON AS POSSIBLE.",
+        "vin": "WBS8M9C54H5"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS,SEAT BELTS",
+        "crash": true,
+        "dateComplaintFiled": "05/14/2003",
+        "dateOfIncident": "03/29/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 2,
+        "odiNumber": 10018703,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "LS",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AIR BAGS FAILED TO DEPLOY DURING SEVERE FRONTAL IMPACT COLLISION. SEAT BELTS FAILED TO LOCK UP.   *NLM",
+        "vin": "1LNHM87A01Y"
+    }
+]

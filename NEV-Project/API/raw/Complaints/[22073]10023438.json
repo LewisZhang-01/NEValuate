@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "06/20/2003",
+        "dateOfIncident": "05/07/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10023438,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "MERCURY",
+                "productModel": "GRAND MARQUIS",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN DRIVING WITH REAR WINDOWS DOWN, AND INITIATING THE CONTROLS TO RETURN THE REAR WINDOWS TO THEIR \"CLOSED\" POSITION, UPON THE REAR WINDOWS REACHING THE TOP CLOSED POSITION, THE DRIVER SIDE FRONT WINDOW OPENS PARTIALLY OR MAY OPEN FULLY ON IT'S OWN.  ALSO WHEN ATTEMPTING TO ROLL ALL WINDOWS UP AT THE SAME TIME, THE CIRCUITRY BECOMES OVERLOADED AND ALL WINDOWS STOP AND WILL NOT MOVE FOR ABOUT 3 TO 5 MINUTES UNTIL THE CIRCUIT TIMER RESETS.   *NLM",
+        "vin": ""
+    }
+]

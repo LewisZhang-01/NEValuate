@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "03/10/2007",
+        "dateOfIncident": "03/08/2007",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10184714,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CAR ENGINE STALLED WITHOUT NOTICE WHILE CRUISING ON A HIGHWAY. HAD TO PULL OVER IMMEDIATELY WITH REMAINING SPEED INERTIA. AFTER 10 MINUTES CAR STARTED OK, AND THEN STALLED AGAIN IN A RESIDENTIAL AREA. AFTER RESTARTING, THE CAR STALLED A THIRD TIME. NO \"CHECK ENGINE\" SIGNAL TRIGGERED.    MECHANIC UNABLE TO FIND ANYTHING WRONG AND UNABLE TO REPRODUCE FAILURE WHILE TEST-DRIVING THE CAR FOR 30 MILES.  TWO DAYS LATER, CAR STALLED AGAIN WHILE YIELDING INTO A MAJOR HIGHWAY. HAD TO PULL OVER IMMEDIATELY, WAIT, RESTART CAR AND GET OFF AT THE NEAREST EXIST. *JB",
+        "vin": "3FAFP3130YR"
+    }
+]

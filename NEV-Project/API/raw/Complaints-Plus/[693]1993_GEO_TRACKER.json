@@ -1,0 +1,618 @@
+[
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "02/24/2010",
+        "dateOfIncident": "08/18/2008",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10314294,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GEO",
+                "productModel": "TRACKER",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "1993 GEO TRACKER AIR CONDITION PUMP WAS CRACKED. *BF",
+        "vin": "2CNB5T8U6P6"
+    },
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": true,
+        "dateComplaintFiled": "02/10/2005",
+        "dateOfIncident": "08/27/2004",
+        "fire": true,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 3,
+        "odiNumber": 10115135,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GEO",
+                "productModel": "TRACKER",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "GEO TRACKERS, ONE A 1993 AND THE OTHER A 2003 MODEL, CAUGHT FIRE AFTER AN ACCIDENT, REF ODI NUMBER 10111697.  *BF  THE CONSUMER WAS REAR ENDED BY ANOTHER MOTORIST. (LAWYER WROTE IN ON BEHALF OF CLIENT).  ATTORNEY PROVIDED PAR ON INCIDENT AND FIRE INUURED OCCUPANT WAS SEATED IN FRONT PASSENGER SEAT.PCO",
+        "vin": "2CNBJ18U3P6"
+    },
+    {
+        "components": "STEERING,SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "08/12/2003",
+        "dateOfIncident": "07/18/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10033718,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GEO",
+                "productModel": "TRACKER",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING AT 40 MPH BRAKE LINE FRACTURED, CAUSING VEHICLE TO SWERVE OUT OF CONTROL. DEALER NOTIFIED. *AK",
+        "vin": ""
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "04/02/2001",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 884751,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GEO",
+                "productModel": "TRACKER",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "REAR AXLE CAME APART WHILE DRIVING.   DEALER HAS BEEN NOTIFIED.  A RECALL HAS BEEN ISSUED ON  VEHICLE'S MAKE AND MODEL; HOWEVER, THIS VEHICLE  WAS NOT INCLUDED DUE TO VIN.*AK",
+        "vin": "2CNBJ18U5P6"
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "02/09/2001",
+        "dateOfIncident": "01/22/2001",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 880285,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GEO",
+                "productModel": "TRACKER",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "REAR AXLE SHAFT HOUSING TUBE FAILED WHILE DRIVING. LOST CONTROL OF VEHICLE. NEARLY ROLLED OVER. HAD IT TOWED TO MECHANIC. INDICATION WAS A LACK OF OIL GOING TO DIFFERENTIAL WHICH CAUSED  PROBLEM WITH REAR AXLE.*AK  IT WAS ALSO FOUND THAT THE RIGHT REAR DIFFERENTIAL HAD TOTALLY FAILED.  *YH",
+        "vin": "2CNBJ18U3P6"
+    },
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "01/04/2001",
+        "dateOfIncident": "06/10/2000",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 738750,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GEO",
+                "productModel": "TRACKER",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "PANEL WHERE DRIVER SIDE TOP DOOR HINGE IS ATTACHED EXPERIENCED METAL FATIGUE, CAUSING DOOR TO SEPARATE FROM FRAME.*AK",
+        "vin": "2CNBJ18U7P6"
+    },
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "03/16/2000",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 784567,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GEO",
+                "productModel": "TRACKER",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "REAR AXLE WELDING FAILED, DEALER SAID THERE WAS NO RECALL ON THIS VEHICLE.  NLM",
+        "vin": "2CNBJ18UXP6"
+    },
+    {
+        "components": "EQUIPMENT",
+        "crash": true,
+        "dateComplaintFiled": "07/13/1999",
+        "dateOfIncident": "07/11/1998",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 842209,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GEO",
+                "productModel": "TRACKER",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE WAS INVOVED IN AN ACCIDENT WHICH CAUSED  VEHICLE TO ROLL OVER. WHILE ROLLING OVER  JACK FREED ITSELF FROM THE SUPPORT  UNDER THE SEAT, AND  FLEW AROUND, ALMOST HITTING CONSUMER IN THE HEAD. CAN NHTSA LOOK INTO THIS MATTER BEFORE IT HAPPENED TO SOMEONE ELSE.  *AK",
+        "vin": "2CNBJI8UXP6"
+    },
+    {
+        "components": "STEERING,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "05/06/1999",
+        "dateOfIncident": "03/01/1999",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 837538,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GEO",
+                "productModel": "TRACKER",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE BOLTS THAT HOLD THE A/C UNIT COMPRESSOR IN THE ENGINE SHEARED OFF, CAUSING THE COMPRESSOR TO FALL OUT.  ALSO,  POWER STEERING  BECAME  INOPERATIVE WHICH MAY RESULT IN LOSS OF STEERING CONTROL. GM CONTACTED AND WILL NOT OFFER ASSISTANCE FOR THIS DESIGN DEFECT.*AK *ML",
+        "vin": "2CNBE18U6P6"
+    },
+    {
+        "components": "POWER TRAIN,SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "09/23/1998",
+        "dateOfIncident": "12/17/1995",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 5,
+        "odiNumber": 541042,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GEO",
+                "productModel": "TRACKER",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE WOULD NOT DOWNSHIFT PROPERLY ON SLUSHY ROAD SURFACE CAUSING VEHICLE TO LOOSE CONTROL RESULTING IN VEHICLE ACCIDENT. SEAT BELTS BROKE DURING COLLISION RESULTING IN INJURIES AND EJECTION FROM VEHICLE.",
+        "vin": "2CN13J18U3P"
+    },
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "07/17/1998",
+        "dateOfIncident": "06/26/1998",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 537987,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GEO",
+                "productModel": "TRACKER",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FAULTY WELD FROM THE HOUSING TO THE TUBE NOT NOTICED DURING A RECALL INSPECTION.  (RECALL# 94V073001)  (QCAW)",
+        "vin": "2CNBJ18U1P6"
+    },
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "02/20/1998",
+        "dateOfIncident": "02/13/1998",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 531074,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GEO",
+                "productModel": "TRACKER",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "METAL AREA SURROUNDING THE HINGE BOLTS, WHICH HOLD THE UPPER SIDE OF THE DRIVER'S DOOR, FATIGUED AND GAVE AWAY.",
+        "vin": "2CNBEI8U2P6"
+    },
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "12/20/1997",
+        "dateOfIncident": "12/19/1997",
+        "fire": true,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 527476,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GEO",
+                "productModel": "TRACKER",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "INSULATIN FROM DASH JAMMED BLOWER AND MELTER WIRING.",
+        "vin": "2CNBJ18UP69"
+    },
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "12/09/1997",
+        "dateOfIncident": "11/03/1997",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 526028,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GEO",
+                "productModel": "TRACKER",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DOOR HINGE WELD FAILED RESULTING IN SEPARATION FROM FRAME.",
+        "vin": ""
+    },
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "04/11/1997",
+        "dateOfIncident": "04/04/1997",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 810915,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GEO",
+                "productModel": "TRACKER",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE EXITING VEHICLE, DRIVER'S SIDE DOOR SAGGED; NOTICED THE BOLTS WERE TIGHT BUT PULLING HINGE FROM BODY OF FRAME. TAKING VEHICLE TO DEALERSHIP.   *AK",
+        "vin": "2CNBJ1803P6"
+    },
+    {
+        "components": "STRUCTURE,SEATS,UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "08/07/1996",
+        "dateOfIncident": "04/18/1996",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 2,
+        "odiNumber": 507222,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GEO",
+                "productModel": "TRACKER",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FLOOR BOARD CRUMBLED/DASH BOARD COLLAPSED/DRIVER'S SEAT SEPARATED FROM FLOOR DURING ACCIDENT, CAUSING INJURY.",
+        "vin": "2CNBE18U6P6"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "05/10/1996",
+        "dateOfIncident": "04/01/1996",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 504422,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GEO",
+                "productModel": "TRACKER",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ALTERNATOR/GENERATOR ASSEMBLY MALFUNCTIONED. *SD",
+        "vin": "2CBNJ18U3P6"
+    },
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "crash": false,
+        "dateComplaintFiled": "05/10/1996",
+        "dateOfIncident": "04/19/1996",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 504422,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GEO",
+                "productModel": "TRACKER",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BRAKES SQUEAL. *SD",
+        "vin": "2CBNJ18U3P6"
+    },
+    {
+        "components": "EXTERIOR LIGHTING",
+        "crash": false,
+        "dateComplaintFiled": "05/10/1996",
+        "dateOfIncident": "02/01/1996",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 504422,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GEO",
+                "productModel": "TRACKER",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "HALOGEN BULBS BLEW OUT. *SD",
+        "vin": "2CBNJ18U3P6"
+    },
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "05/10/1996",
+        "dateOfIncident": "03/01/1996",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 504422,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GEO",
+                "productModel": "TRACKER",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "RADIATOR LEAKS COOLANT. *SD",
+        "vin": "2CBNJ18U3P6"
+    },
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "05/10/1996",
+        "dateOfIncident": "03/01/1996",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 504422,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GEO",
+                "productModel": "TRACKER",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BATTERY BLEW UP. *SD",
+        "vin": "2CBNJ18U3P6"
+    },
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "03/21/1996",
+        "dateOfIncident": "03/21/1996",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 502815,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GEO",
+                "productModel": "TRACKER",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE ROLLED OVER. *DH",
+        "vin": ""
+    },
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "02/15/1996",
+        "dateOfIncident": "01/26/1996",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 979239,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GEO",
+                "productModel": "TRACKER",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN DRIVING VEHICLE MADE A LEFT TURN AND STEERING WHEEL LOCKED UP LOST CONTROL OF VEHICLE AND HIT ANOTHER PARKED VEHICLE. PLEASE DESCRIBE DETAILS.  TT",
+        "vin": ""
+    },
+    {
+        "components": "STEERING",
+        "crash": true,
+        "dateComplaintFiled": "10/24/1995",
+        "dateOfIncident": "08/14/1994",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 1,
+        "numberOfInjuries": 2,
+        "odiNumber": 973807,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GEO",
+                "productModel": "TRACKER",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "RAN OFF THE ROAD KILLING THE PASSENGER AND CRITICALLY INJURING THE DRIVER. PLEASE DESCRIBE.  TT",
+        "vin": ""
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "09/22/1995",
+        "dateOfIncident": "09/09/1995",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 972347,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GEO",
+                "productModel": "TRACKER",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "REAR AXLE SUSPENSION FAILURE, REAR AXLE ASSEMBLY CAME APART.  TT",
+        "vin": "2CNBJ18U0P6"
+    },
+    {
+        "components": "UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "08/09/1995",
+        "dateOfIncident": "07/22/1995",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 970115,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GEO",
+                "productModel": "TRACKER",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVER'S SIDE DOOR FELL OFF THE VEHICLE, A LOT OF WIND NOISE COMING INTO VEHICLE.  TT",
+        "vin": "2CNBE18U4P6"
+    },
+    {
+        "components": "SEATS",
+        "crash": true,
+        "dateComplaintFiled": "05/30/1995",
+        "dateOfIncident": "05/24/1995",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 2,
+        "odiNumber": 966064,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GEO",
+                "productModel": "TRACKER",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN HIT AT 6:00 POSITION WHEN REAR ENDED DRIVER AND PASSENGER SIDE SEAT BACKS FELL COMPLETLY BACKWARDS.  TT",
+        "vin": ""
+    },
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "05/25/1995",
+        "dateOfIncident": "01/02/1994",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 965909,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GEO",
+                "productModel": "TRACKER",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVER SEATBELT BUCKLE WILL NOT STAY FASTEN.  TT",
+        "vin": ""
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "05/24/2003",
+        "dateOfIncident": "01/07/2000",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019234,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE SEAT BRACKET ON THE DRIVERS SIDE SEAT BROKE AT THE WELD CAUSING THE SEAT TO SNAP BACKWARDS. THE DEALER HAD THE BRACKET PART ON HAND WHICH INDICATES TO ME THAT THIS IS A COMMON OCCURRENCE. IT IS POTENTIALLY CATASTROPHIC.  *NLM",
+        "vin": ""
+    }
+]

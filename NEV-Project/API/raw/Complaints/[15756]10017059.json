@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "05/05/2003",
+        "dateOfIncident": "05/01/2003",
+        "fire": false,
+        "manufacturer": "COACHMEN INDUSTRIES, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10017059,
+        "products": [
+            {
+                "manufacturer": "COACHMEN INDUSTRIES, INC.",
+                "productMake": "SHASTA",
+                "productModel": "CLASS C",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "STEELTEX R4S",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "NEW TIRE SEPARATED TREAD ON RIGHT REAR OF MATRON MOTOR HOME.  TIRE WAS FIRESTONE STEELTEX RADIAL P225-R16  THIS IS THE SECOND TIRE TO SEPARATE, THE TREAD CAME COMPLETELY OF THE TIRE/BELTS.  DID SEVERAL THOUSAND DOLLARS DAMAGE TO MOTOR HOME. *JB",
+        "vin": ""
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": true,
+        "dateComplaintFiled": "05/20/2003",
+        "dateOfIncident": "05/17/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018999,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SAFARI",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CATASRTOPHIC FRONT SUSPENSION FAILURE OF THE LEFT TORSION BAR ON A 1994 GMC SAFARI AWD VAN. APPARENTLY, THE ENTIRE FRONT SUSPENSION SYSTEM MUST NOW BE REPLACED DUE TO \"SUPERSEDED PARTS\" FROM GM.   *NLM",
+        "vin": "1GKEL19W5RB"
+    }
+]

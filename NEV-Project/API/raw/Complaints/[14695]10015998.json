@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/26/2003",
+        "dateOfIncident": "04/13/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015998,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPEDITION",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Continental Tire the Americas, LLC",
+                "productMake": "CONTINENTAL",
+                "productModel": "GRABBER AW",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE TIRES EXPERIENCED TREAD SEPARATION, WHICH MADE THE VEHICLE DIFFICULT TO CONTROL.  SIZE#P27560R17 DOT#44T3400.   *JB   THREE OF THE TIRES SEPARATED WHILE TRAVELING WITH PASSENGERS (1 CHILD & 3 ADULTS)  THE TIRE CAUSED A TERRIBLE VIBRATION IN THE VEHICLE, ROCKED BACK AND FORTH, AND FROM SIDE TO SIDE WHEN SLOWING DOWN.   *SCC   *JB",
+        "vin": ""
+    }
+]

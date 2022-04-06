@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL/PROPULSION SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "04/30/2019",
+        "dateOfIncident": "04/03/2018",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11204664,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "RAM",
+                "productModel": "1500",
+                "productYear": "2014",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE FUEL SENSOR FAILS AND CAUSES THE DRIVER TO RUN OUT OF GAS WHILE IN TRAFFIC. THE GAS GAUGE ONLY WORKS WHEN THE TANKS IS EXTREMELY FULL ONCE THE TRUCK HAS BEEN DRIVEN FOR FIVE MILES IT GOES THE GAUGE READS EMPTY AND THE CHECK ENGINE LIGHT COMES ON. AS A RESULT THERE IS NO WAY TO DETERMINE HOW MUCH FUEL IS LEFT IN THE TANK.",
+        "vin": "1C6RR7FT6ES"
+    }
+]

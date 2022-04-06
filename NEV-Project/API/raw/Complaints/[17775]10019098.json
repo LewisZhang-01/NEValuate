@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "05/22/2003",
+        "dateOfIncident": "05/20/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019098,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TRANSMISSION FAILURE - GRINDING NOISE IS HEARD WHEN SHIFTING INTO SECOND AND THIRD GEARS.  CLUNK IS HEARD WHEN SHIFTING INTO FIRST GEAR FROM A STOP AND VEHICLE JERKS FORWARD BEFORE CLUTCH IS LET OUT.    *NLM",
+        "vin": "1J4FA29113P"
+    }
+]

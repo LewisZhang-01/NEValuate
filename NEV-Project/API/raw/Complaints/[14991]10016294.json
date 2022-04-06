@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "04/22/2003",
+        "dateOfIncident": "04/01/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10016294,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "S10",
+                "productYear": "1999",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE REFUSED TO START.  IT WOULD TURN OVER JUST FINE BUT THE ENGINE REFUSED TO FIRE.  SPENT 2 DAYS TRYING TO  FIRE THE ENGINE.  HAD TO GET VEHICLE TOWED TO DEALER.  UPON ARRIVAL AT THE DEALERSHIP, THE ENGINE FIRED RIGHT UP.  THEY COULDN'T DUPLICATE THE PROBLEM & AFTER COMPLETING DIAGNOSTICS FOUND NO REASON FOR THE FAILURE.   *NLM",
+        "vin": "1GCCS1942X8"
+    }
+]

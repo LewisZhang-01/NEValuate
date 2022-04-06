@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "04/22/2003",
+        "dateOfIncident": "04/18/2002",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10016348,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "DAKOTA",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "POWER STEERING PUMP WENT BAD, CAUSING A MAJOR LEAK OF POWER STEERING FLUID TO BE SPRAYED THROUGHOUT THE ENGINE COMPARTMENT,  CAUSING BOTH THE POWER STEERING TO FAIL WHILE DRIVING AND CAUSING THE DRIVE TRAIN BELT TO BEGIN SLIPPING.   *NLM",
+        "vin": "1B7GL22NXYS"
+    }
+]

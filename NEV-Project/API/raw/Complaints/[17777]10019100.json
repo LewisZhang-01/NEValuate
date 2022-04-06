@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "05/22/2003",
+        "dateOfIncident": "04/25/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019100,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE WAS PART OF RECALL 93V125000 TO REPLACE FUEL PRESSURE REGULATOR.  RECALL DID NOT CORRECT THE PROBLEM.  WHEN THE REAR FUEL TANK IS USED, IT STILL PUMPS FUEL INTO THE FRONT FUEL TAKE.  WHEN THE FRONT TANK FILLS UP, FUEL FLOWS OUT OF THE FILL TUBE, DOWN THE SIDE OF THE TRUCK BED AND ONTO THE FRAME AND TIRES.  THIS IS A FIRE HAZARD!   *NLM",
+        "vin": "1FTEX15N1PK"
+    }
+]

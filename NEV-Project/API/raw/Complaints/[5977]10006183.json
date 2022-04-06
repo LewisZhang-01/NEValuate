@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "02/14/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10006183,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPEDITION",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Continental Tire the Americas, LLC",
+                "productMake": "CONTINENTAL",
+                "productModel": "GRABBER AW",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "CONSUMER RECEIVED A RECALL FOR THE VEHICLE'S TIRES.  THE RECALL REQUEST WAS DENIED BY THE MANUFACTURER/CONTINENTAL TIRE, DUE TO THE RECEIPT THE CONSUMER SUBMITTED FELL OUTSIDE THE DATES OF PURCHASE WHICH WOULD QUALIFY FOR REIMBURSEMENT.  SCC  *JB",
+        "vin": "1FMRU17W51L"
+    }
+]

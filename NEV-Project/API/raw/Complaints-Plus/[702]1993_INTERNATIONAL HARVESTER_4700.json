@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "12/09/1998",
+        "dateOfIncident": "07/15/1997",
+        "fire": false,
+        "manufacturer": "INTERNATIONAL TRUCK & ENGINE CORPORATION",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 542959,
+        "products": [
+            {
+                "manufacturer": "INTERNATIONAL TRUCK & ENGINE CORPORATION",
+                "productMake": "INTERNATIONAL HARVESTER",
+                "productModel": "4700",
+                "productYear": "1993",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUEL TANKS CORRODED RESULTING IN LEAKING.",
+        "vin": "1HTSCPLMOPH"
+    }
+]

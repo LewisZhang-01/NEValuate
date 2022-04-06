@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "09/26/2016",
+        "dateOfIncident": "09/21/2016",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10909714,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EDGE",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE DRIVERS DOOR (ADJAR) SIGNAL KEEPS INDICATING THE DOOR IS OPEN EVEN IF THE DOOR IS FIRMLY CLOSED. THIS CAUSE THE CABIN LIGHTS TO REMAIN ON AND THE ALARM GOING OF EVERY SO MANY SECONDS. IT DISTRACTS ME CONSTANTLY.",
+        "vin": "2FMDK3JC6DB"
+    }
+]

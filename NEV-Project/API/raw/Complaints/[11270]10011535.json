@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "03/12/2003",
+        "dateOfIncident": "06/20/2001",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10011535,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "PICKUP",
+                "productYear": "1980",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "NANKANG RUBBER & TIRE CORP.",
+                "productMake": "NANKANG",
+                "productModel": "N-830",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE FRONT TIRES SEPARATED AT THE SAME TIME, WHICH CAUSED DAMAGE TO THE VEHICLE. CONSUMER ADVISED THAT TIRES WERE 20% WORN.  TIRE INFO:  1ST TIRE  NANKANG  30X9.50R15LT  DOT-U88B1704661602  LEFT FRONT  2ND TIRE  NANKANG  30X9.50R15LT  DOT-U88B1715162301  RIGHT FRONT.*JB",
+        "vin": ""
+    }
+]

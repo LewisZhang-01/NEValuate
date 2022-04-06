@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS,SERVICE BRAKES",
+        "crash": false,
+        "dateComplaintFiled": "10/22/2017",
+        "dateOfIncident": "06/28/2017",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11035514,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "MUSTANG",
+                "productYear": "2011",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TAKATA RECALL. AIRBAGS PUSHING PASSENGER DASH PANELS OUT",
+        "vin": ""
+    }
+]

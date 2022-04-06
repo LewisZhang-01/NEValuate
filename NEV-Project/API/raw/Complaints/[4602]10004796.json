@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": false,
+        "dateComplaintFiled": "01/28/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004796,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "RANGER",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE AIR BAG LIGHT FAILS TO COME ON WHEN VEHICLE IS BEING STARTED. MECHANIC INDICATED PROBLEM IS IN THE COMPUTER WHICH ALSO AFFECTS THE DRIVER SIDE SEAT BELT.        TS",
+        "vin": "1FPYR14B2YT"
+    }
+]

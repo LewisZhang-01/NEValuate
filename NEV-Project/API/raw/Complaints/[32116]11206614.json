@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "05/09/2019",
+        "dateOfIncident": "05/08/2019",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11206614,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "RAV4",
+                "productYear": "2008",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "MY 2008 TOYOTA RAV4 CONSUMES TOO MUCH OIL. IT CONSUMES 4 QUARTS OF OIL UNDER 2000 MILES.",
+        "vin": "JTMBD33V586"
+    }
+]

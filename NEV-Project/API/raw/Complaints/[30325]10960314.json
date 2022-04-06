@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "03/13/2017",
+        "dateOfIncident": "03/12/2017",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10960314,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "TACOMA",
+                "productYear": "2004",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Toyo Tire Holdings of Americas, Inc.",
+                "productMake": "TOYO",
+                "productModel": "OPEN COUNTRY H/T/ TUFF DUTY",
+                "productYear": "9999",
+                "size": "LT285/75 R16 126Q",
+                "type": "Tire"
+            }
+        ],
+        "summary": "TL* THE CONTACT WAS A FRIEND TO THE DRIVER OF A 2004 TOYOTA TACOMA EQUIPPED WITH TOYO OPEN COUNTRY TIRES H/T/ TUFF DUTY TIRES, SIZE: 265/70/R16 (NA). THE CONTACT STATED THAT THE REAR DRIVER'S SIDE TIRE WAS FLAT. THE CONTACT ATTEMPTED TO ADD MORE AIR TO THE TIRE, BUT THE TIRE WOULD NOT REMAIN INFLATED. THE CONTACT STATED THAT THE DRIVER HAD TO CONSTANTLY REFILL THE AIR IN THE TIRE. THE VEHICLE WAS TAKEN TO AN INDEPENDENT MECHANIC WHERE IT WAS DIAGNOSED THAT THE TREAD WAS SEPARATED. THE VEHICLE WAS ALSO TAKEN TO THE DEALER WHERE IT WAS DIAGNOSED THAT THERE WAS A PIN HOLE IN THE TIRE THAT NEEDED TO BE REPLACED. THE TIRE FAILURE MILEAGE WAS APPROXIMATELY 20,000. THE VIN AND VEHICLE FAILURE MILEAGE WERE NOT PROVIDED.",
+        "vin": ""
+    }
+]

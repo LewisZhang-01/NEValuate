@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "07/25/2013",
+        "dateOfIncident": "07/01/2013",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10531914,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "LINCOLN",
+                "productModel": "LS",
+                "productYear": "2004",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "CARS STALLS WHILE DRIVING AT HIGH SPEED ON HIGHWAY OR SIDE STREET.  *TR",
+        "vin": ""
+    }
+]

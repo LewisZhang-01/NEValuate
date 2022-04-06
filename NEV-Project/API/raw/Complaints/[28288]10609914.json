@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "07/11/2014",
+        "dateOfIncident": "05/22/2014",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10609914,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "LEXUS",
+                "productModel": "ES350",
+                "productYear": "2008",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE DASHBOARD IS MELTING.  *TR",
+        "vin": "JTHBJ46G882"
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "components": "STEERING,AIR BAGS,EQUIPMENT",
+        "crash": true,
+        "dateComplaintFiled": "04/14/2003",
+        "dateOfIncident": "04/12/2003",
+        "fire": false,
+        "manufacturer": "Kia Motors America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10014373,
+        "products": [
+            {
+                "manufacturer": "Kia Motors America",
+                "productMake": "KIA",
+                "productModel": "RIO",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "AIRBAG SYSTEMS, INC.",
+                "productMake": "AIRBAG",
+                "productModel": "SWITCH",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "VEHICLE SKIDS REPEATEDLY, DURING NORMAL OPERATION.  HANDLES POORLY.  AIR BAGS DID NOT DEPLOY AFTER HEAD ON COLLISION.  *NLM",
+        "vin": "KNADC123716"
+    }
+]

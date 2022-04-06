@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, ELECTRIC",
+        "crash": false,
+        "dateComplaintFiled": "08/25/2021",
+        "dateOfIncident": "04/01/2021",
+        "fire": false,
+        "manufacturer": "Alliance RV, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11430481,
+        "products": [
+            {
+                "manufacturer": "Alliance RV, LLC",
+                "productMake": "ALLIANCE RV",
+                "productModel": "PARADIGM",
+                "productYear": "2021",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "The contact owns a 2021 Alliance Paradigm Trailer. The contact stated upon testing the brake actuator, the system failed to respond. The warning message \"Trailer Disconnected\" appeared on the instrument panel. The parts manufacturer was made aware of the failure and informed the contact that it was a manufacturer\u2019s defect and the solenoid inside the brake actuator was overheating when receiving electrical signals from the brake away switch. The dealer was not made aware of the failure. The manufacturer was made aware of the failure and shipped the brake actuator part to the contact for replacement. The vehicle was repaired. The approximate failure mileage was 3,500. VIN invalid.",
+        "vin": "7M5FP3628MA"
+    }
+]

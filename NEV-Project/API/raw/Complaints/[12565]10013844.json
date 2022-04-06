@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "04/02/2003",
+        "dateOfIncident": "03/02/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10013844,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "DURANGO",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "OCCASIONALLY TRANSMISSION WILL NOT ENGAGE WHEN ATTEMPTING TO ACCELERATE FROM A STOP.  TRANSMISSION IS IN DRIVE BUT ACTS AS IF IN PARK OR NEUTRAL.  THIS HAS HAPPENED SEVERAL TIMES WHEN ATTEMPTING TO PULL AWAY AFTER STOPPING FOR A TRAFFIC LIGHT.   *NLM",
+        "vin": ""
+    }
+]

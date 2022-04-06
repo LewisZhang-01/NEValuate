@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "02/10/2003",
+        "dateOfIncident": "01/22/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005631,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "SONOMA",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUEL PUMP / SENDING UNIT STOPED WORKING. UNIT WAS REPLACED BY CERTIFIED MECHANIC.  THE COST FOR THE UNIT WAS $568.90 FROM BOB MAGUIRE GM PARTS CENTER.",
+        "vin": "1GTCS1451Y8"
+    }
+]

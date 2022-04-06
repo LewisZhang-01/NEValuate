@@ -1,0 +1,46 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "05/14/2012",
+        "dateOfIncident": "04/29/2012",
+        "fire": false,
+        "manufacturer": "MARK III INDUSTRIES, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10458452,
+        "products": [
+            {
+                "manufacturer": "MARK III INDUSTRIES, INC.",
+                "productMake": "MARK III",
+                "productModel": "FORD WINDSTAR",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 1998 MARK III FORD WINDSTAR. THE CONTACT STATED THAT THE FRONT COIL SPRINGS FRACTURED. THE CONTACT REFERENCED TWO RECALLS RELATING TO THE FAILURE UNDER NHTSA CAMPAIGN ID NUMBERS: 01I007000 (SUSPENSION:FRONT:SPRINGS:COIL SPRINGS) AND 01V199000 (SUSPENSION:FRONT:SPRINGS:COIL SPRINGS). THE MANUFACTURER WAS CONTACTED AND ADVISED THE CONTACT THAT THE VEHICLE COULD NOT BE REPAIRED, AS THE RECALLS HAD BOTH EXPIRED. THE CONTACT STATED THAT HE WAS NEVER NOTIFIED OF EITHER RECALL. THE VEHICLE WAS NOT REPAIRED. THE FAILURE AND CURRENT MILEAGES WERE 84,000.   THE MECHANIC ALSO DISCOVERED THE REAR SPRINGS HAD FRACTURED. UPDATED 06/25/12",
+        "vin": "2FMZA514XWB"
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "08/07/2000",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "MARK III INDUSTRIES, INC.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 553557,
+        "products": [
+            {
+                "manufacturer": "MARK III INDUSTRIES, INC.",
+                "productMake": "MARK III",
+                "productModel": "FORD WINDSTAR",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TRANSMISSION FELL APART. *ET",
+        "vin": "2FMD451U1WB"
+    }
+]

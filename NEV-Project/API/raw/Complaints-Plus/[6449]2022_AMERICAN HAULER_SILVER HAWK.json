@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "03/10/2022",
+        "dateOfIncident": "03/01/2022",
+        "fire": false,
+        "manufacturer": "American Hauler",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11455993,
+        "products": [
+            {
+                "manufacturer": "American Hauler",
+                "productMake": "AMERICAN HAULER",
+                "productModel": "SILVER HAWK",
+                "productYear": "2022",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "Trailer was purchased new and after unfavorable towing conditions, was inspected and found to have mis matched axles with differing installed heights resulting in inability to distribute weight properly and tow safely.",
+        "vin": "7hb21282xn1"
+    }
+]

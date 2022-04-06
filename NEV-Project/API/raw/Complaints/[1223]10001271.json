@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "12/20/2002",
+        "dateOfIncident": "08/30/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001271,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAVALIER",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "RECALL CAMPAIGN:  STEERING: GEAR: RACK AND PINION (RECALL NUMBER 02V286000).  THE VEHICLE'S RACK AND PINION FAILED PRIOR TO RECALL NOTIFICATION.  THE CONSUMER CONTACTED THE MANUFACTURER WHO INFORMED HIM THAT HE VEHICLE WAS NOT INCLUDE IN THE RECALL DUE TO VIN.  *NM",
+        "vin": "1G1JC543W71"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": true,
+        "dateComplaintFiled": "03/14/2003",
+        "dateOfIncident": "01/22/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010462,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPEDITION",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ENGINE ACCELERATED AND VEHICLE FAILED TO STOP WHEN BRAKES WERE APPLIED, VEHICLE CONTINUED TO CREEP FORWARD WHEN SHIFTED INTO NEUTRAL, THEN TO PARK, CAUSING DAMAGE TO SECURITY GATE AND VEHICLE.  VEHICLE STOPPED ONLY WHEN ENGINE WAS TURNED OFF. *JB",
+        "vin": "1FMRU15W61L"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "07/19/2006",
+        "dateOfIncident": "07/07/2006",
+        "fire": false,
+        "manufacturer": "Land Rover",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10162875,
+        "products": [
+            {
+                "manufacturer": "Land Rover",
+                "productMake": "LAND ROVER",
+                "productModel": "RANGE ROVER",
+                "productYear": "1987",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DT*:  THE CONTACT STATED THAT THERE WAS A STRONG SMELL OF GASOLINE INSIDE THE VEHICLE.  THE VEHICLE WAS TAKEN TO A PRIVATE MECHANIC SHOP, WHERE IT WAS DETERMINED THAT THE BOTTOM OF THE FUEL TANK WAS CORRODED.  THE PRIVATE MECHANIC SHOP WAS ABLE TO REPAIR THE FUEL TANK.  THERE IS A NHTSA RECALL # 95V155000 THAT PERTAINS TO THE GASOLINE STORAGE TANK ASSEMBLY.  THE VEHICLE WAS NOT INCLUDED IN THE RECALL DUE TO THE VIN.  THE MANUFACTURER ACKNOWLEDGE THERE WAS A PROBLEM, BUT REFUSED TO COVER THE REPAIR. UPDATED 07/31/06. *JB",
+        "vin": "SALHV114XHA"
+    },
+    {
+        "components": "VEHICLE SPEED CONTROL",
+        "crash": false,
+        "dateComplaintFiled": "01/22/1999",
+        "dateOfIncident": "01/01/1999",
+        "fire": false,
+        "manufacturer": "Land Rover",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 833970,
+        "products": [
+            {
+                "manufacturer": "Land Rover",
+                "productMake": "LAND ROVER",
+                "productModel": "RANGE ROVER",
+                "productYear": "1987",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE DRIVING AT 60 MPH  VEHICLE TOOK OFF, AND THE CONSUMER COULDN'T STOP  VEHICLE UNTIL VEHICLE SLOWED DOWN ,AND  CONSUMER TURNED THE IGNITION SWITCH OFF AND  VEHICLE CAME TO A STOP.  *AK",
+        "vin": "SALHV1146HA"
+    },
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "08/06/1996",
+        "dateOfIncident": "07/11/1996",
+        "fire": false,
+        "manufacturer": "Land Rover",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 507132,
+        "products": [
+            {
+                "manufacturer": "Land Rover",
+                "productMake": "LAND ROVER",
+                "productModel": "RANGE ROVER",
+                "productYear": "1987",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SPEEDOMETER/ODOMETER/TRIP METER FAILURE.",
+        "vin": "SALHV1148HA"
+    }
+]

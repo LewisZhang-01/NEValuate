@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "02/03/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004553,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "CAMRY",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Bridgestone Americas Tire Operations",
+                "productMake": "BRIDGESTONE",
+                "productModel": "TURANZA ER 30",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "TOYOTA REFUSES TO SATISFY CONSUMERS COMPLAINT ON FAULTY TIRES.  THE TIRES THAT WERE PURCHASED WITH THE VEHICLE HAVE INADEQUATE TRACTION ON SNOW COVERED SURFACES.  CONSUMER DOESN'T' FEEL ANY ONE SHOULD HAVE TO BEAR THE COST OF REPLACING ALL FOUR TIRES FOR WINTER CONDITIONS.  CONSUMER IS SEEKING REIMBURSEMENT OF MONIES PAID FOR THESE REPLACEMENT TIRES.  *JG",
+        "vin": ""
+    }
+]

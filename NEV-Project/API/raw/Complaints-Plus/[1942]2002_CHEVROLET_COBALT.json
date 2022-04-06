@@ -1,0 +1,46 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "11/11/2009",
+        "dateOfIncident": "11/01/2009",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10291868,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "COBALT",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "2005 CHEVROLET COBALT  1. COMPUTER DISPLAYS \"POWER STEERING\" MESSAGE AND VERY DIFFICULT TO STEER VEHICLE.  2. NO STEERING. HAPPENS WITHIN 2-3 MINUTES AFTER EACH IGNITION. VERY DANGEROUS WITH DIFFICULT STEERING.  3. NOT REPAIRED YET. *TR",
+        "vin": "1G1AL52F757"
+    },
+    {
+        "components": "STEERING",
+        "crash": true,
+        "dateComplaintFiled": "10/23/2008",
+        "dateOfIncident": "10/03/2008",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10246522,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "COBALT",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL*THE CONTACT OWNS A 2002 CHEVROLET COBALT.  WHILE DRIVING APPROXIMATELY 22 MPH ON NORMAL ROAD CONDITIONS, THE VEHICLE UNEXPECTEDLY LOST POWER STEERING ABILITY.  THE VEHICLE CRASHED INTO A CEMENT BARRIER AND WAS DAMAGED.  THE POLICE WAS NOT CALLED TO THE SCENE.  THE VEHICLE WAS DRIVEN TO AN AUTHORIZED DEALER, BUT THEY WERE UNABLE TO DETERMINE THE CAUSE OF THE FAILURE.  THE CONTACT WAS CONCERNED OF THE SAFETY RISK INVOLVED.  THE VIN WAS UNKNOWN.  THE FAILURE AND CURRENT MILEAGES WERE 11,624.",
+        "vin": ""
+    }
+]

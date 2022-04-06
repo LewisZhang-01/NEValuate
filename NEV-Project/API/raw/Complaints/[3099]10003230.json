@@ -1,0 +1,31 @@
+[
+    {
+        "components": "STEERING,POWER TRAIN,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "01/22/2003",
+        "dateOfIncident": "01/21/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003230,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "S10",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "DELCO ELECT. DIV., GM",
+                "productMake": "DELCO",
+                "productModel": "DC-27F",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "BALL JOINTS ARE LOOSE WHEN INSTALLED. REPORTED BY DEALER TO BE WITHIN  CHEVY SPECS.  THE SAME PROBLEM WITH THE TIE ROD ENDS. CANT KEEP THE ALIGNMENT RIGHT WITH THIS SPEC. DEALER WILL NOT WARRANTY.",
+        "vin": ""
+    }
+]

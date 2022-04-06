@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "01/30/2003",
+        "dateOfIncident": "01/30/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004938,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "BRONCO",
+                "productYear": "1992",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TAILGATE RUSTS EXCESSIVELY, AND IT IS THE ONLY PART OF THE CAR TO DO SO.",
+        "vin": ""
+    }
+]

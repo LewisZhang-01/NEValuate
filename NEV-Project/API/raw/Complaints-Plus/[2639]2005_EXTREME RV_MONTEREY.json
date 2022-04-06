@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "11/08/2005",
+        "dateOfIncident": "09/01/2005",
+        "fire": false,
+        "manufacturer": "Extreme RV, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10142077,
+        "products": [
+            {
+                "manufacturer": "Extreme RV, LLC",
+                "productMake": "EXTREME RV",
+                "productModel": "MONTEREY",
+                "productYear": "2005",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "NANKANG RUBBER & TIRE CORP.",
+                "productMake": "NANKANG",
+                "productModel": "MISSION",
+                "productYear": "9999",
+                "size": "ST 225/75 R15",
+                "type": "Tire"
+            }
+        ],
+        "summary": "DT:  THE CONTACT  PURCHASED A 2005 MONTEREY BY KICK TRAVEL TRAILER.  ONE OF THE TIRES ON THE FIFTH WHEEL TRAILER BLEW OUT.  UPON INSPECTION IT WAS DETERMINED THAT THE TIRES WERE DATED 2003.  ALSO,  ANOTHER TIRE WAS COMING APART.  THE TIRE DEALER SAID THE REASON FOR THE PROBLEM WAS THE AGE OF THE TIRES.  THE TIRE BRAND NAME IS MISSION.  *AK",
+        "vin": "2XT239X2X52"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE,ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "05/12/2014",
+        "dateOfIncident": "05/12/2014",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10587714,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "GRAND CHEROKEE",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE FUEL LEVEL SENSOR INSIDE THE FUEL TANK IS FAULTY AND FREQUENTLY SHORTS OUT CAUSING THE FUEL LEVEL TO READ ZERO UNTIL A BUMP IN THE ROAD CAUSES THE SENSOR TO START OPERATING AGAIN. THIS INTERMITTENT ELECTRICAL CONDITION MAY CAUSE A TOTAL ELECTRICAL FAILURE WITH THE SENSOR. THIS TYPE FAILURE MAY CAUSE AN ELECTRICAL FIRE WITH THE SENSOR AND IGNITE THE FUEL IN THE TANK. THE SENSOR NEEDS TO BE RECALLED AND THE SENSOR REPLACED.  *TR",
+        "vin": "1J4GZ58S2WC"
+    }
+]

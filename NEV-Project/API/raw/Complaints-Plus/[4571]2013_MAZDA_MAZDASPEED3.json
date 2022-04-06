@@ -1,0 +1,68 @@
+[
+    {
+        "components": "SEATS",
+        "crash": false,
+        "dateComplaintFiled": "12/24/2017",
+        "dateOfIncident": "11/09/2017",
+        "fire": false,
+        "manufacturer": "Mazda Motor Corp.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11056317,
+        "products": [
+            {
+                "manufacturer": "Mazda Motor Corp.",
+                "productMake": "MAZDA",
+                "productModel": "MAZDASPEED3",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE SWING ARM THAT ATTACHES THE DRIVER'S SEAT TO THE LEFT-SIDE SEAT RUNNER UNEXPECTEDLY DETACHED. CLOSE INSPECTION REVEALED THAT THIS WAS CAUSED BY A WELD FAILURE / METAL FATIGUE AT THE POINT WHERE THE ARM WAS WELDED TO THE ROD THAT RUNS BELOW THE CUSHION. THE SEAT IS NOW UNSTABLE AND ROCKS IN AN ALARMING WAY, BOTH WHEN ACCELERATING AND DECELERATING. COPIED FROM AN EXISTING COMPLAINT FOR THE 2010 MODEL YEAR BECAUSE IT IS THE EXACT SAME PROBLEM",
+        "vin": "JM1BL1L30D1"
+    },
+    {
+        "components": "SEATS",
+        "crash": true,
+        "dateComplaintFiled": "07/25/2017",
+        "dateOfIncident": "07/10/2017",
+        "fire": false,
+        "manufacturer": "Mazda Motor Corp.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 2,
+        "odiNumber": 11010462,
+        "products": [
+            {
+                "manufacturer": "Mazda Motor Corp.",
+                "productMake": "MAZDA",
+                "productModel": "MAZDASPEED3",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVER SEAT COLLAPSES BACKWARDS WHEN REAR-ENDED WHILE STATIONARY ON INTERSTATE AND REMAINS FULLY RECLINED AFTER COLLISION. ATTEMPTS TO RETRACT THE SEAT INTO NORMAL DRIVING POSITION IS UNSUCCESSFUL AS THE SEAT NO LONGER LOCKS INTO POSITION. THE ONLY POSITION WHERE THE SEAT LOCKS INTO PLACE IS IN THE FULLY RECLINED POSITION.",
+        "vin": "JM1BL1L31D1"
+    },
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "01/18/2017",
+        "dateOfIncident": "09/01/2016",
+        "fire": false,
+        "manufacturer": "Mazda Motor Corp.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10946264,
+        "products": [
+            {
+                "manufacturer": "Mazda Motor Corp.",
+                "productMake": "MAZDA",
+                "productModel": "MAZDASPEED3",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SUMMARY:  INSUFFICIENT CORROSION PROTECTIVE COATING WAS APPLIED TO THE ENDS OF THE EXTERNAL CYLINDERS OF THE REAR HATCH/LIFT GATE GAS STAY DAMPERS (LIFT SUPPORTS). IF WATER CONTAINING ROAD SALT ENTERS, IT CAN CAUSE CORROSION. OVER TIME, INCREASED CORROSION MAY EVENTUALLY CAUSE IT TO BREAK AS THE REAR HATCH OR LIFT GATE IS OPENED.  SAFETY RISK:  THE REAR HATCH OR LIFT GATE MAY DROP SUDDENLY, AND/OR THE BROKEN PARTS MAY HIT THE CUSTOMER, CAUSING INJURY.",
+        "vin": "JM1BL1L36D1"
+    }
+]

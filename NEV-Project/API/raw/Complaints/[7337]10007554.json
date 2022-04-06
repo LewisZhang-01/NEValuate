@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": true,
+        "dateComplaintFiled": "02/15/2003",
+        "dateOfIncident": "01/31/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10007554,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SEDAN WAS REAR-ENDED RESULTING IN LIMITED FLEXIBLE BUMPER DAMAGE.  SUBSTANTIAL SPINAL DAMAGE TO THE HEALTHY, 22 YEAR OLD DRIVER WHO WAS SECURELY SEAT-BELTED INTO THE DRIVER'S SEAT.  WHAT WAS LACKING IN THE SEAT DESIGN TO PROTECT THE DRIVER FROM SUCH INJURIES?              PH",
+        "vin": "1FAFP33P93W"
+    }
+]

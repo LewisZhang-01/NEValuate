@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION,UNKNOWN OR OTHER",
+        "crash": false,
+        "dateComplaintFiled": "02/07/2003",
+        "dateOfIncident": "02/04/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10005456,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "BLAZER",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VIBRATING AND BUMPY FEELING WHEN WHEN BACKING IN AND OUT OF PARKING AREAS.                PH",
+        "vin": "1GNCS18W71K"
+    }
+]

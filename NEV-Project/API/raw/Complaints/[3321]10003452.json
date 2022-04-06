@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "01/27/2003",
+        "dateOfIncident": "01/24/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10003452,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "WINDSTAR",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "POWER STEERING PUMP, STEERING CONTROL SYSTEM AND RACK DEFECTIVE HAS TO BE REPLCED,   RACK AND PINION WAS REPLACED ALREADY WITH ONLY 30,000 MILES",
+        "vin": "2FMZA5149WB"
+    }
+]

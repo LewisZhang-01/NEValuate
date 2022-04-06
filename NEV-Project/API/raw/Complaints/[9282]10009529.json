@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING,EXTERIOR LIGHTING,SEATS",
+        "crash": false,
+        "dateComplaintFiled": "03/10/2003",
+        "dateOfIncident": "01/02/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009529,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CORVETTE",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE STEERING COLUMN LOCKED UP, THE FRONT HEADLIGHTS DID NOT ELEVATE AND THE DRIVER'S SEAT BACK BROKE.  *DT    *JB  REF. IN EA02-031 *CJS",
+        "vin": ""
+    }
+]

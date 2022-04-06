@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "07/21/2016",
+        "dateOfIncident": "07/16/2016",
+        "fire": false,
+        "manufacturer": "Forest River, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10887414,
+        "products": [
+            {
+                "manufacturer": "Forest River, Inc.",
+                "productMake": "FOREST RIVER",
+                "productModel": "WILDCAT",
+                "productYear": "2014",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "ITG Voma Corporation",
+                "productMake": "GRAND RIDE",
+                "productModel": "POWER TOURING",
+                "productYear": "9999",
+                "size": "ST/235/80/R16",
+                "type": "Tire"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2014 FOREST RIVER WILDCAT MAXX EQUIPPED WITH GRAND RIDE POWER TOURING TIRES, SIZE: ST/235/80/R16. WHILE DRIVING APPROXIMATELY 65 MPH, ONE OF THE TIRES DETACHED FROM THE VEHICLE. THE TIRE WAS REPLACED WITH A SPARE. THE MANUFACTURER WAS MADE AWARE OF THE FAILURE. THE VEHICLE AND TIRE FAILURE MILEAGE WAS 500. THE VIN, DOT NUMBER, AND TIRE LOCATION WERE UNAVAILABLE.",
+        "vin": ""
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "05/28/2003",
+        "dateOfIncident": "04/26/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10021673,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "E-350",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "HUB ASSEMBLY FAILED WHILE DRIVING AND CAUSED TIRE TO COME OFF.     *TT",
+        "vin": "1FBSS31L31H"
+    }
+]

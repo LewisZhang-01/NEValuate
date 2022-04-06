@@ -1,0 +1,24 @@
+[
+    {
+        "components": "VISIBILITY",
+        "crash": false,
+        "dateComplaintFiled": "01/23/2003",
+        "dateOfIncident": "04/12/1999",
+        "fire": false,
+        "manufacturer": "BMW of North America, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10003313,
+        "products": [
+            {
+                "manufacturer": "BMW of North America, LLC",
+                "productMake": "BMW",
+                "productModel": "740IL",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "AMPUTATION OF FINGER IN BMW ELECTRIC WINDOW",
+        "vin": "WBAGJ6325SD"
+    }
+]

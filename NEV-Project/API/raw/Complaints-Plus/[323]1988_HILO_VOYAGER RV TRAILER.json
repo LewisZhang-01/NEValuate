@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "09/15/1998",
+        "dateOfIncident": "05/02/1997",
+        "fire": false,
+        "manufacturer": "HENSCHEN INDUSTRIAL CORP.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 541463,
+        "products": [
+            {
+                "manufacturer": "HENSCHEN INDUSTRIAL CORP.",
+                "productMake": "HILO",
+                "productModel": "VOYAGER RV TRAILER",
+                "productYear": "1988",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FRONT AXLE SHAFT CRACKED WHILE DRIVING LESS THAN 30 MPH. ALSO AIR CONDITIONER FAILED TO OPERATE PROPERLY.",
+        "vin": "2P4FH5132JR"
+    }
+]

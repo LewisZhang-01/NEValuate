@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "12/08/2018",
+        "dateOfIncident": "12/07/2018",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11157014,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "GMC",
+                "productModel": "ACADIA",
+                "productYear": "2009",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "STEERING LOCKS UP WHEN YOU TRY TO MAKE A TURN.   HAS HAPPENED OFTEN OVER A FEW MONTHS.    VEHICLE WAS IN MOTION",
+        "vin": "1GKEV33DX9J"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES,WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "04/23/2019",
+        "dateOfIncident": "04/22/2019",
+        "fire": false,
+        "manufacturer": "Felling Trailers, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11203202,
+        "products": [
+            {
+                "manufacturer": "Felling Trailers, Inc.",
+                "productMake": "FELLING",
+                "productModel": "DROP-DECK",
+                "productYear": "2017",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Trans Texas Tire",
+                "productMake": "TASKMASTER",
+                "productModel": "CONTENDER",
+                "productYear": "9999",
+                "size": "ST235/80R16",
+                "type": "Tire"
+            }
+        ],
+        "summary": "TIRE BLOWOUT. THIS TRAILER IS VERY NEW. A SUDDEN TIRE BLOWOUT OCCURRED WHILE DRIVING AT APPROXIMATELY 60 MILES AN HOUR. THE TIRE INVOLVED IS A CONTENDER TTT868, ST235/80R16, 10PLY, MADE IN CHINA, DOT CODE 53PK E35, AND DATE CODE 0617. THE TIRE HAD NO EXTERNALLY OBSERVED DEFECTS AND WAS PROPERLY INFLATED AND NOT OVERLOADED AT THE TIME OF THE BLOWOUT.",
+        "vin": "5FTBE2226J2"
+    }
+]

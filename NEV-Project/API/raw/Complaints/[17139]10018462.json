@@ -1,0 +1,31 @@
+[
+    {
+        "components": "SUSPENSION,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "05/09/2003",
+        "dateOfIncident": "04/08/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018462,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TAURUS",
+                "productYear": "1996",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "AIR BAG SWITCH",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "I HAD TO REPLACE THE FRONT SWAY BAR LINKS ON MY 1996 FORD TAURUS THREE TIMES OVER THE LAST FIVE YEARS.    *JB",
+        "vin": "1FALP52U7TG"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "03/03/2003",
+        "dateOfIncident": "08/01/1998",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10008874,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CADILLAC",
+                "productModel": "SEVILLE",
+                "productYear": "1994",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE POSITIVE POST OF THE BATTERY WAS CRACKED AND LEAKED ACID.  THE ENTIRE ELECTRICAL POWER SYSTEM HAD FAILED DUE TO THE POSITIVE TERMINAL BOLT CORRODING.   SCC  *JB",
+        "vin": "1G6KS52Y4RU"
+    }
+]

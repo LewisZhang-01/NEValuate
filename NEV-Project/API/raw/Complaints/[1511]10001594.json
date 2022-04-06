@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEATS",
+        "crash": true,
+        "dateComplaintFiled": "12/27/2002",
+        "dateOfIncident": "12/08/2002",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10001594,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "D21",
+                "productYear": "1997",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DURING A  COLLISION AND WITHOUT WARNING DRIVER'S SEAT  FULLY RECLINED BACKWARD CAUSING A DISTRACTION TO CONSUMER. DEALER NOTIFIED. TS....*AK",
+        "vin": "1N6SD16S3VC"
+    }
+]

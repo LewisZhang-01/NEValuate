@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "06/22/2003",
+        "dateOfIncident": "06/20/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10023531,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "GRAND AM",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TURN SIGNALS AND EMERGENCY FLASHERS QUIT WITHOUT WARNING FOR SHORT PERIODS OF TIME. IT HAPPENS BOTH MOVING AND SETTING STILL.   *NLM",
+        "vin": "1G2NF52T0YM"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "05/12/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Coachmen RV Company, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10019586,
+        "products": [
+            {
+                "manufacturer": "Coachmen RV Company, LLC",
+                "productMake": "COACHMEN",
+                "productModel": "LEPRECHAUN",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE STEEL PROD. CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "FIRESTONE",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE VEHICLE HAD FOUR SEPARATE TIRE BLOWOUTS ON THE REAR WHEELS DUE TO THE SIDEWALL CRACKING AND SPLITTING.  THREE BLOWOUTS WERE ON THE INSIDE REAR TIRES AND ONE BLOWOUT ON THE OUTSIDE REAR TIRE.  TIRE INFO:  FIRESTONE LT225/75R16 ORIGINAL 1ST FAILURE- 425 MILES  3RD FAILURE- 7000 MI .  *NLM",
+        "vin": "1FDXE40S5XH"
+    }
+]

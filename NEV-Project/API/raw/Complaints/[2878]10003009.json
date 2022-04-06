@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": true,
+        "dateComplaintFiled": "01/20/2003",
+        "dateOfIncident": "11/23/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10003009,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVER FELT A VIBRATION AND HEARD A LOUD POP THEN THE VEHICLE SWEREVED TO THE RIGHT AND HIT A BRIDGE. AFTER THE ACCIDENT THE VEHICLE WAS INSPECTED AND SHOWED THAT THE LOWER CONTROL ARM HAD BROKEN ON THE RIGHT SIDE.",
+        "vin": "3FAFP3137YR"
+    }
+]

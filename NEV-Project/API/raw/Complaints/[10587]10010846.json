@@ -1,0 +1,31 @@
+[
+    {
+        "components": "VISIBILITY,AIR BAGS,VEHICLE SPEED CONTROL,EQUIPMENT",
+        "crash": true,
+        "dateComplaintFiled": "03/21/2003",
+        "dateOfIncident": "11/18/2002",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10010846,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "PASSAT",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "AIRBAG SYSTEMS, INC.",
+                "productMake": "AIRBAG",
+                "productModel": "SWITCH",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "WINDSHIELD WIPERS DO NOT WORK ON RAINY DAYS MAKING IT DIFFICULT TO SEE OUT THE WINDSHIELD.  A LADY HIT MY CAR ON THE RIGHT SIDE  COLLAPSING THAT SIDE ALONG THE DOORS AND SOME OF THE REAR AND THE AIR BAG DID NOT DEPLOY. I PUT MY FEET ON ACCELERATOR FOR SPEED AND THE CAR REFUSES TO RESPOND. THE MORE I ACCELERATE THE SLOWER THE CAR GOES.   *NLM",
+        "vin": "WVWAC63BX1P"
+    }
+]

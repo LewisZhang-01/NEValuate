@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING",
+        "crash": false,
+        "dateComplaintFiled": "01/08/2003",
+        "dateOfIncident": "11/17/2002",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10000813,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "GL1800",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "MOTORCYCLE CONSISTENTLY OVERHEATS WHEN DRIVING AT 10-15 MPH FOR 3-5 MINUTES. THIS APPEARS TO BE CAUSED BY A COOLING FAN WHICH BLOWS AIR FORWARD INSTEAD OF BACKWARD. WHEN THE COOLING FAN FORWARD AIR SPEED EQUALS THE AMBIENT FRONT-TO-BACK AIRFLOW SPEED, THERE IS A NET ZERO AIRFLOW OVER THE RADIATOR WHICH CAUSES THE MOTORCYCLE TO OVERHEAT.  THIS OVERHEATING COULD CAUSE INJURY IF THE OVERHEATING CAUSES COOLANT TO ESCAPE THROUGH THE VENT TUBE WHICH WOULD EXPEL COOLANT DIRECTLY IN FRONT OF THE REAR TIRE.   *JB",
+        "vin": "1HFSC470X2A"
+    }
+]

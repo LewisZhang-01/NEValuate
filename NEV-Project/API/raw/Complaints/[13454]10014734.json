@@ -1,0 +1,24 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "03/31/2003",
+        "dateOfIncident": "03/30/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10014734,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "FIREBIRD",
+                "productYear": "1978",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE SIDEWALL OF THE TIRES  RIPPED AND BUBBLED UP.  *JB",
+        "vin": ""
+    }
+]

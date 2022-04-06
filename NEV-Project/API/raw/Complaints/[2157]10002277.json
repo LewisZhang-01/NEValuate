@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": false,
+        "dateComplaintFiled": "01/07/2003",
+        "dateOfIncident": "12/30/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10002277,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "PONTIAC",
+                "productModel": "AZTEK",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "FUEL TANK DROPPED PARTIALLY, CAUSING SPARKS. PLEASE PROVIDE ANY ADDITIONAL INFORMATION. TS.  *AK",
+        "vin": "3G7DA03E61S"
+    }
+]

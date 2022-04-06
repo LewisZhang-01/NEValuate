@@ -1,0 +1,31 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "04/03/2003",
+        "dateOfIncident": "03/31/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10013939,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "MALIBU",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Brake Parts Inc.",
+                "productMake": "BRAKE PARTS",
+                "productModel": "DISC BRAKE ROTOR",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "EXCESSIVE BRAKE REPAIR:FRONT AND REAR SINCE VEHICLE WAS PURCHASED ON 9/12/01 TO 3/31/03: BRAKES SERVICED ON 12/14/01-MACHINE FRONT ROTORS AND REAR DRUMS, 3/14/02-REPLACE FRONT BRAKE PADS AND ROTORS MACHINE REAR DRUMS, 8/12/02 R&R REAR DRUMS & MACHINE R&R REAR BRAKE SHOES & LUBE BACKING PLATE, 3/31/03 FRONT BRAKES NEEDED CLEAN AND  ADJUST REAR BRAKES. MILEAGE WAS RESPECTIVELY: 5836, 12450, 21975, 33533. ALL BRAKE WORK DONE BY DEALER. INDEPENDENT BRAKE INSPECTION ON 4/3/03 SHOWS FRONT BRAKES NEEDED  AND 20/1000THS LEFT ON REAR DRUMS. THIS WILL BE THE THIRD SET OF BRAKES PUT ON THIS VEHICLE BEFORE THE MANUFACTURER'S WARRANTY EXPIRES. ALSO REAR DRUMS ARE WITHIN 20/1000THS OF DRUM SPEC DISCARD PRIOR TO MANUFACTURER'S WARRANTY EXPIRATION.",
+        "vin": "1G1ND52J516"
+    }
+]

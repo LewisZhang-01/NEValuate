@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": true,
+        "dateComplaintFiled": "06/23/2003",
+        "dateOfIncident": "06/09/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10023629,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "LEFT FRONT LOWER CONTROL ARM FAILURE RESULTING IN ACCIDENT TOTALING 2000 FORD FOCUS ZX3.   *JB",
+        "vin": "3FAHP3136YR"
+    }
+]

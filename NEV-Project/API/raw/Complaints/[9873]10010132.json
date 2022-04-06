@@ -1,0 +1,24 @@
+[
+    {
+        "components": "FUEL SYSTEM, GASOLINE",
+        "crash": true,
+        "dateComplaintFiled": "03/08/2003",
+        "dateOfIncident": "02/04/2003",
+        "fire": false,
+        "manufacturer": "Yamaha Motor Corporation, USA",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010132,
+        "products": [
+            {
+                "manufacturer": "Yamaha Motor Corporation, USA",
+                "productMake": "YAMAHA",
+                "productModel": "YAMAHA",
+                "productYear": "2003",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "BOILING GAS IN TANKS AND VAPOR LOCK HAS OCCUREDS ON SEVERAL OCCASIONS.   *NLM",
+        "vin": ""
+    }
+]

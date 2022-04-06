@@ -1,0 +1,31 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "02/02/2006",
+        "dateOfIncident": "02/02/2006",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10149314,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "VOLKSWAGEN",
+                "productModel": "GTI",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Robert Bosch, LLC",
+                "productMake": "BOSCH",
+                "productModel": "0204012617",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "ENGINE MISFIRES ON DAMP MORNINGS CREATING SUDDEN LOSS OF ACCELERATION AND INTERMITTENT STALL CONDITION.  MIL LIGHT MAY FLASH BUT DOESN'T REMAIN LIT AFTER EPISODE.  DIAGNOSED AS SECOND COIL FAILURE IN JUST 2 YEARS TOTALING OVER $1,200 IN REPAIRS.  THIS IS THE VR6 ENGINE WITH A SINGLE COIL UNIT - THE \"GOOD\" COIL NOT SUBJECT TO VOLKSWAGEN'S SECRET WARRANTY AS OFFERED ON COILS OF OTHER 2001 MODELS AND ON THE 2002 MODEL OF THE VR6. IT WOULD SEEM THE SECRET WARRANTY MAY HAVE BEEN ARBITRARILY LIMITED IN SCOPE.  *JB",
+        "vin": ""
+    }
+]

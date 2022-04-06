@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STRUCTURE",
+        "crash": false,
+        "dateComplaintFiled": "04/05/2005",
+        "dateOfIncident": "11/18/2004",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10113414,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "WINDSTAR",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHILE THE VEHICLE WAS PARKED, THE REAR LIFTGATE WINDOW SHATTERED TWICE.  *AK   WITH BOTH OCCURRENCES, THE WEATHER WAS MODERATE, PARKED, LOCKED AND UNOCCUPIED, NO KEYS WERE IN THE IGNITION.   *SC",
+        "vin": "2FMDA58401B"
+    }
+]

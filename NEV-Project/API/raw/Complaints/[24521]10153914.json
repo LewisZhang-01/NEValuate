@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "03/28/2006",
+        "dateOfIncident": "03/28/2006",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10153914,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "JEEP",
+                "productModel": "LIBERTY",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DT*:  THE CONTACT STATED THERE IS A RECALL, NHTSA # 03V460000 CONCERNING THE LOWER BALL JOINTS.  HOWEVER, THE RECALL DID NOT CORRECT THE PROBLEM.  THE VEHICLE IS EXPERIENCING THE SAME SYMPTOMS AGAIN.",
+        "vin": "1J4GL48K82W"
+    }
+]

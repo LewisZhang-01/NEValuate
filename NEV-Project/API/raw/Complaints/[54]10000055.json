@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,AIR BAGS,VEHICLE SPEED CONTROL,EQUIPMENT",
+        "crash": true,
+        "dateComplaintFiled": "12/14/2002",
+        "dateOfIncident": "12/05/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 10000055,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "IMPALA",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ELECTRICAL PROBLEMS CAUSING ACCELERATOR TO STICK AND USING CRUISE  CONTROL DOES THE SAME. CAUSING WRECK WITH INJURIES AND NO AIRBAG  DEPLOYMENT UPON IMPACT OF CRASH WITH SPEED OVER 55 MPH TO HEAD ON   INTO TO TREE. COULD NOT STOP CAR EVEN WHEN BRAKES WERE APPLIED AND HAD TO TURN KEY OFF TO STOP CAR FROM BLOWING UP.",
+        "vin": "2G1WF52E819"
+    }
+]

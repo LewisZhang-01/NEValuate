@@ -1,0 +1,32 @@
+[
+    {
+        "components": "PARKING BRAKE,POWER TRAIN,STRUCTURE,TIRES,WHEELS",
+        "crash": false,
+        "dateComplaintFiled": "05/18/2003",
+        "dateOfIncident": "05/18/2002",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018886,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS SVT",
+                "productYear": "2002",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Continental Tire the Americas, LLC",
+                "productMake": "CONTINENTAL",
+                "productModel": "SPORT CONTACT",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "DEFECTIVE TIRE AND RIM  2 BAD CLUTCHES  POOR BODY WORK(CROOKED HOOD)  E BRAKE NOT ABLE TO HOLD ON A HILL!*JB",
+        "vin": "3FAHP39542R"
+    }
+]

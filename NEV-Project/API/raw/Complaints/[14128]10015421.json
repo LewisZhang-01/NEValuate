@@ -1,0 +1,24 @@
+[
+    {
+        "components": "POWER TRAIN",
+        "crash": false,
+        "dateComplaintFiled": "04/08/2003",
+        "dateOfIncident": "12/01/1999",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10015421,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "TAURUS",
+                "productYear": "1996",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "WHEN THE VEHICLE ACCELERATED FROM A STOP, THE TRANSMISSION JERKED INTO GEAR WHICH CAUSED THE VEHICLE TO LURCH FORWARD.  THE SAME ISSUE OCCURRED WHEN THE VEHICLE DECELERATED FROM HIGH SPEED, THE TRANSMISSION DOWN SHIFTED ABRUPTLY.  *JB   PH",
+        "vin": "1FALP57U1TA"
+    }
+]

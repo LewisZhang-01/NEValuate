@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "03/05/2003",
+        "dateOfIncident": "01/25/2002",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10008429,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "IMPALA",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SECONDARY AIR PUMP KEEPS SHORTING AND HAVING TO BE REPLACED. THIS HAS HAPPENED THREE TIMES AND IS SCHEDULED FOR A FOURTH TIME.*JB",
+        "vin": "2G1WF55E5Y9"
+    }
+]

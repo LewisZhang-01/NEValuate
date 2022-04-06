@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "05/02/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10018045,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "EXPEDITION",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Continental Tire the Americas, LLC",
+                "productMake": "CONTINENTAL",
+                "productModel": "GRABBER AW",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE CONSUMER RECEIVED A RECALL NOTICE ON 10/25/02 FROM CONTINENTAL WHICH STATED THAT THERE WAS A RECALL ON THE CONTINENTAL TIRES GENERAL GRABBER AW P275/60R17.  THE CONSUMER HAS NOT RECEIVED REPLACEMENT TIRES BECAUSE THEY ARE ON BACK ORDER.  RECALL #02T012000.    *NLM",
+        "vin": "1FMRU17W11L"
+    }
+]

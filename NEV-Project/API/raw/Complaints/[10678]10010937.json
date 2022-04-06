@@ -1,0 +1,32 @@
+[
+    {
+        "components": "SUSPENSION,TIRES",
+        "crash": false,
+        "dateComplaintFiled": "03/24/2003",
+        "dateOfIncident": "02/21/2003",
+        "fire": false,
+        "manufacturer": "Nissan North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10010937,
+        "products": [
+            {
+                "manufacturer": "Nissan North America, Inc.",
+                "productMake": "NISSAN",
+                "productModel": "350Z",
+                "productYear": "2003",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Bridgestone Americas Tire Operations",
+                "productMake": "BRIDGESTONE",
+                "productModel": "POTENZA",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE CAR HAS TERRIBLE FEATHERING ON THE INSIDE EDGES OF THE FRONT TIRES. PROBLEM STARTED AFTER 7,500 MILES. CONTACT PATCHES ON THE INSIDE TIRE TREAD ARE WEARING UNEVENLY. I HAD THE CAR ALIGNED BY NISSAN ON 2-21-03 AND THE PROBLEM HAS GOTTEN WORSE. THIS REALLY SCARES ME AND COULD LEAD TO UNSAFE DRIVING DUE TO POOR DESIGN AND UNEVEN TREAD ON THE TIRES. THE CAR IS A NISSAN 350Z. RECEIVED IN AUGUST 2002. *JB",
+        "vin": "JN1AZ34E83T"
+    }
+]

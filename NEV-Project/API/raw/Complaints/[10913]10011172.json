@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "03/10/2003",
+        "dateOfIncident": "03/09/2003",
+        "fire": false,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10011172,
+        "products": [
+            {
+                "manufacturer": "Chrysler (FCA US, LLC)",
+                "productMake": "DODGE",
+                "productModel": "M SERIES-MOBILHOME",
+                "productYear": "1979",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "KELLY SPRINGFIELD TIRE CO",
+                "productMake": "KELLY SPRINGFIELD",
+                "productModel": "SPRINGFIELD",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE REAR TIRE EXPERIENCED TREAD SEPARATION.  *JB  THE TIRE REMAINED WITH PROPER AIR PRESSURE AFTER SEPARATION.  (OUTSIDE TEMPERATURE 65 DEGREES)  SCC",
+        "vin": "M50CA9T5031"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION,ENGINE",
+        "crash": false,
+        "dateComplaintFiled": "07/06/2019",
+        "dateOfIncident": "07/05/2019",
+        "fire": false,
+        "manufacturer": "Volkswagen Group of America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11229714,
+        "products": [
+            {
+                "manufacturer": "Volkswagen Group of America, Inc.",
+                "productMake": "AUDI",
+                "productModel": "A8",
+                "productYear": "2013",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SUSPENSION FAILS DURING DRIVING AT HIGH SPEEDS.",
+        "vin": "WAURGAFD4DN"
+    }
+]

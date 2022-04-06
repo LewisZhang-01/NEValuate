@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, ELECTRIC",
+        "crash": false,
+        "dateComplaintFiled": "06/19/2003",
+        "dateOfIncident": "06/12/2003",
+        "fire": false,
+        "manufacturer": "Winnebago Industries, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10023384,
+        "products": [
+            {
+                "manufacturer": "Winnebago Industries, Inc.",
+                "productMake": "WINNEBAGO",
+                "productModel": "ADVENTURER",
+                "productYear": "1995",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "ELECTRIC AUTO BRAKE SYSTEM FAILURE.  GM PART NUMBER 15961565.  *NLM",
+        "vin": "1GBLP37N8S3"
+    }
+]

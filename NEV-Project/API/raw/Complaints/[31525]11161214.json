@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "12/13/2018",
+        "dateOfIncident": "12/10/2018",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 11161214,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "MALIBU",
+                "productYear": "2012",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TL* THE CONTACT OWNS A 2012 CHEVROLET MALIBU. WHILE OPERATING THE VEHICLE, THE POWER STEERING SUDDENLY MALFUNCTIONED AND THE STEERING WHEEL BECAME VERY DIFFICULT TO TURN IN EITHER DIRECTION. ALSO, THE MESSAGE \"POWER STEERING ASSIST FAILURE\" WAS DISPLAYED. THE VEHICLE WAS NOT DIAGNOSED OR REPAIRED. THE MANUFACTURER AND LOCAL DEALER WERE NOT NOTIFIED OF THE FAILURE. THE FAILURE MILEAGE WAS 90,000.",
+        "vin": "1G1ZC5E07CF"
+    }
+]

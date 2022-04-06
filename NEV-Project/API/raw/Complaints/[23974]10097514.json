@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "10/22/2004",
+        "dateOfIncident": "10/12/2004",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10097514,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "CAVALIER",
+                "productYear": "2001",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE WAS INVOLVED IN A FRONTAL COLLISION AT 30 MPH IMPACT WITH ANOTHER VEHICLE, AND BOTH FRONTAL AIR BAGS FAILED TO DEPLOY.  DEALER WAS NOT NOTIFIED.  *AK",
+        "vin": "1G1JF524917"
+    }
+]

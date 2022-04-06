@@ -1,0 +1,24 @@
+[
+    {
+        "components": "STEERING",
+        "crash": false,
+        "dateComplaintFiled": "03/07/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009447,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "VENTURE",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "VEHICLE EXPERIENCED POWER STEERING FAILURE.  HE DID NOT RECEIVE A RECALL NOTICE CONCERNING THE STEERING.  THE DEALER TOLD HIM THAT HIS VEHICLE IS NOT IN THE RECALL SCOPE, EVEN THOUGHT IT HAS THE EXACT PROBLEM.",
+        "vin": "1GNDX03EXWD"
+    }
+]

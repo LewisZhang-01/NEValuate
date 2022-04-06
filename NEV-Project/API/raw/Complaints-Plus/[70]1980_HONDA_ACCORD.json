@@ -1,0 +1,46 @@
+[
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "09/19/1996",
+        "dateOfIncident": "07/11/1995",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 802699,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "ACCORD",
+                "productYear": "1980",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "PURCHASED THE CAR NEW,   THE AIR CONDITIONER FAILED,  TOOK TO DEALER  ON FOUR OCCASIONS,  STILL CAN'T FIND THE PROBLEM . PLEASE DESCRIBE .*AK   *SLC",
+        "vin": ""
+    },
+    {
+        "components": "LATCHES/LOCKS/LINKAGES",
+        "crash": true,
+        "dateComplaintFiled": "03/11/1996",
+        "dateOfIncident": "03/18/1995",
+        "fire": false,
+        "manufacturer": "Honda (American Honda Motor Co.)",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 1,
+        "odiNumber": 502356,
+        "products": [
+            {
+                "manufacturer": "Honda (American Honda Motor Co.)",
+                "productMake": "HONDA",
+                "productModel": "ACCORD",
+                "productYear": "1980",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DOOR LATCH ASSEMBLY FAILED, ALLOWING PERSON TO BE EJECTED FROM VEHICLE IN ACCIDENT, CAUSING INJURY. *DH",
+        "vin": ""
+    }
+]

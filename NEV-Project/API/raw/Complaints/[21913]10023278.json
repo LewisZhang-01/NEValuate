@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "06/17/2003",
+        "dateOfIncident": "06/05/2003",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10023278,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SUBURBAN",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "FIRESTONE TIRE & RUBBER CO.",
+                "productMake": "FIRESTONE",
+                "productModel": "STEELTEX R4S",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "DRIVING 2001 CHEVY SUBURBAN WHEN LEFT REAR ORIGINAL EQUIPMENT FIRESTONE STEELTEX RADIAL R4S SEPARATED AND DAMAGED THE TRUCK . BODY DAMAGE TO TRUCK REAR FENDER . RIGHT REAR TIRE HAS CRACK AROUND TREAD LIKE FIRESTONE WILDERNESS,.  *JB",
+        "vin": ""
+    }
+]

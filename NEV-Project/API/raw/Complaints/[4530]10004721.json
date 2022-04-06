@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SUSPENSION",
+        "crash": false,
+        "dateComplaintFiled": "02/03/2003",
+        "dateOfIncident": "02/07/2000",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10004721,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "FOCUS",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE VEHICLE HAD A SUSPENSION PROBLEM, (POSSIBLY A LOOSE BOLT) WHICH CAUSED THE WHEEL ON THE PASSENGER SIDE TO BECOME OUT OF ALIGNMENT.*JB",
+        "vin": "3FAFP3131YR"
+    }
+]

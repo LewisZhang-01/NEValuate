@@ -1,0 +1,24 @@
+[
+    {
+        "components": "AIR BAGS,SERVICE BRAKES",
+        "crash": true,
+        "dateComplaintFiled": "02/01/2017",
+        "dateOfIncident": "04/23/2016",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10948914,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "PRIUS",
+                "productYear": "2006",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "TRAVELLING 30-35 MPH. TRIED TO STOP-BRAKE PEDAL WENT TO THE FLOOR AND CAR ACCELERATED. HIT A STEEL SIGN WHICH TOTALLED THE CAR. AIRBAGS FAILED TO ACTVATE EVEN THOUGH THE FORCE OF HITTING THE SIGN DROVE THE ENGINE BACK TO THE DASHBOARD.CITY STREET.",
+        "vin": "JTDKB2OU563"
+    }
+]

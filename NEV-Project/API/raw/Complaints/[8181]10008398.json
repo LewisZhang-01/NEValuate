@@ -1,0 +1,24 @@
+[
+    {
+        "components": "ENGINE AND ENGINE COOLING,ELECTRICAL SYSTEM",
+        "crash": false,
+        "dateComplaintFiled": "03/04/2003",
+        "dateOfIncident": "03/04/2003",
+        "fire": false,
+        "manufacturer": "Ford Motor Company",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10008398,
+        "products": [
+            {
+                "manufacturer": "Ford Motor Company",
+                "productMake": "FORD",
+                "productModel": "F-150",
+                "productYear": "2000",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "SPARK PLUG BLEW OUT OF #3 CYLINDER 2000 FORD LIGHTNING PICKUP 37,500 MILES.   *NLM",
+        "vin": ""
+    }
+]

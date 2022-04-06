@@ -1,0 +1,32 @@
+[
+    {
+        "components": "TIRES",
+        "crash": false,
+        "dateComplaintFiled": "03/25/2003",
+        "dateOfIncident": "11/04/2002",
+        "fire": false,
+        "manufacturer": "Toyota Motor Corporation",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009888,
+        "products": [
+            {
+                "manufacturer": "Toyota Motor Corporation",
+                "productMake": "TOYOTA",
+                "productModel": "PRIUS",
+                "productYear": "2001",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "UNKNOWN MANUFACTURER",
+                "productMake": "UNKNOWN",
+                "productModel": "UNKNOWN",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "THE CONSUMER EXPERIENCED A FLAT TIRE.  THE CONSUMER NOTICED THE TIRE WAS WORN BADLY ON THE INSIDE.  THE MANUFACTURER OFFERED A SUPPLEMENTAL TIRE WARRANTY, IN WHICH THE CONSUMER DID QUALIFY, DUE TO THE FACT THE TIRES WEREN'T ROTATED.  SCC",
+        "vin": ""
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "components": "ELECTRICAL SYSTEM,TIRES",
+        "crash": false,
+        "dateComplaintFiled": "10/20/2003",
+        "dateOfIncident": "09/01/2003",
+        "fire": false,
+        "manufacturer": "OVERLAND MOTOR COACH",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10040211,
+        "products": [
+            {
+                "manufacturer": "OVERLAND MOTOR COACH",
+                "productMake": "OVERLAND",
+                "productModel": "LORADO",
+                "productYear": "2000",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "MICHELIN TIRE CORP.",
+                "productMake": "MICHELIN",
+                "productModel": "XRV",
+                "productYear": "9999",
+                "size": null,
+                "type": "Tire"
+            }
+        ],
+        "summary": "WHILE DRIVING  FRONT TIRE BLEW OUT WITHOUT WARNING, CAUSING SEVERE DAMAGE TO THE FRONT END. *AK            THE VEHICLE EXPERIENCED TIRE BLOWOUTS ON TWO SEPARATE OCCASIONS.  THE TIRES CAUSED CONSIDERABLE DAMAGE THE MOTORHOME LEFT REAR WHEEL WELL.  THE CONSUMER LOOKED AT THE STEEL ON SIDEWALLS AND IT APPEARED THAT THEY WERE RUSTED.  AFTER THE SECOND TIRE FAILURE THE CONSUMER REPLACED ALL THE MICHELIN TIRES.   THE GENERATOR FELL OFF THE MOTORHOME DUE TO FAULTY GENSET.  *TS   *NLM",
+        "vin": "4UZ6XJCA4YC"
+    }
+]

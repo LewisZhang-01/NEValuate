@@ -1,0 +1,31 @@
+[
+    {
+        "components": "EQUIPMENT",
+        "crash": false,
+        "dateComplaintFiled": "12/03/2015",
+        "dateOfIncident": "11/29/2015",
+        "fire": false,
+        "manufacturer": "General Motors, LLC",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10808114,
+        "products": [
+            {
+                "manufacturer": "General Motors, LLC",
+                "productMake": "CHEVROLET",
+                "productModel": "SILVERADO 1500",
+                "productYear": "2004",
+                "type": "Vehicle"
+            },
+            {
+                "manufacturer": "Brake Parts Inc.",
+                "productMake": "BRAKE PARTS",
+                "productModel": "GM AC DELCO 18M870",
+                "productYear": "9999",
+                "type": "Equipment"
+            }
+        ],
+        "summary": "2004 SILVERADO  CORRODE BRAKE LINES.  ONE BROKE WHILE DRIVING.  NO ACCIDENT.  ALL LINE CORRODED.  SEEMS LIKE A SAFETY NOTICE SHOULD BE SENT TO OWNERS, MY FAMILY COULD HAVE BEEN HURT.  GM PUT CHEAP PARTS IN, OTHER MANUFACTURES ARE NOT HAVING THIS PROBLEM.  SEEMS LIKE A BIG PUBLIC SAFETY CONCERN AND IT WILL GET WORSE AS THE 2004-2007 LINE START BREAKING.",
+        "vin": "1GCEC19X34Z"
+    }
+]

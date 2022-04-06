@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SERVICE BRAKES, HYDRAULIC,AIR BAGS",
+        "crash": true,
+        "dateComplaintFiled": "02/21/2003",
+        "dateOfIncident": null,
+        "fire": false,
+        "manufacturer": "Mitsubishi Motors North America, Inc.",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10009032,
+        "products": [
+            {
+                "manufacturer": "Mitsubishi Motors North America, Inc.",
+                "productMake": "MITSUBISHI",
+                "productModel": "GALANT",
+                "productYear": "2002",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "THE BRAKES FAILED TO STOP THE VEHICLE, WHICH RESULTED IN A COLLISION, AND THE AIR BAGS FAILED TO DEPLOY.*JB",
+        "vin": ""
+    }
+]

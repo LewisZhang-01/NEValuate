@@ -1,0 +1,24 @@
+[
+    {
+        "components": "SEAT BELTS",
+        "crash": false,
+        "dateComplaintFiled": "04/10/2001",
+        "dateOfIncident": "04/09/2001",
+        "fire": false,
+        "manufacturer": "Kia Motors America",
+        "numberOfDeaths": 0,
+        "numberOfInjuries": 0,
+        "odiNumber": 10006445,
+        "products": [
+            {
+                "manufacturer": "Kia Motors America",
+                "productMake": "KIA",
+                "productModel": "SPORTAGE",
+                "productYear": "1998",
+                "type": "Vehicle"
+            }
+        ],
+        "summary": "DRIVER'S SIDE FRONT SEAT BELT LATCH DOES NOT HOLD, CAUSING SEAT BELT TO POP OPEN WHILE DRIVING.  *SCC       ***DIMSII IVOQ ENTRY POSTED AFTER 12/12/02 CUT-OVER TO ARTEMIS****743827",
+        "vin": "KNDJA7237W5"
+    }
+]
