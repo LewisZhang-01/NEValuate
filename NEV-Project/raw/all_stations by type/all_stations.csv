@@ -1,0 +1,50 @@
+ U.S. Public and Private Alternative Fueling Stations by Fuel Type ,,,,,,,,,
+ Year , Biodiesel** , CNG , Electric* , Ethanol (E85) , Hydrogen , LNG , Methanol (M85) , Propane , Total*** 
+1992,, 349 ,, 2 ,,, 43 ," 3,297 "," 3,691 "
+1993,, 497 ,, 7 ,,, 50 ," 3,297 "," 3,851 "
+1994,," 1,042 ",, 32 ,,, 82 ," 3,299 "," 4,455 "
+1995,," 1,065 ", 188 , 37 ,,, 88 ," 3,299 "," 4,677 "
+1996,," 1,419 ", 194 , 68 ,, 72 , 95 ," 4,252 "," 6,100 "
+1997,," 1,426 ", 310 , 71 ,, 71 , 106 ," 4,255 "," 6,239 "
+1998,," 1,268 ", 486 , 40 ,, 66 , 91 ," 5,318 "," 7,269 "
+1999,," 1,267 ", 490 , 49 ,, 46 , 51 ," 4,153 "," 6,056 "
+2000, 2 ," 1,217 ", 558 , 113 ,, 44 , 3 ," 3,268 "," 5,205 "
+2001, 16 ," 1,232 ", 693 , 154 ,, 44 ,," 3,403 "," 5,542 "
+2002, 79 ," 1,166 ", 873 , 149 , 7 , 36 ,," 3,431 "," 5,741 "
+2003, 142 ," 1,035 ", 830 , 188 , 7 , 62 ,," 3,966 "," 6,230 "
+2004, 176 , 917 , 671 , 200 , 9 , 58 ,," 3,689 "," 5,720 "
+2005, 304 , 787 , 588 , 436 , 14 , 40 ,," 2,995 "," 5,164 "
+2006, 459 , 732 , 465 , 762 , 17 , 37 ,," 2,619 "," 5,091 "
+2007, 805 , 731 , 432 ," 1,325 ", 33 , 35 ,," 2,331 "," 5,692 "
+2008, 633 , 771 , 440 ," 1,699 ", 51 , 38 ,," 2,110 "," 5,742 "
+2009, 660 , 803 , 484 ," 1,982 ", 63 , 37 ,," 2,420 "," 6,449 "
+2010, 615 , 869 , 626 ," 2,296 ", 58 , 43 ,," 2,604 "," 7,111 "
+2011, 633 , 941 ," 2,100 "," 2,494 ", 56 , 43 ,," 2,551 "," 8,818 "
+2012, 690 ," 1,155 "," 6,200 "," 2,519 ", 58 , 61 ,," 2,644 "," 13,327 "
+2013, 832 ," 1,290 "," 8,100 "," 2,616 ", 53 , 84 ,," 2,967 "," 15,942 "
+2014, 783 ," 1,495 "," 10,712 "," 2,840 ", 51 , 103 ,," 2,931 "," 18,915 "
+2015, 713 ," 1,607 "," 13,696 "," 3,012 ", 35 , 117 ,," 3,749 "," 22,929 "
+2016, 716 ," 1,730 "," 17,723 "," 3,095 ", 58 , 140 ,," 3,654 "," 27,116 "
+2017, 704 ," 1,682 "," 19,792 "," 3,379 ", 63 , 137 ,," 3,510 "," 29,267 "
+2018, 680 ," 1,621 "," 22,826 "," 3,627 ", 62 , 129 ,," 3,319 "," 32,264 "
+2019, 611 ," 1,576 "," 26,959 "," 3,786 ", 64 , 118 ,," 3,176 "," 36,290 "
+2020, 712 ," 1,549 "," 31,738 "," 3,946 ", 63 , 106 ,," 2,956 "," 41,070 "
+2021, 730 ," 1,510 "," 50,054 "," 4,331 ", 67 , 103 ,," 2,805 "," 59,600 "
+,,,,,,,,,
+Data Source:,,,,,,,,,
+Alternative Fuels Data Center (afdc.energy.gov/stations/states) and Transportation Energy Data Book (tedb.ornl.gov),,,,,,,,,
+,,,,,,,,,
+Notes:,,,,,,,,,
+"Starting in 2007, data snapshots were taken each year in December as close to the end of the year as possible. Before 2007, data snapshots were based on the federal fiscal year and taken in September as close as possible to the end of the month.",,,,,,,,,
+"* Between 2011 and 2013, the electric vehicle charging counts are an estimate of the number of geographic locations (i.e., station locations) based the number of electric vehicle supply equipment (EVSE) ports because data was not captured in these years about the number of stations. See the U.S. Electric Vehicle Charging Infrastructure graph (afdc.energy.gov/data/10964) for counts of both EVSE ports and station locations.",,,,,,,,,
+** Stations selling low-level biodiesel blends (less than B20) are included in the station counts between 2005 and 2007.,,,,,,,,,
+*** Total is the total number of fuel types sold at stations. Stations are counted once for each type of fuel sold.,,,,,,,,,
+,,,,,,,,,
+Acronyms and Abbreviations:,,,,,,,,,
+CNG: compressed natural gas,,,,,,,,,
+"E85: 85% ethanol, 15% gasoline",,,,,,,,,
+LNG: liquefied natural gas,,,,,,,,,
+"M85: 85% methanol, 15% gasoline",,,,,,,,,
+,,,,,,,,,
+Worksheet available at afdc.energy.gov/data,,,,,,,,,
+Last updated January 2022,,,,,,,,,
