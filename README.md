@@ -17,39 +17,27 @@ In this project, we will look at whether new energy vehicles will dominate the f
 
 For this project then, we will use two sources of data: Obtain dataset from portals & collection. Use existing dataset by the United States official government website and vehicle safety data on National Highway Traffic Safety Administration through API. We will use these datasets to explore the following research questions.
 
-RQ1: How social environment influences the development of NEV in the United States?
+1. **How social environment influences the development of NEV in the United States?**
+   <br>We will analyse how it affects the sales of new energy vehicles in the United States from four aspects:</br>
+   * GDP
+   * Income per capita 
+   * Tax policy
+   * Climate
+   <br>Analyze the correlation between them to find out which factor has the most influence on the NEV developments.</br>
 
-We will analyse how it affects the sales of new energy vehicles in the United States from four aspects:
+2. **What are the advantages of new energy vehicles compared to traditional vehicles?**
+   <br>We will find out new energy vehicles’ advantages by compared with traditional vehicles from a few different perspectives:</br>
+   * Compare of number/distribution of energy supply stations 
+   * Performance of vehicles
+      * Quality-price ratio (engine size vs. price) 
+      * Gas emission
+      * Value retention
 
-• GDP
-
-• Income per capita • Tax policy
-
-• Climate
-
-Analyze the correlation between them to find out which factor has the most influence on the NEV developments.
-
-RQ2: What are the advantages of new energy vehicles compared to traditional vehicles?
-
-We will find out new energy vehicles’ advantages by compared with traditional vehicles from a few different perspectives:
-
-• Compare of number/distribution of energy supply stations 
-
-• Performance of vehicles
-
-    – Quality-price ratio (engine size vs. price) 
-    – Gas emission
-    – Value retention
-
-RQ3: How to find the safest vehicle in both new energy and traditional vehicle?
-
-Analyze the safety of new energy vehicles from the following three aspects:
-
-• Complaints – Judge on the number of broken components by different fuel types and whether they were caused by crashes.
-
-• Recalls – Judge by the date between the release of the recall and the model year and the recall frequency.
-
-• Ratings – Judge by the collision rating results for different makers and models.
+3. **How to find the safest vehicle in both new energy and traditional vehicle?**
+   <br>Analyze the safety of new energy vehicles from the following three aspects:</br>
+   * Complaints – Judge on the number of broken components by different fuel types and whether they were caused by crashes.
+   * Recalls – Judge by the date between the release of the recall and the model year and the recall frequency.
+   * Ratings – Judge by the collision rating results for different makers and models.
 
 ## Additional info  
 For more infomation about this project, please check this project report: [NEValuate](https://github.com/LewisZhang-01/NEV-Project/blob/master/NEValuate_Final_Report.pdf)
