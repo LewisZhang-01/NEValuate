@@ -1,6 +1,6 @@
 # NEValuate - New Energy Vehicle Evaluation
 <div align="center">    
-   <img src="https://github.com/LewisZhang-01/NEV-Project/blob/master/NEValuate_Cover_Photo.jpg" width = 660 height = 447>
+   <img src="https://github.com/LewisZhang-01/NEValuate/blob/master/NEValuate_Cover_Photo.jpg" width = 660 height = 447>
    
   <br>[![](https://img.shields.io/badge/author-ZhiZhang-red "author")](https://github.com/LewisZhang-01/)
   ![](https://img.shields.io/badge/dynamic/json?label=GitHub%20Followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DLewisZhang-01&labelColor=282c34&color=181717&logo=github&longCache=true "followers")
@@ -41,7 +41,7 @@ For this project then, we will use two sources of data: Obtain dataset from port
    * Ratings – Judge by the collision rating results for different makers and models.
 
 ## Additional info  
-For more infomation about this project, please check this project report: [NEValuate](https://github.com/LewisZhang-01/NEV-Project/blob/master/NEValuate_Final_Report.pdf)
+For more infomation about this project, please check this project report: [NEValuate](https://github.com/LewisZhang-01/NEValuate/blob/master/NEValuate_Final_Report.pdf)
 
 ## Author info
 Author Name: Zhi Zhang, Han Lin.
@@ -50,4 +50,4 @@ Email:
 * @Zhi - lewiszhang01@gmail.com <br>
 * @Han - han.lin@ucdconnect.ie <br> 
       
-Project Link: [https://github.com/LewisZhang-01/NEV-Project](https://github.com/LewisZhang-01/NEV-Project)
+Project Link: [https://github.com/LewisZhang-01/NEValuate](https://github.com/LewisZhang-01/NEValuate)
