@@ -23,7 +23,8 @@ For this project then, we will use two sources of data: Obtain dataset from port
    * Income per capita 
    * Tax policy
    * Climate
-   <br>Analyze the correlation between them to find out which factor has the most influence on the NEV developments.</br>
+   
+   Analyze the correlation between them to find out which factor has the most influence on the NEV developments.
 
 2. **What are the advantages of new energy vehicles compared to traditional vehicles?**
    <br>We will find out new energy vehicles’ advantages by compared with traditional vehicles from a few different perspectives:</br>
