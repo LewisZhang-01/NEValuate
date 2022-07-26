@@ -40,10 +40,10 @@ For this project then, we will use two sources of data: Obtain dataset from port
    * Recalls – Judge by the date between the release of the recall and the model year and the recall frequency.
    * Ratings – Judge by the collision rating results for different makers and models.
 
-## Additional info  
+## Additional Info - Research Report  
 For more infomation about this project, please check this project report: [NEValuate](https://github.com/LewisZhang-01/NEValuate/blob/master/NEValuate_Final_Report.pdf)
 
-## Author info
+## Author Info
 Author Name: Zhi Zhang, Han Lin.
 
 Email: 
